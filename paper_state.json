@@ -1,5 +1,5 @@
 {
-  "bankroll": 1158.7380952380954,
+  "bankroll": 1165.149880952381,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -50,6 +50,51 @@
       "timestamp": 1786646556.4215474,
       "bankroll": 1158.74,
       "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1786646674.0284283,
+      "bankroll": 1155.76,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646674.5291197,
+      "bankroll": 1151.71,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646674.7293968,
+      "bankroll": 1150.33,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646675.4303613,
+      "bankroll": 1153.15,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646675.8415818,
+      "bankroll": 1154.18,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646676.7428343,
+      "bankroll": 1154.61,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646677.8443582,
+      "bankroll": 1164.62,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646679.1768343,
+      "bankroll": 1163.41,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786646679.599045,
+      "bankroll": 1165.15,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports - Map 2 Winner"
     }
   ]
 }

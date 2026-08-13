@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 13:43:00 (hora de Perú)
+Actualizado: 2026-08-13 13:45:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,158.74
-**Retorno acumulado:** +15.87%
-**Peor caída desde un máximo (drawdown):** 10.59%
+**Bankroll actual:** $1,165.15
+**Retorno acumulado:** +16.51%
+**Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 4
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,11 +15,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 0 | 2 | +296.03 USD |
+| ferrariChampions2026 | 5 | 5 | 94 | +6.41 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
-| ferrariChampions2026 | 0 | 1 | 103 | +0.00 USD |
 | RN1 | 0 | 0 | 48 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 40 | +0.00 USD |
+| swisstony | 0 | 0 | 41 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-13-spread-away-1pt5 | swisstony, wr0ngw4yb3tt0r |
 | mlb-sea-nyy-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
+| uel-ucr-kps-2026-08-13-total-3pt5 | RN1, swisstony |
 | uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-gor1-ftc-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
@@ -56,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 76% | 1.36 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
 | swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ⏳ pendiente | — |
@@ -85,4 +87,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Universitatea Craiova CS vs. Kuopion PS: | Over (BUY) | 64% | 0.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will KF Víkingur win on 2026-08-13? | Yes (BUY) | 34% | 0.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Páfos FC vs. FC Red Bull Salzburg: O/U 5 | Under (BUY) | 72% | 0.00 | 0.2% | ⏳ pendiente | — |
