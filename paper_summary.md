@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 02:15:05 (hora de Perú)
+Actualizado: 2026-08-13 02:17:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $584.01
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 4 | +132.53 USD |
+| BBQChickenisthebesttt | 31 | 27 | 5 | +132.53 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -490,11 +490,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-cin-cws-2026-08-12-spread-home-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cin-cws-2026-08-12-total-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
+| lol-wb-nip-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 58% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas ( | Ninjas in Pyjamas (BUY) | 52% | 10.21 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
@@ -524,4 +526,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
-| Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
