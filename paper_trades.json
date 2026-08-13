@@ -5932,5 +5932,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786648941.2945988,
     "fills": 1
+  },
+  {
+    "timestamp": 1786649175,
+    "timestamp_added": 1786649175.635671,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-she1-aja-2026-08-13-spread-away-1pt5",
+    "title": "Spread: AFC Ajax (-1.5)",
+    "outcome": "AFC Ajax",
+    "side": "BUY",
+    "whale_usd": 616.66,
+    "whale_pct": 0.274,
+    "whale_value_at_open": 225428.8375,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786649175.63568,
+    "fills": 1
   }
 ]

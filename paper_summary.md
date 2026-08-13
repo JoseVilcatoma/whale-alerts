@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 14:24:41 (hora de Perú)
+Actualizado: 2026-08-13 14:26:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,248.14
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
-|  | 0 | 0 | 2 | +0.00 USD |
+|  | 0 | 0 | 3 | +0.00 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -63,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Al Shabab Saudi Club win on 2026-08 | No (BUY) | 84% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Blackburn Rovers FC win on 2026-08- | No (BUY) | 85% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ⏳ pendiente | — |
-| swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
