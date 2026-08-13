@@ -1,5 +1,5 @@
 {
-  "bankroll": 578.9044096137877,
+  "bankroll": 578.0844096137877,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18610,6 +18610,11 @@
       "timestamp": 1786585530.1754642,
       "bankroll": 578.9,
       "event": "lost: HomeRunHazard \u2014 New York Mets vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1786585720.5692706,
+      "bankroll": 578.08,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Miami Marlins (-2.5)"
     }
   ]
 }

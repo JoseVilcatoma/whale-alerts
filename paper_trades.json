@@ -80470,8 +80470,8 @@
     "whale_pct": 0.128,
     "paper_stake_usd": 0.82,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786578514.4097066,
@@ -82061,6 +82061,28 @@
     ],
     "recortado_por_bankroll": false,
     "last_fill_at": 1786585467.9417193,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786585688,
+    "timestamp_added": 1786585688.4934552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-cru-fla-2026-08-12-draw",
+    "title": "Will Cruzeiro EC vs. CR Flamengo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 606.492111,
+    "whale_pct": 0.108,
+    "paper_stake_usd": 0.62,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786585688.4934633,
     "fills": 1
   }
 ]
