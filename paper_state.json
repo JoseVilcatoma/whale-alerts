@@ -1,5 +1,5 @@
 {
-  "bankroll": 558.0498356670171,
+  "bankroll": 610.5443970705257,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19625,6 +19625,21 @@
       "timestamp": 1786597078.792875,
       "bankroll": 558.05,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Golden State Valkyries (-9.5)"
+    },
+    {
+      "timestamp": 1786597325.7063746,
+      "bankroll": 582.8,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786597325.8065298,
+      "bankroll": 606.13,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786597333.7479851,
+      "bankroll": 610.54,
+      "event": "won: ferrariChampions2026 \u2014 Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5"
     }
   ]
 }

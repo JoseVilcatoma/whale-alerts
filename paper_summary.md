@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 00:00:16 (hora de Perú)
+Actualizado: 2026-08-13 00:02:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $558.05
-**Retorno acumulado:** -44.20%
+**Bankroll actual:** $610.54
+**Retorno acumulado:** -38.95%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -52,11 +52,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 245 | 131 | 1 | -26.42 USD |
 | swisstony | 184 | 122 | 7 | -27.76 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
+| ferrariChampions2026 | 684 | 512 | 81 | -42.54 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 681 | 512 | 84 | -95.03 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -520,7 +520,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 61% | 0.63 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-12? | No (BUY) | 90% | 1.42 | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 67% | 0.99 | ⏳ pendiente | — |
-| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 50% | 4.41 | ⏳ pendiente | — |
+| ferrariChampions2026 | Kansas City Royals vs. Los Angeles Dodge | Under (BUY) | 50% | 4.41 | ✅ ganada | +4.41 |
 | ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 46% | 1.03 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 47% | 1.26 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 48% | 1.71 | ⏳ pendiente | — |
