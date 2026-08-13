@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.25241784008387,
+  "bankroll": 514.4509323285984,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18720,6 +18720,41 @@
       "timestamp": 1786586343.5497901,
       "bankroll": 491.25,
       "event": "won: ferrariChampions2026 \u2014 Red Bull Bragantino vs. CA Mineiro: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586398.3174262,
+      "bankroll": 489.81,
+      "event": "lost: ferrariChampions2026 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 0.5"
+    },
+    {
+      "timestamp": 1786586398.718123,
+      "bankroll": 490.61,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 0.5"
+    },
+    {
+      "timestamp": 1786586399.8199778,
+      "bankroll": 491.77,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 0.5"
+    },
+    {
+      "timestamp": 1786586399.920111,
+      "bankroll": 492.76,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 0.5"
+    },
+    {
+      "timestamp": 1786586457.6405673,
+      "bankroll": 495.08,
+      "event": "won: RN1 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786586457.7407153,
+      "bankroll": 515.41,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786586469.9531887,
+      "bankroll": 514.45,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 7.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:59:17 (hora de Perú)
+Actualizado: 2026-08-12 21:01:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $491.25
-**Retorno acumulado:** -50.87%
+**Bankroll actual:** $514.45
+**Retorno acumulado:** -48.55%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| HomeRunHazard | 120 | 103 | 16 | +9.41 USD |
+| HomeRunHazard | 120 | 104 | 15 | +8.45 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 256 | 157 | 8 | +1.26 USD |
@@ -49,13 +49,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 207 | 116 | 53 | -39.26 USD |
+| RN1 | 211 | 116 | 49 | -33.99 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | 1winstreak1 | 118 | 97 | 10 | -69.55 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
+| ferrariChampions2026 | 651 | 488 | 32 | -88.14 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 650 | 487 | 34 | -107.03 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -502,7 +502,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Cruzeiro EC vs. CR Flamengo: O/U 1.5 | Under (BUY) | 67% | 0.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 40% | 2.23 | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 48% | 1.49 | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 73% | 0.96 | ❌ perdida | -0.96 |
 | RN1 | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 59% | 2.75 | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Seattle Mariners (BUY) | 60% | 3.24 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 40% | 2.33 | ⏳ pendiente | — |
