@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 10:17:45 (hora de Perú)
+Actualizado: 2026-08-13 10:19:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **46**  ($2,847,730 en total)
-- Resueltas: **33** — 21 ganadas / 12 perdidas (**64%** de acierto)
-- Pendientes: 13
+- Resueltas: **34** — 21 ganadas / 13 perdidas (**62%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 22
 
 ### Balance
 
-- **Resultado de los apostadores: +$244,558** sobre $2,359,109 apostados (ROI **+10.4%**)
-- Copiando $100 fijo en cada una: **+$320** sobre $3,000 (ROI **+10.7%**)
+- **Resultado de los apostadores: +$204,558** sobre $2,399,109 apostados (ROI **+8.5%**)
+- Copiando $100 fijo en cada una: **+$220** sobre $3,100 (ROI **+7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Weaseloftheweek | 2 | 1 | 1 | ⚠️ 67% (3) | $155,160 | +$110,752 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
-| Marcoli | 0 | 0 | 2 | — | $89,838 | — |
+| Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | AV23IUa | 0 | 1 | 1 | ⚠️ 0% (1) | $83,036 | -$57,499 |
 | ferrariChampions2026 | 0 | 1 | 1 | ⚠️ 0% (1) | $80,628 | -$53,788 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | — | ⏳ Pendiente |
 | ohehe | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.63 (38¢) | $32,706 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | — | ⏳ Pendiente |
-| Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
+| Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | -$40,000 | ❌ Perdida |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | — | ⏳ Pendiente |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | — | ⏳ Pendiente |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
