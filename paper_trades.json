@@ -84512,5 +84512,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786631606.9261827,
     "fills": 1
+  },
+  {
+    "timestamp": 1786631713,
+    "timestamp_added": 1786631714.1657608,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-big5-g2-2026-08-13",
+    "title": "Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A",
+    "outcome": "BIG",
+    "side": "BUY",
+    "whale_usd": 1015.178823,
+    "whale_pct": 0.249,
+    "paper_stake_usd": 2.46,
+    "odds_at_bet": 15,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786631714.1657686,
+    "fills": 1
   }
 ]

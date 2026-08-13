@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 09:34:35 (hora de Perú)
+Actualizado: 2026-08-13 09:36:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $988.92
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 1 | 1 | -46.49 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 679 | 521 | 5 | -68.74 USD |
+| ferrariChampions2026 | 679 | 521 | 6 | -68.74 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -495,6 +495,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dota2-ts8-xtreme-2026-08-13-game1 | ActionReaction, ferrariChampions2026 |
 | lol-tes-lgd-2026-08-13-game1 | BBQChickenisthebesttt, ferrariChampions2026 |
 | lol-gen-hle1-2026-08-13-game1 | ActionReaction, BBQChickenisthebesttt |
+| cs2-big5-g2-2026-08-13 | CORGI8, ferrariChampions2026 |
 | mlb-tex-laa-2026-08-13-total-8pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-atl-conn-2026-08-13-spread-away-9pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -503,6 +504,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esport | BIG (BUY) | 15% | 2.46 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 2.32 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | BIG (BUY) | 30% | 1.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 - Map 2 Winner | G2 (BUY) | 69% | 1.50 | ⏳ pendiente | — |
@@ -532,4 +534,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 43% | 0.00 | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 43% | 0.00 | ⏳ pendiente | — |
