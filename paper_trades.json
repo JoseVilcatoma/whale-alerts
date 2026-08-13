@@ -83857,5 +83857,69 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786591046.5713556,
     "fills": 1
+  },
+  {
+    "timestamp": 1786591148,
+    "timestamp_added": 1786591148.3764603,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-min-por-2026-08-12-total-184pt5",
+    "title": "Minnesota Lynx vs. Portland Fire: O/U 184.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 341.679989,
+    "whale_pct": 0.124,
+    "paper_stake_usd": 0.68,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591148.3764684,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786591148,
+    "timestamp_added": 1786591149.0289667,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-min-por-2026-08-12-total-185pt5",
+    "title": "Minnesota Lynx vs. Portland Fire: O/U 185.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 442.009996,
+    "whale_pct": 0.16,
+    "paper_stake_usd": 0.89,
+    "odds_at_bet": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591149.0289733,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786591165,
+    "timestamp_added": 1786591166.6863594,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-min-por-2026-08-12",
+    "title": "Minnesota Lynx vs. PortlandFire",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 697.169955,
+    "whale_pct": 0.418,
+    "paper_stake_usd": 2.31,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786591166.6863668,
+    "fills": 1
   }
 ]
