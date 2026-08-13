@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:54:32 (hora de Perú)
+Actualizado: 2026-08-13 15:56:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,004.28
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 5 | 59 | +27.44 USD |
+| RN1 | 6 | 6 | 58 | +27.44 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 5 | +0.00 USD |
 | swisstony | 16 | 6 | 47 | -1.01 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 11 | -1.26 USD |
-| ferrariChampions2026 | 30 | 30 | 56 | -1.97 USD |
+| ferrariChampions2026 | 30 | 31 | 55 | -1.97 USD |
 | HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
