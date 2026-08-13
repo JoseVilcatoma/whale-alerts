@@ -931,7 +931,7 @@
     "side": "BUY",
     "usd": 112736.89139999998,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786646135,
     "fills": 1
   },
@@ -1083,6 +1083,21 @@
     "odds_at_bet": 55,
     "status": "pending",
     "ultimo_fill": 1786656226,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 143,
+    "timestamp": 1786658335,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-phi-min-2026-08-13",
+    "title": "Philadelphia Phillies vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 42550.3761,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1786658335,
     "fills": 1
   }
 ]
