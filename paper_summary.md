@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:10:42 (hora de Perú)
+Actualizado: 2026-08-13 15:12:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,269.44
-**Retorno acumulado:** +26.94%
+**Bankroll actual:** $1,269.86
+**Retorno acumulado:** +26.99%
 **Peor caída desde un máximo (drawdown):** 11.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 4 | 3 | 47 | +27.11 USD |
+| RN1 | 5 | 3 | 46 | +27.44 USD |
 | ferrariChampions2026 | 21 | 22 | 68 | +6.59 USD |
 | wr0ngw4yb3tt0r | 0 | 1 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | HomeRunHazard | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 9 | +0.00 USD |
-| swisstony | 9 | 5 | 54 | -4.29 USD |
+|  | 0 | 0 | 10 | +0.00 USD |
+| swisstony | 10 | 5 | 53 | -4.20 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 38% | 2.33 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 44% | 1.49 | 0.1% | ⏳ pendiente | — |
 |  | LoL: Anyone's Legend vs JD Gaming (BO3)  | JD Gaming (BUY) | 42% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -94,4 +95,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Al Shabab Saudi Club vs. Al Qadisiyah Sa | Over (BUY) | 65% | 0.00 | 0.1% | ⏳ pendiente | — |
 |  | FC Dinamo City vs. FK Auda: O/U 2.5 | Over (BUY) | 35% | 0.00 | 0.4% | ⏳ pendiente | — |
 |  | Spread: AFC Ajax (-1.5) | AFC Ajax (BUY) | 67% | 0.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will Al Shabab Saudi Club win on 2026-08 | No (BUY) | 84% | 0.00 | 0.2% | ⏳ pendiente | — |
