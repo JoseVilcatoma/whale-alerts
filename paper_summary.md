@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:36:44 (hora de Perú)
+Actualizado: 2026-08-12 21:38:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $552.63
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 660 | 496 | 38 | -97.13 USD |
+| ferrariChampions2026 | 660 | 496 | 42 | -97.13 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -499,6 +499,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 38% | 0.85 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 78% | 0.69 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 60% | 0.67 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 31% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 42% | 1.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Over (BUY) | 72% | 0.59 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 68% | 1.89 | ⏳ pendiente | — |
@@ -525,7 +529,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Spread: San Diego FC (-1.5) | Club Puebla (BUY) | 66% | 0.79 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 91% | 2.71 | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 62% | 1.35 | ⏳ pendiente | — |
-| swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 89% | 2.42 | ⏳ pendiente | — |
-|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.94 | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Falcons vs LGD Gaming (BO3) | LGD Gaming (BUY) | 19% | 46.49 | ⏳ pendiente | — |
-| swisstony | San Diego FC vs. Club Puebla: O/U 3.5 | Under (BUY) | 59% | 1.19 | ⏳ pendiente | — |
