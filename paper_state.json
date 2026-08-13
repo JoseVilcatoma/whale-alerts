@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.0615775207051,
+  "bankroll": 559.4015775207051,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19385,6 +19385,16 @@
       "timestamp": 1786597691.01269,
       "bankroll": 561.06,
       "event": "won: swisstony \u2014 Will Cruzeiro EC win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786598631.1263094,
+      "bankroll": 560.02,
+      "event": "lost: RN1 \u2014 Will Cruzeiro EC vs. CR Flamengo end in a draw?"
+    },
+    {
+      "timestamp": 1786598631.2265048,
+      "bankroll": 559.4,
+      "event": "lost: ferrariChampions2026 \u2014 Will Cruzeiro EC vs. CR Flamengo end in a draw?"
     }
   ]
 }
