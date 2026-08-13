@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:47:48 (hora de Perú)
+Actualizado: 2026-08-12 22:49:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $539.09
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 496 | 87 | -94.62 USD |
+| ferrariChampions2026 | 665 | 496 | 89 | -94.62 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 97% | 1.72 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 34% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 34% | 0.55 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 57% | 2.08 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 41% | 0.55 | ⏳ pendiente | — |
@@ -537,5 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 68% | 3.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 39% | 0.63 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 85% | 1.43 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 70% | 0.71 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 93% | 1.56 | ⏳ pendiente | — |
