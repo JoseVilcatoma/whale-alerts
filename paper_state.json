@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.6862364938463,
+  "bankroll": 535.5990918971368,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18785,6 +18785,101 @@
       "timestamp": 1786586584.9929762,
       "bankroll": 519.69,
       "event": "lost: RN1 \u2014 Will CA Platense win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586650.382189,
+      "bankroll": 519.69,
+      "event": "won: UpTheBlues \u2014 Will Club Cerro Porte\u00f1o win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586650.7469265,
+      "bankroll": 519.69,
+      "event": "won: UpTheBlues \u2014 Spread: CA Platense (-1.5)"
+    },
+    {
+      "timestamp": 1786586651.7206144,
+      "bankroll": 521.15,
+      "event": "won: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586651.8207963,
+      "bankroll": 522.45,
+      "event": "won: ferrariChampions2026 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586653.723425,
+      "bankroll": 522.82,
+      "event": "won: RN1 \u2014 Will Club Cerro Porte\u00f1o win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586653.9237728,
+      "bankroll": 523.37,
+      "event": "won: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586654.1241338,
+      "bankroll": 523.63,
+      "event": "won: RN1 \u2014 Will Club Cerro Porte\u00f1o win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586654.224326,
+      "bankroll": 524.2,
+      "event": "won: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586654.4246786,
+      "bankroll": 525.31,
+      "event": "won: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586654.7492938,
+      "bankroll": 525.36,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Club Cerro Porte\u00f1o: O/U 2.5"
+    },
+    {
+      "timestamp": 1786586655.7508938,
+      "bankroll": 524.64,
+      "event": "lost: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586656.765279,
+      "bankroll": 522.18,
+      "event": "lost: RN1 \u2014 Will SE Palmeiras win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786586662.164501,
+      "bankroll": 519.95,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1786586712.7455263,
+      "bankroll": 518.17,
+      "event": "lost: RN1 \u2014 CA Platense vs. CD Coquimbo Unido: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586713.1001446,
+      "bankroll": 518.31,
+      "event": "won: RN1 \u2014 CA Platense vs. CD Coquimbo Unido: O/U 2.5"
+    },
+    {
+      "timestamp": 1786586713.6008742,
+      "bankroll": 524.4,
+      "event": "won: RN1 \u2014 CA Platense vs. CD Coquimbo Unido: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586713.8012383,
+      "bankroll": 527.7,
+      "event": "won: RN1 \u2014 CA Platense vs. CD Coquimbo Unido: O/U 1.5"
+    },
+    {
+      "timestamp": 1786586718.4554605,
+      "bankroll": 529.97,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 12.5"
+    },
+    {
+      "timestamp": 1786586718.555642,
+      "bankroll": 535.6,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 12.5"
     }
   ]
 }
