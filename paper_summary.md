@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:23:53 (hora de Perú)
+Actualizado: 2026-08-13 11:25:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 10 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| swisstony | 0 | 0 | 6 | +0.00 USD |
+| swisstony | 0 | 0 | 7 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -30,6 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 39% | 1.47 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Hazem SC win on 2026-08-13? | Yes (BUY) | 56% | 1.65 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 75% | 1.30 | 0.1% | ⏳ pendiente | — |
 | swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 57% | 1.64 | 0.2% | ⏳ pendiente | — |
