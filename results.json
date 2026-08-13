@@ -282,11 +282,11 @@
     "title": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "usd": 156000.0,
+    "usd": 312000.0,
     "odds_at_bet": 78,
     "status": "pending",
-    "ultimo_fill": 1786589397.7689738,
-    "fills": 1
+    "ultimo_fill": 1786589492.2267046,
+    "fills": 2
   },
   {
     "telegram_msg_id": 24,
@@ -297,10 +297,10 @@
     "title": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "usd": 47835.66109999999,
+    "usd": 95671.32219618838,
     "odds_at_bet": 22,
     "status": "pending",
-    "ultimo_fill": 1786589398.4684083,
-    "fills": 1
+    "ultimo_fill": 1786589492.2266343,
+    "fills": 2
   }
 ]
