@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.2874354631724,
+  "bankroll": 554.1263209014057,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19115,6 +19115,21 @@
       "timestamp": 1786589540.7910032,
       "bankroll": 552.29,
       "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786589787.5008998,
+      "bankroll": 552.57,
+      "event": "won: ferrariChampions2026 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786589787.6010594,
+      "bankroll": 553.74,
+      "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786589788.1019297,
+      "bankroll": 554.13,
+      "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-12?"
     }
   ]
 }
