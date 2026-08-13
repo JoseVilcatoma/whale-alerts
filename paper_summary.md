@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:28:20 (hora de Perú)
+Actualizado: 2026-08-12 21:30:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $581.79
-**Retorno acumulado:** -41.82%
+**Bankroll actual:** $556.48
+**Retorno acumulado:** -44.35%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 72 | 3 | +115.28 USD |
+| wr0ngw4yb3tt0r | 71 | 73 | 3 | +111.25 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -46,17 +46,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
-| 1winstreak1 | 122 | 101 | 2 | -10.55 USD |
+| 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| RN1 | 225 | 122 | 30 | -26.30 USD |
 | swisstony | 171 | 114 | 8 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
+| RN1 | 228 | 124 | 25 | -36.71 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 658 | 493 | 28 | -88.82 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
+| ferrariChampions2026 | 659 | 496 | 31 | -100.62 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -448,6 +448,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-total-8pt5 | ferrariChampions2026, quavoo |
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026 |
+| wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
@@ -496,6 +498,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 51% | 0.74 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 49% | 0.71 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 35% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 49% | 0.75 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 45% | 0.69 | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Minnesota Lynx (BUY) | 54% | 0.83 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 48% | 2.31 | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 52% | 0.59 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 1.40 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 32% | 0.61 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-13.5) | Minnesota Lynx (BUY) | 43% | 0.69 | ⏳ pendiente | — |
@@ -518,11 +528,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Spread: Minnesota Lynx (-12.5) | Portland Fire (BUY) | 50% | 0.81 | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Lynx (-11.5) | Portland Fire (BUY) | 46% | 0.74 | ⏳ pendiente | — |
 |  | Spread: Los Angeles FC (-1.5) | Querétaro FC (BUY) | 45% | 3.44 | ⏳ pendiente | — |
-| RN1 | Will CR Flamengo win on 2026-08-12? | No (BUY) | 75% | 0.61 | ⏳ pendiente | — |
-| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
-|  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
-| ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ⏳ pendiente | — |
-| RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |

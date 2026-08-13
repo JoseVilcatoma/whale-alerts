@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.78846021377,
+  "bankroll": 556.4794619633045,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19005,6 +19005,61 @@
       "timestamp": 1786587834.458097,
       "bankroll": 581.79,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786588151.1370025,
+      "bankroll": 584.32,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786588151.2371674,
+      "bankroll": 585.99,
+      "event": "won: RN1 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786588151.6790972,
+      "bankroll": 581.54,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786588214.577289,
+      "bankroll": 569.89,
+      "event": "lost: RN1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588214.8777664,
+      "bankroll": 565.86,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588214.977941,
+      "bankroll": 559.4,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588215.8005242,
+      "bankroll": 560.33,
+      "event": "won: 1winstreak1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588216.0009055,
+      "bankroll": 561.56,
+      "event": "won: RN1 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588216.4300766,
+      "bankroll": 559.8,
+      "event": "lost: RN1 \u2014 Will CA Platense vs. CD Coquimbo Unido end in a draw?"
+    },
+    {
+      "timestamp": 1786588216.5302556,
+      "bankroll": 556.38,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786588216.7305515,
+      "bankroll": 556.48,
+      "event": "won: RN1 \u2014 Will CA Platense vs. CD Coquimbo Unido end in a draw?"
     }
   ]
 }
