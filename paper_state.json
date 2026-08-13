@@ -1,5 +1,5 @@
 {
-  "bankroll": 551.8011286299712,
+  "bankroll": 552.2874354631724,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19095,6 +19095,26 @@
       "timestamp": 1786588844.7618306,
       "bankroll": 551.8,
       "event": "won: RN1 \u2014 Will SE Palmeiras vs. Club Cerro Porte\u00f1o end in a draw?"
+    },
+    {
+      "timestamp": 1786589538.0465887,
+      "bankroll": 551.86,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786589539.0958643,
+      "bankroll": 551.97,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786589539.1960359,
+      "bankroll": 552.17,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1786589540.7910032,
+      "bankroll": 552.29,
+      "event": "won:  \u2014 Toronto Tempo vs. Dallas Wings"
     }
   ]
 }
