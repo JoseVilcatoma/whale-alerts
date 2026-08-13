@@ -27254,5 +27254,31 @@
     "usd": 12004.6428,
     "odds_at_bet": 58,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1884,
+    "timestamp": 1786579805,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-tor-2026-08-12",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 11068.026,
+    "odds_at_bet": 60,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1885,
+    "timestamp": 1786579835,
+    "username": "mikesports",
+    "wallet": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+    "slug": "lec-mon-nas-2026-08-12-nas",
+    "title": "Will Nashville SC win on 2026-08-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 14400.0,
+    "odds_at_bet": 72,
+    "status": "pending"
   }
 ]

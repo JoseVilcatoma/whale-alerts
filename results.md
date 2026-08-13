@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:09:02 (hora de Perú)
+Actualizado: 2026-08-12 19:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2090**  ($56,275,473 en total)
+- Apuestas registradas: **2092**  ($56,300,941 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 730
+- Pendientes: 732
 - Apostadores distintos: 180
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 17 | — | $932,324 | — |
 | Lakersfan111 | 19 | 12 | 16 | 61% | $899,081 | +$178,757 |
-| wr0ngw4yb3tt0r | 9 | 6 | 16 | 60% | $751,114 | +$13,912 |
+| wr0ngw4yb3tt0r | 9 | 6 | 17 | 60% | $762,182 | +$13,912 |
 | Sassy-Bucket | 16 | 16 | 3 | 50% | $724,219 | -$117,224 |
 | S-Works | 0 | 0 | 6 | — | $688,936 | — |
 | musholius722 | 0 | 0 | 2 | — | $681,015 | — |
@@ -52,9 +52,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Feromont | 9 | 0 | 7 | 100% | $358,252 | +$55,222 |
 | umeax | 0 | 0 | 3 | — | $352,109 | — |
 | HVAB | 9 | 0 | 0 | 100% | $351,535 | +$54,085 |
+| mikesports | 7 | 8 | 5 | 47% | $339,117 | -$88,869 |
 | highnetworth | 0 | 0 | 8 | — | $336,224 | — |
 | bigspending | 0 | 0 | 5 | — | $333,212 | — |
-| mikesports | 7 | 8 | 4 | 47% | $324,717 | -$88,869 |
 | johnny234 | 4 | 11 | 8 | 27% | $317,917 | -$101,100 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $305,766 | +$226,108 |
 | fRibrenlc | 9 | 7 | 7 | 56% | $305,328 | +$15,968 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mikesports | Will Nashville SC win on 2026-08-12? | No | 1.39 (72¢) | $14,400 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays | Toronto Blue Jays | 1.67 (60¢) | $11,068 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Charaeva | 3.23 (31¢) | $19,785 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open, Qualification: Alina Korneeva vs Alina Charaeva | Alina Korneeva | 1.47 (68¢) | $31,908 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.59 (63¢) | $20,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Atlanta Braves | Atlanta Braves | 1.59 (63¢) | $20,047 | — | ⏳ Pendiente |
 | tennischamp | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.32 (76¢) | $17,018 | — | ⏳ Pendiente |
-| afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
-| afraz | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.23 (81¢) | $10,601 | — | ⏳ Pendiente |
