@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 06:28:47 (hora de Perú)
+Actualizado: 2026-08-13 06:30:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $595.04
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 37 | 27 | 2 | +190.04 USD |
+| BBQChickenisthebesttt | 37 | 27 | 4 | +190.04 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
@@ -499,6 +499,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 41% | 9.77 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 40% | 19.85 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 48% | 33.04 | 💰 vendida anticipada | +35.79 |
 | ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | Top Esports (BUY) | 51% | 1.16 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 49% | 1.12 | ⏳ pendiente | — |
@@ -527,5 +529,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion (BO3) - Th | GamerLegion (BUY) | 18% | 0.00 | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 39% | 0.00 | ❌ perdida | -0.00 |
 | Weaseloftheweek | Game Handicap: TS (-1.5) vs Xtreme Gamin | Team Spirit (BUY) | 43% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Vici Gaming (BUY) | 43% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 29% | 0.00 | ❌ perdida | -0.00 |
