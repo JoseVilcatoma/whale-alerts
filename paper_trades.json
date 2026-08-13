@@ -85555,5 +85555,25 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786616494.3005676,
     "fills": 6
+  },
+  {
+    "timestamp": 1786616576,
+    "timestamp_added": 1786616577.2159753,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-vsn2-flc-2026-08-13-game1",
+    "title": "Dota 2: TEAM VISION vs Team Falcons - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 3507.4380000000006,
+    "whale_pct": 5.357,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786616577.760128,
+    "fills": 2
   }
 ]
