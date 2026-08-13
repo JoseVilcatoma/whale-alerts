@@ -82683,12 +82683,13 @@
     "whale_pct": 0.327,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786601824.4536998,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786601846,
@@ -82703,12 +82704,13 @@
     "whale_pct": 0.308,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786601846.98582,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786601957,
@@ -82723,12 +82725,13 @@
     "whale_pct": 0.355,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786601957.7411108,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602006,
@@ -82743,12 +82746,13 @@
     "whale_pct": 0.414,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602008.8556182,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602128,
@@ -82763,12 +82767,13 @@
     "whale_pct": 0.125,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602128.8781312,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602184,
@@ -82783,12 +82788,13 @@
     "whale_pct": 0.438,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602185.908599,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602207,
@@ -82803,12 +82809,13 @@
     "whale_pct": 0.424,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602209.6723127,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602227,
@@ -82823,12 +82830,13 @@
     "whale_pct": 0.921,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602238.476719,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602256,
@@ -82843,12 +82851,13 @@
     "whale_pct": 0.663,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602265.613391,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602288,
@@ -82863,12 +82872,13 @@
     "whale_pct": 0.418,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602292.5808072,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602308,
@@ -82883,12 +82893,13 @@
     "whale_pct": 0.418,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "cerrada_venta",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "last_fill_at": 1786602310.4607754,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 100
   },
   {
     "timestamp": 1786602452,
