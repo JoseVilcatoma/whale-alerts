@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 00:02:34 (hora de Perú)
+Actualizado: 2026-08-13 00:04:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **21**  ($1,846,485 en total)
-- Resueltas: **5** — 2 ganadas / 3 perdidas (**40%** de acierto)
-- Pendientes: 16
+- Resueltas: **6** — 3 ganadas / 3 perdidas (**50%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 13
 
 ### Balance
 
-- **Resultado de los apostadores: -$43,016** sobre $332,596 apostados (ROI **-12.9%**)
-- Copiando $100 fijo en cada una: **-$100** sobre $300 (ROI **-33.3%**)
+- **Resultado de los apostadores: -$37,152** sobre $359,314 apostados (ROI **-10.3%**)
+- Copiando $100 fijo en cada una: **-$78** sobre $400 (ROI **-19.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | — | $42,257 | — |
 | lIlIlIllllIIIII | 0 | 0 | 1 | — | $31,285 | — |
-| 0F62 | 0 | 0 | 1 | — | $26,718 | — |
+| 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 
 ## Detalle de las últimas 60 apuestas
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.13 (47¢) | $75,049 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 2.00 (50¢) | $25,214 | — | ⏳ Pendiente |
-| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | — | ⏳ Pendiente |
+| 0F62 | Kansas City Royals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.22 (82¢) | $26,718 | +$5,865 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Coco Gauff vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $53,984 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $312,000 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | LGD Gaming | 4.55 (22¢) | $95,671 | — | ⏳ Pendiente |
