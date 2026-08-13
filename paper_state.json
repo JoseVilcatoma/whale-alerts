@@ -1,5 +1,5 @@
 {
-  "bankroll": 557.1712288869351,
+  "bankroll": 561.2219624776686,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19440,6 +19440,31 @@
       "timestamp": 1786595714.2130227,
       "bankroll": 557.17,
       "event": "won: swisstony \u2014 Minnesota Lynx vs. Portland Fire: O/U 185.5"
+    },
+    {
+      "timestamp": 1786596263.5261626,
+      "bankroll": 555.44,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786596263.62634,
+      "bankroll": 556.8,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786596263.7266216,
+      "bankroll": 558.25,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786596263.826817,
+      "bankroll": 559.73,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786596263.927009,
+      "bankroll": 561.22,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Monterrey win on 2026-08-12?"
     }
   ]
 }
