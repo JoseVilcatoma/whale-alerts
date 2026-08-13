@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 21:22:02 (hora de Perú)
+Actualizado: 2026-08-12 21:24:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $592.31
-**Retorno acumulado:** -40.77%
+**Bankroll actual:** $581.79
+**Retorno acumulado:** -41.82%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 71 | 4 | +117.91 USD |
+| wr0ngw4yb3tt0r | 71 | 72 | 3 | +115.28 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
-| ferrariChampions2026 | 657 | 490 | 28 | -80.93 USD |
+| ferrariChampions2026 | 658 | 493 | 24 | -88.82 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
@@ -517,7 +517,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Under (BUY) | 52% | 0.71 | ⏳ pendiente | — |
 |  | Spread: Golden State Valkyries (-8.5) | Chicago Sky (BUY) | 51% | 2.30 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 53% | 5.58 | ❌ perdida | -5.58 |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-3.5) | Cincinnati Reds (BUY) | 76% | 2.63 | ❌ perdida | -2.63 |
 | ferrariChampions2026 | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 91% | 0.63 | ⏳ pendiente | — |
 | RN1 | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 33% | 0.58 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cruzeiro EC vs. CR Flamengo end in  | No (BUY) | 73% | 0.62 | ⏳ pendiente | — |
