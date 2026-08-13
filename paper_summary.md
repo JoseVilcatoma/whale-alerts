@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-qar-dyn-2026-08-13-total-2pt5 | RN1, swisstony |
 | uel-bes-hra-2026-08-13-spread-home-1pt5 | RN1, ferrariChampions2026, swisstony |
 | col-tob-par-2026-08-13-tob | ferrariChampions2026, swisstony |
-| mlb-bos-tor-2026-08-13-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-bos-tor-2026-08-13-total-7pt5 | HomeRunHazard, RN1, Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | spl-abh-haz-2026-08-13-haz | RN1, swisstony |
 | cs2-lgc-faze-2026-08-13 | Lakersfan111, Nooserac, ferrariChampions2026 |
 | val-gx-fnc1-2026-08-13 | Nooserac, ferrariChampions2026 |
@@ -51,10 +51,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | col-hif-rak-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | uel-ucr-kps-2026-08-13-total-3pt5 | RN1, swisstony |
 | uel-paf-rbs-2026-08-13-total-5pt5 | RN1, ferrariChampions2026, swisstony |
+| lol-hrts-koia-2026-08-13 | ActionReaction, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-2pt5 | RN1, ferrariChampions2026, swisstony |
 | uel-gor1-ftc-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
 | col-nor-val-2026-08-13-total-4pt5 | RN1, ferrariChampions2026 |
 | uel-bes-hra-2026-08-13-total-1pt5 | ferrariChampions2026, swisstony |
+| mlb-sea-nyy-2026-08-13-total-5pt5 | HomeRunHazard, ferrariChampions2026 |
+| uel-ran1-jag-2026-08-13-total-1pt5 | RN1, swisstony |
+| uel-csk1-mta-2026-08-13-total-4pt5 | RN1, swisstony |
+| uel-hmi-ben-2026-08-13-total-1pt5 | RN1, UpTheBlues |
+| uel-hmi-ben-2026-08-13-ben | RN1, UpTheBlues |
+| mlb-chc-wsh-2026-08-13-total-7pt5 | RN1, ferrariChampions2026 |
+| col-gen-got-2026-08-13-total-2pt5 | , RN1 |
+| uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
+| col-she1-aja-2026-08-13-aja | RN1, UpTheBlues |
+| uel-egn-shr-2026-08-13-total-5pt5 | RN1, ferrariChampions2026 |
+| sud-vas-clo-2026-08-13-total-2pt5 | RN1, theowalcott |
+| mlb-chc-wsh-2026-08-13-total-8pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
