@@ -392,5 +392,20 @@
     "status": "pending",
     "ultimo_fill": 1786604801,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 50,
+    "timestamp": 1786605113,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ts8-xtreme-2026-08-13",
+    "title": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 31999.999998,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1786605113,
+    "fills": 1
   }
 ]
