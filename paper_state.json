@@ -1,5 +1,5 @@
 {
-  "bankroll": 1018.6280218731748,
+  "bankroll": 1011.9780218731748,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -485,6 +485,11 @@
       "timestamp": 1786653326.7488072,
       "bankroll": 1018.63,
       "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 17.5"
+    },
+    {
+      "timestamp": 1786653496.5126169,
+      "bankroll": 1011.98,
+      "event": "lost: Lakersfan111 \u2014 Map Handicap: FaZe (-1.5) vs Legacy (+1.5)"
     }
   ]
 }
