@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 11:46:21 (hora de Perú)
+Actualizado: 2026-08-13 11:48:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -15,13 +15,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 19 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 20 | +0.00 USD |
 | RN1 | 0 | 0 | 10 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 16 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | ActionReaction | 0 | 0 | 1 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -38,6 +39,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 48% | 1.31 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports - | Dark Passage (BUY) | 91% | 1.25 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FaZe (-1.5) vs Legacy (+1. | Legacy (BUY) | 73% | 6.65 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dark Passage vs BoostGate Esports ( | Dark Passage (BUY) | 88% | 1.81 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. New York Liberty: | Under (BUY) | 49% | 6.15 | 0.6% | ⏳ pendiente | — |
@@ -66,5 +69,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Abha Saudi Club win on 2026-08-13? | No (BUY) | 83% | 2.80 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Al Hazem SC win on 2026-08-13? | No (BUY) | 39% | 1.47 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Hazem SC win on 2026-08-13? | Yes (BUY) | 56% | 1.65 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Joblife vs Pcific Esports - Ma | Pcific Esports (BUY) | 75% | 1.30 | 0.1% | ⏳ pendiente | — |
-| swisstony | Qarabağ Ağdam FK vs. FK Dynamo Kyiv: O/U | Over (BUY) | 57% | 1.64 | 0.2% | ⏳ pendiente | — |
