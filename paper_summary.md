@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:56:19 (hora de Perú)
+Actualizado: 2026-08-13 17:58:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,183.08
@@ -18,9 +18,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 1 | +74.91 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 46 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 48 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| RN1 | 17 | 17 | 55 | +2.60 USD |
+| RN1 | 17 | 17 | 58 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 10 | +0.00 USD |
@@ -73,6 +73,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CSyD Macará win on 2026-08-13? | No (BUY) | 92% | 4.04 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-13? | Yes (BUY) | 54% | 1.85 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | BESTIA (BUY) | 24% | 3.38 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 45% | 2.03 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CR Vasco da Gama win on 2026-08-13? | No (BUY) | 45% | 3.19 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Maryville University vs Winthrop Un | Maryville University (BUY) | 32% | 1.31 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 72% | 1.74 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 81% | 1.28 | 0.1% | ⏳ pendiente | — |
@@ -98,8 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Santos FC win on 2026-08-13? | No (BUY) | 64% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 64% | 0.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-13? | Yes (BUY) | 68% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 45% | 0.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 55% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 1.1% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
-| theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 7.9% | ⏳ pendiente | — |
