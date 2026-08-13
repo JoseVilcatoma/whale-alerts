@@ -84530,5 +84530,50 @@
     "recortado_por_bankroll": true,
     "last_fill_at": 1786608529.996914,
     "fills": 4
+  },
+  {
+    "timestamp": 1786608660,
+    "timestamp_added": 1786608661.2726293,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 1514.0640950000002,
+    "whale_pct": 0.839,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608667.8058746,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786608669,
+    "timestamp_added": 1786608670.3141673,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-drx-fox1-2026-08-13-game1",
+    "title": "LoL: Kiwoom DRX vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 3147.0,
+    "whale_pct": 8.415,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "last_fill_at": 1786608681.3745847,
+    "fills": 2
   }
 ]
