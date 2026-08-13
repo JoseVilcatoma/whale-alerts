@@ -530,6 +530,11 @@
       "timestamp": 1786653887.613828,
       "bankroll": 1002.7,
       "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
+    },
+    {
+      "timestamp": 1786654194.5164828,
+      "bankroll": 1002.7,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }
