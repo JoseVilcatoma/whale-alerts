@@ -81477,5 +81477,25 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786583935.2128818,
     "fills": 1
+  },
+  {
+    "timestamp": 1786584105,
+    "timestamp_added": 1786584106.3420897,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cru-fla-2026-08-12-total-0pt5",
+    "title": "Cruzeiro EC vs. CR Flamengo: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1041.71,
+    "whale_pct": 0.197,
+    "paper_stake_usd": 1.12,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786584106.3420978,
+    "fills": 1
   }
 ]
