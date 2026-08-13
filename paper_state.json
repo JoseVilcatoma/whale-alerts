@@ -1,5 +1,5 @@
 {
-  "bankroll": 623.3389654025551,
+  "bankroll": 621.9189654025552,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18500,6 +18500,11 @@
       "timestamp": 1786580172.9086382,
       "bankroll": 623.34,
       "event": "won: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786580353.3680933,
+      "bankroll": 621.92,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
     }
   ]
 }
