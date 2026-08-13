@@ -115,9 +115,11 @@
     "side": "BUY",
     "usd": 186199.164,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1786587685.0747707,
-    "fills": 2
+    "fills": 2,
+    "profit_usd": -18619.92,
+    "precio_salida": 27
   },
   {
     "telegram_msg_id": 11,
@@ -195,5 +197,35 @@
     "status": "pending",
     "ultimo_fill": 1786587977.4214473,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 18,
+    "timestamp": 1786588697,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-flc-lgd-2026-08-12",
+    "title": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 67591.61,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1786588698.224874,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 19,
+    "timestamp": 1786588739,
+    "username": "NemecGhudini",
+    "wallet": "0xa7e2bdc8ccda2fdc129f639761069df9ab349e36",
+    "slug": "dota2-flc-lgd-2026-08-12",
+    "title": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 27300.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1786588739.754123,
+    "fills": 1
   }
 ]
