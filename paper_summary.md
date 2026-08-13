@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 01:27:35 (hora de Perú)
+Actualizado: 2026-08-13 01:29:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $581.29
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
-| ferrariChampions2026 | 674 | 501 | 1 | -68.75 USD |
+| ferrariChampions2026 | 674 | 501 | 4 | -68.75 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
@@ -494,6 +494,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 1 W | GamerLegion (BUY) | 37% | 0.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Vici Gaming - Gam | Team Liquid (BUY) | 59% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 26% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Game Handicap: Liquid (-1.5) vs Vici Gam | Team Liquid (BUY) | 50% | 0.00 | ⏳ pendiente | — |
@@ -521,6 +524,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 68% | 1.66 | ✅ ganada | +0.78 |
 |  | Will San Diego FC win on 2026-08-12? | Yes (BUY) | 55% | 1.41 | ⏳ pendiente | — |
 | swisstony | Will Cruzeiro EC win on 2026-08-12? | No (BUY) | 85% | 0.89 | ✅ ganada | +0.16 |
-|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 96% | 4.75 | ✅ ganada | +0.20 |
-|  | Toronto Tempo vs. Dallas Wings | Dallas Wings (BUY) | 97% | 3.37 | ✅ ganada | +0.10 |
-| ferrariChampions2026 | Will FC Dallas win on 2026-08-12? | No (BUY) | 85% | 2.20 | ✅ ganada | +0.39 |
