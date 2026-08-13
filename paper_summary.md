@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:43:41 (hora de Perú)
+Actualizado: 2026-08-12 22:45:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $539.09
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 71 | 74 | 8 | +110.26 USD |
+| wr0ngw4yb3tt0r | 71 | 74 | 9 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 171 | 114 | 27 | -26.60 USD |
+| swisstony | 171 | 114 | 28 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 496 | 76 | -94.62 USD |
+| ferrariChampions2026 | 665 | 496 | 84 | -94.62 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -498,7 +498,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-tor-dal-2026-08-12 | , ferrariChampions2026 |
 | wnba-chi-gsv-2026-08-12-spread-home-8pt5 | , wr0ngw4yb3tt0r |
 | lec-tol-dal-2026-08-12-dal | ferrariChampions2026, swisstony |
-| lec-sdg-pue-2026-08-12-sdg | , swisstony |
+| lec-sdg-pue-2026-08-12-sdg | , ferrariChampions2026, swisstony |
 | dota2-flc-lgd-2026-08-12 | CORGI8, ferrariChampions2026 |
 | wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lec-tol-dal-2026-08-12-tol | ferrariChampions2026, swisstony |
@@ -509,6 +509,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | Yes (BUY) | 34% | 0.73 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 44% | 0.63 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 60% | 1.08 | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 47% | 0.70 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 77% | 0.61 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 67% | 2.79 | ⏳ pendiente | — |
+| ferrariChampions2026 | Will San Diego FC win on 2026-08-12? | No (BUY) | 60% | 0.68 | ⏳ pendiente | — |
+| swisstony | Spread: Golden State Valkyries (-10.5) | Chicago Sky (BUY) | 56% | 1.84 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 73% | 0.62 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.56 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 71% | 1.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.81 | ⏳ pendiente | — |
 | swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 2.66 | ⏳ pendiente | — |
@@ -529,13 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 66% | 1.09 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 41% | 1.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 42% | 0.66 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 40% | 0.68 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Iron Wing (BUY) | 60% | 2.69 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 45% | 0.59 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 51% | 1.12 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 37% | 2.83 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 60% | 0.97 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 85% | 2.27 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 0.90 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 85% | 0.84 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 77% | 0.89 | ⏳ pendiente | — |
