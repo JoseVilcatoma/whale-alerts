@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:01:56 (hora de Perú)
+Actualizado: 2026-08-12 22:04:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $554.13
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 123 | 101 | 1 | -9.62 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
-| swisstony | 171 | 114 | 14 | -26.60 USD |
+| swisstony | 171 | 114 | 16 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 50 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 51 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -449,7 +449,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-kc-lad-2026-08-11-spread-home-1pt5 | quavoo, swisstony |
 | mlb-phi-stl-2026-08-12-total-7pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | wnba-chi-gsv-2026-08-12-total-164pt5 | HomeRunHazard, ferrariChampions2026, swisstony |
-| wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, wr0ngw4yb3tt0r |
+| wnba-chi-gsv-2026-08-12-total-165pt5 | HomeRunHazard, ferrariChampions2026, swisstony, wr0ngw4yb3tt0r |
+| wnba-chi-gsv-2026-08-12-total-166pt5 | HomeRunHazard, swisstony |
 | lol-edg-al-2026-08-12 | BBQChickenisthebesttt, jtwyslljy |
 | lol-kt-dk-2026-08-12 | BBQChickenisthebesttt, Djdjdjekekek |
 | lib-pal-cep-2026-08-12-draw | RN1, UpTheBlues |
@@ -503,6 +504,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CD Guadalajara win on 2026-08-12? | No (BUY) | 61% | 0.61 | ⏳ pendiente | — |
+| swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 64% | 0.89 | ⏳ pendiente | — |
+| swisstony | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 35% | 0.65 | ⏳ pendiente | — |
 | swisstony | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 84% | 8.59 | ⏳ pendiente | — |
 | swisstony | Deportivo Toluca FC vs. FC Dallas: O/U 4 | Over (BUY) | 53% | 0.74 | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 33% | 0.62 | ⏳ pendiente | — |
@@ -530,6 +534,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 60% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | No (BUY) | 31% | 0.87 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Chicago Sky (BUY) | 42% | 1.09 | ⏳ pendiente | — |
-| ferrariChampions2026 | Deportivo Toluca FC vs. FC Dallas: O/U 3 | Over (BUY) | 72% | 0.59 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 68% | 1.89 | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 68% | 1.82 | ⏳ pendiente | — |
