@@ -1,5 +1,5 @@
 {
-  "bankroll": 1247.6756178346727,
+  "bankroll": 1269.439408684346,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -290,6 +290,96 @@
       "timestamp": 1786651621.557169,
       "bankroll": 1247.68,
       "event": "lost: RN1 \u2014 Will FC Flora win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786651748.9611986,
+      "bankroll": 1273.12,
+      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651749.78857,
+      "bankroll": 1275.5,
+      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651750.1938639,
+      "bankroll": 1274.23,
+      "event": "lost: RN1 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651750.5290678,
+      "bankroll": 1275.11,
+      "event": "won: ferrariChampions2026 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 1.5"
+    },
+    {
+      "timestamp": 1786651750.6292744,
+      "bankroll": 1276.97,
+      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651751.0551994,
+      "bankroll": 1275.69,
+      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786651751.1554165,
+      "bankroll": 1274.05,
+      "event": "lost: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651752.0572002,
+      "bankroll": 1275.45,
+      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
+    },
+    {
+      "timestamp": 1786651752.457956,
+      "bankroll": 1272.91,
+      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786651754.483023,
+      "bankroll": 1272.91,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786651755.8506474,
+      "bankroll": 1272.91,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786651756.0511394,
+      "bankroll": 1272.91,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786651757.2425134,
+      "bankroll": 1272.91,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786651757.3427582,
+      "bankroll": 1272.91,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786651760.5795565,
+      "bankroll": 1272.91,
+      "event": "won: swisstony \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786651811.0515738,
+      "bankroll": 1271.23,
+      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786651812.0532484,
+      "bankroll": 1269.44,
+      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786651820.6394768,
+      "bankroll": 1269.44,
+      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 6.5"
     }
   ]
 }
