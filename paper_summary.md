@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 18:58:37 (hora de Perú)
+Actualizado: 2026-08-12 19:00:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $637.22
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | swisstony | 171 | 114 | 0 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 202 | 112 | 38 | -39.02 USD |
+| RN1 | 202 | 112 | 39 | -39.02 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
@@ -458,6 +458,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mlb-sea-nyy-2026-08-12-spread-away-2pt5 | 1winstreak1, RN1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-bos-tor-2026-08-12-spread-away-1pt5 | RN1, ferrariChampions2026 |
 | lib-pal-cep-2026-08-12-total-0pt5 | RN1, ferrariChampions2026 |
+| mlb-chc-wsh-2026-08-12-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-mil-sd-2026-08-12-total-5pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-sea-nyy-2026-08-12-total-10pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sud-tig-tor-2026-08-12-total-1pt5 | RN1, ferrariChampions2026 |
@@ -472,6 +473,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 57% | 1.46 | ⏳ pendiente | — |
 | RN1 | Will CA Platense vs. CD Coquimbo Unido e | Yes (BUY) | 94% | 1.53 | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. New York Yankees: O | Under (BUY) | 20% | 1.43 | ⏳ pendiente | — |
 | RN1 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 99% | 6.68 | ⏳ pendiente | — |
@@ -501,4 +503,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Red Bull Bragantino vs. CA Mineiro: O/U  | Under (BUY) | 67% | 0.96 | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago White Sox: O | Over (BUY) | 51% | 3.90 | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-2.5) | New York Yankees (BUY) | 52% | 1.01 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Inter Miami CF win on 2026-08-12? | No (BUY) | 46% | 0.66 | ⏳ pendiente | — |

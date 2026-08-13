@@ -80558,5 +80558,27 @@
     "recortado_por_bankroll": false,
     "last_fill_at": 1786578899.3873851,
     "fills": 1
+  },
+  {
+    "timestamp": 1786579126,
+    "timestamp_added": 1786579126.4753048,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-chc-wsh-2026-08-12-spread-away-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 1122.8999999999999,
+    "whale_pct": 0.229,
+    "paper_stake_usd": 1.46,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "last_fill_at": 1786579126.475313,
+    "fills": 1
   }
 ]
