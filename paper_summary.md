@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:41:32 (hora de Perú)
+Actualizado: 2026-08-12 22:43:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $536.93
-**Retorno acumulado:** -46.31%
+**Bankroll actual:** $539.09
+**Retorno acumulado:** -46.09%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
-| UpTheBlues | 259 | 157 | 5 | +1.26 USD |
+| UpTheBlues | 260 | 157 | 4 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
 | Wealthfreedom001 | 1 | 1 | 0 | +0.55 USD |
 |  | 3 | 0 | 7 | +0.42 USD |
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 171 | 114 | 25 | -26.60 USD |
+| swisstony | 171 | 114 | 27 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 73 | -96.78 USD |
+| ferrariChampions2026 | 665 | 496 | 76 | -94.62 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 71% | 1.00 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.81 | ⏳ pendiente | — |
+| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 2.66 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 45% | 1.51 | ⏳ pendiente | — |
+| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 84% | 4.82 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 40% | 0.65 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 76% | 6.15 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 79% | 3.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 1.13 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 80% | 4.64 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 42% | 2.55 | ⏳ pendiente | — |
@@ -531,11 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 74% | 0.90 | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Sky vs. Golden State Valkyries | Golden State Valkyries (BUY) | 85% | 0.84 | ⏳ pendiente | — |
 | swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 77% | 0.89 | ⏳ pendiente | — |
-|  | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 98% | 2.31 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 95% | 0.89 | ⏳ pendiente | — |
-| swisstony | Minnesota Lynx vs. Portland Fire: O/U 18 | Under (BUY) | 94% | 0.68 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 59% | 1.52 | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 50% | 10.87 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 1.64 | ⏳ pendiente | — |
-| swisstony | Spread: Minnesota Lynx (-12.5) | Minnesota Lynx (BUY) | 85% | 0.60 | ⏳ pendiente | — |
-|  | Spread: FC Lugano (-1.5) | NSÍ Runavík (BUY) | 51% | 4.43 | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.9263209014058,
+  "bankroll": 539.0924400640467,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19145,6 +19145,26 @@
       "timestamp": 1786591409.6028845,
       "bankroll": 536.93,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 10.5"
+    },
+    {
+      "timestamp": 1786592537.3361163,
+      "bankroll": 537.53,
+      "event": "won: ferrariChampions2026 \u2014 Inter Miami CF vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786592600.9543564,
+      "bankroll": 537.53,
+      "event": "won: UpTheBlues \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786592601.9479845,
+      "bankroll": 538.31,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-12?"
+    },
+    {
+      "timestamp": 1786592602.048132,
+      "bankroll": 539.09,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-12?"
     }
   ]
 }
