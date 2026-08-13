@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 17:54:15 (hora de Perú)
+Actualizado: 2026-08-13 17:56:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,183.08
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 1 | 3 | 1 | +74.91 USD |
 | swisstony | 28 | 9 | 13 | +21.16 USD |
-| ferrariChampions2026 | 47 | 37 | 44 | +13.84 USD |
+| ferrariChampions2026 | 47 | 37 | 46 | +13.84 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | RN1 | 17 | 17 | 55 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
@@ -66,12 +66,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sud-vas-clo-2026-08-13-total-1pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-total-2pt5 | RN1, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-mac | RN1, ferrariChampions2026 |
+| lol-mvu-wu-2026-08-13 | cigarettes, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Maryville University vs Winthrop Un | Maryville University (BUY) | 32% | 1.31 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 72% | 1.74 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs BESTIA (BO3) -  | KRÜ Esports (BUY) | 81% | 1.28 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-08-13? | No (BUY) | 36% | 0.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Santos FC vs. CSyD Macará: 1st Half O/U  | Under (BUY) | 95% | 0.00 | 0.5% | ⏳ pendiente | — |
@@ -100,5 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 1.1% | ⏳ pendiente | — |
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 0.1% | ⏳ pendiente | — |
 | theowalcott | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 44% | 0.00 | 7.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 58% | 0.00 | 0.1% | ⏳ pendiente | — |
-| cigarettes | LoL: Maryville University vs Winthrop Un | Winthrop University (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |

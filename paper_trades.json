@@ -7364,5 +7364,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786661569.362217,
     "fills": 1
+  },
+  {
+    "timestamp": 1786661709,
+    "timestamp_added": 1786661709.6801558,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-bst1-2026-08-13",
+    "title": "Valorant: KR\u00dc Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 421.457142,
+    "whale_pct": 0.147,
+    "whale_value_at_open": 286219.2557,
+    "paper_stake_usd": 1.74,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661709.6801655,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786661745,
+    "timestamp_added": 1786661746.0923495,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-mvu-wu-2026-08-13",
+    "title": "LoL: Maryville University vs Winthrop University (BO3) - North American Challengers League Group Stage",
+    "outcome": "Maryville University",
+    "side": "BUY",
+    "whale_usd": 317.9456,
+    "whale_pct": 0.111,
+    "whale_value_at_open": 286219.2557,
+    "paper_stake_usd": 1.31,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "cigarettes"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786661746.092358,
+    "fills": 1
   }
 ]
