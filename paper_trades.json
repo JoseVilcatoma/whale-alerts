@@ -5403,8 +5403,8 @@
     "whale_value_at_open": 548236.0719,
     "paper_stake_usd": 6.05,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -6.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5519,8 +5519,8 @@
     "whale_value_at_open": 329260.5498,
     "paper_stake_usd": 1.51,
     "odds_at_bet": 34,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.51,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5565,8 +5565,8 @@
     "whale_value_at_open": 329260.5498,
     "paper_stake_usd": 1.54,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -1.54,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -7342,5 +7342,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786653822.2907963,
     "fills": 1
+  },
+  {
+    "timestamp": 1786653894,
+    "timestamp_added": 1786653894.975721,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3838.4964400000003,
+    "whale_pct": 21.42,
+    "whale_value_at_open": 17919.9351,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786653921.1325862,
+    "fills": 5
+  },
+  {
+    "timestamp": 1786653949,
+    "timestamp_added": 1786653949.792953,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-vas-clo-2026-08-13-total-2pt5",
+    "title": "CR Vasco da Gama vs. Club Olimpia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1005.7299999999999,
+    "whale_pct": 4.151,
+    "whale_value_at_open": 24229.8117,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786653961.500017,
+    "fills": 3
   }
 ]

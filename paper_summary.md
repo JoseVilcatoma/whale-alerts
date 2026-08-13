@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:44:01 (hora de Perú)
+Actualizado: 2026-08-13 15:46:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,011.80
-**Retorno acumulado:** +1.18%
-**Peor caída desde un máximo (drawdown):** 21.93%
+**Bankroll actual:** $1,002.70
+**Retorno acumulado:** +0.27%
+**Peor caída desde un máximo (drawdown):** 22.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,14 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | RN1 | 6 | 4 | 60 | +27.44 USD |
-| ferrariChampions2026 | 28 | 28 | 60 | +5.30 USD |
-| HomeRunHazard | 1 | 0 | 7 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
 |  | 0 | 0 | 13 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 8 | +0.00 USD |
+| theowalcott | 0 | 0 | 2 | +0.00 USD |
+| ferrariChampions2026 | 28 | 29 | 59 | -0.75 USD |
 | wr0ngw4yb3tt0r | 0 | 3 | 8 | -1.26 USD |
+| HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
 | swisstony | 14 | 6 | 49 | -3.80 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
@@ -68,11 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | uel-hmi-ben-2026-08-13-hmi | RN1, UpTheBlues |
 | col-she1-aja-2026-08-13-aja | RN1, UpTheBlues |
 | uel-egn-shr-2026-08-13-total-5pt5 | RN1, ferrariChampions2026 |
+| sud-vas-clo-2026-08-13-total-2pt5 | RN1, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 4.2% | ⏳ pendiente | — |
+| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 21.4% | ⏳ pendiente | — |
 | RN1 | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Under (BUY) | 59% | 2.94 | 0.6% | ⏳ pendiente | — |
 | RN1 | FC Dinamo City vs. FK Auda: O/U 4.5 | Under (BUY) | 86% | 0.13 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Shelbourne FC vs. AFC Ajax end in a | Yes (BUY) | 81% | 1.23 | 0.1% | ⏳ pendiente | — |
@@ -101,5 +105,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | KAA Gent vs. IFK Göteborg: O/U 2.5 | Over (BUY) | 32% | 2.19 | 0.2% | ⏳ pendiente | — |
 | RN1 | KAA Gent vs. IFK Göteborg: O/U 2.5 | Under (BUY) | 68% | 1.32 | 0.1% | ⏳ pendiente | — |
 |  | Will Viking FK win on 2026-08-14? | Yes (BUY) | 38% | 3.90 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Sport Lisboa e Benfica win on 2026- | No (BUY) | 63% | 2.72 | 0.2% | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 48% | 2.70 | 0.2% | ⏳ pendiente | — |
