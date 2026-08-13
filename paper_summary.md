@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 03:44:39 (hora de Perú)
+Actualizado: 2026-08-13 03:46:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $591.96
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
 | swisstony | 175 | 115 | 0 | -26.28 USD |
-| RN1 | 245 | 132 | 3 | -27.46 USD |
+| RN1 | 245 | 132 | 4 | -27.46 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
@@ -501,6 +501,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: Just Players vs MOUZ NXT | MOUZ NXT (BUY) | 45% | 0.00 | ⏳ pendiente | — |
 | TeGeeLP | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 55% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Weibo Gaming (BUY) | 48% | 0.00 | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 30% | 0.00 | ⏳ pendiente | — |
@@ -530,4 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 31% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | BNK FEARX (BUY) | 46% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 31% | 0.00 | ⏳ pendiente | — |
