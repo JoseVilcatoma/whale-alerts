@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:33:27 (hora de Perú)
+Actualizado: 2026-08-12 23:35:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $549.29
-**Retorno acumulado:** -45.07%
+**Bankroll actual:** $557.17
+**Retorno acumulado:** -44.28%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -26,6 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
+| HomeRunHazard | 126 | 110 | 3 | +4.91 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 261 | 157 | 3 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -44,19 +45,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 2 | 0 | -2.32 USD |
 | Lakersfan111 | 4 | 4 | 0 | -2.55 USD |
 | NordhavenCap | 1 | 5 | 0 | -3.01 USD |
-| HomeRunHazard | 123 | 110 | 6 | -3.22 USD |
 | TeGeeLP | 0 | 3 | 0 | -7.03 USD |
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 180 | 119 | 14 | -26.29 USD |
-| RN1 | 243 | 130 | 4 | -26.92 USD |
+| swisstony | 182 | 119 | 12 | -26.20 USD |
+| RN1 | 245 | 131 | 1 | -26.42 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 670 | 502 | 105 | -95.98 USD |
+| ferrariChampions2026 | 670 | 503 | 104 | -96.82 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
