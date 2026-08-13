@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 21:39:01 (hora de Perú)
+Actualizado: 2026-08-12 21:41:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **15**  ($1,128,553 en total)
+- Apuestas registradas: **16**  ($1,158,953 en total)
 - Resueltas: **2** — 1 ganadas / 1 perdidas (**50%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 11
 
 ### Balance
@@ -26,9 +26,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 3 | — | $457,062 | — |
 | Djdjdjekekek | 0 | 1 | 0 | ⚠️ 0% (1) | $186,199 | -$18,620 |
+| 0xheavy888 | 1 | 0 | 1 | ⚠️ 100% (1) | $100,400 | +$2,000 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | — | $79,200 | — |
 | Weaseloftheweek | 0 | 0 | 2 | — | $71,170 | — |
-| 0xheavy888 | 1 | 0 | 0 | ⚠️ 100% (1) | $70,000 | +$2,000 |
 | AV23IUa | 0 | 0 | 1 | — | $57,499 | — |
 | ferrariChampions2026 | 0 | 0 | 1 | — | $53,788 | — |
 | b0c | 0 | 0 | 2 | — | $52,793 | — |
@@ -40,6 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xheavy888 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.30 (77¢) | $30,400 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $67,592 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | — | ⏳ Pendiente |
