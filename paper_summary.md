@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:10:43 (hora de Perú)
+Actualizado: 2026-08-12 23:12:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $538.38
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 100 | -95.33 USD |
+| ferrariChampions2026 | 665 | 497 | 102 | -95.33 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 85% | 2.24 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 68% | 1.14 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC vs. CD Guadalaj | Yes (BUY) | 34% | 0.70 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs OG - Game 1 Winner | BoomBoys (BUY) | 68% | 1.15 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming (BO3) | Team Falcons (BUY) | 49% | 1.16 | ⏳ pendiente | — |
@@ -537,5 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will San Diego FC win on 2026-08-12? | No (BUY) | 60% | 0.68 | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-10.5) | Chicago Sky (BUY) | 56% | 1.84 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 73% | 0.62 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 43% | 0.56 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 71% | 1.00 | ⏳ pendiente | — |
