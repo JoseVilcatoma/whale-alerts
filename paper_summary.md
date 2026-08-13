@@ -1,12 +1,12 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 16:54:12 (hora de Perú)
+Actualizado: 2026-08-13 16:56:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,002.72
-**Retorno acumulado:** +0.27%
-**Peor caída desde un máximo (drawdown):** 24.63%
-**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 7
+**Bankroll actual:** $1,002.99
+**Retorno acumulado:** +0.30%
+**Peor caída desde un máximo (drawdown):** 24.07%
+**Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 5
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -15,21 +15,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| swisstony | 27 | 9 | 34 | +18.94 USD |
-| RN1 | 16 | 16 | 40 | +2.60 USD |
-| wr0ngw4yb3tt0r | 1 | 5 | 11 | +1.52 USD |
+| swisstony | 26 | 9 | 12 | +18.94 USD |
+| RN1 | 16 | 15 | 17 | +2.60 USD |
 | Nooserac | 1 | 0 | 1 | +1.06 USD |
+| HomeRunHazard | 1 | 0 | 2 | +0.74 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
-| CORGI8 | 0 | 0 | 5 | +0.00 USD |
-|  | 0 | 0 | 13 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 8 | +0.00 USD |
-| theowalcott | 0 | 0 | 24 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
-| HomeRunHazard | 1 | 2 | 5 | -2.31 USD |
-| ferrariChampions2026 | 47 | 37 | 33 | -2.46 USD |
+| CORGI8 | 0 | 0 | 2 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 3 | 5 | -1.26 USD |
+| ferrariChampions2026 | 45 | 37 | 25 | -2.46 USD |
 | Lakersfan111 | 0 | 1 | 2 | -6.65 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
-| ActionReaction | 0 | 1 | 7 | -250.00 USD |
+| ActionReaction | 0 | 1 | 6 | -250.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -77,33 +73,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Mirassol FC vs. LDU de Quito: O/U 2.5 | Under (BUY) | 61% | 2.76 | 0.3% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 3.98 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Washington Nationals (-4.5) | Washington Nationals (BUY) | 69% | 0.00 | 17.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Washington Nationals: O | Under (BUY) | 57% | 9.77 | 12.7% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.1% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 0.00 | 9.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 54% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.3% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 1.8% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 1.6% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 0.8% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.00 | 2.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Washington Nationals (-2.5) | Chicago Cubs (BUY) | 69% | 0.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 52% | 0.00 | 0.2% | ❌ perdida | -0.00 |
-| RN1 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 68% | 0.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 40% | 18.13 | 8.0% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 11.30 | 1.1% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.09 | 0.2% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 2.82 | 0.3% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 3.10 | 0.4% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 0.78 | 0.6% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 7.24 | 0.7% | ⏳ pendiente | — |
-| theowalcott | CR Vasco da Gama vs. Club Olimpia: O/U 2 | Over (BUY) | 41% | 5.07 | 11.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 55% | 6.28 | 2.3% | ✅ ganada | +5.14 |
-| wr0ngw4yb3tt0r | Spread: Boston Red Sox (-1.5) | Toronto Blue Jays (BUY) | 49% | 0.00 | 2.8% | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 40% | 6.05 | 0.5% | ❌ perdida | -6.05 |
+| ferrariChampions2026 | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 51% | 13.24 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Toronto Blue Jays: O/ | Over (BUY) | 49% | 1.81 | 0.1% | ⏳ pendiente | — |
+| swisstony | Spread: MH Beitar Jerusalem (-1.5) | FK Austria Wien (BUY) | 79% | 1.28 | 0.1% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Chicago White Sox: O | Under (BUY) | 65% | 1.38 | 0.1% | ✅ ganada | +0.74 |
+| ferrariChampions2026 | Valorant: GIANTX vs Fnatic (BO3) - VCT E | Fnatic (BUY) | 84% | 5.23 | 0.4% | ✅ ganada | +1.00 |
+| swisstony | Will FC Inter Turku win on 2026-08-13? | No (BUY) | 96% | 1.94 | 0.2% | ⏳ pendiente | — |
+| swisstony | RSC Anderlecht vs. PAOK: Both Teams to S | Yes (BUY) | 71% | 2.20 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 206.34 | 16.6% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Spirit vs Aurora (BO3) - Th | Aurora (BUY) | 45% | 311.61 ⚠️ | 40.6% | ⏳ pendiente | — |
+| swisstony | Will RSC Anderlecht win on 2026-08-13? | Yes (BUY) | 61% | 2.07 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 6.07 | 0.5% | ⏳ pendiente | — |
+| swisstony | Rangers FC vs. Jagiellonia Białystok: O/ | Over (BUY) | 100% | 2.08 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Toronto Blue Jays: O/ | Under (BUY) | 57% | 9.28 | 0.7% | ⏳ pendiente | — |
+| swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 81% | 1.56 | 0.1% | ✅ ganada | +0.37 |
+| swisstony | Universitatea Craiova CS vs. Kuopion PS: | Under (BUY) | 76% | 1.36 | 0.1% | ✅ ganada | +0.43 |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 89% | 10.60 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. New York Yankees: O | Over (BUY) | 38% | 2.13 | 0.2% | ⏳ pendiente | — |
+| swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 92% | 1.15 | 0.1% | ✅ ganada | +0.10 |
+| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 3.37 | 0.3% | ✅ ganada | +3.96 |
+| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 2 | Under (BUY) | 75% | 2.35 | 0.2% | ✅ ganada | +0.78 |
+| swisstony | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Under (BUY) | 36% | 1.13 | 0.1% | ✅ ganada | +2.01 |
+| ferrariChampions2026 | Beşiktaş JK vs. FC Hradec Králové: O/U 1 | Over (BUY) | 64% | 1.22 | 0.1% | ❌ perdida | -1.22 |
+| swisstony | AS Omónoia Leukosías vs. Lincoln Red Imp | Under (BUY) | 83% | 2.53 | 0.2% | ✅ ganada | +0.52 |
+| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 46% | 6.94 | 0.7% | ✅ ganada | +8.15 |
+| swisstony | Spread: Beşiktaş JK (-1.5) | FC Hradec Králové (BUY) | 51% | 1.58 | 0.2% | ✅ ganada | +1.52 |
+| swisstony | Spread: AS Omónoia Leukosías (-1.5) | Lincoln Red Imps FC (BUY) | 45% | 5.37 | 0.5% | ✅ ganada | +6.56 |
+| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 1 | Under (BUY) | 49% | 1.66 | 0.2% | ❌ perdida | -1.66 |
+| ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - E | FaZe (BUY) | 83% | 1.92 | 0.2% | ⏳ pendiente | — |
+| swisstony | Górnik Zabrze vs. Ferencvárosi TC: O/U 2 | Under (BUY) | 83% | 0.00 | 0.7% | ✅ ganada | +0.00 |

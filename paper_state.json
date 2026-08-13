@@ -1,5 +1,5 @@
 {
-  "bankroll": 1002.7188335894796,
+  "bankroll": 1002.9906517712977,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -157,724 +157,679 @@
       "event": "won: swisstony \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 4.5"
     },
     {
-      "timestamp": 1786649304.0526538,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649304.1527991,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649304.252952,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649304.653703,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649305.2547946,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649305.354991,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649305.4551497,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649742.7537549,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 6.5"
-    },
-    {
-      "timestamp": 1786649863.465194,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.4130914,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.5133219,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.613556,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.713783,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.8139453,
-      "bankroll": 1248.14,
-      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786649864.9140885,
-      "bankroll": 1248.14,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786650616.3892193,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650617.4148731,
-      "bankroll": 1248.47,
-      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650618.6208713,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650619.2219589,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650619.9230356,
-      "bankroll": 1248.47,
-      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650620.0232294,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650621.0690866,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650621.1693177,
-      "bankroll": 1248.47,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650621.569962,
-      "bankroll": 1248.47,
-      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786650621.6701138,
-      "bankroll": 1248.47,
-      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
-    },
-    {
-      "timestamp": 1786651561.066455,
-      "bankroll": 1248.76,
-      "event": "won: swisstony \u2014 FC Flora vs. Inter Club d'Escaldes: O/U 4.5"
-    },
-    {
-      "timestamp": 1786651621.557169,
-      "bankroll": 1247.68,
-      "event": "lost: RN1 \u2014 Will FC Flora win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786651748.9611986,
-      "bankroll": 1273.12,
-      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651749.78857,
-      "bankroll": 1275.5,
-      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651750.1938639,
-      "bankroll": 1274.23,
-      "event": "lost: RN1 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651750.5290678,
-      "bankroll": 1275.11,
-      "event": "won: ferrariChampions2026 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 1.5"
-    },
-    {
-      "timestamp": 1786651750.6292744,
-      "bankroll": 1276.97,
-      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651751.0551994,
-      "bankroll": 1275.69,
-      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
-    },
-    {
-      "timestamp": 1786651751.1554165,
-      "bankroll": 1274.05,
-      "event": "lost: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651752.0572002,
-      "bankroll": 1275.45,
-      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
-    },
-    {
-      "timestamp": 1786651752.457956,
-      "bankroll": 1272.91,
-      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
-    },
-    {
-      "timestamp": 1786651754.483023,
-      "bankroll": 1272.91,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
-    },
-    {
-      "timestamp": 1786651755.8506474,
-      "bankroll": 1272.91,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
-    },
-    {
-      "timestamp": 1786651756.0511394,
-      "bankroll": 1272.91,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
-    },
-    {
-      "timestamp": 1786651757.2425134,
-      "bankroll": 1272.91,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
-    },
-    {
-      "timestamp": 1786651757.3427582,
-      "bankroll": 1272.91,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
-    },
-    {
-      "timestamp": 1786651760.5795565,
-      "bankroll": 1272.91,
-      "event": "won: swisstony \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
-    },
-    {
-      "timestamp": 1786651811.0515738,
-      "bankroll": 1271.23,
-      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786651812.0532484,
-      "bankroll": 1269.44,
-      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786651820.6394768,
-      "bankroll": 1269.44,
-      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 6.5"
-    },
-    {
-      "timestamp": 1786651875.5860772,
-      "bankroll": 1269.53,
-      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 5.5"
-    },
-    {
-      "timestamp": 1786651936.2885985,
-      "bankroll": 1269.86,
-      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 0.5"
-    },
-    {
-      "timestamp": 1786651996.0256147,
-      "bankroll": 1268.6,
+      "timestamp": 1786658068.4939575,
+      "bankroll": 1246.88,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
     },
     {
-      "timestamp": 1786651997.5407882,
-      "bankroll": 1266.61,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
-    },
-    {
-      "timestamp": 1786651999.2077076,
-      "bankroll": 1266.61,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
-    },
-    {
-      "timestamp": 1786652003.033643,
-      "bankroll": 1266.61,
-      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
-    },
-    {
-      "timestamp": 1786652124.5703628,
-      "bankroll": 1267.18,
-      "event": "won: swisstony \u2014 Will Abha Saudi Club win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786652377.0104692,
-      "bankroll": 1267.18,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
-    },
-    {
-      "timestamp": 1786652377.4529328,
-      "bankroll": 1267.18,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
-    },
-    {
-      "timestamp": 1786652377.7533844,
-      "bankroll": 1267.18,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
-    },
-    {
-      "timestamp": 1786652689.8863342,
-      "bankroll": 1267.18,
-      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
-    },
-    {
-      "timestamp": 1786652690.4875822,
-      "bankroll": 1267.18,
-      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
-    },
-    {
-      "timestamp": 1786652746.2540915,
-      "bankroll": 1267.31,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786652756.5712755,
-      "bankroll": 1267.31,
-      "event": "won: RN1 \u2014 Will FK R\u012bgas Futbola Skola vs. FK Jablonec end in a draw?"
-    },
-    {
-      "timestamp": 1786652935.4087787,
-      "bankroll": 1017.31,
-      "event": "lost: ActionReaction \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786652999.97436,
-      "bankroll": 1017.31,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
-    },
-    {
-      "timestamp": 1786653000.4105933,
-      "bankroll": 1017.31,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
-    },
-    {
-      "timestamp": 1786653000.510741,
-      "bankroll": 1017.31,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
-    },
-    {
-      "timestamp": 1786653122.9780247,
-      "bankroll": 1017.64,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
-    },
-    {
-      "timestamp": 1786653123.178407,
-      "bankroll": 1017.88,
-      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
-    },
-    {
-      "timestamp": 1786653326.7488072,
-      "bankroll": 1018.63,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 17.5"
-    },
-    {
-      "timestamp": 1786653496.5126169,
-      "bankroll": 1011.98,
-      "event": "lost: Lakersfan111 \u2014 Map Handicap: FaZe (-1.5) vs Legacy (+1.5)"
-    },
-    {
-      "timestamp": 1786653623.9759862,
-      "bankroll": 1011.98,
-      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B"
-    },
-    {
-      "timestamp": 1786653808.3298347,
-      "bankroll": 1013.27,
-      "event": "won: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786653808.429964,
-      "bankroll": 1011.8,
-      "event": "lost: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786653812.6738694,
-      "bankroll": 1011.8,
-      "event": "lost: RN1 \u2014 Will Al Hazem SC win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786653835.3279493,
-      "bankroll": 1011.8,
-      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 4.5"
-    },
-    {
-      "timestamp": 1786653886.9128466,
-      "bankroll": 1005.75,
-      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
-    },
-    {
-      "timestamp": 1786653887.413603,
-      "bankroll": 1004.24,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
-    },
-    {
-      "timestamp": 1786653887.613828,
-      "bankroll": 1002.7,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
-    },
-    {
-      "timestamp": 1786654194.5164828,
-      "bankroll": 1002.7,
-      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
-    },
-    {
-      "timestamp": 1786654447.9850788,
-      "bankroll": 1002.7,
-      "event": "lost: RN1 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654448.7351534,
-      "bankroll": 1002.7,
-      "event": "won: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654452.4385204,
-      "bankroll": 1001.48,
-      "event": "lost: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 1.5"
-    },
-    {
-      "timestamp": 1786654452.5386915,
-      "bankroll": 1003.49,
-      "event": "won: swisstony \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 1.5"
-    },
-    {
-      "timestamp": 1786654452.6388912,
-      "bankroll": 1004.28,
-      "event": "won: swisstony \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654510.37308,
-      "bankroll": 1004.28,
-      "event": "lost: RN1 \u2014 FC DAC 1904 Dunajsk\u00e1 Streda vs. FC Twente: O/U 4.5"
-    },
-    {
-      "timestamp": 1786654567.4125028,
-      "bankroll": 1004.28,
-      "event": "lost: ferrariChampions2026 \u2014 Will P\u00e1fos FC win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786654629.1089528,
-      "bankroll": 1007.37,
+      "timestamp": 1786658068.799578,
+      "bankroll": 1249.98,
       "event": "won: RN1 \u2014 Spread: FC Midtjylland (-1.5)"
     },
     {
-      "timestamp": 1786654630.9587755,
-      "bankroll": 1007.37,
-      "event": "won: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+      "timestamp": 1786658069.0970576,
+      "bankroll": 1275.42,
+      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
     },
     {
-      "timestamp": 1786654631.6755373,
-      "bankroll": 1007.37,
-      "event": "won: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 0.5"
+      "timestamp": 1786658069.4227896,
+      "bankroll": 1274.34,
+      "event": "lost: RN1 \u2014 Will FC Flora win on 2026-08-13?"
     },
     {
-      "timestamp": 1786654634.1180825,
-      "bankroll": 1007.37,
-      "event": "lost: RN1 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786654634.2183743,
-      "bankroll": 1007.37,
-      "event": "lost: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786654639.160612,
-      "bankroll": 1007.37,
-      "event": "won: ferrariChampions2026 \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
-    },
-    {
-      "timestamp": 1786654642.2448375,
-      "bankroll": 1007.37,
-      "event": "won: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654642.4452236,
-      "bankroll": 1005.71,
-      "event": "lost: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
-    },
-    {
-      "timestamp": 1786654695.1675732,
-      "bankroll": 1005.71,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 1.5"
-    },
-    {
-      "timestamp": 1786654697.1137233,
-      "bankroll": 1005.71,
-      "event": "won: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-2.5)"
-    },
-    {
-      "timestamp": 1786654698.0500379,
-      "bankroll": 1005.71,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654698.3504887,
-      "bankroll": 1005.71,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654698.4506814,
-      "bankroll": 1005.71,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654703.250032,
-      "bankroll": 1005.71,
-      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654703.3502307,
-      "bankroll": 1005.71,
-      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654703.5506196,
-      "bankroll": 1005.71,
-      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654703.9514198,
-      "bankroll": 1005.71,
-      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654705.1651359,
-      "bankroll": 1006.23,
-      "event": "won: swisstony \u2014 AS Om\u00f3noia Leukos\u00edas vs. Lincoln Red Imps FC: Lincoln Red Imps FC O/U 0.5"
-    },
-    {
-      "timestamp": 1786654705.6662054,
-      "bankroll": 1006.66,
-      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654705.7664049,
-      "bankroll": 1007.03,
-      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654758.0831046,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654759.585717,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654759.6859267,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654759.786145,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654759.8863761,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654760.5876698,
-      "bankroll": 1007.03,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654761.532354,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
-    },
-    {
-      "timestamp": 1786654762.1600788,
-      "bankroll": 1007.03,
-      "event": "lost: swisstony \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
-    },
-    {
-      "timestamp": 1786654765.6870618,
-      "bankroll": 1007.03,
-      "event": "lost: ferrariChampions2026 \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
-    },
-    {
-      "timestamp": 1786654765.787237,
-      "bankroll": 1007.03,
-      "event": "lost: RN1 \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
-    },
-    {
-      "timestamp": 1786654766.4526696,
-      "bankroll": 1007.03,
-      "event": "won: RN1 \u2014 FC Nordsj\u00e6lland vs. KF Valur: O/U 4.5"
-    },
-    {
-      "timestamp": 1786654766.6530488,
-      "bankroll": 1007.03,
-      "event": "won: ferrariChampions2026 \u2014 FC Nordsj\u00e6lland vs. KF Valur: O/U 4.5"
-    },
-    {
-      "timestamp": 1786654767.8938348,
-      "bankroll": 1007.13,
-      "event": "won: swisstony \u2014 AS Om\u00f3noia Leukos\u00edas vs. Lincoln Red Imps FC: O/U 3.5"
-    },
-    {
-      "timestamp": 1786654817.602438,
-      "bankroll": 1005.64,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Universitatea Craiova CS (-1.5)"
-    },
-    {
-      "timestamp": 1786654821.958828,
-      "bankroll": 1005.64,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 4.5"
-    },
-    {
-      "timestamp": 1786654822.7092712,
-      "bankroll": 1005.64,
-      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 4.5"
-    },
-    {
-      "timestamp": 1786654825.3380446,
-      "bankroll": 1005.64,
-      "event": "won: RN1 \u2014 Will Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa end in a draw?"
-    },
-    {
-      "timestamp": 1786654827.198414,
-      "bankroll": 1005.64,
-      "event": "won: swisstony \u2014 Spread: G\u00f3rnik Zabrze (-1.5)"
-    },
-    {
-      "timestamp": 1786654880.3350816,
-      "bankroll": 977.7,
+      "timestamp": 1786658069.7585828,
+      "bankroll": 1246.4,
       "event": "lost: RN1 \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
     },
     {
-      "timestamp": 1786654886.5909297,
-      "bankroll": 977.7,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+      "timestamp": 1786658070.0822766,
+      "bankroll": 1246.73,
+      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 0.5"
     },
     {
-      "timestamp": 1786654889.3437686,
-      "bankroll": 979.22,
-      "event": "won: swisstony \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+      "timestamp": 1786658070.3276017,
+      "bankroll": 1249.11,
+      "event": "won: RN1 \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
     },
     {
-      "timestamp": 1786654891.8494184,
-      "bankroll": 976.86,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Cincinnati Reds (-4.5)"
+      "timestamp": 1786658070.642764,
+      "bankroll": 1247.62,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Universitatea Craiova CS (-1.5)"
     },
     {
-      "timestamp": 1786654945.6611044,
-      "bankroll": 976.86,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+      "timestamp": 1786658070.9492338,
+      "bankroll": 1246.35,
+      "event": "lost: RN1 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 2.5"
     },
     {
-      "timestamp": 1786654946.1742656,
-      "bankroll": 976.86,
-      "event": "won: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 0.5"
+      "timestamp": 1786658071.2744517,
+      "bankroll": 1247.23,
+      "event": "won: ferrariChampions2026 \u2014 Ilves Tampere vs. HNK Rijeka: O/U 1.5"
     },
     {
-      "timestamp": 1786654947.2386875,
-      "bankroll": 976.86,
-      "event": "lost: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+      "timestamp": 1786658071.3745732,
+      "bankroll": 1249.09,
+      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
     },
     {
-      "timestamp": 1786654947.3388932,
-      "bankroll": 976.86,
-      "event": "lost: RN1 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+      "timestamp": 1786658072.0104575,
+      "bankroll": 1247.81,
+      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
     },
     {
-      "timestamp": 1786654952.1811736,
-      "bankroll": 983.42,
-      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+      "timestamp": 1786658072.348039,
+      "bankroll": 1248.1,
+      "event": "won: swisstony \u2014 FC Flora vs. Inter Club d'Escaldes: O/U 4.5"
     },
     {
-      "timestamp": 1786654952.2814054,
-      "bankroll": 991.57,
-      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+      "timestamp": 1786658072.4481692,
+      "bankroll": 1246.46,
+      "event": "lost: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
     },
     {
-      "timestamp": 1786654952.3815386,
-      "bankroll": 995.52,
-      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+      "timestamp": 1786658072.7947378,
+      "bankroll": 1247.75,
+      "event": "won: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
     },
     {
-      "timestamp": 1786655009.2604764,
-      "bankroll": 995.52,
-      "event": "lost: swisstony \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 2.5"
+      "timestamp": 1786658072.8948972,
+      "bankroll": 1246.28,
+      "event": "lost: swisstony \u2014 Will Al Hazem SC win on 2026-08-13?"
     },
     {
-      "timestamp": 1786655010.4769247,
-      "bankroll": 995.52,
-      "event": "won: RN1 \u2014 Will Hammarby Fotboll win on 2026-08-13?"
+      "timestamp": 1786658073.253299,
+      "bankroll": 1246.86,
+      "event": "won: swisstony \u2014 Will Abha Saudi Club win on 2026-08-13?"
     },
     {
-      "timestamp": 1786655449.3738456,
-      "bankroll": 995.52,
-      "event": "lost: RN1 \u2014 FK Dynama-Minsk vs. SC Braga: O/U 0.5"
+      "timestamp": 1786658073.5831687,
+      "bankroll": 1245.18,
+      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
     },
     {
-      "timestamp": 1786655582.7284617,
-      "bankroll": 995.52,
-      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 4.5"
+      "timestamp": 1786658074.177818,
+      "bankroll": 1246.58,
+      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 2.5"
     },
     {
-      "timestamp": 1786656443.3048873,
-      "bankroll": 995.52,
-      "event": "won: ferrariChampions2026 \u2014 KF V\u00edkingur vs. FC Thun: O/U 4.5"
+      "timestamp": 1786658074.2780416,
+      "bankroll": 1244.59,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
     },
     {
-      "timestamp": 1786656826.058329,
-      "bankroll": 995.52,
-      "event": "won: swisstony \u2014 FC Vaduz vs. FC Inter Turku: O/U 4.5"
-    },
-    {
-      "timestamp": 1786656878.327507,
-      "bankroll": 995.52,
-      "event": "won: ferrariChampions2026 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-13?"
-    },
-    {
-      "timestamp": 1786657273.5199025,
-      "bankroll": 995.52,
-      "event": "lost: RN1 \u2014 Boston Red Sox vs. Toronto Blue Jays: O/U 6.5"
-    },
-    {
-      "timestamp": 1786657623.5562158,
-      "bankroll": 996.58,
+      "timestamp": 1786658074.6366727,
+      "bankroll": 1245.65,
       "event": "won: Nooserac \u2014 Valorant: GIANTX vs Fnatic (BO3) - VCT EMEA Play-Ins"
     },
     {
-      "timestamp": 1786657631.7823722,
-      "bankroll": 997.58,
+      "timestamp": 1786658074.975183,
+      "bankroll": 1245.74,
+      "event": "won: swisstony \u2014 Qaraba\u011f A\u011fdam FK vs. FK Dynamo Kyiv: O/U 5.5"
+    },
+    {
+      "timestamp": 1786658075.0753634,
+      "bankroll": 1243.2,
+      "event": "lost: swisstony \u2014 Ilves Tampere vs. HNK Rijeka: Both Teams to Score"
+    },
+    {
+      "timestamp": 1786658075.582648,
+      "bankroll": 1243.53,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658075.6827977,
+      "bankroll": 1241.74,
+      "event": "lost: swisstony \u2014 Will HNK Rijeka win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658075.9921393,
+      "bankroll": 991.74,
+      "event": "lost: ActionReaction \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786658076.359708,
+      "bankroll": 992.07,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
+    },
+    {
+      "timestamp": 1786658076.6045008,
+      "bankroll": 992.32,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports (BO3) - TCL Play-Ins"
+    },
+    {
+      "timestamp": 1786658076.9145036,
+      "bankroll": 985.67,
+      "event": "lost: Lakersfan111 \u2014 Map Handicap: FaZe (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1786658077.2259011,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dark Passage vs BoostGate Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786658077.5183406,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658077.6185436,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658077.7186646,
+      "bankroll": 985.79,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786658078.1696095,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658078.4736054,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658078.573773,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658078.6739514,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.013412,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.1135354,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.2137003,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.313835,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.4139512,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.514176,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.614379,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs FaZe - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.714516,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.814641,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658079.9147725,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786658080.246821,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786658080.5857873,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786658080.9187467,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786658081.0188804,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786658081.1190867,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658081.4122062,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658081.6124344,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786658081.9370596,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 0.5"
+    },
+    {
+      "timestamp": 1786658082.1373477,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658082.237569,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786658082.4378781,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786658082.7674744,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1786658083.1204205,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Will P\u00e1fos FC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658083.2205887,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1786658083.3207746,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658083.4209192,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658083.5210743,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Skillcamp Esport vs Karmine Corp Blue (BO3) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1786658083.8216527,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786658083.9217944,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786658084.3764637,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658084.4765851,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658084.5767906,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658085.0173123,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786658085.2176144,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658085.3178039,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins"
+    },
+    {
+      "timestamp": 1786658085.782408,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 0.5"
+    },
+    {
+      "timestamp": 1786658086.12445,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658086.4480164,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1786658086.7767923,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1786658087.1184433,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658087.218613,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658087.318792,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658087.4190006,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658087.724196,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-2.5)"
+    },
+    {
+      "timestamp": 1786658087.8244154,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786658087.9245255,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658088.024641,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Will Al Hazem SC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658088.12479,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Will G\u00f3rnik Zabrze win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658088.6037312,
+      "bankroll": 985.79,
+      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
+    },
+    {
+      "timestamp": 1786658088.9614835,
+      "bankroll": 985.79,
+      "event": "won: swisstony \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786658089.645015,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658089.7451332,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658089.8453045,
+      "bankroll": 985.79,
+      "event": "won: swisstony \u2014 Spread: FK Jablonec (-1.5)"
+    },
+    {
+      "timestamp": 1786658090.1817794,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658090.28193,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658090.525765,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658090.625929,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658090.9631374,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658092.211752,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Detroit Tigers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786658092.3119488,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658092.412069,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658092.8941808,
+      "bankroll": 985.79,
+      "event": "lost: swisstony \u2014 Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658093.2651026,
+      "bankroll": 985.79,
+      "event": "lost: swisstony \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
+    },
+    {
+      "timestamp": 1786658094.4617188,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 KF V\u00edkingur vs. FC Thun: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658094.904747,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Will Hammarby Fotboll win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786658095.00494,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+    },
+    {
+      "timestamp": 1786658095.712078,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658096.1862996,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 FC DAC 1904 Dunajsk\u00e1 Streda vs. FC Twente: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658096.5295196,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Will Hammarby Fotboll vs. RKS Rak\u00f3w Cz\u0119stochowa end in a draw?"
+    },
+    {
+      "timestamp": 1786658096.7297497,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658097.0299459,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658097.674218,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 Will FK R\u012bgas Futbola Skola vs. FK Jablonec end in a draw?"
+    },
+    {
+      "timestamp": 1786658098.5529273,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 FK Dynama-Minsk vs. SC Braga: O/U 0.5"
+    },
+    {
+      "timestamp": 1786658098.929968,
+      "bankroll": 985.79,
+      "event": "lost: ferrariChampions2026 \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
+    },
+    {
+      "timestamp": 1786658099.0301356,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 P\u00e1fos FC vs. FC Red Bull Salzburg: O/U 5.5"
+    },
+    {
+      "timestamp": 1786658099.2304487,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658099.3305933,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658099.5309155,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658099.9692998,
+      "bankroll": 985.79,
+      "event": "won: RN1 \u2014 FC Nordsj\u00e6lland vs. KF Valur: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658100.1711292,
+      "bankroll": 985.79,
+      "event": "lost: RN1 \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658100.2712696,
+      "bankroll": 985.79,
+      "event": "won: ferrariChampions2026 \u2014 FC Nordsj\u00e6lland vs. KF Valur: O/U 4.5"
+    },
+    {
+      "timestamp": 1786658100.6763036,
+      "bankroll": 985.79,
+      "event": "won: swisstony \u2014 Spread: G\u00f3rnik Zabrze (-1.5)"
+    },
+    {
+      "timestamp": 1786658101.2231095,
+      "bankroll": 985.79,
+      "event": "won: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658101.423349,
+      "bankroll": 984.13,
+      "event": "lost: swisstony \u2014 G\u00f3rnik Zabrze vs. Ferencv\u00e1rosi TC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658101.5234656,
+      "bankroll": 990.69,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786658101.6235907,
+      "bankroll": 992.21,
+      "event": "won: swisstony \u2014 Spread: Be\u015fikta\u015f JK (-1.5)"
+    },
+    {
+      "timestamp": 1786658101.7245476,
+      "bankroll": 1000.36,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786658102.0322905,
+      "bankroll": 1000.88,
+      "event": "won: swisstony \u2014 AS Om\u00f3noia Leukos\u00edas vs. Lincoln Red Imps FC: Lincoln Red Imps FC O/U 0.5"
+    },
+    {
+      "timestamp": 1786658102.3889432,
+      "bankroll": 999.66,
+      "event": "lost: ferrariChampions2026 \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658102.4891484,
+      "bankroll": 1001.67,
+      "event": "won: swisstony \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 1.5"
+    },
+    {
+      "timestamp": 1786658102.5893662,
+      "bankroll": 1002.45,
+      "event": "won: swisstony \u2014 Be\u015fikta\u015f JK vs. FC Hradec Kr\u00e1lov\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1786658102.6895933,
+      "bankroll": 1006.41,
+      "event": "won: swisstony \u2014 Spread: AS Om\u00f3noia Leukos\u00edas (-1.5)"
+    },
+    {
+      "timestamp": 1786658103.0186617,
+      "bankroll": 1006.51,
+      "event": "won: swisstony \u2014 AS Om\u00f3noia Leukos\u00edas vs. Lincoln Red Imps FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658103.3190544,
+      "bankroll": 1006.94,
+      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658103.4191842,
+      "bankroll": 1007.3,
+      "event": "won: swisstony \u2014 Universitatea Craiova CS vs. Kuopion PS: O/U 3.5"
+    },
+    {
+      "timestamp": 1786658104.517394,
+      "bankroll": 1008.3,
       "event": "won: ferrariChampions2026 \u2014 Valorant: GIANTX vs Fnatic (BO3) - VCT EMEA Play-Ins"
     },
     {
-      "timestamp": 1786657834.3898683,
-      "bankroll": 997.58,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-1.5)"
+      "timestamp": 1786658104.8523562,
+      "bankroll": 1009.04,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago White Sox: O/U 17.5"
     },
     {
-      "timestamp": 1786657834.4901385,
-      "bankroll": 1002.72,
-      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Boston Red Sox (-1.5)"
+      "timestamp": 1786658105.5363572,
+      "bankroll": 1002.99,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 5.5"
     }
   ]
 }
