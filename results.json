@@ -27618,5 +27618,70 @@
     "usd": 17365.261899999998,
     "odds_at_bet": 73,
     "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1912,
+    "timestamp": 1786581269,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "atp-tien-shelton-2026-08-12-first-set-winner-Tien-vs-Shelton",
+    "title": "Set 1 Winner: Tien vs Shelton",
+    "outcome": "Shelton",
+    "side": "BUY",
+    "usd": 17571.409999000003,
+    "odds_at_bet": 66,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1913,
+    "timestamp": 1786581273,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 90490.782,
+    "odds_at_bet": 71,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1914,
+    "timestamp": 1786581273,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 17400.0,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1915,
+    "timestamp": 1786581293,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 17974.4407,
+    "odds_at_bet": 29,
+    "status": "pending"
+  },
+  {
+    "telegram_msg_id": 1916,
+    "timestamp": 1786581293,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tien-shelton-2026-08-12",
+    "title": "National Bank Open: Learner Tien vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 43853.7393,
+    "odds_at_bet": 71,
+    "status": "pending"
   }
 ]

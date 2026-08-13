@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-12 19:33:45 (hora de Perú)
+Actualizado: 2026-08-12 19:36:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $10,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2118**  ($57,031,893 en total)
+- Apuestas registradas: **2123**  ($57,219,183 en total)
 - Resueltas: **1360** — 808 ganadas / 552 perdidas (**59%** de acierto)
-- Pendientes: 758
-- Apostadores distintos: 182
+- Pendientes: 763
+- Apostadores distintos: 183
 
 ### Balance
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 67 | 43% | $9,441,415 | +$652,001 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 50 | 66 | 69 | 43% | $9,476,789 | +$652,001 |
 | Djdjdjekekek | 36 | 82 | 57 | 31% | $8,408,379 | -$2,427,829 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 54 | 31 | 35% | $3,395,143 | -$564,452 |
 | ferrariChampions2026 | 105 | 32 | 63 | 77% | $2,809,114 | +$168,085 |
 | pleaseplease123 | 0 | 44 | 36 | 0% | $2,314,158 | -$1,082,423 |
-| AV23IUa | 33 | 24 | 26 | 58% | $2,131,031 | +$171,257 |
+| AV23IUa | 33 | 24 | 28 | 58% | $2,265,376 | +$171,257 |
 | Weaseloftheweek | 19 | 2 | 9 | 90% | $2,010,911 | +$872,236 |
 | BreakTheBank | 0 | 12 | 10 | 0% | $1,543,814 | -$803,506 |
 | 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | 0 | 0 | 17 | — | $932,324 | — |
@@ -65,12 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ThornyDevil | 2 | 6 | 1 | 25% | $254,880 | -$207,394 |
 | DonaldinhoTrumpito | 0 | 0 | 13 | — | $244,529 | — |
 
-_(mostrando los 40 de mayor monto, de 182 en total)_
+_(mostrando los 40 de mayor monto, de 183 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,974 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $43,854 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Learner Tien vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $90,491 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Learner Tien vs Ben Shelton | Learner Tien | 3.45 (29¢) | $17,400 | — | ⏳ Pendiente |
+| xabidaking | Set 1 Winner: Tien vs Shelton | Shelton | 1.52 (66¢) | $17,571 | — | ⏳ Pendiente |
 | HyperwellNerdZ | Will Deportivo Toluca FC win on 2026-08-12? | Yes | 1.37 (73¢) | $17,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Elina Svitolina vs Iga Swiatek | Iga Swiatek | 1.49 (67¢) | $20,515 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $12,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $12,005 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cleveland Guardians vs. Detroit Tigers | Cleveland Guardians | 1.72 (58¢) | $11,691 | — | ⏳ Pendiente |
-| 0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509 | Cleveland Guardians vs. Detroit Tigers | Detroit Tigers | 2.38 (42¢) | $28,982 | — | ⏳ Pendiente |
-| xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
-| xifutloong3 | Cincinnati Reds vs. Chicago White Sox | Chicago White Sox | 1.61 (62¢) | $35,429 | — | ⏳ Pendiente |
-| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
-| icetera | National Bank Open: Rafael Jodar vs Brandon Nakashima | Brandon Nakashima | 1.18 (85¢) | $24,734 | — | ⏳ Pendiente |
