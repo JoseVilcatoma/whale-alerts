@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 22:35:08 (hora de Perú)
+Actualizado: 2026-08-12 22:37:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $536.93
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 171 | 114 | 23 | -26.60 USD |
+| swisstony | 171 | 114 | 24 | -26.60 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
 | RN1 | 231 | 126 | 20 | -38.74 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 662 | 496 | 64 | -96.78 USD |
+| ferrariChampions2026 | 662 | 496 | 66 | -96.78 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -502,11 +502,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wnba-chi-gsv-2026-08-12 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | lec-tol-dal-2026-08-12-tol | ferrariChampions2026, swisstony |
 | wnba-chi-gsv-2026-08-12-spread-home-9pt5 | swisstony, wr0ngw4yb3tt0r |
+| wnba-min-por-2026-08-12 | , swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Minnesota Lynx vs. PortlandFire | Minnesota Lynx (BUY) | 93% | 1.56 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | Team Falcons (BUY) | 66% | 1.09 | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 41% | 1.47 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Nigma Galaxy (BUY) | 42% | 0.66 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs LGD Gaming - Gam | LGD Gaming (BUY) | 40% | 0.68 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Nigma Galaxy - Game | Iron Wing (BUY) | 60% | 2.69 | ⏳ pendiente | — |
@@ -534,6 +538,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 64% | 0.89 | ⏳ pendiente | — |
 | swisstony | Chicago Sky vs. Golden State Valkyries:  | Under (BUY) | 35% | 0.65 | ⏳ pendiente | — |
 | swisstony | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 84% | 8.59 | ⏳ pendiente | — |
-| swisstony | Deportivo Toluca FC vs. FC Dallas: O/U 4 | Over (BUY) | 53% | 0.74 | ⏳ pendiente | — |
-| swisstony | Spread: Golden State Valkyries (-9.5) | Golden State Valkyries (BUY) | 33% | 0.62 | ⏳ pendiente | — |
-| swisstony | Chicago Sky vs. Golden State Valkyries:  | Over (BUY) | 76% | 0.67 | ⏳ pendiente | — |
