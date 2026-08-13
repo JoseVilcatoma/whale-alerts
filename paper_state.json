@@ -1,5 +1,5 @@
 {
-  "bankroll": 1246.6166888002601,
+  "bankroll": 1248.0017391921974,
   "history": [
     {
       "timestamp": 1786644369.622281,
@@ -135,6 +135,21 @@
       "timestamp": 1786647682.4922805,
       "bankroll": 1246.62,
       "event": "won: swisstony \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 3.5"
+    },
+    {
+      "timestamp": 1786647802.6364095,
+      "bankroll": 1248.65,
+      "event": "won: RN1 \u2014 Tobyl FK vs. FK Partizan Beograd: O/U 2.5"
+    },
+    {
+      "timestamp": 1786647803.1432548,
+      "bankroll": 1247.62,
+      "event": "lost: ferrariChampions2026 \u2014 Will Tobyl FK win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786647807.0693913,
+      "bankroll": 1248.0,
+      "event": "won: swisstony \u2014 Will Tobyl FK win on 2026-08-13?"
     }
   ]
 }
