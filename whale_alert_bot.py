@@ -30,6 +30,7 @@ import socket
 import sys
 import threading
 import time
+import re as _re_mod
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -59,7 +60,15 @@ BACKUP_INTERVAL = float(os.environ.get("BACKUP_INTERVAL", "300"))
 MUDO_SEGUNDOS = float(os.environ.get("MUDO_SEGUNDOS", "25"))
 # Si una ballena vende algo que NO le habíamos alertado, ¿avisar igual?
 # Por defecto no, para no llenar el canal de salidas sin contexto.
-PUBLICAR_VENTAS = os.environ.get("PUBLICAR_VENTAS", "0") not in ("0", "false", "no")  # tras cuántos segundos sin datos se fuerza reconexión  # cada cuánto revisar por API lo que el stream perdió
+PUBLICAR_VENTAS = os.environ.get("PUBLICAR_VENTAS", "0") not in ("0", "false", "no")
+# Solo deportes y esports (fútbol, MLB, NBA, NFL, Dota, CS2, LoL, Valorant,
+# tenis, UFC...). Poner "0" para dejar entrar también política, cripto, etc.
+SOLO_DEPORTES = os.environ.get("SOLO_DEPORTES", "1") not in ("0", "false", "no")
+# Si en una misma ronda se resuelven más de N apuestas, se manda un resumen
+# agrupado en vez de un mensaje por cada una (evita el bombardeo tras reiniciar).
+# Ventana para fusionar los pedazos ("fills") de una misma orden grande.
+# Polymarket parte las órdenes: sin esto, una decisión cuenta 4-5 veces.
+FILL_MERGE_WINDOW = float(os.environ.get("FILL_MERGE_WINDOW", "120"))
 # Ignorar apuestas a resultados ya casi definidos: a 95¢ (cuota 1.05) no se
 # está prediciendo nada, se recoge el último centavo, y eso infla el % de
 # acierto sin decir nada de la habilidad del apostador.
@@ -98,18 +107,62 @@ def load_json(path):
     return None
 
 
-def get_market(slug):
+def get_market(slug, max_age=180):
+    """Trae los datos de un mercado.
+    Si ya CERRÓ, el dato no cambia más y se cachea para siempre.
+    Si sigue ABIERTO, se vuelve a consultar cada max_age segundos en vez de
+    quedarse pegado con la primera respuesta — si no, el bot no se entera
+    nunca de que el partido terminó y las resoluciones se acumulan hasta
+    el próximo reinicio."""
     if not slug:
         return None
-    if slug in _market_cache:
-        return _market_cache[slug]
+    guardado = _market_cache.get(slug)
+    if guardado:
+        m, cuando = guardado
+        if m and m.get("closed"):
+            return m
+        if time.time() - cuando < max_age:
+            return m
     try:
-        r = requests.get(f"{GAMMA_API}/markets/slug/{slug}", timeout=8)
+        r = requests.get(f"{GAMMA_API}/markets/slug/{slug}",
+                         params={"include_tag": "true"}, timeout=8)
         m = r.json() if r.ok else None
     except Exception:
         m = None
-    _market_cache[slug] = m
+    _market_cache[slug] = (m, time.time())
     return m
+
+
+SPORT_KEYWORDS = [
+    r"\bvs\.?\b", r"\bnba\b", r"\bnfl\b", r"\bmlb\b", r"\bnhl\b", r"\bwnba\b",
+    r"\bsoccer\b", r"\bf[úu]tbol\b", r"\bdota\b", r"\bcs2\b", r"\bcsgo\b",
+    r"\bcounter-?strike\b", r"\bleague of legends\b", r"\blol\b", r"\bvalorant\b",
+    r"\besports?\b", r"\be-sports\b", r"\btennis\b", r"\batp\b", r"\bwta\b",
+    r"\bufc\b", r"\bmma\b", r"\bboxing\b", r"\bcricket\b", r"\bgolf\b",
+    r"\bpremier league\b", r"\bla liga\b", r"\bserie a\b", r"\bbundesliga\b",
+    r"\bligue 1\b", r"\bmls\b", r"\bchampions league\b", r"\blibertadores\b",
+    r"\bsudamericana\b", r"\bbaseball\b", r"\bbasketball\b", r"\bhockey\b",
+]
+
+
+def es_deporte(market):
+    """¿Es un mercado de deportes o esports? Polymarket marca internamente
+    los deportivos con el campo 'sports', que es la vía más confiable: sirve
+    para cualquier liga y en cualquier idioma. Las etiquetas y las palabras
+    clave quedan como respaldo."""
+    if not market:
+        return False
+    if market.get("sports"):
+        return True
+    for t in (market.get("tags") or []):
+        etiqueta = (t.get("label") or t.get("slug") or "") if isinstance(t, dict) else str(t)
+        etiqueta = etiqueta.lower()
+        if etiqueta in ("sports", "esports", "e-sports"):
+            return True
+        if any(_re_mod.search(k, etiqueta) for k in SPORT_KEYWORDS):
+            return True
+    texto = f"{market.get('title','')} {market.get('slug','')}".lower()
+    return any(_re_mod.search(k, texto) for k in SPORT_KEYWORDS)
 
 
 def market_result(market, outcome):
@@ -161,6 +214,7 @@ def resolve_pending_results():
     if pending:
         print(f"[resolver] revisando {len(pending)} pendientes...")
     abiertos = irresolubles = 0
+    recien_resueltas = []
     for r in pending:
         if not r.get("slug"):
             irresolubles += 1
@@ -172,8 +226,7 @@ def resolve_pending_results():
                 r["status"] = outcome
             changed = True
             print(f"  ✔ resuelta: {r['username']} — {(r.get('title') or '')[:40]} → {outcome}")
-            if PUBLICAR_RESULTADOS:
-                publicar_desenlace(r, outcome)
+            recien_resueltas.append((r, outcome))
         elif market is None:
             print(f"  ⚠ {r['slug']}: no pude consultar el mercado")
         elif not market.get("closed"):
@@ -182,12 +235,39 @@ def resolve_pending_results():
             print(f"  ⚠ {r['slug']}: cerrado pero no pude determinar el resultado "
                   f"para '{r.get('outcome')}'")
         time.sleep(0.1)
+    # Cada desenlace se publica individualmente, enlazado a su alerta original.
+    if PUBLICAR_RESULTADOS:
+        for r, outcome in recien_resueltas:
+            publicar_desenlace(r, outcome)
+
     if abiertos:
         print(f"  … {abiertos} siguen abiertos en Polymarket (todavía sin resolución oficial)")
     if irresolubles:
         print(f"  ⚠ {irresolubles} sin slug: nunca van a resolverse (registros viejos)")
     if changed:
         results_dirty = True
+
+
+def publicar_resumen_desenlaces(lista):
+    """Cuando se resuelven muchas apuestas juntas (típico después de que el
+    bot estuvo apagado un rato), manda un solo mensaje con el resumen en
+    lugar de uno por apuesta."""
+    ganadas = [x for x in lista if x[1] == "won"]
+    perdidas = [x for x in lista if x[1] == "lost"]
+    total_pnl = sum(ganancia_de(r) or 0 for r, _ in lista)
+    bal = f"+${total_pnl:,.0f}" if total_pnl >= 0 else f"-${abs(total_pnl):,.0f}"
+
+    msg = f"📋 Se resolvieron {len(lista)} apuestas\n\n"
+    msg += f"✅ {len(ganadas)} ganadas   ❌ {len(perdidas)} perdidas\n"
+    msg += f"💵 Balance del lote: {bal}\n\n"
+    for r, outcome in lista[:12]:
+        ico = "✅" if outcome == "won" else "❌"
+        g = ganancia_de(r) or 0
+        gs = f"+${g:,.0f}" if g >= 0 else f"-${abs(g):,.0f}"
+        msg += f"{ico} {r['username']} — {(r.get('title') or '')[:32]} ({gs})\n"
+    if len(lista) > 12:
+        msg += f"\n…y {len(lista) - 12} más."
+    send_telegram(msg)
 
 
 def publicar_desenlace(r, outcome):
@@ -474,6 +554,14 @@ def procesar_trade(trade, origen="stream"):
         print(f"[omitida] {username}: ${usd:,.0f} a {precio_c}¢ — resultado ya definido")
         return False
 
+    # Solo deportes y esports: nada de política, geopolítica ni cripto.
+    if SOLO_DEPORTES:
+        mercado = get_market(trade.get("slug"))
+        if not es_deporte(mercado):
+            print(f"[omitida] {username}: ${usd:,.0f} — no es un mercado de "
+                  f"deportes/esports: {trade.get('title')}")
+            return False
+
     dias = dias_hasta_resolver(trade.get("slug"))
     if dias is None:
         print(f"[omitida] {username}: ${usd:,.0f} — no pude determinar cuándo resuelve "
@@ -542,9 +630,40 @@ def procesar_trade(trade, origen="stream"):
         )
         return False   # no se registra en la tabla de apuestas
 
+    # --- FUSIÓN DE FILLS ---
+    # Polymarket parte las órdenes grandes en varios pedazos que llegan como
+    # trades separados. Sin esto, una sola decisión se registra 4-5 veces:
+    # infla los conteos y distorsiona el % de acierto y el balance.
+    ahora = time.time()
+    with lock:
+        previa = next((x for x in results
+                       if x["status"] == "pending"
+                       and x["wallet"] == wallet
+                       and x["slug"] == trade.get("slug")
+                       and x["outcome"] == trade.get("outcome")
+                       and ahora - x.get("ultimo_fill", 0) < FILL_MERGE_WINDOW), None)
+    if previa:
+        with lock:
+            total_previo = previa.get("usd", 0) or 0
+            nuevo_total = total_previo + usd
+            # precio promedio ponderado por monto
+            previa["odds_at_bet"] = round(
+                (total_previo * previa["odds_at_bet"] + usd * precio_c) / nuevo_total)
+            previa["usd"] = nuevo_total
+            previa["ultimo_fill"] = ahora
+            previa["fills"] = previa.get("fills", 1) + 1
+            globals()["results_dirty"] = True
+        print(f"   ↳ fill adicional de {username}: +${usd:,.0f} "
+              f"(total ${nuevo_total:,.0f}, {previa['fills']} fills)")
+        return False
+
     print(f"{marca} — {username}: ${usd:,.0f} en {trade.get('title')}")
     msg_id = send_telegram(build_ticket(username, trade, usd, precio_c, wallet))
     log_result_pending(username, wallet, trade, usd, precio_c, msg_id)
+    with lock:
+        if results:
+            results[-1]["ultimo_fill"] = ahora
+            results[-1]["fills"] = 1
     return True
 
 
