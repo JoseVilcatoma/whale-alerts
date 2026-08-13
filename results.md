@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 16:07:57 (hora de Perú)
+Actualizado: 2026-08-13 16:09:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **69**  ($3,832,897 en total)
-- Resueltas: **55** — 34 ganadas / 21 perdidas (**62%** de acierto)
+- Apuestas registradas: **70**  ($3,870,863 en total)
+- Resueltas: **56** — 35 ganadas / 21 perdidas (**62%** de acierto)
 - Pendientes: 14
-- Apostadores distintos: 29
+- Apostadores distintos: 30
 
 ### Balance
 
-- **Resultado de los apostadores: +$209,070** sobre $3,157,670 apostados (ROI **+6.6%**)
-- Copiando $100 fijo en cada una: **+$179** sobre $5,200 (ROI **+3.4%**)
+- **Resultado de los apostadores: +$249,469** sobre $3,190,724 apostados (ROI **+7.8%**)
+- Copiando $100 fijo en cada una: **+$301** sobre $5,300 (ROI **+5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 2 | 3 | 3 | ⚠️ 40% (5) | $342,952 | +$11,449 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 2 | ⚠️ 100% (1) | $139,254 | +$100,800 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 1 | ⚠️ 100% (2) | $139,254 | +$141,199 |
 | Sassy-Bucket | 1 | 0 | 1 | ⚠️ 100% (1) | $139,137 | +$28,600 |
 | AV23IUa | 0 | 2 | 1 | ⚠️ 0% (2) | $123,836 | -$83,036 |
 | ferrariChampions2026 | 1 | 1 | 1 | ⚠️ 50% (2) | $111,002 | -$49,777 |
@@ -44,6 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | 111111111115 | 0 | 0 | 1 | — | $57,765 | — |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
+| aaditp | 0 | 0 | 1 | — | $37,966 | — |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | Mylifeisover | 0 | 0 | 1 | — | $32,241 | — |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
@@ -58,6 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | — | ⏳ Pendiente |
 | Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $26,987 | — | ⏳ Pendiente |
@@ -69,7 +71,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | -$27,300 | ❌ Perdida |
 | Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | -$32,239 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Chicago White Sox | Cincinnati Reds | 2.22 (45¢) | $33,054 | +$40,399 | ✅ Ganada |
 | Sassy-Bucket | Cincinnati Reds vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,400 | +$28,600 | ✅ Ganada |
 | ohehe | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $37,490 | +$8,794 | ✅ Ganada |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Team Falcons vs Astralis (BO3) - Esports World Cup Group B | Team Falcons | 1.23 (81¢) | $29,388 | +$6,893 | ✅ Ganada |
@@ -117,4 +119,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage | Team Falcons | 1.27 (79¢) | $135,183 | +$35,935 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $79,200 | +$100,800 | ✅ Ganada |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers | 1.79 (56¢) | $53,788 | -$53,788 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels | 2.27 (44¢) | $42,257 | +$53,782 | ✅ Ganada |
