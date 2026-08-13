@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:46:04 (hora de Perú)
+Actualizado: 2026-08-13 18:48:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -14,9 +14,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
+| Sassy-Bucket | 10 | 0 | 1 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
-| 1winstreak1 | 2 | 3 | 1 | +75.24 USD |
+| 1winstreak1 | 2 | 3 | 2 | +75.24 USD |
 | swisstony | 36 | 10 | 9 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
 | ferrariChampions2026 | 56 | 50 | 53 | +10.27 USD |
@@ -25,8 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
+|  | 0 | 0 | 1 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 11 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 13 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -72,12 +73,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lol-mvu-wu-2026-08-13 | cigarettes, ferrariChampions2026 |
 | sud-san-mac-2026-08-13-first-half-total-2pt5 | RN1, cigarettes |
 | sud-san-mac-2026-08-13-total-3pt5 | RN1, UpTheBlues, ferrariChampions2026 |
+| lib-mir-lqu-2026-08-13-total-2pt5 | , ferrariChampions2026 |
 | wnba-atl-conn-2026-08-13 | 1winstreak1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 59% | 0.00 | 1.8% | ⏳ pendiente | — |
+|  | Mirassol FC vs. LDU de Quito: O/U 2.5 | Over (BUY) | 24% | 0.00 | 0.1% | ⏳ pendiente | — |
+| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 0.00 | 5.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 48% | 0.00 | 13.6% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 56% | 0.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC win on 2026-08-13? | No (BUY) | 44% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York City FC vs. Club Necaxa: O/U 3. | Over (BUY) | 36% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC win on 2026-08-13? | Yes (BUY) | 55% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -103,8 +110,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | Will Santos FC win on 2026-08-13? | No (BUY) | 40% | 0.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Santos FC vs. CSyD Macará: O/U 3.5 | Under (BUY) | 61% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 3.5 | Over (BUY) | 39% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Mirassol FC vs. LDU de Quito end in | Yes (BUY) | 22% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 48% | 0.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 3.5 | Under (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Santos FC win on 2026-08-13? | No (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Spread: CR Vasco da Gama (-1.5) | Club Olimpia (BUY) | 82% | 0.00 | 0.1% | ⏳ pendiente | — |
