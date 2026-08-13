@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 03:31:32 (hora de Perú)
+Actualizado: 2026-08-13 03:33:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **33**  ($2,352,160 en total)
+- Apuestas registradas: **34**  ($2,394,444 en total)
 - Resueltas: **15** — 9 ganadas / 6 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 16
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 2 | 0 | 5 | ⚠️ 100% (2) | $692,035 | +$181,202 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 2 | 0 | 6 | ⚠️ 100% (2) | $734,318 | +$181,202 |
 | Djdjdjekekek | 0 | 2 | 5 | ⚠️ 0% (2) | $553,935 | -$28,436 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
@@ -45,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner | Team Spirit | 1.92 (52¢) | $27,545 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $35,280 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Aurora vs GamerLegion - Game 1 Winner | GamerLegion | 1.43 (70¢) | $26,251 | — | ⏳ Pendiente |
