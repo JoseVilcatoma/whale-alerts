@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 05:42:58 (hora de Perú)
+Actualizado: 2026-08-13 05:45:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $568.67
@@ -14,7 +14,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
-| BBQChickenisthebesttt | 39 | 27 | 7 | +163.67 USD |
+| BBQChickenisthebesttt | 39 | 27 | 11 | +163.67 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | wr0ngw4yb3tt0r | 72 | 74 | 0 | +111.09 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
@@ -501,6 +501,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 38% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 75% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 39% | 0.00 | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Top Esports vs LGD Gaming (BO3) - L | LGD Gaming (BUY) | 35% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 38% | 0.00 | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Falcons - Ga | Team Falcons (BUY) | 37% | 0.00 | ⏳ pendiente | — |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Falcons (BO3 | Team Falcons (BUY) | 40% | 7.06 | ⏳ pendiente | — |
@@ -527,7 +531,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 67% | 0.00 | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Just Players vs MOUZ NXT | Just Players (BUY) | 76% | 0.00 | ⏳ pendiente | — |
 | ActionReaction | LoL: Weibo Gaming vs Ninjas in Pyjamas - | Ninjas in Pyjamas (BUY) | 72% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 41% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX vs BNK FEARX - Game 1 Wi | Kiwoom DRX (BUY) | 74% | 0.00 | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Spirit vs Xtreme Gaming - G | Xtreme Gaming (BUY) | 33% | 0.00 | ❌ perdida | -0.00 |
-| ferrariChampions2026 | Dota 2: Aurora vs GamerLegion - Game 2 W | GamerLegion (BUY) | 35% | 0.00 | ⏳ pendiente | — |
