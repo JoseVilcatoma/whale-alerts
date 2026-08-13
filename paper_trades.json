@@ -5866,5 +5866,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786648697.400033,
     "fills": 1
+  },
+  {
+    "timestamp": 1786648735,
+    "timestamp_added": 1786648736.0417838,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "elc-wol-bbr-2026-08-14-bbr",
+    "title": "Will Blackburn Rovers FC win on 2026-08-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 248.119998,
+    "whale_pct": 0.109,
+    "whale_value_at_open": 227108.6406,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786648736.0417936,
+    "fills": 1
   }
 ]
