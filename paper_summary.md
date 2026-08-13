@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 15:31:33 (hora de Perú)
+Actualizado: 2026-08-13 15:33:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,017.31
-**Retorno acumulado:** +1.73%
+**Bankroll actual:** $1,017.88
+**Retorno acumulado:** +1.79%
 **Peor caída desde un máximo (drawdown):** 21.51%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 6
 
@@ -15,8 +15,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
-| RN1 | 6 | 3 | 56 | +27.44 USD |
-| ferrariChampions2026 | 25 | 27 | 64 | +4.72 USD |
+| RN1 | 6 | 3 | 57 | +27.44 USD |
+| ferrariChampions2026 | 27 | 27 | 62 | +5.30 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | Nooserac | 0 | 0 | 2 | +0.00 USD |
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | HNK Hajduk Split vs. FK Žalgiris Vilnius | Under (BUY) | 84% | 1.31 | 0.1% | ⏳ pendiente | — |
 | RN1 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Under (BUY) | 35% | 0.05 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KF Egnatia Rrogozhinë vs. Shamrock Rover | Over (BUY) | 66% | 1.33 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 91% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Chicago Cubs vs. Washington Nationals: O | Over (BUY) | 49% | 7.82 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Shamrock Rovers FC (-1.5) | KF Egnatia Rrogozhinë (BUY) | 100% | 3.04 | 0.2% | ⏳ pendiente | — |
 |  | Heart of Midlothian FC vs. Sport Lisboa  | Under (BUY) | 38% | 2.33 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Dream (-10.5) | Connecticut Sun (BUY) | 50% | 1.51 | 0.2% | ⏳ pendiente | — |
