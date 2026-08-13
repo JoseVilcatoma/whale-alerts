@@ -1,5 +1,5 @@
 {
-  "bankroll": 578.6529768505125,
+  "bankroll": 584.0110576585932,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19425,6 +19425,16 @@
       "timestamp": 1786603033.6992698,
       "bankroll": 578.65,
       "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Golden State Valkyries: O/U 164.5"
+    },
+    {
+      "timestamp": 1786603976.9436545,
+      "bankroll": 582.86,
+      "event": "won:  \u2014 Spread: Los Angeles FC (-1.5)"
+    },
+    {
+      "timestamp": 1786603977.3881783,
+      "bankroll": 584.01,
+      "event": "won:  \u2014 Will San Diego FC win on 2026-08-12?"
     }
   ]
 }
