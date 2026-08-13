@@ -1,5 +1,5 @@
 {
-  "bankroll": 972.5067399965587,
+  "bankroll": 972.5124542822731,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -19675,6 +19675,16 @@
       "timestamp": 1786624050.2017722,
       "bankroll": 972.51,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1786628733.496208,
+      "bankroll": 973.67,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786628733.596394,
+      "bankroll": 972.51,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner"
     }
   ]
 }
