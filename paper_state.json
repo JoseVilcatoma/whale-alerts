@@ -1,5 +1,5 @@
 {
-  "bankroll": 578.0844096137877,
+  "bankroll": 476.49107628045437,
   "history": [
     {
       "timestamp": 1786159000.111674,
@@ -18615,6 +18615,46 @@
       "timestamp": 1786585720.5692706,
       "bankroll": 578.08,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1786585901.5931673,
+      "bankroll": 576.24,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1786585961.441958,
+      "bankroll": 562.81,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1786585962.6971622,
+      "bankroll": 553.17,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. New York Yankees: O/U 10.5"
+    },
+    {
+      "timestamp": 1786585962.7973042,
+      "bankroll": 556.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. New York Yankees: O/U 10.5"
+    },
+    {
+      "timestamp": 1786585963.7987838,
+      "bankroll": 484.56,
+      "event": "lost: 1winstreak1 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1786585972.2132657,
+      "bankroll": 482.06,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 16.5"
+    },
+    {
+      "timestamp": 1786585972.868369,
+      "bankroll": 477.96,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Washington Nationals: O/U 16.5"
+    },
+    {
+      "timestamp": 1786585973.4063962,
+      "bankroll": 476.49,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Washington Nationals: O/U 16.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 20:50:54 (hora de Perú)
+Actualizado: 2026-08-12 20:53:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $578.08
-**Retorno acumulado:** -42.19%
+**Bankroll actual:** $476.49
+**Retorno acumulado:** -52.35%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
 | BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
-| wr0ngw4yb3tt0r | 67 | 70 | 8 | +104.98 USD |
+| wr0ngw4yb3tt0r | 68 | 71 | 6 | +106.72 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
 | AV23IUa | 3 | 4 | 1 | +45.27 USD |
@@ -25,9 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 18 | 14 | 1 | +18.34 USD |
 | SDTrading | 4 | 10 | 0 | +15.41 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 0 | 0 | +9.85 USD |
-| HomeRunHazard | 116 | 100 | 23 | +9.60 USD |
 | Bulls94 | 1 | 3 | 0 | +6.71 USD |
-| 1winstreak1 | 118 | 95 | 12 | +4.11 USD |
+| HomeRunHazard | 116 | 102 | 21 | +3.00 USD |
 | monkeymashingkeyboard | 3 | 9 | 0 | +2.86 USD |
 | UpTheBlues | 255 | 157 | 9 | +1.26 USD |
 | Gaditima | 2 | 2 | 0 | +1.22 USD |
@@ -52,9 +51,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 204 | 115 | 57 | -40.79 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
+| 1winstreak1 | 118 | 97 | 10 | -69.55 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 647 | 485 | 38 | -90.79 USD |
+| ferrariChampions2026 | 647 | 487 | 36 | -113.86 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
