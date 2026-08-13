@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-12 23:29:19 (hora de Perú)
+Actualizado: 2026-08-12 23:31:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $538.38
-**Retorno acumulado:** -46.16%
+**Bankroll actual:** $543.86
+**Retorno acumulado:** -45.61%
 **Peor caída desde un máximo (drawdown):** 84.46%
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
@@ -15,7 +15,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | Sassy-Bucket | 8 | 8 | 0 | +190.97 USD |
 | theowalcott | 17 | 4 | 0 | +143.32 USD |
-| BBQChickenisthebesttt | 31 | 27 | 0 | +132.53 USD |
+| BBQChickenisthebesttt | 31 | 27 | 1 | +132.53 USD |
 | wr0ngw4yb3tt0r | 71 | 74 | 10 | +110.26 USD |
 | dv-pm | 4 | 6 | 0 | +89.49 USD |
 | johnbaster | 3 | 0 | 0 | +65.24 USD |
@@ -49,14 +49,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ThornyDevil | 3 | 6 | 0 | -16.40 USD |
 | Forecastication2 | 4 | 27 | 0 | -20.42 USD |
 | 1winstreak1 | 123 | 102 | 0 | -24.42 USD |
-| swisstony | 171 | 114 | 28 | -26.60 USD |
+| swisstony | 172 | 114 | 27 | -25.82 USD |
 | quavoo | 159 | 209 | 1 | -28.16 USD |
-| RN1 | 231 | 126 | 20 | -38.74 USD |
+| RN1 | 233 | 126 | 18 | -34.69 USD |
 | lzh1 | 6 | 7 | 0 | -51.24 USD |
 | GoalLineGhost | 37 | 26 | 0 | -59.25 USD |
 | Talvez10 | 8 | 11 | 0 | -80.86 USD |
 | StasPanda | 4 | 12 | 0 | -90.55 USD |
-| ferrariChampions2026 | 665 | 497 | 115 | -95.33 USD |
+| ferrariChampions2026 | 667 | 497 | 113 | -94.69 USD |
 | fRibrenlc | 9 | 42 | 0 | -115.00 USD |
 | BrotherObama | 8 | 17 | 0 | -121.31 USD |
 | Spicer | 5 | 5 | 0 | -122.15 USD |
@@ -509,6 +509,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | Estado | Resultado |
 |---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: KT Rolster Challengers vs Nongshim  | KT Rolster Challengers (BUY) | 43% | 90.54 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Los Angeles FC vs. Querétaro FC end | No (BUY) | 40% | 0.67 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 4.89 | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 36% | 3.86 | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Will Los Angeles FC win on 2026-08-12? | No (BUY) | 64% | 2.25 | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Resilience - | TEAM VISION (BUY) | 72% | 2.37 | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Puebla win on 2026-08-12? | No (BUY) | 83% | 0.93 | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 97% | 1.72 | ⏳ pendiente | — |
