@@ -4997,5 +4997,54 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786645680.3702278,
     "fills": 1
+  },
+  {
+    "timestamp": 1786645733,
+    "timestamp_added": 1786645734.2681386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sea-nyy-2026-08-13-total-7pt5",
+    "title": "Seattle Mariners vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1121.76,
+    "whale_pct": 0.209,
+    "whale_value_at_open": 536361.1257,
+    "paper_stake_usd": 2.13,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786645734.2681444,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786645745,
+    "timestamp_added": 1786645745.874131,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-faze-2026-08-13",
+    "title": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 30374.0891,
+    "whale_pct": 5.663,
+    "whale_value_at_open": 536361.1257,
+    "paper_stake_usd": 10.6,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "Nooserac"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786645745.8741386,
+    "fills": 1
   }
 ]
