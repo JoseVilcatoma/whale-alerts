@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 13:00:26 (hora de Perú)
+Actualizado: 2026-08-13 13:02:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **59**  ($3,422,724 en total)
-- Resueltas: **42** — 27 ganadas / 15 perdidas (**64%** de acierto)
-- Pendientes: 17
+- Resueltas: **43** — 28 ganadas / 15 perdidas (**65%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 26
 
 ### Balance
 
-- **Resultado de los apostadores: +$297,498** sobre $2,724,403 apostados (ROI **+10.9%**)
-- Copiando $100 fijo en cada una: **+$361** sobre $3,900 (ROI **+9.3%**)
+- **Resultado de los apostadores: +$310,567** sobre $2,759,738 apostados (ROI **+11.3%**)
+- Copiando $100 fijo en cada una: **+$398** sobre $4,000 (ROI **+10.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | AV23IUa | 0 | 1 | 2 | ⚠️ 0% (1) | $123,836 | -$57,499 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 0 | 1 | ⚠️ 100% (1) | $112,254 | +$100,800 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 0 | 0 | 3 | — | $101,645 | — |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 1 | 0 | 2 | ⚠️ 100% (1) | $101,645 | +$13,069 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
@@ -89,7 +89,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.67 (60¢) | $31,590 | +$21,060 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.61 (62¢) | $32,000 | +$19,613 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | -$9,816 | 💰 Vendida antes |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | +$13,069 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | +$16,454 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | -$66,000 | ❌ Perdida |
