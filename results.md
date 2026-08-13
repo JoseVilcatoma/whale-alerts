@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 02:05:36 (hora de Perú)
+Actualizado: 2026-08-13 02:07:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **25**  ($2,061,227 en total)
+- Apuestas registradas: **26**  ($2,135,827 en total)
 - Resueltas: **12** — 7 ganadas / 5 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 14
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 0 | 3 | ⚠️ 100% (1) | $599,702 | +$25,000 |
-| Djdjdjekekek | 0 | 1 | 4 | ⚠️ 0% (1) | $453,084 | -$18,620 |
+| Djdjdjekekek | 0 | 1 | 5 | ⚠️ 0% (1) | $527,684 | -$18,620 |
 | S-Works | 0 | 0 | 1 | — | $312,000 | — |
 | 0xheavy888 | 1 | 0 | 2 | ⚠️ 100% (1) | $164,208 | +$2,000 |
 | Weaseloftheweek | 2 | 1 | 0 | ⚠️ 67% (3) | $125,154 | +$110,752 |
@@ -43,6 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | — | ⏳ Pendiente |
