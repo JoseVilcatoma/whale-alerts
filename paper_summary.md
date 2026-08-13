@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 18:39:56 (hora de Perú)
+Actualizado: 2026-08-13 18:41:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,140.29
@@ -17,16 +17,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 10 | 0 | 0 | +377.33 USD |
 | Talvez10 | 2 | 0 | 0 | +88.94 USD |
 | 1winstreak1 | 2 | 3 | 1 | +75.24 USD |
-| swisstony | 36 | 10 | 7 | +21.58 USD |
+| swisstony | 36 | 10 | 8 | +21.58 USD |
 | HomeRunHazard | 3 | 0 | 0 | +12.32 USD |
-| ferrariChampions2026 | 56 | 48 | 47 | +10.27 USD |
+| ferrariChampions2026 | 56 | 48 | 50 | +10.27 USD |
 | RN1 | 19 | 22 | 51 | +2.60 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 0 | 0 | 15 | +0.00 USD |
 | cigarettes | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 16 | +0.00 USD |
 | Nooserac | 1 | 1 | 0 | -0.08 USD |
-| wr0ngw4yb3tt0r | 0 | 7 | 9 | -15.12 USD |
+| wr0ngw4yb3tt0r | 0 | 7 | 10 | -15.12 USD |
 | Lakersfan111 | 0 | 3 | 0 | -45.49 USD |
 | SDTrading | 0 | 1 | 0 | -137.29 USD |
 | ActionReaction | 1 | 6 | 0 | -250.00 USD |
@@ -78,6 +78,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 0.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 59% | 0.00 | 1.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Lions vs. Bengals | Bengals (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 64% | 3.33 | 7.1% | ⏳ pendiente | — |
+| swisstony | Spread: Mirassol FC (-1.5) | LDU de Quito (BUY) | 80% | 3.36 | 0.3% | ⏳ pendiente | — |
 | swisstony | Atlanta Dream vs. Connecticut Sun | Atlanta Dream (BUY) | 91% | 2.75 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Union vs. Club Santos Lagun | Over (BUY) | 45% | 1.93 | 0.2% | ⏳ pendiente | — |
 | swisstony | Mirassol FC vs. LDU de Quito: O/U 1.5 | Under (BUY) | 48% | 2.84 | 0.2% | ⏳ pendiente | — |
@@ -103,8 +108,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Lions vs. Bengals | Bengals (BUY) | 74% | 0.73 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Santos FC vs. CSyD Macará: O/U 2.5 | Over (BUY) | 76% | 2.29 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | Red Feet (BUY) | 80% | 4.77 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Will Santos FC win on 2026-08-13? | No (BUY) | 37% | 7.29 | 0.6% | ⏳ pendiente | — |
-| UpTheBlues | Will CSyD Macará win on 2026-08-13? | No (BUY) | 96% | 3.57 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Will Santos FC win on 2026-08-13? | Yes (BUY) | 66% | 7.29 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 4.85 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 53% | 5.25 | 0.4% | ⏳ pendiente | — |
