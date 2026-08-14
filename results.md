@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 11:18:56 (hora de Perú)
+Actualizado: 2026-08-14 11:20:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **110**  ($5,501,453 en total)
-- Resueltas: **97** — 58 ganadas / 39 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Resueltas: **98** — 59 ganadas / 39 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 44
 
 ### Balance
 
-- **Resultado de los apostadores: +$205,317** sobre $5,058,792 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$89** sobre $9,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: +$207,622** sobre $5,085,307 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$80** sobre $9,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | SDTrading | 0 | 0 | 2 | — | $55,210 | — |
-| 007theone1 | 0 | 0 | 2 | — | $52,861 | — |
+| 007theone1 | 1 | 0 | 1 | ⚠️ 100% (1) | $52,861 | +$2,306 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | — | ⏳ Pendiente |
-| 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | — | ⏳ Pendiente |
+| 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | — | ⏳ Pendiente |
