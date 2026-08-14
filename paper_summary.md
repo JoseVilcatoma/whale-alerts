@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:42:17 (hora de Perú)
+Actualizado: 2026-08-13 19:44:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 0 | 0 | 9 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 11 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 12 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 13 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
@@ -32,6 +32,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Team Envy vs M80 (BO3) - VCT A | Team Envy (BUY) | 60% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 33% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 60% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 48% | 10.00 | 28.4% | ⏳ pendiente | — |
@@ -57,8 +62,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 66% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC vs. Club Necaxa en | Yes (BUY) | 25% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC win on 2026-08-13? | No (BUY) | 37% | 10.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Packers vs. Steelers | Steelers (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Philadelphia Union win on 2026-08-1 | Yes (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
