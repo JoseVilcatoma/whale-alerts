@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 03:42:34 (hora de Perú)
+Actualizado: 2026-08-14 03:44:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **91**  ($4,855,677 en total)
+- Apuestas registradas: **92**  ($4,882,177 en total)
 - Resueltas: **90** — 55 ganadas / 35 perdidas (**61%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 38
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 0 | 85% | $933,363 | +$264,686 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 1 | 85% | $959,863 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
@@ -67,6 +67,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | DEN vs. ATL: O/U 38.5 | Over 38.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage | Team Yandex | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | — | ⏳ Pendiente |
@@ -126,4 +127,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | +$14,095 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner | Team Spirit | 1.92 (52¢) | $27,545 | +$25,426 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
