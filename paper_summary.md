@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:54:23 (hora de Perú)
+Actualizado: 2026-08-14 07:56:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,236.87
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 11 | 0 | 12 | +238.15 USD |
-| AV23IUa | 5 | 1 | 6 | +116.21 USD |
+| AV23IUa | 5 | 1 | 8 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
 | Lakersfan111 | 9 | 4 | 20 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 9 | +0.00 USD |
-| SDTrading | 0 | 0 | 3 | +0.00 USD |
+| SDTrading | 0 | 0 | 4 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 10 | -8.19 USD |
+| midwicket72 | 3 | 1 | 14 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -66,6 +66,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 41% | 10.00 | 8.9% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 4.2% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 52.0% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 87.4% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 79% | 10.00 | 8.9% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 55% | 10.00 | 7.0% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 5.5% | ⏳ pendiente | — |
@@ -89,10 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 29% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 45% | 10.00 | 4.8% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster - | CTBC Flying Oyster (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Yorkshire vs Not | Nottinghamshire (BUY) | 29% | 10.00 | 11.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.3% | ✅ ganada | +13.26 |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 42% | 10.00 | 2.0% | ✅ ganada | +13.81 |
