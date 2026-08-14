@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 21:49:08 (hora de Perú)
+Actualizado: 2026-08-13 21:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **87**  ($4,687,932 en total)
-- Resueltas: **78** — 49 ganadas / 29 perdidas (**63%** de acierto)
-- Pendientes: 9
+- Resueltas: **79** — 49 ganadas / 30 perdidas (**62%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 38
 
 ### Balance
 
-- **Resultado de los apostadores: +$366,485** sobre $4,233,935 apostados (ROI **+8.7%**)
-- Copiando $100 fijo en cada una: **+$222** sobre $7,500 (ROI **+3.0%**)
+- **Resultado de los apostadores: +$287,879** sobre $4,312,541 apostados (ROI **+6.7%**)
+- Copiando $100 fijo en cada una: **+$122** sobre $7,600 (ROI **+1.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 0 | 85% | $933,363 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
-| Weaseloftheweek | 6 | 4 | 1 | 60% | $503,050 | +$80,579 |
+| Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | AV23IUa | 2 | 3 | 0 | ⚠️ 40% (5) | $259,293 | -$12,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 3 | ⚠️ 100% (2) | $245,286 | +$141,199 |
@@ -81,7 +81,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | — | ⏳ Pendiente |
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | +$12,717 | ✅ Ganada |
-| Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | — | ⏳ Pendiente |
+| Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | -$78,606 | ❌ Perdida |
 | AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | +$74,870 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | +$7,423 | ✅ Ganada |
 | aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | -$37,966 | ❌ Perdida |
