@@ -1834,5 +1834,20 @@
     "status": "pending",
     "ultimo_fill": 1786733711,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 255,
+    "timestamp": 1786737962,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "elc-wol-bbr-2026-08-14-wol",
+    "title": "Will Wolverhampton Wanderers FC win on 2026-08-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 157273.4548,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1786737962,
+    "fills": 1
   }
 ]
