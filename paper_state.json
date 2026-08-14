@@ -1,5 +1,5 @@
 {
-  "bankroll": 1394.146940558295,
+  "bankroll": 1384.146940558295,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -775,6 +775,11 @@
       "timestamp": 1786721058.4946344,
       "bankroll": 1394.15,
       "event": "lost: ActionReaction \u2014 LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786721246.1309729,
+      "bankroll": 1384.15,
+      "event": "lost: Lakersfan111 \u2014 Game Handicap: NS (-1.5) vs HANJIN BRION (+1.5)"
     }
   ]
 }
