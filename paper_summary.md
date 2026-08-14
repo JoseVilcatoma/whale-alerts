@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:43:25 (hora de Perú)
+Actualizado: 2026-08-14 01:45:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,169.01
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 0 | 1 | +43.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 7 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 12 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -64,6 +64,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Al Hilal Saudi Club (-2.5) | Al Faisaly Saudi Club (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs OG - Game 1 W | Team Resilience (BUY) | 38% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -89,8 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 75% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 34% | 10.00 | 1.2% | ❌ perdida | -10.00 |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 2.2% | ✅ ganada | +28.46 |
-| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.3% | ✅ ganada | +3.51 |
-| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 73% | 10.00 | 0.6% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ✅ ganada | +1.49 |
