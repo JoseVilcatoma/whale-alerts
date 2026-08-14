@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 09:26:30 (hora de Perú)
+Actualizado: 2026-08-14 09:28:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,166.87
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 31 | -8.19 USD |
+| midwicket72 | 3 | 1 | 33 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 12 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -70,6 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 51% | 6.87 | 0.2% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Yorkshire vs Not | Nottinghamshire (BUY) | 14% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 19% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -98,5 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 1.7% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 0.6% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 46% | 10.00 | 24.0% | ⏳ pendiente | — |
