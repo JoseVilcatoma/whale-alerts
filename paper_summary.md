@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:21:20 (hora de Perú)
+Actualizado: 2026-08-13 20:23:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,001.74
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | ferrariChampions2026 | 2 | 0 | 19 | +1.74 USD |
 | 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 13 | +0.00 USD |
-| CORGI8 | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 14 | +0.00 USD |
+| CORGI8 | 0 | 0 | 2 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 0 | 0 | 2 | +0.00 USD |
 
@@ -51,6 +51,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 27% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 26.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 93% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 4.9% | ⏳ pendiente | — |
@@ -79,5 +81,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 33% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
