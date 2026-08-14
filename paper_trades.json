@@ -8345,5 +8345,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786748732.9880369,
     "fills": 1
+  },
+  {
+    "timestamp": 1786748985,
+    "timestamp_added": 1786748986.500674,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mia-cin-2026-08-14-spread-home-1pt5",
+    "title": "Spread: Cincinnati Reds (-1.5)",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 6.34,
+    "whale_pct": 0.197,
+    "whale_value_at_open": 3216.9313,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786748986.5006807,
+    "fills": 1
   }
 ]

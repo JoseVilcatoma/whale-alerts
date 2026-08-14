@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:08:10 (hora de Perú)
+Actualizado: 2026-08-14 18:10:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,350.68
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 4 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 5 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
@@ -78,6 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Cincinnati Reds (-1.5) | Miami Marlins (BUY) | 70% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 60% | 0.00 | 15.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Under (BUY) | 53% | 0.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -107,4 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
