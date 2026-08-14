@@ -1,5 +1,5 @@
 {
-  "bankroll": 988.2782697396638,
+  "bankroll": 949.6419061033001,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -135,6 +135,31 @@
       "timestamp": 1786675591.8249395,
       "bankroll": 988.28,
       "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786675654.205434,
+      "bankroll": 978.28,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786675714.9194598,
+      "bankroll": 968.28,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Sparks vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786675723.303791,
+      "bankroll": 958.28,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1786675723.5040734,
+      "bankroll": 948.28,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1786675725.2064674,
+      "bankroll": 949.64,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Sparks vs. New York Liberty"
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:46:52 (hora de Perú)
+Actualizado: 2026-08-13 21:49:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $988.28
-**Retorno acumulado:** -1.17%
-**Peor caída desde un máximo (drawdown):** 3.93%
+**Bankroll actual:** $949.64
+**Retorno acumulado:** -5.04%
+**Peor caída desde un máximo (drawdown):** 7.81%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -23,17 +23,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 18 | +0.00 USD |
 | AV23IUa | 0 | 0 | 20 | +0.00 USD |
-| 1winstreak1 | 7 | 5 | 27 | -8.32 USD |
-| ferrariChampions2026 | 8 | 3 | 45 | -15.69 USD |
+| ferrariChampions2026 | 8 | 4 | 44 | -25.69 USD |
+| 1winstreak1 | 8 | 8 | 23 | -36.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 26
-- **Aciertos:** 17 (65.4%)
-- **Cuota promedio de entrada:** 59.5%
-- **Stake promedio:** $9.23
-- **Total apostado (suma de stakes):** $240.00
-- **ROI sobre lo apostado:** -5.28%
+- **Apuestas resueltas:** 31
+- **Aciertos:** 18 (58.1%)
+- **Cuota promedio de entrada:** 57.6%
+- **Stake promedio:** $9.35
+- **Total apostado (suma de stakes):** $290.00
+- **ROI sobre lo apostado:** -17.69%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -42,10 +42,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 13.0% | -13.0 pp |
-| 20-39% | 3 | 0.0% | 29.3% | -29.3 pp |
-| 40-59% | 8 | 62.5% | 50.8% | +11.8 pp |
+| 20-39% | 5 | 0.0% | 28.0% | -28.0 pp |
+| 40-59% | 10 | 50.0% | 50.5% | -0.5 pp |
 | 60-79% | 6 | 83.3% | 66.5% | +16.8 pp |
-| 80-94% | 7 | 100.0% | 89.7% | +10.3 pp |
+| 80-94% | 8 | 100.0% | 89.5% | +10.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
