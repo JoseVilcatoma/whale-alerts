@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:12:18 (hora de Perú)
+Actualizado: 2026-08-14 18:14:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,350.68
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 5 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 7 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
@@ -72,12 +72,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
 | mlb-cws-det-2026-08-14-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-wsh-nym-2026-08-14-total-8pt5 | 1winstreak1, Talvez10 |
 | mlb-mia-cin-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. New York Mets:  | Under (BUY) | 50% | 0.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cincinnati Reds (-1.5) | Miami Marlins (BUY) | 70% | 0.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 60% | 0.00 | 15.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Under (BUY) | 53% | 0.00 | 0.9% | ⏳ pendiente | — |
@@ -106,5 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 3.8% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 0.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.3% | ⏳ pendiente | — |
