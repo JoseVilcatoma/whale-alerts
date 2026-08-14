@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:41:48 (hora de Perú)
+Actualizado: 2026-08-13 23:43:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -25,15 +25,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
-| ferrariChampions2026 | 20 | 15 | 21 | -50.01 USD |
-| 1winstreak1 | 14 | 13 | 42 | -55.70 USD |
+| ferrariChampions2026 | 20 | 17 | 19 | -50.01 USD |
+| 1winstreak1 | 15 | 13 | 42 | -55.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 86
-- **Aciertos:** 46 (53.5%)
+- **Apuestas resueltas:** 89
+- **Aciertos:** 47 (52.8%)
 - **Cuota promedio de entrada:** 53.3%
-- **Stake promedio:** $7.91
+- **Stake promedio:** $7.64
 - **Total apostado (suma de stakes):** $680.00
 - **ROI sobre lo apostado:** -2.38%
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 23 | 21.7% | 28.5% | -6.7 pp |
-| 40-59% | 24 | 54.2% | 51.4% | +2.8 pp |
+| 40-59% | 27 | 51.9% | 51.3% | +0.6 pp |
 | 60-79% | 17 | 64.7% | 67.2% | -2.5 pp |
 | 80-94% | 16 | 100.0% | 86.9% | +13.1 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
@@ -79,6 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -108,4 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 76% | 10.00 | 3.1% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 58% | 10.00 | 0.5% | ⏳ pendiente | — |

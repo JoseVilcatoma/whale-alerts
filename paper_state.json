@@ -450,6 +450,21 @@
       "timestamp": 1786682499.6906672,
       "bankroll": 992.19,
       "event": "won: 1winstreak1 \u2014 Spread: Las Vegas Aces (-6.5)"
+    },
+    {
+      "timestamp": 1786682554.725127,
+      "bankroll": 992.19,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786682555.5192153,
+      "bankroll": 992.19,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1786682555.6193697,
+      "bankroll": 992.19,
+      "event": "won: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 169.5"
     }
   ]
 }
