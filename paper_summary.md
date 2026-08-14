@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:45:20 (hora de Perú)
+Actualizado: 2026-08-13 22:47:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,010.10
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 15 | 9 | 32 | -38.74 USD |
-| 1winstreak1 | 12 | 12 | 22 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 24 | -54.57 USD |
 
 ## Análisis general
 
@@ -76,6 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.9% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -104,5 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 46% | 10.00 | 15.9% | 💰 vendida anticipada | +1.30 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 52% | 10.00 | 5.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 15% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 51% | 10.00 | 7.3% | ⏳ pendiente | — |
