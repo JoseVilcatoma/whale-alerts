@@ -8573,5 +8573,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786749862.9953084,
     "fills": 1
+  },
+  {
+    "timestamp": 1786749895,
+    "timestamp_added": 1786749896.1472964,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-pit-2026-08-14",
+    "title": "Boston Red Sox vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 3685.5719999999997,
+    "whale_pct": 1.579,
+    "whale_value_at_open": 233395.8539,
+    "paper_stake_usd": 2.05,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786749896.751453,
+    "fills": 2
   }
 ]
