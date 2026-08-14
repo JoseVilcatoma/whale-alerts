@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:47:10 (hora de Perú)
+Actualizado: 2026-08-14 06:49:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,219.80
-**Retorno acumulado:** +21.98%
+**Bankroll actual:** $1,222.02
+**Retorno acumulado:** +22.20%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,13 +16,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 12 | 2 | 16 | +231.41 USD |
+| CORGI8 | 13 | 2 | 15 | +243.63 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
-| ActionReaction | 5 | 1 | 7 | +10.16 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 53 | +0.00 USD |
+| ActionReaction | 5 | 2 | 6 | +0.16 USD |
+| Lakersfan111 | 0 | 0 | 54 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 114
-- **Aciertos:** 69 (60.5%)
-- **Cuota promedio de entrada:** 52.5%
+- **Apuestas resueltas:** 116
+- **Aciertos:** 70 (60.3%)
+- **Cuota promedio de entrada:** 52.4%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,138.66
-- **ROI sobre lo apostado:** +19.22%
+- **Total apostado (suma de stakes):** $1,158.66
+- **ROI sobre lo apostado:** +19.08%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 27 | 44.4% | 29.4% | +15.0 pp |
-| 40-59% | 45 | 55.6% | 49.6% | +6.0 pp |
+| 40-59% | 47 | 55.3% | 49.6% | +5.7 pp |
 | 60-79% | 19 | 73.7% | 67.7% | +6.0 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -73,6 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hamburg: Matheus Pucinelli de Almeida vs | Dylan Dietrich (BUY) | 55% | 4.71 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Aurora vs Team Yandex - Game 1 W | Aurora (BUY) | 39% | 4.71 | 1.7% | 💰 vendida anticipada | +0.00 |
 | ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 35% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 40% | 10.00 | 1.1% | ⏳ pendiente | — |
