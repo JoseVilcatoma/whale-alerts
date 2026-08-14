@@ -1,5 +1,5 @@
 {
-  "bankroll": 1465.1740845370891,
+  "bankroll": 1475.4386269192896,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -935,6 +935,26 @@
       "timestamp": 1786730120.9891853,
       "bankroll": 1465.17,
       "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786731996.4649994,
+      "bankroll": 1468.33,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Lancashire vs Durham"
+    },
+    {
+      "timestamp": 1786731996.5652037,
+      "bankroll": 1471.15,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Lancashire vs Durham"
+    },
+    {
+      "timestamp": 1786731997.8007762,
+      "bankroll": 1472.78,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Lancashire vs Durham"
+    },
+    {
+      "timestamp": 1786731999.3190603,
+      "bankroll": 1475.44,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Lancashire vs Durham"
     }
   ]
 }
