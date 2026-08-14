@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:17:43 (hora de Perú)
+Actualizado: 2026-08-14 16:19:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,394.28
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
-| Weaseloftheweek | 0 | 0 | 6 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | IMAREALPERSON | 4 | 3 | 26 | -29.04 USD |
@@ -71,6 +71,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 44% | 10.00 | 6.7% | ⏳ pendiente | — |
+| Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 45% | 10.00 | 157.8% | ⏳ pendiente | — |
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 50% | 10.00 | 89.9% | ⏳ pendiente | — |
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 45% | 10.00 | 9.5% | ⏳ pendiente | — |
 | Talvez10 | Washington Nationals vs. New York Mets:  | Over (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -99,5 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 3.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 1.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.2% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 1.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
