@@ -1,5 +1,5 @@
 {
-  "bankroll": 939.686220584114,
+  "bankroll": 929.686220584114,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -220,6 +220,11 @@
       "timestamp": 1786676594.6699328,
       "bankroll": 939.69,
       "event": "won: ferrariChampions2026 \u2014 Spread: Club Santos Laguna (-2.5)"
+    },
+    {
+      "timestamp": 1786676656.231023,
+      "bankroll": 929.69,
+      "event": "lost: ferrariChampions2026 \u2014 Will Philadelphia Union win on 2026-08-13?"
     }
   ]
 }
