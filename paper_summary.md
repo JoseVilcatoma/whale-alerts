@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 15:00:14 (hora de Perú)
+Actualizado: 2026-08-14 15:02:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -21,10 +21,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 24 | 2 | 3 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 16 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 17 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
-| IMAREALPERSON | 4 | 0 | 9 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 10 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
@@ -62,12 +63,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
+| mlb-mia-cin-2026-08-14-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Under (BUY) | 45% | 10.00 | 4.0% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Weaseloftheweek | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 56% | 10.00 | 29.5% | ⏳ pendiente | — |
+| Weaseloftheweek | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 56% | 10.00 | 30.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -94,7 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 29% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 42% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 66% | 10.00 | 1.9% | ⏳ pendiente | — |
-| ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 65% | 10.00 | 231.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 64.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.9% | ⏳ pendiente | — |
