@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:39:39 (hora de Perú)
+Actualizado: 2026-08-13 23:41:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $993.32
-**Retorno acumulado:** -0.67%
+**Bankroll actual:** $992.19
+**Retorno acumulado:** -0.78%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -26,16 +26,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
 | ferrariChampions2026 | 20 | 15 | 21 | -50.01 USD |
-| 1winstreak1 | 13 | 12 | 41 | -54.57 USD |
+| 1winstreak1 | 14 | 13 | 42 | -55.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 84
-- **Aciertos:** 45 (53.6%)
-- **Cuota promedio de entrada:** 53.4%
-- **Stake promedio:** $7.86
-- **Total apostado (suma de stakes):** $660.00
-- **ROI sobre lo apostado:** -2.28%
+- **Apuestas resueltas:** 86
+- **Aciertos:** 46 (53.5%)
+- **Cuota promedio de entrada:** 53.3%
+- **Stake promedio:** $7.91
+- **Total apostado (suma de stakes):** $680.00
+- **ROI sobre lo apostado:** -2.38%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 23 | 21.7% | 28.5% | -6.7 pp |
-| 40-59% | 22 | 54.5% | 51.5% | +3.0 pp |
+| 40-59% | 24 | 54.2% | 51.4% | +2.8 pp |
 | 60-79% | 17 | 64.7% | 67.2% | -2.5 pp |
 | 80-94% | 16 | 100.0% | 86.9% | +13.1 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
@@ -79,6 +79,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 76% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -106,6 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 58% | 10.00 | 0.5% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 2.7% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 79% | 10.00 | 4.7% | ⏳ pendiente | — |
