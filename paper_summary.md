@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:51:25 (hora de Perú)
+Actualizado: 2026-08-14 17:53:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,395.23
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 20 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
-| theowalcott | 0 | 0 | 5 | +0.00 USD |
+| theowalcott | 0 | 0 | 6 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 1 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
 | mlb-mia-cin-2026-08-14-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
-| mlb-cws-det-2026-08-14 | SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
+| mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
 
@@ -76,6 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
+| theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 59% | 10.00 | 7.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 58% | 10.00 | 5.5% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 57% | 10.00 | 3.4% | ⏳ pendiente | — |
@@ -104,5 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 111111111115 | Map Handicap: BST (-1.5) vs ALKA (+1.5) | BESTIA (BUY) | 54% | 10.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.1% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.6% | ⏳ pendiente | — |
