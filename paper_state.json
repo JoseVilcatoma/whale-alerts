@@ -1,5 +1,5 @@
 {
-  "bankroll": 1392.4630490535903,
+  "bankroll": 1402.0708921908451,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1090,6 +1090,11 @@
       "timestamp": 1786745114.0132856,
       "bankroll": 1392.46,
       "event": "won: UpTheBlues \u2014 Will Telstar 1963 win on 2026-08-14?"
+    },
+    {
+      "timestamp": 1786745426.315569,
+      "bankroll": 1402.07,
+      "event": "won: UpTheBlues \u2014 Spread: Al Hilal Saudi Club (-2.5)"
     }
   ]
 }
