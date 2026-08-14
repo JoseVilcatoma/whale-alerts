@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:21:48 (hora de Perú)
+Actualizado: 2026-08-13 21:23:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 23 | +14.57 USD |
-| IMAREALPERSON | 4 | 0 | 1 | +0.96 USD |
+| 1winstreak1 | 2 | 0 | 24 | +14.57 USD |
+| IMAREALPERSON | 4 | 0 | 2 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 19 | +0.00 USD |
 | CORGI8 | 0 | 0 | 7 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 9 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | +0.00 USD |
 | AV23IUa | 0 | 0 | 12 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 20 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 23 | -15.69 USD |
 
 ## Análisis general
 
@@ -55,12 +55,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
+| mlb-tex-laa-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
+| dota2-xtreme-gl-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 37% | 0.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 52% | 0.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 63% | 0.00 | 0.1% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 0.8% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 58% | 0.00 | 1.6% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 33% | 0.00 | 1.6% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 61% | 0.00 | 0.8% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 56% | 0.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Boulter (BUY) | 27% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 48% | 0.00 | 2.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 61% | 0.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 70% | 0.00 | 28.2% | ⏳ pendiente | — |
@@ -82,12 +93,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Titans vs. 49ers | Titans (BUY) | 57% | 10.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Titans vs. 49ers | Titans (BUY) | 59% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 58% | 10.00 | 37.4% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 75% | 10.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 34% | 10.00 | 1.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 73% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
