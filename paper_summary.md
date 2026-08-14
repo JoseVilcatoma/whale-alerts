@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:57:55 (hora de Perú)
+Actualizado: 2026-08-13 23:00:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,007.34
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 0 | 24 | +100.44 USD |
+| AV23IUa | 3 | 0 | 26 | +100.44 USD |
 | IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 17 | 11 | 28 | -41.50 USD |
-| 1winstreak1 | 12 | 12 | 29 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 33 | -54.57 USD |
 
 ## Análisis general
 
@@ -55,7 +55,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-xtreme-gl-2026-08-13 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
-| mlb-mil-lad-2026-08-13-total-7pt5 | Sassy-Bucket, ferrariChampions2026 |
+| mlb-mil-lad-2026-08-13-total-7pt5 | 1winstreak1, Sassy-Bucket, ferrariChampions2026 |
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | mlb-tex-laa-2026-08-13 | 1winstreak1, AV23IUa, ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 | mlb-tex-laa-2026-08-13-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-mil-lad-2026-08-13-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-mil-lad-2026-08-13-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-spread-home-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | dota2-xtreme-gl-2026-08-13-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
@@ -76,6 +76,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 10.00 | 2.2% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 76% | 10.00 | 3.1% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.8% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 58% | 10.00 | 0.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 2.7% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 79% | 10.00 | 4.7% | ⏳ pendiente | — |
@@ -100,9 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 48% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 23% | 0.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 1.2% | ⏳ pendiente | — |
-| AV23IUa | Cincinnati Open: Emiliana Arango vs Venu | Emiliana Arango (BUY) | 69% | 0.00 | 0.1% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 65% | 0.00 | 2.0% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 2.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 30% | 0.00 | 0.3% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 0.00 | 1.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 55% | 0.00 | 0.1% | ⏳ pendiente | — |
