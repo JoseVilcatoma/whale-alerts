@@ -1,5 +1,5 @@
 {
-  "bankroll": 1017.7053772839349,
+  "bankroll": 1018.6577582363159,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -30,6 +30,11 @@
       "timestamp": 1786672024.8984904,
       "bankroll": 1017.71,
       "event": "won: 1winstreak1 \u2014 Atlanta Dream vs. Connecticut Sun: O/U 174.5"
+    },
+    {
+      "timestamp": 1786672227.575944,
+      "bankroll": 1018.66,
+      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage (+0.95 USD)"
     }
   ]
 }
