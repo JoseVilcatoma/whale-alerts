@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:13:47 (hora de Perú)
+Actualizado: 2026-08-14 17:15:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,402.07
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 25 | 2 | 2 | +113.28 USD |
-| wr0ngw4yb3tt0r | 16 | 11 | 17 | +42.33 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 18 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | UpTheBlues | 6 | 1 | 2 | +34.40 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
-| Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 1 | -81.82 USD |
 
 ## Análisis general
 
@@ -67,6 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
 | mlb-mia-cin-2026-08-14-total-7pt5 | SDTrading, wr0ngw4yb3tt0r |
+| mlb-cws-det-2026-08-14 | SDTrading, Sassy-Bucket |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
 
@@ -74,6 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 48% | 10.00 | 1.5% | ⏳ pendiente | — |
+| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 3.0% | ⏳ pendiente | — |
 | Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 3.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: DEN (-3.5) | ATL (BUY) | 50% | 10.00 | 1.6% | ⏳ pendiente | — |
 | Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -102,5 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 49.5% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 66% | 10.00 | 46.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 66% | 10.00 | 46.9% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 61% | 10.00 | 46.8% | ⏳ pendiente | — |
-| Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 44% | 10.00 | 6.7% | ⏳ pendiente | — |

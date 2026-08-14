@@ -7554,5 +7554,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786745265.219074,
     "fills": 1
+  },
+  {
+    "timestamp": 1786745675,
+    "timestamp_added": 1786745675.568227,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cws-det-2026-08-14",
+    "title": "Chicago White Sox vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1595.1155,
+    "whale_pct": 2.972,
+    "whale_value_at_open": 53665.8915,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786745677.2826877,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786745753,
+    "timestamp_added": 1786745753.9685185,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
+    "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2499.9984,
+    "whale_pct": 1.534,
+    "whale_value_at_open": 162941.6797,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786745753.9685276,
+    "fills": 1
   }
 ]
