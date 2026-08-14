@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:08:11 (hora de Perú)
+Actualizado: 2026-08-14 11:10:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,387.59
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 5 | 21 | +201.85 USD |
+| Lakersfan111 | 23 | 5 | 22 | +201.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
@@ -72,6 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 12.4% | ⏳ pendiente | — |
 | ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 45% | 10.00 | 14.8% | ⏳ pendiente | — |
 | Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -101,4 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 51% | 6.87 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Yorkshire vs Not | Nottinghamshire (BUY) | 14% | 10.00 | 0.1% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
