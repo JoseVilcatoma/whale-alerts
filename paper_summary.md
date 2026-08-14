@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:58:31 (hora de Perú)
+Actualizado: 2026-08-14 00:00:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -16,17 +16,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 1 | 28 | +90.44 USD |
+| AV23IUa | 3 | 1 | 29 | +90.44 USD |
 | IMAREALPERSON | 8 | 0 | 5 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 26 | -0.89 USD |
 | ferrariChampions2026 | 21 | 17 | 18 | -50.01 USD |
-| 1winstreak1 | 15 | 13 | 54 | -55.70 USD |
+| 1winstreak1 | 15 | 13 | 55 | -55.70 USD |
 
 ## Análisis general
 
@@ -80,6 +80,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 91% | 0.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.6% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 0.00 | 16.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 19% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 25% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 78% | 0.00 | 0.4% | ⏳ pendiente | — |
@@ -106,7 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.9% | ⏳ pendiente | — |
-| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 1.3% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 85% | 0.00 | 0.5% | ⏳ pendiente | — |
