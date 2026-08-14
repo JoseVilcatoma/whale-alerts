@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:41:07 (hora de Perú)
+Actualizado: 2026-08-13 22:43:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,010.10
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| wr0ngw4yb3tt0r | 7 | 6 | 27 | -5.38 USD |
+| wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 15 | 9 | 32 | -38.74 USD |
 | 1winstreak1 | 12 | 12 | 22 | -54.57 USD |
 
@@ -66,6 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tex-laa-2026-08-13-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-mil-lad-2026-08-13-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tex-laa-2026-08-13-spread-home-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | dota2-xtreme-gl-2026-08-13-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | dota2-huliga-vg-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, IMAREALPERSON |
@@ -75,6 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 60% | 10.00 | 1.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 30% | 10.00 | 4.2% | 💰 vendida anticipada | +3.00 |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 3.46 | 0.8% | ⏳ pendiente | — |
@@ -104,4 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 51% | 10.00 | 7.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 49% | 10.00 | 19.6% | 💰 vendida anticipada | +1.43 |
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 48% | 10.00 | 13.8% | 💰 vendida anticipada | +1.67 |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 30% | 10.00 | 0.5% | ⏳ pendiente | — |
