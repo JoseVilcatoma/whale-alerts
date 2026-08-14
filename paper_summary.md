@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:05:07 (hora de Perú)
+Actualizado: 2026-08-13 21:07:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.66
@@ -17,14 +17,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 2 | 0 | 21 | +14.57 USD |
-| ferrariChampions2026 | 4 | 0 | 24 | +3.13 USD |
+| ferrariChampions2026 | 4 | 0 | 26 | +3.13 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 19 | +0.00 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
-| AV23IUa | 0 | 0 | 11 | +0.00 USD |
+| AV23IUa | 0 | 0 | 12 | +0.00 USD |
 
 ## Análisis general
 
@@ -59,6 +59,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 8.66 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 86% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Sparks vs. New York Liberty | New York Liberty (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 86% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 57% | 10.00 | 5.4% | ⏳ pendiente | — |
@@ -86,6 +89,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 3.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 28.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 71.4% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.1% | 💰 vendida anticipada | +0.24 |
