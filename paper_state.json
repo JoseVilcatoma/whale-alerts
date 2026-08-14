@@ -1,5 +1,5 @@
 {
-  "bankroll": 1001.8303664120584,
+  "bankroll": 993.3246192856217,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -400,6 +400,46 @@
       "timestamp": 1786681436.823175,
       "bankroll": 1001.83,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786682300.822631,
+      "bankroll": 1001.83,
+      "event": "won: ferrariChampions2026 \u2014 CA Rosario Central vs. SC Corinthians Paulista: O/U 0.5"
+    },
+    {
+      "timestamp": 1786682301.2100022,
+      "bankroll": 1001.83,
+      "event": "won: 1winstreak1 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786682303.3097818,
+      "bankroll": 1001.83,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786682303.6102364,
+      "bankroll": 1001.83,
+      "event": "won: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786682304.3112507,
+      "bankroll": 1001.83,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1786682357.3175304,
+      "bankroll": 991.83,
+      "event": "lost: AV23IUa \u2014 Will SC Corinthians Paulista win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786682358.7949095,
+      "bankroll": 993.32,
+      "event": "won: ferrariChampions2026 \u2014 Will SC Corinthians Paulista win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786682362.693368,
+      "bankroll": 993.32,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Mystics vs. Las Vegas Aces: O/U 171.5"
     }
   ]
 }
