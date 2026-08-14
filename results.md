@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 13:58:11 (hora de Perú)
+Actualizado: 2026-08-14 18:40:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **122**  ($5,976,669 en total)
-- Resueltas: **106** — 62 ganadas / 44 perdidas (**58%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 48
+- Apuestas registradas: **132**  ($6,501,400 en total)
+- Resueltas: **122** — 73 ganadas / 49 perdidas (**60%** de acierto)
+- Pendientes: 10
+- Apostadores distintos: 49
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,741** sobre $5,392,800 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$509** sobre $10,300 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$268,431** sobre $6,114,565 apostados (ROI **+4.4%**)
+- Copiando $100 fijo en cada una: **-$325** sobre $11,900 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,16 +24,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 3 | 5 | 81% | $1,307,429 | +$214,031 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 16 | 7 | 2 | 70% | $1,610,404 | +$390,978 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 5 | ⚠️ 83% (6) | $518,930 | +$249,609 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | Sassy-Bucket | 2 | 0 | 1 | ⚠️ 100% (2) | $186,137 | +$113,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 3 | ⚠️ 100% (1) | $123,570 | +$17,351 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
@@ -46,43 +46,53 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 1 | 0 | 1 | ⚠️ 100% (1) | $69,200 | +$53,782 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
-| SDTrading | 0 | 0 | 2 | — | $55,210 | — |
+| SDTrading | 0 | 1 | 1 | ⚠️ 0% (1) | $55,210 | -$26,500 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
-| 0b1 | 0 | 0 | 1 | — | $39,763 | — |
+| 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
-| g42gh6524h5h5 | 0 | 0 | 1 | — | $32,676 | — |
+| g42gh6524h5h5 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,676 | +$16,094 |
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,000 | +$2,967 |
 | CORGI8 | 0 | 1 | 0 | ⚠️ 0% (1) | $29,980 | -$29,980 |
 | jackpeter888 | 1 | 0 | 0 | ⚠️ 100% (1) | $28,674 | +$6,294 |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
-| TAIWANNUMBERONE | 1 | 0 | 0 | ⚠️ 100% (1) | $27,031 | +$11,585 |
 
-_(mostrando los 40 de mayor monto, de 48 en total)_
+_(mostrando los 40 de mayor monto, de 49 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | — | ⏳ Pendiente |
-| Feromont | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $28,529 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: NYJ (-5.5) | TB | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.72 (58¢) | $69,600 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel | Xinyu Wang | 1.82 (55¢) | $53,006 | +$43,368 | ✅ Ganada |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Nuno Borges | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $30,080 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Thanasi Kokkinakis | 1.82 (55¢) | $26,770 | -$26,770 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wolverhampton Wanderers FC win on 2026-08-14? | No | 2.27 (44¢) | $157,273 | +$200,166 | ✅ Ganada |
+| g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | +$16,094 | ✅ Ganada |
+| Feromont | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
+| 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | +$6,473 | ✅ Ganada |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | +$23,551 | ✅ Ganada |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | +$9,945 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | -$43,321 | ❌ Perdida |
 | Sassy-Bucket | San Diego Padres vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.85 (54¢) | $90,511 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.85 (54¢) | $90,511 | +$77,102 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | +$23,015 | ✅ Ganada |
+| ExplosiveNinja | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | +$1,682 | ✅ Ganada |
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | +$6,294 | ✅ Ganada |
@@ -91,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 48 en total)_
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | — | ⏳ Pendiente |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | -$29,980 | ❌ Perdida |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
@@ -121,13 +131,3 @@ _(mostrando los 40 de mayor monto, de 48 en total)_
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | +$12,717 | ✅ Ganada |
 | Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | -$78,606 | ❌ Perdida |
-| AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | +$74,870 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | +$7,423 | ✅ Ganada |
-| aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | -$37,966 | ❌ Perdida |
-| Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | +$42,000 | ✅ Ganada |
-| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | +$15,768 | ✅ Ganada |
-| Weaseloftheweek | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $26,987 | -$26,987 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: GB (-2.5) | GB | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
-| xifutloong3 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.72 (58¢) | $36,000 | -$36,000 | ❌ Perdida |
-| Mylifeisover | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.89 (53¢) | $32,241 | -$32,241 | ❌ Perdida |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
