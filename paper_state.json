@@ -1,5 +1,5 @@
 {
-  "bankroll": 1014.8596341484237,
+  "bankroll": 1027.1791579579474,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -540,6 +540,31 @@
       "timestamp": 1786683938.2337613,
       "bankroll": 1014.86,
       "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684049.230886,
+      "bankroll": 1014.86,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684060.0039818,
+      "bankroll": 1028.67,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684061.1797693,
+      "bankroll": 1028.67,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684061.380035,
+      "bankroll": 1028.67,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684062.4815147,
+      "bankroll": 1027.18,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
     }
   ]
 }

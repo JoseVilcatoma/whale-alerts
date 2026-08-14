@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:06:49 (hora de Perú)
+Actualizado: 2026-08-14 00:08:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,014.86
-**Retorno acumulado:** +1.49%
+**Bankroll actual:** $1,027.18
+**Retorno acumulado:** +2.72%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -25,17 +25,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 7 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 10 | 11 | 25 | -0.89 USD |
-| 1winstreak1 | 19 | 14 | 50 | -43.38 USD |
+| 1winstreak1 | 22 | 16 | 45 | -31.06 USD |
 | ferrariChampions2026 | 22 | 18 | 16 | -50.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 104
-- **Aciertos:** 58 (55.8%)
-- **Cuota promedio de entrada:** 53.6%
-- **Stake promedio:** $6.88
-- **Total apostado (suma de stakes):** $715.66
-- **ROI sobre lo apostado:** +0.91%
+- **Apuestas resueltas:** 109
+- **Aciertos:** 61 (56.0%)
+- **Cuota promedio de entrada:** 54.2%
+- **Stake promedio:** $6.67
+- **Total apostado (suma de stakes):** $727.15
+- **ROI sobre lo apostado:** +2.59%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,9 +45,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 26 | 30.8% | 29.5% | +1.3 pp |
-| 40-59% | 34 | 55.9% | 51.6% | +4.3 pp |
-| 60-79% | 21 | 61.9% | 66.8% | -4.9 pp |
-| 80-94% | 17 | 100.0% | 87.4% | +12.6 pp |
+| 40-59% | 36 | 58.3% | 51.2% | +7.1 pp |
+| 60-79% | 22 | 59.1% | 67.1% | -8.0 pp |
+| 80-94% | 19 | 94.7% | 86.9% | +7.8 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -103,7 +103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ❌ perdida | -0.00 |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ❌ perdida | -1.49 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
