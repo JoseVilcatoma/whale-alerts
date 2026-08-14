@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:53:06 (hora de Perú)
+Actualizado: 2026-08-14 16:55:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,384.28
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
 | Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
-| Talvez10 | 0 | 0 | 1 | +0.00 USD |
+| Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | 111111111115 | 0 | 0 | 18 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
@@ -74,6 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -103,4 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 44% | 10.00 | 6.7% | ⏳ pendiente | — |
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 45% | 10.00 | 157.8% | ⏳ pendiente | — |
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 50% | 10.00 | 89.9% | ⏳ pendiente | — |
-| Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 45% | 10.00 | 9.5% | ⏳ pendiente | — |

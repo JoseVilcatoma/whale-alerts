@@ -7488,5 +7488,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786744143.6281123,
     "fills": 1
+  },
+  {
+    "timestamp": 1786744491,
+    "timestamp_added": 1786744492.6976972,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-vic-tre3-2026-08-15",
+    "title": "UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims)",
+    "outcome": "Vicente Luque",
+    "side": "BUY",
+    "whale_usd": 200.0,
+    "whale_pct": 0.294,
+    "whale_value_at_open": 68091.7495,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786744492.6977317,
+    "fills": 1
   }
 ]
