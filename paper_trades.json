@@ -1196,5 +1196,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786669261.9273622,
     "fills": 1
+  },
+  {
+    "timestamp": 1786669670,
+    "timestamp_added": 1786669671.3391972,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "lol-t1a-dkc-2026-08-13",
+    "title": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "Dplus KIA Challengers",
+    "side": "BUY",
+    "whale_usd": 599.999998,
+    "whale_pct": 10.7,
+    "whale_value_at_open": 5607.3383,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786669683.6000721,
+    "fills": 2
   }
 ]
