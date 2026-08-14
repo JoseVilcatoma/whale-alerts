@@ -1,5 +1,5 @@
 {
-  "bankroll": 1043.3428324494864,
+  "bankroll": 922.5736016802557,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -680,6 +680,116 @@
       "timestamp": 1786684368.7102554,
       "bankroll": 1043.34,
       "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684426.3000402,
+      "bankroll": 1043.34,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786684426.4001563,
+      "bankroll": 1043.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786684428.5029068,
+      "bankroll": 1043.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786684430.599571,
+      "bankroll": 1033.34,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 9.5"
+    },
+    {
+      "timestamp": 1786684430.926392,
+      "bankroll": 1023.34,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684431.4270942,
+      "bankroll": 1013.34,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684431.8276615,
+      "bankroll": 1003.34,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Angels (-1.5)"
+    },
+    {
+      "timestamp": 1786684432.7289307,
+      "bankroll": 1003.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684432.829083,
+      "bankroll": 1003.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684433.129508,
+      "bankroll": 1003.34,
+      "event": "won: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684481.2523649,
+      "bankroll": 993.34,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684481.452645,
+      "bankroll": 1002.57,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684481.75306,
+      "bankroll": 992.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684481.8532066,
+      "bankroll": 982.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.153563,
+      "bankroll": 972.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.2537012,
+      "bankroll": 962.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.4539852,
+      "bankroll": 952.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.7544115,
+      "bankroll": 942.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.8545327,
+      "bankroll": 932.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684482.9546742,
+      "bankroll": 922.57,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684494.0623486,
+      "bankroll": 922.57,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684495.3872142,
+      "bankroll": 922.57,
+      "event": "won: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
     }
   ]
 }
