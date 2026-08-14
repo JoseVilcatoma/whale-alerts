@@ -4558,5 +4558,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786699044.461671,
     "fills": 1
+  },
+  {
+    "timestamp": 1786699590,
+    "timestamp_added": 1786699591.1186125,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ironwi-flc-2026-08-14",
+    "title": "Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 147.77,
+    "whale_pct": 0.129,
+    "whale_value_at_open": 114791.7704,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786699591.1186194,
+    "fills": 1
   }
 ]
