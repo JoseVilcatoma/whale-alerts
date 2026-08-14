@@ -53,11 +53,27 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Mercado | Vigilados que coincidieron |
 |---|---|
-| mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
+| dota2-xtreme-gl-2026-08-13 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
+| mlb-tex-laa-2026-08-13-total-7pt5 | 1winstreak1, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
+| mlb-mil-lad-2026-08-13-total-7pt5 | 1winstreak1, Sassy-Bucket, ferrariChampions2026 |
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
+| mlb-tex-laa-2026-08-13 | 1winstreak1, AV23IUa, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
+| dota2-ty-liquid-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
+| dota2-xtreme-gl-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
+| mlb-mil-lad-2026-08-13 | 1winstreak1, wr0ngw4yb3tt0r |
+| wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
+| mlb-tex-laa-2026-08-13-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
+| wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
+| mlb-mil-lad-2026-08-13-total-6pt5 | 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tex-laa-2026-08-13-spread-home-2pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| dota2-xtreme-gl-2026-08-13-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
+| dota2-huliga-vg-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, IMAREALPERSON |
+| dota2-ty-liquid-2026-08-13-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, IMAREALPERSON |
+| mlb-tex-laa-2026-08-13-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
