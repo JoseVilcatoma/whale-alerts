@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 10:52:31 (hora de Perú)
+Actualizado: 2026-08-14 10:54:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **110**  ($5,501,453 en total)
-- Resueltas: **96** — 58 ganadas / 38 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **97** — 58 ganadas / 39 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 44
 
 ### Balance
 
-- **Resultado de los apostadores: +$240,552** sobre $5,023,557 apostados (ROI **+4.8%**)
-- Copiando $100 fijo en cada una: **+$11** sobre $9,300 (ROI **+0.1%**)
+- **Resultado de los apostadores: +$205,317** sobre $5,058,792 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$89** sobre $9,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
-| NemecGhudini | 2 | 0 | 1 | ⚠️ 100% (2) | $121,425 | +$36,460 |
+| NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | TennisLove | 1 | 0 | 0 | ⚠️ 100% (1) | $100,000 | +$42,857 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
-| NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | — | ⏳ Pendiente |
+| NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | -$35,235 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
 | retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | -$34,595 | ❌ Perdida |
