@@ -4910,5 +4910,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786701290.2361176,
     "fills": 1
+  },
+  {
+    "timestamp": 1786701331,
+    "timestamp_added": 1786701331.7577085,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 141.27272700000003,
+    "whale_pct": 0.444,
+    "whale_value_at_open": 31783.45,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786701331.7577229,
+    "fills": 1
   }
 ]
