@@ -1,5 +1,5 @@
 {
-  "bankroll": 1003.130116479166,
+  "bankroll": 1017.7053772839349,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -20,6 +20,16 @@
       "timestamp": 1786671095.9846478,
       "bankroll": 1003.13,
       "event": "won: ferrariChampions2026 \u2014 Brownsburg: Quinn Vandecasteele vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1786672024.798344,
+      "bankroll": 1009.52,
+      "event": "won: 1winstreak1 \u2014 Atlanta Dream vs. Connecticut Sun: O/U 174.5"
+    },
+    {
+      "timestamp": 1786672024.8984904,
+      "bankroll": 1017.71,
+      "event": "won: 1winstreak1 \u2014 Atlanta Dream vs. Connecticut Sun: O/U 174.5"
     }
   ]
 }

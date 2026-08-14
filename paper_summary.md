@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:46:11 (hora de Perú)
+Actualizado: 2026-08-13 20:48:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,003.13
-**Retorno acumulado:** +0.31%
+**Bankroll actual:** $1,017.71
+**Retorno acumulado:** +1.77%
 **Peor caída desde un máximo (drawdown):** 0.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,24 +16,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 1winstreak1 | 2 | 0 | 18 | +14.57 USD |
 | ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
-| 1winstreak1 | 0 | 0 | 20 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 2 | +0.00 USD |
 | IMAREALPERSON | 0 | 0 | 4 | +0.00 USD |
-| AV23IUa | 0 | 0 | 2 | +0.00 USD |
+| AV23IUa | 0 | 0 | 6 | +0.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4
-- **Aciertos:** 4 (100.0%)
-- **Cuota promedio de entrada:** 92.8%
+- **Apuestas resueltas:** 6
+- **Aciertos:** 6 (100.0%)
+- **Cuota promedio de entrada:** 81.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $40.00
-- **ROI sobre lo apostado:** +7.83%
+- **Total apostado (suma de stakes):** $60.00
+- **ROI sobre lo apostado:** +29.50%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,6 +41,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
+| 40-59% | 1 | 100.0% | 55.0% | +45.0 pp |
+| 60-79% | 1 | 100.0% | 61.0% | +39.0 pp |
 | 80-94% | 4 | 100.0% | 92.8% | +7.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -54,6 +56,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 3.2% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 28.2% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 71.4% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: TS (-1.5) vs Aurora (+1.5 | Team Spirit (BUY) | 34% | 10.00 | 17.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -80,7 +86,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Patriots | Patriots (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | LoL: T1 Academy vs Dplus KIA Challengers | Dplus KIA Challengers (BUY) | 33% | 10.00 | 10.7% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 55% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 61% | 10.00 | 0.1% | ⏳ pendiente | — |
