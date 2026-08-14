@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 23:27:15 (hora de Perú)
+Actualizado: 2026-08-13 23:29:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **89**  ($4,795,677 en total)
+- Apuestas registradas: **90**  ($4,825,677 en total)
 - Resueltas: **81** — 50 ganadas / 31 perdidas (**62%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 38
 
 ### Balance
@@ -33,6 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 1 | ⚠️ 100% (2) | $102,000 | +$49,788 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | TennisLove | 1 | 0 | 0 | ⚠️ 100% (1) | $100,000 | +$42,857 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
@@ -40,7 +41,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 111111111115 | 0 | 1 | 1 | ⚠️ 0% (1) | $83,623 | -$57,765 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
@@ -67,6 +67,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage | Team Yandex | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | — | ⏳ Pendiente |
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | — | ⏳ Pendiente |
@@ -126,4 +127,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner | Team Spirit | 1.92 (52¢) | $27,545 | +$25,426 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Aurora vs GamerLegion - Game 1 Winner | GamerLegion | 1.43 (70¢) | $26,251 | -$26,251 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $29,507 | +$17,329 | ✅ Ganada |
