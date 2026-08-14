@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:43:32 (hora de Perú)
+Actualizado: 2026-08-14 11:45:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,359.07
-**Retorno acumulado:** +35.91%
+**Bankroll actual:** $1,372.55
+**Retorno acumulado:** +37.25%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 7 | 41 | +181.85 USD |
+| Lakersfan111 | 26 | 7 | 45 | +195.32 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 168
-- **Aciertos:** 100 (59.5%)
-- **Cuota promedio de entrada:** 51.5%
+- **Apuestas resueltas:** 171
+- **Aciertos:** 103 (60.2%)
+- **Cuota promedio de entrada:** 51.8%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,678.66
-- **ROI sobre lo apostado:** +21.26%
+- **Total apostado (suma de stakes):** $1,708.66
+- **ROI sobre lo apostado:** +21.68%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -50,7 +50,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 34 | 50.0% | 29.7% | +20.3 pp |
 | 40-59% | 78 | 53.8% | 47.8% | +6.0 pp |
-| 60-79% | 31 | 67.7% | 66.7% | +1.0 pp |
+| 60-79% | 34 | 70.6% | 66.9% | +3.7 pp |
 | 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -74,6 +74,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 0.9% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: VIT (-1.5) vs GIANTX (+1. | GIANTX (BUY) | 67% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: PRV (-1.5) vs 100 Thieves  | 100 Thieves (BUY) | 69% | 10.00 | 1.4% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: PRV (-1.5) vs 100 Thieves  | 100 Thieves (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 56% | 10.00 | 29.3% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -97,10 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 51% | 10.00 | 16.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 1.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 141.1% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 41% | 10.00 | 2.5% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 12.4% | ⏳ pendiente | — |
-| ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 45% | 10.00 | 14.8% | ⏳ pendiente | — |
-| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 0.3% | 💰 vendida anticipada | +0.59 |
