@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:17:22 (hora de Perú)
+Actualizado: 2026-08-14 07:19:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,216.39
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 32 | +0.00 USD |
 | ActionReaction | 0 | 0 | 3 | +0.00 USD |
-| midwicket72 | 3 | 1 | 2 | -8.19 USD |
+| midwicket72 | 3 | 1 | 3 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -65,6 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 76% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 29% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 45% | 10.00 | 4.8% | ⏳ pendiente | — |
@@ -94,4 +95,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 20.8% | ⏳ pendiente | — |
-| UpTheBlues | Sporting CP vs. Vitória SC: O/U 1.5 | Over (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
