@@ -5654,5 +5654,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786719295.4773057,
     "fills": 1
+  },
+  {
+    "timestamp": 1786719462,
+    "timestamp_added": 1786719463.5495527,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-shft-sk-2026-08-14",
+    "title": "LoL: Shifters vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 2510.082,
+    "whale_pct": 4.574,
+    "whale_value_at_open": 54879.7807,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786719463.5495605,
+    "fills": 1
   }
 ]
