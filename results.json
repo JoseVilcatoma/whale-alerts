@@ -1489,5 +1489,35 @@
     "status": "pending",
     "ultimo_fill": 1786709623,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 210,
+    "timestamp": 1786711432,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
+    "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28709.5796,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786711432,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 211,
+    "timestamp": 1786711495,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 29979.6288,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1786711495,
+    "fills": 1
   }
 ]
