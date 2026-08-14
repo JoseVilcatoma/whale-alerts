@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:31:23 (hora de Perú)
+Actualizado: 2026-08-13 23:33:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,001.83
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 9 | 11 | 23 | -0.89 USD |
+| wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
 | ferrariChampions2026 | 17 | 12 | 27 | -51.50 USD |
 | 1winstreak1 | 12 | 12 | 40 | -54.57 USD |
 
@@ -79,6 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.9% | ⏳ pendiente | — |
@@ -108,4 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: HULIGANI vs Vici Gaming - Game 2 | HULIGANI (BUY) | 31% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 10.00 | 0.2% | ⏳ pendiente | — |
