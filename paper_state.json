@@ -1,5 +1,5 @@
 {
-  "bankroll": 1159.012151643373,
+  "bankroll": 1149.012151643373,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -505,6 +505,11 @@
       "timestamp": 1786693030.7805085,
       "bankroll": 1159.01,
       "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Game Handicap: TY (-1.5) vs Team Liquid (+1.5)"
+    },
+    {
+      "timestamp": 1786693525.8731,
+      "bankroll": 1149.01,
+      "event": "lost: UpTheBlues \u2014 Astana: Sergey Fomin vs Masamichi Imamura"
     }
   ]
 }
