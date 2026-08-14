@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 05:38:23 (hora de Perú)
+Actualizado: 2026-08-14 05:40:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,219.65
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
-| ActionReaction | 0 | 1 | 11 | -10.00 USD |
-| ferrariChampions2026 | 20 | 10 | 9 | -36.74 USD |
+| ActionReaction | 0 | 1 | 12 | -10.00 USD |
+| ferrariChampions2026 | 20 | 10 | 10 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
@@ -73,6 +73,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 1 W | Aurora (BUY) | 39% | 4.71 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
@@ -101,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 40% | 10.00 | 1.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 0.7% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 39% | 10.00 | 2.2% | ⏳ pendiente | — |
