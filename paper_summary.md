@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 14:41:43 (hora de Perú)
+Actualizado: 2026-08-14 14:43:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 23 | +244.03 USD |
+| CORGI8 | 16 | 7 | 24 | +244.03 USD |
 | Lakersfan111 | 26 | 8 | 2 | +185.32 USD |
 | midwicket72 | 24 | 2 | 3 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 64% | 10.00 | 1.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.4% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Manchester Super Giants vs  | Manchester Super Giants (BUY) | 76% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Joblife vs Fnatic - Map 2 Winn | Fnatic (BUY) | 56% | 10.00 | 6.0% | ⏳ pendiente | — |
