@@ -3871,7 +3871,7 @@
     "whale_value_at_open": 269402.9092,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -3939,7 +3939,7 @@
     "whale_value_at_open": 225778.2458,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
@@ -5660,8 +5660,8 @@
     "whale_value_at_open": 20837.4575,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.16,
     "overlaps_with": [
       "ferrariChampions2026",
       "wr0ngw4yb3tt0r"
@@ -5890,8 +5890,8 @@
     "whale_value_at_open": 24873.9867,
     "paper_stake_usd": 4.49,
     "odds_at_bet": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.29,
     "overlaps_with": [
       "ferrariChampions2026",
       "wr0ngw4yb3tt0r"

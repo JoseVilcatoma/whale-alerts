@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:00:38 (hora de Perú)
+Actualizado: 2026-08-14 00:02:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $992.19
-**Retorno acumulado:** -0.78%
+**Bankroll actual:** $995.64
+**Retorno acumulado:** -0.44%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,18 +24,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 9 | 11 | 26 | -0.89 USD |
-| ferrariChampions2026 | 21 | 17 | 18 | -50.01 USD |
-| 1winstreak1 | 15 | 13 | 55 | -55.70 USD |
+| wr0ngw4yb3tt0r | 10 | 11 | 25 | -0.89 USD |
+| ferrariChampions2026 | 22 | 17 | 17 | -50.01 USD |
+| 1winstreak1 | 17 | 13 | 53 | -52.25 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 90
-- **Aciertos:** 48 (53.3%)
-- **Cuota promedio de entrada:** 53.2%
-- **Stake promedio:** $7.56
-- **Total apostado (suma de stakes):** $680.00
-- **ROI sobre lo apostado:** -2.38%
+- **Apuestas resueltas:** 94
+- **Aciertos:** 52 (55.3%)
+- **Cuota promedio de entrada:** 53.8%
+- **Stake promedio:** $7.39
+- **Total apostado (suma de stakes):** $694.49
+- **ROI sobre lo apostado:** -1.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,9 +45,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 23 | 21.7% | 28.5% | -6.7 pp |
-| 40-59% | 28 | 53.6% | 51.1% | +2.5 pp |
-| 60-79% | 17 | 64.7% | 67.2% | -2.5 pp |
-| 80-94% | 16 | 100.0% | 86.9% | +13.1 pp |
+| 40-59% | 30 | 56.7% | 51.2% | +5.5 pp |
+| 60-79% | 18 | 66.7% | 67.7% | -1.1 pp |
+| 80-94% | 17 | 100.0% | 87.4% | +12.6 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
