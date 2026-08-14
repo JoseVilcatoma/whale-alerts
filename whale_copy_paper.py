@@ -39,10 +39,17 @@ Variables de entorno (todas opcionales, tienen default):
                                 menos de este % de SU portafolio, para no
                                 replicar "ruido" de apuestas chiquitas
                                 (default 0.1)
-  MAX_SINGLE_POSITION_PCT    - tope de seguridad: ninguna posición de papel
-                                puede superar este % del bankroll simulado,
-                                sin importar qué % calculemos para la
-                                ballena (protege contra datos de portafolio
+  SIZING_MODE                - FIJO (default) apuesta siempre el mismo monto
+                                (FIXED_STAKE_USD) sin importar cuánto metió la
+                                ballena — así todas las señales pesan igual y
+                                el resultado mide la CALIDAD de la señal, no el
+                                tamaño ni el orden de llegada.
+                                PORCENTAJE usa el viejo modo proporcional al
+                                % del portafolio de la ballena.
+  FIXED_STAKE_USD            - monto fijo por apuesta en modo FIJO (default 10)
+  MAX_SINGLE_POSITION_PCT    - tope de seguridad SOLO en modo PORCENTAJE:
+                                ninguna posición puede superar este % del
+                                bankroll (protege contra datos de portafolio
                                 erróneos/desactualizados) (default 25)
   LB_CATEGORY                 - igual que el bot de alertas (default OVERALL)
   LEADERBOARD_REFRESH_SECONDS - cada cuánto se recalculan los 5 vigilados
@@ -87,6 +94,8 @@ INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
 TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "30"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "10"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
+SIZING_MODE = os.environ.get("SIZING_MODE", "FIJO").upper()   # FIJO o PORCENTAJE
+FIXED_STAKE_USD = float(os.environ.get("FIXED_STAKE_USD", "10"))
 MAX_SINGLE_POSITION_PCT = float(os.environ.get("MAX_SINGLE_POSITION_PCT", "25"))
 MIN_WHALE_PORTFOLIO = float(os.environ.get("MIN_WHALE_PORTFOLIO", "2000"))
 MAX_DAYS_TO_RESOLUTION = float(os.environ.get("MAX_DAYS_TO_RESOLUTION", "1"))  # solo mercados que resuelven el mismo día
@@ -441,6 +450,9 @@ def build_summary_md():
         f"**Peor caída desde un máximo (drawdown):** {max_drawdown_pct():.2f}%",
         f"**Posiciones recortadas por el tope de seguridad ({MAX_SINGLE_POSITION_PCT:.0f}% máx. por posición):** {recortados_tope}",
         "",
+        f"**Modo de apuesta:** " + ("monto fijo de ${:,.2f} por apuesta".format(FIXED_STAKE_USD)
+          if SIZING_MODE == "FIJO" else f"proporcional al % de la ballena (tope {MAX_SINGLE_POSITION_PCT:.0f}%)"),
+        "",
         "_Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._",
         "",
         "## Por vigilado",
@@ -450,6 +462,58 @@ def build_summary_md():
     ]
     for w, d in sorted(per_wallet.items(), key=lambda kv: -kv[1]["pnl_usd"]):
         lines.append(f"| {d['username']} | {d['won']} | {d['lost']} | {d['pending']} | {d['pnl_usd']:+,.2f} USD |")
+
+    # --- Métricas de calibración: ¿acierta más o menos de lo que dice la cuota? ---
+    resueltas = [t for t in trades if t["status"] in ("won", "lost")]
+    if resueltas:
+        def rango(o):
+            if o < 20: return "1-19% (bomba)"
+            if o < 40: return "20-39%"
+            if o < 60: return "40-59%"
+            if o < 80: return "60-79%"
+            if o < 95: return "80-94%"
+            return "95-99% (casi seguro)"
+
+        cubos = {}
+        for t in resueltas:
+            o = t.get("odds_at_bet", 0)
+            c = cubos.setdefault(rango(o), {"won": 0, "lost": 0, "odds_sum": 0.0})
+            c["won" if t["status"] == "won" else "lost"] += 1
+            c["odds_sum"] += o
+
+        stakes = [t.get("paper_stake_usd", 0) for t in resueltas]
+        stake_prom = sum(stakes) / len(stakes)
+        total_apostado = sum(stakes)
+        pnl_resueltas = sum(t.get("profit_usd", 0) for t in resueltas)
+        roi = pnl_resueltas / total_apostado * 100 if total_apostado else 0
+        cuota_prom = sum(t.get("odds_at_bet", 0) for t in resueltas) / len(resueltas)
+        ganadas_tot = sum(1 for t in resueltas if t["status"] == "won")
+
+        lines += [
+            "", "## Análisis general", "",
+            f"- **Apuestas resueltas:** {len(resueltas)}",
+            f"- **Aciertos:** {ganadas_tot} ({ganadas_tot/len(resueltas)*100:.1f}%)",
+            f"- **Cuota promedio de entrada:** {cuota_prom:.1f}%",
+            f"- **Stake promedio:** ${stake_prom:,.2f}",
+            f"- **Total apostado (suma de stakes):** ${total_apostado:,.2f}",
+            f"- **ROI sobre lo apostado:** {roi:+.2f}%",
+            "",
+            "### ¿Aciertan más o menos de lo que promete la cuota?",
+            "",
+            "_Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. "
+            "Ganar MENOS de lo que dice la cuota significa que la señal pierde plata a la larga._",
+            "",
+            "| Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |",
+            "|---|---|---|---|---|",
+        ]
+        for r in ["1-19% (bomba)", "20-39%", "40-59%", "60-79%", "80-94%", "95-99% (casi seguro)"]:
+            if r not in cubos:
+                continue
+            c = cubos[r]
+            n = c["won"] + c["lost"]
+            real = c["won"] / n * 100
+            esperado = c["odds_sum"] / n
+            lines.append(f"| {r} | {n} | {real:.1f}% | {esperado:.1f}% | {real-esperado:+.1f} pp |")
 
     lines += ["", "## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)", ""]
     if overlap_markets:
@@ -714,6 +778,22 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, 
         # Usamos el valor de portafolio congelado en el fill 1, NO uno nuevo.
         whale_value_base = existente.get("whale_value_at_open") or whale_value_now
         combined_pct = combined_whale_usd / whale_value_base * 100 if whale_value_base else whale_pct
+
+        if SIZING_MODE == "FIJO":
+            # En modo fijo, los fills extra NO agrandan la posición: ya
+            # apostamos nuestro monto fijo en el primer fill. Solo actualizamos
+            # el dato de cuánto metió la ballena en total (informativo).
+            with lock:
+                existente["whale_usd"] = combined_whale_usd
+                existente["whale_pct"] = round(combined_pct, 3)
+                existente["last_fill_at"] = now
+                existente["fills"] = existente.get("fills", 1) + 1
+                trades_dirty = True
+            print(f"🧪 PAPER — {username}: fill adicional en {trade.get('title')} "
+                  f"(la ballena lleva ${combined_whale_usd:,.0f} = {combined_pct:.1f}% suyo; "
+                  f"nuestra réplica sigue fija en ${existente['paper_stake_usd']:,.2f})")
+            return
+
         capped_pct = min(combined_pct, MAX_SINGLE_POSITION_PCT)
         recortado_tope = capped_pct < combined_pct
 
@@ -745,12 +825,21 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, 
               f"(+${adicional:,.2f}, total ${nuevo_stake_total:,.2f}, {existente['fills']} fills){nota}")
         return
 
-    capped_pct = min(whale_pct, MAX_SINGLE_POSITION_PCT)
-    recortado_tope = capped_pct < whale_pct
-
     with lock:
         available = max(0.0, bankroll - allocated)
-    desired_stake = capped_pct / 100 * bankroll
+
+    if SIZING_MODE == "FIJO":
+        # Monto fijo: todas las señales pesan igual. No depende del dato de
+        # portafolio de la ballena (que ya demostró ser poco confiable) ni del
+        # orden de llegada. El % de la ballena se sigue guardando como dato,
+        # pero no influye en cuánto arriesgamos.
+        desired_stake = FIXED_STAKE_USD
+        recortado_tope = False
+    else:
+        capped_pct = min(whale_pct, MAX_SINGLE_POSITION_PCT)
+        recortado_tope = capped_pct < whale_pct
+        desired_stake = capped_pct / 100 * bankroll
+
     recortado_bankroll = desired_stake > available
     paper_stake = min(desired_stake, available)
 
