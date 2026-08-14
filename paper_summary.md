@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:29:29 (hora de Perú)
+Actualizado: 2026-08-14 00:31:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $961.56
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 10 | 0 | 3 | +8.36 USD |
 | CORGI8 | 1 | 0 | 15 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 13 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 14 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 5.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ❌ perdida | -0.00 |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ❌ perdida | -1.49 |
