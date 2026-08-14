@@ -1014,5 +1014,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786668495.8363268,
     "fills": 1
+  },
+  {
+    "timestamp": 1786668539,
+    "timestamp_added": 1786668539.747354,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vandeca-schoolk-2026-08-13",
+    "title": "Brownsburg: Quinn Vandecasteele vs Tristan Schoolkate",
+    "outcome": "Tristan Schoolkate",
+    "side": "BUY",
+    "whale_usd": 3568.832364,
+    "whale_pct": 1.266,
+    "whale_value_at_open": 281976.5085,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786668539.7473624,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786668563,
+    "timestamp_added": 1786668564.1146696,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-phi-min-2026-08-13",
+    "title": "Philadelphia Phillies vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 24.369999999999994,
+    "whale_pct": 0.417,
+    "whale_value_at_open": 5847.5915,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 13,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786668564.114676,
+    "fills": 1
   }
 ]
