@@ -1,5 +1,5 @@
 {
-  "bankroll": 1011.170426602409,
+  "bankroll": 988.2782697396638,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -85,6 +85,56 @@
       "timestamp": 1786675405.215999,
       "bankroll": 1011.17,
       "event": "won: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786675527.49437,
+      "bankroll": 1022.0,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786675527.8064604,
+      "bankroll": 1028.67,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786675527.906607,
+      "bankroll": 1018.67,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786675531.2110858,
+      "bankroll": 1028.28,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786675531.5115283,
+      "bankroll": 1018.28,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786675535.8366556,
+      "bankroll": 1018.28,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786675537.7393322,
+      "bankroll": 1018.28,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786675590.7233593,
+      "bankroll": 1008.28,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786675591.0237908,
+      "bankroll": 998.28,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786675591.8249395,
+      "bankroll": 988.28,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
     }
   ]
 }
