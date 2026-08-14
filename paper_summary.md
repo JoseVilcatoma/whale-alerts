@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:32:12 (hora de Perú)
+Actualizado: 2026-08-14 08:34:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,166.87
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 23 | -8.19 USD |
+| midwicket72 | 3 | 1 | 24 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 42% | 10.00 | 12.5% | ⏳ pendiente | — |
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming (BO3)  | Anyone's Legend (BUY) | 58% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming (BO3)  | Anyone's Legend (BUY) | 59% | 10.00 | 26.0% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 39.8% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 52.0% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 87.4% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 79% | 10.00 | 8.9% | ⏳ pendiente | — |
