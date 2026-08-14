@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 09:45:03 (hora de Perú)
+Actualizado: 2026-08-14 09:47:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,166.87
-**Retorno acumulado:** +16.69%
+**Bankroll actual:** $1,372.68
+**Retorno acumulado:** +37.27%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 11 | 7 | 5 | +168.15 USD |
-| AV23IUa | 5 | 1 | 12 | +116.21 USD |
+| CORGI8 | 14 | 7 | 2 | +206.89 USD |
+| Lakersfan111 | 22 | 4 | 13 | +202.24 USD |
+| AV23IUa | 5 | 3 | 10 | +96.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
-| Lakersfan111 | 9 | 4 | 26 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 128
-- **Aciertos:** 75 (58.6%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 146
+- **Aciertos:** 91 (62.3%)
+- **Cuota promedio de entrada:** 51.7%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,278.66
-- **ROI sobre lo apostado:** +12.98%
+- **Total apostado (suma de stakes):** $1,458.66
+- **ROI sobre lo apostado:** +25.48%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,8 +47,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 26 | 46.2% | 29.1% | +17.0 pp |
-| 40-59% | 53 | 45.3% | 49.0% | -3.7 pp |
-| 60-79% | 26 | 80.8% | 66.8% | +14.0 pp |
+| 40-59% | 69 | 58.0% | 47.2% | +10.7 pp |
+| 60-79% | 28 | 75.0% | 66.7% | +8.3 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
