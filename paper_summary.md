@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:55:34 (hora de Perú)
+Actualizado: 2026-08-14 17:57:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,395.23
-**Retorno acumulado:** +39.52%
+**Bankroll actual:** $1,390.68
+**Retorno acumulado:** +39.07%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,30 +19,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 0 | +106.44 USD |
+| UpTheBlues | 7 | 1 | 1 | +69.85 USD |
 | wr0ngw4yb3tt0r | 16 | 11 | 24 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
-| UpTheBlues | 6 | 1 | 2 | +34.40 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
-| 111111111115 | 0 | 0 | 20 | +0.00 USD |
+| 111111111115 | 0 | 0 | 21 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 7 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 1 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
+| Weaseloftheweek | 0 | 4 | 4 | -40.00 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
 | Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 220
-- **Aciertos:** 133 (60.5%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 225
+- **Aciertos:** 134 (59.6%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,198.66
-- **ROI sobre lo apostado:** +17.93%
+- **Total apostado (suma de stakes):** $2,248.66
+- **ROI sobre lo apostado:** +17.33%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,8 +51,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
-| 20-39% | 41 | 46.3% | 30.1% | +16.3 pp |
-| 40-59% | 88 | 52.3% | 47.9% | +4.4 pp |
+| 20-39% | 42 | 47.6% | 29.9% | +17.7 pp |
+| 40-59% | 92 | 50.0% | 47.8% | +2.2 pp |
 | 60-79% | 63 | 76.2% | 66.4% | +9.8 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -76,6 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 59% | 5.23 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 59% | 10.00 | 7.2% | ⏳ pendiente | — |
@@ -105,4 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 2.3% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.1% | ⏳ pendiente | — |
