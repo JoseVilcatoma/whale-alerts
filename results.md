@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 12:48:56 (hora de Perú)
+Actualizado: 2026-08-14 12:50:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **119**  ($5,878,629 en total)
+- Apuestas registradas: **120**  ($5,918,393 en total)
 - Resueltas: **101** — 62 ganadas / 39 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 45
+- Pendientes: 19
+- Apostadores distintos: 46
 
 ### Balance
 
@@ -49,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 0 | 0 | 2 | — | $55,210 | — |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
+| 0b1 | 0 | 0 | 1 | — | $39,763 | — |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
@@ -63,14 +64,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | TAIWANNUMBERONE | 1 | 0 | 0 | ⚠️ 100% (1) | $27,031 | +$11,585 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
-| b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 
-_(mostrando los 40 de mayor monto, de 45 en total)_
+_(mostrando los 40 de mayor monto, de 46 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 45 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Todi (Doubles): Reymond/Sanchez vs Barrena/Kicker | Reymond/Sanchez | 1.67 (60¢) | $26,026 | +$17,351 | ✅ Ganada |
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | +$85,047 | ✅ Ganada |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | +$3,754 | ✅ Ganada |
-| xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | -$27,300 | ❌ Perdida |

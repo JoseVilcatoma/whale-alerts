@@ -1789,5 +1789,20 @@
     "status": "pending",
     "ultimo_fill": 1786729081,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 240,
+    "timestamp": 1786729771,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "wta-arango-william-2026-08-14",
+    "title": "Cincinnati Open: Emiliana Arango vs Venus Williams",
+    "outcome": "Emiliana Arango",
+    "side": "BUY",
+    "usd": 39763.2194,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1786729771,
+    "fills": 1
   }
 ]
