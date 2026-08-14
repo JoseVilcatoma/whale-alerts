@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:05:11 (hora de Perú)
+Actualizado: 2026-08-14 07:07:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,216.39
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 32 | +0.00 USD |
-| ActionReaction | 0 | 0 | 1 | +0.00 USD |
+| ActionReaction | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 3 | 1 | 2 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -65,6 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 29% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 45% | 10.00 | 4.8% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -94,4 +95,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 20.8% | ⏳ pendiente | — |
 | UpTheBlues | Sporting CP vs. Vitória SC: O/U 1.5 | Over (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 72.2% | ⏳ pendiente | — |
