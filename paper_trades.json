@@ -3100,5 +3100,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786691014.804919,
     "fills": 1
+  },
+  {
+    "timestamp": 1786691312,
+    "timestamp_added": 1786691312.7886784,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-cocciar-stefani-2026-08-14",
+    "title": "Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini",
+    "outcome": "Lucrezia Stefanini",
+    "side": "BUY",
+    "whale_usd": 284.46000000000004,
+    "whale_pct": 0.305,
+    "whale_value_at_open": 93359.5602,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786691312.7886858,
+    "fills": 1
   }
 ]
