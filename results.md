@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 11:45:30 (hora de Perú)
+Actualizado: 2026-08-14 11:47:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **110**  ($5,501,453 en total)
-- Resueltas: **99** — 60 ganadas / 39 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **101** — 62 ganadas / 39 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 44
 
 ### Balance
 
-- **Resultado de los apostadores: +$209,304** sobre $5,111,653 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$74** sobre $9,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: +$227,183** sobre $5,167,358 apostados (ROI **+4.4%**)
+- Copiando $100 fijo en cada una: **-$9** sobre $9,800 (ROI **-0.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | CORGI8 | 0 | 0 | 1 | — | $29,980 | — |
-| jackpeter888 | 0 | 0 | 1 | — | $28,674 | — |
+| jackpeter888 | 1 | 0 | 0 | ⚠️ 100% (1) | $28,674 | +$6,294 |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
-| TAIWANNUMBERONE | 0 | 0 | 1 | — | $27,031 | — |
+| TAIWANNUMBERONE | 1 | 0 | 0 | ⚠️ 100% (1) | $27,031 | +$11,585 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 |---|---|---|---|---|---|---|
 | 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | +$1,682 | ✅ Ganada |
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
-| jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | — | ⏳ Pendiente |
+| jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | +$6,294 | ✅ Ganada |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | — | ⏳ Pendiente |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
 | NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | -$35,235 | ❌ Perdida |
-| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | +$11,585 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
 | retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | -$34,595 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage | Team Falcons | 1.61 (62¢) | $30,000 | -$30,000 | ❌ Perdida |
