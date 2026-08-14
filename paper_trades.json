@@ -6184,5 +6184,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786723888.2113905,
     "fills": 1
+  },
+  {
+    "timestamp": 1786723997,
+    "timestamp_added": 1786723998.262349,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-shft-sk-2026-08-14-game2",
+    "title": "LoL: Shifters vs SK Gaming - Game 2 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 58.785105,
+    "whale_pct": 2.474,
+    "whale_value_at_open": 2375.7212,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786723998.2623563,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786724022,
+    "timestamp_added": 1786724022.6475327,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-shft-sk-2026-08-14-game2",
+    "title": "LoL: Shifters vs SK Gaming - Game 2 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 3353.284884999999,
+    "whale_pct": 141.148,
+    "whale_value_at_open": 2375.7212,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ActionReaction"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786724052.095331,
+    "fills": 12
   }
 ]

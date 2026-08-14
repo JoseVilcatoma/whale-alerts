@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:12:28 (hora de Perú)
+Actualizado: 2026-08-14 11:14:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,387.59
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
-| IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 2 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 1 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
@@ -67,11 +67,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-b8-vit-2026-08-14 | Lakersfan111, ferrariChampions2026 |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | crichundred-man-sun-2026-08-14 | Weaseloftheweek, midwicket72 |
+| lol-shft-sk-2026-08-14-game2 | ActionReaction, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 141.1% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 41% | 10.00 | 2.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -100,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Shifters vs SK Gaming - Game 1 Winn | Shifters (BUY) | 46% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 25% | 10.00 | 3.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 24% | 10.00 | 0.3% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 41% | 10.00 | 0.8% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 51% | 6.87 | 0.2% | ⏳ pendiente | — |
