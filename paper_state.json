@@ -1,5 +1,5 @@
 {
-  "bankroll": 965.5567718473633,
+  "bankroll": 1136.3260026165945,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -435,6 +435,36 @@
       "timestamp": 1786687722.7080033,
       "bankroll": 965.56,
       "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786688347.9490883,
+      "bankroll": 994.02,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786688348.5303495,
+      "bankroll": 1022.48,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786688348.630565,
+      "bankroll": 1050.94,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786688350.0602012,
+      "bankroll": 1079.4,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786688350.1604366,
+      "bankroll": 1107.86,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786688350.6201665,
+      "bankroll": 1136.33,
+      "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
     }
   ]
 }

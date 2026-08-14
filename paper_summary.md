@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:18:44 (hora de Perú)
+Actualizado: 2026-08-14 01:20:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $965.56
-**Retorno acumulado:** -3.44%
+**Bankroll actual:** $1,136.33
+**Retorno acumulado:** +13.63%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| CORGI8 | 6 | 0 | 1 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 0 | 2 | +24.01 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| CORGI8 | 0 | 0 | 7 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 5 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 14 | 10 | 6 | -50.01 USD |
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 86
-- **Aciertos:** 46 (53.5%)
-- **Cuota promedio de entrada:** 53.4%
-- **Stake promedio:** $9.98
-- **Total apostado (suma de stakes):** $858.66
-- **ROI sobre lo apostado:** -4.12%
+- **Apuestas resueltas:** 92
+- **Aciertos:** 52 (56.5%)
+- **Cuota promedio de entrada:** 51.6%
+- **Stake promedio:** $9.99
+- **Total apostado (suma de stakes):** $918.66
+- **ROI sobre lo apostado:** +14.73%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,7 +43,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 4 | 0.0% | 14.5% | -14.5 pp |
-| 20-39% | 17 | 23.5% | 28.8% | -5.3 pp |
+| 20-39% | 23 | 43.5% | 28.1% | +15.4 pp |
 | 40-59% | 38 | 52.6% | 50.3% | +2.4 pp |
 | 60-79% | 13 | 61.5% | 67.1% | -5.5 pp |
 | 80-94% | 12 | 100.0% | 89.3% | +10.7 pp |
@@ -85,11 +85,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 75% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 34% | 10.00 | 1.2% | ❌ perdida | -10.00 |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 2.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 2.2% | ✅ ganada | +28.46 |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 73% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ✅ ganada | +1.49 |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ❌ perdida | -10.00 |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ✅ ganada | +28.46 |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 50% | 10.00 | 18.0% | ❌ perdida | -10.00 |
