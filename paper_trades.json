@@ -4662,8 +4662,8 @@
     "whale_value_at_open": 123181.6268,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -4732,8 +4732,8 @@
     "whale_value_at_open": 123082.1504,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -7002,6 +7002,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786685811.4327424,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786685992,
+    "timestamp_added": 1786685992.618947,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-arango-william-2026-08-14",
+    "title": "Cincinnati Open: Emiliana Arango vs Venus Williams",
+    "outcome": "Emiliana Arango",
+    "side": "BUY",
+    "whale_usd": 235.13419300000004,
+    "whale_pct": 0.19,
+    "whale_value_at_open": 123433.8745,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786685992.6189542,
     "fills": 1
   }
 ]

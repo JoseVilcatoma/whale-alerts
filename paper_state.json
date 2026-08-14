@@ -1,5 +1,5 @@
 {
-  "bankroll": 958.9897513490513,
+  "bankroll": 938.9897513490513,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1060,6 +1060,16 @@
       "timestamp": 1786685802.1453936,
       "bankroll": 958.99,
       "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786685927.2811263,
+      "bankroll": 948.99,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685927.3812764,
+      "bankroll": 938.99,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner"
     }
   ]
 }
