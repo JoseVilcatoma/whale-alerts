@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:44:17 (hora de Perú)
+Actualizado: 2026-08-13 19:46:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 0 | 0 | 12 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 13 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 13 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 16 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
@@ -27,11 +27,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Mercado | Vigilados que coincidieron |
 |---|---|
 | mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
+| mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Volynets (BUY) | 38% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 87% | 10.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Boulter (BUY) | 58% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 86% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Team Envy vs M80 (BO3) - VCT A | Team Envy (BUY) | 60% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 33% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -58,7 +63,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 47% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 38% | 10.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 66% | 10.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will New York City FC vs. Club Necaxa en | Yes (BUY) | 25% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will New York City FC win on 2026-08-13? | No (BUY) | 37% | 10.00 | 0.3% | ⏳ pendiente | — |
