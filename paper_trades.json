@@ -4864,5 +4864,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786730952.3452404,
     "fills": 1
+  },
+  {
+    "timestamp": 1786731023,
+    "timestamp_added": 1786731024.6948032,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-lgd-xtreme-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 3780.775,
+    "whale_pct": 24.836,
+    "whale_value_at_open": 15223.1217,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786731024.694812,
+    "fills": 1
   }
 ]
