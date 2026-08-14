@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:17:41 (hora de Perú)
+Actualizado: 2026-08-13 21:19:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 21 | +14.57 USD |
-| IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
+| 1winstreak1 | 2 | 0 | 22 | +14.57 USD |
+| IMAREALPERSON | 4 | 0 | 1 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 19 | +0.00 USD |
-| CORGI8 | 0 | 0 | 6 | +0.00 USD |
+| CORGI8 | 0 | 0 | 7 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 5 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 8 | +0.00 USD |
 | AV23IUa | 0 | 0 | 12 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 19 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 20 | -15.69 USD |
 
 ## Análisis general
 
@@ -61,6 +61,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 70% | 0.00 | 28.2% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 60% | 0.00 | 1.8% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 35% | 1.17 | 17.4% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 99% | 10.00 | 1.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 1.9% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-13? | No (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
 | AV23IUa | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 8.66 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -84,10 +91,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 50% | 10.00 | 18.0% | ⏳ pendiente | — |
-| AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.7% | ⏳ pendiente | — |
-| AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.1% | ⏳ pendiente | — |
-| AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 6.2% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
