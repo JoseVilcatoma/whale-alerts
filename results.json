@@ -1624,5 +1624,20 @@
     "status": "pending",
     "ultimo_fill": 1786715630,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 223,
+    "timestamp": 1786722036,
+    "username": "007theone1",
+    "wallet": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+    "slug": "atp-barrena-neumaye-2026-08-14",
+    "title": "Todi: Alex Barrena vs Lukas Neumayer",
+    "outcome": "Alex Barrena",
+    "side": "BUY",
+    "usd": 26514.8692,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1786722036,
+    "fills": 1
   }
 ]
