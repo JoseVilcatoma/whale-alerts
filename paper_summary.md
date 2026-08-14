@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:04:55 (hora de Perú)
+Actualizado: 2026-08-14 04:06:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -16,14 +16,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 6 | 0 | 21 | +170.76 USD |
+| CORGI8 | 6 | 0 | 22 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 47 | +0.00 USD |
-| ActionReaction | 0 | 0 | 7 | +0.00 USD |
-| midwicket72 | 3 | 1 | 2 | -8.19 USD |
+| ActionReaction | 0 | 0 | 8 | +0.00 USD |
+| midwicket72 | 3 | 1 | 3 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -66,6 +66,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 45% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ActionReaction | LoL: T1 vs Dplus KIA - Game 2 Winner | T1 (BUY) | 53% | 10.00 | 36.0% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 40% | 10.00 | 9.5% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.5% | ⏳ pendiente | — |
@@ -93,6 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 4.7% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 5.7% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 50% | 10.00 | 61.2% | ⏳ pendiente | — |
