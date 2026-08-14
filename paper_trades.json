@@ -5172,5 +5172,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786733264.889132,
     "fills": 1
+  },
+  {
+    "timestamp": 1786733405,
+    "timestamp_added": 1786733406.280123,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crichundred-man-sun-2026-08-14",
+    "title": "The Hundred: Manchester Super Giants vs Sunrisers Leeds",
+    "outcome": "Manchester Super Giants",
+    "side": "BUY",
+    "whale_usd": 152.601666,
+    "whale_pct": 0.104,
+    "whale_value_at_open": 146847.281,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786733406.2801301,
+    "fills": 1
   }
 ]
