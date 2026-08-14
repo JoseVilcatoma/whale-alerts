@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 05:25:58 (hora de Perú)
+Actualizado: 2026-08-14 05:28:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,174.94
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 51 | +0.00 USD |
-| ActionReaction | 0 | 0 | 11 | +0.00 USD |
+| ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
-| UpTheBlues | 0 | 1 | 8 | -10.00 USD |
+| UpTheBlues | 0 | 1 | 9 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -72,6 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will CA Banfield win on 2026-08-14? | No (BUY) | 82% | 9.61 | 0.1% | ⏳ pendiente | — |
+| ActionReaction | Dota 2: Vici Gaming vs GamerLegion (BO3) | Vici Gaming (BUY) | 55% | 10.00 | 6.2% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 52% | 5.33 | 2.2% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: BB (-1.5) vs NIP (+1.5) | NIP (BUY) | 62% | 10.00 | 1.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -100,5 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 35% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 67% | 10.00 | 21.0% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 23.6% | ⏳ pendiente | — |
