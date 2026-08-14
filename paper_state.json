@@ -1,5 +1,5 @@
 {
-  "bankroll": 999.8310301575971,
+  "bankroll": 1011.170426602409,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -70,6 +70,21 @@
       "timestamp": 1786673849.4985404,
       "bankroll": 999.83,
       "event": "lost: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786675401.898476,
+      "bankroll": 989.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786675402.8799598,
+      "bankroll": 1004.22,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786675405.215999,
+      "bankroll": 1011.17,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
     }
   ]
 }
