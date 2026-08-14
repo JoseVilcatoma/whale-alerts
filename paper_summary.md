@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:19:55 (hora de Perú)
+Actualizado: 2026-08-13 19:21:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 5 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 
@@ -30,6 +30,9 @@ _Todavía no hubo coincidencias._
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | LAC vs. HOU: O/U 38.5 | Under (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 47% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 38% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 66% | 10.00 | 0.1% | ⏳ pendiente | — |
