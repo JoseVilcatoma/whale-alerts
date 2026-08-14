@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 03:54:30 (hora de Perú)
+Actualizado: 2026-08-14 03:56:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -66,7 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.4% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 35% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 67% | 10.00 | 21.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 23.6% | ⏳ pendiente | — |

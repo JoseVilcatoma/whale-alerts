@@ -4368,8 +4368,8 @@
     "title": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 2627.937254,
-    "whale_pct": 5.368,
+    "whale_usd": 2715.078854,
+    "whale_pct": 5.546,
     "whale_value_at_open": 48954.5786,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -4378,7 +4378,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786697662.8419757,
-    "fills": 2
+    "last_fill_at": 1786697673.5885785,
+    "fills": 3
   }
 ]
