@@ -8177,5 +8177,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786748334.2480164,
     "fills": 1
+  },
+  {
+    "timestamp": 1786748397,
+    "timestamp_added": 1786748398.2380934,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mia-cin-2026-08-14",
+    "title": "Miami Marlins vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 12.48,
+    "whale_pct": 0.419,
+    "whale_value_at_open": 2977.0739,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786748398.2381032,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786748427,
+    "timestamp_added": 1786748427.412034,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "2GAME Esports",
+    "side": "BUY",
+    "whale_usd": 294.19354799999996,
+    "whale_pct": 3.4,
+    "whale_value_at_open": 8651.5183,
+    "paper_stake_usd": 5.45,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786748427.4120438,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786748457,
+    "timestamp_added": 1786748457.478865,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "whale_usd": 121.572,
+    "whale_pct": 0.19,
+    "whale_value_at_open": 63964.8781,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786748457.4788742,
+    "fills": 1
   }
 ]
