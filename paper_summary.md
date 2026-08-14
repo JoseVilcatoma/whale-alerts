@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:54:31 (hora de Perú)
+Actualizado: 2026-08-13 20:56:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.66
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 2 | 0 | 20 | +14.57 USD |
-| ferrariChampions2026 | 4 | 0 | 18 | +3.13 USD |
+| ferrariChampions2026 | 4 | 0 | 21 | +3.13 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
 | CORGI8 | 0 | 0 | 5 | +0.00 USD |
@@ -52,11 +52,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
+| lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
+| atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 73% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ⏳ pendiente | — |
@@ -84,6 +89,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 9.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 0.6% | ⏳ pendiente | — |
