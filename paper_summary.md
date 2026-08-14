@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:46:21 (hora de Perú)
+Actualizado: 2026-08-13 19:48:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 0 | 0 | 13 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 16 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 14 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 20 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
@@ -33,6 +33,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 66% | 10.00 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 11% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Club Santos Laguna (-2.5) | Philadelphia Union (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 89% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Volynets (BUY) | 38% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 87% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Boulter (BUY) | 58% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -58,8 +63,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 58% | 10.00 | 3.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 52% | 10.00 | 2.5% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 45% | 10.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | LAC vs. HOU: O/U 38.5 | Under (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chargers vs. Texans | Texans (BUY) | 47% | 10.00 | 0.1% | ⏳ pendiente | — |
