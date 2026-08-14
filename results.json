@@ -1654,5 +1654,20 @@
     "status": "won",
     "ultimo_fill": 1786722692,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 231,
+    "timestamp": 1786726098,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-prv-100t-2026-08-14",
+    "title": "Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "usd": 25200.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1786726098,
+    "fills": 1
   }
 ]
