@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:17:58 (hora de Perú)
+Actualizado: 2026-08-14 17:20:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,402.07
-**Retorno acumulado:** +40.21%
+**Bankroll actual:** $1,395.23
+**Retorno acumulado:** +39.52%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 25 | 2 | 2 | +113.28 USD |
+| midwicket72 | 26 | 3 | 0 | +106.44 USD |
 | wr0ngw4yb3tt0r | 16 | 11 | 19 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | UpTheBlues | 6 | 1 | 2 | +34.40 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 218
-- **Aciertos:** 132 (60.6%)
+- **Apuestas resueltas:** 220
+- **Aciertos:** 133 (60.5%)
 - **Cuota promedio de entrada:** 53.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,178.66
-- **ROI sobre lo apostado:** +18.41%
+- **Total apostado (suma de stakes):** $2,198.66
+- **ROI sobre lo apostado:** +17.93%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,10 +49,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
+| 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
 | 20-39% | 41 | 46.3% | 30.1% | +16.3 pp |
 | 40-59% | 88 | 52.3% | 47.9% | +4.4 pp |
-| 60-79% | 62 | 75.8% | 66.3% | +9.5 pp |
+| 60-79% | 63 | 76.2% | 66.4% | +9.8 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
