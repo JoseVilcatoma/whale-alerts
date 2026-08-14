@@ -7157,5 +7157,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786686667.8352787,
     "fills": 1
+  },
+  {
+    "timestamp": 1786686856,
+    "timestamp_added": 1786686857.0410614,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-lgd-ngx-2026-08-14-game2",
+    "title": "Dota 2: LGD Gaming vs Nigma Galaxy - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 492.34439999999995,
+    "whale_pct": 0.666,
+    "whale_value_at_open": 73980.4922,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786686864.0129042,
+    "fills": 2
   }
 ]
