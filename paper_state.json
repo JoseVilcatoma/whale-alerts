@@ -1,5 +1,5 @@
 {
-  "bankroll": 1395.2287869276872,
+  "bankroll": 1390.6833323822327,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1105,6 +1105,31 @@
       "timestamp": 1786745924.6380682,
       "bankroll": 1395.23,
       "event": "lost: midwicket72 \u2014 The Hundred: Manchester Super Giants vs Sunrisers Leeds"
+    },
+    {
+      "timestamp": 1786748237.9230928,
+      "bankroll": 1430.68,
+      "event": "won: UpTheBlues \u2014 Will Galatasaray SK win on 2026-08-14?"
+    },
+    {
+      "timestamp": 1786748249.0093558,
+      "bankroll": 1420.68,
+      "event": "lost: Weaseloftheweek \u2014 Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel"
+    },
+    {
+      "timestamp": 1786748249.1094975,
+      "bankroll": 1410.68,
+      "event": "lost: Weaseloftheweek \u2014 Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel"
+    },
+    {
+      "timestamp": 1786748249.2096574,
+      "bankroll": 1400.68,
+      "event": "lost: Weaseloftheweek \u2014 Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel"
+    },
+    {
+      "timestamp": 1786748249.309814,
+      "bankroll": 1390.68,
+      "event": "lost: Weaseloftheweek \u2014 Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel"
     }
   ]
 }
