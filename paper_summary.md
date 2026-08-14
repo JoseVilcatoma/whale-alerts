@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 15:21:09 (hora de Perú)
+Actualizado: 2026-08-14 15:23:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,416.43
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 24 | 2 | 3 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 17 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 18 | +18.97 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
-| IMAREALPERSON | 4 | 0 | 14 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 15 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 4 | +0.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
@@ -70,6 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 3.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 1.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -98,5 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 34% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 34% | 10.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 7.7% | ⏳ pendiente | — |
