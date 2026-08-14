@@ -8367,5 +8367,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786748986.5006807,
     "fills": 1
+  },
+  {
+    "timestamp": 1786749163,
+    "timestamp_added": 1786749163.7741919,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-wsh-nym-2026-08-14-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 20.0,
+    "whale_pct": 0.558,
+    "whale_value_at_open": 3583.2233,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786749163.7741992,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786749170,
+    "timestamp_added": 1786749170.9399798,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sd-cle-2026-08-14",
+    "title": "San Diego Padres vs. Cleveland Guardians",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 7.7599990000000005,
+    "whale_pct": 0.217,
+    "whale_value_at_open": 3583.2233,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786749170.939988,
+    "fills": 1
   }
 ]
