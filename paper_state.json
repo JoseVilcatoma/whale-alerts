@@ -1,5 +1,5 @@
 {
-  "bankroll": 936.6171668756741,
+  "bankroll": 937.9215147017611,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -210,6 +210,11 @@
       "timestamp": 1786675988.700731,
       "bankroll": 936.62,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner (+3.10 USD)"
+    },
+    {
+      "timestamp": 1786676127.6809304,
+      "bankroll": 937.92,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner (+1.30 USD)"
     }
   ]
 }

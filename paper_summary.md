@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:55:18 (hora de Perú)
+Actualizado: 2026-08-13 21:57:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $936.62
-**Retorno acumulado:** -6.34%
+**Bankroll actual:** $937.92
+**Retorno acumulado:** -6.21%
 **Peor caída desde un máximo (drawdown):** 9.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| wr0ngw4yb3tt0r | 2 | 1 | 33 | +11.34 USD |
-| IMAREALPERSON | 6 | 0 | 5 | +4.06 USD |
+| wr0ngw4yb3tt0r | 2 | 1 | 34 | +11.34 USD |
+| IMAREALPERSON | 7 | 0 | 4 | +5.36 USD |
 | CORGI8 | 0 | 0 | 10 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
@@ -72,7 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 46% | 10.00 | 15.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 66% | 10.00 | 0.7% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 46% | 10.00 | 15.9% | 💰 vendida anticipada | +1.30 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 52% | 10.00 | 5.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 15% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -101,4 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 61% | 0.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 75% | 0.00 | 0.9% | ⏳ pendiente | — |
