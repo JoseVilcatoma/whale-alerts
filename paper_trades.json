@@ -5656,5 +5656,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786735014.235104,
     "fills": 1
+  },
+  {
+    "timestamp": 1786735322,
+    "timestamp_added": 1786735323.2722466,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-chc-2026-08-14",
+    "title": "St. Louis Cardinals vs. Chicago Cubs",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 138.43151500000005,
+    "whale_pct": 0.117,
+    "whale_value_at_open": 118775.0644,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786735323.272253,
+    "fills": 1
   }
 ]

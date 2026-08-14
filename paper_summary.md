@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 14:21:10 (hora de Perú)
+Actualizado: 2026-08-14 14:23:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 24 | 2 | 3 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 10 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 11 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
 | IMAREALPERSON | 4 | 0 | 4 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 34% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 7.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 46% | 10.00 | 8.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.2% | ⏳ pendiente | — |
-| IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
