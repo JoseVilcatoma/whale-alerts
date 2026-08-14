@@ -1,5 +1,5 @@
 {
-  "bankroll": 1276.8691119385473,
+  "bankroll": 1236.8691119385473,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -590,6 +590,26 @@
       "timestamp": 1786711247.4540493,
       "bankroll": 1276.87,
       "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711557.7335405,
+      "bankroll": 1266.87,
+      "event": "lost: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786711558.709331,
+      "bankroll": 1256.87,
+      "event": "lost: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786711562.1266391,
+      "bankroll": 1246.87,
+      "event": "lost: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786711562.2268846,
+      "bankroll": 1236.87,
+      "event": "lost: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
     }
   ]
 }
