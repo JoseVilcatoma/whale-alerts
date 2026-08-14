@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:22:25 (hora de Perú)
+Actualizado: 2026-08-14 13:24:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,465.17
@@ -16,14 +16,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 6 | +244.03 USD |
+| CORGI8 | 16 | 7 | 7 | +244.03 USD |
 | Lakersfan111 | 26 | 6 | 4 | +205.32 USD |
 | midwicket72 | 20 | 2 | 5 | +78.53 USD |
 | AV23IUa | 5 | 5 | 4 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
-| IMAREALPERSON | 4 | 0 | 2 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -68,6 +68,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 46% | 10.00 | 8.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 50% | 10.00 | 42.5% | ⏳ pendiente | — |
@@ -96,5 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 41% | 10.00 | 8.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 4.2% | ✅ ganada | +5.62 |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.6% | ✅ ganada | +5.62 |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 52.0% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 87.4% | ⏳ pendiente | — |
