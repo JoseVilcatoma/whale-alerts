@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 12:36:37 (hora de Perú)
+Actualizado: 2026-08-14 12:38:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **118**  ($5,838,530 en total)
+- Apuestas registradas: **119**  ($5,878,629 en total)
 - Resueltas: **101** — 62 ganadas / 39 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 45
 
 ### Balance
@@ -33,6 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | Sassy-Bucket | 2 | 0 | 1 | ⚠️ 100% (2) | $186,137 | +$113,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 3 | ⚠️ 100% (1) | $123,570 | +$17,351 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
@@ -41,7 +42,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 0 | 1 | 0 | ⚠️ 0% (1) | $99,433 | -$99,433 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | 111111111115 | 1 | 1 | 0 | ⚠️ 50% (2) | $83,623 | -$9,743 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 2 | ⚠️ 100% (1) | $83,470 | +$17,351 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | wr0ngw4yb3tt0r | 1 | 0 | 1 | ⚠️ 100% (1) | $69,200 | +$53,782 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 45 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Diego Padres vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 45 en total)_
 | Sassy-Bucket | Boston Red Sox vs. Toronto Blue Jays | Boston Red Sox | 1.75 (57¢) | $112,737 | +$85,047 | ✅ Ganada |
 | ferrariChampions2026 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.12 (89¢) | $30,374 | +$3,754 | ✅ Ganada |
 | xifutloong3 | Seattle Mariners vs. New York Yankees | New York Yankees | 1.89 (53¢) | $27,300 | -$27,300 | ❌ Perdida |
-| Mamagovorila | Cincinnati Open: Ashlyn Krueger vs Lois Boisson | Ashlyn Krueger | 2.08 (48¢) | $32,239 | -$32,239 | ❌ Perdida |
