@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:56:29 (hora de Perú)
+Actualizado: 2026-08-13 23:58:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 9 | 11 | 25 | -0.89 USD |
+| wr0ngw4yb3tt0r | 9 | 11 | 26 | -0.89 USD |
 | ferrariChampions2026 | 21 | 17 | 18 | -50.01 USD |
 | 1winstreak1 | 15 | 13 | 54 | -55.70 USD |
 
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 19% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 25% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 78% | 0.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.9% | ⏳ pendiente | — |
 | vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 1.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 85% | 0.00 | 0.5% | ⏳ pendiente | — |
-| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 0.1% | ⏳ pendiente | — |
