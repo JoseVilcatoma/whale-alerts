@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:43:55 (hora de Perú)
+Actualizado: 2026-08-13 23:46:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 1 | 27 | +90.44 USD |
+| AV23IUa | 3 | 1 | 28 | +90.44 USD |
 | IMAREALPERSON | 8 | 0 | 5 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
 | ferrariChampions2026 | 20 | 17 | 19 | -50.01 USD |
-| 1winstreak1 | 15 | 13 | 42 | -55.70 USD |
+| 1winstreak1 | 15 | 13 | 43 | -55.70 USD |
 
 ## Análisis general
 
@@ -79,6 +79,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 52% | 0.00 | 0.6% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ⏳ pendiente | — |
@@ -107,5 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 10.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 76% | 10.00 | 3.1% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.8% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
