@@ -1,5 +1,5 @@
 {
-  "bankroll": 1001.7391304347825,
+  "bankroll": 1003.130116479166,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -10,6 +10,16 @@
       "timestamp": 1786670410.6876256,
       "bankroll": 1001.74,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Shelton vs Nakashima"
+    },
+    {
+      "timestamp": 1786671094.0922441,
+      "bankroll": 1002.38,
+      "event": "won: ferrariChampions2026 \u2014 Brownsburg: Quinn Vandecasteele vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1786671095.9846478,
+      "bankroll": 1003.13,
+      "event": "won: ferrariChampions2026 \u2014 Brownsburg: Quinn Vandecasteele vs Tristan Schoolkate"
     }
   ]
 }

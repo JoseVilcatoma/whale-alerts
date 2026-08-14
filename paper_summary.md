@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:29:39 (hora de Perú)
+Actualizado: 2026-08-13 20:31:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,001.74
-**Retorno acumulado:** +0.17%
+**Bankroll actual:** $1,003.13
+**Retorno acumulado:** +0.31%
 **Peor caída desde un máximo (drawdown):** 0.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 2 | 0 | 19 | +1.74 USD |
+| ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
 | 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
 | CORGI8 | 0 | 0 | 2 | +0.00 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2
-- **Aciertos:** 2 (100.0%)
-- **Cuota promedio de entrada:** 92.0%
+- **Apuestas resueltas:** 4
+- **Aciertos:** 4 (100.0%)
+- **Cuota promedio de entrada:** 92.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $20.00
-- **ROI sobre lo apostado:** +8.70%
+- **Total apostado (suma de stakes):** $40.00
+- **ROI sobre lo apostado:** +7.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -38,7 +38,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 80-94% | 2 | 100.0% | 92.0% | +8.0 pp |
+| 80-94% | 4 | 100.0% | 92.8% | +7.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -72,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 21% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 13% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 93% | 10.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 93% | 10.00 | 1.3% | ✅ ganada | +0.75 |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 66% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 11% | 10.00 | 1.1% | ⏳ pendiente | — |
