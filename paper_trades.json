@@ -4956,5 +4956,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786702410.7407103,
     "fills": 1
+  },
+  {
+    "timestamp": 1786702563,
+    "timestamp_added": 1786702563.6776252,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "dota2-liquid-ts8-2026-08-14",
+    "title": "Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 1137.4999990000001,
+    "whale_pct": 2.184,
+    "whale_value_at_open": 52078.4602,
+    "paper_stake_usd": 5.33,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786702564.3647063,
+    "fills": 2
   }
 ]
