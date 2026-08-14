@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:20:21 (hora de Perú)
+Actualizado: 2026-08-14 13:22:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,465.17
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 5 | +244.03 USD |
+| CORGI8 | 16 | 7 | 6 | +244.03 USD |
 | Lakersfan111 | 26 | 6 | 4 | +205.32 USD |
 | midwicket72 | 20 | 2 | 5 | +78.53 USD |
 | AV23IUa | 5 | 5 | 4 | +76.21 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 50% | 10.00 | 42.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.6% | ✅ ganada | +5.62 |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 52.0% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 87.4% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 1.2% | ✅ ganada | +5.62 |
