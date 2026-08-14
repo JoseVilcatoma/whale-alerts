@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 05:36:18 (hora de Perú)
+Actualizado: 2026-08-14 05:38:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,229.65
-**Retorno acumulado:** +22.96%
+**Bankroll actual:** $1,219.65
+**Retorno acumulado:** +21.96%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -22,22 +22,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 53 | +0.00 USD |
-| ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
-| ferrariChampions2026 | 20 | 10 | 6 | -36.74 USD |
+| ActionReaction | 0 | 1 | 11 | -10.00 USD |
+| ferrariChampions2026 | 20 | 10 | 9 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 107
-- **Aciertos:** 65 (60.7%)
+- **Apuestas resueltas:** 108
+- **Aciertos:** 65 (60.2%)
 - **Cuota promedio de entrada:** 52.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,068.66
-- **ROI sobre lo apostado:** +21.40%
+- **Total apostado (suma de stakes):** $1,078.66
+- **ROI sobre lo apostado:** +20.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 26 | 46.2% | 29.1% | +17.0 pp |
-| 40-59% | 43 | 58.1% | 49.5% | +8.6 pp |
+| 40-59% | 44 | 56.8% | 49.5% | +7.3 pp |
 | 60-79% | 15 | 66.7% | 68.0% | -1.3 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | lol-t1-dk-2026-08-14 | BBQChickenisthebesttt, Lakersfan111 |
-| dota2-liquid-ts8-2026-08-14 | ActionReaction, CORGI8 |
+| dota2-liquid-ts8-2026-08-14 | ActionReaction, CORGI8, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | CORGI8, ferrariChampions2026 |
 | lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
@@ -73,6 +73,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 4.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 3.9% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: NIP vs BetBoom Team - Ma | NIP (BUY) | 35% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -100,6 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 0.7% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 39% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Team Liquid vs Team Spirit - Gam | Team Spirit (BUY) | 55% | 10.00 | 26.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 45% | 10.00 | 10.0% | ⏳ pendiente | — |
-| ActionReaction | LoL: T1 vs Dplus KIA - Game 2 Winner | T1 (BUY) | 53% | 10.00 | 36.0% | ⏳ pendiente | — |
