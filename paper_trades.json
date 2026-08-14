@@ -7764,5 +7764,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786746874.305324,
     "fills": 1
+  },
+  {
+    "timestamp": 1786746921,
+    "timestamp_added": 1786746922.3632655,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-wsh-nym-2026-08-14-f5-total-4pt5",
+    "title": "Washington Nationals vs. New York Mets: 1st 5 Innings O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 834.9984,
+    "whale_pct": 0.485,
+    "whale_value_at_open": 172311.1191,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786746922.363273,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786746979,
+    "timestamp_added": 1786746979.8544698,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cws-det-2026-08-14",
+    "title": "Chicago White Sox vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 562.222222,
+    "whale_pct": 1.006,
+    "whale_value_at_open": 55876.578,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786746979.8544776,
+    "fills": 1
   }
 ]
