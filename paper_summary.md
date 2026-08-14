@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 10:51:42 (hora de Perú)
+Actualizado: 2026-08-14 10:53:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,384.15
-**Retorno acumulado:** +38.41%
+**Bankroll actual:** $1,418.36
+**Retorno acumulado:** +41.84%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,29 +16,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 15 | 7 | 1 | +225.46 USD |
+| CORGI8 | 16 | 7 | 0 | +244.03 USD |
 | Lakersfan111 | 23 | 5 | 21 | +201.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
+| ActionReaction | 1 | 1 | 10 | +5.64 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 1 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 45 | -8.19 USD |
-| ActionReaction | 0 | 1 | 11 | -10.00 USD |
 | ferrariChampions2026 | 22 | 10 | 10 | -33.76 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 155
-- **Aciertos:** 96 (61.9%)
-- **Cuota promedio de entrada:** 52.3%
+- **Apuestas resueltas:** 157
+- **Aciertos:** 98 (62.4%)
+- **Cuota promedio de entrada:** 52.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,548.66
-- **ROI sobre lo apostado:** +24.74%
+- **Total apostado (suma de stakes):** $1,568.66
+- **ROI sobre lo apostado:** +26.61%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
-| 20-39% | 28 | 50.0% | 29.5% | +20.5 pp |
+| 20-39% | 30 | 53.3% | 30.0% | +23.4 pp |
 | 40-59% | 71 | 57.7% | 47.4% | +10.4 pp |
 | 60-79% | 31 | 67.7% | 66.7% | +1.0 pp |
 | 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
