@@ -1,5 +1,5 @@
 {
-  "bankroll": 1136.3260026165945,
+  "bankroll": 1155.7377673224769,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -465,6 +465,11 @@
       "timestamp": 1786688350.6201665,
       "bankroll": 1136.33,
       "event": "won: CORGI8 \u2014 Dota 2: Xtreme Gaming vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786689279.032208,
+      "bankroll": 1155.74,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Game Handicap: TS (-1.5) vs Aurora (+1.5)"
     }
   ]
 }
