@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 19:51:30 (hora de Perú)
+Actualizado: 2026-08-13 19:53:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **82**  ($4,445,574 en total)
+- Apuestas registradas: **83**  ($4,545,007 en total)
 - Resueltas: **70** — 42 ganadas / 28 perdidas (**60%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 33
+- Pendientes: 13
+- Apostadores distintos: 34
 
 ### Balance
 
@@ -36,6 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | TennisLove | 0 | 0 | 1 | — | $100,000 | — |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
+| pleaseplease123 | 0 | 0 | 1 | — | $99,433 | — |
 | Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
@@ -62,6 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | — | ⏳ Pendiente |
@@ -121,4 +123,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | -$9,816 | 💰 Vendida antes |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | +$13,069 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
-| 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | +$16,454 | ✅ Ganada |
