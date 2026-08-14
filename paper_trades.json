@@ -6627,5 +6627,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786683357.4489985,
     "fills": 2
+  },
+  {
+    "timestamp": 1786683468,
+    "timestamp_added": 1786683468.2569644,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mil-lad-2026-08-13",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 171.6897,
+    "whale_pct": 0.102,
+    "whale_value_at_open": 168031.4381,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786683468.2569766,
+    "fills": 1
   }
 ]
