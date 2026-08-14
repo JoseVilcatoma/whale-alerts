@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:47:47 (hora de Perú)
+Actualizado: 2026-08-14 11:49:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,386.74
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 26 | 7 | 48 | +195.32 USD |
+| Lakersfan111 | 26 | 7 | 54 | +195.32 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
@@ -74,6 +74,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: K27 vs MIBR - Map 1 Winn | MIBR (BUY) | 49% | 9.87 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 55% | 10.00 | 13.2% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: GIANTX vs Team Vitality (BO3) - LEC | GIANTX (BUY) | 43% | 10.00 | 0.9% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: VIT (-1.5) vs GIANTX (+1. | GIANTX (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 55% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 55% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: K27 vs MIBR - Map 1 Winn | MIBR (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: GIANTX vs Team Vitality (BO3) - LEC | GIANTX (BUY) | 43% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -98,9 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 6.4% | ⏳ pendiente | — |
-| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
-| bigspending | Will Cagliari Calcio win on 2026-08-14? | Yes (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.8% | ⏳ pendiente | — |
-| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 13.7% | 💰 vendida anticipada | +0.59 |
