@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 13:35:56 (hora de Perú)
+Actualizado: 2026-08-14 13:37:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **121**  ($5,943,993 en total)
-- Resueltas: **101** — 62 ganadas / 39 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **106** — 62 ganadas / 44 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 47
 
 ### Balance
 
-- **Resultado de los apostadores: +$227,183** sobre $5,167,358 apostados (ROI **+4.4%**)
-- Copiando $100 fijo en cada una: **-$9** sobre $9,800 (ROI **-0.1%**)
+- **Resultado de los apostadores: +$1,741** sobre $5,392,800 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$509** sobre $10,300 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 2 | 6 | 87% | $1,307,429 | +$290,880 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 3 | 5 | 81% | $1,307,429 | +$214,031 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| AV23IUa | 2 | 3 | 3 | ⚠️ 40% (5) | $377,907 | -$12,916 |
+| AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
-| CORGI8 | 0 | 0 | 1 | — | $29,980 | — |
+| CORGI8 | 0 | 1 | 0 | ⚠️ 0% (1) | $29,980 | -$29,980 |
 | jackpeter888 | 1 | 0 | 0 | ⚠️ 100% (1) | $28,674 | +$6,294 |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | TAIWANNUMBERONE | 1 | 0 | 0 | ⚠️ 100% (1) | $27,031 | +$11,585 |
@@ -85,13 +85,13 @@ _(mostrando los 40 de mayor monto, de 47 en total)_
 | 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | +$1,682 | ✅ Ganada |
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | +$6,294 | ✅ Ganada |
-| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | -$48,966 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | -$76,849 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | — | ⏳ Pendiente |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | — | ⏳ Pendiente |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | -$29,980 | ❌ Perdida |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
