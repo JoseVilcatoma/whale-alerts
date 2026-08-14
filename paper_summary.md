@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:30:52 (hora de Perú)
+Actualizado: 2026-08-14 13:32:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,475.44
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 7 | +244.03 USD |
+| CORGI8 | 16 | 7 | 8 | +244.03 USD |
 | Lakersfan111 | 26 | 6 | 4 | +205.32 USD |
 | midwicket72 | 24 | 2 | 1 | +88.80 USD |
 | AV23IUa | 5 | 5 | 4 | +76.21 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 33% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 46% | 10.00 | 8.8% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 4.3% | ✅ ganada | +5.38 |
 | SDTrading | Spread: Detroit Tigers (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 11.8% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 41% | 10.00 | 8.9% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 4.2% | ✅ ganada | +5.62 |
