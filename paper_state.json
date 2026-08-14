@@ -1,5 +1,5 @@
 {
-  "bankroll": 1380.8554045081382,
+  "bankroll": 1401.1584348111685,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -755,6 +755,11 @@
       "timestamp": 1786719120.652861,
       "bankroll": 1380.86,
       "event": "won: CORGI8 \u2014 Counter-Strike: TYLOO vs Lynn Vision - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786720621.1744182,
+      "bankroll": 1401.16,
+      "event": "won: 1winstreak1 \u2014 LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
     }
   ]
 }
