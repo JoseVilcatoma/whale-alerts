@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:58:38 (hora de Perú)
+Actualizado: 2026-08-13 20:00:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 21 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 11 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 55% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 61% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -63,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Steelers (BUY) | 59% | 10.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
