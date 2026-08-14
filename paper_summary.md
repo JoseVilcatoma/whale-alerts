@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:34:27 (hora de Perú)
+Actualizado: 2026-08-13 21:36:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 30 | +14.57 USD |
+| 1winstreak1 | 2 | 0 | 31 | +14.57 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 27 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 28 | +0.00 USD |
 | CORGI8 | 0 | 0 | 8 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | +0.00 USD |
 | AV23IUa | 0 | 0 | 16 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 38 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 42 | -15.69 USD |
 
 ## Análisis general
 
@@ -66,6 +66,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 31% | 0.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 0.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-13? | No (BUY) | 76% | 0.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CF Cruz Azul vs. Chicago Fire FC en | Yes (BUY) | 49% | 0.00 | 0.5% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Portland Timbers win on 2026-08-13? | Yes (BUY) | 57% | 0.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 25% | 0.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portland Timbers win on 2026-08-13? | No (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 76% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -90,9 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 0.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 10% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 53% | 0.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Patriots | Colts (BUY) | 36% | 0.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 42% | 0.00 | 7.8% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 80% | 0.00 | 12.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 84% | 0.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 82% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
