@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 22:09:27 (hora de Perú)
+Actualizado: 2026-08-13 22:11:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **87**  ($4,687,932 en total)
+- Apuestas registradas: **88**  ($4,769,820 en total)
 - Resueltas: **79** — 49 ganadas / 30 perdidas (**62%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 38
 
 ### Balance
@@ -27,9 +27,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 0 | 85% | $933,363 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 4 | ⚠️ 100% (2) | $327,174 | +$141,199 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | AV23IUa | 2 | 3 | 0 | ⚠️ 40% (5) | $259,293 | -$12,916 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 3 | ⚠️ 100% (2) | $245,286 | +$141,199 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
@@ -67,6 +67,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | — | ⏳ Pendiente |
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | — | ⏳ Pendiente |
 | Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | — | ⏳ Pendiente |
 | huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | — | ⏳ Pendiente |
@@ -126,4 +127,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | Dota 2: Aurora vs GamerLegion - Game 1 Winner | GamerLegion | 1.43 (70¢) | $26,251 | -$26,251 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.59 (63¢) | $29,507 | +$17,329 | ✅ Ganada |
 | hansama231 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.64 (61¢) | $34,160 | +$21,840 | ✅ Ganada |
-| NemecGhudini | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.67 (60¢) | $31,590 | +$21,060 | ✅ Ganada |
