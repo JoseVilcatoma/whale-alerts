@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:48:42 (hora de Perú)
+Actualizado: 2026-08-14 04:50:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,165.33
@@ -23,6 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 49 | +0.00 USD |
 | ActionReaction | 0 | 0 | 10 | +0.00 USD |
+| BBQChickenisthebesttt | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
@@ -61,6 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
+| lol-t1-dk-2026-08-14 | BBQChickenisthebesttt, Lakersfan111 |
 | lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
 | dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
@@ -69,6 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 44.9% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 24% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -98,4 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 16.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 11.2% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.1% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
