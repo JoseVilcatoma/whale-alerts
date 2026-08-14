@@ -1,5 +1,5 @@
 {
-  "bankroll": 1010.0959749102178,
+  "bankroll": 1007.3373542205627,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -340,6 +340,26 @@
       "timestamp": 1786678845.6776574,
       "bankroll": 1010.1,
       "event": "lost: ferrariChampions2026 \u2014 Will New York City FC vs. Club Necaxa end in a draw?"
+    },
+    {
+      "timestamp": 1786679536.1980999,
+      "bankroll": 1017.34,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786679536.298247,
+      "bankroll": 1007.34,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786679543.0136588,
+      "bankroll": 1007.34,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786679548.785628,
+      "bankroll": 1007.34,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
     }
   ]
 }
