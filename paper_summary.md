@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:06:59 (hora de Perú)
+Actualizado: 2026-08-14 04:09:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 47 | +0.00 USD |
-| ActionReaction | 0 | 0 | 8 | +0.00 USD |
+| ActionReaction | 0 | 0 | 9 | +0.00 USD |
 | midwicket72 | 3 | 1 | 3 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -61,12 +61,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
+| dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 45% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ActionReaction | Dota 2: Team Liquid vs Team Spirit - Gam | Team Spirit (BUY) | 55% | 10.00 | 26.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 45% | 10.00 | 10.0% | ⏳ pendiente | — |
 | ActionReaction | LoL: T1 vs Dplus KIA - Game 2 Winner | T1 (BUY) | 53% | 10.00 | 36.0% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 40% | 10.00 | 9.5% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -95,4 +97,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.5% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 4.7% | ⏳ pendiente | — |

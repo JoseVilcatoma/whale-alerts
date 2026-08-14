@@ -4478,8 +4478,8 @@
     "title": "Dota 2: Team Liquid vs Team Spirit - Game 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 1136.355454,
-    "whale_pct": 1.207,
+    "whale_usd": 9454.073635,
+    "whale_pct": 10.04,
     "whale_value_at_open": 94168.1245,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -4488,7 +4488,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786698409.8876584,
-    "fills": 3
+    "last_fill_at": 1786698424.655606,
+    "fills": 5
+  },
+  {
+    "timestamp": 1786698434,
+    "timestamp_added": 1786698434.8512733,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "dota2-liquid-ts8-2026-08-14-game2",
+    "title": "Dota 2: Team Liquid vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 8047.910441,
+    "whale_pct": 26.285,
+    "whale_value_at_open": 30618.3083,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786698508.3013284,
+    "fills": 15
   }
 ]
