@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 10:26:34 (hora de Perú)
+Actualizado: 2026-08-14 10:28:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,394.15
-**Retorno acumulado:** +39.41%
+**Bankroll actual:** $1,384.15
+**Retorno acumulado:** +38.41%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,12 +17,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 15 | 7 | 1 | +225.46 USD |
-| Lakersfan111 | 23 | 4 | 19 | +211.85 USD |
+| Lakersfan111 | 23 | 5 | 19 | +201.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| SDTrading | 0 | 0 | 6 | +0.00 USD |
+| SDTrading | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 41 | -8.19 USD |
 | ActionReaction | 0 | 1 | 11 | -10.00 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 154
-- **Aciertos:** 96 (62.3%)
-- **Cuota promedio de entrada:** 52.1%
+- **Apuestas resueltas:** 155
+- **Aciertos:** 96 (61.9%)
+- **Cuota promedio de entrada:** 52.3%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,538.66
-- **ROI sobre lo apostado:** +25.55%
+- **Total apostado (suma de stakes):** $1,548.66
+- **ROI sobre lo apostado:** +24.74%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 28 | 50.0% | 29.5% | +20.5 pp |
 | 40-59% | 71 | 57.7% | 47.4% | +10.4 pp |
-| 60-79% | 30 | 70.0% | 66.5% | +3.5 pp |
+| 60-79% | 31 | 67.7% | 66.7% | +1.0 pp |
 | 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -70,6 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
+| SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 45% | 10.00 | 5.1% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 20% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 79% | 10.00 | 12.9% | ⏳ pendiente | — |
@@ -98,5 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: B8 vs Vitality (BO3) - E | B8 (BUY) | 21% | 10.00 | 1.9% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 81% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 56% | 10.00 | 7.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 56% | 10.00 | 2.7% | ⏳ pendiente | — |
