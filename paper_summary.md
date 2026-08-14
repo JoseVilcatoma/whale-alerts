@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 02:33:12 (hora de Perú)
+Actualizado: 2026-08-14 02:35:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,169.01
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 6 | 0 | 9 | +170.76 USD |
+| CORGI8 | 6 | 0 | 10 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 0 | 1 | +43.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
@@ -64,6 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 41% | 10.00 | 22.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 22.6% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -93,4 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Astana: Sergey Fomin vs Masamichi Imamur | Masamichi Imamura (BUY) | 4% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 30.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 6.3% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 2.6% | ⏳ pendiente | — |
