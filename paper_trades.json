@@ -4728,5 +4728,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786712784.6973507,
     "fills": 3
+  },
+  {
+    "timestamp": 1786712841,
+    "timestamp_added": 1786712841.9473085,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-b8-vit-2026-08-14",
+    "title": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 604.9846150000001,
+    "whale_pct": 0.375,
+    "whale_value_at_open": 161399.1554,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786712841.9473166,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786712930,
+    "timestamp_added": 1786712931.0579166,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "dota2-aur1-ty-2026-08-14",
+    "title": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 3174.7682110000005,
+    "whale_pct": 4.098,
+    "whale_value_at_open": 77475.0144,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786712941.7365382,
+    "fills": 2
   }
 ]
