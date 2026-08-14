@@ -1264,5 +1264,20 @@
     "status": "pending",
     "ultimo_fill": 1786669071,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 170,
+    "timestamp": 1786670235,
+    "username": "huli3882",
+    "wallet": "0x1d2efa184454366ad3e79f3395d25396c20b896d",
+    "slug": "wnba-wsh-las-2026-08-13-total-170pt5",
+    "title": "Washington Mystics vs. Las Vegas Aces: O/U 170.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 37151.07,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1786670235,
+    "fills": 1
   }
 ]
