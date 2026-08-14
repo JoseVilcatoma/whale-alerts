@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:59:42 (hora de Perú)
+Actualizado: 2026-08-14 18:01:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,390.68
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
-| 111111111115 | 0 | 0 | 21 | +0.00 USD |
+| 111111111115 | 0 | 0 | 22 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 7 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 1 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 2 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 27 | -39.04 USD |
+| IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
 | Weaseloftheweek | 0 | 4 | 4 | -40.00 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
 | Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
@@ -71,11 +71,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
+| mlb-mia-cin-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 5.45 | 3.4% | ⏳ pendiente | — |
+| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 10.00 | 33.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -103,6 +107,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 48% | 10.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 3.0% | ⏳ pendiente | — |
-| Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 3.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: DEN (-3.5) | ATL (BUY) | 50% | 10.00 | 1.6% | ⏳ pendiente | — |
-| Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
