@@ -1,5 +1,5 @@
 {
-  "bankroll": 1475.4386269192896,
+  "bankroll": 1415.4386269192896,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -955,6 +955,36 @@
       "timestamp": 1786731999.3190603,
       "bankroll": 1475.44,
       "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Lancashire vs Durham"
+    },
+    {
+      "timestamp": 1786732623.5589826,
+      "bankroll": 1465.44,
+      "event": "lost: AV23IUa \u2014 Map Handicap: VIT (-1.5) vs B8 (+1.5)"
+    },
+    {
+      "timestamp": 1786732623.6591496,
+      "bankroll": 1455.44,
+      "event": "lost: AV23IUa \u2014 Map Handicap: VIT (-1.5) vs B8 (+1.5)"
+    },
+    {
+      "timestamp": 1786732629.9339685,
+      "bankroll": 1445.44,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786732630.0341222,
+      "bankroll": 1435.44,
+      "event": "lost: AV23IUa \u2014 Map Handicap: VIT (-1.5) vs B8 (+1.5)"
+    },
+    {
+      "timestamp": 1786732631.819647,
+      "bankroll": 1425.44,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786732631.9197996,
+      "bankroll": 1415.44,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C"
     }
   ]
 }
