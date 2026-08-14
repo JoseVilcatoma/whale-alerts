@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:15:33 (hora de Perú)
+Actualizado: 2026-08-13 21:17:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,018.66
-**Retorno acumulado:** +1.87%
-**Peor caída desde un máximo (drawdown):** 0.00%
+**Bankroll actual:** $999.83
+**Retorno acumulado:** -0.02%
+**Peor caída desde un máximo (drawdown):** 2.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -17,23 +17,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 2 | 0 | 21 | +14.57 USD |
-| ferrariChampions2026 | 4 | 0 | 26 | +3.13 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 19 | +0.00 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 5 | +0.00 USD |
 | AV23IUa | 0 | 0 | 12 | +0.00 USD |
+| ferrariChampions2026 | 8 | 3 | 19 | -15.69 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6
-- **Aciertos:** 6 (100.0%)
-- **Cuota promedio de entrada:** 81.2%
+- **Apuestas resueltas:** 13
+- **Aciertos:** 10 (76.9%)
+- **Cuota promedio de entrada:** 65.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $60.00
-- **ROI sobre lo apostado:** +29.50%
+- **Total apostado (suma de stakes):** $130.00
+- **ROI sobre lo apostado:** -0.86%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,9 +41,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
+| 1-19% (bomba) | 2 | 0.0% | 13.0% | -13.0 pp |
+| 20-39% | 1 | 0.0% | 23.0% | -23.0 pp |
 | 40-59% | 1 | 100.0% | 55.0% | +45.0 pp |
-| 60-79% | 1 | 100.0% | 61.0% | +39.0 pp |
-| 80-94% | 4 | 100.0% | 92.8% | +7.2 pp |
+| 60-79% | 3 | 100.0% | 67.7% | +32.3 pp |
+| 80-94% | 6 | 100.0% | 91.0% | +9.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -59,6 +61,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
 | AV23IUa | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 8.66 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 86% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -88,4 +91,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 3.2% | ⏳ pendiente | — |
