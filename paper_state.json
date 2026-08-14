@@ -1,5 +1,5 @@
 {
-  "bankroll": 961.559431598061,
+  "bankroll": 967.184431598061,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -995,6 +995,46 @@
       "timestamp": 1786685295.85428,
       "bankroll": 961.56,
       "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.05664,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.2569263,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.357071,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.4571924,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.557367,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685547.8579707,
+      "bankroll": 967.18,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685548.8594651,
+      "bankroll": 967.18,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685549.6605546,
+      "bankroll": 967.18,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
     }
   ]
 }
