@@ -5381,5 +5381,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786679168.9249635,
     "fills": 1
+  },
+  {
+    "timestamp": 1786679350,
+    "timestamp_added": 1786679350.9778605,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-lgd-ngx-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Nigma Galaxy (BO3) - The International Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 15300.0,
+    "whale_pct": 12.524,
+    "whale_value_at_open": 122162.14,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786679350.9778674,
+    "fills": 1
   }
 ]
