@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 09:47:45 (hora de Perú)
+Actualizado: 2026-08-14 09:49:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **108**  ($5,448,592 en total)
-- Resueltas: **92** — 55 ganadas / 37 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **96** — 58 ganadas / 38 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 43
 
 ### Balance
 
-- **Resultado de los apostadores: +$200,931** sobre $4,899,820 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$152** sobre $8,900 (ROI **-1.7%**)
+- **Resultado de los apostadores: +$240,552** sobre $5,023,557 apostados (ROI **+4.8%**)
+- Copiando $100 fijo en cada una: **+$11** sobre $9,300 (ROI **+0.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 4 | 85% | $1,099,997 | +$264,686 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 2 | 2 | 87% | $1,099,997 | +$290,880 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 3 | 3 | ⚠️ 40% (5) | $377,907 | -$12,916 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | pleaseplease123 | 0 | 1 | 0 | ⚠️ 0% (1) | $99,433 | -$99,433 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
-| 111111111115 | 0 | 1 | 1 | ⚠️ 0% (1) | $83,623 | -$57,765 |
+| 111111111115 | 1 | 1 | 0 | ⚠️ 50% (2) | $83,623 | -$9,743 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | wr0ngw4yb3tt0r | 1 | 0 | 1 | ⚠️ 100% (1) | $69,200 | +$53,782 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
-| retroactivesource | 0 | 0 | 1 | — | $34,595 | — |
+| retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
@@ -80,17 +80,17 @@ _(mostrando los 40 de mayor monto, de 43 en total)_
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
 | NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
-| retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | — | ⏳ Pendiente |
+| retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | -$34,595 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage | Team Falcons | 1.61 (62¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | DEN vs. ATL: O/U 38.5 | Over 38.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage | Team Yandex | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | — | ⏳ Pendiente |
+| 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | +$48,022 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | +$40,333 | ✅ Ganada |
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | -$25,864 | ❌ Perdida |
 | Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | +$26,790 | ✅ Ganada |
