@@ -5215,5 +5215,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786703890.4959335,
     "fills": 1
+  },
+  {
+    "timestamp": 1786703919,
+    "timestamp_added": 1786703920.3296812,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-aur1-ty-2026-08-14",
+    "title": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 1266.4597260000003,
+    "whale_pct": 0.44,
+    "whale_value_at_open": 287833.3315,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786703920.3296916,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786703930,
+    "timestamp_added": 1786703930.5101295,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "dota2-aur1-ty-2026-08-14-game1",
+    "title": "Dota 2: Aurora vs Team Yandex - Game 1 Winner",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 1179.237245,
+    "whale_pct": 1.726,
+    "whale_value_at_open": 68313.6677,
+    "paper_stake_usd": 4.71,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786703930.5101373,
+    "fills": 1
   }
 ]
