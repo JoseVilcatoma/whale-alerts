@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 06:13:33 (hora de Perú)
+Actualizado: 2026-08-14 06:15:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **95**  ($4,986,773 en total)
+- Apuestas registradas: **96**  ($5,013,804 en total)
 - Resueltas: **90** — 55 ganadas / 35 perdidas (**61%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 39
+- Pendientes: 6
+- Apostadores distintos: 40
 
 ### Balance
 
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
+| TAIWANNUMBERONE | 0 | 0 | 1 | — | $27,031 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
@@ -68,6 +69,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | — | ⏳ Pendiente |
 | retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage | Team Falcons | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
@@ -127,4 +129,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | +$5,254 | ✅ Ganada |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | +$42,857 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | +$21,191 | ✅ Ganada |

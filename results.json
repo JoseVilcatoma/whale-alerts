@@ -1429,5 +1429,20 @@
     "status": "pending",
     "ultimo_fill": 1786697602,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 204,
+    "timestamp": 1786706073,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-al-jdg-2026-08-14-game-handicap-away-1pt5",
+    "title": "Game Handicap: AL (-1.5) vs JD Gaming (+1.5)",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 27030.857,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1786706073,
+    "fills": 1
   }
 ]
