@@ -1,5 +1,5 @@
 {
-  "bankroll": 1402.0708921908451,
+  "bankroll": 1395.2287869276872,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1095,6 +1095,16 @@
       "timestamp": 1786745426.315569,
       "bankroll": 1402.07,
       "event": "won: UpTheBlues \u2014 Spread: Al Hilal Saudi Club (-2.5)"
+    },
+    {
+      "timestamp": 1786745924.3376105,
+      "bankroll": 1405.23,
+      "event": "won: midwicket72 \u2014 The Hundred: Manchester Super Giants vs Sunrisers Leeds"
+    },
+    {
+      "timestamp": 1786745924.6380682,
+      "bankroll": 1395.23,
+      "event": "lost: midwicket72 \u2014 The Hundred: Manchester Super Giants vs Sunrisers Leeds"
     }
   ]
 }
