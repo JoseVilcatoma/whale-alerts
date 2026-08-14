@@ -1,5 +1,5 @@
 {
-  "bankroll": 1384.146940558295,
+  "bankroll": 1418.3593947707493,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -780,6 +780,16 @@
       "timestamp": 1786721246.1309729,
       "bankroll": 1384.15,
       "event": "lost: Lakersfan111 \u2014 Game Handicap: NS (-1.5) vs HANJIN BRION (+1.5)"
+    },
+    {
+      "timestamp": 1786722809.974034,
+      "bankroll": 1402.72,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786722815.8541157,
+      "bankroll": 1418.36,
+      "event": "won: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
     }
   ]
 }
