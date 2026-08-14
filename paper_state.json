@@ -1,5 +1,5 @@
 {
-  "bankroll": 903.4069350135891,
+  "bankroll": 896.2969350135891,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -825,6 +825,21 @@
       "timestamp": 1786684728.2111273,
       "bankroll": 903.41,
       "event": "won: wr0ngw4yb3tt0r \u2014 LAC vs. HOU: O/U 38.5"
+    },
+    {
+      "timestamp": 1786684982.3326285,
+      "bankroll": 903.41,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1786684984.328491,
+      "bankroll": 896.3,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1786684990.1948104,
+      "bankroll": 896.3,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
     }
   ]
 }

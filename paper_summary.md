@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:21:09 (hora de Perú)
+Actualizado: 2026-08-14 00:23:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $903.41
-**Retorno acumulado:** -9.66%
+**Bankroll actual:** $896.30
+**Retorno acumulado:** -10.37%
 **Peor caída desde un máximo (drawdown):** 14.84%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -22,20 +22,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 0 | 15 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 2 | 24 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 9 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
-| 1winstreak1 | 28 | 28 | 27 | -111.06 USD |
+| 1winstreak1 | 28 | 31 | 24 | -118.17 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 161
-- **Aciertos:** 82 (50.9%)
-- **Cuota promedio de entrada:** 52.1%
-- **Stake promedio:** $6.19
-- **Total apostado (suma de stakes):** $995.81
-- **ROI sobre lo apostado:** -10.54%
+- **Apuestas resueltas:** 164
+- **Aciertos:** 82 (50.0%)
+- **Cuota promedio de entrada:** 51.6%
+- **Stake promedio:** $6.12
+- **Total apostado (suma de stakes):** $1,002.92
+- **ROI sobre lo apostado:** -11.17%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -44,7 +44,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 8 | 12.5% | 14.2% | -1.8 pp |
-| 20-39% | 35 | 28.6% | 30.1% | -1.5 pp |
+| 20-39% | 38 | 26.3% | 29.7% | -3.3 pp |
 | 40-59% | 66 | 48.5% | 49.9% | -1.4 pp |
 | 60-79% | 31 | 61.3% | 67.5% | -6.2 pp |
 | 80-94% | 20 | 95.0% | 87.2% | +7.8 pp |
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 71.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 16.7% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 12.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -94,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 30% | 0.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 2.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.00 | 33.7% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 0.00 | 0.2% | ❌ perdida | -0.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 93% | 0.00 | 0.4% | ✅ ganada | +0.00 |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 76% | 0.00 | 0.3% | ✅ ganada | +0.00 |
