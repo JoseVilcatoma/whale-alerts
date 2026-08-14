@@ -123,8 +123,8 @@
     "whale_value_at_open": 88146.3389,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -431,8 +431,8 @@
     "whale_value_at_open": 165719.8353,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [
       "Sassy-Bucket"
     ],
@@ -1163,8 +1163,8 @@
     "whale_value_at_open": 88643.4757,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1187,8 +1187,8 @@
     "whale_value_at_open": 89146.9757,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1277,8 +1277,8 @@
     "whale_value_at_open": 89304.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1301,8 +1301,8 @@
     "whale_value_at_open": 89304.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1347,8 +1347,8 @@
     "whale_value_at_open": 99355.7332,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1459,8 +1459,8 @@
     "whale_value_at_open": 125850.488,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1483,8 +1483,8 @@
     "whale_value_at_open": 125850.488,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -1507,8 +1507,8 @@
     "whale_value_at_open": 137860.9722,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -4121,8 +4121,8 @@
     "whale_value_at_open": 15435.6634,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -4143,7 +4143,7 @@
     "whale_value_at_open": 274543.7413,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -4921,7 +4921,7 @@
     "whale_value_at_open": 215588.8106,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -5418,8 +5418,8 @@
     "whale_value_at_open": 21200.0181,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5440,8 +5440,8 @@
     "whale_value_at_open": 21200.0181,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5594,8 +5594,8 @@
     "whale_value_at_open": 21730.8507,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5756,8 +5756,8 @@
     "whale_value_at_open": 20837.4575,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 12,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -6050,7 +6050,7 @@
     "whale_value_at_open": 119761.5739,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -6074,7 +6074,7 @@
     "whale_value_at_open": 119761.5739,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "1winstreak1"
@@ -6098,7 +6098,7 @@
     "whale_value_at_open": 120566.0979,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Sassy-Bucket"
@@ -6144,7 +6144,7 @@
     "whale_value_at_open": 12175.2109,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
@@ -6415,7 +6415,7 @@
     "whale_value_at_open": 17405.5788,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "Sassy-Bucket",
@@ -6760,6 +6760,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786683776.8637717,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786684452,
+    "timestamp_added": 1786684452.8724308,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-k271-mibr-2026-08-14-map-handicap-home-1pt5",
+    "title": "Map Handicap: MIBR (-1.5) vs K27 (+1.5)",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 554.0276,
+    "whale_pct": 12.806,
+    "whale_value_at_open": 4326.2054,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786684452.8724415,
     "fills": 1
   }
 ]
