@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:39:55 (hora de Perú)
+Actualizado: 2026-08-13 20:42:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,003.13
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
-| 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 19 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | +0.00 USD |
-| IMAREALPERSON | 0 | 0 | 1 | +0.00 USD |
+| IMAREALPERSON | 0 | 0 | 2 | +0.00 USD |
 
 ## Análisis general
 
@@ -53,6 +53,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: TY (-1.5) vs Team Liquid  | Team Yandex (BUY) | 39% | 10.00 | 4.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 55% | 10.00 | 5.9% | ⏳ pendiente | — |
@@ -81,5 +83,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 93% | 10.00 | 1.3% | ✅ ganada | +0.75 |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 66% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 11% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Club Santos Laguna (-2.5) | Philadelphia Union (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
