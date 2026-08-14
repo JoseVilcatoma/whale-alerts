@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:54:37 (hora de Perú)
+Actualizado: 2026-08-14 00:56:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.99
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 10 | 4 | 12 | +18.86 USD |
 | wr0ngw4yb3tt0r | 25 | 16 | 5 | +14.41 USD |
 | IMAREALPERSON | 11 | 0 | 2 | +8.36 USD |
-| CORGI8 | 1 | 1 | 15 | +2.17 USD |
+| CORGI8 | 1 | 1 | 16 | +2.17 USD |
 | Lakersfan111 | 0 | 0 | 24 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 4 | 1 | 0 | -8.19 USD |
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy - Gam | LGD Gaming (BUY) | 50% | 10.00 | 10.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy - Gam | LGD Gaming (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 2.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 78% | 0.00 | 0.4% | ✅ ganada | +0.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 83% | 0.00 | 0.2% | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 30% | 0.00 | 0.8% | ❌ perdida | -0.00 |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 2.7% | ❌ perdida | -0.00 |
