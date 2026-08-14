@@ -1,5 +1,5 @@
 {
-  "bankroll": 929.686220584114,
+  "bankroll": 903.1461161702555,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -225,6 +225,36 @@
       "timestamp": 1786676656.231023,
       "bankroll": 929.69,
       "event": "lost: ferrariChampions2026 \u2014 Will Philadelphia Union win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786678093.8771696,
+      "bankroll": 919.69,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678093.9773216,
+      "bankroll": 909.69,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678094.1776125,
+      "bankroll": 922.94,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678096.1943946,
+      "bankroll": 912.94,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678096.3946276,
+      "bankroll": 902.94,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678109.5611565,
+      "bankroll": 903.15,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
     }
   ]
 }
