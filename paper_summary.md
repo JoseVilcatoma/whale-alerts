@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:01:34 (hora de Perú)
+Actualizado: 2026-08-13 22:03:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $937.92
-**Retorno acumulado:** -6.21%
+**Bankroll actual:** $939.69
+**Retorno acumulado:** -6.03%
 **Peor caída desde un máximo (drawdown):** 9.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -21,19 +21,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 10 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 25 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | AV23IUa | 0 | 0 | 23 | +0.00 USD |
-| ferrariChampions2026 | 9 | 4 | 43 | -24.20 USD |
-| 1winstreak1 | 12 | 12 | 18 | -54.57 USD |
+| ferrariChampions2026 | 10 | 4 | 42 | -22.44 USD |
+| 1winstreak1 | 12 | 12 | 19 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 40
-- **Aciertos:** 23 (57.5%)
-- **Cuota promedio de entrada:** 56.8%
-- **Stake promedio:** $9.50
-- **Total apostado (suma de stakes):** $380.00
-- **ROI sobre lo apostado:** -17.74%
+- **Apuestas resueltas:** 41
+- **Aciertos:** 24 (58.5%)
+- **Cuota promedio de entrada:** 57.4%
+- **Stake promedio:** $9.51
+- **Total apostado (suma de stakes):** $390.00
+- **ROI sobre lo apostado:** -16.84%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 7 | 0.0% | 30.4% | -30.4 pp |
 | 40-59% | 13 | 53.8% | 50.8% | +3.1 pp |
 | 60-79% | 7 | 85.7% | 67.0% | +18.7 pp |
-| 80-94% | 10 | 100.0% | 88.9% | +11.1 pp |
+| 80-94% | 11 | 100.0% | 88.5% | +11.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -72,6 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 23% | 0.00 | 1.0% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 1.2% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Emiliana Arango vs Venu | Emiliana Arango (BUY) | 69% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 65% | 0.00 | 2.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 2.0% | ⏳ pendiente | — |
@@ -100,5 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 36% | 10.00 | 0.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 58% | 0.00 | 2.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 1.34 | 0.7% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 1.1% | ⏳ pendiente | — |

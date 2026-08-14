@@ -1,5 +1,5 @@
 {
-  "bankroll": 937.9215147017611,
+  "bankroll": 939.686220584114,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -215,6 +215,11 @@
       "timestamp": 1786676127.6809304,
       "bankroll": 937.92,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner (+1.30 USD)"
+    },
+    {
+      "timestamp": 1786676594.6699328,
+      "bankroll": 939.69,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Club Santos Laguna (-2.5)"
     }
   ]
 }
