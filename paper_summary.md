@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:19:13 (hora de Perú)
+Actualizado: 2026-08-13 20:21:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,000.00
-**Retorno acumulado:** +0.00%
+**Bankroll actual:** $1,001.74
+**Retorno acumulado:** +0.17%
 **Peor caída desde un máximo (drawdown):** 0.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,12 +16,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| ferrariChampions2026 | 2 | 0 | 19 | +1.74 USD |
 | 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 21 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 13 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 5 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 0 | 0 | 2 | +0.00 USD |
+
+## Análisis general
+
+- **Apuestas resueltas:** 2
+- **Aciertos:** 2 (100.0%)
+- **Cuota promedio de entrada:** 92.0%
+- **Stake promedio:** $10.00
+- **Total apostado (suma de stakes):** $20.00
+- **ROI sobre lo apostado:** +8.70%
+
+### ¿Aciertan más o menos de lo que promete la cuota?
+
+_Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo que dice la cuota significa que la señal pierde plata a la larga._
+
+| Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
+|---|---|---|---|---|
+| 80-94% | 2 | 100.0% | 92.0% | +8.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -34,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 26.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 93% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
@@ -63,4 +81,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 52% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 60% | 10.00 | 1.9% | ⏳ pendiente | — |
