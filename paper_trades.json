@@ -6302,5 +6302,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786724140.5452166,
     "fills": 4
+  },
+  {
+    "timestamp": 1786724371,
+    "timestamp_added": 1786724371.6549609,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-prv-100t-2026-08-14-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 348.55,
+    "whale_pct": 0.806,
+    "whale_value_at_open": 43254.1672,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786724371.6549695,
+    "fills": 1
   }
 ]
