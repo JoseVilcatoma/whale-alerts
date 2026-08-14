@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:45:04 (hora de Perú)
+Actualizado: 2026-08-14 06:47:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,199.65
-**Retorno acumulado:** +19.96%
+**Bankroll actual:** $1,219.80
+**Retorno acumulado:** +21.98%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,24 +20,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
+| ActionReaction | 5 | 1 | 7 | +10.16 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 53 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
-| ActionReaction | 1 | 1 | 11 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 11 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 110
-- **Aciertos:** 65 (59.1%)
-- **Cuota promedio de entrada:** 52.0%
+- **Apuestas resueltas:** 114
+- **Aciertos:** 69 (60.5%)
+- **Cuota promedio de entrada:** 52.5%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,098.66
-- **ROI sobre lo apostado:** +18.08%
+- **Total apostado (suma de stakes):** $1,138.66
+- **ROI sobre lo apostado:** +19.22%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 27 | 44.4% | 29.4% | +15.0 pp |
 | 40-59% | 45 | 55.6% | 49.6% | +6.0 pp |
-| 60-79% | 15 | 66.7% | 68.0% | -1.3 pp |
+| 60-79% | 19 | 73.7% | 67.7% | +6.0 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
