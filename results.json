@@ -1531,7 +1531,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786711735,
     "fills": 1
   },
@@ -1816,7 +1816,7 @@
     "side": "BUY",
     "usd": 25600.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786731602,
     "fills": 1
   },
@@ -1878,6 +1878,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1786741340,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 263,
+    "timestamp": 1786742120,
+    "username": "0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719",
+    "wallet": "0x772f8865fb93e6d0eb1d41dda3711589114a8145",
+    "slug": "atp-borges-kokkina-2026-08-13",
+    "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "usd": 29999.999993999998,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1786742120,
     "fills": 1
   }
 ]
