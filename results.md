@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 06:38:11 (hora de Perú)
+Actualizado: 2026-08-14 06:40:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **97**  ($5,049,039 en total)
+- Apuestas registradas: **98**  ($5,083,960 en total)
 - Resueltas: **90** — 55 ganadas / 35 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 40
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 1 | 85% | $959,863 | +$264,686 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 2 | 85% | $994,784 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
@@ -69,6 +69,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | — | ⏳ Pendiente |
 | NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | — | ⏳ Pendiente |
@@ -128,4 +129,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | -$25,537 | ❌ Perdida |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | -$40,000 | ❌ Perdida |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | +$5,254 | ✅ Ganada |
-| vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
