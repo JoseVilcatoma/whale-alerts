@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:33:46 (hora de Perú)
+Actualizado: 2026-08-13 20:35:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,003.13
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
 | 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
-| CORGI8 | 0 | 0 | 2 | +0.00 USD |
+| CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 9 | +0.00 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 
@@ -51,6 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 9.1% | ⏳ pendiente | — |
@@ -80,4 +81,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 89% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Volynets (BUY) | 38% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 87% | 10.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Boulter (BUY) | 58% | 10.00 | 0.2% | ⏳ pendiente | — |
