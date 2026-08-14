@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:47:44 (hora de Perú)
+Actualizado: 2026-08-14 13:49:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 8 | +244.03 USD |
+| CORGI8 | 16 | 7 | 9 | +244.03 USD |
 | Lakersfan111 | 26 | 8 | 2 | +185.32 USD |
 | midwicket72 | 24 | 2 | 1 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Joblife vs Fnatic - Map 2 Winn | Fnatic (BUY) | 56% | 10.00 | 6.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 33% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 0.4% | ✅ ganada | +5.38 |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 4.3% | ✅ ganada | +5.38 |
-| SDTrading | Spread: Detroit Tigers (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 11.8% | ⏳ pendiente | — |
