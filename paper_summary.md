@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:28:38 (hora de Perú)
+Actualizado: 2026-08-13 22:30:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $903.15
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| AV23IUa | 0 | 0 | 23 | +0.00 USD |
+| AV23IUa | 0 | 0 | 25 | +0.00 USD |
 | wr0ngw4yb3tt0r | 4 | 5 | 31 | -15.20 USD |
 | ferrariChampions2026 | 10 | 5 | 41 | -32.44 USD |
 | 1winstreak1 | 12 | 12 | 21 | -54.57 USD |
@@ -74,6 +74,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 3.46 | 0.8% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 71% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora - Game 2 W | Aurora (BUY) | 45% | 10.00 | 10.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 39% | 1.77 | 1.3% | ⏳ pendiente | — |
@@ -102,5 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 30% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 21% | 7.11 | 0.2% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 66% | 10.00 | 0.9% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 10.00 | 9.3% | ⏳ pendiente | — |
