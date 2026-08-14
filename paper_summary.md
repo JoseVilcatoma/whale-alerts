@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 02:18:35 (hora de Perú)
+Actualizado: 2026-08-14 02:20:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,169.01
@@ -16,13 +16,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 6 | 0 | 2 | +170.76 USD |
+| CORGI8 | 6 | 0 | 6 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 0 | 1 | +43.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 21 | +0.00 USD |
-| UpTheBlues | 0 | 0 | 8 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 23 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 9 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -64,6 +64,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 2.2% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.6% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 20.8% | ⏳ pendiente | — |
+| UpTheBlues | Sporting CP vs. Vitória SC: O/U 1.5 | Over (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 72.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
 | UpTheBlues | Will Galatasaray SK win on 2026-08-14? | No (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -87,10 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Al Hilal Saudi Club (-2.5) | Al Faisaly Saudi Club (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs OG - Game 1 W | Team Resilience (BUY) | 38% | 10.00 | 0.8% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.8% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs OG (BO3) - Th | Team Resilience (BUY) | 51% | 10.00 | 26.1% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
