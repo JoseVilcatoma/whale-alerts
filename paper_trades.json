@@ -7334,5 +7334,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786743324.2714818,
     "fills": 1
+  },
+  {
+    "timestamp": 1786743441,
+    "timestamp_added": 1786743442.042409,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-pit-2026-08-14-f5-total-4pt5",
+    "title": "Boston Red Sox vs. Pittsburgh Pirates: 1st 5 Innings O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 213.64,
+    "whale_pct": 0.137,
+    "whale_value_at_open": 156450.7419,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786743442.0424156,
+    "fills": 1
   }
 ]
