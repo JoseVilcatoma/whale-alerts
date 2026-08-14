@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:11:08 (hora de Perú)
+Actualizado: 2026-08-14 08:13:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,236.87
-**Retorno acumulado:** +23.69%
+**Bankroll actual:** $1,166.87
+**Retorno acumulado:** +16.69%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,14 +16,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 11 | 0 | 12 | +238.15 USD |
+| CORGI8 | 11 | 7 | 5 | +168.15 USD |
 | AV23IUa | 5 | 1 | 8 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | Lakersfan111 | 9 | 4 | 23 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 10 | +0.00 USD |
-| SDTrading | 0 | 0 | 5 | +0.00 USD |
+| SDTrading | 0 | 0 | 6 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 23 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 121
-- **Aciertos:** 75 (62.0%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 128
+- **Aciertos:** 75 (58.6%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,208.66
-- **ROI sobre lo apostado:** +19.52%
+- **Total apostado (suma de stakes):** $1,278.66
+- **ROI sobre lo apostado:** +12.98%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 26 | 46.2% | 29.1% | +17.0 pp |
-| 40-59% | 46 | 52.2% | 49.1% | +3.1 pp |
+| 40-59% | 53 | 45.3% | 49.0% | -3.7 pp |
 | 60-79% | 26 | 80.8% | 66.8% | +14.0 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -62,11 +62,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
+| mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 46% | 10.00 | 24.0% | ⏳ pendiente | — |
+| SDTrading | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 20.4% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 39% | 10.00 | 9.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -95,5 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 53% | 10.00 | 23.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality - Map 1 W | B8 (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
-| SDTrading | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 46% | 10.00 | 23.7% | ⏳ pendiente | — |
-| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 52% | 10.00 | 45.7% | ⏳ pendiente | — |
