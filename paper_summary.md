@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:15:02 (hora de Perú)
+Actualizado: 2026-08-14 00:17:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $922.57
-**Retorno acumulado:** -7.74%
-**Peor caída desde un máximo (drawdown):** 13.17%
+**Bankroll actual:** $892.57
+**Retorno acumulado:** -10.74%
+**Peor caída desde un máximo (drawdown):** 14.84%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -17,25 +17,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | AV23IUa | 5 | 1 | 27 | +116.21 USD |
-| wr0ngw4yb3tt0r | 21 | 14 | 11 | +13.58 USD |
 | IMAREALPERSON | 10 | 0 | 3 | +8.36 USD |
+| wr0ngw4yb3tt0r | 21 | 15 | 10 | +3.58 USD |
 | CORGI8 | 1 | 0 | 15 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 2 | 24 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 9 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
-| 1winstreak1 | 26 | 25 | 32 | -91.06 USD |
+| 1winstreak1 | 28 | 28 | 27 | -111.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 154
-- **Aciertos:** 79 (51.3%)
-- **Cuota promedio de entrada:** 52.6%
-- **Stake promedio:** $6.21
-- **Total apostado (suma de stakes):** $955.81
-- **ROI sobre lo apostado:** -8.97%
+- **Apuestas resueltas:** 160
+- **Aciertos:** 81 (50.6%)
+- **Cuota promedio de entrada:** 52.2%
+- **Stake promedio:** $6.16
+- **Total apostado (suma de stakes):** $985.81
+- **ROI sobre lo apostado:** -11.74%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,10 +43,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 6 | 0.0% | 13.3% | -13.3 pp |
-| 20-39% | 34 | 29.4% | 30.0% | -0.6 pp |
-| 40-59% | 64 | 48.4% | 50.0% | -1.6 pp |
-| 60-79% | 29 | 62.1% | 67.3% | -5.2 pp |
+| 1-19% (bomba) | 8 | 12.5% | 14.2% | -1.8 pp |
+| 20-39% | 35 | 28.6% | 30.1% | -1.5 pp |
+| 40-59% | 65 | 47.7% | 50.0% | -2.3 pp |
+| 60-79% | 31 | 61.3% | 67.5% | -6.2 pp |
 | 80-94% | 20 | 95.0% | 87.2% | +7.8 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 16.7% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 12.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 91% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 76% | 0.00 | 0.3% | ✅ ganada | +0.00 |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 0.00 | 0.1% | ⏳ pendiente | — |
