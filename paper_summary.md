@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:40:37 (hora de Perú)
+Actualizado: 2026-08-13 21:42:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,9 +16,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 33 | +14.57 USD |
+| 1winstreak1 | 2 | 0 | 35 | +14.57 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 31 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 33 | +0.00 USD |
 | CORGI8 | 0 | 0 | 8 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
@@ -63,11 +63,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-mil-lad-2026-08-13-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 42% | 0.00 | 7.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 58% | 0.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 61% | 0.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 75% | 0.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 60% | 0.00 | 1.0% | ⏳ pendiente | — |
@@ -94,7 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 46% | 0.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 40% | 0.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 35% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 57% | 0.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 42% | 0.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
