@@ -4483,8 +4483,8 @@
     "whale_value_at_open": 94168.1245,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 12.22,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -4505,8 +4505,8 @@
     "whale_value_at_open": 30618.3083,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "CORGI8"
     ],
@@ -5283,6 +5283,28 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1786704276.1472883,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786708127,
+    "timestamp_added": 1786708127.6216285,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fut-mouz-2026-08-14-map-handicap-home-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 1054.0,
+    "whale_pct": 0.785,
+    "whale_value_at_open": 134201.6244,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786708127.621637,
     "fills": 1
   }
 ]

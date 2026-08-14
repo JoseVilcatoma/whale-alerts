@@ -1,5 +1,5 @@
 {
-  "bankroll": 1219.8009564449387,
+  "bankroll": 1222.023178667161,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -580,6 +580,16 @@
       "timestamp": 1786708020.0349429,
       "bankroll": 1219.8,
       "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708082.6382017,
+      "bankroll": 1232.02,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786708082.7385166,
+      "bankroll": 1222.02,
+      "event": "lost: ActionReaction \u2014 Dota 2: Team Liquid vs Team Spirit - Game 2 Winner"
     }
   ]
 }
