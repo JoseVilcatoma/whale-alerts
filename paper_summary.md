@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:37:52 (hora de Perú)
+Actualizado: 2026-08-13 20:39:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,003.13
@@ -23,6 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | +0.00 USD |
+| IMAREALPERSON | 0 | 0 | 1 | +0.00 USD |
 
 ## Análisis general
 
@@ -52,6 +53,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: TY (-1.5) vs Team Liquid  | Team Yandex (BUY) | 39% | 10.00 | 4.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 55% | 10.00 | 5.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -81,4 +83,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 11% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Club Santos Laguna (-2.5) | Philadelphia Union (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 89% | 10.00 | 0.6% | ⏳ pendiente | — |
