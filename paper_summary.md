@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:50:49 (hora de Perú)
+Actualizado: 2026-08-14 04:52:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,165.33
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 49 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 50 | +0.00 USD |
 | ActionReaction | 0 | 0 | 10 | +0.00 USD |
-| BBQChickenisthebesttt | 0 | 0 | 1 | +0.00 USD |
+| BBQChickenisthebesttt | 0 | 0 | 4 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
@@ -71,6 +71,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 1.5% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.5% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 44.9% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 24% | 10.00 | 22.7% | ⏳ pendiente | — |
@@ -97,7 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 66% | 10.00 | 4.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 66% | 10.00 | 33.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 16.8% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 11.2% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.1% | ⏳ pendiente | — |
