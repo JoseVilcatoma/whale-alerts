@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:31:04 (hora de Perú)
+Actualizado: 2026-08-14 01:33:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,136.33
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 6 | 0 | 1 | +170.76 USD |
+| CORGI8 | 6 | 0 | 2 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 0 | 2 | +24.01 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
@@ -63,6 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs OG - Game 1 W | Team Resilience (BUY) | 38% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs OG (BO3) - Th | Team Resilience (BUY) | 51% | 10.00 | 26.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ✅ ganada | +1.49 |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ❌ perdida | -10.00 |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ✅ ganada | +28.46 |
