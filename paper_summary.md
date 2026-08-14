@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:14:10 (hora de Perú)
+Actualizado: 2026-08-14 13:16:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,465.17
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 2 | +244.03 USD |
+| CORGI8 | 16 | 7 | 4 | +244.03 USD |
 | Lakersfan111 | 26 | 6 | 4 | +205.32 USD |
 | midwicket72 | 20 | 2 | 5 | +78.53 USD |
 | AV23IUa | 5 | 5 | 4 | +76.21 USD |
@@ -68,7 +68,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 6.7% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 1.0% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 7.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 24.8% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 45% | 10.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 46% | 10.00 | 24.0% | ⏳ pendiente | — |
@@ -96,5 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 79% | 10.00 | 8.9% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 55% | 10.00 | 7.0% | ❌ perdida | -10.00 |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 0.8% | ❌ perdida | -10.00 |
-| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 5.5% | ❌ perdida | -10.00 |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 35% | 10.00 | 12.2% | ❌ perdida | -10.00 |
