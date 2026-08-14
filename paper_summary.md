@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:23:16 (hora de Perú)
+Actualizado: 2026-08-14 00:25:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $896.30
-**Retorno acumulado:** -10.37%
-**Peor caída desde un máximo (drawdown):** 14.84%
+**Bankroll actual:** $928.31
+**Retorno acumulado:** -7.17%
+**Peor caída desde un máximo (drawdown):** 17.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -17,25 +17,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | AV23IUa | 5 | 1 | 27 | +116.21 USD |
-| wr0ngw4yb3tt0r | 22 | 15 | 9 | +14.41 USD |
+| wr0ngw4yb3tt0r | 25 | 16 | 5 | +14.41 USD |
 | IMAREALPERSON | 10 | 0 | 3 | +8.36 USD |
 | CORGI8 | 1 | 0 | 15 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 2 | 24 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 11 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
-| 1winstreak1 | 28 | 31 | 24 | -118.17 USD |
+| 1winstreak1 | 38 | 44 | 1 | -86.16 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 164
-- **Aciertos:** 82 (50.0%)
-- **Cuota promedio de entrada:** 51.6%
-- **Stake promedio:** $6.12
-- **Total apostado (suma de stakes):** $1,002.92
-- **ROI sobre lo apostado:** -11.17%
+- **Apuestas resueltas:** 191
+- **Aciertos:** 95 (49.7%)
+- **Cuota promedio de entrada:** 50.8%
+- **Stake promedio:** $5.74
+- **Total apostado (suma de stakes):** $1,097.11
+- **ROI sobre lo apostado:** -7.30%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,11 +43,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 8 | 12.5% | 14.2% | -1.8 pp |
-| 20-39% | 38 | 26.3% | 29.7% | -3.3 pp |
-| 40-59% | 66 | 48.5% | 49.9% | -1.4 pp |
-| 60-79% | 31 | 61.3% | 67.5% | -6.2 pp |
-| 80-94% | 20 | 95.0% | 87.2% | +7.8 pp |
+| 1-19% (bomba) | 11 | 18.2% | 14.1% | +4.1 pp |
+| 20-39% | 47 | 27.7% | 29.4% | -1.7 pp |
+| 40-59% | 72 | 45.8% | 49.6% | -3.8 pp |
+| 60-79% | 38 | 65.8% | 67.8% | -2.0 pp |
+| 80-94% | 22 | 95.5% | 87.2% | +8.3 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -80,33 +80,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 71.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 16.7% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 12.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 91% | 0.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 91% | 0.00 | 0.3% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 0.00 | 16.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 19% | 0.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 25% | 0.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 78% | 0.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 30% | 0.00 | 0.8% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 2.7% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.00 | 33.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 19% | 0.00 | 0.1% | ❌ perdida | -0.00 |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 25% | 0.00 | 0.2% | ❌ perdida | -0.00 |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 78% | 0.00 | 0.4% | ✅ ganada | +0.00 |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 83% | 0.00 | 0.2% | ✅ ganada | +0.00 |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 30% | 0.00 | 0.8% | ❌ perdida | -0.00 |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 2.7% | ❌ perdida | -0.00 |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.00 | 33.7% | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 0.00 | 0.2% | ❌ perdida | -0.00 |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 0.4% | ❌ perdida | -0.00 |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ❌ perdida | -0.00 |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 93% | 0.00 | 0.4% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 1.1% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 41% | 0.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 52% | 0.00 | 0.6% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ❌ perdida | -0.00 |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 41% | 0.00 | 0.5% | ✅ ganada | +0.00 |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 52% | 0.00 | 0.6% | ❌ perdida | -0.00 |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 54% | 0.00 | 0.7% | ❌ perdida | -0.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 74% | 1.49 | 0.3% | ❌ perdida | -1.49 |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 20% | 10.00 | 0.2% | ✅ ganada | +40.00 |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
