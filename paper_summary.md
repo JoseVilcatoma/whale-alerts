@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:34:54 (hora de Perú)
+Actualizado: 2026-08-13 22:36:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $903.15
-**Retorno acumulado:** -9.69%
-**Peor caída desde un máximo (drawdown):** 12.22%
+**Bankroll actual:** $919.63
+**Retorno acumulado:** -8.04%
+**Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -22,18 +22,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | AV23IUa | 0 | 0 | 25 | +0.00 USD |
-| wr0ngw4yb3tt0r | 4 | 5 | 31 | -15.20 USD |
-| ferrariChampions2026 | 10 | 5 | 41 | -32.44 USD |
+| wr0ngw4yb3tt0r | 7 | 6 | 27 | -5.38 USD |
+| ferrariChampions2026 | 11 | 5 | 40 | -25.77 USD |
 | 1winstreak1 | 12 | 12 | 21 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 48
-- **Aciertos:** 26 (54.2%)
-- **Cuota promedio de entrada:** 56.9%
-- **Stake promedio:** $9.58
-- **Total apostado (suma de stakes):** $460.00
-- **ROI sobre lo apostado:** -22.22%
+- **Apuestas resueltas:** 53
+- **Aciertos:** 30 (56.6%)
+- **Cuota promedio de entrada:** 57.0%
+- **Stake promedio:** $9.62
+- **Total apostado (suma de stakes):** $510.00
+- **ROI sobre lo apostado:** -16.81%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,8 +43,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 13.0% | -13.0 pp |
 | 20-39% | 9 | 0.0% | 29.6% | -29.6 pp |
-| 40-59% | 15 | 53.3% | 50.1% | +3.2 pp |
-| 60-79% | 9 | 66.7% | 66.8% | -0.1 pp |
+| 40-59% | 17 | 52.9% | 50.0% | +2.9 pp |
+| 60-79% | 12 | 75.0% | 66.2% | +8.8 pp |
 | 80-94% | 11 | 100.0% | 88.5% | +11.5 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
