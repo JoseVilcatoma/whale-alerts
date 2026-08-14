@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:23:44 (hora de Perú)
+Actualizado: 2026-08-14 08:25:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,166.87
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 11 | 7 | 5 | +168.15 USD |
-| AV23IUa | 5 | 1 | 9 | +116.21 USD |
+| AV23IUa | 5 | 1 | 11 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
-| Lakersfan111 | 9 | 4 | 24 | +15.17 USD |
+| Lakersfan111 | 9 | 4 | 25 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
@@ -68,6 +68,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 39.8% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 1.7% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 0.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 46% | 10.00 | 24.0% | ⏳ pendiente | — |
@@ -95,6 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 79% | 10.00 | 8.9% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 55% | 10.00 | 7.0% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 5.5% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 35% | 10.00 | 12.2% | ⏳ pendiente | — |
-| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
