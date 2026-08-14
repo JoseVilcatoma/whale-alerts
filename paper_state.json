@@ -1,5 +1,5 @@
 {
-  "bankroll": 1390.9103965289903,
+  "bankroll": 1395.39315514968,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1020,6 +1020,21 @@
       "timestamp": 1786741376.4794264,
       "bankroll": 1390.91,
       "event": "lost: Lakersfan111 \u2014 Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786741939.0547485,
+      "bankroll": 1380.91,
+      "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1786741941.8167353,
+      "bankroll": 1405.39,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1786742001.1855445,
+      "bankroll": 1395.39,
+      "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 7.5"
     }
   ]
 }
