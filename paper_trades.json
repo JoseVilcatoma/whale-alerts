@@ -2063,8 +2063,8 @@
     "whale_value_at_open": 287171.2098,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.51,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2135,8 +2135,8 @@
     "whale_value_at_open": 281005.9697,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.51,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2337,8 +2337,8 @@
     "whale_value_at_open": 263156.3543,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2405,8 +2405,8 @@
     "whale_value_at_open": 262256.8384,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2451,8 +2451,8 @@
     "whale_value_at_open": 245733.9099,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2475,8 +2475,8 @@
     "whale_value_at_open": 245733.9099,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -2703,6 +2703,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786689174.3527634,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786689670,
+    "timestamp_added": 1786689671.111868,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 158.83677899999998,
+    "whale_pct": 0.947,
+    "whale_value_at_open": 16774.4278,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786689671.1118777,
     "fills": 1
   }
 ]

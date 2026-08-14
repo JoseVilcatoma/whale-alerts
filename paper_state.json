@@ -1,5 +1,5 @@
 {
-  "bankroll": 1155.7377673224769,
+  "bankroll": 1169.012151643373,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -470,6 +470,36 @@
       "timestamp": 1786689279.032208,
       "bankroll": 1155.74,
       "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Game Handicap: TS (-1.5) vs Aurora (+1.5)"
+    },
+    {
+      "timestamp": 1786689588.8286438,
+      "bankroll": 1159.25,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
+    },
+    {
+      "timestamp": 1786689588.928857,
+      "bankroll": 1162.76,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
+    },
+    {
+      "timestamp": 1786689589.229249,
+      "bankroll": 1164.39,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
+    },
+    {
+      "timestamp": 1786689589.3294585,
+      "bankroll": 1166.02,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
+    },
+    {
+      "timestamp": 1786689589.4295776,
+      "bankroll": 1167.65,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
+    },
+    {
+      "timestamp": 1786689589.5297832,
+      "bankroll": 1169.01,
+      "event": "won: ferrariChampions2026 \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage"
     }
   ]
 }
