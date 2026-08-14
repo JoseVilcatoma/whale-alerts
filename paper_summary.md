@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:26:02 (hora de Perú)
+Actualizado: 2026-08-13 21:28:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 2 | 0 | 27 | +14.57 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 20 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 21 | +0.00 USD |
 | CORGI8 | 0 | 0 | 8 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | +0.00 USD |
 | AV23IUa | 0 | 0 | 13 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 27 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 28 | -15.69 USD |
 
 ## Análisis general
 
@@ -64,7 +64,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 42% | 0.00 | 5.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 53% | 0.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Patriots | Colts (BUY) | 36% | 0.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 42% | 0.00 | 7.8% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 80% | 0.00 | 12.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 84% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 82% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -92,5 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 99% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Cruz Azul win on 2026-08-13? | No (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
