@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:42:01 (hora de Perú)
+Actualizado: 2026-08-13 20:44:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,003.13
@@ -23,7 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | +0.00 USD |
-| IMAREALPERSON | 0 | 0 | 2 | +0.00 USD |
+| IMAREALPERSON | 0 | 0 | 3 | +0.00 USD |
+| AV23IUa | 0 | 0 | 2 | +0.00 USD |
 
 ## Análisis general
 
@@ -53,6 +54,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 10.00 | 35.4% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.7% | ⏳ pendiente | — |
+| AV23IUa | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 19% | 10.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -80,6 +84,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 21% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 13% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 93% | 10.00 | 1.3% | ✅ ganada | +0.75 |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 66% | 10.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Minnesota Twins (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
