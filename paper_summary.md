@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:52:14 (hora de Perú)
+Actualizado: 2026-08-14 18:54:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 17 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 0 | +106.44 USD |
+| midwicket72 | 26 | 3 | 1 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 12 | 8 | 9 | +47.26 USD |
+| wr0ngw4yb3tt0r | 12 | 8 | 10 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 6 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 9 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
@@ -64,11 +64,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
+| mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
+| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 72% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 22% | 10.00 | 2.9% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 31% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 69% | 10.00 | 13.3% | ⏳ pendiente | — |
@@ -94,8 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 19% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.4% | ⏳ pendiente | — |
-| midwicket72 | The Hundred: Manchester Super Giants vs  | Manchester Super Giants (BUY) | 76% | 10.00 | 0.1% | ✅ ganada | +3.16 |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Joblife vs Fnatic - Map 2 Winn | Fnatic (BUY) | 56% | 10.00 | 6.0% | ❌ perdida | -10.00 |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 33% | 10.00 | 0.1% | ❌ perdida | -10.00 |
