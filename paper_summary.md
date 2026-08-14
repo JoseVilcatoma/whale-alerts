@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:47:14 (hora de Perú)
+Actualizado: 2026-08-14 17:49:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,395.23
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 20 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 3 | +0.00 USD |
-| theowalcott | 0 | 0 | 3 | +0.00 USD |
+| theowalcott | 0 | 0 | 4 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -76,6 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 57% | 10.00 | 3.4% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 58% | 10.00 | 28.8% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 57% | 10.00 | 38.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -105,4 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
