@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:14:23 (hora de Perú)
+Actualizado: 2026-08-14 18:16:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,350.68
-**Retorno acumulado:** +35.07%
+**Bankroll actual:** $1,369.74
+**Retorno acumulado:** +36.97%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -23,26 +23,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 16 | 11 | 24 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| Talvez10 | 0 | 0 | 3 | +0.00 USD |
+| Talvez10 | 0 | 0 | 4 | +0.00 USD |
 | 111111111115 | 0 | 0 | 23 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 7 | -34.27 USD |
+| ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
-| ActionReaction | 2 | 8 | 3 | -55.13 USD |
 | Weaseloftheweek | 0 | 8 | 0 | -80.00 USD |
 | Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 229
-- **Aciertos:** 134 (58.5%)
-- **Cuota promedio de entrada:** 52.7%
+- **Apuestas resueltas:** 232
+- **Aciertos:** 137 (59.1%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,288.66
-- **ROI sobre lo apostado:** +15.28%
+- **Total apostado (suma de stakes):** $2,318.66
+- **ROI sobre lo apostado:** +15.90%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,8 +52,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
 | 20-39% | 43 | 46.5% | 29.7% | +16.8 pp |
-| 40-59% | 95 | 48.4% | 48.1% | +0.3 pp |
-| 60-79% | 63 | 76.2% | 66.4% | +9.8 pp |
+| 40-59% | 96 | 49.0% | 48.2% | +0.8 pp |
+| 60-79% | 65 | 76.9% | 66.4% | +10.5 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -79,6 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 45% | 0.00 | 31.7% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets:  | Under (BUY) | 50% | 0.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cincinnati Reds (-1.5) | Miami Marlins (BUY) | 70% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -108,4 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 3.8% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 0.9% | ⏳ pendiente | — |
