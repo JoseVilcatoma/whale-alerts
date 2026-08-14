@@ -3474,5 +3474,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786692272.724664,
     "fills": 1
+  },
+  {
+    "timestamp": 1786692388,
+    "timestamp_added": 1786692388.6914678,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-t1-dk-2026-08-14-game1",
+    "title": "LoL: T1 vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 406.78,
+    "whale_pct": 1.073,
+    "whale_value_at_open": 37897.5456,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786692388.6914768,
+    "fills": 1
   }
 ]
