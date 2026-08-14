@@ -1474,5 +1474,20 @@
     "status": "pending",
     "ultimo_fill": 1786707551,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 208,
+    "timestamp": 1786709623,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-nip-bb3-2026-08-14",
+    "title": "Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B",
+    "outcome": "NIP",
+    "side": "BUY",
+    "usd": 28363.5215,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1786709623,
+    "fills": 1
   }
 ]
