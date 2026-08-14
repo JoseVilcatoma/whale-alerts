@@ -7646,5 +7646,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786746209.8599317,
     "fills": 1
+  },
+  {
+    "timestamp": 1786746490,
+    "timestamp_added": 1786746490.46098,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
+    "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 339.9966,
+    "whale_pct": 0.199,
+    "whale_value_at_open": 170931.8108,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786746490.4609888,
+    "fills": 1
   }
 ]
