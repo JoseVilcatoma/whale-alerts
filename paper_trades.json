@@ -7670,5 +7670,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786746490.4609888,
     "fills": 1
+  },
+  {
+    "timestamp": 1786746526,
+    "timestamp_added": 1786746526.740502,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mglz-navi-2026-08-15",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "whale_usd": 77.77777700000001,
+    "whale_pct": 0.309,
+    "whale_value_at_open": 25153.1358,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786746526.7405097,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786746614,
+    "timestamp_added": 1786746614.9532738,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cws-det-2026-08-14",
+    "title": "Chicago White Sox vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 96.53600000000002,
+    "whale_pct": 0.173,
+    "whale_value_at_open": 55659.7543,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786746614.9532835,
+    "fills": 1
   }
 ]
