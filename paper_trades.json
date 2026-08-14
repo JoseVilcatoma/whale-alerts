@@ -4674,5 +4674,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786699932.230695,
     "fills": 3
+  },
+  {
+    "timestamp": 1786700518,
+    "timestamp_added": 1786700519.0235455,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-we-tes-2026-08-14-game1",
+    "title": "LoL: Team WE vs Top Esports - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 7320.447,
+    "whale_pct": 22.714,
+    "whale_value_at_open": 32229.4012,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786700539.242916,
+    "fills": 6
   }
 ]

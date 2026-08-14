@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:40:20 (hora de Perú)
+Actualizado: 2026-08-14 04:42:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,165.33
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 48 | +0.00 USD |
-| ActionReaction | 0 | 0 | 9 | +0.00 USD |
+| ActionReaction | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
@@ -61,6 +61,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
+| lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
 | dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
 
@@ -68,6 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 24% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 35% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -97,4 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.1% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons - Game | Iron Wing (BUY) | 50% | 10.00 | 4.6% | ⏳ pendiente | — |
-| ActionReaction | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 58% | 10.00 | 36.7% | ⏳ pendiente | — |
