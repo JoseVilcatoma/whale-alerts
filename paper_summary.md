@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:26:31 (hora de Perú)
+Actualizado: 2026-08-13 22:28:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $929.69
-**Retorno acumulado:** -7.03%
-**Peor caída desde un máximo (drawdown):** 9.63%
+**Bankroll actual:** $903.15
+**Retorno acumulado:** -9.69%
+**Peor caída desde un máximo (drawdown):** 12.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -16,24 +16,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| wr0ngw4yb3tt0r | 2 | 1 | 37 | +11.34 USD |
 | IMAREALPERSON | 7 | 0 | 4 | +5.36 USD |
-| CORGI8 | 0 | 0 | 11 | +0.00 USD |
+| CORGI8 | 0 | 0 | 12 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | AV23IUa | 0 | 0 | 23 | +0.00 USD |
+| wr0ngw4yb3tt0r | 4 | 5 | 31 | -15.20 USD |
 | ferrariChampions2026 | 10 | 5 | 41 | -32.44 USD |
-| 1winstreak1 | 12 | 12 | 20 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 21 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 42
-- **Aciertos:** 24 (57.1%)
-- **Cuota promedio de entrada:** 57.2%
-- **Stake promedio:** $9.52
-- **Total apostado (suma de stakes):** $400.00
-- **ROI sobre lo apostado:** -18.92%
+- **Apuestas resueltas:** 48
+- **Aciertos:** 26 (54.2%)
+- **Cuota promedio de entrada:** 56.9%
+- **Stake promedio:** $9.58
+- **Total apostado (suma de stakes):** $460.00
+- **ROI sobre lo apostado:** -22.22%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -42,10 +42,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 13.0% | -13.0 pp |
-| 20-39% | 7 | 0.0% | 30.4% | -30.4 pp |
-| 40-59% | 14 | 50.0% | 50.6% | -0.6 pp |
-| 60-79% | 7 | 85.7% | 67.0% | +18.7 pp |
+| 20-39% | 9 | 0.0% | 29.6% | -29.6 pp |
+| 40-59% | 15 | 53.3% | 50.1% | +3.2 pp |
+| 60-79% | 9 | 66.7% | 66.8% | -0.1 pp |
 | 80-94% | 11 | 100.0% | 88.5% | +11.5 pp |
+| 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -73,6 +74,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 71% | 10.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Spirit vs Aurora - Game 2 W | Aurora (BUY) | 45% | 10.00 | 10.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 39% | 1.77 | 1.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 48% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 23% | 0.00 | 1.0% | ⏳ pendiente | — |
@@ -101,5 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 21% | 7.11 | 0.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 66% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 10.00 | 9.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 55% | 10.00 | 8.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
