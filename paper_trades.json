@@ -5388,5 +5388,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786716857.9518225,
     "fills": 1
+  },
+  {
+    "timestamp": 1786717028,
+    "timestamp_added": 1786717028.9119585,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-smith-avdeeva-2026-08-14",
+    "title": "ITF W35 Aldershot 2 Women: Alana Smith vs Julia Avdeeva",
+    "outcome": "Alana Smith",
+    "side": "BUY",
+    "whale_usd": 1002.9012,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 257674.6707,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786717028.9119692,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786717061,
+    "timestamp_added": 1786717061.8173084,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-b8-vit-2026-08-14",
+    "title": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 1670.4032000000002,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 256348.043,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 8,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786717061.8173168,
+    "fills": 1
   }
 ]
