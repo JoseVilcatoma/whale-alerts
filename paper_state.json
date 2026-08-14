@@ -1,5 +1,5 @@
 {
-  "bankroll": 1378.3829494269878,
+  "bankroll": 1465.1740845370891,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -845,6 +845,96 @@
       "timestamp": 1786729795.8984747,
       "bankroll": 1378.38,
       "event": "won: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786730114.7048235,
+      "bankroll": 1385.62,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730117.1669924,
+      "bankroll": 1391.5,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730117.267145,
+      "bankroll": 1397.12,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730117.4674711,
+      "bankroll": 1402.75,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730117.5676336,
+      "bankroll": 1408.62,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730118.296272,
+      "bankroll": 1398.62,
+      "event": "lost: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730118.4964943,
+      "bankroll": 1404.25,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730118.8453217,
+      "bankroll": 1409.87,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730118.9454873,
+      "bankroll": 1415.5,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730119.7398794,
+      "bankroll": 1420.88,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730119.8400166,
+      "bankroll": 1426.26,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.0930455,
+      "bankroll": 1431.65,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.1932104,
+      "bankroll": 1437.03,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.2933547,
+      "bankroll": 1442.42,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.3935068,
+      "bankroll": 1447.8,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.4936607,
+      "bankroll": 1453.68,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.5938141,
+      "bankroll": 1459.3,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
+    },
+    {
+      "timestamp": 1786730120.9891853,
+      "bankroll": 1465.17,
+      "event": "won: midwicket72 \u2014 The Hundred, Women: Sunrisers Leeds vs Southern Brave"
     }
   ]
 }
