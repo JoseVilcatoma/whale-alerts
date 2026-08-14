@@ -2390,5 +2390,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786672965.9348586,
     "fills": 1
+  },
+  {
+    "timestamp": 1786672980,
+    "timestamp_added": 1786672980.3016462,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-miss-dog-2026-08-13",
+    "title": "LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage",
+    "outcome": "Dorado Gaming",
+    "side": "BUY",
+    "whale_usd": 2341.3844,
+    "whale_pct": 0.893,
+    "whale_value_at_open": 262256.8384,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786672983.8671896,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786673049,
+    "timestamp_added": 1786673049.9353876,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-la-nyl-2026-08-13",
+    "title": "Los Angeles Sparks vs. New York Liberty",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "whale_usd": 8.79,
+    "whale_pct": 0.242,
+    "whale_value_at_open": 3625.9849,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786673049.935394,
+    "fills": 1
   }
 ]

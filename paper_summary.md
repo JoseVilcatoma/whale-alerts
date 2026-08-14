@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:02:58 (hora de Perú)
+Actualizado: 2026-08-13 21:05:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.66
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 20 | +14.57 USD |
-| ferrariChampions2026 | 4 | 0 | 23 | +3.13 USD |
+| 1winstreak1 | 2 | 0 | 21 | +14.57 USD |
+| ferrariChampions2026 | 4 | 0 | 24 | +3.13 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 19 | +0.00 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
@@ -59,6 +59,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Sparks vs. New York Liberty | New York Liberty (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 86% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 57% | 10.00 | 5.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 71% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 86% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -87,5 +89,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 28.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 71.4% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: University of Mississippi vs Dorado | University of Mississippi (BUY) | 42% | 10.00 | 0.1% | 💰 vendida anticipada | +0.24 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: TS (-1.5) vs Aurora (+1.5 | Team Spirit (BUY) | 34% | 10.00 | 17.4% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
