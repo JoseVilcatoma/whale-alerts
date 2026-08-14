@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 14:00:17 (hora de Perú)
+Actualizado: 2026-08-14 14:02:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 17 | +244.03 USD |
+| CORGI8 | 16 | 7 | 18 | +244.03 USD |
 | Lakersfan111 | 26 | 8 | 2 | +185.32 USD |
 | midwicket72 | 24 | 2 | 3 | +88.80 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 54% | 10.00 | 44.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 29% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 42% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 7.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 24.8% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 45% | 10.00 | 3.6% | ⏳ pendiente | — |
