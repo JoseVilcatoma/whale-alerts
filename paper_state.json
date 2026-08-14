@@ -1,5 +1,5 @@
 {
-  "bankroll": 1357.8931943045488,
+  "bankroll": 1359.0696648927842,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -845,6 +845,11 @@
       "timestamp": 1786724993.4915757,
       "bankroll": 1357.89,
       "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786725163.3314438,
+      "bankroll": 1359.07,
+      "event": "venta anticipada: Weaseloftheweek \u2014 The Hundred: Manchester Super Giants vs Sunrisers Leeds (+1.18 USD)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:31:10 (hora de Perú)
+Actualizado: 2026-08-14 11:33:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,357.89
-**Retorno acumulado:** +35.79%
+**Bankroll actual:** $1,359.07
+**Retorno acumulado:** +35.91%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,14 +17,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 7 | 24 | +181.85 USD |
+| Lakersfan111 | 23 | 7 | 28 | +181.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
+| Weaseloftheweek | 2 | 0 | 0 | +1.18 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
-| Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 45 | -8.19 USD |
 | ferrariChampions2026 | 22 | 10 | 10 | -33.76 USD |
@@ -74,9 +74,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 6.4% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
 | bigspending | Will Cagliari Calcio win on 2026-08-14? | Yes (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.8% | ⏳ pendiente | — |
-| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 13.7% | ⏳ pendiente | — |
+| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 13.7% | 💰 vendida anticipada | +0.59 |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 51% | 10.00 | 16.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 1.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 141.1% | ⏳ pendiente | — |
@@ -86,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 12.4% | ⏳ pendiente | — |
 | ActionReaction | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 45% | 10.00 | 14.8% | ⏳ pendiente | — |
-| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 0.3% | 💰 vendida anticipada | +0.59 |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 90% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -100,7 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 79% | 10.00 | 12.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 79% | 10.00 | 2.0% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 21% | 10.00 | 0.1% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 98% | 10.00 | 0.5% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 31% | 10.00 | 1.4% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 1.9% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 1.3% | ⏳ pendiente | — |
