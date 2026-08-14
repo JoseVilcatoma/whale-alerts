@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:49:30 (hora de Perú)
+Actualizado: 2026-08-13 22:51:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,010.10
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | AV23IUa | 3 | 0 | 24 | +100.44 USD |
 | IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
-| CORGI8 | 0 | 0 | 13 | +0.00 USD |
+| CORGI8 | 0 | 0 | 14 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 15 | 9 | 32 | -38.74 USD |
-| 1winstreak1 | 12 | 12 | 24 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 26 | -54.57 USD |
 
 ## Análisis general
 
@@ -76,6 +76,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: HULIGANI vs Vici Gaming - Game 2 | HULIGANI (BUY) | 31% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 51% | 10.00 | 12.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -103,6 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 63% | 0.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 9.64 | 1.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 73% | 10.00 | 2.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 66% | 10.00 | 0.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 46% | 10.00 | 15.9% | 💰 vendida anticipada | +1.30 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 52% | 10.00 | 5.7% | ⏳ pendiente | — |
