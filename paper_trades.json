@@ -4952,5 +4952,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786713937.9237826,
     "fills": 1
+  },
+  {
+    "timestamp": 1786714137,
+    "timestamp_added": 1786714138.0359771,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-al-jdg-2026-08-14",
+    "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 17773.544507,
+    "whale_pct": 26.014,
+    "whale_value_at_open": 68323.4112,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786714156.6289647,
+    "fills": 4
   }
 ]

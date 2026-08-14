@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:28:02 (hora de Perú)
+Actualizado: 2026-08-14 08:30:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,166.87
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | Lakersfan111 | 9 | 4 | 25 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 0 | 0 | 10 | +0.00 USD |
+| ActionReaction | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 23 | -8.19 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | LoL: Anyone's Legend vs JD Gaming (BO3)  | Anyone's Legend (BUY) | 59% | 10.00 | 26.0% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 39.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 64% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 79% | 10.00 | 8.9% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 55% | 10.00 | 7.0% | ⏳ pendiente | — |
-| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
