@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:39:02 (hora de Perú)
+Actualizado: 2026-08-13 22:41:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $919.63
-**Retorno acumulado:** -8.04%
+**Bankroll actual:** $1,010.10
+**Retorno acumulado:** +1.01%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,24 +16,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| IMAREALPERSON | 7 | 0 | 5 | +5.36 USD |
+| AV23IUa | 3 | 0 | 22 | +100.44 USD |
+| IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
 | CORGI8 | 0 | 0 | 12 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| AV23IUa | 0 | 0 | 25 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 27 | -5.38 USD |
-| ferrariChampions2026 | 11 | 5 | 40 | -25.77 USD |
-| 1winstreak1 | 12 | 12 | 21 | -54.57 USD |
+| ferrariChampions2026 | 15 | 9 | 32 | -38.74 USD |
+| 1winstreak1 | 12 | 12 | 22 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 53
-- **Aciertos:** 30 (56.6%)
-- **Cuota promedio de entrada:** 57.0%
-- **Stake promedio:** $9.62
-- **Total apostado (suma de stakes):** $510.00
-- **ROI sobre lo apostado:** -16.81%
+- **Apuestas resueltas:** 64
+- **Aciertos:** 37 (57.8%)
+- **Cuota promedio de entrada:** 55.4%
+- **Stake promedio:** $9.06
+- **Total apostado (suma de stakes):** $580.00
+- **ROI sobre lo apostado:** +0.30%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,11 +41,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 3 | 0.0% | 13.0% | -13.0 pp |
-| 20-39% | 9 | 0.0% | 29.6% | -29.6 pp |
+| 1-19% (bomba) | 4 | 0.0% | 12.2% | -12.2 pp |
+| 20-39% | 14 | 28.6% | 28.4% | +0.2 pp |
 | 40-59% | 17 | 52.9% | 50.0% | +2.9 pp |
-| 60-79% | 12 | 75.0% | 66.2% | +8.8 pp |
-| 80-94% | 11 | 100.0% | 88.5% | +11.5 pp |
+| 60-79% | 15 | 66.7% | 67.0% | -0.3 pp |
+| 80-94% | 13 | 100.0% | 88.0% | +12.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -75,7 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 30% | 10.00 | 4.2% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 60% | 10.00 | 1.6% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 30% | 10.00 | 4.2% | 💰 vendida anticipada | +3.00 |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 3.46 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 71% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 49% | 10.00 | 19.6% | 💰 vendida anticipada | +1.43 |
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 48% | 10.00 | 13.8% | 💰 vendida anticipada | +1.67 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 30% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |

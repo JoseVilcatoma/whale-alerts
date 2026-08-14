@@ -1,5 +1,5 @@
 {
-  "bankroll": 919.6341652744951,
+  "bankroll": 1010.0959749102178,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -280,6 +280,66 @@
       "timestamp": 1786678540.2753608,
       "bankroll": 919.63,
       "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786678784.8872619,
+      "bankroll": 953.11,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678784.9874089,
+      "bankroll": 986.59,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678785.08756,
+      "bankroll": 1020.07,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678785.4881282,
+      "bankroll": 1010.07,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678785.8886983,
+      "bankroll": 1000.07,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678788.7798085,
+      "bankroll": 1000.07,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678789.68111,
+      "bankroll": 1000.07,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678789.7812617,
+      "bankroll": 1000.07,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678790.281991,
+      "bankroll": 1000.07,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786678790.6604285,
+      "bankroll": 1003.07,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Team Liquid - Game 2 Winner (+3.00 USD)"
+    },
+    {
+      "timestamp": 1786678845.3751793,
+      "bankroll": 1020.1,
+      "event": "won: ferrariChampions2026 \u2014 Will New York City FC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786678845.6776574,
+      "bankroll": 1010.1,
+      "event": "lost: ferrariChampions2026 \u2014 Will New York City FC vs. Club Necaxa end in a draw?"
     }
   ]
 }

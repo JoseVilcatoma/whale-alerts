@@ -167,8 +167,8 @@
     "whale_value_at_open": 291446.0094,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 37,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 17.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -189,8 +189,8 @@
     "whale_value_at_open": 291446.0094,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 25,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1931,8 +1931,8 @@
     "whale_value_at_open": 78636.9886,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 23,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 33.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1953,8 +1953,8 @@
     "whale_value_at_open": 88152.6616,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 23,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 33.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1975,8 +1975,8 @@
     "whale_value_at_open": 88152.6616,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 23,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 33.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2111,8 +2111,8 @@
     "whale_value_at_open": 281005.9697,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -2203,8 +2203,8 @@
     "whale_value_at_open": 282996.4565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -2879,7 +2879,7 @@
     "whale_value_at_open": 237230.7181,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "AV23IUa"
@@ -3090,7 +3090,7 @@
     "whale_value_at_open": 240729.194,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "AV23IUa"
@@ -3136,7 +3136,7 @@
     "whale_value_at_open": 242691.8329,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "AV23IUa"
@@ -3253,8 +3253,8 @@
     "whale_value_at_open": 240769.2231,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 10,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -5237,14 +5237,37 @@
     "whale_value_at_open": 31394.9909,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786678730.559064,
+    "fills": 1,
+    "closed_price": 39
+  },
+  {
+    "timestamp": 1786678828,
+    "timestamp_added": 1786678828.5393977,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-lad-2026-08-13",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 334.7,
+    "whale_pct": 1.589,
+    "whale_value_at_open": 21058.6765,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786678828.5394049,
     "fills": 1
   }
 ]
