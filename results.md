@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 03:50:46 (hora de Perú)
+Actualizado: 2026-08-14 03:52:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **93**  ($4,912,177 en total)
+- Apuestas registradas: **94**  ($4,946,773 en total)
 - Resueltas: **90** — 55 ganadas / 35 perdidas (**61%** de acierto)
-- Pendientes: 3
-- Apostadores distintos: 38
+- Pendientes: 4
+- Apostadores distintos: 39
 
 ### Balance
 
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
+| retroactivesource | 0 | 0 | 1 | — | $34,595 | — |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
@@ -67,6 +68,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage | Team Falcons | 1.61 (62¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | DEN vs. ATL: O/U 38.5 | Over 38.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
@@ -126,4 +128,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | +$42,857 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | +$21,191 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | +$14,095 | ✅ Ganada |

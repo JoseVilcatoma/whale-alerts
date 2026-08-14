@@ -1399,5 +1399,20 @@
     "status": "pending",
     "ultimo_fill": 1786697412,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 201,
+    "timestamp": 1786697498,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 34595.448599999996,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1786697498,
+    "fills": 1
   }
 ]
