@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:44:10 (hora de Perú)
+Actualizado: 2026-08-14 00:46:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.99
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 25 | 16 | 5 | +14.41 USD |
 | IMAREALPERSON | 11 | 0 | 2 | +8.36 USD |
 | CORGI8 | 1 | 1 | 14 | +2.17 USD |
-| Lakersfan111 | 0 | 0 | 19 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 22 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 4 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 23 | 25 | 8 | -44.86 USD |
@@ -80,6 +80,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 1.1% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 1.6% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Emiliana Arango vs Venu | Emiliana Arango (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -107,6 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.00 | 33.7% | ✅ ganada | +0.00 |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 0.00 | 0.2% | ❌ perdida | -0.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 0.4% | ❌ perdida | -0.00 |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ❌ perdida | -0.00 |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 93% | 0.00 | 0.4% | ✅ ganada | +0.00 |
-| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 1.1% | ⏳ pendiente | — |
