@@ -1,5 +1,5 @@
 {
-  "bankroll": 1007.3373542205627,
+  "bankroll": 997.3373542205627,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -360,6 +360,11 @@
       "timestamp": 1786679548.785628,
       "bankroll": 1007.34,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786681356.6194398,
+      "bankroll": 997.34,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Red Feet vs QUINTESS\u00caNCIA (BO3) - CCT South America Challengers #2 Playoffs"
     }
   ]
 }
