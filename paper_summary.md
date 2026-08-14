@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:24:46 (hora de Perú)
+Actualizado: 2026-08-14 18:26:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,371.79
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 0 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 16 | 11 | 25 | +42.33 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 26 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 60% | 2.05 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 60% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 45% | 9.06 | 2.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 32% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 58% | 10.00 | 28.8% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 57% | 10.00 | 38.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
-| theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 56% | 10.00 | 538.9% | ⏳ pendiente | — |
