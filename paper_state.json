@@ -1,5 +1,5 @@
 {
-  "bankroll": 1418.3593947707493,
+  "bankroll": 1427.5901640015186,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -790,6 +790,11 @@
       "timestamp": 1786722815.8541157,
       "bankroll": 1418.36,
       "event": "won: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786723491.5310163,
+      "bankroll": 1427.59,
+      "event": "won: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster - Game 4 Winner"
     }
   ]
 }
