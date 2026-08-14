@@ -5571,5 +5571,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786750885.3482552,
     "fills": 1
+  },
+  {
+    "timestamp": 1786750930,
+    "timestamp_added": 1786750930.2853138,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-det-2026-08-14",
+    "title": "Chicago White Sox vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1145.218836,
+    "whale_pct": 0.422,
+    "whale_value_at_open": 271683.9636,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786750930.7751462,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786750999,
+    "timestamp_added": 1786750999.9349093,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-tor-2026-08-14",
+    "title": "New York Yankees vs. Toronto Blue Jays",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 530.16,
+    "whale_pct": 0.187,
+    "whale_value_at_open": 283866.2465,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786750999.9349184,
+    "fills": 1
   }
 ]

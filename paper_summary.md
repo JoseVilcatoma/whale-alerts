@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:42:08 (hora de Perú)
+Actualizado: 2026-08-14 18:44:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 0 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 12 | 8 | 4 | +47.26 USD |
+| wr0ngw4yb3tt0r | 12 | 8 | 6 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
@@ -62,12 +62,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
+| mlb-cws-det-2026-08-14 | SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | New York Yankees (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 75% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 50% | 10.00 | 12.6% | ⏳ pendiente | — |
@@ -96,5 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Counter-Strike: K27 vs MIBR - Map 2 Winn | K27 (BUY) | 43% | 10.00 | 6.8% | ❌ perdida | -10.00 |
 | IMAREALPERSON | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 50% | 10.00 | 42.5% | ❌ perdida | -10.00 |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 1.0% | ⏳ pendiente | — |
