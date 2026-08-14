@@ -1,5 +1,5 @@
 {
-  "bankroll": 1372.6761327994548,
+  "bankroll": 1362.2839759367096,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -735,6 +735,21 @@
       "timestamp": 1786718754.3309238,
       "bankroll": 1372.68,
       "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786719057.1949003,
+      "bankroll": 1362.68,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786719057.5795853,
+      "bankroll": 1352.68,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786719060.7769063,
+      "bankroll": 1362.28,
+      "event": "won: Lakersfan111 \u2014 Games Total: O/U 2.5"
     }
   ]
 }
