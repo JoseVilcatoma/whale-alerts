@@ -2682,5 +2682,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786688472.508314,
     "fills": 1
+  },
+  {
+    "timestamp": 1786689173,
+    "timestamp_added": 1786689174.3527544,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-tr7-og-2026-08-14-game1",
+    "title": "Dota 2: Team Resilience vs OG - Game 1 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "whale_usd": 324.6507,
+    "whale_pct": 0.75,
+    "whale_value_at_open": 43282.874,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786689174.3527634,
+    "fills": 1
   }
 ]
