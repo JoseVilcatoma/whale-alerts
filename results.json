@@ -1669,5 +1669,35 @@
     "status": "pending",
     "ultimo_fill": 1786726098,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 232,
+    "timestamp": 1786727204,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-machac-busta-2026-08-13",
+    "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+    "outcome": "Tomas Machac",
+    "side": "BUY",
+    "usd": 27600.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1786727204,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 233,
+    "timestamp": 1786727204,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-machac-busta-2026-08-13",
+    "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+    "outcome": "Pablo Carreno Busta",
+    "side": "BUY",
+    "usd": 25952.94840000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1786727204,
+    "fills": 1
   }
 ]
