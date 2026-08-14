@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:38:16 (hora de Perú)
+Actualizado: 2026-08-13 19:40:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 0 | 0 | 6 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 8 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 9 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
@@ -32,6 +32,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 60% | 10.00 | 1.9% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 48% | 10.00 | 28.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 94% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 35% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Steelers (BUY) | 59% | 10.00 | 2.1% | ⏳ pendiente | — |
@@ -57,4 +62,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Packers vs. Steelers | Packers (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Red Feet vs QUINTESSÊNCI | Red Feet (BUY) | 57% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Sparks vs. New York Liberty | Los Angeles Sparks (BUY) | 22% | 10.00 | 12.3% | ⏳ pendiente | — |
