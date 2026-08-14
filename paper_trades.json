@@ -4989,8 +4989,8 @@
     "whale_value_at_open": 11660.6394,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6736,5 +6736,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786741136.4064279,
     "fills": 2
+  },
+  {
+    "timestamp": 1786741194,
+    "timestamp_added": 1786741194.9143918,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-flc-gl-2026-08-14",
+    "title": "Dota 2: Team Falcons vs GamerLegion (BO3) - The International Group Stage",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 14.046629,
+    "whale_pct": 0.114,
+    "whale_value_at_open": 12299.5084,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 11,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786741194.914402,
+    "fills": 1
   }
 ]
