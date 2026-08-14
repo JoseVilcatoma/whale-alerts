@@ -1,5 +1,5 @@
 {
-  "bankroll": 1401.1584348111685,
+  "bankroll": 1404.146940558295,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -760,6 +760,16 @@
       "timestamp": 1786720621.1744182,
       "bankroll": 1401.16,
       "event": "won: 1winstreak1 \u2014 LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786720879.2252438,
+      "bankroll": 1402.65,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Aldershot 2 Women: Alana Smith vs Julia Avdeeva"
+    },
+    {
+      "timestamp": 1786720880.3273635,
+      "bankroll": 1404.15,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Aldershot 2 Women: Alana Smith vs Julia Avdeeva"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 10:20:23 (hora de Perú)
+Actualizado: 2026-08-14 10:22:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,401.16
-**Retorno acumulado:** +40.12%
+**Bankroll actual:** $1,404.15
+**Retorno acumulado:** +40.41%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 6 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 41 | -8.19 USD |
+| ferrariChampions2026 | 22 | 10 | 10 | -33.76 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
-| ferrariChampions2026 | 20 | 10 | 12 | -36.74 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 151
-- **Aciertos:** 94 (62.3%)
-- **Cuota promedio de entrada:** 51.7%
+- **Apuestas resueltas:** 153
+- **Aciertos:** 96 (62.7%)
+- **Cuota promedio de entrada:** 52.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,508.66
-- **ROI sobre lo apostado:** +26.53%
+- **Total apostado (suma de stakes):** $1,528.66
+- **ROI sobre lo apostado:** +26.38%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,7 +49,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 28 | 50.0% | 29.5% | +20.5 pp |
 | 40-59% | 70 | 58.6% | 47.3% | +11.3 pp |
 | 60-79% | 30 | 70.0% | 66.5% | +3.5 pp |
-| 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
+| 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -91,7 +91,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 15% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 19% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: B8 vs Vitality (BO3) - E | B8 (BUY) | 8% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Aldershot 2 Women: Alana Smith v | Alana Smith (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Aldershot 2 Women: Alana Smith v | Alana Smith (BUY) | 87% | 10.00 | 0.4% | ✅ ganada | +1.49 |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 0.7% | ⏳ pendiente | — |
