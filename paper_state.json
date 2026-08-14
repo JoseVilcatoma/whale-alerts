@@ -1,5 +1,5 @@
 {
-  "bankroll": 1416.4276379083005,
+  "bankroll": 1440.9103965289903,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -990,6 +990,11 @@
       "timestamp": 1786737913.8395011,
       "bankroll": 1416.43,
       "event": "won: UpTheBlues \u2014 Will Catania FC win on 2026-08-14?"
+    },
+    {
+      "timestamp": 1786739168.217359,
+      "bankroll": 1440.91,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Yorkshire vs Nottinghamshire"
     }
   ]
 }
