@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:55:12 (hora de Perú)
+Actualizado: 2026-08-14 08:57:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,166.87
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 11 | 7 | 5 | +168.15 USD |
-| AV23IUa | 5 | 1 | 11 | +116.21 USD |
+| AV23IUa | 5 | 1 | 12 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | Lakersfan111 | 9 | 4 | 26 | +15.17 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Daniel Merida Aguilar v | Daniel Merida Aguilar (BUY) | 53% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 82% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 73% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: K27 vs MIBR - Map 1 Winn | MIBR (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: Detroit Tigers (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 11.8% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 41% | 10.00 | 8.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 4.2% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
