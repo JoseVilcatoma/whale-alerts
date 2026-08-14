@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:54:15 (hora de Perú)
+Actualizado: 2026-08-14 18:56:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 1 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 12 | 8 | 10 | +47.26 USD |
+| wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
@@ -70,6 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -99,4 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 19% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.4% | ⏳ pendiente | — |
