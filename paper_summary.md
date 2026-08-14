@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:04:50 (hora de Perú)
+Actualizado: 2026-08-14 08:07:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,236.87
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 1 | 8 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
-| Lakersfan111 | 9 | 4 | 21 | +15.17 USD |
+| Lakersfan111 | 9 | 4 | 22 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 9 | +0.00 USD |
 | SDTrading | 0 | 0 | 5 | +0.00 USD |
@@ -66,6 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 17.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 3.0% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 35.8% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -95,4 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 7.3% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 86% | 10.00 | 1.1% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.3% | ⏳ pendiente | — |
