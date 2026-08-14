@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:28:19 (hora de Perú)
+Actualizado: 2026-08-14 17:30:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,395.23
@@ -26,13 +26,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 18 | +0.00 USD |
-| ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
+| ExplosiveNinja | 0 | 0 | 3 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
-| Sassy-Bucket | 1 | 9 | 1 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 2 | -81.82 USD |
 
 ## Análisis general
 
@@ -75,6 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 23% | 10.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -103,5 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 12.6% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 13.1% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 15.5% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 15.1% | ⏳ pendiente | — |
