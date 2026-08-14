@@ -1,5 +1,5 @@
 {
-  "bankroll": 896.2969350135891,
+  "bankroll": 928.3126541770547,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -840,6 +840,141 @@
       "timestamp": 1786684990.1948104,
       "bankroll": 896.3,
       "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1786685107.3973877,
+      "bankroll": 896.3,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685108.5961459,
+      "bankroll": 896.3,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786685109.1968226,
+      "bankroll": 896.3,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1786685111.8775384,
+      "bankroll": 886.3,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685112.357463,
+      "bankroll": 890.38,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685112.6581326,
+      "bankroll": 897.05,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685112.9585605,
+      "bankroll": 887.05,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685113.2508774,
+      "bankroll": 877.05,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685113.7372832,
+      "bankroll": 867.05,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685114.338116,
+      "bankroll": 902.5,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685114.4382374,
+      "bankroll": 898.31,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685115.456757,
+      "bankroll": 898.31,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685115.6570466,
+      "bankroll": 938.31,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685115.9435077,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786685116.1440978,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685116.2442222,
+      "bankroll": 928.31,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685116.344366,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685116.5446417,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685116.6447885,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786685116.7449381,
+      "bankroll": 928.31,
+      "event": "won: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685116.845087,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786685116.9452336,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1786685117.04537,
+      "bankroll": 928.31,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685117.1455173,
+      "bankroll": 928.31,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685117.2456644,
+      "bankroll": 928.31,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786685117.345818,
+      "bankroll": 928.31,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786685117.9248981,
+      "bankroll": 928.31,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
     }
   ]
 }
