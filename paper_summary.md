@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 03:56:36 (hora de Perú)
+Actualizado: 2026-08-14 03:58:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 45 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 47 | +0.00 USD |
 | ActionReaction | 0 | 0 | 7 | +0.00 USD |
 | midwicket72 | 3 | 1 | 2 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
@@ -66,6 +66,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 35% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 67% | 10.00 | 21.0% | ⏳ pendiente | — |
@@ -94,5 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 50% | 10.00 | 61.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 13.2% | ⏳ pendiente | — |
