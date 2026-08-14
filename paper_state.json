@@ -1,5 +1,5 @@
 {
-  "bankroll": 1394.281230871772,
+  "bankroll": 1384.281230871772,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1080,6 +1080,11 @@
       "timestamp": 1786742124.6825361,
       "bankroll": 1394.28,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1786743131.4912627,
+      "bankroll": 1384.28,
+      "event": "lost: IMAREALPERSON \u2014 Valorant: Joblife vs Fnatic - Map 2 Winner"
     }
   ]
 }
