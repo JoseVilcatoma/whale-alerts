@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 23:37:32 (hora de Perú)
+Actualizado: 2026-08-13 23:39:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **90**  ($4,825,677 en total)
-- Resueltas: **81** — 50 ganadas / 31 perdidas (**62%** de acierto)
-- Pendientes: 9
+- Resueltas: **82** — 50 ganadas / 32 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 38
 
 ### Balance
 
-- **Resultado de los apostadores: +$281,179** sobre $4,389,241 apostados (ROI **+6.4%**)
-- Copiando $100 fijo en cada una: **+$63** sobre $7,800 (ROI **+0.8%**)
+- **Resultado de los apostadores: +$244,028** sobre $4,426,392 apostados (ROI **+5.5%**)
+- Copiando $100 fijo en cada una: **-$37** sobre $7,900 (ROI **-0.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | wr0ngw4yb3tt0r | 1 | 0 | 0 | ⚠️ 100% (1) | $42,257 | +$53,782 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
-| huli3882 | 0 | 0 | 1 | — | $37,151 | — |
+| huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
@@ -72,7 +72,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | — | ⏳ Pendiente |
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | — | ⏳ Pendiente |
 | Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | — | ⏳ Pendiente |
-| huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | — | ⏳ Pendiente |
+| huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | -$37,151 | ❌ Perdida |
 | basementdweller3000 | Titans vs. 49ers | Titans | 1.41 (71¢) | $49,700 | +$20,300 | ✅ Ganada |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
