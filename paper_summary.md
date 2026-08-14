@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:33:40 (hora de Perú)
+Actualizado: 2026-08-14 00:35:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $967.18
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 11 | 0 | 2 | +8.36 USD |
 | CORGI8 | 1 | 1 | 14 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 15 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 16 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: PRV (-1.5) vs 100 Thieves  | 100 Thieves (BUY) | 70% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 5.4% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 41% | 0.00 | 0.5% | ✅ ganada | +0.00 |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 52% | 0.00 | 0.6% | ❌ perdida | -0.00 |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ❌ perdida | -10.00 |
