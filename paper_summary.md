@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:03:36 (hora de Perú)
+Actualizado: 2026-08-13 22:05:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $939.69
-**Retorno acumulado:** -6.03%
+**Bankroll actual:** $929.69
+**Retorno acumulado:** -7.03%
 **Peor caída desde un máximo (drawdown):** 9.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,22 +18,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | wr0ngw4yb3tt0r | 2 | 1 | 37 | +11.34 USD |
 | IMAREALPERSON | 7 | 0 | 4 | +5.36 USD |
-| CORGI8 | 0 | 0 | 10 | +0.00 USD |
+| CORGI8 | 0 | 0 | 11 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | AV23IUa | 0 | 0 | 23 | +0.00 USD |
-| ferrariChampions2026 | 10 | 4 | 42 | -22.44 USD |
-| 1winstreak1 | 12 | 12 | 19 | -54.57 USD |
+| ferrariChampions2026 | 10 | 5 | 41 | -32.44 USD |
+| 1winstreak1 | 12 | 12 | 20 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 41
-- **Aciertos:** 24 (58.5%)
-- **Cuota promedio de entrada:** 57.4%
-- **Stake promedio:** $9.51
-- **Total apostado (suma de stakes):** $390.00
-- **ROI sobre lo apostado:** -16.84%
+- **Apuestas resueltas:** 42
+- **Aciertos:** 24 (57.1%)
+- **Cuota promedio de entrada:** 57.2%
+- **Stake promedio:** $9.52
+- **Total apostado (suma de stakes):** $400.00
+- **ROI sobre lo apostado:** -18.92%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,7 +43,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 13.0% | -13.0 pp |
 | 20-39% | 7 | 0.0% | 30.4% | -30.4 pp |
-| 40-59% | 13 | 53.8% | 50.8% | +3.1 pp |
+| 40-59% | 14 | 50.0% | 50.6% | -0.6 pp |
 | 60-79% | 7 | 85.7% | 67.0% | +18.7 pp |
 | 80-94% | 11 | 100.0% | 88.5% | +11.5 pp |
 
@@ -66,12 +66,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-mil-lad-2026-08-13-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| dota2-xtreme-gl-2026-08-13-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | dota2-huliga-vg-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 39% | 1.77 | 1.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 48% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 23% | 0.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 1.2% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Emiliana Arango vs Venu | Emiliana Arango (BUY) | 69% | 0.00 | 0.1% | ⏳ pendiente | — |
@@ -100,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 10.00 | 9.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 55% | 10.00 | 8.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 36% | 10.00 | 0.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 58% | 0.00 | 2.2% | ⏳ pendiente | — |
