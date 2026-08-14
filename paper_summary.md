@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:38:33 (hora de Perú)
+Actualizado: 2026-08-13 21:40:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 31 | +14.57 USD |
+| 1winstreak1 | 2 | 0 | 33 | +14.57 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 30 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 31 | +0.00 USD |
 | CORGI8 | 0 | 0 | 8 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 14 | +0.00 USD |
 | AV23IUa | 0 | 0 | 16 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 44 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 45 | -15.69 USD |
 
 ## Análisis general
 
@@ -68,6 +68,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 75% | 0.00 | 0.9% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 60% | 0.00 | 1.0% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Los Angeles Angels (BUY) | 19% | 0.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Volynets (BUY) | 62% | 0.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: TEN (-6.5) | TEN (BUY) | 47% | 0.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 57% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 52% | 0.00 | 0.6% | ⏳ pendiente | — |
@@ -93,8 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 52% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 42% | 0.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 0.00 | 1.1% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 1.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 0.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | CF Cruz Azul vs. Chicago Fire FC: O/U 1. | Under (BUY) | 73% | 0.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 31% | 0.00 | 1.2% | ⏳ pendiente | — |
