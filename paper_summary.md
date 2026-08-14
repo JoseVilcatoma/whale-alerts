@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:39:24 (hora de Perú)
+Actualizado: 2026-08-14 11:41:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,359.07
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 7 | 35 | +181.85 USD |
+| Lakersfan111 | 23 | 7 | 39 | +181.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
@@ -74,6 +74,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 56% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 56% | 10.00 | 17.6% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 4.1% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: K27 vs MIBR (BO3) - Espo | MIBR (BUY) | 56% | 10.00 | 5.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -100,7 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 0.3% | 💰 vendida anticipada | +0.59 |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 90% | 10.00 | 0.2% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 2.1% | ⏳ pendiente | — |
-| midwicket72 | The Hundred: Manchester Super Giants vs  | Manchester Super Giants (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
