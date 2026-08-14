@@ -1,5 +1,5 @@
 {
-  "bankroll": 1404.146940558295,
+  "bankroll": 1394.146940558295,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -770,6 +770,11 @@
       "timestamp": 1786720880.3273635,
       "bankroll": 1404.15,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Aldershot 2 Women: Alana Smith vs Julia Avdeeva"
+    },
+    {
+      "timestamp": 1786721058.4946344,
+      "bankroll": 1394.15,
+      "event": "lost: ActionReaction \u2014 LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner"
     }
   ]
 }
