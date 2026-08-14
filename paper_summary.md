@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 14:54:01 (hora de Perú)
+Actualizado: 2026-08-14 14:56:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,415.44
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 15 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
-| IMAREALPERSON | 4 | 0 | 6 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 7 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 30% | 10.00 | 4.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 19% | 10.00 | 0.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.0% | ⏳ pendiente | — |
