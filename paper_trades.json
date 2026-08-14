@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": 1786666109,
+    "timestamp_added": 1786666110.2711074,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-la-nyl-2026-08-13",
+    "title": "Los Angeles Sparks vs. New York Liberty",
+    "outcome": "Los Angeles Sparks",
+    "side": "BUY",
+    "whale_usd": 335.74359999999996,
+    "whale_pct": 12.292,
+    "whale_value_at_open": 2731.4565,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 22,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786666110.271116,
+    "fills": 1
+  }
+]
