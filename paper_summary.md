@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:42:01 (hora de Perú)
+Actualizado: 2026-08-14 00:44:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.99
@@ -21,19 +21,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 25 | 16 | 5 | +14.41 USD |
 | IMAREALPERSON | 11 | 0 | 2 | +8.36 USD |
 | CORGI8 | 1 | 1 | 14 | +2.17 USD |
-| Lakersfan111 | 0 | 0 | 18 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 19 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 4 | 1 | 0 | -8.19 USD |
-| ferrariChampions2026 | 23 | 24 | 9 | -44.86 USD |
+| ferrariChampions2026 | 23 | 25 | 8 | -44.86 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 | 1winstreak1 | 38 | 44 | 1 | -86.16 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 210
-- **Aciertos:** 110 (52.4%)
-- **Cuota promedio de entrada:** 51.8%
-- **Stake promedio:** $5.75
+- **Apuestas resueltas:** 211
+- **Aciertos:** 110 (52.1%)
+- **Cuota promedio de entrada:** 51.9%
+- **Stake promedio:** $5.72
 - **Total apostado (suma de stakes):** $1,207.11
 - **ROI sobre lo apostado:** -5.75%
 
@@ -46,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 11 | 18.2% | 14.1% | +4.1 pp |
 | 20-39% | 48 | 27.1% | 29.2% | -2.1 pp |
 | 40-59% | 82 | 48.8% | 50.1% | -1.3 pp |
-| 60-79% | 42 | 69.0% | 67.1% | +1.9 pp |
+| 60-79% | 43 | 67.4% | 67.3% | +0.1 pp |
 | 80-94% | 23 | 95.7% | 87.4% | +8.2 pp |
 | 95-99% (casi seguro) | 4 | 100.0% | 95.8% | +4.2 pp |
 
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Emiliana Arango vs Venu | Emiliana Arango (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 3.4% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ❌ perdida | -0.00 |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 93% | 0.00 | 0.4% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 1.1% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ❌ perdida | -0.00 |
