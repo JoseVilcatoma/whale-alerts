@@ -2572,5 +2572,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786687788.0986345,
     "fills": 1
+  },
+  {
+    "timestamp": 1786687972,
+    "timestamp_added": 1786687972.4522362,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-edg-lgd-2026-08-14",
+    "title": "LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 16.315789000000002,
+    "whale_pct": 0.129,
+    "whale_value_at_open": 12605.2405,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786687972.4522457,
+    "fills": 1
   }
 ]

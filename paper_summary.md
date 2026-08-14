@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:12:31 (hora de Perú)
+Actualizado: 2026-08-14 01:14:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $965.56
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | CORGI8 | 0 | 0 | 6 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 14 | 10 | 6 | -50.01 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -63,6 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 1.1% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Aurora - Game 1 W | Team Spirit (BUY) | 52% | 10.00 | 2.8% | ✅ ganada | +9.23 |
@@ -92,4 +93,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.7% | ✅ ganada | +33.48 |
 | AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.1% | ✅ ganada | +33.48 |
 | AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 6.2% | ✅ ganada | +33.48 |
-| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 1.0% | ✅ ganada | +0.53 |
