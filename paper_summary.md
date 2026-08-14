@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:01:09 (hora de Perú)
+Actualizado: 2026-08-14 07:03:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,216.39
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 11 | 0 | 9 | +238.15 USD |
+| CORGI8 | 11 | 0 | 12 | +238.15 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
@@ -60,19 +60,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
-| lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
-| lol-t1-dk-2026-08-14 | BBQChickenisthebesttt, Lakersfan111 |
-| dota2-liquid-ts8-2026-08-14 | ActionReaction, CORGI8, ferrariChampions2026 |
-| dota2-aur1-ty-2026-08-14 | CORGI8, ferrariChampions2026 |
-| lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
-| dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
-| dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
-| dota2-aur1-ty-2026-08-14-game2 | ActionReaction, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 45% | 10.00 | 4.8% | ⏳ pendiente | — |
+| CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 10.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster - | CTBC Flying Oyster (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Yorkshire vs Not | Nottinghamshire (BUY) | 29% | 10.00 | 11.1% | ⏳ pendiente | — |
@@ -100,6 +95,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Sporting CP vs. Vitória SC: O/U 1.5 | Over (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 72.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
-| UpTheBlues | Will Galatasaray SK win on 2026-08-14? | No (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
