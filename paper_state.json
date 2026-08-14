@@ -1,5 +1,5 @@
 {
-  "bankroll": 1199.6471798732516,
+  "bankroll": 1219.8009564449387,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -560,6 +560,26 @@
       "timestamp": 1786704456.502409,
       "bankroll": 1199.65,
       "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786708019.4339738,
+      "bankroll": 1204.8,
+      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708019.5341177,
+      "bankroll": 1209.95,
+      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708019.8345559,
+      "bankroll": 1214.88,
+      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708020.0349429,
+      "bankroll": 1219.8,
+      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
     }
   ]
 }
