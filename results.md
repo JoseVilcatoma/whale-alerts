@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 00:24:31 (hora de Perú)
+Actualizado: 2026-08-14 00:26:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **91**  ($4,855,677 en total)
-- Resueltas: **87** — 53 ganadas / 34 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **88** — 54 ganadas / 34 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 38
 
 ### Balance
 
-- **Resultado de los apostadores: +$240,598** sobre $4,687,932 apostados (ROI **+5.1%**)
-- Copiando $100 fijo en cada una: **+$32** sobre $8,400 (ROI **+0.4%**)
+- **Resultado de los apostadores: +$280,931** sobre $4,769,820 apostados (ROI **+5.9%**)
+- Copiando $100 fijo en cada una: **+$81** sobre $8,500 (ROI **+1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 0 | 85% | $933,363 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 4 | 1 | 1 | ⚠️ 80% (5) | $327,174 | +$209,276 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | AV23IUa | 2 | 3 | 0 | ⚠️ 40% (5) | $259,293 | -$12,916 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -70,7 +70,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage | Team Yandex | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.49 (67¢) | $81,888 | +$40,333 | ✅ Ganada |
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | -$25,864 | ❌ Perdida |
 | Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | +$26,790 | ✅ Ganada |
 | huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | -$37,151 | ❌ Perdida |
