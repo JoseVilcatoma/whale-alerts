@@ -5246,5 +5246,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786716375.1066742,
     "fills": 4
+  },
+  {
+    "timestamp": 1786716522,
+    "timestamp_added": 1786716522.1895905,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "cricodc-lan-dur-2026-08-14",
+    "title": "Metro Bank One Day Cup: Lancashire vs Durham",
+    "outcome": "Durham",
+    "side": "BUY",
+    "whale_usd": 810.0,
+    "whale_pct": 1.953,
+    "whale_value_at_open": 41481.4928,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786716522.1895993,
+    "fills": 1
   }
 ]
