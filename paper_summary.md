@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:37:34 (hora de Perú)
+Actualizado: 2026-08-13 23:39:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,001.83
-**Retorno acumulado:** +0.18%
+**Bankroll actual:** $993.32
+**Retorno acumulado:** -0.67%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,26 +16,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 0 | 28 | +100.44 USD |
+| AV23IUa | 3 | 1 | 27 | +90.44 USD |
 | IMAREALPERSON | 8 | 0 | 5 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
-| ferrariChampions2026 | 17 | 12 | 27 | -51.50 USD |
-| 1winstreak1 | 12 | 12 | 40 | -54.57 USD |
+| ferrariChampions2026 | 20 | 15 | 21 | -50.01 USD |
+| 1winstreak1 | 13 | 12 | 41 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 76
-- **Aciertos:** 41 (53.9%)
-- **Cuota promedio de entrada:** 53.1%
-- **Stake promedio:** $8.42
-- **Total apostado (suma de stakes):** $640.00
-- **ROI sobre lo apostado:** -1.02%
+- **Apuestas resueltas:** 84
+- **Aciertos:** 45 (53.6%)
+- **Cuota promedio de entrada:** 53.4%
+- **Stake promedio:** $7.86
+- **Total apostado (suma de stakes):** $660.00
+- **ROI sobre lo apostado:** -2.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,11 +43,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 4 | 0.0% | 12.2% | -12.2 pp |
-| 20-39% | 21 | 23.8% | 28.6% | -4.8 pp |
-| 40-59% | 21 | 57.1% | 51.5% | +5.7 pp |
-| 60-79% | 16 | 62.5% | 66.7% | -4.2 pp |
-| 80-94% | 13 | 100.0% | 88.0% | +12.0 pp |
+| 1-19% (bomba) | 5 | 0.0% | 13.6% | -13.6 pp |
+| 20-39% | 23 | 21.7% | 28.5% | -6.7 pp |
+| 40-59% | 22 | 54.5% | 51.5% | +3.0 pp |
+| 60-79% | 17 | 64.7% | 67.2% | -2.5 pp |
+| 80-94% | 16 | 100.0% | 86.9% | +13.1 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -79,6 +79,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 0.00 | 15.4% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 9% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 76% | 0.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 43% | 0.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 48% | 0.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 49% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -105,7 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 2.7% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 79% | 10.00 | 4.7% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 53% | 10.00 | 0.7% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: HULIGANI vs Vici Gaming - Game 2 | HULIGANI (BUY) | 31% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.3% | ⏳ pendiente | — |
