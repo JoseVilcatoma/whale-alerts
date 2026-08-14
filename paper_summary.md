@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 13:08:05 (hora de Perú)
+Actualizado: 2026-08-14 13:10:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,465.17
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | UpTheBlues | 3 | 1 | 5 | +15.62 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| SDTrading | 0 | 0 | 6 | +0.00 USD |
+| SDTrading | 0 | 0 | 7 | +0.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | ActionReaction | 2 | 8 | 0 | -55.13 USD |
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 45% | 10.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 46% | 10.00 | 24.0% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 20.4% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 0.3% | ✅ ganada | +5.87 |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 35% | 10.00 | 12.2% | ❌ perdida | -10.00 |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 53% | 10.00 | 5.4% | ❌ perdida | -10.00 |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 53% | 10.00 | 23.5% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: B8 vs Vitality - Map 1 W | B8 (BUY) | 22% | 10.00 | 0.2% | ❌ perdida | -10.00 |
