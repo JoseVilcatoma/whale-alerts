@@ -1,5 +1,5 @@
 {
-  "bankroll": 928.3126541770547,
+  "bankroll": 961.559431598061,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -975,6 +975,26 @@
       "timestamp": 1786685117.9248981,
       "bankroll": 928.31,
       "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786685295.0531785,
+      "bankroll": 935.55,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685295.2534454,
+      "bankroll": 943.1,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685295.653997,
+      "bankroll": 952.33,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685295.85428,
+      "bankroll": 961.56,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
     }
   ]
 }
