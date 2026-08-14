@@ -1,5 +1,5 @@
 {
-  "bankroll": 922.5736016802557,
+  "bankroll": 892.5736016802557,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -790,6 +790,36 @@
       "timestamp": 1786684495.3872142,
       "bankroll": 922.57,
       "event": "won: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786684550.8415444,
+      "bankroll": 922.57,
+      "event": "lost: 1winstreak1 \u2014 Spread: Texas Rangers (-2.5)"
+    },
+    {
+      "timestamp": 1786684552.2589943,
+      "bankroll": 922.57,
+      "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Angels (-2.5)"
+    },
+    {
+      "timestamp": 1786684552.4592795,
+      "bankroll": 922.57,
+      "event": "won: 1winstreak1 \u2014 Spread: Texas Rangers (-2.5)"
+    },
+    {
+      "timestamp": 1786684553.8612607,
+      "bankroll": 912.57,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Angels (-2.5)"
+    },
+    {
+      "timestamp": 1786684554.061521,
+      "bankroll": 902.57,
+      "event": "lost: 1winstreak1 \u2014 Spread: Texas Rangers (-2.5)"
+    },
+    {
+      "timestamp": 1786684555.8640304,
+      "bankroll": 892.57,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Angels (-2.5)"
     }
   ]
 }
