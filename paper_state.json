@@ -1,5 +1,5 @@
 {
-  "bankroll": 1174.935784254312,
+  "bankroll": 1229.6471798732516,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -520,6 +520,26 @@
       "timestamp": 1786703142.169116,
       "bankroll": 1174.94,
       "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786703519.122665,
+      "bankroll": 1189.33,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786703519.3229666,
+      "bankroll": 1203.14,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786703519.5232356,
+      "bankroll": 1216.39,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786703519.6234353,
+      "bankroll": 1229.65,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
     }
   ]
 }
