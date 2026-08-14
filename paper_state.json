@@ -1,5 +1,5 @@
 {
-  "bankroll": 1395.39315514968,
+  "bankroll": 1394.281230871772,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1035,6 +1035,51 @@
       "timestamp": 1786742001.1855445,
       "bankroll": 1395.39,
       "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 7.5"
+    },
+    {
+      "timestamp": 1786742062.5540314,
+      "bankroll": 1385.39,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742064.7572832,
+      "bankroll": 1391.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742064.9575891,
+      "bankroll": 1398.18,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742065.057992,
+      "bankroll": 1388.18,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742065.1581438,
+      "bankroll": 1378.18,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742065.3584616,
+      "bankroll": 1384.85,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742065.5587819,
+      "bankroll": 1390.47,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742065.859274,
+      "bankroll": 1380.47,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786742124.6825361,
+      "bankroll": 1394.28,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Chicago Cubs (-1.5)"
     }
   ]
 }

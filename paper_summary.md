@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:13:36 (hora de Perú)
+Actualizado: 2026-08-14 16:15:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,395.39
-**Retorno acumulado:** +39.54%
+**Bankroll actual:** $1,394.28
+**Retorno acumulado:** +39.43%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,11 +19,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 25 | 2 | 2 | +113.28 USD |
-| wr0ngw4yb3tt0r | 11 | 7 | 19 | +43.45 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 10 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
-| Weaseloftheweek | 0 | 0 | 5 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 6 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | IMAREALPERSON | 4 | 3 | 26 | -29.04 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 206
-- **Aciertos:** 125 (60.7%)
-- **Cuota promedio de entrada:** 53.4%
+- **Apuestas resueltas:** 215
+- **Aciertos:** 130 (60.5%)
+- **Cuota promedio de entrada:** 53.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,058.66
-- **ROI sobre lo apostado:** +19.16%
+- **Total apostado (suma de stakes):** $2,148.66
+- **ROI sobre lo apostado:** +18.30%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,9 +48,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
-| 20-39% | 37 | 51.4% | 29.8% | +21.6 pp |
-| 40-59% | 84 | 51.2% | 47.8% | +3.4 pp |
-| 60-79% | 58 | 74.1% | 66.6% | +7.5 pp |
+| 20-39% | 41 | 46.3% | 30.1% | +16.3 pp |
+| 40-59% | 85 | 51.8% | 47.7% | +4.1 pp |
+| 60-79% | 62 | 75.8% | 66.3% | +9.5 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -71,6 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 50% | 10.00 | 89.9% | ⏳ pendiente | — |
 | Weaseloftheweek | Cincinnati Open: Xinyu Wang vs Hanne Van | Hanne Vandewinkel (BUY) | 45% | 10.00 | 9.5% | ⏳ pendiente | — |
 | Talvez10 | Washington Nationals vs. New York Mets:  | Over (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 50% | 10.00 | 6.1% | ⏳ pendiente | — |
@@ -100,4 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 1.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
-| Weaseloftheweek | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 24% | 10.00 | 2.4% | ⏳ pendiente | — |
