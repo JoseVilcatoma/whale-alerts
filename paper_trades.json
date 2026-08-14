@@ -4310,5 +4310,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786711875.039599,
     "fills": 2
+  },
+  {
+    "timestamp": 1786712043,
+    "timestamp_added": 1786712044.0270758,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-mvk-cfo-2026-08-14",
+    "title": "LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage",
+    "outcome": "MVK Esports",
+    "side": "BUY",
+    "whale_usd": 7068.493700000001,
+    "whale_pct": 7.021,
+    "whale_value_at_open": 100676.5614,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786712056.2649908,
+    "fills": 2
   }
 ]
