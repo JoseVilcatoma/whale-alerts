@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:15:05 (hora de Perú)
+Actualizado: 2026-08-13 20:17:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 21 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 13 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 3 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 5 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -34,6 +34,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 4.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Patriots | Patriots (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | LoL: T1 Academy vs Dplus KIA Challengers | Dplus KIA Challengers (BUY) | 33% | 10.00 | 10.7% | ⏳ pendiente | — |
@@ -62,5 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 60% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 48% | 10.00 | 28.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Brownsburg: Quinn Vandecasteele vs Trist | Tristan Schoolkate (BUY) | 94% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
