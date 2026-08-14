@@ -6332,5 +6332,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786682683.5806422,
     "fills": 1
+  },
+  {
+    "timestamp": 1786682917,
+    "timestamp_added": 1786682918.5009167,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mil-lad-2026-08-13",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 651.9977,
+    "whale_pct": 0.452,
+    "whale_value_at_open": 144218.4738,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786682919.0228817,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786682934,
+    "timestamp_added": 1786682934.8555396,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-lad-2026-08-13-spread-away-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 49.01,
+    "whale_pct": 0.308,
+    "whale_value_at_open": 15913.4062,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786682934.8555465,
+    "fills": 1
   }
 ]
