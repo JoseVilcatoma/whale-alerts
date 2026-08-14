@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:01:02 (hora de Perú)
+Actualizado: 2026-08-14 16:03:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,430.91
-**Retorno acumulado:** +43.09%
+**Bankroll actual:** $1,390.91
+**Retorno acumulado:** +39.09%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
-| Lakersfan111 | 26 | 8 | 2 | +185.32 USD |
+| Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 25 | 2 | 2 | +113.28 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 19 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 20 | +18.97 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 4 | +0.00 USD |
-| IMAREALPERSON | 4 | 1 | 28 | -9.04 USD |
+| IMAREALPERSON | 4 | 3 | 26 | -29.04 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
@@ -33,12 +33,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 199
-- **Aciertos:** 124 (62.3%)
+- **Apuestas resueltas:** 203
+- **Aciertos:** 124 (61.1%)
 - **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,988.66
-- **ROI sobre lo apostado:** +21.62%
+- **Total apostado (suma de stakes):** $2,028.66
+- **ROI sobre lo apostado:** +19.22%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,8 +48,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 36 | 50.0% | 29.8% | +20.2 pp |
-| 40-59% | 79 | 54.4% | 47.9% | +6.6 pp |
-| 60-79% | 57 | 75.4% | 66.5% | +8.9 pp |
+| 40-59% | 82 | 52.4% | 47.7% | +4.7 pp |
+| 60-79% | 58 | 74.1% | 66.6% | +7.5 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -70,6 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 50% | 10.00 | 6.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 4.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -99,4 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Weaseloftheweek | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 24% | 10.00 | 2.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Weaseloftheweek | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 56% | 10.00 | 3.0% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
