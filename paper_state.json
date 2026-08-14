@@ -1,5 +1,5 @@
 {
-  "bankroll": 1159.012151643373,
+  "bankroll": 1216.3913659197633,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -505,6 +505,36 @@
       "timestamp": 1786693030.7805085,
       "bankroll": 1159.01,
       "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Game Handicap: TY (-1.5) vs Team Liquid (+1.5)"
+    },
+    {
+      "timestamp": 1786708741.3526332,
+      "bankroll": 1168.62,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786708741.7878804,
+      "bankroll": 1184.94,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708743.6988363,
+      "bankroll": 1174.94,
+      "event": "lost: UpTheBlues \u2014 Astana: Sergey Fomin vs Masamichi Imamura"
+    },
+    {
+      "timestamp": 1786708746.9709435,
+      "bankroll": 1189.33,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708747.2462604,
+      "bankroll": 1203.14,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708747.446596,
+      "bankroll": 1216.39,
+      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
     }
   ]
 }
