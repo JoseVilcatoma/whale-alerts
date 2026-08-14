@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:23:02 (hora de Perú)
+Actualizado: 2026-08-13 23:25:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $997.34
-**Retorno acumulado:** -0.27%
+**Bankroll actual:** $1,001.83
+**Retorno acumulado:** +0.18%
 **Peor caída desde un máximo (drawdown):** 13.17%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -22,18 +22,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
-| wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
+| wr0ngw4yb3tt0r | 9 | 11 | 21 | -0.89 USD |
 | ferrariChampions2026 | 17 | 12 | 27 | -51.50 USD |
 | 1winstreak1 | 12 | 12 | 36 | -54.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 69
-- **Aciertos:** 39 (56.5%)
-- **Cuota promedio de entrada:** 54.9%
-- **Stake promedio:** $8.84
-- **Total apostado (suma de stakes):** $610.00
-- **ROI sobre lo apostado:** -1.80%
+- **Apuestas resueltas:** 76
+- **Aciertos:** 41 (53.9%)
+- **Cuota promedio de entrada:** 53.1%
+- **Stake promedio:** $8.42
+- **Total apostado (suma de stakes):** $640.00
+- **ROI sobre lo apostado:** -1.02%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -42,8 +42,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 4 | 0.0% | 12.2% | -12.2 pp |
-| 20-39% | 16 | 31.2% | 28.9% | +2.4 pp |
-| 40-59% | 19 | 52.6% | 50.8% | +1.8 pp |
+| 20-39% | 21 | 23.8% | 28.6% | -4.8 pp |
+| 40-59% | 21 | 57.1% | 51.5% | +5.7 pp |
 | 60-79% | 16 | 62.5% | 66.7% | -4.2 pp |
 | 80-94% | 13 | 100.0% | 88.0% | +12.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |

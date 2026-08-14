@@ -1,5 +1,5 @@
 {
-  "bankroll": 997.3373542205627,
+  "bankroll": 1001.8303664120584,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -365,6 +365,41 @@
       "timestamp": 1786681356.6194398,
       "bankroll": 997.34,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Red Feet vs QUINTESS\u00caNCIA (BO3) - CCT South America Challengers #2 Playoffs"
+    },
+    {
+      "timestamp": 1786681425.3656545,
+      "bankroll": 987.34,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681425.7662165,
+      "bankroll": 994.29,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681425.8665304,
+      "bankroll": 1001.83,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681431.1144092,
+      "bankroll": 1001.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681431.9020073,
+      "bankroll": 1001.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681432.602985,
+      "bankroll": 1001.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786681436.823175,
+      "bankroll": 1001.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
     }
   ]
 }
