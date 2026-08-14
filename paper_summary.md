@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 02:37:22 (hora de Perú)
+Actualizado: 2026-08-14 02:39:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,159.01
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 6 | 0 | 13 | +170.76 USD |
+| CORGI8 | 6 | 0 | 14 | +170.76 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
@@ -64,7 +64,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 13.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 42% | 10.00 | 2.0% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -93,4 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Galatasaray SK win on 2026-08-14? | No (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Cincinnati Open: Elisabetta Cocciaretto  | Lucrezia Stefanini (BUY) | 33% | 10.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Will Catania FC win on 2026-08-14? | No (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
