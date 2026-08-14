@@ -1,5 +1,5 @@
 {
-  "bankroll": 1372.5479257623497,
+  "bankroll": 1386.7384576150675,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -865,6 +865,16 @@
       "timestamp": 1786725921.9887645,
       "bankroll": 1372.55,
       "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786725989.625779,
+      "bankroll": 1379.5,
+      "event": "won: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786725989.7258759,
+      "bankroll": 1386.74,
+      "event": "won: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }
