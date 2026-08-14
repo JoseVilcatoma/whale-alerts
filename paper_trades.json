@@ -565,8 +565,8 @@
     "whale_value_at_open": 281841.9848,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -609,8 +609,8 @@
     "whale_value_at_open": 278273.2779,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1332,5 +1332,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786670296.8075972,
     "fills": 1
+  },
+  {
+    "timestamp": 1786670397,
+    "timestamp_added": 1786670397.8111265,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 26132.0,
+    "whale_pct": 26.301,
+    "whale_value_at_open": 99355.7332,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786670398.2940977,
+    "fills": 2
   }
 ]

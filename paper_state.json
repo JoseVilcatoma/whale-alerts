@@ -1,4 +1,15 @@
 {
-  "bankroll": 1000.0,
-  "history": []
+  "bankroll": 1001.7391304347825,
+  "history": [
+    {
+      "timestamp": 1786670410.4873557,
+      "bankroll": 1000.87,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Shelton vs Nakashima"
+    },
+    {
+      "timestamp": 1786670410.6876256,
+      "bankroll": 1001.74,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Shelton vs Nakashima"
+    }
+  ]
 }
