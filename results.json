@@ -1384,5 +1384,20 @@
     "status": "pending",
     "ultimo_fill": 1786697055,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 200,
+    "timestamp": 1786697412,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ironwi-flc-2026-08-14",
+    "title": "Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 29999.999999000003,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1786697412,
+    "fills": 1
   }
 ]
