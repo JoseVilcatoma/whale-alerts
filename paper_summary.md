@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:36:42 (hora de Perú)
+Actualizado: 2026-08-14 17:38:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,395.23
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 0 | +106.44 USD |
-| wr0ngw4yb3tt0r | 16 | 11 | 22 | +42.33 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 23 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | UpTheBlues | 6 | 1 | 2 | +34.40 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
-| Sassy-Bucket | 1 | 9 | 3 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
 
 ## Análisis general
 
@@ -75,6 +75,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 52% | 10.00 | 12.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 10.00 | 14.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 3.8% | ⏳ pendiente | — |
@@ -102,6 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 6.6% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 8.1% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 8.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 8.1% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 9.8% | ⏳ pendiente | — |
