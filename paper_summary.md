@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:55:25 (hora de Perú)
+Actualizado: 2026-08-14 06:57:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,222.02
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 13 | 2 | 15 | +243.63 USD |
+| CORGI8 | 13 | 2 | 17 | +243.63 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 5 | 2 | 6 | +0.16 USD |
+| ActionReaction | 5 | 2 | 9 | +0.16 USD |
 | Lakersfan111 | 0 | 0 | 54 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 6 | -8.19 USD |
@@ -68,11 +68,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
 | dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
+| dota2-aur1-ty-2026-08-14-game2 | ActionReaction, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 41% | 10.00 | 2.2% | ⏳ pendiente | — |
+| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 5.8% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 41% | 10.00 | 8.1% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 63% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -98,8 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 1.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.5% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 44.9% | ⏳ pendiente | — |
-| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ActionReaction | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 24% | 10.00 | 22.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
