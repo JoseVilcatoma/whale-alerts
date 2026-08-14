@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:48:06 (hora de Perú)
+Actualizado: 2026-08-13 23:50:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 9 | 11 | 24 | -0.89 USD |
+| wr0ngw4yb3tt0r | 9 | 11 | 25 | -0.89 USD |
 | ferrariChampions2026 | 21 | 17 | 18 | -50.01 USD |
-| 1winstreak1 | 15 | 13 | 43 | -55.70 USD |
+| 1winstreak1 | 15 | 13 | 44 | -55.70 USD |
 
 ## Análisis general
 
@@ -64,6 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-ty-liquid-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
 | dota2-xtreme-gl-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
+| mlb-mil-lad-2026-08-13 | 1winstreak1, wr0ngw4yb3tt0r |
 | wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
 | mlb-tex-laa-2026-08-13-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
@@ -79,6 +80,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 41% | 0.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 52% | 0.00 | 0.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 8.87 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -107,5 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 12% | 10.00 | 0.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 44% | 10.00 | 15.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 10.00 | 2.2% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 76% | 10.00 | 3.1% | ⏳ pendiente | — |
