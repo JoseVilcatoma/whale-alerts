@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:28:11 (hora de Perú)
+Actualizado: 2026-08-14 16:30:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,394.28
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
 | Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
-| 111111111115 | 0 | 0 | 4 | +0.00 USD |
+| 111111111115 | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | IMAREALPERSON | 4 | 3 | 26 | -29.04 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
@@ -73,6 +73,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 13.1% | ⏳ pendiente | — |
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 15.5% | ⏳ pendiente | — |
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 15.1% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 62% | 10.00 | 49.5% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 66% | 10.00 | 46.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 66% | 10.00 | 46.9% | ⏳ pendiente | — |
@@ -99,7 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 2.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Dolphins vs. Commanders | Commanders (BUY) | 37% | 10.00 | 10.4% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.1% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
