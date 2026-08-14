@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 19:34:10 (hora de Perú)
+Actualizado: 2026-08-13 19:36:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -17,19 +17,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 0 | 0 | 5 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 5 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 7 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 10 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Steelers | Steelers (BUY) | 59% | 10.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Ben Shelton (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | National Bank Open: Ben Shelton vs Brand | Brandon Nakashima (BUY) | 23% | 10.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Patriots | Colts (BUY) | 42% | 10.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels: O/ | Under (BUY) | 52% | 10.00 | 21.8% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 58% | 10.00 | 3.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Philadelphia Phillies (BUY) | 52% | 10.00 | 2.5% | ⏳ pendiente | — |
