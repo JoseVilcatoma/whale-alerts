@@ -5340,5 +5340,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786716714.5387871,
     "fills": 2
+  },
+  {
+    "timestamp": 1786716731,
+    "timestamp_added": 1786716731.6891193,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "whale_usd": 276.190476,
+    "whale_pct": 0.106,
+    "whale_value_at_open": 261591.2388,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786716731.6891284,
+    "fills": 1
   }
 ]
