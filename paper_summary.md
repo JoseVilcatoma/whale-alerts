@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:52:19 (hora de Perú)
+Actualizado: 2026-08-13 23:54:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.19
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 25 | -0.89 USD |
 | ferrariChampions2026 | 21 | 17 | 18 | -50.01 USD |
-| 1winstreak1 | 15 | 13 | 48 | -55.70 USD |
+| 1winstreak1 | 15 | 13 | 52 | -55.70 USD |
 
 ## Análisis general
 
@@ -80,6 +80,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 83% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 30% | 0.00 | 0.8% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 2.7% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Los Angeles Dodgers (BUY) | 69% | 0.00 | 33.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 22% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 44% | 0.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 29% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -106,7 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 81% | 0.00 | 2.2% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 94% | 4.49 | 0.8% | ⏳ pendiente | — |
-| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.4% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 43% | 10.00 | 14.4% | ⏳ pendiente | — |
