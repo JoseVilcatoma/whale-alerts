@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:25:03 (hora de Perú)
+Actualizado: 2026-08-13 23:27:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,001.83
@@ -16,15 +16,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 0 | 26 | +100.44 USD |
+| AV23IUa | 3 | 0 | 27 | +100.44 USD |
 | IMAREALPERSON | 8 | 0 | 5 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 1 | +0.00 USD |
+| vtcchampion52 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 9 | 11 | 21 | -0.89 USD |
 | ferrariChampions2026 | 17 | 12 | 27 | -51.50 USD |
-| 1winstreak1 | 12 | 12 | 36 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 40 | -54.57 USD |
 
 ## Análisis general
 
@@ -76,6 +78,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 1.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 85% | 0.00 | 0.5% | ⏳ pendiente | — |
+| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 0.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 60% | 0.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 81% | 0.00 | 2.2% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 94% | 4.49 | 0.8% | ⏳ pendiente | — |
+| vtcchampion52 | Dota 2: Team Yandex vs Team Liquid (BO3) | Team Liquid (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 43% | 10.00 | 14.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 13% | 4.19 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 22% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 12% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -97,12 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 51% | 10.00 | 12.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.9% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 60% | 10.00 | 1.6% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 30% | 10.00 | 4.2% | 💰 vendida anticipada | +3.00 |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 3.46 | 0.8% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 71% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Spirit vs Aurora - Game 2 W | Aurora (BUY) | 45% | 10.00 | 10.9% | ⏳ pendiente | — |
