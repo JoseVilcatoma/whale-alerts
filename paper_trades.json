@@ -7218,5 +7218,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786743128.7555335,
     "fills": 1
+  },
+  {
+    "timestamp": 1786743152,
+    "timestamp_added": 1786743152.7654197,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "whale_usd": 3261.5635,
+    "whale_pct": 8.092,
+    "whale_value_at_open": 40307.8289,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786743152.7654269,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786743174,
+    "timestamp_added": 1786743175.4601605,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "whale_usd": 3273.4065,
+    "whale_pct": 6.56,
+    "whale_value_at_open": 49897.4838,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786743175.460168,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786743195,
+    "timestamp_added": 1786743195.93597,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "whale_usd": 3281.824,
+    "whale_pct": 6.577,
+    "whale_value_at_open": 49897.4838,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786743195.935977,
+    "fills": 1
   }
 ]
