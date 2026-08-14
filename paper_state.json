@@ -1,5 +1,5 @@
 {
-  "bankroll": 903.1461161702555,
+  "bankroll": 919.6341652744951,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -255,6 +255,31 @@
       "timestamp": 1786678109.5611565,
       "bankroll": 903.15,
       "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786678534.489602,
+      "bankroll": 893.15,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786678535.0784686,
+      "bankroll": 899.81,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Team Envy vs M80 (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1786678535.47904,
+      "bankroll": 909.42,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786678535.9797795,
+      "bankroll": 915.55,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786678540.2753608,
+      "bankroll": 919.63,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
     }
   ]
 }
