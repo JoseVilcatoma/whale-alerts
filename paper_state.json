@@ -1,5 +1,5 @@
 {
-  "bankroll": 1415.4386269192896,
+  "bankroll": 1416.4276379083005,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -985,6 +985,11 @@
       "timestamp": 1786732631.9197996,
       "bankroll": 1415.44,
       "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786737913.8395011,
+      "bankroll": 1416.43,
+      "event": "won: UpTheBlues \u2014 Will Catania FC win on 2026-08-14?"
     }
   ]
 }
