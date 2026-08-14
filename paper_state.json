@@ -1,5 +1,5 @@
 {
-  "bankroll": 1369.737981436882,
+  "bankroll": 1371.7861742079663,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1165,6 +1165,11 @@
       "timestamp": 1786749310.2720613,
       "bankroll": 1369.74,
       "event": "won: ActionReaction \u2014 LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786749804.498571,
+      "bankroll": 1371.79,
+      "event": "won: UpTheBlues \u2014 Sporting CP vs. Vit\u00f3ria SC: O/U 1.5"
     }
   ]
 }
