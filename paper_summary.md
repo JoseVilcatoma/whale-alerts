@@ -60,6 +60,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
+| lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
+| lol-t1-dk-2026-08-14 | BBQChickenisthebesttt, Lakersfan111 |
+| dota2-liquid-ts8-2026-08-14 | ActionReaction, CORGI8, ferrariChampions2026 |
+| dota2-aur1-ty-2026-08-14 | CORGI8, ferrariChampions2026 |
+| lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
+| dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
+| dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
+| dota2-aur1-ty-2026-08-14-game2 | ActionReaction, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
