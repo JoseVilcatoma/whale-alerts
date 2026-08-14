@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:03:26 (hora de Perú)
+Actualizado: 2026-08-14 17:05:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,384.28
-**Retorno acumulado:** +38.43%
+**Bankroll actual:** $1,392.46
+**Retorno acumulado:** +39.25%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 16 | 11 | 17 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| UpTheBlues | 4 | 1 | 4 | +16.61 USD |
+| UpTheBlues | 5 | 1 | 3 | +24.79 USD |
 | Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 2 | +0.00 USD |
 | 111111111115 | 0 | 0 | 18 | +0.00 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 216
-- **Aciertos:** 130 (60.2%)
+- **Apuestas resueltas:** 217
+- **Aciertos:** 131 (60.4%)
 - **Cuota promedio de entrada:** 53.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,158.66
-- **ROI sobre lo apostado:** +17.75%
+- **Total apostado (suma de stakes):** $2,168.66
+- **ROI sobre lo apostado:** +18.05%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 41 | 46.3% | 30.1% | +16.3 pp |
-| 40-59% | 86 | 51.2% | 47.8% | +3.4 pp |
+| 40-59% | 87 | 51.7% | 47.9% | +3.8 pp |
 | 60-79% | 62 | 75.8% | 66.3% | +9.5 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
