@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:57:39 (hora de Perú)
+Actualizado: 2026-08-14 17:59:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,390.68
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 1 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 25 | -39.04 USD |
+| IMAREALPERSON | 4 | 4 | 27 | -39.04 USD |
 | Weaseloftheweek | 0 | 4 | 4 | -40.00 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
 | Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
@@ -76,6 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 10.00 | 0.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 10.00 | 33.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 59% | 5.23 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -104,5 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 3.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: DEN (-3.5) | ATL (BUY) | 50% | 10.00 | 1.6% | ⏳ pendiente | — |
 | Talvez10 | UFC 330: Vicente Luque vs. Tresean Gore  | Vicente Luque (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 39% | 10.00 | 2.3% | ⏳ pendiente | — |
