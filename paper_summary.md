@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:48:17 (hora de Perú)
+Actualizado: 2026-08-13 20:50:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,017.71
@@ -19,12 +19,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 2 | 0 | 18 | +14.57 USD |
 | ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
-| CORGI8 | 0 | 0 | 3 | +0.00 USD |
+| CORGI8 | 0 | 0 | 4 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
-| midwicket72 | 0 | 0 | 3 | +0.00 USD |
+| midwicket72 | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 2 | +0.00 USD |
 | IMAREALPERSON | 0 | 0 | 4 | +0.00 USD |
-| AV23IUa | 0 | 0 | 6 | +0.00 USD |
+| AV23IUa | 0 | 0 | 7 | +0.00 USD |
 
 ## Análisis general
 
@@ -56,6 +56,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 6.2% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 1.0% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 10.00 | 3.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 28.2% | ⏳ pendiente | — |
@@ -83,6 +86,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 93% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chargers vs. Texans | Chargers (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Patriots | Patriots (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
-| 1winstreak1 | LoL: T1 Academy vs Dplus KIA Challengers | Dplus KIA Challengers (BUY) | 33% | 10.00 | 10.7% | ⏳ pendiente | — |
