@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:54:59 (hora de Perú)
+Actualizado: 2026-08-14 04:57:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,165.33
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 50 | +0.00 USD |
 | ActionReaction | 0 | 0 | 10 | +0.00 USD |
-| BBQChickenisthebesttt | 0 | 0 | 7 | +0.00 USD |
+| BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
@@ -72,6 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.1% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 2.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -100,4 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 23.6% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Xtreme Gaming vs HULIGANI - Game | Xtreme Gaming (BUY) | 67% | 10.00 | 28.1% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 35% | 10.00 | 0.9% | ⏳ pendiente | — |
