@@ -1,5 +1,5 @@
 {
-  "bankroll": 1018.6577582363159,
+  "bankroll": 999.8310301575971,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -35,6 +35,41 @@
       "timestamp": 1786672227.575944,
       "bankroll": 1018.66,
       "event": "venta anticipada: IMAREALPERSON \u2014 LoL: University of Mississippi vs Dorado Gaming (BO3) - North American Challengers League Group Stage (+0.95 USD)"
+    },
+    {
+      "timestamp": 1786673845.7903624,
+      "bankroll": 1023.81,
+      "event": "won: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673847.3838692,
+      "bankroll": 1013.81,
+      "event": "lost: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673847.4839947,
+      "bankroll": 1016.97,
+      "event": "won: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673848.084849,
+      "bankroll": 1006.97,
+      "event": "lost: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673848.184996,
+      "bankroll": 1008.6,
+      "event": "won: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673849.2982569,
+      "bankroll": 1009.83,
+      "event": "won: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786673849.4985404,
+      "bankroll": 999.83,
+      "event": "lost: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
     }
   ]
 }
