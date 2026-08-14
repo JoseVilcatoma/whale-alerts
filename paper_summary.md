@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:29:00 (hora de Perú)
+Actualizado: 2026-08-14 11:31:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,347.59
-**Retorno acumulado:** +34.76%
+**Bankroll actual:** $1,357.89
+**Retorno acumulado:** +35.79%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,14 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 6 | 25 | +191.85 USD |
+| Lakersfan111 | 23 | 7 | 24 | +181.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
+| UpTheBlues | 3 | 1 | 5 | +15.62 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
-| UpTheBlues | 2 | 1 | 6 | -4.68 USD |
+| bigspending | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 45 | -8.19 USD |
 | ferrariChampions2026 | 22 | 10 | 10 | -33.76 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
@@ -33,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 166
-- **Aciertos:** 99 (59.6%)
-- **Cuota promedio de entrada:** 51.8%
+- **Apuestas resueltas:** 168
+- **Aciertos:** 100 (59.5%)
+- **Cuota promedio de entrada:** 51.5%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,658.66
-- **ROI sobre lo apostado:** +20.90%
+- **Total apostado (suma de stakes):** $1,678.66
+- **ROI sobre lo apostado:** +21.26%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
-| 20-39% | 32 | 50.0% | 29.8% | +20.2 pp |
+| 20-39% | 34 | 50.0% | 29.7% | +20.3 pp |
 | 40-59% | 78 | 53.8% | 47.8% | +6.0 pp |
 | 60-79% | 31 | 67.7% | 66.7% | +1.0 pp |
 | 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
@@ -73,6 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| bigspending | Will Cagliari Calcio win on 2026-08-14? | Yes (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 13.7% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 51% | 10.00 | 16.0% | ⏳ pendiente | — |
@@ -102,4 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 31% | 10.00 | 1.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 1.9% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 1.3% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Shifters vs SK Gaming (BO3) - LEC R | Shifters (BUY) | 45% | 10.00 | 4.6% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 1347.5901640015186,
+  "bankroll": 1357.8931943045488,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -835,6 +835,16 @@
       "timestamp": 1786724803.04447,
       "bankroll": 1347.59,
       "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786724990.449719,
+      "bankroll": 1367.89,
+      "event": "won: UpTheBlues \u2014 Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1786724993.4915757,
+      "bankroll": 1357.89,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality - Map 1 Winner"
     }
   ]
 }
