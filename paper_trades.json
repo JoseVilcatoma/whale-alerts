@@ -8323,5 +8323,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786748617.4879856,
     "fills": 1
+  },
+  {
+    "timestamp": 1786748732,
+    "timestamp_added": 1786748732.9880297,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "arg-rac-ban-2026-08-14-rac",
+    "title": "Will Racing Club win on 2026-08-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 21163.35,
+    "whale_pct": 15.277,
+    "whale_value_at_open": 138527.5595,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786748732.9880369,
+    "fills": 1
   }
 ]
