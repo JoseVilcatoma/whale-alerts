@@ -1,5 +1,5 @@
 {
-  "bankroll": 1032.3306731094626,
+  "bankroll": 1043.3428324494864,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -575,6 +575,111 @@
       "timestamp": 1786684235.8759604,
       "bankroll": 1032.33,
       "event": "lost: ferrariChampions2026 \u2014 CF Cruz Azul vs. Chicago Fire FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786684298.8506048,
+      "bankroll": 1032.33,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786684302.5561182,
+      "bankroll": 1022.33,
+      "event": "lost: 1winstreak1 \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1786684357.8564386,
+      "bankroll": 1036.14,
+      "event": "won: AV23IUa \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684360.2408414,
+      "bankroll": 1048.1,
+      "event": "won: AV23IUa \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684361.242245,
+      "bankroll": 1048.1,
+      "event": "lost: ferrariChampions2026 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684361.5427027,
+      "bankroll": 1048.1,
+      "event": "won: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684361.822122,
+      "bankroll": 1048.1,
+      "event": "lost: ferrariChampions2026 \u2014 CF Cruz Azul vs. Chicago Fire FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1786684362.122578,
+      "bankroll": 1048.1,
+      "event": "lost: ferrariChampions2026 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684362.7233593,
+      "bankroll": 1048.1,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684362.823503,
+      "bankroll": 1048.1,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684362.9236488,
+      "bankroll": 1048.1,
+      "event": "won: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684363.0237997,
+      "bankroll": 1048.1,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684363.919796,
+      "bankroll": 1048.1,
+      "event": "lost: ferrariChampions2026 \u2014 Will CF Cruz Azul vs. Chicago Fire FC end in a draw?"
+    },
+    {
+      "timestamp": 1786684365.0244546,
+      "bankroll": 1048.1,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684365.1245992,
+      "bankroll": 1048.1,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684366.0259113,
+      "bankroll": 1038.1,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684366.126059,
+      "bankroll": 1044.49,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684366.9253476,
+      "bankroll": 1034.49,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684367.5085645,
+      "bankroll": 1039.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684367.6086886,
+      "bankroll": 1043.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786684368.7102554,
+      "bankroll": 1043.34,
+      "event": "lost: 1winstreak1 \u2014 Texas Rangers vs. Los Angeles Angels"
     }
   ]
 }
