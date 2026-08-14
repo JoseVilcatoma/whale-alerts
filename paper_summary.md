@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 17:42:58 (hora de Perú)
+Actualizado: 2026-08-14 17:45:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,395.23
@@ -27,6 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 20 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 3 | +0.00 USD |
+| theowalcott | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -75,6 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 56% | 10.00 | 538.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 52% | 10.00 | 12.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 10.00 | 14.7% | ⏳ pendiente | — |
@@ -103,5 +105,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 6.6% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 6.6% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 8.1% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 8.1% | ⏳ pendiente | — |
