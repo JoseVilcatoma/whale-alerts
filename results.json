@@ -1594,5 +1594,20 @@
     "status": "pending",
     "ultimo_fill": 1786713720,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 217,
+    "timestamp": 1786713937,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 48966.4704,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1786713937,
+    "fills": 1
   }
 ]
