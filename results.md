@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 07:53:44 (hora de Perú)
+Actualizado: 2026-08-14 07:55:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **102**  ($5,197,512 en total)
+- Apuestas registradas: **104**  ($5,267,160 en total)
 - Resueltas: **92** — 55 ganadas / 37 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 42
 
 ### Balance
@@ -27,9 +27,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 3 | 85% | $1,023,148 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
+| AV23IUa | 2 | 3 | 2 | ⚠️ 40% (5) | $328,940 | -$12,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 0 | ⚠️ 83% (6) | $327,174 | +$249,609 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| AV23IUa | 2 | 3 | 0 | ⚠️ 40% (5) | $259,293 | -$12,916 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. New York Yankees | Seattle Mariners | 2.44 (41¢) | $34,704 | +$49,939 | ✅ Ganada |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | -$30,006 | ❌ Perdida |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | G2 | 1.15 (87¢) | $26,841 | +$4,011 | ✅ Ganada |
-| Lakersfan111 | Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner | Aurora Gaming | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
-| Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | +$22,391 | ✅ Ganada |

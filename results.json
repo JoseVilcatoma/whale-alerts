@@ -1534,5 +1534,35 @@
     "status": "pending",
     "ultimo_fill": 1786711735,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 213,
+    "timestamp": 1786712107,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 43647.5456,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1786712107,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 214,
+    "timestamp": 1786712123,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
+    "title": "Map Handicap: VIT (-1.5) vs B8 (+1.5)",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1786712123,
+    "fills": 1
   }
 ]
