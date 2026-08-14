@@ -1,5 +1,5 @@
 {
-  "bankroll": 1350.6833323822327,
+  "bankroll": 1369.737981436882,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1150,6 +1150,21 @@
       "timestamp": 1786748622.5023267,
       "bankroll": 1350.68,
       "event": "lost: Weaseloftheweek \u2014 Will Wolverhampton Wanderers FC win on 2026-08-14?"
+    },
+    {
+      "timestamp": 1786749309.9716122,
+      "bankroll": 1356.07,
+      "event": "won: ActionReaction \u2014 LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786749310.0717604,
+      "bankroll": 1361.22,
+      "event": "won: ActionReaction \u2014 LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786749310.2720613,
+      "bankroll": 1369.74,
+      "event": "won: ActionReaction \u2014 LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season"
     }
   ]
 }
