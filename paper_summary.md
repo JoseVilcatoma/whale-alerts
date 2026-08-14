@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:06:47 (hora de Perú)
+Actualizado: 2026-08-13 20:08:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 0 | 0 | 17 | +0.00 USD |
+| 1winstreak1 | 0 | 0 | 18 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 21 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 11 | +0.00 USD |
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | LoL: T1 Academy vs Dplus KIA Challengers | Dplus KIA Challengers (BUY) | 33% | 10.00 | 10.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Dream vs. Connecticut Sun: O/U 1 | Under (BUY) | 55% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -63,4 +64,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Minnesota Twins (BUY) | 35% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Nakashima | Shelton (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Over (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
