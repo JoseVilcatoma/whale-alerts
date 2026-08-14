@@ -1,5 +1,5 @@
 {
-  "bankroll": 1166.8691119385473,
+  "bankroll": 1372.6761327994548,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -645,6 +645,96 @@
       "timestamp": 1786713123.7955265,
       "bankroll": 1166.87,
       "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786718747.491898,
+      "bankroll": 1156.87,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786718747.8430188,
+      "bankroll": 1146.87,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786718749.034965,
+      "bankroll": 1161.26,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718749.1351798,
+      "bankroll": 1175.65,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718749.4998531,
+      "bankroll": 1190.04,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718749.6000938,
+      "bankroll": 1204.43,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718750.2282698,
+      "bankroll": 1218.82,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718750.3285353,
+      "bankroll": 1233.21,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718750.4287405,
+      "bankroll": 1247.6,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718751.0280592,
+      "bankroll": 1261.99,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718751.821084,
+      "bankroll": 1276.38,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718751.92129,
+      "bankroll": 1290.77,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718752.021569,
+      "bankroll": 1305.16,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718752.1217887,
+      "bankroll": 1319.55,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718752.5188005,
+      "bankroll": 1333.94,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786718754.0303042,
+      "bankroll": 1347.2,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786718754.130532,
+      "bankroll": 1360.45,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786718754.3309238,
+      "bankroll": 1372.68,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
     }
   ]
 }
