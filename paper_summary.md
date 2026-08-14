@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:18:35 (hora de Perú)
+Actualizado: 2026-08-14 18:20:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,369.74
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 9 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 12 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
@@ -73,12 +73,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
 | mlb-cws-det-2026-08-14-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-wsh-nym-2026-08-14-total-8pt5 | 1winstreak1, Talvez10 |
+| mlb-bal-tb-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-mia-cin-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 45% | 9.06 | 2.7% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 32% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 37% | 10.00 | 2.7% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 54% | 10.00 | 32.9% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 61% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 45% | 0.00 | 31.7% | ⏳ pendiente | — |
@@ -106,6 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 56% | 10.00 | 538.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 52% | 10.00 | 12.3% | ⏳ pendiente | — |
-| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
-| Sassy-Bucket | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 10.00 | 14.7% | ⏳ pendiente | — |
-| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 1.0% | ⏳ pendiente | — |
