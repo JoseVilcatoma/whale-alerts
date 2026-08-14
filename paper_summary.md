@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 02:47:38 (hora de Perú)
+Actualizado: 2026-08-14 02:49:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 33 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 35 | +0.00 USD |
 | ActionReaction | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 1 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
@@ -65,6 +65,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 4.7% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 50% | 10.00 | 61.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -93,5 +95,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 72.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
-| UpTheBlues | Will Galatasaray SK win on 2026-08-14? | No (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
