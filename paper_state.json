@@ -1,5 +1,5 @@
 {
-  "bankroll": 1222.023178667161,
+  "bankroll": 1216.3913659197633,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -507,89 +507,34 @@
       "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Game Handicap: TY (-1.5) vs Team Liquid (+1.5)"
     },
     {
-      "timestamp": 1786693525.8731,
-      "bankroll": 1149.01,
-      "event": "lost: UpTheBlues \u2014 Astana: Sergey Fomin vs Masamichi Imamura"
-    },
-    {
-      "timestamp": 1786699846.3031282,
-      "bankroll": 1165.33,
-      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786703142.169116,
-      "bankroll": 1174.94,
+      "timestamp": 1786708741.3526332,
+      "bankroll": 1168.62,
       "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG (BO3) - The International Group Stage"
     },
     {
-      "timestamp": 1786703519.122665,
+      "timestamp": 1786708741.7878804,
+      "bankroll": 1184.94,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786708743.6988363,
+      "bankroll": 1174.94,
+      "event": "lost: UpTheBlues \u2014 Astana: Sergey Fomin vs Masamichi Imamura"
+    },
+    {
+      "timestamp": 1786708746.9709435,
       "bankroll": 1189.33,
       "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
     },
     {
-      "timestamp": 1786703519.3229666,
+      "timestamp": 1786708747.2462604,
       "bankroll": 1203.14,
       "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
     },
     {
-      "timestamp": 1786703519.5232356,
+      "timestamp": 1786708747.446596,
       "bankroll": 1216.39,
       "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786703519.6234353,
-      "bankroll": 1229.65,
-      "event": "won: CORGI8 \u2014 Dota 2: Vici Gaming vs GamerLegion - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786703892.001637,
-      "bankroll": 1219.65,
-      "event": "lost: ActionReaction \u2014 Dota 2: Team Liquid vs Team Spirit - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786704273.9966533,
-      "bankroll": 1219.65,
-      "event": "venta anticipada: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex - Game 1 Winner (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786704456.3020346,
-      "bankroll": 1209.65,
-      "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Falcons - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786704456.502409,
-      "bankroll": 1199.65,
-      "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Falcons - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786708019.4339738,
-      "bankroll": 1204.8,
-      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786708019.5341177,
-      "bankroll": 1209.95,
-      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786708019.8345559,
-      "bankroll": 1214.88,
-      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786708020.0349429,
-      "bankroll": 1219.8,
-      "event": "won: ActionReaction \u2014 Dota 2: Xtreme Gaming vs HULIGANI - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786708082.6382017,
-      "bankroll": 1232.02,
-      "event": "won: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786708082.7385166,
-      "bankroll": 1222.02,
-      "event": "lost: ActionReaction \u2014 Dota 2: Team Liquid vs Team Spirit - Game 2 Winner"
     }
   ]
 }

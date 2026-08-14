@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:58:46 (hora de Perú)
+Actualizado: 2026-08-14 07:01:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,222.02
-**Retorno acumulado:** +22.20%
+**Bankroll actual:** $1,216.39
+**Retorno acumulado:** +21.64%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,28 +16,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 13 | 2 | 18 | +243.63 USD |
+| CORGI8 | 11 | 0 | 9 | +238.15 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 5 | 2 | 10 | +0.16 USD |
-| Lakersfan111 | 0 | 0 | 54 | +0.00 USD |
-| BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
-| midwicket72 | 3 | 1 | 7 | -8.19 USD |
-| UpTheBlues | 0 | 1 | 9 | -10.00 USD |
-| ferrariChampions2026 | 20 | 10 | 11 | -36.74 USD |
+| Lakersfan111 | 0 | 0 | 32 | +0.00 USD |
+| ActionReaction | 0 | 0 | 1 | +0.00 USD |
+| midwicket72 | 3 | 1 | 2 | -8.19 USD |
+| UpTheBlues | 0 | 1 | 8 | -10.00 USD |
+| ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 116
-- **Aciertos:** 70 (60.3%)
-- **Cuota promedio de entrada:** 52.4%
+- **Apuestas resueltas:** 106
+- **Aciertos:** 64 (60.4%)
+- **Cuota promedio de entrada:** 52.2%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,158.66
-- **ROI sobre lo apostado:** +19.08%
+- **Total apostado (suma de stakes):** $1,058.66
+- **ROI sobre lo apostado:** +20.35%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,9 +45,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
-| 20-39% | 27 | 44.4% | 29.4% | +15.0 pp |
-| 40-59% | 47 | 55.3% | 49.6% | +5.7 pp |
-| 60-79% | 19 | 73.7% | 67.7% | +6.0 pp |
+| 20-39% | 26 | 46.2% | 29.1% | +17.0 pp |
+| 40-59% | 42 | 57.1% | 49.7% | +7.5 pp |
+| 60-79% | 15 | 66.7% | 68.0% | -1.3 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -74,33 +73,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 32% | 0.00 | 25.6% | ⏳ pendiente | — |
-| CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 0.00 | 1.0% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 2.37 | 0.8% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 41% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 5.8% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 41% | 10.00 | 8.1% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 63% | 10.00 | 0.6% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hamburg: Matheus Pucinelli de Almeida vs | Dylan Dietrich (BUY) | 55% | 4.71 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 1 W | Aurora (BUY) | 39% | 4.71 | 1.7% | 💰 vendida anticipada | +0.00 |
-| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 87% | 10.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Spirit (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 3.9% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: NIP vs BetBoom Team - Ma | NIP (BUY) | 35% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 1.7% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Anyone's Legend vs JD Gaming - Game | JD Gaming (BUY) | 45% | 10.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | Will CA Banfield win on 2026-08-14? | No (BUY) | 82% | 9.61 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Vici Gaming vs GamerLegion (BO3) | Vici Gaming (BUY) | 55% | 10.00 | 6.2% | ⏳ pendiente | — |
-| ActionReaction | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 52% | 5.33 | 2.2% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: BB (-1.5) vs NIP (+1.5) | NIP (BUY) | 62% | 10.00 | 1.3% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.1% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 2.9% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 43% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster - | CTBC Flying Oyster (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Yorkshire vs Not | Nottinghamshire (BUY) | 29% | 10.00 | 11.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 43% | 10.00 | 0.3% | ✅ ganada | +13.26 |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 42% | 10.00 | 2.0% | ✅ ganada | +13.81 |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 41% | 10.00 | 22.9% | ✅ ganada | +14.39 |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 22.6% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 35% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: NS (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 72% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 1.1% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 2.9% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 2.2% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.6% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 20.8% | ⏳ pendiente | — |
+| UpTheBlues | Sporting CP vs. Vitória SC: O/U 1.5 | Over (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 72.2% | ⏳ pendiente | — |
+| UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Will Tōkyō Verdy win on 2026-08-14? | No (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
+| UpTheBlues | Will Galatasaray SK win on 2026-08-14? | No (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
