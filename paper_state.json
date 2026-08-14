@@ -545,6 +545,11 @@
       "timestamp": 1786703892.001637,
       "bankroll": 1219.65,
       "event": "lost: ActionReaction \u2014 Dota 2: Team Liquid vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786704273.9966533,
+      "bankroll": 1219.65,
+      "event": "venta anticipada: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex - Game 1 Winner (+0.00 USD)"
     }
   ]
 }
