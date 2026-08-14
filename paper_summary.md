@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 04:32:03 (hora de Perú)
+Actualizado: 2026-08-14 04:34:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,165.33
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 0 | 0 | 9 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
-| ferrariChampions2026 | 20 | 10 | 2 | -36.74 USD |
+| ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
@@ -68,6 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 35% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 40% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -97,4 +98,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons - Game | Iron Wing (BUY) | 50% | 10.00 | 4.6% | ⏳ pendiente | — |
 | ActionReaction | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 58% | 10.00 | 36.7% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Iron Wing vs Team Falcons - Game | Iron Wing (BUY) | 38% | 10.00 | 11.2% | ⏳ pendiente | — |
