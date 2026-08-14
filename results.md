@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 19:33:35 (hora de Perú)
+Actualizado: 2026-08-13 19:35:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **81**  ($4,416,685 en total)
+- Apuestas registradas: **82**  ($4,445,574 en total)
 - Resueltas: **70** — 42 ganadas / 28 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 33
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 3 | 4 | 4 | ⚠️ 43% (7) | $503,050 | +$26,462 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
 | AV23IUa | 2 | 2 | 1 | ⚠️ 50% (4) | $259,293 | +$31,034 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 2 | ⚠️ 100% (2) | $216,398 | +$141,199 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 3 | ⚠️ 100% (2) | $245,286 | +$141,199 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
@@ -62,6 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | — | ⏳ Pendiente |
@@ -121,4 +122,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Aurora Gaming vs M80 (BO3) - Esports World Cup Group A | Aurora Gaming | 1.37 (73¢) | $35,335 | +$13,069 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | 0xheavy888 | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Team Liquid | 1.49 (67¢) | $33,407 | +$16,454 | ✅ Ganada |
-| Djdjdjekekek | Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner | Vici Gaming | 3.03 (33¢) | $66,000 | -$66,000 | ❌ Perdida |
