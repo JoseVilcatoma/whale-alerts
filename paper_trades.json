@@ -4934,5 +4934,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786701331.7577229,
     "fills": 1
+  },
+  {
+    "timestamp": 1786702410,
+    "timestamp_added": 1786702410.740702,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-nip-bb3-2026-08-14-map-handicap-home-1pt5",
+    "title": "Map Handicap: BB (-1.5) vs NIP (+1.5)",
+    "outcome": "NIP",
+    "side": "BUY",
+    "whale_usd": 1011.7407999999999,
+    "whale_pct": 1.328,
+    "whale_value_at_open": 76171.5587,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786702410.7407103,
+    "fills": 1
   }
 ]
