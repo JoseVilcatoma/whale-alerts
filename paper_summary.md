@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:51:17 (hora de Perú)
+Actualizado: 2026-08-14 06:53:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,222.02
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 5 | 2 | 6 | +0.16 USD |
 | Lakersfan111 | 0 | 0 | 54 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
-| midwicket72 | 3 | 1 | 5 | -8.19 USD |
+| midwicket72 | 3 | 1 | 6 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 11 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -73,6 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 39% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 63% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hamburg: Matheus Pucinelli de Almeida vs | Dylan Dietrich (BUY) | 55% | 4.71 | 0.1% | ⏳ pendiente | — |
@@ -102,4 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ActionReaction | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 24% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Iron Wing (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Falcons (BO3)  | Team Falcons (BUY) | 35% | 10.00 | 0.7% | ⏳ pendiente | — |

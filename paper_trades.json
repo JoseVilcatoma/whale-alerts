@@ -5328,5 +5328,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786708264.5902405,
     "fills": 1
+  },
+  {
+    "timestamp": 1786708367,
+    "timestamp_added": 1786708367.9632127,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crichundredw-sun-sou-2026-08-14",
+    "title": "The Hundred, Women: Sunrisers Leeds vs Southern Brave",
+    "outcome": "Southern Brave",
+    "side": "BUY",
+    "whale_usd": 12.006885000000002,
+    "whale_pct": 0.109,
+    "whale_value_at_open": 11019.6563,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786708367.963221,
+    "fills": 1
   }
 ]
