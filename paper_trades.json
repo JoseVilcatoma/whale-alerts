@@ -4717,5 +4717,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786675970.6675792,
     "fills": 1
+  },
+  {
+    "timestamp": 1786676032,
+    "timestamp_added": 1786676033.2574785,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-huliga-vg-2026-08-13-game1",
+    "title": "Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 6999.999992999999,
+    "whale_pct": 5.687,
+    "whale_value_at_open": 123082.1504,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786676061.8059044,
+    "fills": 6
+  },
+  {
+    "timestamp": 1786676032,
+    "timestamp_added": 1786676034.0971558,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-huliga-vg-2026-08-13-game1",
+    "title": "Dota 2: HULIGANI vs Vici Gaming - Game 1 Winner",
+    "outcome": "HULIGANI",
+    "side": "BUY",
+    "whale_usd": 5093.630085999999,
+    "whale_pct": 15.88,
+    "whale_value_at_open": 32074.8887,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786676061.8064058,
+    "fills": 6
   }
 ]
