@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 10:50:31 (hora de Perú)
+Actualizado: 2026-08-14 10:52:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **109**  ($5,475,107 en total)
+- Apuestas registradas: **110**  ($5,501,453 en total)
 - Resueltas: **96** — 58 ganadas / 38 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 44
 
 ### Balance
@@ -46,6 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | SDTrading | 0 | 0 | 2 | — | $55,210 | — |
+| 007theone1 | 0 | 0 | 2 | — | $52,861 | — |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
@@ -61,7 +62,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | TAIWANNUMBERONE | 0 | 0 | 1 | — | $27,031 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
-| 007theone1 | 0 | 0 | 1 | — | $26,515 | — |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | — | ⏳ Pendiente |
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 44 en total)_
 | Mamagovorila | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 1.85 (54¢) | $27,652 | -$27,652 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | FaZe | 1.96 (51¢) | $40,800 | +$39,200 | ✅ Ganada |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | -$36,923 | ❌ Perdida |
-| Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | -$69,296 | ❌ Perdida |
