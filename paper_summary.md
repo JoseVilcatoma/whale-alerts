@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:32:19 (hora de Perú)
+Actualizado: 2026-08-13 21:34:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $999.83
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 29 | +14.57 USD |
+| 1winstreak1 | 2 | 0 | 30 | +14.57 USD |
 | IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 24 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 27 | +0.00 USD |
 | CORGI8 | 0 | 0 | 8 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 13 | +0.00 USD |
 | AV23IUa | 0 | 0 | 16 | +0.00 USD |
-| ferrariChampions2026 | 8 | 3 | 34 | -15.69 USD |
+| ferrariChampions2026 | 8 | 3 | 38 | -15.69 USD |
 
 ## Análisis general
 
@@ -59,11 +59,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-ty-liquid-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | dota2-xtreme-gl-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
+| wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
+| wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 25% | 0.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Portland Timbers win on 2026-08-13? | No (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Las Vegas Aces (BUY) | 76% | 0.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Mystics vs. Las Vegas Aces: O | Under (BUY) | 50% | 0.00 | 7.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces: O | Over (BUY) | 50% | 0.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 24% | 0.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 24% | 0.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 61% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 46% | 0.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 40% | 0.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 35% | 0.00 | 0.2% | ⏳ pendiente | — |
@@ -86,11 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 84% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Philadelphia Phillies vs. Minnesota Twin | Under (BUY) | 82% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | CF Cruz Azul vs. Chicago Fire FC: O/U 0. | Under (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | CA Rosario Central vs. SC Corinthians Pa | Under (BUY) | 80% | 0.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 49% | 0.00 | 2.6% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 39% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Patriots | Colts (BUY) | 31% | 0.00 | 0.2% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.1% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 37% | 0.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 52% | 0.00 | 1.7% | ⏳ pendiente | — |
