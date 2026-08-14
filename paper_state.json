@@ -1,5 +1,5 @@
 {
-  "bankroll": 1359.0696648927842,
+  "bankroll": 1372.5479257623497,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -850,6 +850,21 @@
       "timestamp": 1786725163.3314438,
       "bankroll": 1359.07,
       "event": "venta anticipada: Weaseloftheweek \u2014 The Hundred: Manchester Super Giants vs Sunrisers Leeds (+1.18 USD)"
+    },
+    {
+      "timestamp": 1786725920.2408473,
+      "bankroll": 1363.56,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786725921.8885653,
+      "bankroll": 1368.06,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786725921.9887645,
+      "bankroll": 1372.55,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
     }
   ]
 }
