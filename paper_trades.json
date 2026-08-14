@@ -4838,5 +4838,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786701145.467926,
     "fills": 1
+  },
+  {
+    "timestamp": 1786701187,
+    "timestamp_added": 1786701187.697613,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1098.363636,
+    "whale_pct": 2.862,
+    "whale_value_at_open": 38380.2702,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786701190.2736244,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786701205,
+    "timestamp_added": 1786701205.7810931,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 40.723200000000006,
+    "whale_pct": 0.106,
+    "whale_value_at_open": 38380.2702,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786701205.7811036,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786701289,
+    "timestamp_added": 1786701290.2361078,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-t1-dk-2026-08-14",
+    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 150.00160000000002,
+    "whale_pct": 0.432,
+    "whale_value_at_open": 34752.3606,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786701290.2361176,
+    "fills": 1
   }
 ]
