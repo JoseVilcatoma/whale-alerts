@@ -4072,5 +4072,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786695262.7202814,
     "fills": 1
+  },
+  {
+    "timestamp": 1786696165,
+    "timestamp_added": 1786696166.5101676,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-prv-100t-2026-08-14",
+    "title": "Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "whale_usd": 527.1255000000001,
+    "whale_pct": 1.15,
+    "whale_value_at_open": 45823.2014,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786696166.5101762,
+    "fills": 1
   }
 ]

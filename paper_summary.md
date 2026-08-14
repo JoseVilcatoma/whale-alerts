@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 03:29:14 (hora de Perú)
+Actualizado: 2026-08-14 03:31:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,149.01
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 39 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 40 | +0.00 USD |
 | ActionReaction | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 3 | 1 | 2 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 8 | -10.00 USD |
@@ -66,6 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.1% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Falcons - Game | Iron Wing (BUY) | 50% | 10.00 | 4.6% | ⏳ pendiente | — |
 | ActionReaction | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 58% | 10.00 | 36.7% | ⏳ pendiente | — |
@@ -95,4 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 1.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 2.9% | ⏳ pendiente | — |
