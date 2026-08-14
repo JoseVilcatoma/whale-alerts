@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 23:00:00 (hora de Perú)
+Actualizado: 2026-08-13 23:02:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,007.34
@@ -17,14 +17,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | AV23IUa | 3 | 0 | 26 | +100.44 USD |
-| IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
+| IMAREALPERSON | 8 | 0 | 5 | +8.36 USD |
 | CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 17 | 11 | 28 | -41.50 USD |
-| 1winstreak1 | 12 | 12 | 33 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 36 | -54.57 USD |
 
 ## Análisis general
 
@@ -76,6 +76,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 13% | 4.19 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 22% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 12% | 10.00 | 0.3% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 44% | 10.00 | 15.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 10.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 76% | 10.00 | 3.1% | ⏳ pendiente | — |
@@ -102,7 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 71% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Spirit vs Aurora - Game 2 W | Aurora (BUY) | 45% | 10.00 | 10.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion - G | GamerLegion (BUY) | 39% | 1.77 | 1.3% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 48% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 23% | 0.00 | 1.0% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 62% | 0.00 | 1.2% | ⏳ pendiente | — |
