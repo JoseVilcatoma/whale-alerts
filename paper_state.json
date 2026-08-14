@@ -1,5 +1,5 @@
 {
-  "bankroll": 1165.3279411170572,
+  "bankroll": 1174.935784254312,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -515,6 +515,11 @@
       "timestamp": 1786699846.3031282,
       "bankroll": 1165.33,
       "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786703142.169116,
+      "bankroll": 1174.94,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs OG (BO3) - The International Group Stage"
     }
   ]
 }
