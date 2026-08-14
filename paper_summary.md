@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 06:57:31 (hora de Perú)
+Actualizado: 2026-08-14 06:58:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,222.02
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 13 | 2 | 17 | +243.63 USD |
+| CORGI8 | 13 | 2 | 18 | +243.63 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 5 | 2 | 9 | +0.16 USD |
+| ActionReaction | 5 | 2 | 10 | +0.16 USD |
 | Lakersfan111 | 0 | 0 | 54 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
-| midwicket72 | 3 | 1 | 6 | -8.19 USD |
+| midwicket72 | 3 | 1 | 7 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
 | ferrariChampions2026 | 20 | 10 | 11 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -74,6 +74,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 32% | 0.00 | 25.6% | ⏳ pendiente | — |
+| CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 0.00 | 1.0% | ⏳ pendiente | — |
+| ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 2.37 | 0.8% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Aurora vs Team Yandex - Game 2 W | Team Yandex (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 41% | 10.00 | 2.2% | ⏳ pendiente | — |
@@ -101,6 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.1% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 2.9% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | T1 (BUY) | 56% | 10.00 | 1.5% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 45% | 10.00 | 1.5% | ⏳ pendiente | — |
