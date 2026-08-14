@@ -6186,5 +6186,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786738264.6948347,
     "fills": 3
+  },
+  {
+    "timestamp": 1786738368,
+    "timestamp_added": 1786738369.3776698,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-tr7-ty-2026-08-14",
+    "title": "Dota 2: Team Resilience vs Team Yandex (BO3) - The International Group Stage",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "whale_usd": 15.0,
+    "whale_pct": 0.126,
+    "whale_value_at_open": 11893.7678,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 15,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786738369.3776798,
+    "fills": 1
   }
 ]
