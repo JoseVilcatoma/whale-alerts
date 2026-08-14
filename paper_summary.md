@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:56:29 (hora de Perú)
+Actualizado: 2026-08-14 07:58:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,236.87
@@ -20,12 +20,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 1 | 8 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
-| Lakersfan111 | 9 | 4 | 20 | +15.17 USD |
+| Lakersfan111 | 9 | 4 | 21 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | ActionReaction | 0 | 0 | 9 | +0.00 USD |
-| SDTrading | 0 | 0 | 4 | +0.00 USD |
+| SDTrading | 0 | 0 | 5 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 14 | -8.19 USD |
+| midwicket72 | 3 | 1 | 17 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -66,6 +66,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 0.4% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 65% | 10.00 | 4.3% | ⏳ pendiente | — |
+| SDTrading | Spread: Detroit Tigers (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 11.8% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 41% | 10.00 | 8.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 4.2% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -91,8 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | JD Gaming (BUY) | 42% | 10.00 | 4.6% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 78% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ActionReaction | LoL: Nongshim Red Force vs HANJIN BRION  | HANJIN BRION (BUY) | 54% | 10.00 | 2.6% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 76% | 10.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
-| ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | Anyone's Legend (BUY) | 29% | 10.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Aurora vs Team Yandex - Game 2 W | Aurora (BUY) | 45% | 10.00 | 4.8% | ⏳ pendiente | — |
-| CORGI8 | Counter-Strike: TYLOO vs Lynn Vision - M | Lynn Vision (BUY) | 35% | 10.00 | 0.1% | ⏳ pendiente | — |
