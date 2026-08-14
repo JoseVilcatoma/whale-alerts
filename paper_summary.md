@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 08:07:00 (hora de Perú)
+Actualizado: 2026-08-14 08:09:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,236.87
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 1 | 8 | +116.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
-| Lakersfan111 | 9 | 4 | 22 | +15.17 USD |
+| Lakersfan111 | 9 | 4 | 23 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 0 | 0 | 9 | +0.00 USD |
+| ActionReaction | 0 | 0 | 10 | +0.00 USD |
 | SDTrading | 0 | 0 | 5 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 22 | -8.19 USD |
@@ -61,11 +61,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
+| dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | Dota 2: Aurora vs Team Yandex (BO3) - Th | Aurora (BUY) | 39% | 10.00 | 4.1% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality (BO3) - E | Vitality (BUY) | 87% | 10.00 | 17.6% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 3.0% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 35.8% | ⏳ pendiente | — |
@@ -94,5 +97,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 46% | 10.00 | 23.7% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 52% | 10.00 | 45.7% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 7.3% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 86% | 10.00 | 1.1% | ⏳ pendiente | — |
