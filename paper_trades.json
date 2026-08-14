@@ -4760,8 +4760,8 @@
     "title": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 3174.7682110000005,
-    "whale_pct": 4.098,
+    "whale_usd": 7609.095764000001,
+    "whale_pct": 9.821,
     "whale_value_at_open": 77475.0144,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
@@ -4772,7 +4772,29 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786712941.7365382,
-    "fills": 2
+    "last_fill_at": 1786712955.6506877,
+    "fills": 9
+  },
+  {
+    "timestamp": 1786713065,
+    "timestamp_added": 1786713066.1226265,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crichundredw-sun-sou-2026-08-14",
+    "title": "The Hundred, Women: Sunrisers Leeds vs Southern Brave",
+    "outcome": "Sunrisers Leeds",
+    "side": "BUY",
+    "whale_usd": 102.162162,
+    "whale_pct": 0.294,
+    "whale_value_at_open": 34747.9656,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786713066.1226366,
+    "fills": 1
   }
 ]
