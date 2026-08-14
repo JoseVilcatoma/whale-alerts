@@ -2,13 +2,13 @@
   "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
     "username": "1winstreak1",
     "added_at": 1786666041.0361762,
-    "roi_pct": 578.85,
+    "roi_pct": 560.53,
     "short_term_pct": 100.0
   },
   "0x79ae097215202b5d01f98e4479fb219102469a4a": {
     "username": "CORGI8",
     "added_at": 1786666041.0361845,
-    "roi_pct": 292.75,
+    "roi_pct": 239.84,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
@@ -20,43 +20,43 @@
   "0xd218e474776403a330142299f7796e8ba32eb5c9": {
     "username": "cigarettes",
     "added_at": 1786666041.0361888,
-    "roi_pct": 227.57,
+    "roi_pct": 227.68,
     "short_term_pct": 100.0
   },
   "0xa4b7b1814b0da33f2b61be4939976898aa476008": {
     "username": "midwicket72",
     "added_at": 1786666707.6528215,
-    "roi_pct": 798.3,
+    "roi_pct": 798.66,
     "short_term_pct": 100.0
   },
   "0xdb859a551fcf56e49416160911476bea7307152f": {
     "username": "AV23IUa",
     "added_at": 1786668580.646269,
-    "roi_pct": 229.54,
+    "roi_pct": 266.37,
     "short_term_pct": 100.0
   },
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
     "username": "IMAREALPERSON",
     "added_at": 1786671394.0141404,
-    "roi_pct": 207.03,
+    "roi_pct": 361.94,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786672330.5257246,
-    "roi_pct": 194.54,
+    "roi_pct": 182.95,
     "short_term_pct": 100.0
   },
   "0x5dab5ed9691fab220535891d9c7f5c28eed322e1": {
     "username": "Weaseloftheweek",
     "added_at": 1786674204.7902315,
-    "roi_pct": 3609.93,
+    "roi_pct": 3601.46,
     "short_term_pct": 100.0
   },
-  "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
-    "username": "Sassy-Bucket",
-    "added_at": 1786677010.7136812,
-    "roi_pct": 123.17,
-    "short_term_pct": 100.0
+  "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0": {
+    "username": "BajaBlaster",
+    "added_at": 1786678885.2267814,
+    "roi_pct": 355.28,
+    "short_term_pct": 80.0
   }
 }
