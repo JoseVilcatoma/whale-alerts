@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 05:32:10 (hora de Perú)
+Actualizado: 2026-08-14 05:34:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,229.65
@@ -21,12 +21,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 51 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 53 | +0.00 USD |
 | ActionReaction | 0 | 0 | 12 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 3 | 1 | 4 | -8.19 USD |
 | UpTheBlues | 0 | 1 | 9 | -10.00 USD |
-| ferrariChampions2026 | 20 | 10 | 3 | -36.74 USD |
+| ferrariChampions2026 | 20 | 10 | 5 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
@@ -64,6 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-dk-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | lol-t1-dk-2026-08-14 | BBQChickenisthebesttt, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14 | ActionReaction, CORGI8 |
+| dota2-aur1-ty-2026-08-14 | CORGI8, ferrariChampions2026 |
 | lol-we-tes-2026-08-14-game1 | ActionReaction, Lakersfan111 |
 | dota2-liquid-ts8-2026-08-14-game2 | ActionReaction, CORGI8 |
 | dota2-ironwi-flc-2026-08-14 | CORGI8, ferrariChampions2026 |
@@ -72,6 +73,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 3.9% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: NIP vs BetBoom Team - Ma | NIP (BUY) | 35% | 10.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Aurora vs Team Yandex (BO3) - Th | Team Yandex (BUY) | 60% | 10.00 | 1.7% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Anyone's Legend vs JD Gaming - Game | JD Gaming (BUY) | 45% | 10.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will CA Banfield win on 2026-08-14? | No (BUY) | 82% | 9.61 | 0.1% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Vici Gaming vs GamerLegion (BO3) | Vici Gaming (BUY) | 55% | 10.00 | 6.2% | ⏳ pendiente | — |
 | ActionReaction | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 52% | 5.33 | 2.2% | ⏳ pendiente | — |
@@ -98,7 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit - Gam | Team Liquid (BUY) | 45% | 10.00 | 10.0% | ⏳ pendiente | — |
 | ActionReaction | LoL: T1 vs Dplus KIA - Game 2 Winner | T1 (BUY) | 53% | 10.00 | 36.0% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Lancashire (BUY) | 40% | 10.00 | 9.5% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: MOUZ (-1.5) vs FUT Esports | MOUZ (BUY) | 34% | 10.00 | 0.3% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: TES (-1.5) vs Team WE (+1 | Team WE (BUY) | 57% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Nongshim Red Force vs HANJIN BRION  | Nongshim Red Force (BUY) | 49% | 10.00 | 5.5% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Team WE vs Top Esports - Game 1 Win | Team WE (BUY) | 35% | 10.00 | 1.1% | ⏳ pendiente | — |
