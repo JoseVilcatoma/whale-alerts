@@ -1,5 +1,5 @@
 {
-  "bankroll": 1221.7078216159657,
+  "bankroll": 1276.8691119385473,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -545,6 +545,51 @@
       "timestamp": 1786710308.206507,
       "bankroll": 1221.71,
       "event": "won: UpTheBlues \u2014 Will T\u014dky\u014d Verdy win on 2026-08-14?"
+    },
+    {
+      "timestamp": 1786711244.8563228,
+      "bankroll": 1227.84,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711244.9564643,
+      "bankroll": 1233.97,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711245.3116882,
+      "bankroll": 1240.09,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711246.034826,
+      "bankroll": 1246.22,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711246.134993,
+      "bankroll": 1252.35,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711246.2352347,
+      "bankroll": 1258.48,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711246.5358624,
+      "bankroll": 1264.61,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711247.353842,
+      "bankroll": 1270.74,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786711247.4540493,
+      "bankroll": 1276.87,
+      "event": "won: Lakersfan111 \u2014 LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }

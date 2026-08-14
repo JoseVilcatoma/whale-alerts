@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:39:49 (hora de Perú)
+Actualizado: 2026-08-14 07:41:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,221.71
-**Retorno acumulado:** +22.17%
+**Bankroll actual:** $1,276.87
+**Retorno acumulado:** +27.69%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,25 +18,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 11 | 0 | 12 | +238.15 USD |
 | AV23IUa | 5 | 1 | 6 | +116.21 USD |
+| Lakersfan111 | 9 | 0 | 23 | +55.17 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
+| wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 32 | +0.00 USD |
 | ActionReaction | 0 | 0 | 5 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 4 | -8.19 USD |
+| midwicket72 | 3 | 1 | 7 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 108
-- **Aciertos:** 66 (61.1%)
-- **Cuota promedio de entrada:** 52.7%
+- **Apuestas resueltas:** 117
+- **Aciertos:** 75 (64.1%)
+- **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,078.66
-- **ROI sobre lo apostado:** +20.47%
+- **Total apostado (suma de stakes):** $1,168.66
+- **ROI sobre lo apostado:** +23.61%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 26 | 46.2% | 29.1% | +17.0 pp |
 | 40-59% | 42 | 57.1% | 49.7% | +7.5 pp |
-| 60-79% | 17 | 70.6% | 69.3% | +1.3 pp |
+| 60-79% | 26 | 80.8% | 66.8% | +14.0 pp |
 | 80-94% | 16 | 100.0% | 88.6% | +11.4 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -65,6 +65,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 86% | 10.00 | 1.1% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 64% | 10.00 | 0.1% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 63% | 10.00 | 11.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 52% | 10.00 | 59.2% | ⏳ pendiente | — |
 | ActionReaction | LoL: Anyone's Legend vs JD Gaming - Game | JD Gaming (BUY) | 42% | 10.00 | 4.6% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 78% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ActionReaction | LoL: Nongshim Red Force vs HANJIN BRION  | HANJIN BRION (BUY) | 54% | 10.00 | 2.6% | ⏳ pendiente | — |
@@ -91,7 +95,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 1.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA - Game 1 Winner | Dplus KIA (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 2.9% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 2.2% | ⏳ pendiente | — |
