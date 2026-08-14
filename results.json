@@ -1564,5 +1564,20 @@
     "status": "pending",
     "ultimo_fill": 1786712123,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 215,
+    "timestamp": 1786713159,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-pit-2026-08-14-total-8pt5",
+    "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26942.995800000004,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1786713159,
+    "fills": 1
   }
 ]
