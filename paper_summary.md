@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:41:22 (hora de Perú)
+Actualizado: 2026-08-14 01:43:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,169.01
@@ -22,6 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | Lakersfan111 | 0 | 0 | 7 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -63,6 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Al Hilal Saudi Club (-2.5) | Al Faisaly Saudi Club (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs OG - Game 1 W | Team Resilience (BUY) | 38% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -92,4 +94,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.3% | ✅ ganada | +3.51 |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Gael  | Gael Monfils (BUY) | 73% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Will SC Corinthians Paulista win on 2026 | No (BUY) | 87% | 10.00 | 0.7% | ✅ ganada | +1.49 |
-| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ✅ ganada | +3.51 |
