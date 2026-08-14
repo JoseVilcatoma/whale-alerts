@@ -1,5 +1,5 @@
 {
-  "bankroll": 1166.8691119385473,
+  "bankroll": 1378.3829494269878,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -645,6 +645,206 @@
       "timestamp": 1786713123.7955265,
       "bankroll": 1166.87,
       "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786729774.7184181,
+      "bankroll": 1187.17,
+      "event": "won: 1winstreak1 \u2014 LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1786729775.1609879,
+      "bankroll": 1177.17,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786729775.523587,
+      "bankroll": 1167.17,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786729775.6237133,
+      "bankroll": 1157.17,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B"
+    },
+    {
+      "timestamp": 1786729776.0571,
+      "bankroll": 1147.17,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786729776.508032,
+      "bankroll": 1151.66,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786729776.8565786,
+      "bankroll": 1166.06,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729776.956688,
+      "bankroll": 1180.45,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729777.7973652,
+      "bankroll": 1194.84,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729777.8975167,
+      "bankroll": 1209.23,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729778.6442573,
+      "bankroll": 1223.62,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729778.744391,
+      "bankroll": 1238.01,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729778.8445354,
+      "bankroll": 1252.4,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729779.5370517,
+      "bankroll": 1272.7,
+      "event": "won: UpTheBlues \u2014 Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1786729779.6372101,
+      "bankroll": 1287.09,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729780.4716556,
+      "bankroll": 1291.58,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786729780.5720606,
+      "bankroll": 1296.08,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: AL (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786729780.6722085,
+      "bankroll": 1310.47,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729780.7723565,
+      "bankroll": 1324.86,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729780.8724763,
+      "bankroll": 1339.25,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729780.9725788,
+      "bankroll": 1353.64,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729781.2909687,
+      "bankroll": 1343.64,
+      "event": "lost: Lakersfan111 \u2014 Game Handicap: NS (-1.5) vs HANJIN BRION (+1.5)"
+    },
+    {
+      "timestamp": 1786729781.3910816,
+      "bankroll": 1358.03,
+      "event": "won: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786729782.4732234,
+      "bankroll": 1376.6,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786729782.8298523,
+      "bankroll": 1386.21,
+      "event": "won: Lakersfan111 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1786729784.532171,
+      "bankroll": 1395.44,
+      "event": "won: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster - Game 4 Winner"
+    },
+    {
+      "timestamp": 1786729784.8948178,
+      "bankroll": 1408.69,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786729784.994936,
+      "bankroll": 1421.95,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786729785.6134715,
+      "bankroll": 1440.52,
+      "event": "won: CORGI8 \u2014 Counter-Strike: TYLOO vs Lynn Vision - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786729785.713617,
+      "bankroll": 1452.74,
+      "event": "won: CORGI8 \u2014 Dota 2: Aurora vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786729786.7609866,
+      "bankroll": 1442.74,
+      "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786729786.8611314,
+      "bankroll": 1432.74,
+      "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786729787.5251005,
+      "bankroll": 1422.74,
+      "event": "lost: ActionReaction \u2014 LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786729787.9857557,
+      "bankroll": 1412.74,
+      "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786729789.9042277,
+      "bankroll": 1402.74,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: B8 vs Vitality - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786729792.997947,
+      "bankroll": 1392.74,
+      "event": "lost: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786729793.1982217,
+      "bankroll": 1382.74,
+      "event": "lost: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786729793.298356,
+      "bankroll": 1372.74,
+      "event": "lost: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786729793.3984804,
+      "bankroll": 1362.74,
+      "event": "lost: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786729795.8984747,
+      "bankroll": 1378.38,
+      "event": "won: ActionReaction \u2014 Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage"
     }
   ]
 }
