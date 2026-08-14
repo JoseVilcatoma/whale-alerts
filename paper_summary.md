@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 16:40:47 (hora de Perú)
+Actualizado: 2026-08-14 16:42:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,384.28
@@ -19,14 +19,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 25 | 2 | 2 | +113.28 USD |
-| wr0ngw4yb3tt0r | 16 | 11 | 13 | +42.33 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 14 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | UpTheBlues | 4 | 1 | 4 | +16.61 USD |
 | Weaseloftheweek | 0 | 0 | 8 | +0.00 USD |
 | Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 16 | +0.00 USD |
-| ExplosiveNinja | 0 | 0 | 1 | +0.00 USD |
+| ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -75,6 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.1% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: 1 | Over (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 65% | 10.00 | 6.6% | ⏳ pendiente | — |
@@ -102,5 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 50% | 10.00 | 6.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 4.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.6% | ⏳ pendiente | — |
