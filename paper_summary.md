@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:01:51 (hora de Perú)
+Actualizado: 2026-08-14 18:03:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,390.68
-**Retorno acumulado:** +39.07%
+**Bankroll actual:** $1,350.68
+**Retorno acumulado:** +35.07%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,25 +24,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | Talvez10 | 0 | 0 | 3 | +0.00 USD |
-| 111111111115 | 0 | 0 | 22 | +0.00 USD |
+| 111111111115 | 0 | 0 | 23 | +0.00 USD |
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 7 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 2 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 4 | -34.27 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
-| Weaseloftheweek | 0 | 4 | 4 | -40.00 USD |
 | ActionReaction | 2 | 8 | 3 | -55.13 USD |
+| Weaseloftheweek | 0 | 8 | 0 | -80.00 USD |
 | Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 225
-- **Aciertos:** 134 (59.6%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 229
+- **Aciertos:** 134 (58.5%)
+- **Cuota promedio de entrada:** 52.7%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,248.66
-- **ROI sobre lo apostado:** +17.33%
+- **Total apostado (suma de stakes):** $2,288.66
+- **ROI sobre lo apostado:** +15.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,8 +51,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
-| 20-39% | 42 | 47.6% | 29.9% | +17.7 pp |
-| 40-59% | 92 | 50.0% | 47.8% | +2.2 pp |
+| 20-39% | 43 | 46.5% | 29.7% | +16.8 pp |
+| 40-59% | 95 | 48.4% | 48.1% | +0.3 pp |
 | 60-79% | 63 | 76.2% | 66.4% | +9.8 pp |
 | 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -71,12 +71,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
 | val-fur-2game-2026-08-14 | 111111111115, IMAREALPERSON |
+| mlb-cws-det-2026-08-14-total-8pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-mia-cin-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Under (BUY) | 53% | 0.00 | 0.9% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 0.00 | 0.3% | ⏳ pendiente | — |
+| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 0.00 | 5.3% | ⏳ pendiente | — |
 | 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 60% | 0.00 | 0.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: FURIA Esports vs 2GAME Esports | 2GAME Esports (BUY) | 38% | 5.45 | 3.4% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -104,6 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 28% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 23% | 10.00 | 2.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Cincinnati Reds: O/U 7 | Over (BUY) | 48% | 10.00 | 1.5% | ⏳ pendiente | — |
-| Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 3.0% | ⏳ pendiente | — |
