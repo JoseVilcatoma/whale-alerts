@@ -1,5 +1,5 @@
 {
-  "bankroll": 992.1925438139235,
+  "bankroll": 995.6370342954465,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -470,6 +470,26 @@
       "timestamp": 1786682870.5918539,
       "bankroll": 992.19,
       "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Los Angeles Angels: O/U 6.5"
+    },
+    {
+      "timestamp": 1786683747.420116,
+      "bankroll": 992.19,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786683747.5202644,
+      "bankroll": 992.19,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786683754.7317412,
+      "bankroll": 995.35,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1786683756.119957,
+      "bankroll": 995.64,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 6.5"
     }
   ]
 }
