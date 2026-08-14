@@ -3980,5 +3980,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786710130.649402,
     "fills": 1
+  },
+  {
+    "timestamp": 1786711010,
+    "timestamp_added": 1786711011.63827,
+    "username": "ActionReaction",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-al-jdg-2026-08-14-game2",
+    "title": "LoL: Anyone's Legend vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 4194.8085,
+    "whale_pct": 4.596,
+    "whale_value_at_open": 91277.0006,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786711011.6382804,
+    "fills": 1
   }
 ]
