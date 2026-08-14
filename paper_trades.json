@@ -1218,5 +1218,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786669683.6000721,
     "fills": 2
+  },
+  {
+    "timestamp": 1786669966,
+    "timestamp_added": 1786669967.0944514,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ind-ne-2026-08-13",
+    "title": "Colts vs. Patriots",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "whale_usd": 4255.9968,
+    "whale_pct": 1.873,
+    "whale_value_at_open": 227231.2553,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786669967.0944593,
+    "fills": 1
   }
 ]
