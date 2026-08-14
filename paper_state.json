@@ -1,5 +1,5 @@
 {
-  "bankroll": 1430.9103965289903,
+  "bankroll": 1390.9103965289903,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1000,6 +1000,26 @@
       "timestamp": 1786741248.7265935,
       "bankroll": 1430.91,
       "event": "lost: IMAREALPERSON \u2014 Counter-Strike: PARIVISION vs 100 Thieves - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786741313.6387289,
+      "bankroll": 1420.91,
+      "event": "lost: IMAREALPERSON \u2014 Counter-Strike: K27 vs MIBR - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786741313.8390257,
+      "bankroll": 1410.91,
+      "event": "lost: IMAREALPERSON \u2014 Counter-Strike: K27 vs MIBR - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786741372.923373,
+      "bankroll": 1400.91,
+      "event": "lost: Lakersfan111 \u2014 Map Handicap: PRV (-1.5) vs 100 Thieves (+1.5)"
+    },
+    {
+      "timestamp": 1786741376.4794264,
+      "bankroll": 1390.91,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C"
     }
   ]
 }
