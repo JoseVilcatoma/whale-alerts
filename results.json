@@ -1354,5 +1354,20 @@
     "status": "pending",
     "ultimo_fill": 1786681732,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 189,
+    "timestamp": 1786683026,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-boombo-vsn2-2026-08-14-game1",
+    "title": "Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786683026,
+    "fills": 1
   }
 ]
