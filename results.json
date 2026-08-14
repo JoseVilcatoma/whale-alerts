@@ -1729,5 +1729,20 @@
     "status": "pending",
     "ultimo_fill": 1786727540,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 236,
+    "timestamp": 1786727819,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-sd-cle-2026-08-14-total-7pt5",
+    "title": "San Diego Padres vs. Cleveland Guardians: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1786727819,
+    "fills": 1
   }
 ]
