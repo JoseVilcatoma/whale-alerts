@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:51:03 (hora de Perú)
+Actualizado: 2026-08-13 21:53:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $933.52
-**Retorno acumulado:** -6.65%
+**Bankroll actual:** $936.62
+**Retorno acumulado:** -6.34%
 **Peor caída desde un máximo (drawdown):** 9.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| wr0ngw4yb3tt0r | 2 | 1 | 32 | +11.34 USD |
-| IMAREALPERSON | 4 | 0 | 4 | +0.96 USD |
+| wr0ngw4yb3tt0r | 2 | 1 | 33 | +11.34 USD |
+| IMAREALPERSON | 6 | 0 | 4 | +4.06 USD |
 | CORGI8 | 0 | 0 | 10 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 18 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 19 | +0.00 USD |
 | AV23IUa | 0 | 0 | 20 | +0.00 USD |
 | ferrariChampions2026 | 9 | 4 | 43 | -24.20 USD |
-| 1winstreak1 | 12 | 12 | 15 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 18 | -54.57 USD |
 
 ## Análisis general
 
@@ -62,14 +62,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ty-liquid-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
 | dota2-xtreme-gl-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, IMAREALPERSON |
 | wnba-wsh-las-2026-08-13 | 1winstreak1, ferrariChampions2026 |
+| mlb-tex-laa-2026-08-13-spread-away-1pt5 | 1winstreak1, ferrariChampions2026 |
 | wnba-wsh-las-2026-08-13-total-169pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-mil-lad-2026-08-13-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-tex-laa-2026-08-13-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| dota2-huliga-vg-2026-08-13-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 15% | 10.00 | 0.6% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 51% | 10.00 | 7.3% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 49% | 10.00 | 19.6% | 💰 vendida anticipada | +1.43 |
+| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 48% | 10.00 | 13.8% | 💰 vendida anticipada | +1.67 |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 30% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 21% | 7.11 | 0.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 66% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 10.00 | 9.3% | ⏳ pendiente | — |
@@ -93,10 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Texas Rangers (-2.5) | Los Angeles Angels (BUY) | 75% | 0.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 60% | 0.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Los Angeles Angels (BUY) | 19% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Katie Boulter vs Katie  | Katie Volynets (BUY) | 62% | 0.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: TEN (-6.5) | TEN (BUY) | 47% | 0.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. Los Angeles Dodger | Under (BUY) | 57% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 52% | 0.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 31% | 0.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 0.00 | 0.3% | ⏳ pendiente | — |
