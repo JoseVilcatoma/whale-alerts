@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:57:22 (hora de Perú)
+Actualizado: 2026-08-13 21:59:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $937.92
@@ -16,13 +16,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| wr0ngw4yb3tt0r | 2 | 1 | 34 | +11.34 USD |
+| wr0ngw4yb3tt0r | 2 | 1 | 36 | +11.34 USD |
 | IMAREALPERSON | 7 | 0 | 4 | +5.36 USD |
 | CORGI8 | 0 | 0 | 10 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 20 | +0.00 USD |
-| AV23IUa | 0 | 0 | 20 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 22 | +0.00 USD |
+| AV23IUa | 0 | 0 | 22 | +0.00 USD |
 | ferrariChampions2026 | 9 | 4 | 43 | -24.20 USD |
 | 1winstreak1 | 12 | 12 | 18 | -54.57 USD |
 
@@ -72,6 +72,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 55% | 0.00 | 0.1% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.9% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 0.00 | 0.8% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 63% | 0.00 | 0.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 9.64 | 1.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 73% | 10.00 | 2.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 66% | 10.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 46% | 10.00 | 15.9% | 💰 vendida anticipada | +1.30 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 52% | 10.00 | 5.7% | ⏳ pendiente | — |
@@ -96,9 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Cardinals (BUY) | 98% | 10.00 | 0.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 55% | 0.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 0.00 | 0.8% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 65% | 0.00 | 0.8% | ⏳ pendiente | — |
-| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 42% | 0.00 | 7.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 58% | 0.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 39% | 0.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Texas Rangers (BUY) | 61% | 0.00 | 7.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Dodgers (-1.5) | Milwaukee Brewers (BUY) | 65% | 0.00 | 0.2% | ⏳ pendiente | — |
