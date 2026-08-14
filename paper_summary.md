@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 07:50:14 (hora de Perú)
+Actualizado: 2026-08-14 07:52:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,236.87
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 10 | 7 | 3 | +18.97 USD |
 | Lakersfan111 | 9 | 4 | 20 | +15.17 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| ActionReaction | 0 | 0 | 6 | +0.00 USD |
+| ActionReaction | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 9 | -8.19 USD |
+| midwicket72 | 3 | 1 | 10 | -8.19 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
@@ -66,6 +66,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 54% | 10.00 | 5.5% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 35% | 10.00 | 12.2% | ⏳ pendiente | — |
 | ActionReaction | LoL: MVK Esports vs CTBC Flying Oyster ( | MVK Esports (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 53% | 10.00 | 23.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: B8 vs Vitality - Map 1 W | B8 (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -93,6 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 42% | 10.00 | 2.0% | ✅ ganada | +13.81 |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Sunrisers Leeds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Vici Gaming vs GamerLegion - Gam | GamerLegion (BUY) | 41% | 10.00 | 22.9% | ✅ ganada | +14.39 |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Liquid vs Team Spirit (BO3) | Team Liquid (BUY) | 48% | 10.00 | 22.6% | ⏳ pendiente | — |
