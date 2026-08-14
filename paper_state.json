@@ -1,5 +1,5 @@
 {
-  "bankroll": 1362.2839759367096,
+  "bankroll": 1380.8554045081382,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -750,6 +750,11 @@
       "timestamp": 1786719060.7769063,
       "bankroll": 1362.28,
       "event": "won: Lakersfan111 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1786719120.652861,
+      "bankroll": 1380.86,
+      "event": "won: CORGI8 \u2014 Counter-Strike: TYLOO vs Lynn Vision - Map 2 Winner"
     }
   ]
 }
