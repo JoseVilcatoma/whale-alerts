@@ -1,5 +1,5 @@
 {
-  "bankroll": 1440.9103965289903,
+  "bankroll": 1430.9103965289903,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -995,6 +995,11 @@
       "timestamp": 1786739168.217359,
       "bankroll": 1440.91,
       "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Yorkshire vs Nottinghamshire"
+    },
+    {
+      "timestamp": 1786741248.7265935,
+      "bankroll": 1430.91,
+      "event": "lost: IMAREALPERSON \u2014 Counter-Strike: PARIVISION vs 100 Thieves - Map 2 Winner"
     }
   ]
 }
