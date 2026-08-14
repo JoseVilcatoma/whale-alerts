@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 01:20:44 (hora de Perú)
+Actualizado: 2026-08-14 01:22:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,136.33
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 0 | 2 | +24.01 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 2 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
-| Lakersfan111 | 0 | 0 | 5 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 3 | 1 | 0 | -8.19 USD |
 | ferrariChampions2026 | 14 | 10 | 6 | -50.01 USD |
 | 1winstreak1 | 10 | 12 | 1 | -54.57 USD |
@@ -63,6 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3 | Dplus KIA (BUY) | 41% | 10.00 | 0.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs OG (BO3) - Th | Team Resilience (BUY) | 51% | 10.00 | 26.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: EDward Gaming vs LGD Gaming (BO3) - | LGD Gaming (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AL (-1.5) vs JD Gaming (+ | JD Gaming (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -92,4 +93,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ✅ ganada | +28.46 |
-| 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 50% | 10.00 | 18.0% | ❌ perdida | -10.00 |
