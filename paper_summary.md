@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 21:44:46 (hora de Perú)
+Actualizado: 2026-08-13 21:46:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,011.17
-**Retorno acumulado:** +1.12%
-**Peor caída desde un máximo (drawdown):** 3.32%
+**Bankroll actual:** $988.28
+**Retorno acumulado:** -1.17%
+**Peor caída desde un máximo (drawdown):** 3.93%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -16,24 +16,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 35 | +14.57 USD |
-| wr0ngw4yb3tt0r | 2 | 1 | 31 | +11.34 USD |
+| wr0ngw4yb3tt0r | 2 | 1 | 32 | +11.34 USD |
 | IMAREALPERSON | 4 | 0 | 4 | +0.96 USD |
-| CORGI8 | 0 | 0 | 9 | +0.00 USD |
+| CORGI8 | 0 | 0 | 10 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 16 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 18 | +0.00 USD |
 | AV23IUa | 0 | 0 | 20 | +0.00 USD |
+| 1winstreak1 | 7 | 5 | 27 | -8.32 USD |
 | ferrariChampions2026 | 8 | 3 | 45 | -15.69 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 16
-- **Aciertos:** 12 (75.0%)
-- **Cuota promedio de entrada:** 63.1%
-- **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $160.00
-- **ROI sobre lo apostado:** +6.39%
+- **Apuestas resueltas:** 26
+- **Aciertos:** 17 (65.4%)
+- **Cuota promedio de entrada:** 59.5%
+- **Stake promedio:** $9.23
+- **Total apostado (suma de stakes):** $240.00
+- **ROI sobre lo apostado:** -5.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -42,10 +42,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 13.0% | -13.0 pp |
-| 20-39% | 1 | 0.0% | 23.0% | -23.0 pp |
-| 40-59% | 4 | 75.0% | 53.0% | +22.0 pp |
-| 60-79% | 3 | 100.0% | 67.7% | +32.3 pp |
-| 80-94% | 6 | 100.0% | 91.0% | +9.0 pp |
+| 20-39% | 3 | 0.0% | 29.3% | -29.3 pp |
+| 40-59% | 8 | 62.5% | 50.8% | +11.8 pp |
+| 60-79% | 6 | 83.3% | 66.5% | +16.8 pp |
+| 80-94% | 7 | 100.0% | 89.7% | +10.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -70,6 +70,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 21% | 7.11 | 0.2% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 66% | 10.00 | 0.9% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion (BO | Xtreme Gaming (BUY) | 45% | 10.00 | 9.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 55% | 10.00 | 8.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
+| 1winstreak1 | Texas Rangers vs. Los Angeles Angels | Texas Rangers (BUY) | 36% | 10.00 | 0.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 58% | 0.00 | 2.2% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: NIP vs BetBoom Team (BO3 | BetBoom Team (BUY) | 66% | 1.34 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -94,9 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 25% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Mystics vs. Las Vegas Aces | Washington Mystics (BUY) | 31% | 0.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 53% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Chicago Fire FC win on 2026-08-13? | No (BUY) | 76% | 0.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CF Cruz Azul vs. Chicago Fire FC en | Yes (BUY) | 49% | 0.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 32% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Portland Timbers win on 2026-08-13? | Yes (BUY) | 57% | 0.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 25% | 0.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Portland Timbers win on 2026-08-13? | No (BUY) | 41% | 0.00 | 0.2% | ⏳ pendiente | — |
