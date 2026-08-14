@@ -180,19 +180,27 @@ def get_market(slug, max_age=300):
 
 
 def days_to_resolution(market):
-    """Cuántos días faltan para que el mercado resuelva, según su fecha de
-    cierre esperada. Si no se puede determinar, devuelve None (y en ese
-    caso se deja pasar la apuesta, para no perdernos algo válido por un
-    dato faltante)."""
+    """Cuántos días faltan para que el mercado resuelva.
+
+    OJO: en mercados deportivos, el 'endDate' de Polymarket suele tener mucho
+    margen administrativo de sobra (una semana o más) aunque el partido se
+    juegue hoy mismo. Por eso, si el mercado trae la hora real de inicio del
+    partido (gameStartTime), usamos ESA — si no, caemos al endDate como antes.
+    Sin este arreglo se descartaban partidos del día por creer que resolvían
+    en 7 días.
+
+    Si no se puede determinar, devuelve None (y en ese caso se deja pasar la
+    apuesta, para no perdernos algo válido por un dato faltante)."""
     if not market:
         return None
-    end = market.get("endDate") or market.get("endDateIso") or market.get("end_date")
-    if not end:
+    fecha = (market.get("gameStartTime") or market.get("game_start_time")
+             or market.get("endDate") or market.get("endDateIso") or market.get("end_date"))
+    if not fecha:
         return None
     try:
-        end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+        dt = datetime.fromisoformat(str(fecha).replace("Z", "+00:00"))
         now_dt = datetime.now(timezone.utc)
-        return (end_dt - now_dt).total_seconds() / 86400
+        return (dt - now_dt).total_seconds() / 86400
     except Exception:
         return None
 
@@ -333,11 +341,12 @@ def short_term_trade_ratio(wallet):
         market = get_market(slug)
         if not market:
             continue
-        end = market.get("endDate") or market.get("endDateIso") or market.get("end_date")
+        end = (market.get("gameStartTime") or market.get("game_start_time")
+               or market.get("endDate") or market.get("endDateIso") or market.get("end_date"))
         if not end:
             continue
         try:
-            end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+            end_dt = datetime.fromisoformat(str(end).replace("Z", "+00:00"))
             trade_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
             days = (end_dt - trade_dt).total_seconds() / 86400
         except Exception:
@@ -881,20 +890,32 @@ def save_and_commit():
         os.system("git add paper_trades.json paper_state.json paper_summary.md paper_watched.json")
         os.system('git diff --staged --quiet || git commit -m "actualizar simulación de paper trading"')
 
-        for intento in range(3):
-            push_ok = os.system("git push") == 0
-            if push_ok:
+        # OJO: el bot de alertas (whale_alert_bot.py) escribe en ESTE MISMO repo
+        # al mismo tiempo (results.json / results.md). Cuando los dos hacen push
+        # a la vez, uno de los dos se lleva un "rejected (fetch first)". Por eso
+        # acá reintentamos con espera creciente y trayendo primero lo del otro
+        # bot, quedándonos siempre con NUESTRA versión de los paper_* si hay
+        # choque (se regeneran enteros en cada ciclo, no hay nada que perder).
+        for intento in range(5):
+            if os.system("git push") == 0:
+                if intento:
+                    print(f"[save_and_commit] push OK en el intento {intento+1}")
                 break
-            print(f"[save_and_commit] push rechazado (intento {intento+1}/3), "
-                  f"bajando cambios ajenos y quedándonos con nuestra versión de los paper_* si hay choque...",
+            espera = 2 ** intento  # 1s, 2s, 4s, 8s, 16s
+            print(f"[save_and_commit] push rechazado (intento {intento+1}/5) — probablemente el bot de "
+                  f"alertas escribió al mismo tiempo. Trayendo sus cambios y reintentando en {espera}s...",
                   file=sys.stderr)
-            os.system("git fetch origin main")
-            merge_ok = os.system('git merge --no-edit -X ours origin/main') == 0
-            if not merge_ok:
+            time.sleep(espera)
+            if os.system("git fetch origin main") != 0:
+                continue
+            if os.system('git merge --no-edit -X ours origin/main') != 0:
                 os.system("git merge --abort")
                 print("[save_and_commit] no se pudo fusionar automáticamente, se reintenta en el próximo ciclo",
                       file=sys.stderr)
                 break
+        else:
+            print("[save_and_commit] no se logró hacer push tras 5 intentos — los datos quedan guardados "
+                  "en disco y se vuelven a intentar en el próximo ciclo (no se pierde nada)", file=sys.stderr)
         trades_dirty = False
     except Exception as e:
         import traceback
