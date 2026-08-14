@@ -1,5 +1,5 @@
 {
-  "bankroll": 999.8310301575971,
+  "bankroll": 965.5567718473633,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -70,6 +70,371 @@
       "timestamp": 1786673849.4985404,
       "bankroll": 999.83,
       "event": "lost: ferrariChampions2026 \u2014 National Bank Open: Ben Shelton vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1786687708.4854026,
+      "bankroll": 989.83,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Sparks vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786687708.8062875,
+      "bankroll": 979.83,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Red Feet vs QUINTESS\u00caNCIA (BO3) - CCT South America Challengers #2 Playoffs"
+    },
+    {
+      "timestamp": 1786687709.0484097,
+      "bankroll": 969.83,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786687709.4645903,
+      "bankroll": 959.83,
+      "event": "lost: ferrariChampions2026 \u2014 Will Philadelphia Union win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786687709.727386,
+      "bankroll": 949.83,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687709.8275502,
+      "bankroll": 964.22,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786687710.104443,
+      "bankroll": 981.25,
+      "event": "won: ferrariChampions2026 \u2014 Will New York City FC win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786687710.384233,
+      "bankroll": 971.25,
+      "event": "lost: ferrariChampions2026 \u2014 Will New York City FC vs. Club Necaxa end in a draw?"
+    },
+    {
+      "timestamp": 1786687710.6171622,
+      "bankroll": 961.25,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687710.9050038,
+      "bankroll": 951.25,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786687711.1818573,
+      "bankroll": 941.25,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786687711.2819607,
+      "bankroll": 931.25,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786687711.541398,
+      "bankroll": 942.08,
+      "event": "won: wr0ngw4yb3tt0r \u2014 LAC vs. HOU: O/U 38.5"
+    },
+    {
+      "timestamp": 1786687711.6415188,
+      "bankroll": 932.08,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687711.7417083,
+      "bankroll": 941.31,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687711.841847,
+      "bankroll": 954.57,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786687711.9419906,
+      "bankroll": 961.81,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687712.0421908,
+      "bankroll": 971.04,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687712.4231248,
+      "bankroll": 977.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Packers vs. Steelers"
+    },
+    {
+      "timestamp": 1786687712.658394,
+      "bankroll": 967.99,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786687712.7585492,
+      "bankroll": 957.99,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687712.9960701,
+      "bankroll": 968.82,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786687713.2642004,
+      "bankroll": 975.49,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786687713.3643389,
+      "bankroll": 965.49,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786687713.4644697,
+      "bankroll": 969.78,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687713.5646443,
+      "bankroll": 959.78,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786687713.8285398,
+      "bankroll": 966.44,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Team Envy vs M80 (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1786687713.9287252,
+      "bankroll": 968.07,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687714.1705604,
+      "bankroll": 975.31,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786687714.2706568,
+      "bankroll": 976.81,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687714.3707852,
+      "bankroll": 966.81,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Katie Boulter vs Katie Volynets"
+    },
+    {
+      "timestamp": 1786687714.6405108,
+      "bankroll": 968.57,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Club Santos Laguna (-2.5)"
+    },
+    {
+      "timestamp": 1786687714.903803,
+      "bankroll": 958.57,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1786687715.0039973,
+      "bankroll": 948.57,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 10.5"
+    },
+    {
+      "timestamp": 1786687715.1041105,
+      "bankroll": 938.57,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786687715.3852563,
+      "bankroll": 928.57,
+      "event": "lost: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786687715.4854689,
+      "bankroll": 938.18,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786687715.5856044,
+      "bankroll": 928.18,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687715.685787,
+      "bankroll": 918.18,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687716.0568085,
+      "bankroll": 924.31,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786687716.1569474,
+      "bankroll": 914.31,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687716.2571468,
+      "bankroll": 904.31,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687716.3573873,
+      "bankroll": 905.06,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786687716.4575086,
+      "bankroll": 895.06,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687716.657777,
+      "bankroll": 885.06,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786687716.7578852,
+      "bankroll": 885.59,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786687716.8579938,
+      "bankroll": 875.59,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cardinals vs. Raiders"
+    },
+    {
+      "timestamp": 1786687716.9581466,
+      "bankroll": 865.59,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687717.0583167,
+      "bankroll": 855.59,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687717.1584637,
+      "bankroll": 845.59,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687717.502037,
+      "bankroll": 853.77,
+      "event": "won: Sassy-Bucket \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786687717.7694874,
+      "bankroll": 863.38,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1786687718.0315075,
+      "bankroll": 853.38,
+      "event": "lost: AV23IUa \u2014 Will SC Corinthians Paulista win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786687718.2638946,
+      "bankroll": 867.19,
+      "event": "won: AV23IUa \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786687718.3640575,
+      "bankroll": 857.19,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1786687719.308349,
+      "bankroll": 857.71,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786687719.5656066,
+      "bankroll": 891.19,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786687719.6657631,
+      "bankroll": 924.67,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786687719.7658744,
+      "bankroll": 958.15,
+      "event": "won: AV23IUa \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786687720.0292754,
+      "bankroll": 948.15,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1786687720.2295303,
+      "bankroll": 938.15,
+      "event": "lost: 1winstreak1 \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1786687720.4919915,
+      "bankroll": 939.64,
+      "event": "won: ferrariChampions2026 \u2014 Will SC Corinthians Paulista win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786687720.5921333,
+      "bankroll": 929.64,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786687721.0523765,
+      "bankroll": 919.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786687721.152593,
+      "bankroll": 909.64,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Gael Monfils"
+    },
+    {
+      "timestamp": 1786687721.606246,
+      "bankroll": 916.88,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786687721.7064528,
+      "bankroll": 923.83,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786687721.8066528,
+      "bankroll": 931.37,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Titans vs. 49ers"
+    },
+    {
+      "timestamp": 1786687722.0069644,
+      "bankroll": 935.46,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chargers vs. Texans"
+    },
+    {
+      "timestamp": 1786687722.1071038,
+      "bankroll": 943.0,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786687722.3074124,
+      "bankroll": 944.37,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Sparks vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786687722.6078298,
+      "bankroll": 956.33,
+      "event": "won: AV23IUa \u2014 Texas Rangers vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786687722.7080033,
+      "bankroll": 965.56,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Spirit vs Aurora - Game 1 Winner"
     }
   ]
 }
