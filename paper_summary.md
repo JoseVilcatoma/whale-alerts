@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:53:42 (hora de Perú)
+Actualizado: 2026-08-13 22:55:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,007.34
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | AV23IUa | 3 | 0 | 24 | +100.44 USD |
 | IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
-| CORGI8 | 0 | 0 | 14 | +0.00 USD |
+| CORGI8 | 0 | 0 | 16 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 26 | +0.00 USD |
 | wr0ngw4yb3tt0r | 7 | 6 | 28 | -5.38 USD |
 | ferrariChampions2026 | 17 | 11 | 28 | -41.50 USD |
-| 1winstreak1 | 12 | 12 | 26 | -54.57 USD |
+| 1winstreak1 | 12 | 12 | 29 | -54.57 USD |
 
 ## Análisis general
 
@@ -76,6 +76,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 2.7% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: LGD Gaming vs Nigma Galaxy (BO3) | LGD Gaming (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 79% | 10.00 | 4.7% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Las Vegas Aces (-6.5) | Las Vegas Aces (BUY) | 53% | 10.00 | 0.7% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Las Vegas Aces (-7.5) | Las Vegas Aces (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: HULIGANI vs Vici Gaming - Game 2 | HULIGANI (BUY) | 31% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 38% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -101,8 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Titans vs. 49ers | 49ers (BUY) | 30% | 0.00 | 0.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 0.00 | 1.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 55% | 0.00 | 0.1% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 0.00 | 0.9% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 0.00 | 0.8% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Xtreme Gaming vs GamerLegion - G | Xtreme Gaming (BUY) | 63% | 0.00 | 0.7% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid - Gam | Team Yandex (BUY) | 64% | 9.64 | 1.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Los Angeles Angels | Los Angeles Angels (BUY) | 73% | 10.00 | 2.6% | ⏳ pendiente | — |
