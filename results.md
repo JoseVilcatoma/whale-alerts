@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 20:18:10 (hora de Perú)
+Actualizado: 2026-08-13 20:20:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **85**  ($4,631,858 en total)
+- Apuestas registradas: **86**  ($4,662,068 en total)
 - Resueltas: **70** — 42 ganadas / 28 perdidas (**60%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 36
+- Pendientes: 16
+- Apostadores distintos: 37
 
 ### Balance
 
@@ -53,6 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 0 | 0 | 1 | — | $30,691 | — |
+| Elaran1993 | 0 | 0 | 1 | — | $30,210 | — |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
@@ -65,6 +66,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | — | ⏳ Pendiente |
 | huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | — | ⏳ Pendiente |
 | basementdweller3000 | Titans vs. 49ers | Titans | 1.41 (71¢) | $49,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | — | ⏳ Pendiente |
@@ -124,4 +126,3 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | hansama231 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.64 (61¢) | $34,160 | +$21,840 | ✅ Ganada |
 | NemecGhudini | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.67 (60¢) | $31,590 | +$21,060 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Team Spirit | 1.61 (62¢) | $32,000 | +$19,613 | ✅ Ganada |
-| Djdjdjekekek | Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 2.63 (38¢) | $74,600 | -$9,816 | 💰 Vendida antes |
