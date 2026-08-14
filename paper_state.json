@@ -1,5 +1,5 @@
 {
-  "bankroll": 1236.8691119385473,
+  "bankroll": 1166.8691119385473,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -610,6 +610,41 @@
       "timestamp": 1786711562.2268846,
       "bankroll": 1236.87,
       "event": "lost: Lakersfan111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786713121.0917351,
+      "bankroll": 1226.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713121.1918705,
+      "bankroll": 1216.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713121.5339282,
+      "bankroll": 1206.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713121.834473,
+      "bankroll": 1196.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713123.3099785,
+      "bankroll": 1186.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713123.4101815,
+      "bankroll": 1176.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786713123.7955265,
+      "bankroll": 1166.87,
+      "event": "lost: CORGI8 \u2014 Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage"
     }
   ]
 }
