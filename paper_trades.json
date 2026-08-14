@@ -6083,5 +6083,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786681856.173071,
     "fills": 2
+  },
+  {
+    "timestamp": 1786681963,
+    "timestamp_added": 1786681963.408437,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 153.51,
+    "whale_pct": 0.127,
+    "whale_value_at_open": 120566.0979,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786681963.4084418,
+    "fills": 1
   }
 ]
