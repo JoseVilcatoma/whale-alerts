@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 20:52:26 (hora de Perú)
+Actualizado: 2026-08-13 20:54:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.66
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 2 | 0 | 19 | +14.57 USD |
-| ferrariChampions2026 | 4 | 0 | 17 | +3.13 USD |
+| 1winstreak1 | 2 | 0 | 20 | +14.57 USD |
+| ferrariChampions2026 | 4 | 0 | 18 | +3.13 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 15 | +0.00 USD |
-| CORGI8 | 0 | 0 | 4 | +0.00 USD |
+| CORGI8 | 0 | 0 | 5 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
 | midwicket72 | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 2 | +0.00 USD |
@@ -51,11 +51,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|
 | mlb-tex-laa-2026-08-13-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-phi-min-2026-08-13 | 1winstreak1, ferrariChampions2026 |
+| lol-miss-dog-2026-08-13 | IMAREALPERSON, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: University of Mississippi vs Dorado | Dorado Gaming (BUY) | 74% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 3.0% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 50% | 10.00 | 18.0% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Open: Rinky Hijikata vs Gael  | Rinky Hijikata (BUY) | 23% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -83,6 +87,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 9.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Guyana Amazon Warriors (BUY) | 95% | 10.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cardinals vs. Raiders | Raiders (BUY) | 27% | 10.00 | 0.2% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Xtreme Gaming vs GamerLegion (BO | GamerLegion (BUY) | 26% | 10.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Los Angeles Angels: O/ | Over (BUY) | 47% | 10.00 | 26.3% | ⏳ pendiente | — |
