@@ -1,5 +1,5 @@
 {
-  "bankroll": 1357.5901640015186,
+  "bankroll": 1347.5901640015186,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -830,6 +830,11 @@
       "timestamp": 1786724240.801996,
       "bankroll": 1357.59,
       "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786724803.04447,
+      "bankroll": 1347.59,
+      "event": "lost: ActionReaction \u2014 LoL: Anyone's Legend vs JD Gaming - Game 2 Winner"
     }
   ]
 }
