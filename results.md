@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 14:06:17 (hora de Perú)
+Actualizado: 2026-08-14 14:08:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **122**  ($5,976,669 en total)
-- Resueltas: **106** — 62 ganadas / 44 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Resueltas: **112** — 65 ganadas / 47 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 48
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,741** sobre $5,392,800 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$509** sobre $10,300 (ROI **-4.9%**)
+- **Resultado de los apostadores: -$58,670** sobre $5,607,265 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$630** sobre $10,900 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 3 | 5 | 81% | $1,307,429 | +$214,031 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 13 | 6 | 2 | 68% | $1,307,429 | +$97,110 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | Sassy-Bucket | 2 | 0 | 1 | ⚠️ 100% (2) | $186,137 | +$113,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 3 | ⚠️ 100% (1) | $123,570 | +$17,351 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
@@ -74,14 +74,14 @@ _(mostrando los 40 de mayor monto, de 48 en total)_
 | g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | — | ⏳ Pendiente |
 | Feromont | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | +$23,551 | ✅ Ganada |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | +$9,945 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | -$43,321 | ❌ Perdida |
 | Sassy-Bucket | San Diego Padres vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.85 (54¢) | $90,511 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | +$23,015 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | +$1,682 | ✅ Ganada |
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
