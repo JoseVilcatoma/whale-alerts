@@ -6494,5 +6494,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786740019.6843293,
     "fills": 1
+  },
+  {
+    "timestamp": 1786740223,
+    "timestamp_added": 1786740223.5562165,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "val-fur-2game-2026-08-14",
+    "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "2GAME Esports",
+    "side": "BUY",
+    "whale_usd": 77.44,
+    "whale_pct": 0.322,
+    "whale_value_at_open": 24033.2028,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786740223.5562236,
+    "fills": 1
   }
 ]
