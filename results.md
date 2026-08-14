@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 08:52:35 (hora de Perú)
+Actualizado: 2026-08-14 08:54:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **107**  ($5,419,918 en total)
+- Apuestas registradas: **108**  ($5,448,592 en total)
 - Resueltas: **92** — 55 ganadas / 37 perdidas (**60%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 42
+- Pendientes: 16
+- Apostadores distintos: 43
 
 ### Balance
 
@@ -57,20 +57,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | CORGI8 | 0 | 0 | 1 | — | $29,980 | — |
+| jackpeter888 | 0 | 0 | 1 | — | $28,674 | — |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | TAIWANNUMBERONE | 0 | 0 | 1 | — | $27,031 | — |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
 | b0c | 0 | 1 | 0 | ⚠️ 0% (1) | $26,397 | -$26,397 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,026 | +$17,351 |
 | RN1 | 0 | 1 | 0 | ⚠️ 0% (1) | $25,864 | -$25,864 |
-| madwish355 | 1 | 0 | 0 | ⚠️ 100% (1) | $25,652 | +$5,254 |
 
-_(mostrando los 40 de mayor monto, de 42 en total)_
+_(mostrando los 40 de mayor monto, de 43 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 42 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B | Legacy | 2.00 (50¢) | $36,923 | -$36,923 | ❌ Perdida |
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.67 (60¢) | $69,296 | -$69,296 | ❌ Perdida |
 | highnetworth | Cincinnati Open: Martin Landaluce vs Jack Draper | Martin Landaluce | 1.92 (52¢) | $99,472 | +$91,821 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Martin Landaluce vs Jack Draper | Jack Draper | 2.08 (48¢) | $49,812 | -$49,812 | ❌ Perdida |

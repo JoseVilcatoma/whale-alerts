@@ -1609,5 +1609,20 @@
     "status": "pending",
     "ultimo_fill": 1786713937,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 218,
+    "timestamp": 1786715630,
+    "username": "jackpeter888",
+    "wallet": "0x292f242d62653d674ffbb5a0782f035069067fc2",
+    "slug": "lol-al-jdg-2026-08-14",
+    "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 28673.984300000004,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1786715630,
+    "fills": 1
   }
 ]
