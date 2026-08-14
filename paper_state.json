@@ -1,5 +1,5 @@
 {
-  "bankroll": 967.184431598061,
+  "bankroll": 958.9897513490513,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1035,6 +1035,31 @@
       "timestamp": 1786685549.6605546,
       "bankroll": 967.18,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786685798.6677306,
+      "bankroll": 957.18,
+      "event": "lost: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786685798.968199,
+      "bankroll": 957.94,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786685799.1684911,
+      "bankroll": 958.46,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786685800.6429725,
+      "bankroll": 958.99,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
+    },
+    {
+      "timestamp": 1786685802.1453936,
+      "bankroll": 958.99,
+      "event": "won: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors"
     }
   ]
 }
