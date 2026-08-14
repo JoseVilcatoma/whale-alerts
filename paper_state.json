@@ -1,5 +1,5 @@
 {
-  "bankroll": 892.5736016802557,
+  "bankroll": 903.4069350135891,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -820,6 +820,11 @@
       "timestamp": 1786684555.8640304,
       "bankroll": 892.57,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Los Angeles Angels (-2.5)"
+    },
+    {
+      "timestamp": 1786684728.2111273,
+      "bankroll": 903.41,
+      "event": "won: wr0ngw4yb3tt0r \u2014 LAC vs. HOU: O/U 38.5"
     }
   ]
 }

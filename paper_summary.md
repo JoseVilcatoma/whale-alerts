@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 00:17:04 (hora de Perú)
+Actualizado: 2026-08-14 00:19:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $892.57
-**Retorno acumulado:** -10.74%
+**Bankroll actual:** $903.41
+**Retorno acumulado:** -9.66%
 **Peor caída desde un máximo (drawdown):** 14.84%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | AV23IUa | 5 | 1 | 27 | +116.21 USD |
+| wr0ngw4yb3tt0r | 22 | 15 | 9 | +14.41 USD |
 | IMAREALPERSON | 10 | 0 | 3 | +8.36 USD |
-| wr0ngw4yb3tt0r | 21 | 15 | 10 | +3.58 USD |
 | CORGI8 | 1 | 0 | 15 | +2.17 USD |
 | midwicket72 | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 2 | 24 | +0.00 USD |
@@ -30,12 +30,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 160
-- **Aciertos:** 81 (50.6%)
-- **Cuota promedio de entrada:** 52.2%
-- **Stake promedio:** $6.16
-- **Total apostado (suma de stakes):** $985.81
-- **ROI sobre lo apostado:** -11.74%
+- **Apuestas resueltas:** 161
+- **Aciertos:** 82 (50.9%)
+- **Cuota promedio de entrada:** 52.1%
+- **Stake promedio:** $6.19
+- **Total apostado (suma de stakes):** $995.81
+- **ROI sobre lo apostado:** -10.54%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 8 | 12.5% | 14.2% | -1.8 pp |
 | 20-39% | 35 | 28.6% | 30.1% | -1.5 pp |
-| 40-59% | 65 | 47.7% | 50.0% | -2.3 pp |
+| 40-59% | 66 | 48.5% | 49.9% | -1.4 pp |
 | 60-79% | 31 | 61.3% | 67.5% | -6.2 pp |
 | 80-94% | 20 | 95.0% | 87.2% | +7.8 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 98.0% | +2.0 pp |
