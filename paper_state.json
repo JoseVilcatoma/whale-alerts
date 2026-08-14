@@ -1,5 +1,5 @@
 {
-  "bankroll": 997.8098914383037,
+  "bankroll": 1014.8596341484237,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -515,6 +515,31 @@
       "timestamp": 1786683804.7443879,
       "bankroll": 997.81,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Xtreme Gaming vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786683921.8483958,
+      "bankroll": 1005.99,
+      "event": "won: Sassy-Bucket \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786683928.921773,
+      "bankroll": 1005.99,
+      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786683935.643499,
+      "bankroll": 1014.86,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786683936.6448793,
+      "bankroll": 1014.86,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786683938.2337613,
+      "bankroll": 1014.86,
+      "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5"
     }
   ]
 }
