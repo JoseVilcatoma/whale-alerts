@@ -4864,5 +4864,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786713577.6353714,
     "fills": 1
+  },
+  {
+    "timestamp": 1786713720,
+    "timestamp_added": 1786713720.7908006,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-b8-vit-2026-08-14",
+    "title": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 1006.7727,
+    "whale_pct": 0.619,
+    "whale_value_at_open": 162721.6891,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786713720.7908065,
+    "fills": 1
   }
 ]
