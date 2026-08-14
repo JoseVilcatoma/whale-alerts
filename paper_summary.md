@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 10:28:39 (hora de Perú)
+Actualizado: 2026-08-14 10:30:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,384.15
@@ -17,14 +17,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 15 | 7 | 1 | +225.46 USD |
-| Lakersfan111 | 23 | 5 | 19 | +201.85 USD |
+| Lakersfan111 | 23 | 5 | 20 | +201.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
 | IMAREALPERSON | 4 | 0 | 0 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
-| midwicket72 | 3 | 1 | 41 | -8.19 USD |
+| midwicket72 | 3 | 1 | 42 | -8.19 USD |
 | ActionReaction | 0 | 1 | 11 | -10.00 USD |
 | ferrariChampions2026 | 22 | 10 | 10 | -33.76 USD |
 | 1winstreak1 | 11 | 12 | 0 | -34.27 USD |
@@ -70,6 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 2.1% | ⏳ pendiente | — |
+| midwicket72 | The Hundred: Manchester Super Giants vs  | Manchester Super Giants (BUY) | 48% | 10.00 | 0.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 45% | 10.00 | 5.1% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 20% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -98,5 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs MOUZ (BO3 | FUT Esports (BUY) | 58% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: B8 vs Vitality (BO3) - E | B8 (BUY) | 21% | 10.00 | 1.9% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Lancashire vs Du | Durham (BUY) | 81% | 10.00 | 2.0% | ⏳ pendiente | — |
