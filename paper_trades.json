@@ -1444,5 +1444,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786670633.3549705,
     "fills": 1
+  },
+  {
+    "timestamp": 1786670776,
+    "timestamp_added": 1786670776.9449232,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 11403.14,
+    "whale_pct": 9.061,
+    "whale_value_at_open": 125850.488,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786670776.9449294,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786670797,
+    "timestamp_added": 1786670797.2425342,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 228.06279999999998,
+    "whale_pct": 0.181,
+    "whale_value_at_open": 125850.488,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786670797.2425437,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786670846,
+    "timestamp_added": 1786670847.1607375,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-laa-2026-08-13-total-7pt5",
+    "title": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4543.0388,
+    "whale_pct": 3.295,
+    "whale_value_at_open": 137860.9722,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786670847.1607423,
+    "fills": 1
   }
 ]
