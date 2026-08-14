@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 21:15:57 (hora de Perú)
+Actualizado: 2026-08-13 21:18:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **86**  ($4,662,068 en total)
-- Resueltas: **71** — 43 ganadas / 28 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **78** — 49 ganadas / 29 perdidas (**63%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 37
 
 ### Balance
 
-- **Resultado de los apostadores: +$274,783** sobre $3,892,083 apostados (ROI **+7.1%**)
-- Copiando $100 fijo en cada una: **+$43** sobre $6,800 (ROI **+0.6%**)
+- **Resultado de los apostadores: +$366,485** sobre $4,233,935 apostados (ROI **+8.7%**)
+- Copiando $100 fijo en cada una: **+$222** sobre $7,500 (ROI **+3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,20 +24,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 10 | 2 | 1 | 83% | $933,363 | +$248,400 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 11 | 2 | 0 | 85% | $933,363 | +$264,686 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
-| Weaseloftheweek | 3 | 4 | 4 | ⚠️ 43% (7) | $503,050 | +$26,462 |
+| Weaseloftheweek | 6 | 4 | 1 | 60% | $503,050 | +$80,579 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| AV23IUa | 2 | 2 | 1 | ⚠️ 50% (4) | $259,293 | +$31,034 |
+| AV23IUa | 2 | 3 | 0 | ⚠️ 40% (5) | $259,293 | -$12,916 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 0 | 3 | ⚠️ 100% (2) | $245,286 | +$141,199 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | Sassy-Bucket | 2 | 0 | 0 | ⚠️ 100% (2) | $139,137 | +$113,647 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
-| TennisLove | 0 | 0 | 1 | — | $100,000 | — |
+| TennisLove | 1 | 0 | 0 | ⚠️ 100% (1) | $100,000 | +$42,857 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | pleaseplease123 | 0 | 0 | 1 | — | $99,433 | — |
-| Marcoli | 0 | 1 | 1 | ⚠️ 0% (1) | $89,838 | -$40,000 |
+| Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | NemecGhudini | 2 | 0 | 0 | ⚠️ 100% (2) | $86,190 | +$36,460 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,000 | +$49,788 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
@@ -71,20 +71,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | Titans vs. 49ers | Titans | 1.41 (71¢) | $49,700 | — | ⏳ Pendiente |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
-| AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | — | ⏳ Pendiente |
-| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | — | ⏳ Pendiente |
+| AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | -$43,950 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | +$16,286 | ✅ Ganada |
+| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | +$25,632 | ✅ Ganada |
 | BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | +$11,457 | ✅ Ganada |
 | Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | +$16,526 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | — | ⏳ Pendiente |
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
-| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | — | ⏳ Pendiente |
+| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | +$12,717 | ✅ Ganada |
 | Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | — | ⏳ Pendiente |
 | AV23IUa | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.82 (55¢) | $91,507 | +$74,870 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski | Thiago Agustin Tirante | 1.15 (87¢) | $49,678 | +$7,423 | ✅ Ganada |
 | aaditp | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 2.70 (37¢) | $37,966 | -$37,966 | ❌ Perdida |
 | Weaseloftheweek | Chicago Cubs vs. Washington Nationals | Washington Nationals | 1.72 (58¢) | $58,000 | +$42,000 | ✅ Ganada |
-| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | — | ⏳ Pendiente |
+| Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $33,507 | +$15,768 | ✅ Ganada |
 | Weaseloftheweek | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $26,987 | -$26,987 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: GB (-2.5) | GB | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago Cubs vs. Washington Nationals | Chicago Cubs | 1.72 (58¢) | $36,000 | -$36,000 | ❌ Perdida |
@@ -109,13 +109,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | Seattle Mariners vs. New York Yankees | New York Yankees | 1.72 (58¢) | $30,006 | -$30,006 | ❌ Perdida |
 | ferrariChampions2026 | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | G2 | 1.15 (87¢) | $26,841 | +$4,011 | ✅ Ganada |
 | Lakersfan111 | Counter-Strike: Aurora Gaming vs M80 - Map 1 Winner | Aurora Gaming | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
-| Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | — | ⏳ Pendiente |
+| Marcoli | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.45 (69¢) | $49,838 | +$22,391 | ✅ Ganada |
 | ohehe | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.63 (38¢) | $32,706 | -$32,706 | ❌ Perdida |
 | AV23IUa | Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A | BIG | 2.78 (36¢) | $25,537 | -$25,537 | ❌ Perdida |
 | Marcoli | Hamburg: Andrej Nedic vs Carlos Taberner | Andrej Nedic | 1.15 (87¢) | $40,000 | -$40,000 | ❌ Perdida |
 | madwish355 | LoL: ThunderTalk Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend | Bilibili Gaming | 1.20 (83¢) | $25,652 | +$5,254 | ✅ Ganada |
 | vv-vv | LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $25,318 | +$7,563 | ✅ Ganada |
-| TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | — | ⏳ Pendiente |
+| TennisLove | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.43 (70¢) | $100,000 | +$42,857 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $31,787 | +$21,191 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage | TEAM VISION | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Aurora vs GamerLegion - Game 2 Winner | Aurora | 1.33 (75¢) | $42,284 | +$14,095 | ✅ Ganada |
