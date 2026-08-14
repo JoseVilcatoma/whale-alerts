@@ -1,5 +1,5 @@
 {
-  "bankroll": 1027.1791579579474,
+  "bankroll": 1032.3306731094626,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -565,6 +565,16 @@
       "timestamp": 1786684062.4815147,
       "bankroll": 1027.18,
       "event": "lost: 1winstreak1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786684172.7586064,
+      "bankroll": 1032.33,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Cruz Azul win on 2026-08-13?"
+    },
+    {
+      "timestamp": 1786684235.8759604,
+      "bankroll": 1032.33,
+      "event": "lost: ferrariChampions2026 \u2014 CF Cruz Azul vs. Chicago Fire FC: O/U 1.5"
     }
   ]
 }
