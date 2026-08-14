@@ -1909,5 +1909,20 @@
     "status": "pending",
     "ultimo_fill": 1786742348,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 267,
+    "timestamp": 1786747692,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nyy-tor-2026-08-14",
+    "title": "New York Yankees vs. Toronto Blue Jays",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 69600.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1786747692,
+    "fills": 1
   }
 ]
