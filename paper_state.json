@@ -1,5 +1,5 @@
 {
-  "bankroll": 949.6419061033001,
+  "bankroll": 933.521928780436,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -160,6 +160,51 @@
       "timestamp": 1786675725.2064674,
       "bankroll": 949.64,
       "event": "won: 1winstreak1 \u2014 Los Angeles Sparks vs. New York Liberty"
+    },
+    {
+      "timestamp": 1786675779.4955325,
+      "bankroll": 939.64,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675779.996236,
+      "bankroll": 929.64,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675780.096385,
+      "bankroll": 938.87,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675780.2966518,
+      "bankroll": 946.11,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675780.597006,
+      "bankroll": 936.11,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675780.6971526,
+      "bankroll": 940.4,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675780.8974338,
+      "bankroll": 942.03,
+      "event": "won: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675781.2872717,
+      "bankroll": 943.52,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia Phillies vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1786675781.5876791,
+      "bankroll": 933.52,
+      "event": "lost: 1winstreak1 \u2014 Philadelphia Phillies vs. Minnesota Twins"
     }
   ]
 }
