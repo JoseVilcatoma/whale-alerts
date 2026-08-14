@@ -7510,5 +7510,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786744492.6977317,
     "fills": 1
+  },
+  {
+    "timestamp": 1786744730,
+    "timestamp_added": 1786744731.2895832,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-den-atl-2026-08-14-spread-away-3pt5",
+    "title": "Spread: DEN (-3.5)",
+    "outcome": "ATL",
+    "side": "BUY",
+    "whale_usd": 2553.81,
+    "whale_pct": 1.586,
+    "whale_value_at_open": 161014.1922,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786744731.289593,
+    "fills": 1
   }
 ]
