@@ -1414,5 +1414,20 @@
     "status": "pending",
     "ultimo_fill": 1786697498,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 202,
+    "timestamp": 1786697602,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-liquid-ts8-2026-08-14-game2",
+    "title": "Dota 2: Team Liquid vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 39999.999999,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1786697602,
+    "fills": 1
   }
 ]
