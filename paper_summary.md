@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 12:51:35 (hora de Perú)
+Actualizado: 2026-08-14 12:53:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,378.38
@@ -62,11 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
-| cs2-fut-mouz-2026-08-14 | AV23IUa, ferrariChampions2026 |
-| cs2-b8-vit-2026-08-14 | Lakersfan111, ferrariChampions2026 |
 | mlb-bos-pit-2026-08-14-total-8pt5 | SDTrading, wr0ngw4yb3tt0r |
-| crichundred-man-sun-2026-08-14 | Weaseloftheweek, midwicket72 |
-| lol-shft-sk-2026-08-14-game2 | ActionReaction, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
