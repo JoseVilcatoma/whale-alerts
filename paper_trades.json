@@ -1310,5 +1310,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786670205.7792714,
     "fills": 1
+  },
+  {
+    "timestamp": 1786670296,
+    "timestamp_added": 1786670296.8075907,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "criccpl-jam-guy-2026-08-13",
+    "title": "Caribbean Premier League: Jamaica Kingsmen vs Guyana Amazon Warriors",
+    "outcome": "Guyana Amazon Warriors",
+    "side": "BUY",
+    "whale_usd": 17.5956,
+    "whale_pct": 0.139,
+    "whale_value_at_open": 12636.1911,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786670296.8075972,
+    "fills": 1
   }
 ]
