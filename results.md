@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-13 20:29:19 (hora de Perú)
+Actualizado: 2026-08-13 20:31:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **86**  ($4,662,068 en total)
-- Resueltas: **70** — 42 ganadas / 28 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **71** — 43 ganadas / 28 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 37
 
 ### Balance
 
-- **Resultado de los apostadores: +$258,257** sobre $3,861,392 apostados (ROI **+6.7%**)
-- Copiando $100 fijo en cada una: **-$10** sobre $6,700 (ROI **-0.2%**)
+- **Resultado de los apostadores: +$274,783** sobre $3,892,083 apostados (ROI **+7.1%**)
+- Copiando $100 fijo en cada una: **+$43** sobre $6,800 (ROI **+0.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
-| Nooserac | 0 | 0 | 1 | — | $30,691 | — |
+| Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | Elaran1993 | 0 | 0 | 1 | — | $30,210 | — |
 | 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 | 0F62 | 1 | 0 | 0 | ⚠️ 100% (1) | $26,718 | +$5,865 |
@@ -75,7 +75,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | — | ⏳ Pendiente |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | — | ⏳ Pendiente |
 | BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | +$11,457 | ✅ Ganada |
-| Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | — | ⏳ Pendiente |
+| Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | +$16,526 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | — | ⏳ Pendiente |
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | — | ⏳ Pendiente |
