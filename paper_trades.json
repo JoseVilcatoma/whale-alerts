@@ -2633,8 +2633,8 @@
     "whale_value_at_open": 23920.1757,
     "paper_stake_usd": 1.17,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -2787,8 +2787,8 @@
     "whale_value_at_open": 123658.9064,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "CORGI8"
     ],
@@ -2855,8 +2855,8 @@
     "whale_value_at_open": 123658.9064,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "CORGI8"
     ],
@@ -2927,7 +2927,7 @@
     "whale_value_at_open": 24324.5647,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
@@ -2996,7 +2996,7 @@
     "whale_value_at_open": 24269.3094,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
@@ -6738,6 +6738,28 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1786683617.2945893,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786683776,
+    "timestamp_added": 1786683776.8637617,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-edg-lgd-2026-08-14",
+    "title": "LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 24.865263000000002,
+    "whale_pct": 0.577,
+    "whale_value_at_open": 4310.3333,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786683776.8637717,
     "fills": 1
   }
 ]
