@@ -5268,5 +5268,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786716522.1895993,
     "fills": 1
+  },
+  {
+    "timestamp": 1786716596,
+    "timestamp_added": 1786716596.633828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-b8-vit-2026-08-14",
+    "title": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 4760.597099999999,
+    "whale_pct": 1.896,
+    "whale_value_at_open": 251054.0565,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786716596.633839,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786716642,
+    "timestamp_added": 1786716642.868869,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "whale_usd": 2639.0,
+    "whale_pct": 1.021,
+    "whale_value_at_open": 258477.0998,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786716642.868878,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786716712,
+    "timestamp_added": 1786716712.8508606,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-fut-mouz-2026-08-14",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "whale_usd": 1704.9387229999998,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 261591.2388,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786716714.5387871,
+    "fills": 2
   }
 ]
