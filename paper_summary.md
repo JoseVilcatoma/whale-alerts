@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 11:14:32 (hora de Perú)
+Actualizado: 2026-08-14 11:16:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,387.59
-**Retorno acumulado:** +38.76%
+**Bankroll actual:** $1,377.59
+**Retorno acumulado:** +37.76%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,13 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 0 | +244.03 USD |
-| Lakersfan111 | 23 | 5 | 24 | +201.85 USD |
+| Lakersfan111 | 23 | 6 | 24 | +191.85 USD |
 | AV23IUa | 5 | 5 | 8 | +76.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | wr0ngw4yb3tt0r | 10 | 7 | 4 | +18.97 USD |
-| IMAREALPERSON | 4 | 0 | 2 | +0.96 USD |
+| IMAREALPERSON | 4 | 0 | 3 | +0.96 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
-| Weaseloftheweek | 0 | 0 | 1 | +0.00 USD |
+| Weaseloftheweek | 0 | 0 | 2 | +0.00 USD |
 | UpTheBlues | 2 | 1 | 6 | -4.68 USD |
 | midwicket72 | 3 | 1 | 45 | -8.19 USD |
 | ActionReaction | 2 | 5 | 7 | -25.13 USD |
@@ -33,12 +33,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 162
-- **Aciertos:** 99 (61.1%)
+- **Apuestas resueltas:** 163
+- **Aciertos:** 99 (60.7%)
 - **Cuota promedio de entrada:** 52.1%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $1,618.66
-- **ROI sobre lo apostado:** +23.89%
+- **Total apostado (suma de stakes):** $1,628.66
+- **ROI sobre lo apostado:** +23.13%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 5 | 0.0% | 12.4% | -12.4 pp |
 | 20-39% | 30 | 53.3% | 30.0% | +23.4 pp |
-| 40-59% | 76 | 55.3% | 47.8% | +7.5 pp |
+| 40-59% | 77 | 54.5% | 47.9% | +6.7 pp |
 | 60-79% | 31 | 67.7% | 66.7% | +1.0 pp |
 | 80-94% | 18 | 100.0% | 88.4% | +11.6 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
@@ -73,6 +73,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Weaseloftheweek | The Hundred: Manchester Super Giants vs  | Sunrisers Leeds (BUY) | 51% | 10.00 | 13.7% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 51% | 10.00 | 16.0% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 1.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 47% | 10.00 | 141.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Shifters vs SK Gaming - Game 2 Winn | Shifters (BUY) | 41% | 10.00 | 2.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -100,6 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Map Handicap: MIBR (-1.5) vs K27 (+1.5) | MIBR (BUY) | 29% | 10.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Shifters vs SK Gaming (BO3) - LEC R | Shifters (BUY) | 45% | 10.00 | 4.6% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: PARIVISION vs 100 Thieve | 100 Thieves (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Shifters vs SK Gaming - Game 1 Winn | Shifters (BUY) | 46% | 10.00 | 0.2% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 25% | 10.00 | 3.6% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Sunrisers Leeds vs S | Southern Brave (BUY) | 24% | 10.00 | 0.3% | ⏳ pendiente | — |

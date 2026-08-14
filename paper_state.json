@@ -1,5 +1,5 @@
 {
-  "bankroll": 1387.5901640015186,
+  "bankroll": 1377.5901640015186,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -815,6 +815,11 @@
       "timestamp": 1786723617.2806075,
       "bankroll": 1387.59,
       "event": "lost: ActionReaction \u2014 LoL: MVK Esports vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786724184.080062,
+      "bankroll": 1377.59,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner"
     }
   ]
 }
