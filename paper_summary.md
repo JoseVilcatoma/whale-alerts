@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:22:40 (hora de Perú)
+Actualizado: 2026-08-14 18:24:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,369.74
-**Retorno acumulado:** +36.97%
+**Bankroll actual:** $1,371.79
+**Retorno acumulado:** +37.18%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,8 +19,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 16 | 7 | 33 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 0 | +106.44 USD |
-| UpTheBlues | 7 | 1 | 1 | +69.85 USD |
-| wr0ngw4yb3tt0r | 16 | 11 | 24 | +42.33 USD |
+| UpTheBlues | 8 | 1 | 0 | +71.90 USD |
+| wr0ngw4yb3tt0r | 16 | 11 | 25 | +42.33 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | Talvez10 | 0 | 0 | 4 | +0.00 USD |
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 232
-- **Aciertos:** 137 (59.1%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 233
+- **Aciertos:** 138 (59.2%)
+- **Cuota promedio de entrada:** 53.0%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,318.66
-- **ROI sobre lo apostado:** +15.90%
+- **Total apostado (suma de stakes):** $2,328.66
+- **ROI sobre lo apostado:** +15.92%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -54,7 +54,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 43 | 46.5% | 29.7% | +16.8 pp |
 | 40-59% | 96 | 49.0% | 48.2% | +0.8 pp |
 | 60-79% | 65 | 76.9% | 66.4% | +10.5 pp |
-| 80-94% | 20 | 90.0% | 88.5% | +1.5 pp |
+| 80-94% | 21 | 90.5% | 88.2% | +2.3 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -80,6 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 60% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 45% | 9.06 | 2.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 32% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 37% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -109,4 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 57% | 10.00 | 38.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
 | theowalcott | Will Racing Club win on 2026-08-14? | Yes (BUY) | 56% | 10.00 | 538.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 52% | 10.00 | 12.3% | ⏳ pendiente | — |
