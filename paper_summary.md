@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-13 22:43:11 (hora de Perú)
+Actualizado: 2026-08-13 22:45:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,010.10
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| AV23IUa | 3 | 0 | 22 | +100.44 USD |
+| AV23IUa | 3 | 0 | 24 | +100.44 USD |
 | IMAREALPERSON | 8 | 0 | 4 | +8.36 USD |
 | CORGI8 | 0 | 0 | 12 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 10 | +0.00 USD |
@@ -76,6 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: TYLOO vs Lynn Vision (BO | TYLOO (BUY) | 64% | 10.00 | 0.9% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality (BUY) | 65% | 10.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-2.5) | Texas Rangers (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 60% | 10.00 | 1.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Team Liquid - Gam | Team Liquid (BUY) | 30% | 10.00 | 4.2% | 💰 vendida anticipada | +3.00 |
@@ -104,5 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 22% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Texas Rangers (-2.5) | Texas Rangers (BUY) | 15% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: HULIGANI vs Vici Gaming - Game 1 | Vici Gaming (BUY) | 51% | 10.00 | 7.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 49% | 10.00 | 19.6% | 💰 vendida anticipada | +1.43 |
-| IMAREALPERSON | Dota 2: HULIGANI vs Vici Gaming - Game 1 | HULIGANI (BUY) | 48% | 10.00 | 13.8% | 💰 vendida anticipada | +1.67 |
