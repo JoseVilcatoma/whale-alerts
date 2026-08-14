@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:16:28 (hora de Perú)
+Actualizado: 2026-08-14 18:18:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,369.74
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 0 | 0 | 8 | +0.00 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 7 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 9 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 28 | -39.04 USD |
@@ -79,6 +79,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 54% | 10.00 | 32.9% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 61% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 45% | 0.00 | 31.7% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 48% | 0.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets:  | Under (BUY) | 50% | 0.00 | 0.6% | ⏳ pendiente | — |
@@ -107,5 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 10.00 | 14.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 55% | 10.00 | 1.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 111111111115 | Valorant: FURIA Esports vs 2GAME Esports | FURIA Esports (BUY) | 56% | 10.00 | 3.8% | ⏳ pendiente | — |
