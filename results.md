@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 06:56:57 (hora de Perú)
+Actualizado: 2026-08-15 06:59:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **154**  ($7,650,010 en total)
+- Apuestas registradas: **155**  ($7,676,289 en total)
 - Resueltas: **147** — 83 ganadas / 64 perdidas (**56%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 55
 
 ### Balance
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | SDTrading | 0 | 2 | 0 | ⚠️ 0% (2) | $55,210 | -$55,210 |
+| TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | Feromont | 2 | 0 | 0 | ⚠️ 100% (2) | $50,800 | +$29,200 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 | texaskid | 0 | 1 | 0 | ⚠️ 0% (1) | $30,307 | -$30,307 |
-| Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 
 _(mostrando los 40 de mayor monto, de 55 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 55 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
 | 0xB3f07213c02C1A899f039BF6DfA464f61D675C25-1779335154871 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 4.17 (24¢) | $29,069 | — | ⏳ Pendiente |
 | JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | — | ⏳ Pendiente |
 | GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 55 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
 | NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | -$35,235 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | +$11,585 | ✅ Ganada |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
