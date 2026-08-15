@@ -980,8 +980,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Khumoun Sultanov",
     "side": "BUY",
-    "whale_usd": 10175.987330999998,
-    "whale_pct": 16.056,
+    "whale_usd": 12430.907330999999,
+    "whale_pct": 19.614,
     "whale_value_at_open": 63376.5275,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -990,8 +990,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786779881.0390131,
-    "fills": 6
+    "last_fill_at": 1786781234.5966375,
+    "fills": 7
   },
   {
     "timestamp": 1786774634,
@@ -1427,8 +1427,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 7774.824315,
-    "whale_pct": 25.24,
+    "whale_usd": 9713.240563,
+    "whale_pct": 31.533,
     "whale_value_at_open": 30803.7361,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -1439,8 +1439,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786780969.3311572,
-    "fills": 6
+    "last_fill_at": 1786781214.3582668,
+    "fills": 7
   },
   {
     "timestamp": 1786778788,
@@ -1625,6 +1625,55 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786780901.8156772,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786781284,
+    "timestamp_added": 1786781284.8444426,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-hle1-kt-2026-08-15-game1",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 1814.7955,
+    "whale_pct": 7.609,
+    "whale_value_at_open": 23851.5804,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781284.8444479,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786781324,
+    "timestamp_added": 1786781324.9122565,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-hle1-kt-2026-08-15-game1",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 5120.0,
+    "whale_pct": 32.904,
+    "whale_value_at_open": 15560.4386,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781324.9122665,
     "fills": 1
   }
 ]
