@@ -3239,8 +3239,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 13999.999994999998,
-    "whale_pct": 10.467,
+    "whale_usd": 14999.999993999998,
+    "whale_pct": 11.215,
     "whale_value_at_open": 133747.3368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3249,8 +3249,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794547.5078893,
-    "fills": 6
+    "last_fill_at": 1786794841.3960624,
+    "fills": 7
   },
   {
     "timestamp": 1786794177,
@@ -3283,8 +3283,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 5999.999997999999,
-    "whale_pct": 3.875,
+    "whale_usd": 9999.999994999998,
+    "whale_pct": 6.458,
     "whale_value_at_open": 154855.07,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3293,8 +3293,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794534.9971144,
-    "fills": 4
+    "last_fill_at": 1786794884.708733,
+    "fills": 7
   },
   {
     "timestamp": 1786794325,
@@ -3358,8 +3358,8 @@
     "title": "Dota 2: BoomBoys vs Team Falcons - Game 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 999.9999989999999,
-    "whale_pct": 0.431,
+    "whale_usd": 1999.999997,
+    "whale_pct": 0.862,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -3368,8 +3368,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794499.320588,
-    "fills": 1
+    "last_fill_at": 1786794911.721801,
+    "fills": 2
   },
   {
     "timestamp": 1786794506,
