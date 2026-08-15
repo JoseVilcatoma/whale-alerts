@@ -1102,8 +1102,8 @@
     "whale_value_at_open": 212824.1016,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1172,8 +1172,8 @@
     "whale_value_at_open": 196408.8322,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -1245,8 +1245,8 @@
     "whale_value_at_open": 258260.7889,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -1836,8 +1836,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 1761.143722,
-    "whale_pct": 0.543,
+    "whale_usd": 13460.989022,
+    "whale_pct": 4.149,
     "whale_value_at_open": 324433.4414,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -1846,8 +1846,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786785279.0716538,
-    "fills": 2
+    "last_fill_at": 1786785413.5295854,
+    "fills": 5
   },
   {
     "timestamp": 1786782293,
@@ -2079,15 +2079,16 @@
     "whale_value_at_open": 46427.1349,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.34,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786784989.6276882,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 58
   },
   {
     "timestamp": 1786785263,
@@ -2124,8 +2125,8 @@
     "title": "Astana: Aziz Dougaz vs Sergey Fomin",
     "outcome": "Sergey Fomin",
     "side": "BUY",
-    "whale_usd": 512.832483,
-    "whale_pct": 0.786,
+    "whale_usd": 2683.8068410000005,
+    "whale_pct": 4.111,
     "whale_value_at_open": 65281.046,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -2134,8 +2135,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786785306.6444974,
-    "fills": 1
+    "last_fill_at": 1786785387.4522145,
+    "fills": 2
   },
   {
     "timestamp": 1786785310,
