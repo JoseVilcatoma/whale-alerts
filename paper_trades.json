@@ -1373,5 +1373,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786777558.4375262,
     "fills": 1
+  },
+  {
+    "timestamp": 1786777749,
+    "timestamp_added": 1786777750.55246,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-kt-2026-08-15-game2",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 2 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 1610.9015,
+    "whale_pct": 3.958,
+    "whale_value_at_open": 40703.2002,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786777750.5524724,
+    "fills": 1
   }
 ]
