@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:03:51 (hora de Perú)
+Actualizado: 2026-08-14 22:05:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,814.38
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 57 | 35 | 18 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
-| Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 7 | +106.44 USD |
+| Lakersfan111 | 26 | 10 | 2 | +165.32 USD |
+| midwicket72 | 26 | 3 | 8 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | RN1 | 16 | 2 | 59 | +62.89 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
@@ -95,6 +95,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.1% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 71% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 22% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 16% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 14% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -122,6 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 60% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Kansas City Royals (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 17% | 10.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 1.3% | ⏳ pendiente | — |
