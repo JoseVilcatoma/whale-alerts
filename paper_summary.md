@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 11:11:42 (hora de Perú)
+Actualizado: 2026-08-15 11:13:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.49
@@ -94,7 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 2 Winner | Fnatic (BUY) | 53% | 10.00 | 12.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 73% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 2 Winner | SK Gaming (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: BUF (-3.5) | CAR (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: BUF (-3.5) | CAR (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | 💰 vendida anticipada | +1.25 |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
