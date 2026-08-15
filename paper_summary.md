@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:50:08 (hora de Perú)
+Actualizado: 2026-08-15 09:52:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,078.10
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
-| SDTrading | 0 | 0 | 3 | +0.00 USD |
+| SDTrading | 0 | 0 | 4 | +0.00 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
 | IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
@@ -96,6 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 4.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 98% | 10.00 | 7.6% | 💰 vendida anticipada | +0.10 |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Team Yandex (BUY) | 51% | 10.00 | 40.7% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 10.2% | ⏳ pendiente | — |
@@ -125,4 +126,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 9.6% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
