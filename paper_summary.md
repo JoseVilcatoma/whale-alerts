@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:03:52 (hora de Perú)
+Actualizado: 2026-08-15 07:05:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,007.22
-**Retorno acumulado:** +0.72%
+**Bankroll actual:** $1,007.58
+**Retorno acumulado:** +0.76%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 6 | +22.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 6 | 2 | 5 | +19.10 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 2 | 4 | +19.46 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
@@ -84,15 +84,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 16.0% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 2.2% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 6.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 1.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 19.4% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |

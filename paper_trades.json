@@ -3283,8 +3283,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 29999.999986999996,
-    "whale_pct": 19.373,
+    "whale_usd": 30999.999985999995,
+    "whale_pct": 20.019,
     "whale_value_at_open": 154855.07,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3293,8 +3293,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795400.2801883,
-    "fills": 16
+    "last_fill_at": 1786795499.348386,
+    "fills": 17
   },
   {
     "timestamp": 1786794325,
@@ -3381,8 +3381,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 4999.999995,
-    "whale_pct": 2.154,
+    "whale_usd": 14999.999989,
+    "whale_pct": 6.463,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3391,8 +3391,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795409.4942002,
-    "fills": 5
+    "last_fill_at": 1786795543.6069372,
+    "fills": 13
   },
   {
     "timestamp": 1786794701,
@@ -3435,15 +3435,16 @@
     "whale_value_at_open": 60237.4116,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.36,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786795208.7822711,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 29
   },
   {
     "timestamp": 1786795293,
@@ -3479,8 +3480,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 15027.349960000003,
-    "whale_pct": 15.991,
+    "whale_usd": 19407.552193000003,
+    "whale_pct": 20.653,
     "whale_value_at_open": 93971.5594,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -3491,7 +3492,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795408.5826192,
-    "fills": 5
+    "last_fill_at": 1786795550.6617756,
+    "fills": 9
   }
 ]
