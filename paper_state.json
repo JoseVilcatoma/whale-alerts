@@ -1,5 +1,5 @@
 {
-  "bankroll": 1828.2380013923605,
+  "bankroll": 1918.2380013923605,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1645,6 +1645,51 @@
       "timestamp": 1786763461.5800555,
       "bankroll": 1828.24,
       "event": "won: RN1 \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
+    },
+    {
+      "timestamp": 1786763891.404224,
+      "bankroll": 1838.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763891.504415,
+      "bankroll": 1848.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763891.604594,
+      "bankroll": 1858.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763891.7047887,
+      "bankroll": 1868.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763891.8049898,
+      "bankroll": 1878.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763891.9051492,
+      "bankroll": 1888.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763892.0053592,
+      "bankroll": 1898.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763892.105506,
+      "bankroll": 1908.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786763892.2056463,
+      "bankroll": 1918.24,
+      "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
     }
   ]
 }
