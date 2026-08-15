@@ -2524,5 +2524,20 @@
     "status": "pending",
     "ultimo_fill": 1786811267,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 345,
+    "timestamp": 1786811522,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-cws-det-2026-08-15",
+    "title": "Chicago White Sox vs. Detroit Tigers",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 27559.4352,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1786811522,
+    "fills": 1
   }
 ]
