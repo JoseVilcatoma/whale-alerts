@@ -919,8 +919,8 @@
     "whale_value_at_open": 23036.2393,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 16.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3337,8 +3337,8 @@
     "whale_value_at_open": 66525.1659,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.52,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -3348,7 +3348,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786794378.6020925,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 53
   },
   {
     "timestamp": 1786794498,
@@ -3381,8 +3382,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 14999.999989,
-    "whale_pct": 6.463,
+    "whale_usd": 15999.999988,
+    "whale_pct": 6.894,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3391,8 +3392,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795543.6069372,
-    "fills": 13
+    "last_fill_at": 1786795561.6413176,
+    "fills": 14
   },
   {
     "timestamp": 1786794701,
@@ -3494,5 +3495,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786795550.6617756,
     "fills": 9
+  },
+  {
+    "timestamp": 1786795555,
+    "timestamp_added": 1786795555.7984178,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-fox1-dnf-2026-08-15-game2",
+    "title": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 7347.4374,
+    "whale_pct": 13.901,
+    "whale_value_at_open": 52857.0345,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "ferrariChampions2026",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786795561.6450837,
+    "fills": 2
   }
 ]
