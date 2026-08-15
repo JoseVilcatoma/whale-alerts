@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:05:30 (hora de Perú)
+Actualizado: 2026-08-15 14:07:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **183**  ($8,672,154 en total)
+- Apuestas registradas: **184**  ($8,712,443 en total)
 - Resueltas: **156** — 88 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 67
 
 ### Balance
@@ -38,11 +38,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | pleaseplease123 | 0 | 1 | 2 | ⚠️ 0% (1) | $153,492 | -$99,433 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | CORGI8 | 0 | 2 | 1 | ⚠️ 0% (2) | $87,381 | -$55,480 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 67 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | — | ⏳ Pendiente |
 | Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 67 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel | Xinyu Wang | 1.82 (55¢) | $53,006 | +$43,368 | ✅ Ganada |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Nuno Borges | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $30,080 | -$30,080 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Thanasi Kokkinakis | 1.82 (55¢) | $26,770 | -$26,770 | ❌ Perdida |
