@@ -5206,8 +5206,8 @@
     "title": "LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season",
     "outcome": "Shopify Rebellion",
     "side": "BUY",
-    "whale_usd": 1259.6847,
-    "whale_pct": 7.179,
+    "whale_usd": 1863.4593,
+    "whale_pct": 10.62,
     "whale_value_at_open": 17546.6629,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -5218,8 +5218,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786837133.0125184,
-    "fills": 2
+    "last_fill_at": 1786837215.9068098,
+    "fills": 3
   },
   {
     "timestamp": 1786837131,
@@ -5242,5 +5242,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786837133.0149248,
     "fills": 2
+  },
+  {
+    "timestamp": 1786837143,
+    "timestamp_added": 1786837143.430215,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bal-tb-2026-08-15",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 803.0999990000001,
+    "whale_pct": 5.117,
+    "whale_value_at_open": 15693.3116,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786837143.430225,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 18:38:57 (hora de Perú)
+Actualizado: 2026-08-15 18:41:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $945.26
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
 | SDTrading | 0 | 1 | 3 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| 1winstreak1 | 4 | 5 | 4 | -11.04 USD |
+| 1winstreak1 | 4 | 5 | 5 | -11.04 USD |
 | wr0ngw4yb3tt0r | 6 | 9 | 8 | -18.23 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
@@ -103,8 +103,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 7.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 11.2% | ⏳ pendiente | — |
@@ -132,4 +133,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ✅ ganada | +13.26 |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ✅ ganada | +4.49 |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ❌ perdida | -10.00 |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ❌ perdida | -10.00 |
