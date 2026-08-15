@@ -478,8 +478,8 @@
     "title": "ITF M15 Tianjin 2 Men: Matthew Dellavedova vs Kosuke Ogura",
     "outcome": "Matthew Dellavedova",
     "side": "BUY",
-    "whale_usd": 703.3444810000001,
-    "whale_pct": 1.29,
+    "whale_usd": 1237.995421,
+    "whale_pct": 2.27,
     "whale_value_at_open": 54527.2545,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
@@ -488,8 +488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786770127.4139457,
-    "fills": 1
+    "last_fill_at": 1786772788.7151418,
+    "fills": 2
   },
   {
     "timestamp": 1786770560,
@@ -730,8 +730,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
     "outcome": "Nigma Galaxy",
     "side": "BUY",
-    "whale_usd": 45339.125936000004,
-    "whale_pct": 48.027,
+    "whale_usd": 56134.056236000004,
+    "whale_pct": 59.462,
     "whale_value_at_open": 94402.699,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -742,7 +742,29 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786772661.135211,
-    "fills": 6
+    "last_fill_at": 1786772731.1273835,
+    "fills": 10
+  },
+  {
+    "timestamp": 1786772723,
+    "timestamp_added": 1786772723.9520824,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-yuan-shao-2026-08-15",
+    "title": "ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Yushan Shao",
+    "outcome": "Yushan Shao",
+    "side": "BUY",
+    "whale_usd": 1108.37,
+    "whale_pct": 2.265,
+    "whale_value_at_open": 48939.6528,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786772723.9520895,
+    "fills": 1
   }
 ]
