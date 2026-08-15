@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 23:40:58 (hora de Perú)
+Actualizado: 2026-08-14 23:43:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 0 | 0 | 7 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 2 | +0.00 USD |
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 53% | 10.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 51% | 10.00 | 16.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Milwaukee Brewers (BUY) | 82% | 10.00 | 21.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 40% | 10.00 | 8.4% | ⏳ pendiente | — |
