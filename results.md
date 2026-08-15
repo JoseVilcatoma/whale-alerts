@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:04:48 (hora de Perú)
+Actualizado: 2026-08-15 17:06:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **209**  ($9,834,110 en total)
+- Apuestas registradas: **210**  ($9,950,110 en total)
 - Resueltas: **175** — 97 ganadas / 78 perdidas (**55%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 74
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 22 | 11 | 1 | 67% | $2,074,524 | +$376,046 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 4 | 50% | $837,045 | +$57,398 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 5 | 50% | $953,045 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 | JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | +$2,998 | ✅ Ganada |
 | GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | +$10,800 | ✅ Ganada |
 | noway8 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.32 (76¢) | $290,000 | — | ⏳ Pendiente |
-| 111111111115 | LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $96,292 | +$32,097 | ✅ Ganada |
