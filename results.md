@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 21:02:29 (hora de Perú)
+Actualizado: 2026-08-14 21:04:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **139**  ($6,784,214 en total)
-- Resueltas: **127** — 75 ganadas / 52 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Resueltas: **129** — 76 ganadas / 53 perdidas (**59%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 50
 
 ### Balance
 
-- **Resultado de los apostadores: +$224,671** sobre $6,316,897 apostados (ROI **+3.6%**)
-- Copiando $100 fijo en cada una: **-$395** sobre $12,400 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$231,574** sobre $6,419,871 apostados (ROI **+3.6%**)
+- Copiando $100 fijo en cada una: **-$428** sobre $12,600 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 16 | 7 | 2 | 70% | $1,610,404 | +$390,978 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 3 | 7 | 62% | $657,327 | +$149,929 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 7 | 1 | 71% | $1,610,404 | +$434,929 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 4 | 6 | 56% | $657,327 | +$112,882 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -78,9 +78,9 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | +$43,951 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $28,529 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | -$37,047 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: NYJ (-5.5) | TB | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.72 (58¢) | $69,600 | -$69,600 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel | Xinyu Wang | 1.82 (55¢) | $53,006 | +$43,368 | ✅ Ganada |
