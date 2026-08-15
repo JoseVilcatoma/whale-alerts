@@ -290,5 +290,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786767016.8515065,
     "fills": 1
+  },
+  {
+    "timestamp": 1786767193,
+    "timestamp_added": 1786767194.056601,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-lad-2026-08-14-spread-home-2pt5",
+    "title": "Spread: Los Angeles Dodgers (-2.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 691.3,
+    "whale_pct": 0.526,
+    "whale_value_at_open": 131491.2203,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786767194.056609,
+    "fills": 1
   }
 ]
