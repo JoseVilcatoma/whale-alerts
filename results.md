@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 16:23:06 (hora de Perú)
+Actualizado: 2026-08-15 16:25:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **206**  ($9,743,051 en total)
+- Apuestas registradas: **207**  ($9,768,305 en total)
 - Resueltas: **171** — 94 ganadas / 77 perdidas (**55%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 74
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
 | ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
+| suntori | 0 | 0 | 2 | — | $56,430 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 
 _(mostrando los 40 de mayor monto, de 74 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.67 (60¢) | $67,371 | — | ⏳ Pendiente |
 | suntori | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $31,177 | — | ⏳ Pendiente |
 | Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 | 111111111115 | LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $96,292 | +$32,097 | ✅ Ganada |
 | StasPanda | LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group | Hanwha Life Esports | 1.37 (73¢) | $39,313 | +$14,540 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 2.56 (39¢) | $32,307 | -$32,307 | ❌ Perdida |
-| S-Works | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $28,233 | +$18,822 | ✅ Ganada |
