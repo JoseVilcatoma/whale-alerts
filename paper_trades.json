@@ -1418,8 +1418,8 @@
     "title": "FC Mito Holly Hock vs. Gamba \u014csaka: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1571.5641,
-    "whale_pct": 0.554,
+    "whale_usd": 2178.3281,
+    "whale_pct": 0.768,
     "whale_value_at_open": 283545.1562,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -1428,8 +1428,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787074.6441262,
-    "fills": 2
+    "last_fill_at": 1786788926.9633756,
+    "fills": 3
   },
   {
     "timestamp": 1786787077,
@@ -1599,8 +1599,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 12388.079618,
-    "whale_pct": 3.8,
+    "whale_usd": 14007.584881,
+    "whale_pct": 4.296,
     "whale_value_at_open": 326042.985,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -1612,8 +1612,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788682.0427775,
-    "fills": 8
+    "last_fill_at": 1786788864.1331427,
+    "fills": 9
   },
   {
     "timestamp": 1786787768,
@@ -1741,8 +1741,8 @@
     "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 12719.213000000002,
-    "whale_pct": 4.521,
+    "whale_usd": 14178.460538000001,
+    "whale_pct": 5.04,
     "whale_value_at_open": 281334.5209,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -1751,8 +1751,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788610.2453249,
-    "fills": 6
+    "last_fill_at": 1786788812.8835301,
+    "fills": 8
   },
   {
     "timestamp": 1786788093,
@@ -1858,8 +1858,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 4448.9736,
-    "whale_pct": 1.468,
+    "whale_usd": 5951.3276000000005,
+    "whale_pct": 1.964,
     "whale_value_at_open": 302970.9241,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -1868,8 +1868,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788745.5541294,
-    "fills": 4
+    "last_fill_at": 1786788849.1098566,
+    "fills": 6
   },
   {
     "timestamp": 1786788567,
@@ -1902,8 +1902,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 9074.257,
-    "whale_pct": 13.777,
+    "whale_usd": 11002.798999999999,
+    "whale_pct": 16.704,
     "whale_value_at_open": 65867.5929,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -1914,8 +1914,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788803.792379,
-    "fills": 9
+    "last_fill_at": 1786788869.7421966,
+    "fills": 10
   },
   {
     "timestamp": 1786788593,
