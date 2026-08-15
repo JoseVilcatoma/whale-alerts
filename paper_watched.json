@@ -2,7 +2,7 @@
   "0xa4b7b1814b0da33f2b61be4939976898aa476008": {
     "username": "midwicket72",
     "added_at": 1786750846.7339451,
-    "roi_pct": 1873.66,
+    "roi_pct": 1848.02,
     "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
@@ -14,49 +14,49 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786755556.053433,
-    "roi_pct": 684.35,
+    "roi_pct": 686.46,
     "short_term_pct": 80.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "Lakersfan111",
     "added_at": 1786762155.465391,
-    "roi_pct": 1074.93,
-    "short_term_pct": 100.0
-  },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1786763096.9710932,
-    "roi_pct": 839.22,
+    "roi_pct": 1029.38,
     "short_term_pct": 100.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1786764035.6840007,
-    "roi_pct": 2042.16,
+    "roi_pct": 2042.14,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786766195.9667165,
-    "roi_pct": 808.58,
-    "short_term_pct": 100.0
-  },
-  "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e": {
-    "username": "dv-pm",
-    "added_at": 1786771912.6264148,
-    "roi_pct": 653.36,
+    "roi_pct": 808.08,
     "short_term_pct": 100.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1786772856.1887243,
-    "roi_pct": 321.74,
+    "roi_pct": 262.49,
     "short_term_pct": 100.0
   },
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
-    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-    "added_at": 1786774747.5843494,
-    "roi_pct": 278.86,
+  "0xf23c5bc7b547867eb6532920144562718aa49f81": {
+    "username": "g42gh6524h5h5",
+    "added_at": 1786775693.8141174,
+    "roi_pct": 2866.54,
+    "short_term_pct": 100.0
+  },
+  "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
+    "username": "bigspending",
+    "added_at": 1786775693.814146,
+    "roi_pct": 247.09,
+    "short_term_pct": 100.0
+  },
+  "0x79ae097215202b5d01f98e4479fb219102469a4a": {
+    "username": "CORGI8",
+    "added_at": 1786775693.8141484,
+    "roi_pct": 196.55,
     "short_term_pct": 100.0
   }
 }
