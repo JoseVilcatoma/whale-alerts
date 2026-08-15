@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:27:13 (hora de Perú)
+Actualizado: 2026-08-14 19:29:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,456.71
-**Retorno acumulado:** +45.67%
+**Bankroll actual:** $1,460.04
+**Retorno acumulado:** +46.00%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 37 | -34.27 USD |
+| 1winstreak1 | 12 | 12 | 37 | -30.94 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 218
-- **Aciertos:** 134 (61.5%)
-- **Cuota promedio de entrada:** 53.3%
+- **Apuestas resueltas:** 219
+- **Aciertos:** 135 (61.6%)
+- **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,178.66
-- **ROI sobre lo apostado:** +20.92%
+- **Total apostado (suma de stakes):** $2,188.66
+- **ROI sobre lo apostado:** +20.97%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
 | 20-39% | 39 | 51.3% | 29.7% | +21.6 pp |
 | 40-59% | 89 | 52.8% | 48.0% | +4.8 pp |
-| 60-79% | 61 | 75.4% | 66.7% | +8.7 pp |
+| 60-79% | 62 | 75.8% | 66.9% | +9.0 pp |
 | 80-94% | 21 | 90.5% | 88.2% | +2.3 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
@@ -66,11 +66,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-bos-pit-2026-08-14-spread-home-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Map Handicap: C9 (-1.5) vs Fluxo W7M (+1 | Fluxo W7M (BUY) | 60% | 10.00 | 67.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Cloud9 vs Fluxo W7M - Map 1 Wi | Fluxo W7M (BUY) | 40% | 10.00 | 22.9% | ⏳ pendiente | — |
@@ -100,4 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 17% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 43% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 83% | 10.00 | 1.0% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 14% | 10.00 | 2.2% | ⏳ pendiente | — |

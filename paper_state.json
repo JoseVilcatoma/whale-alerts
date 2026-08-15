@@ -1,5 +1,5 @@
 {
-  "bankroll": 1456.707622295398,
+  "bankroll": 1460.0409556287314,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1095,6 +1095,11 @@
       "timestamp": 1786750813.0413642,
       "bankroll": 1456.71,
       "event": "won: ActionReaction \u2014 LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1786753684.1210768,
+      "bankroll": 1460.04,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 5.5"
     }
   ]
 }
