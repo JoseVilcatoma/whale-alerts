@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:56:55 (hora de Perú)
+Actualizado: 2026-08-14 20:59:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,525.80
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 2 | +33.42 USD |
 | 1winstreak1 | 24 | 15 | 56 | +20.77 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 29 | +0.00 USD |
+| RN1 | 0 | 0 | 30 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -78,6 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 56% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 50% | 10.00 | 2.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 12% | 10.00 | 18.0% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 84% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -107,4 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 60% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 59% | 10.00 | 0.3% | ⏳ pendiente | — |
