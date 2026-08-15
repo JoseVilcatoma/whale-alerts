@@ -1,5 +1,5 @@
 {
-  "bankroll": 1514.8102280667283,
+  "bankroll": 1512.5471400394908,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1180,6 +1180,41 @@
       "timestamp": 1786757129.3868918,
       "bankroll": 1514.81,
       "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians: O/U 9.5"
+    },
+    {
+      "timestamp": 1786757942.269231,
+      "bankroll": 1516.71,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786757996.6110756,
+      "bankroll": 1531.11,
+      "event": "won: SDTrading \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786757996.9270816,
+      "bankroll": 1538.05,
+      "event": "won: SDTrading \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1786757999.4966457,
+      "bankroll": 1528.05,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786757999.7837543,
+      "bankroll": 1518.05,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786758000.0841055,
+      "bankroll": 1522.55,
+      "event": "won: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786758000.4886217,
+      "bankroll": 1512.55,
+      "event": "lost: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
     }
   ]
 }
