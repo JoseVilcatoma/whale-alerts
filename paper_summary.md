@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:50:33 (hora de Perú)
+Actualizado: 2026-08-15 04:52:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,030.37
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 4 | -2.50 USD |
-| ferrariChampions2026 | 6 | 5 | 10 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 14 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
@@ -63,12 +63,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
-| dota2-tr7-xtreme-2026-08-15-game1 | CORGI8, g42gh6524h5h5 |
+| dota2-tr7-xtreme-2026-08-15-game1 | CORGI8, ferrariChampions2026, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 33% | 10.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 44% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | OG (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 21.8% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 52% | 10.00 | 88.8% | ⏳ pendiente | — |
 | bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 6.3% | ⏳ pendiente | — |
@@ -95,7 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 19.4% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ✅ ganada | +5.62 |
-| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ❌ perdida | -10.00 |
