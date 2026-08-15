@@ -2329,5 +2329,20 @@
     "status": "pending",
     "ultimo_fill": 1786795099,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 327,
+    "timestamp": 1786796695,
+    "username": "fireluo",
+    "wallet": "0x9100cc1a599b16258e506d210e2df66032637ade",
+    "slug": "dota2-ngx-ts8-2026-08-15",
+    "title": "Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 46407.239997,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1786796695,
+    "fills": 1
   }
 ]
