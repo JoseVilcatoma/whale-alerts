@@ -4348,5 +4348,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786817020.4567578,
     "fills": 1
+  },
+  {
+    "timestamp": 1786817060,
+    "timestamp_added": 1786817061.294816,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-fur-red-2026-08-15",
+    "title": "LoL: FURIA Esports vs RED Canids (BO3) - CBLOL Regular Season",
+    "outcome": "FURIA Esports",
+    "side": "BUY",
+    "whale_usd": 5398.169387,
+    "whale_pct": 10.556,
+    "whale_value_at_open": 51137.7679,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786817128.4063885,
+    "fills": 3
   }
 ]
