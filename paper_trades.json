@@ -1599,8 +1599,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 10450.201418,
-    "whale_pct": 3.205,
+    "whale_usd": 12388.079618,
+    "whale_pct": 3.8,
     "whale_value_at_open": 326042.985,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -1612,8 +1612,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788488.7244537,
-    "fills": 7
+    "last_fill_at": 1786788682.0427775,
+    "fills": 8
   },
   {
     "timestamp": 1786787768,
@@ -1858,8 +1858,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 3638.9736000000003,
-    "whale_pct": 1.201,
+    "whale_usd": 4448.9736,
+    "whale_pct": 1.468,
     "whale_value_at_open": 302970.9241,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -1868,8 +1868,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788541.8144078,
-    "fills": 3
+    "last_fill_at": 1786788745.5541294,
+    "fills": 4
   },
   {
     "timestamp": 1786788567,
@@ -1902,8 +1902,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 5181.353999999999,
-    "whale_pct": 7.866,
+    "whale_usd": 9074.257,
+    "whale_pct": 13.777,
     "whale_value_at_open": 65867.5929,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -1914,8 +1914,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788673.4328585,
-    "fills": 6
+    "last_fill_at": 1786788803.792379,
+    "fills": 9
   },
   {
     "timestamp": 1786788593,
@@ -1962,5 +1962,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786788670.3419929,
     "fills": 1
+  },
+  {
+    "timestamp": 1786788692,
+    "timestamp_added": 1786788692.9402335,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-kas-ngr-2026-08-15-draw",
+    "title": "Will Kashima Antlers vs. Nagoya Grampus end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 792.0002999999999,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 294828.1185,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 21,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786788692.9402428,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786788717,
+    "timestamp_added": 1786788718.2285545,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-al-2026-08-15",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 4778.657332999999,
+    "whale_pct": 1.592,
+    "whale_value_at_open": 300102.0261,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786788801.8725495,
+    "fills": 3
   }
 ]

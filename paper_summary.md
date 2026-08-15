@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:11:19 (hora de Perú)
+Actualizado: 2026-08-15 05:13:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.49
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 3 | -1.88 USD |
-| ferrariChampions2026 | 6 | 5 | 24 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 26 | -4.04 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 3 | -12.50 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
@@ -68,17 +68,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-tr7-xtreme-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026, g42gh6524h5h5 |
 | lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-lgd-vg-2026-08-15-game1 | 111111111115, ferrariChampions2026 |
+| lol-tt-al-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-tt-al-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 70% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Kashima Antlers vs. Nagoya Grampus  | Yes (BUY) | 21% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 70% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 7.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 13.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: NC Dinos vs. Lotte Giants | Lotte Giants (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Nagoya Grampus (BUY) | 63% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 83% | 10.00 | 12.8% | 💰 vendida anticipada | +0.00 |
@@ -89,7 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 72% | 10.00 | 9.4% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 57% | 10.00 | 3.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 11.5% | 💰 vendida anticipada | -1.88 |
-| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 44% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 33% | 10.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 44% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -102,5 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-15? | Yes (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 69% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 55% | 10.00 | 15.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 85% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
