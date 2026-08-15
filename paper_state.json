@@ -1,5 +1,5 @@
 {
-  "bankroll": 1025.4169328818114,
+  "bankroll": 1025.1737462990022,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -340,6 +340,21 @@
       "timestamp": 1786795658.6777468,
       "bankroll": 1025.42,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner (+1.52 USD)"
+    },
+    {
+      "timestamp": 1786795832.449983,
+      "bankroll": 1026.31,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner (+0.89 USD)"
+    },
+    {
+      "timestamp": 1786795917.6985357,
+      "bankroll": 1016.31,
+      "event": "lost: RN1 \u2014 Astana: Hayato Matsuoka vs Khumoun Sultanov"
+    },
+    {
+      "timestamp": 1786795917.7987306,
+      "bankroll": 1025.17,
+      "event": "won: ferrariChampions2026 \u2014 Astana: Hayato Matsuoka vs Khumoun Sultanov"
     }
   ]
 }
