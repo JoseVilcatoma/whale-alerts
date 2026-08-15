@@ -1,5 +1,5 @@
 {
-  "bankroll": 1060.9156401887903,
+  "bankroll": 1050.9156401887903,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -240,6 +240,11 @@
       "timestamp": 1786792482.1957717,
       "bankroll": 1060.92,
       "event": "lost: ferrariChampions2026 \u2014 Astana: Aziz Dougaz vs Sergey Fomin"
+    },
+    {
+      "timestamp": 1786792603.089678,
+      "bankroll": 1050.92,
+      "event": "lost: ferrariChampions2026 \u2014 FC Mito Holly Hock vs. Gamba \u014csaka: O/U 2.5"
     }
   ]
 }
