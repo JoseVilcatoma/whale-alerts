@@ -200,5 +200,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786766248.0512564,
     "fills": 1
+  },
+  {
+    "timestamp": 1786766677,
+    "timestamp_added": 1786766678.2365522,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-kc-laa-2026-08-14",
+    "title": "Kansas City Royals vs. Los Angeles Angels",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 1438.5,
+    "whale_pct": 1.135,
+    "whale_value_at_open": 126686.5909,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786766678.2365594,
+    "fills": 1
   }
 ]
