@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:48:18 (hora de Perú)
+Actualizado: 2026-08-15 08:50:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,069.32
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 111111111115 | 6 | 2 | 2 | +40.45 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 3 | 4 | +36.43 USD |
-| CORGI8 | 4 | 3 | 3 | +31.20 USD |
+| CORGI8 | 4 | 3 | 4 | +31.20 USD |
 | g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
@@ -93,6 +93,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Espo | 9z (BUY) | 36% | 10.00 | 415.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 55% | 10.00 | 1.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 95% | 10.00 | 31.9% | 💰 vendida anticipada | +0.21 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 51% | 10.00 | 2.8% | 💰 vendida anticipada | +2.35 |
@@ -122,4 +123,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | 💰 vendida anticipada | +1.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
