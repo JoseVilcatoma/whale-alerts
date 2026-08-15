@@ -708,8 +708,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 12199.999988999998,
-    "whale_pct": 11.392,
+    "whale_usd": 14199.999986999997,
+    "whale_pct": 13.259,
     "whale_value_at_open": 107093.5075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -718,8 +718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775287.553413,
-    "fills": 11
+    "last_fill_at": 1786775460.5305283,
+    "fills": 13
   },
   {
     "timestamp": 1786772413,
@@ -980,8 +980,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Khumoun Sultanov",
     "side": "BUY",
-    "whale_usd": 3471.126565,
-    "whale_pct": 5.477,
+    "whale_usd": 4097.497993,
+    "whale_pct": 6.465,
     "whale_value_at_open": 63376.5275,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -990,8 +990,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786774563.883994,
-    "fills": 2
+    "last_fill_at": 1786775369.7381132,
+    "fills": 3
   },
   {
     "timestamp": 1786774634,
@@ -1002,8 +1002,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 15094.632633999998,
-    "whale_pct": 8.232,
+    "whale_usd": 17858.352934,
+    "whale_pct": 9.739,
     "whale_value_at_open": 183373.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -1014,8 +1014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775299.6517208,
-    "fills": 10
+    "last_fill_at": 1786775460.3067336,
+    "fills": 13
   },
   {
     "timestamp": 1786774643,
@@ -1157,5 +1157,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786775153.5317101,
     "fills": 1
+  },
+  {
+    "timestamp": 1786775336,
+    "timestamp_added": 1786775336.6847026,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-boombo-aur1-2026-08-15-game1",
+    "title": "Dota 2: BoomBoys vs Aurora - Game 1 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 4473.4553,
+    "whale_pct": 2.278,
+    "whale_value_at_open": 196408.8322,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786775413.402213,
+    "fills": 4
   }
 ]
