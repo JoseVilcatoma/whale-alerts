@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:00:37 (hora de Perú)
+Actualizado: 2026-08-15 09:02:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,069.32
@@ -94,7 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Stoke City FC vs. Swansea City AFC: O/U  | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
-| CORGI8 | Counter-Strike: magic vs 3DMAX (BO3) - E | 3DMAX (BUY) | 45% | 10.00 | 59.8% | ⏳ pendiente | — |
+| CORGI8 | Counter-Strike: magic vs 3DMAX (BO3) - E | 3DMAX (BUY) | 45% | 10.00 | 95.3% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Espo | 9z (BUY) | 36% | 10.00 | 415.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 55% | 10.00 | 1.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 95% | 10.00 | 31.9% | 💰 vendida anticipada | +0.21 |
