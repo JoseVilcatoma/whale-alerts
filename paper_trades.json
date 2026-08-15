@@ -4061,5 +4061,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786803007.4776478,
     "fills": 1
+  },
+  {
+    "timestamp": 1786803201,
+    "timestamp_added": 1786803202.0504203,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mgc-3dmax-2026-08-15",
+    "title": "Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D",
+    "outcome": "magic",
+    "side": "BUY",
+    "whale_usd": 611.0500000000001,
+    "whale_pct": 0.178,
+    "whale_value_at_open": 342839.1847,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803202.05043,
+    "fills": 1
   }
 ]

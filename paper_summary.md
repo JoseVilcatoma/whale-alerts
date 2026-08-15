@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:12:57 (hora de Perú)
+Actualizado: 2026-08-15 09:15:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,071.06
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 111111111115 | 6 | 2 | 2 | +40.45 USD |
+| 111111111115 | 6 | 2 | 3 | +40.45 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 3 | 4 | +36.43 USD |
 | CORGI8 | 4 | 3 | 5 | +31.20 USD |
 | g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
@@ -88,11 +88,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-we-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111 |
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-stl-chc-2026-08-15-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
+| cs2-mgc-3dmax-2026-08-15 | 111111111115, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 15.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Stoke City FC vs. Swansea City AFC: O/U  | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: magic vs 3DMAX (BO3) - E | 3DMAX (BUY) | 45% | 10.00 | 95.3% | ⏳ pendiente | — |
@@ -122,4 +124,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 6.9% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 1.7% | ⏳ pendiente | — |
