@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 13:22:18 (hora de Perú)
+Actualizado: 2026-08-15 13:24:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **179**  ($8,502,554 en total)
+- Apuestas registradas: **180**  ($8,556,554 en total)
 - Resueltas: **156** — 88 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 66
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 1 | 67% | $1,889,527 | +$480,279 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 0 | 50% | $686,840 | +$57,398 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 1 | 50% | $740,840 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 66 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | — | ⏳ Pendiente |
 | Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Deportivo Alavés win on 2026-08-15? | Yes | 2.44 (41¢) | $32,508 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 66 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wolverhampton Wanderers FC win on 2026-08-14? | No | 2.27 (44¢) | $157,273 | +$200,166 | ✅ Ganada |
 | g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | +$16,094 | ✅ Ganada |
 | Feromont | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
-| 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | +$6,473 | ✅ Ganada |

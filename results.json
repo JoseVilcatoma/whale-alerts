@@ -2689,5 +2689,20 @@
     "status": "pending",
     "ultimo_fill": 1786817341,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 360,
+    "timestamp": 1786818214,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nyy-tor-2026-08-15-total-7pt5",
+    "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 54000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1786818214,
+    "fills": 1
   }
 ]
