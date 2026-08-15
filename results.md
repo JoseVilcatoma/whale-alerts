@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 11:41:59 (hora de Perú)
+Actualizado: 2026-08-15 11:44:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **169**  ($8,179,666 en total)
+- Apuestas registradas: **170**  ($8,209,166 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 59
+- Pendientes: 18
+- Apostadores distintos: 60
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 0 | 1 | — | $33,229 | — |
 | g42gh6524h5h5 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,676 | +$16,094 |
 
-_(mostrando los 40 de mayor monto, de 59 en total)_
+_(mostrando los 40 de mayor monto, de 60 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | — | ⏳ Pendiente |
 | sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | — | ⏳ Pendiente |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $33,229 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 59 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | +$23,015 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
-| 007theone1 | Cincinnati Open: Elisabetta Cocciaretto vs Lucrezia Stefanini | Lucrezia Stefanini | 1.06 (94¢) | $26,346 | +$1,682 | ✅ Ganada |
