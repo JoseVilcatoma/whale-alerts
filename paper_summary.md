@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:59:02 (hora de Perú)
+Actualizado: 2026-08-14 21:01:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,525.80
-**Retorno acumulado:** +52.58%
+**Bankroll actual:** $1,658.54
+**Retorno acumulado:** +65.85%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,29 +17,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 22 | +244.03 USD |
+| 1winstreak1 | 38 | 19 | 38 | +183.52 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 14 | 10 | 7 | +48.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 2 | +33.42 USD |
-| 1winstreak1 | 24 | 15 | 56 | +20.77 USD |
+| wr0ngw4yb3tt0r | 14 | 13 | 4 | +18.23 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 30 | +0.00 USD |
+| RN1 | 0 | 0 | 32 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
-| Sassy-Bucket | 1 | 9 | 10 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 11 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 243
-- **Aciertos:** 152 (62.6%)
-- **Cuota promedio de entrada:** 53.5%
+- **Apuestas resueltas:** 264
+- **Aciertos:** 166 (62.9%)
+- **Cuota promedio de entrada:** 53.0%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,428.66
-- **ROI sobre lo apostado:** +21.61%
+- **Total apostado (suma de stakes):** $2,638.66
+- **ROI sobre lo apostado:** +24.92%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,9 +48,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 7 | 0.0% | 13.6% | -13.6 pp |
-| 20-39% | 41 | 48.8% | 29.5% | +19.3 pp |
-| 40-59% | 104 | 55.8% | 48.1% | +7.6 pp |
-| 60-79% | 65 | 76.9% | 67.2% | +9.8 pp |
+| 20-39% | 46 | 54.3% | 30.2% | +24.2 pp |
+| 40-59% | 116 | 56.9% | 47.9% | +9.0 pp |
+| 60-79% | 69 | 73.9% | 67.0% | +6.9 pp |
 | 80-94% | 23 | 91.3% | 88.2% | +3.1 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
 
@@ -72,12 +72,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-pit-2026-08-14-spread-home-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-sd-cle-2026-08-14 | 1winstreak1, RN1 |
 | mlb-bal-tb-2026-08-14 | 1winstreak1, RN1 |
+| mlb-sd-cle-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-ari-atl-2026-08-14 | 1winstreak1, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 59% | 10.00 | 0.7% | ⏳ pendiente | — |
+| Sassy-Bucket | Colorado Rockies vs. San Francisco Giant | Over (BUY) | 42% | 10.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 80% | 10.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 56% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 50% | 10.00 | 2.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 12% | 10.00 | 18.0% | ⏳ pendiente | — |
@@ -105,6 +109,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 33% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 18% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 60% | 10.00 | 0.5% | ⏳ pendiente | — |
