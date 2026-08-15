@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:39:22 (hora de Perú)
+Actualizado: 2026-08-15 01:41:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $982.30
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 39% | 10.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |

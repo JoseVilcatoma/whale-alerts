@@ -1191,8 +1191,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 11350.585491,
-    "whale_pct": 5.247,
+    "whale_usd": 14766.966691,
+    "whale_pct": 6.827,
     "whale_value_at_open": 216305.2914,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -1203,8 +1203,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775541.8440423,
-    "fills": 2
+    "last_fill_at": 1786776045.4288757,
+    "fills": 3
   },
   {
     "timestamp": 1786775728,
