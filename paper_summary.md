@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 15:18:59 (hora de Perú)
+Actualizado: 2026-08-15 15:21:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,027.95
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiag | Thiago Agustin Tirante (BUY) | 66% | 10.00 | 32.4% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiag | Thiago Agustin Tirante (BUY) | 66% | 10.00 | 45.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 2 Win | Vivo Keyd Stars (BUY) | 30% | 10.00 | 7.6% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 15.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Counter-Strike: BIG vs Spirit (BO3) - Es | Spirit (BUY) | 57% | 10.00 | 37.4% | ⏳ pendiente | — |
