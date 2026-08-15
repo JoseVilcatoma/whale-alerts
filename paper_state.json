@@ -1,5 +1,5 @@
 {
-  "bankroll": 1019.688913323398,
+  "bankroll": 1009.688913323398,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -895,6 +895,11 @@
       "timestamp": 1786827385.175325,
       "bankroll": 1019.69,
       "event": "won: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays: 1st 5 Innings O/U 3.5"
+    },
+    {
+      "timestamp": 1786827832.9421265,
+      "bankroll": 1009.69,
+      "event": "lost: 1winstreak1 \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 11.5"
     }
   ]
 }
