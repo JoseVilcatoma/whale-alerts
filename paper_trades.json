@@ -776,8 +776,8 @@
     "title": "Dota 2: BoomBoys vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 30999.999995,
-    "whale_pct": 18.137,
+    "whale_usd": 31999.999995,
+    "whale_pct": 18.722,
     "whale_value_at_open": 170919.8936,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -786,8 +786,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786774831.3391027,
-    "fills": 6
+    "last_fill_at": 1786774907.9785988,
+    "fills": 7
   },
   {
     "timestamp": 1786772976,
@@ -1002,8 +1002,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 8083.374341999999,
-    "whale_pct": 4.408,
+    "whale_usd": 10165.342841999998,
+    "whale_pct": 5.544,
     "whale_value_at_open": 183373.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -1014,8 +1014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786774752.9027278,
-    "fills": 2
+    "last_fill_at": 1786774862.6740406,
+    "fills": 4
   },
   {
     "timestamp": 1786774643,
@@ -1026,8 +1026,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 2384.828684,
-    "whale_pct": 1.285,
+    "whale_usd": 2948.303484,
+    "whale_pct": 1.588,
     "whale_value_at_open": 185661.5335,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -1038,8 +1038,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786774644.0072446,
-    "fills": 1
+    "last_fill_at": 1786774926.1743836,
+    "fills": 2
   },
   {
     "timestamp": 1786774676,
@@ -1097,8 +1097,8 @@
     "title": "Dota 2: BoomBoys vs Aurora - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 999.9999989999999,
-    "whale_pct": 0.47,
+    "whale_usd": 1999.9999979999998,
+    "whale_pct": 0.94,
     "whale_value_at_open": 212824.1016,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -1107,7 +1107,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786774822.6805897,
-    "fills": 1
+    "last_fill_at": 1786774927.6939785,
+    "fills": 2
   }
 ]
