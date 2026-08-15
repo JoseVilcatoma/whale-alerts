@@ -1,5 +1,5 @@
 {
-  "bankroll": 1044.9873290323756,
+  "bankroll": 1049.9873290323756,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -765,6 +765,11 @@
       "timestamp": 1786815345.248928,
       "bankroll": 1044.99,
       "event": "venta anticipada: IMAREALPERSON \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner (+2.08 USD)"
+    },
+    {
+      "timestamp": 1786815515.456044,
+      "bankroll": 1049.99,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner (+5.00 USD)"
     }
   ]
 }
