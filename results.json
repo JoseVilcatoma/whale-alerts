@@ -2871,5 +2871,20 @@
     "status": "pending",
     "ultimo_fill": 1786822227,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 374,
+    "timestamp": 1786822865,
+    "username": "Dragua9",
+    "wallet": "0xa8bd9ae70657db83444c6ca987b8aeb9fb0ab7aa",
+    "slug": "lal-sev-ray-2026-08-15-draw",
+    "title": "Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30600.026470000004,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1786822865,
+    "fills": 1
   }
 ]

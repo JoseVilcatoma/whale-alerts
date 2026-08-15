@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:40:35 (hora de Perú)
+Actualizado: 2026-08-15 14:42:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **191**  ($9,239,952 en total)
+- Apuestas registradas: **192**  ($9,270,552 en total)
 - Resueltas: **158** — 89 ganadas / 69 perdidas (**56%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 69
 
 ### Balance
@@ -54,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
+| Dragua9 | 0 | 0 | 2 | — | $59,881 | — |
 | Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
 | ExplosiveNinja | 1 | 0 | 1 | ⚠️ 100% (1) | $59,200 | +$19,800 |
 | sulumos | 0 | 0 | 1 | — | $58,856 | — |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
-| StasPanda | 1 | 0 | 0 | ⚠️ 100% (1) | $39,313 | +$14,540 |
 
 _(mostrando los 40 de mayor monto, de 69 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | -$25,778 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | -$33,728 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | +$43,951 | ✅ Ganada |
