@@ -1,5 +1,5 @@
 {
-  "bankroll": 1658.5394754544077,
+  "bankroll": 1650.8851544667534,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1325,6 +1325,16 @@
       "timestamp": 1786759260.2252147,
       "bankroll": 1658.54,
       "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759381.0032277,
+      "bankroll": 1660.89,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1786759381.3037186,
+      "bankroll": 1650.89,
+      "event": "lost: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates"
     }
   ]
 }
