@@ -568,8 +568,8 @@
     "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 510.2,
-    "whale_pct": 0.241,
+    "whale_usd": 4451.921507,
+    "whale_pct": 2.106,
     "whale_value_at_open": 211377.9371,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -581,8 +581,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771013.9315693,
-    "fills": 1
+    "last_fill_at": 1786771273.314208,
+    "fills": 4
   },
   {
     "timestamp": 1786771036,
