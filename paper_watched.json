@@ -2,7 +2,7 @@
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1786687742.0476274,
-    "roi_pct": 279.53,
+    "roi_pct": 1974.55,
     "short_term_pct": 100.0
   },
   "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
@@ -14,25 +14,19 @@
   "0x79ae097215202b5d01f98e4479fb219102469a4a": {
     "username": "CORGI8",
     "added_at": 1786729843.2467582,
-    "roi_pct": 1447.18,
+    "roi_pct": 1418.68,
     "short_term_pct": 100.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "111111111115",
     "added_at": 1786731780.7026045,
-    "roi_pct": 478.91,
+    "roi_pct": 577.95,
     "short_term_pct": 100.0
   },
   "0xa4b7b1814b0da33f2b61be4939976898aa476008": {
     "username": "midwicket72",
     "added_at": 1786750846.7339451,
-    "roi_pct": 1628.24,
-    "short_term_pct": 100.0
-  },
-  "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
-    "username": "1winstreak1",
-    "added_at": 1786750846.7339592,
-    "roi_pct": 318.0,
+    "roi_pct": 1602.34,
     "short_term_pct": 100.0
   },
   "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
@@ -44,19 +38,25 @@
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
     "username": "IMAREALPERSON",
     "added_at": 1786752732.3451555,
-    "roi_pct": 558.75,
+    "roi_pct": 494.0,
     "short_term_pct": 100.0
   },
   "0x43cab54b56aba79c29c1ba14b889e7de5532c219": {
     "username": "Bulls94",
     "added_at": 1786754615.687968,
-    "roi_pct": 282.59,
+    "roi_pct": 289.39,
     "short_term_pct": 100.0
   },
-  "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2": {
-    "username": "TennisLove",
-    "added_at": 1786754615.6879742,
-    "roi_pct": 233.58,
+  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
+    "username": "theowalcott",
+    "added_at": 1786755556.0534308,
+    "roi_pct": 296.78,
+    "short_term_pct": 100.0
+  },
+  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
+    "username": "SDTrading",
+    "added_at": 1786755556.053433,
+    "roi_pct": 292.18,
     "short_term_pct": 80.0
   }
 }
