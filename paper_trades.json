@@ -4424,8 +4424,8 @@
     "title": "LoL: G2 Esports vs Shifters - Game 2 Winner",
     "outcome": "Shifters",
     "side": "BUY",
-    "whale_usd": 835.3224,
-    "whale_pct": 3.344,
+    "whale_usd": 2903.6195,
+    "whale_pct": 11.622,
     "whale_value_at_open": 24983.4233,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -4434,7 +4434,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786817829.242587,
-    "fills": 1
+    "last_fill_at": 1786818035.9222093,
+    "fills": 3
   }
 ]
