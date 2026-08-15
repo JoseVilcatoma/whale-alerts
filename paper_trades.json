@@ -640,8 +640,8 @@
     "title": "Dota 2: Team Falcons vs GamerLegion (BO3) - The International Group Stage",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 3016.8684299999995,
-    "whale_pct": 1.59,
+    "whale_usd": 5393.18843,
+    "whale_pct": 2.843,
     "whale_value_at_open": 189717.3218,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -652,8 +652,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771374.0851066,
-    "fills": 1
+    "last_fill_at": 1786771858.6929572,
+    "fills": 2
   },
   {
     "timestamp": 1786771380,
