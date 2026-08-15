@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:30:38 (hora de Perú)
+Actualizado: 2026-08-14 21:32:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,743.15
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 4 | -39.04 USD |
+| IMAREALPERSON | 4 | 4 | 5 | -39.04 USD |
 | Sassy-Bucket | 1 | 9 | 11 | -81.82 USD |
 
 ## Análisis general
@@ -90,6 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 29% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 36% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 52% | 10.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 75% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -119,4 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 58% | 10.00 | 4.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | LGD Gaming (BUY) | 41% | 10.00 | 14.4% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
