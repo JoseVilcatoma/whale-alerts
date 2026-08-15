@@ -6023,5 +6023,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786752021.1824286,
     "fills": 2
+  },
+  {
+    "timestamp": 1786752059,
+    "timestamp_added": 1786752060.1033745,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-wsh-nym-2026-08-14",
+    "title": "Washington Nationals vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 31.719999999999995,
+    "whale_pct": 0.123,
+    "whale_value_at_open": 25800.037,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786752060.1033845,
+    "fills": 1
   }
 ]
