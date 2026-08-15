@@ -2284,5 +2284,20 @@
     "status": "pending",
     "ultimo_fill": 1786789944,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 320,
+    "timestamp": 1786790054,
+    "username": "JaJa888",
+    "wallet": "0xf2f23d470f2ede0a31a71326b310e8113ce40550",
+    "slug": "lol-tt-al-2026-08-15-game1",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "usd": 26981.6473,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1786790054,
+    "fills": 1
   }
 ]
