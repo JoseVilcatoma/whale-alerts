@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:38:10 (hora de Perú)
+Actualizado: 2026-08-14 20:40:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,514.81
-**Retorno acumulado:** +51.48%
+**Bankroll actual:** $1,512.55
+**Retorno acumulado:** +51.25%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,13 +20,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 14 | 8 | 9 | +68.23 USD |
+| wr0ngw4yb3tt0r | 14 | 10 | 7 | +48.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| 1winstreak1 | 21 | 14 | 60 | +11.12 USD |
+| 1winstreak1 | 23 | 15 | 57 | +7.51 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 6 | +0.00 USD |
-| SDTrading | 1 | 4 | 2 | -28.26 USD |
+| RN1 | 0 | 0 | 9 | +0.00 USD |
+| SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 235
-- **Aciertos:** 147 (62.6%)
+- **Apuestas resueltas:** 242
+- **Aciertos:** 151 (62.4%)
 - **Cuota promedio de entrada:** 53.5%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,348.66
-- **ROI sobre lo apostado:** +21.88%
+- **Total apostado (suma de stakes):** $2,418.66
+- **ROI sobre lo apostado:** +21.15%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,10 +48,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 7 | 0.0% | 13.6% | -13.6 pp |
-| 20-39% | 40 | 50.0% | 29.7% | +20.3 pp |
-| 40-59% | 99 | 55.6% | 48.1% | +7.4 pp |
-| 60-79% | 64 | 76.6% | 67.1% | +9.4 pp |
-| 80-94% | 22 | 90.9% | 88.4% | +2.5 pp |
+| 20-39% | 41 | 48.8% | 29.5% | +19.3 pp |
+| 40-59% | 103 | 55.3% | 48.2% | +7.2 pp |
+| 60-79% | 65 | 76.9% | 67.2% | +9.8 pp |
+| 80-94% | 23 | 91.3% | 88.2% | +3.1 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -69,6 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-spread-home-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-sd-cle-2026-08-14 | 1winstreak1, RN1 |
 | mlb-bal-tb-2026-08-14 | 1winstreak1, RN1 |
 | mlb-ari-atl-2026-08-14 | 1winstreak1, RN1 |
 
@@ -76,6 +77,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 18% | 10.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 60% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 59% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -103,6 +107,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Indiana Fever (-5.5) | Dallas Wings (BUY) | 56% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 44% | 10.00 | 19.6% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
