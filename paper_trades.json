@@ -4170,8 +4170,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 35491.592940999995,
-    "whale_pct": 8.625,
+    "whale_usd": 41891.47487199999,
+    "whale_pct": 10.18,
     "whale_value_at_open": 411515.7964,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -4182,8 +4182,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803908.0228152,
-    "fills": 4
+    "last_fill_at": 1786803950.8869233,
+    "fills": 9
   },
   {
     "timestamp": 1786803907,
@@ -4208,6 +4208,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786803907.5662718,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786803961,
+    "timestamp_added": 1786803961.4213,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-blg-we-2026-08-15",
+    "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 2750.86,
+    "whale_pct": 2.661,
+    "whale_value_at_open": 103383.0409,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803961.4213073,
     "fills": 1
   }
 ]
