@@ -1,5 +1,5 @@
 {
-  "bankroll": 1069.3184523581913,
+  "bankroll": 1071.0575827929738,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -555,6 +555,16 @@
       "timestamp": 1786801689.4219613,
       "bankroll": 1069.32,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: BoomBoys vs Team Falcons (BO3) - The International Group Stage (+2.35 USD)"
+    },
+    {
+      "timestamp": 1786802674.4882307,
+      "bankroll": 1081.06,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Wildcard vs paiN - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786802674.788841,
+      "bankroll": 1071.06,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Wildcard vs paiN - Map 1 Winner"
     }
   ]
 }
