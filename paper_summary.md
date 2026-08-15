@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:32:21 (hora de Perú)
+Actualizado: 2026-08-15 00:34:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 6 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 4 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
@@ -59,6 +59,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 48% | 10.00 | 2.1% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 46% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: SK (-1.5) vs Fnatic (+1.5 | Fnatic (BUY) | 72% | 10.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs GamerLegion (BO3 | Team Falcons (BUY) | 74% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs HULIGANI (BO3) - The Inter | OG (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -87,5 +89,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 2 Women: Shihomi Li Xuan | Shihomi Li Xuan Leong (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 40% | 10.00 | 10.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 39% | 10.00 | 3.9% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 49% | 10.00 | 1.8% | ❌ perdida | -10.00 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 15.3% | ⏳ pendiente | — |
