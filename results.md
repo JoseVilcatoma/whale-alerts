@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 21:08:35 (hora de Perú)
+Actualizado: 2026-08-14 21:10:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **139**  ($6,784,214 en total)
+- Apuestas registradas: **140**  ($6,809,414 en total)
 - Resueltas: **130** — 77 ganadas / 53 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 50
 
 ### Balance
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | SDTrading | 0 | 2 | 0 | ⚠️ 0% (2) | $55,210 | -$55,210 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
+| Feromont | 1 | 0 | 1 | ⚠️ 100% (1) | $50,800 | +$14,400 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,000 | +$2,967 |
 | CORGI8 | 0 | 1 | 0 | ⚠️ 0% (1) | $29,980 | -$29,980 |
-| jackpeter888 | 1 | 0 | 0 | ⚠️ 100% (1) | $28,674 | +$6,294 |
 
 _(mostrando los 40 de mayor monto, de 50 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $45,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $82,637 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $33,291 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | -$99,433 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | +$26,666 | ✅ Ganada |
 | AV23IUa | National Bank Open: Ben Shelton vs Brandon Nakashima | Brandon Nakashima | 3.12 (32¢) | $43,950 | -$43,950 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.49 (67¢) | $33,065 | +$16,286 | ✅ Ganada |
