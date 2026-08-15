@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 02:52:13 (hora de Perú)
+Actualizado: 2026-08-15 02:54:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,016.85
-**Retorno acumulado:** +1.69%
+**Bankroll actual:** $1,017.96
+**Retorno acumulado:** +1.80%
 **Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,25 +16,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 2 | 1 | 4 | +32.68 USD |
+| CORGI8 | 2 | 1 | 5 | +32.68 USD |
 | 111111111115 | 1 | 1 | 5 | +5.00 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
+| ferrariChampions2026 | 1 | 0 | 16 | +1.11 USD |
 | Lakersfan111 | 0 | 0 | 8 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 17 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 0 | 0 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
 | RN1 | 5 | 5 | 2 | -13.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 17
-- **Aciertos:** 9 (52.9%)
-- **Cuota promedio de entrada:** 54.5%
+- **Apuestas resueltas:** 18
+- **Aciertos:** 10 (55.6%)
+- **Cuota promedio de entrada:** 56.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $170.00
-- **ROI sobre lo apostado:** +9.92%
+- **Total apostado (suma de stakes):** $180.00
+- **ROI sobre lo apostado:** +9.98%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 5 | 60.0% | 31.8% | +28.2 pp |
 | 40-59% | 4 | 25.0% | 47.5% | -22.5 pp |
 | 60-79% | 6 | 50.0% | 67.7% | -17.7 pp |
-| 80-94% | 2 | 100.0% | 86.0% | +14.0 pp |
+| 80-94% | 3 | 100.0% | 87.3% | +12.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -66,11 +67,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
+| dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 68% | 10.00 | 138.5% | 💰 vendida anticipada | +0.00 |
+| CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 33% | 10.00 | 27.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 51% | 10.00 | 6.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 50% | 10.00 | 26.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 58% | 10.00 | 30.6% | ⏳ pendiente | — |
@@ -99,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ✅ ganada | +5.62 |
-| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
