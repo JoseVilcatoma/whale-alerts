@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:13:06 (hora de Perú)
+Actualizado: 2026-08-14 20:15:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,479.65
-**Retorno acumulado:** +47.96%
+**Bankroll actual:** $1,487.19
+**Retorno acumulado:** +48.72%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 18 | 14 | 63 | -24.04 USD |
+| 1winstreak1 | 19 | 14 | 62 | -16.50 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -33,12 +33,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 232
-- **Aciertos:** 144 (62.1%)
+- **Apuestas resueltas:** 233
+- **Aciertos:** 145 (62.2%)
 - **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,318.66
-- **ROI sobre lo apostado:** +20.64%
+- **Total apostado (suma de stakes):** $2,328.66
+- **ROI sobre lo apostado:** +20.88%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 7 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 40 | 50.0% | 29.7% | +20.3 pp |
-| 40-59% | 96 | 54.2% | 48.2% | +6.0 pp |
+| 40-59% | 97 | 54.6% | 48.3% | +6.4 pp |
 | 60-79% | 64 | 76.6% | 67.1% | +9.4 pp |
 | 80-94% | 22 | 90.9% | 88.4% | +2.5 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
