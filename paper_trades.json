@@ -5126,5 +5126,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786835124.4008539,
     "fills": 1
+  },
+  {
+    "timestamp": 1786836264,
+    "timestamp_added": 1786836264.8575196,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sd-cle-2026-08-15",
+    "title": "San Diego Padres vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 1123.05,
+    "whale_pct": 11.164,
+    "whale_value_at_open": 10059.6488,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786836264.8575287,
+    "fills": 1
   }
 ]
