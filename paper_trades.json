@@ -1595,15 +1595,16 @@
     "whale_value_at_open": 22391.5867,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.33,
     "overlaps_with": [
       "CORGI8"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786780879.2519896,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 68
   },
   {
     "timestamp": 1786780901,
@@ -1716,13 +1717,14 @@
     "whale_value_at_open": 25352.0013,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 25,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 20.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786781977.2471225,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 75
   },
   {
     "timestamp": 1786781419,
