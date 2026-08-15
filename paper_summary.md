@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:34:42 (hora de Perú)
+Actualizado: 2026-08-14 21:36:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,743.15
-**Retorno acumulado:** +74.31%
+**Bankroll actual:** $1,791.92
+**Retorno acumulado:** +79.19%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 53 | 33 | 9 | +253.20 USD |
+| 1winstreak1 | 57 | 33 | 5 | +294.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
-| RN1 | 6 | 1 | 58 | +24.91 USD |
-| wr0ngw4yb3tt0r | 14 | 14 | 9 | +8.23 USD |
+| wr0ngw4yb3tt0r | 15 | 14 | 9 | +20.45 USD |
+| RN1 | 13 | 2 | 52 | +20.43 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 301
-- **Aciertos:** 187 (62.1%)
-- **Cuota promedio de entrada:** 52.2%
+- **Apuestas resueltas:** 314
+- **Aciertos:** 199 (63.4%)
+- **Cuota promedio de entrada:** 52.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,008.66
-- **ROI sobre lo apostado:** +24.67%
+- **Total apostado (suma de stakes):** $3,138.66
+- **ROI sobre lo apostado:** +25.20%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,12 +48,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 14 | 14.3% | 15.9% | -1.6 pp |
+| 1-19% (bomba) | 15 | 13.3% | 15.9% | -2.5 pp |
 | 20-39% | 55 | 49.1% | 30.7% | +18.4 pp |
-| 40-59% | 126 | 57.9% | 48.0% | +9.9 pp |
-| 60-79% | 76 | 76.3% | 67.1% | +9.2 pp |
-| 80-94% | 27 | 88.9% | 87.3% | +1.6 pp |
-| 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
+| 40-59% | 130 | 59.2% | 47.9% | +11.3 pp |
+| 60-79% | 77 | 76.6% | 67.2% | +9.5 pp |
+| 80-94% | 30 | 90.0% | 87.4% | +2.6 pp |
+| 95-99% (casi seguro) | 7 | 100.0% | 96.3% | +3.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -90,6 +90,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 27% | 10.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 71% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 64% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 66% | 10.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 69% | 10.00 | 4.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 29% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -117,6 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 23.5% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 58% | 10.00 | 4.5% | ⏳ pendiente | — |
