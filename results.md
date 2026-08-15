@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:09:12 (hora de Perú)
+Actualizado: 2026-08-15 18:11:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **219**  ($10,269,132 en total)
-- Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 35
+- Resueltas: **185** — 103 ganadas / 82 perdidas (**56%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 76
 
 ### Balance
 
-- **Resultado de los apostadores: -$295,641** sobre $8,601,697 apostados (ROI **-3.4%**)
-- Copiando $100 fijo en cada una: **-$1,762** sobre $18,000 (ROI **-9.8%**)
+- **Resultado de los apostadores: -$285,921** sobre $8,627,976 apostados (ROI **-3.3%**)
+- Copiando $100 fijo en cada una: **-$1,725** sobre $18,100 (ROI **-9.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 0 | 1 | 1 | ⚠️ 0% (1) | $56,746 | -$30,307 |
 | suntori | 1 | 0 | 1 | ⚠️ 100% (1) | $56,430 | +$19,051 |
 | beachboy4 | 0 | 0 | 1 | — | $55,055 | — |
-| TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
+| TAIWANNUMBERONE | 2 | 0 | 0 | ⚠️ 100% (2) | $53,310 | +$21,304 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 
 _(mostrando los 40 de mayor monto, de 76 en total)_
