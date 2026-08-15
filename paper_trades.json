@@ -708,8 +708,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 11199.999989999998,
-    "whale_pct": 10.458,
+    "whale_usd": 12199.999988999998,
+    "whale_pct": 11.392,
     "whale_value_at_open": 107093.5075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -718,8 +718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775183.1278343,
-    "fills": 10
+    "last_fill_at": 1786775287.553413,
+    "fills": 11
   },
   {
     "timestamp": 1786772413,
@@ -1002,8 +1002,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 13942.859500999997,
-    "whale_pct": 7.604,
+    "whale_usd": 15094.632633999998,
+    "whale_pct": 8.232,
     "whale_value_at_open": 183373.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -1014,8 +1014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775143.3225262,
-    "fills": 8
+    "last_fill_at": 1786775299.6517208,
+    "fills": 10
   },
   {
     "timestamp": 1786774643,
