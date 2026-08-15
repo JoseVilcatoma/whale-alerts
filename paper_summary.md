@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:05:20 (hora de Perú)
+Actualizado: 2026-08-14 21:07:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,650.89
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 3 | +33.42 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 4 | +18.23 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 35 | +0.00 USD |
+| RN1 | 0 | 0 | 40 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -69,9 +69,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | dota2-lgd-xtreme-2026-08-14 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-bal-tb-2026-08-14-total-8pt5 | 1winstreak1, RN1 |
 | mlb-bos-pit-2026-08-14-spread-home-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-sd-cle-2026-08-14 | 1winstreak1, RN1 |
 | mlb-bal-tb-2026-08-14 | 1winstreak1, RN1 |
+| mlb-bal-tb-2026-08-14-total-9pt5 | 1winstreak1, RN1 |
 | mlb-sd-cle-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-ari-atl-2026-08-14 | 1winstreak1, RN1 |
 
@@ -79,6 +81,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 34% | 10.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics: O/U 8.5 | Over (BUY) | 56% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 55% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 98% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -104,8 +111,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 46% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 50% | 10.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 39% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Spread: Texas Rangers (-1.5) | Texas Rangers (BUY) | 38% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
