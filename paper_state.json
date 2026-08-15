@@ -1,5 +1,5 @@
 {
-  "bankroll": 1025.1737462990022,
+  "bankroll": 1029.6664999221907,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -355,6 +355,11 @@
       "timestamp": 1786795917.7987306,
       "bankroll": 1025.17,
       "event": "won: ferrariChampions2026 \u2014 Astana: Hayato Matsuoka vs Khumoun Sultanov"
+    },
+    {
+      "timestamp": 1786796302.8929358,
+      "bankroll": 1029.67,
+      "event": "won: ferrariChampions2026 \u2014 Fagiano Okayama vs. V-Varen Nagasaki: O/U 0.5"
     }
   ]
 }
