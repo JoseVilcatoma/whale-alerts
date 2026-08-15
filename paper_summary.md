@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:15:53 (hora de Perú)
+Actualizado: 2026-08-15 12:17:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,036.49
@@ -93,7 +93,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | CLE vs. CHI: O/U 38.5 | Under (BUY) | 57% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Vikings vs. Giants | Giants (BUY) | 43% | 10.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 45.9% | ⏳ pendiente | — |
+| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 78.8% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Deportivo Alavés win on 2026-08-15? | Yes (BUY) | 40% | 10.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Browns vs. Bears | Bears (BUY) | 40% | 10.00 | 27.4% | ⏳ pendiente | — |
