@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:34:38 (hora de Perú)
+Actualizado: 2026-08-15 06:36:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,040.05
-**Retorno acumulado:** +4.00%
+**Bankroll actual:** $1,051.91
+**Retorno acumulado:** +5.19%
 **Peor caída desde un máximo (drawdown):** 3.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 5 | +22.68 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 1 | 5 | +15.41 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 4 | +8.78 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 1 | 6 | +3.55 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
@@ -88,7 +88,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 8.9% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 3.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | JEF United Ichihara Chiba vs. FC Machida | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 30% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Liaoning Tieren FC win on 2026-08-1 | No (BUY) | 57% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 57% | 10.00 | 4.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 43% | 10.00 | 0.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 43% | 10.00 | 0.9% | 💰 vendida anticipada | +11.86 |
 | ferrariChampions2026 | Map Handicap: NAVI (-1.5) vs TheMongolz  | TheMongolz (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 39% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 1.9% | ⏳ pendiente | — |

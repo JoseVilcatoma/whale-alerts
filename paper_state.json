@@ -1,5 +1,5 @@
 {
-  "bankroll": 1040.0476148177224,
+  "bankroll": 1051.9080799340015,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -270,6 +270,11 @@
       "timestamp": 1786793109.694265,
       "bankroll": 1040.05,
       "event": "lost: ferrariChampions2026 \u2014 Will Kashima Antlers vs. Nagoya Grampus end in a draw?"
+    },
+    {
+      "timestamp": 1786793721.088292,
+      "bankroll": 1051.91,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 1 Winner (+11.86 USD)"
     }
   ]
 }
