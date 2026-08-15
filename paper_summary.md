@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:33:28 (hora de Perú)
+Actualizado: 2026-08-15 14:35:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,062.51
-**Retorno acumulado:** +6.25%
+**Bankroll actual:** $1,073.34
+**Retorno acumulado:** +7.33%
 **Peor caída desde un máximo (drawdown):** 7.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,11 +18,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 3 | 2 | +53.00 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
+| 1winstreak1 | 2 | 0 | 7 | +13.03 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | wr0ngw4yb3tt0r | 1 | 0 | 24 | +7.54 USD |
 | g42gh6524h5h5 | 4 | 3 | 4 | +2.41 USD |
-| 1winstreak1 | 1 | 0 | 8 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 146
-- **Aciertos:** 81 (55.5%)
+- **Apuestas resueltas:** 147
+- **Aciertos:** 82 (55.8%)
 - **Cuota promedio de entrada:** 53.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,460.00
-- **ROI sobre lo apostado:** +1.63%
+- **Total apostado (suma de stakes):** $1,470.00
+- **ROI sobre lo apostado:** +2.35%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,7 +49,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 24 | 29.2% | 32.8% | -3.6 pp |
-| 40-59% | 78 | 50.0% | 49.3% | +0.7 pp |
+| 40-59% | 79 | 50.6% | 49.3% | +1.3 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -120,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
