@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:00:50 (hora de Perú)
+Actualizado: 2026-08-15 18:02:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **215**  ($10,093,819 en total)
+- Apuestas registradas: **216**  ($10,148,874 en total)
 - Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 75
+- Pendientes: 32
+- Apostadores distintos: 76
 
 ### Balance
 
@@ -61,16 +61,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
 | texaskid | 0 | 1 | 1 | ⚠️ 0% (1) | $56,746 | -$30,307 |
 | suntori | 1 | 0 | 1 | ⚠️ 100% (1) | $56,430 | +$19,051 |
+| beachboy4 | 0 | 0 | 1 | — | $55,055 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
-| basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 
-_(mostrando los 40 de mayor monto, de 75 en total)_
+_(mostrando los 40 de mayor monto, de 76 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | — | ⏳ Pendiente |
 | texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | -$31,902 | ❌ Perdida |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | -$30,796 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | -$46,407 | ❌ Perdida |
