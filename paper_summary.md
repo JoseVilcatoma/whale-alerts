@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:29:47 (hora de Perú)
+Actualizado: 2026-08-15 03:31:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,022.88
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 6.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 20% | 10.00 | 0.5% | ⏳ pendiente | — |
