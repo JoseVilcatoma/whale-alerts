@@ -3874,8 +3874,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 32696.633299999994,
-    "whale_pct": 30.373,
+    "whale_usd": 36095.042299999994,
+    "whale_pct": 33.53,
     "whale_value_at_open": 107649.4285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -3884,8 +3884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818584.4097772,
-    "fills": 4
+    "last_fill_at": 1786818841.3836982,
+    "fills": 6
   },
   {
     "timestamp": 1786812416,
@@ -4094,8 +4094,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Browns",
     "side": "BUY",
-    "whale_usd": 31839.6299,
-    "whale_pct": 19.451,
+    "whale_usd": 33116.2299,
+    "whale_pct": 20.231,
     "whale_value_at_open": 163694.3083,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -4104,8 +4104,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818660.3146505,
-    "fills": 4
+    "last_fill_at": 1786818838.714618,
+    "fills": 5
   },
   {
     "timestamp": 1786814957,
