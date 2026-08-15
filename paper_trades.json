@@ -3984,8 +3984,8 @@
     "title": "Vikings vs. Giants",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 2999.9982,
-    "whale_pct": 2.207,
+    "whale_usd": 5799.9954,
+    "whale_pct": 4.266,
     "whale_value_at_open": 135961.7161,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3994,7 +3994,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786813855.0255897,
-    "fills": 1
+    "last_fill_at": 1786813913.961884,
+    "fills": 2
   }
 ]
