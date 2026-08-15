@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:23:16 (hora de Perú)
+Actualizado: 2026-08-15 09:25:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,074.26
-**Retorno acumulado:** +7.43%
+**Bankroll actual:** $1,067.94
+**Retorno acumulado:** +6.79%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,30 +16,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 111111111115 | 6 | 2 | 4 | +40.45 USD |
+| 111111111115 | 6 | 2 | 5 | +40.45 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 3 | 3 | +39.64 USD |
-| CORGI8 | 4 | 3 | 6 | +31.20 USD |
-| g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
+| CORGI8 | 4 | 3 | 7 | +31.20 USD |
+| g42gh6524h5h5 | 3 | 0 | 4 | +23.54 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 6 | 5 | 7 | +6.32 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
+| IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 27 | 25 | 18 | -41.96 USD |
+| ferrariChampions2026 | 27 | 26 | 17 | -51.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 97
-- **Aciertos:** 54 (55.7%)
-- **Cuota promedio de entrada:** 52.7%
+- **Apuestas resueltas:** 101
+- **Aciertos:** 56 (55.4%)
+- **Cuota promedio de entrada:** 52.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $970.00
-- **ROI sobre lo apostado:** +4.64%
+- **Total apostado (suma de stakes):** $1,010.00
+- **ROI sobre lo apostado:** +3.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,9 +47,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 18 | 33.3% | 32.7% | +0.7 pp |
-| 40-59% | 51 | 52.9% | 48.8% | +4.1 pp |
-| 60-79% | 20 | 65.0% | 67.7% | -2.7 pp |
+| 20-39% | 19 | 31.6% | 32.9% | -1.4 pp |
+| 40-59% | 53 | 52.8% | 48.9% | +3.9 pp |
+| 60-79% | 21 | 66.7% | 67.4% | -0.7 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -84,6 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-boombo-flc-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-liquid-aur1-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 | dota2-liquid-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8 |
+| dota2-ironwi-ty-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8 |
 | dota2-ironwi-ty-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | lol-blg-we-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, g42gh6524h5h5 |
 | lol-blg-we-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111 |
@@ -95,11 +96,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Team Yandex (BUY) | 51% | 10.00 | 30.2% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 8.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 29.9% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 18.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 96.5% | 💰 vendida anticipada | +1.01 |
 | 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 15.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 23.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Stoke City FC vs. Swansea City AFC: O/U  | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: magic vs 3DMAX (BO3) - E | 3DMAX (BUY) | 45% | 10.00 | 95.3% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Espo | 9z (BUY) | 36% | 10.00 | 415.4% | ⏳ pendiente | — |
@@ -123,5 +126,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 9.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
