@@ -3973,5 +3973,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786801162.6632602,
     "fills": 1
+  },
+  {
+    "timestamp": 1786801707,
+    "timestamp_added": 1786801708.4637911,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-furia-9z-2026-08-15",
+    "title": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "whale_usd": 32621.8392,
+    "whale_pct": 415.434,
+    "whale_value_at_open": 7852.473,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786801727.9593298,
+    "fills": 2
   }
 ]
