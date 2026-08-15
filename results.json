@@ -3126,5 +3126,20 @@
     "status": "pending",
     "ultimo_fill": 1786829612,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 409,
+    "timestamp": 1786830448,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-tex-oak-2026-08-15",
+    "title": "Texas Rangers vs. Athletics",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 34604.49,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786830448,
+    "fills": 1
   }
 ]
