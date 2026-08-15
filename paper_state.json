@@ -1,5 +1,5 @@
 {
-  "bankroll": 1021.1569015869667,
+  "bankroll": 1042.4334973316475,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -210,6 +210,16 @@
       "timestamp": 1786789299.0578268,
       "bankroll": 1021.16,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner (+2.67 USD)"
+    },
+    {
+      "timestamp": 1786789356.0332377,
+      "bankroll": 1032.43,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: BoomBoys vs Aurora (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786789356.3321507,
+      "bankroll": 1042.43,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: BoomBoys vs Aurora - Game 2 Winner"
     }
   ]
 }
