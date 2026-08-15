@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:36:13 (hora de Perú)
+Actualizado: 2026-08-15 04:38:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,030.37
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 85% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ✅ ganada | +9.23 |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
