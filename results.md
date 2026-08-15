@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 09:22:40 (hora de Perú)
+Actualizado: 2026-08-15 09:24:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **162**  ($7,951,505 en total)
+- Apuestas registradas: **163**  ($7,978,822 en total)
 - Resueltas: **150** — 86 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 57
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 2 | 1 | 1 | ⚠️ 67% (3) | $210,711 | +$22,354 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
-| TennisLove | 1 | 0 | 1 | ⚠️ 100% (1) | $131,474 | +$42,857 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | -$76,849 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | +$31,629 | ✅ Ganada |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
-| AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
