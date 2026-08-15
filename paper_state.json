@@ -1,5 +1,5 @@
 {
-  "bankroll": 945.2627600217027,
+  "bankroll": 953.6941325707222,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1010,6 +1010,11 @@
       "timestamp": 1786836328.730319,
       "bankroll": 945.26,
       "event": "lost: SDTrading \u2014 Washington Nationals vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1786837721.934408,
+      "bankroll": 953.69,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season (+8.43 USD)"
     }
   ]
 }
