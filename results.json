@@ -2314,5 +2314,20 @@
     "status": "pending",
     "ultimo_fill": 1786791428,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 325,
+    "timestamp": 1786795099,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-vks-los-2026-08-15",
+    "title": "LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season",
+    "outcome": "LOS",
+    "side": "BUY",
+    "usd": 26279.27,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1786795099,
+    "fills": 1
   }
 ]
