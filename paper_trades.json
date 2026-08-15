@@ -1782,8 +1782,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 13843.336712,
-    "whale_pct": 5.372,
+    "whale_usd": 23537.780889999998,
+    "whale_pct": 9.135,
     "whale_value_at_open": 257674.8339,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -1796,8 +1796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786782190.521974,
-    "fills": 8
+    "last_fill_at": 1786782273.2047462,
+    "fills": 14
   },
   {
     "timestamp": 1786781890,
@@ -1824,5 +1824,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786781890.429048,
     "fills": 1
+  },
+  {
+    "timestamp": 1786782259,
+    "timestamp_added": 1786782259.9355407,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-kt-2026-08-15",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 1191.143722,
+    "whale_pct": 0.367,
+    "whale_value_at_open": 324433.4414,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786782259.9355483,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786782293,
+    "timestamp_added": 1786782293.876222,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-nip-lng-2026-08-15-game2",
+    "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 1183.776,
+    "whale_pct": 0.365,
+    "whale_value_at_open": 324433.4414,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786782295.685731,
+    "fills": 2
   }
 ]

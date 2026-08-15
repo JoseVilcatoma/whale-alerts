@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:23:31 (hora de Perú)
+Actualizado: 2026-08-15 03:25:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,022.88
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 0 | 2 | +10.57 USD |
 | 111111111115 | 2 | 2 | 3 | +5.83 USD |
-| ferrariChampions2026 | 3 | 1 | 18 | +4.62 USD |
+| ferrariChampions2026 | 3 | 1 | 20 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
@@ -75,8 +75,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 20% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 68% | 10.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 68% | 10.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 74% | 10.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 20% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 25% | 10.00 | 5.5% | ⏳ pendiente | — |
@@ -103,5 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 39% | 10.00 | 12.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
