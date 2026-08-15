@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:28:00 (hora de Perú)
+Actualizado: 2026-08-15 05:30:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,042.43
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 2 | 2 | 1 | +22.68 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 1 | +8.78 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 1 | 2 | +0.79 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 1 | 3 | +0.79 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
@@ -75,6 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 28% | 10.00 | 1.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 115.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 70% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kashima Antlers vs. Nagoya Grampus  | Yes (BUY) | 21% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Kashima Antlers (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-15? | Yes (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 69% | 10.00 | 0.5% | ⏳ pendiente | — |
