@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 11:46:07 (hora de Perú)
+Actualizado: 2026-08-15 11:48:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **170**  ($8,209,166 en total)
+- Apuestas registradas: **172**  ($8,280,534 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 60
+- Pendientes: 20
+- Apostadores distintos: 61
 
 ### Balance
 
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
+| ExplosiveNinja | 1 | 0 | 1 | ⚠️ 100% (1) | $59,200 | +$19,800 |
 | sulumos | 0 | 0 | 1 | — | $58,856 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
@@ -59,18 +60,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
 | StasPanda | 1 | 0 | 0 | ⚠️ 100% (1) | $39,313 | +$14,540 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
+| jtwyslljy | 0 | 0 | 1 | — | $37,368 | — |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
-| ChinesePro | 0 | 0 | 1 | — | $33,229 | — |
-| g42gh6524h5h5 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,676 | +$16,094 |
 
-_(mostrando los 40 de mayor monto, de 60 en total)_
+_(mostrando los 40 de mayor monto, de 61 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
+| jtwyslljy | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $37,368 | — | ⏳ Pendiente |
 | Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | — | ⏳ Pendiente |
 | sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 60 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.85 (54¢) | $90,511 | +$77,102 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.89 (53¢) | $25,953 | +$23,015 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
