@@ -1,5 +1,5 @@
 {
-  "bankroll": 1086.490287008712,
+  "bankroll": 1066.490287008712,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -720,6 +720,16 @@
       "timestamp": 1786808787.7405362,
       "bankroll": 1086.49,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786809097.8392727,
+      "bankroll": 1076.49,
+      "event": "lost: CORGI8 \u2014 Counter-Strike: Wildcard vs paiN (BO3) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786809160.2943776,
+      "bankroll": 1066.49,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Liquid vs Aurora - Game 2 Winner"
     }
   ]
 }
