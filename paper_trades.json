@@ -434,8 +434,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming (BO3) - The International Group Stage",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 10999.999998000001,
-    "whale_pct": 4.919,
+    "whale_usd": 20999.999997,
+    "whale_pct": 9.391,
     "whale_value_at_open": 223614.5168,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -444,8 +444,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786770491.6915483,
-    "fills": 2
+    "last_fill_at": 1786771039.343097,
+    "fills": 3
   },
   {
     "timestamp": 1786769104,
@@ -558,5 +558,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786770817.3976796,
     "fills": 3
+  },
+  {
+    "timestamp": 1786771013,
+    "timestamp_added": 1786771013.9315624,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-xtreme-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 510.2,
+    "whale_pct": 0.241,
+    "whale_value_at_open": 211377.9371,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786771013.9315693,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786771036,
+    "timestamp_added": 1786771036.7148452,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-lgd-xtreme-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "whale_usd": 564.48,
+    "whale_pct": 0.267,
+    "whale_value_at_open": 211377.9371,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786771036.7148523,
+    "fills": 1
   }
 ]
