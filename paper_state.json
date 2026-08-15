@@ -1,5 +1,5 @@
 {
-  "bankroll": 992.2978297009862,
+  "bankroll": 982.2978297009862,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -30,6 +30,11 @@
       "timestamp": 1786770252.6600556,
       "bankroll": 992.3,
       "event": "won: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1786773623.1559584,
+      "bankroll": 982.3,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Shihomi Li Xuan Leong vs Thasaporn Naklo"
     }
   ]
 }

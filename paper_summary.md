@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:59:28 (hora de Perú)
+Actualizado: 2026-08-15 01:01:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $992.30
-**Retorno acumulado:** -0.77%
-**Peor caída desde un máximo (drawdown):** 1.45%
+**Bankroll actual:** $982.30
+**Retorno acumulado:** -1.77%
+**Peor caída desde un máximo (drawdown):** 2.23%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -17,22 +17,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 7 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 5 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 6 | +0.00 USD |
-| RN1 | 3 | 2 | 5 | -9.89 USD |
+| RN1 | 3 | 3 | 4 | -19.89 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6
-- **Aciertos:** 4 (66.7%)
-- **Cuota promedio de entrada:** 65.0%
+- **Apuestas resueltas:** 7
+- **Aciertos:** 4 (57.1%)
+- **Cuota promedio de entrada:** 60.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $60.00
-- **ROI sobre lo apostado:** -12.82%
+- **Total apostado (suma de stakes):** $70.00
+- **ROI sobre lo apostado:** -25.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -40,7 +40,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 1 | 0.0% | 31.0% | -31.0 pp |
+| 20-39% | 2 | 0.0% | 30.5% | -30.5 pp |
 | 40-59% | 1 | 0.0% | 49.0% | -49.0 pp |
 | 60-79% | 2 | 100.0% | 69.0% | +31.0 pp |
 | 80-94% | 2 | 100.0% | 86.0% | +14.0 pp |
@@ -60,10 +60,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 16.4% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 17.6% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 59.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 48% | 10.00 | 3.0% | ⏳ pendiente | — |
@@ -89,4 +90,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Chengyiyi Yuan (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | OG (BUY) | 45% | 10.00 | 14.6% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 70% | 10.00 | 7.6% | ✅ ganada | +4.29 |
-| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 90% | 10.00 | 2.6% | ✅ ganada | +1.11 |

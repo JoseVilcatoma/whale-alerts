@@ -103,8 +103,8 @@
     "whale_value_at_open": 177086.9449,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -776,8 +776,8 @@
     "title": "Dota 2: BoomBoys vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 27999.999997,
-    "whale_pct": 16.382,
+    "whale_usd": 29999.999995,
+    "whale_pct": 17.552,
     "whale_value_at_open": 170919.8936,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -786,8 +786,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786773152.813462,
-    "fills": 3
+    "last_fill_at": 1786773683.8386538,
+    "fills": 5
   },
   {
     "timestamp": 1786772976,
@@ -860,5 +860,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786773166.5669851,
     "fills": 6
+  },
+  {
+    "timestamp": 1786773694,
+    "timestamp_added": 1786773694.9246948,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-boombo-aur1-2026-08-15-game2",
+    "title": "Dota 2: BoomBoys vs Aurora - Game 2 Winner",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 1000.0,
+    "whale_pct": 0.514,
+    "whale_value_at_open": 194526.9595,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786773694.9247026,
+    "fills": 1
   }
 ]
