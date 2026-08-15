@@ -1,5 +1,5 @@
 {
-  "bankroll": 1007.9497828886153,
+  "bankroll": 1019.688913323398,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -890,6 +890,11 @@
       "timestamp": 1786826262.0445597,
       "bankroll": 1007.95,
       "event": "lost: 111111111115 \u2014 Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A"
+    },
+    {
+      "timestamp": 1786827385.175325,
+      "bankroll": 1019.69,
+      "event": "won: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays: 1st 5 Innings O/U 3.5"
     }
   ]
 }
