@@ -1,5 +1,5 @@
 {
-  "bankroll": 1486.7608705819978,
+  "bankroll": 1472.3888899056692,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1130,6 +1130,31 @@
       "timestamp": 1786754254.0695605,
       "bankroll": 1486.76,
       "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 6.5"
+    },
+    {
+      "timestamp": 1786754874.244594,
+      "bankroll": 1476.76,
+      "event": "lost: SDTrading \u2014 Miami Marlins vs. Cincinnati Reds: O/U 7.5"
+    },
+    {
+      "timestamp": 1786754874.7085152,
+      "bankroll": 1488.5,
+      "event": "won: SDTrading \u2014 San Diego Padres vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1786754879.0261269,
+      "bankroll": 1478.5,
+      "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1786754879.2265694,
+      "bankroll": 1482.39,
+      "event": "won: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1786754882.629522,
+      "bankroll": 1472.39,
+      "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
     }
   ]
 }
