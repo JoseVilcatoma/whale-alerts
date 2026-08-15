@@ -1,5 +1,5 @@
 {
-  "bankroll": 1060.3766047918991,
+  "bankroll": 1056.4601469807044,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -500,6 +500,21 @@
       "timestamp": 1786800814.8836737,
       "bankroll": 1060.38,
       "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786800915.295425,
+      "bankroll": 1060.59,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE - Game 1 Winner (+0.21 USD)"
+    },
+    {
+      "timestamp": 1786800941.4771786,
+      "bankroll": 1050.59,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786800941.5774012,
+      "bankroll": 1056.46,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 2 Winner"
     }
   ]
 }
