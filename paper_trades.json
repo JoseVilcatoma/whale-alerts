@@ -1991,5 +1991,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786783617.3570535,
     "fills": 1
+  },
+  {
+    "timestamp": 1786784141,
+    "timestamp_added": 1786784141.791902,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ironwi-liquid-2026-08-15",
+    "title": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 12535.204932,
+    "whale_pct": 19.21,
+    "whale_value_at_open": 65254.226,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786784206.584974,
+    "fills": 7
   }
 ]
