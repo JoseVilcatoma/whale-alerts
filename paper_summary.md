@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:22:38 (hora de Perú)
+Actualizado: 2026-08-15 17:24:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $969.07
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 4 | 0 | +45.74 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 4 | 1 | +45.74 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | Sassy-Bucket | 0 | 1 | 1 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| 1winstreak1 | 4 | 5 | 0 | -11.04 USD |
+| 1winstreak1 | 4 | 5 | 1 | -11.04 USD |
 | wr0ngw4yb3tt0r | 5 | 7 | 11 | -13.23 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
@@ -99,6 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 10.1% | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 89% | 10.00 | 9.6% | 💰 vendida anticipada | +1.01 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | 💰 vendida anticipada | +1.73 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 21.9% | ⏳ pendiente | — |
@@ -127,5 +129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ✅ ganada | +4.49 |
 | g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
-| g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 45% | 10.00 | 4.1% | ❌ perdida | -10.00 |
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ✅ ganada | +6.95 |
