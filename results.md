@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 16:35:35 (hora de Perú)
+Actualizado: 2026-08-15 16:37:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **208**  ($9,799,505 en total)
-- Resueltas: **171** — 94 ganadas / 77 perdidas (**55%** de acierto)
-- Pendientes: 37
+- Resueltas: **174** — 96 ganadas / 78 perdidas (**55%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 74
 
 ### Balance
 
-- **Resultado de los apostadores: -$163,240** sobre $7,992,930 apostados (ROI **-2.0%**)
-- Copiando $100 fijo en cada una: **-$1,748** sobre $16,700 (ROI **-10.5%**)
+- **Resultado de los apostadores: -$251,885** sobre $8,172,622 apostados (ROI **-3.1%**)
+- Copiando $100 fijo en cada una: **-$1,732** sobre $17,000 (ROI **-10.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 21 | 10 | 3 | 68% | $2,074,524 | +$487,181 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 21 | 11 | 2 | 66% | $2,074,524 | +$364,954 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 3 | 50% | $802,440 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 2 | ⚠️ 100% (4) | $216,368 | +$73,861 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 5 | 0 | 1 | ⚠️ 100% (5) | $216,368 | +$86,960 |
 | Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | pleaseplease123 | 1 | 2 | 1 | ⚠️ 33% (3) | $185,652 | -$90,857 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
 | ferrariChampions2026 | 2 | 1 | 1 | ⚠️ 67% (3) | $137,969 | -$46,023 |
-| highnetworth | 1 | 0 | 1 | ⚠️ 100% (1) | $131,509 | +$91,821 |
+| highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
@@ -82,13 +82,13 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 | sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
 | TheOneto3 | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $28,160 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.52 (66¢) | $25,428 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.52 (66¢) | $25,428 | +$13,099 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
 | Sassy-Bucket | Washington Nationals vs. New York Mets: O/U 8.5 | Over 8.5 | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
-| highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | — | ⏳ Pendiente |
+| highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | +$20,483 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | -$122,227 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | — | ⏳ Pendiente |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | — | ⏳ Pendiente |
