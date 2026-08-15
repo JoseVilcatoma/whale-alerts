@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:23:47 (hora de Perú)
+Actualizado: 2026-08-15 05:25:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,042.43
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| g42gh6524h5h5 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 19.9% | ⏳ pendiente | — |
+| g42gh6524h5h5 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 31.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 70% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kashima Antlers vs. Nagoya Grampus  | Yes (BUY) | 21% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
