@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:23:47 (hora de Perú)
+Actualizado: 2026-08-15 18:25:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **221**  ($10,370,622 en total)
-- Resueltas: **191** — 108 ganadas / 83 perdidas (**57%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **222**  ($10,437,149 en total)
+- Resueltas: **195** — 109 ganadas / 86 perdidas (**56%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 76
 
 ### Balance
 
-- **Resultado de los apostadores: -$239,278** sobre $8,816,902 apostados (ROI **-2.7%**)
-- Copiando $100 fijo en cada una: **-$1,597** sobre $18,700 (ROI **-8.5%**)
+- **Resultado de los apostadores: -$293,278** sobre $8,930,902 apostados (ROI **-3.3%**)
+- Copiando $100 fijo en cada una: **-$1,769** sobre $19,100 (ROI **-9.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 22 | 11 | 1 | 67% | $2,074,524 | +$376,046 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 9 | 3 | 50% | $953,045 | -$12,602 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 1 | 45% | $953,045 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -36,11 +36,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 2 | 2 | 2 | ⚠️ 50% (4) | $246,152 | -$62,338 |
 | wr0ngw4yb3tt0r | 2 | 1 | 2 | ⚠️ 67% (3) | $237,095 | +$2,773 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
-| Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
+| beachboy4 | 0 | 0 | 4 | — | $223,072 | — |
+| Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| beachboy4 | 0 | 0 | 3 | — | $156,544 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
-| SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
+| SDTrading | 0 | 3 | 0 | ⚠️ 0% (3) | $81,210 | -$81,210 |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
@@ -96,13 +97,13 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
 | TheOneto3 | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $28,160 | -$28,160 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.52 (66¢) | $25,428 | +$13,099 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $33,600 | — | ⏳ Pendiente |
-| Sassy-Bucket | Washington Nationals vs. New York Mets: O/U 8.5 | Over 8.5 | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
+| Sassy-Bucket | Washington Nationals vs. New York Mets: O/U 8.5 | Over 8.5 | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
 | highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | +$20,483 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | +$15,764 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | -$122,227 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | +$28,519 | ✅ Ganada |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | — | ⏳ Pendiente |
 | Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | +$7,762 | ✅ Ganada |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | -$30,000 | ❌ Perdida |
