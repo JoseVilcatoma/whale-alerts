@@ -3193,8 +3193,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 2 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 999.9999990000001,
-    "whale_pct": 0.632,
+    "whale_usd": 1999.9999980000002,
+    "whale_pct": 1.263,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3203,8 +3203,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793497.9422216,
-    "fills": 1
+    "last_fill_at": 1786793565.1359386,
+    "fills": 2
   },
   {
     "timestamp": 1786793506,
@@ -3215,8 +3215,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 2000.0,
-    "whale_pct": 1.263,
+    "whale_usd": 3999.999998,
+    "whale_pct": 2.526,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3225,7 +3225,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793506.7181385,
-    "fills": 1
+    "last_fill_at": 1786793590.4903135,
+    "fills": 3
   }
 ]
