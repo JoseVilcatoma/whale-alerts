@@ -1395,5 +1395,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786777750.5524724,
     "fills": 1
+  },
+  {
+    "timestamp": 1786777867,
+    "timestamp_added": 1786777867.920208,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ngx-vg-2026-08-15-game2",
+    "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 2 Winner",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 5007.167326,
+    "whale_pct": 8.526,
+    "whale_value_at_open": 58730.8134,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786777958.857984,
+    "fills": 5
   }
 ]
