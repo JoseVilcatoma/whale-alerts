@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:40:56 (hora de Perú)
+Actualizado: 2026-08-15 12:43:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,049.99
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 14 | +0.00 USD |
-| midwicket72 | 0 | 0 | 2 | +0.00 USD |
+| midwicket72 | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
@@ -92,7 +92,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 77.0% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ⏳ pendiente | — |
 | TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Panthers vs. Bills | Bills (BUY) | 81% | 10.00 | 0.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 48% | 10.00 | 23.8% | 💰 vendida anticipada | +2.08 |
@@ -121,4 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 76% | 10.00 | 12.0% | ✅ ganada | +3.16 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 2.3% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 9.6% | ❌ perdida | -10.00 |

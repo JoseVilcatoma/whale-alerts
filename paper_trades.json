@@ -4211,8 +4211,8 @@
     "title": "LoL: G2 Esports vs Shifters - Game 1 Winner",
     "outcome": "Shifters",
     "side": "BUY",
-    "whale_usd": 3972.0639,
-    "whale_pct": 76.971,
+    "whale_usd": 4821.5839000000005,
+    "whale_pct": 93.433,
     "whale_value_at_open": 5160.4653,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
@@ -4224,7 +4224,29 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786815407.3933616,
-    "fills": 2
+    "last_fill_at": 1786815688.3179731,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786815697,
+    "timestamp_added": 1786815697.8831253,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "criccpl-jam-tri-2026-08-15",
+    "title": "Caribbean Premier League: Jamaica Kingsmen vs Trinbago Knight Riders",
+    "outcome": "Trinbago Knight Riders",
+    "side": "BUY",
+    "whale_usd": 975.0,
+    "whale_pct": 2.717,
+    "whale_value_at_open": 35880.7738,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786815697.8831332,
+    "fills": 1
   }
 ]
