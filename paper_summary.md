@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:07:56 (hora de Perú)
+Actualizado: 2026-08-15 01:10:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $982.30
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 5 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 5 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
@@ -61,11 +61,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 6.7% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 17.6% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 59.5% | ⏳ pendiente | — |
@@ -90,4 +91,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 31% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 52.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Chengyiyi Yuan (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | OG (BUY) | 45% | 10.00 | 14.6% | ⏳ pendiente | — |

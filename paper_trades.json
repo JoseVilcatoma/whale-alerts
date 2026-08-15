@@ -798,8 +798,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
     "outcome": "Nigma Galaxy",
     "side": "BUY",
-    "whale_usd": 868.3199999999999,
-    "whale_pct": 0.473,
+    "whale_usd": 3492.6143999999995,
+    "whale_pct": 1.902,
     "whale_value_at_open": 183635.6138,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -811,8 +811,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786772976.647472,
-    "fills": 1
+    "last_fill_at": 1786774091.8235774,
+    "fills": 3
   },
   {
     "timestamp": 1786773105,
@@ -903,6 +903,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786773860.985163,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786774150,
+    "timestamp_added": 1786774151.162355,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-nip-lng-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: NIP (-1.5) vs LNG Esports (+1.5)",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 1543.9829029999999,
+    "whale_pct": 6.702,
+    "whale_value_at_open": 23036.2393,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786774151.1623645,
     "fills": 1
   }
 ]
