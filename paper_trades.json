@@ -10887,8 +10887,8 @@
     "title": "Texas Rangers vs. Athletics",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 46.35,
-    "whale_pct": 0.254,
+    "whale_usd": 75.15,
+    "whale_pct": 0.412,
     "whale_value_at_open": 18233.3287,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 15,
@@ -10899,7 +10899,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786762405.433547,
+    "last_fill_at": 1786762412.5605068,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786762468,
+    "timestamp_added": 1786762468.6049361,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-kc-laa-2026-08-14",
+    "title": "Kansas City Royals vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 39.999998000000005,
+    "whale_pct": 0.202,
+    "whale_value_at_open": 19848.4607,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786762468.604945,
     "fills": 1
   }
 ]
