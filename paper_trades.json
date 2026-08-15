@@ -1969,5 +1969,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786783356.1823537,
     "fills": 1
+  },
+  {
+    "timestamp": 1786783616,
+    "timestamp_added": 1786783617.3570461,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dougaz-fomin-2026-08-15",
+    "title": "Astana: Aziz Dougaz vs Sergey Fomin",
+    "outcome": "Aziz Dougaz",
+    "side": "BUY",
+    "whale_usd": 2931.6000000000004,
+    "whale_pct": 5.035,
+    "whale_value_at_open": 58223.8736,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786783617.3570535,
+    "fills": 1
   }
 ]
