@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:23:07 (hora de Perú)
+Actualizado: 2026-08-15 14:25:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,056.05
-**Retorno acumulado:** +5.60%
+**Bankroll actual:** $1,058.81
+**Retorno acumulado:** +5.88%
 **Peor caída desde un máximo (drawdown):** 7.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,11 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 4 | +59.30 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 3 | 3 | +49.30 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
+| Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
 | wr0ngw4yb3tt0r | 1 | 0 | 22 | +7.54 USD |
+| g42gh6524h5h5 | 4 | 3 | 4 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 8 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
@@ -29,18 +30,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
-| g42gh6524h5h5 | 3 | 3 | 5 | -6.46 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 142
-- **Aciertos:** 78 (54.9%)
-- **Cuota promedio de entrada:** 53.3%
+- **Apuestas resueltas:** 145
+- **Aciertos:** 80 (55.2%)
+- **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,420.00
-- **ROI sobre lo apostado:** +1.22%
+- **Total apostado (suma de stakes):** $1,450.00
+- **ROI sobre lo apostado:** +1.38%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,8 +49,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 24 | 29.2% | 32.8% | -3.6 pp |
-| 40-59% | 76 | 50.0% | 49.2% | +0.8 pp |
-| 60-79% | 32 | 71.9% | 67.9% | +4.0 pp |
+| 40-59% | 78 | 50.0% | 49.3% | +0.7 pp |
+| 60-79% | 33 | 72.7% | 68.0% | +4.7 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
