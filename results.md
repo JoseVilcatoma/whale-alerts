@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 19:37:36 (hora de Perú)
+Actualizado: 2026-08-14 19:39:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **134**  ($6,560,906 en total)
-- Resueltas: **123** — 73 ganadas / 50 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Resueltas: **124** — 74 ganadas / 50 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 49
 
 ### Balance
 
-- **Resultado de los apostadores: +$238,352** sobre $6,144,644 apostados (ROI **+3.9%**)
-- Copiando $100 fijo en cada una: **-$425** sobre $12,000 (ROI **-3.5%**)
+- **Resultado de los apostadores: +$269,981** sobre $6,171,587 apostados (ROI **+4.4%**)
+- Copiando $100 fijo en cada una: **-$308** sobre $12,100 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | 111111111115 | 1 | 1 | 0 | ⚠️ 50% (2) | $83,623 | -$9,743 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
-| wr0ngw4yb3tt0r | 1 | 0 | 1 | ⚠️ 100% (1) | $69,200 | +$53,782 |
+| wr0ngw4yb3tt0r | 2 | 0 | 0 | ⚠️ 100% (2) | $69,200 | +$85,410 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | SDTrading | 0 | 1 | 1 | ⚠️ 0% (1) | $55,210 | -$26,500 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | +$6,294 | ✅ Ganada |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | -$48,966 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | -$76,849 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | +$31,629 | ✅ Ganada |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
