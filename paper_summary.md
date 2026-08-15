@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 02:25:13 (hora de Perú)
+Actualizado: 2026-08-15 02:27:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,016.85
@@ -23,6 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 17 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
+| g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
 | RN1 | 5 | 5 | 2 | -13.02 USD |
 
@@ -60,6 +61,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-liquid-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-ironwi-liquid-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
+| lol-nip-lng-2026-08-15-game1 | Lakersfan111, g42gh6524h5h5 |
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
@@ -68,6 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 58% | 10.00 | 30.6% | ⏳ pendiente | — |
 | RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 52% | 10.00 | 5.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 50% | 10.00 | 8.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 65% | 10.00 | 4.0% | ⏳ pendiente | — |
@@ -97,4 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 19.3% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ❌ perdida | -10.00 |
