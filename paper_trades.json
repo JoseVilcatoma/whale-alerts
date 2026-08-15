@@ -1902,8 +1902,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 12526.954399999999,
-    "whale_pct": 19.018,
+    "whale_usd": 13263.7619,
+    "whale_pct": 20.137,
     "whale_value_at_open": 65867.5929,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -1914,8 +1914,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788968.7281146,
-    "fills": 11
+    "last_fill_at": 1786789162.7170987,
+    "fills": 12
   },
   {
     "timestamp": 1786788593,
