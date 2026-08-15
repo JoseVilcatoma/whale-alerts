@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:45:09 (hora de Perú)
+Actualizado: 2026-08-15 12:47:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,049.99
-**Retorno acumulado:** +5.00%
+**Bankroll actual:** $1,039.99
+**Retorno acumulado:** +4.00%
 **Peor caída desde un máximo (drawdown):** 7.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 2 | 2 | +50.78 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
-| Lakersfan111 | 4 | 3 | 2 | +18.87 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 14 | +0.00 USD |
@@ -28,19 +28,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| IMAREALPERSON | 3 | 1 | 1 | -5.51 USD |
+| IMAREALPERSON | 3 | 1 | 2 | -5.51 USD |
 | g42gh6524h5h5 | 3 | 3 | 1 | -6.46 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 140
-- **Aciertos:** 77 (55.0%)
-- **Cuota promedio de entrada:** 53.4%
+- **Apuestas resueltas:** 141
+- **Aciertos:** 77 (54.6%)
+- **Cuota promedio de entrada:** 53.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,400.00
-- **ROI sobre lo apostado:** +1.41%
+- **Total apostado (suma de stakes):** $1,410.00
+- **ROI sobre lo apostado:** +0.69%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 23 | 30.4% | 33.0% | -2.5 pp |
+| 20-39% | 24 | 29.2% | 32.8% | -3.6 pp |
 | 40-59% | 75 | 49.3% | 49.1% | +0.2 pp |
 | 60-79% | 32 | 71.9% | 67.9% | +4.0 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
@@ -92,6 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ⏳ pendiente | — |
 | TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ⏳ pendiente | — |
@@ -121,4 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 255.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 76% | 10.00 | 12.0% | ✅ ganada | +3.16 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 2.3% | ✅ ganada | +0.00 |
-| Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
