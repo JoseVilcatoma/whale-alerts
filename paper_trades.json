@@ -2121,8 +2121,8 @@
     "whale_value_at_open": 271372.608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3195,8 +3195,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 2 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 1999.9999980000002,
-    "whale_pct": 1.263,
+    "whale_usd": 3999.9999960000005,
+    "whale_pct": 2.526,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3205,8 +3205,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793565.1359386,
-    "fills": 2
+    "last_fill_at": 1786794962.6826508,
+    "fills": 4
   },
   {
     "timestamp": 1786793506,
@@ -3283,8 +3283,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 9999.999994999998,
-    "whale_pct": 6.458,
+    "whale_usd": 14999.999991999997,
+    "whale_pct": 9.686,
     "whale_value_at_open": 154855.07,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3293,8 +3293,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794884.708733,
-    "fills": 7
+    "last_fill_at": 1786794976.4280064,
+    "fills": 10
   },
   {
     "timestamp": 1786794325,
@@ -3305,13 +3305,13 @@
     "title": "Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 1020.0,
-    "whale_pct": 1.421,
+    "whale_usd": 1662.88,
+    "whale_pct": 2.317,
     "whale_value_at_open": 71759.5655,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 5.69,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "ferrariChampions2026",
@@ -3319,8 +3319,9 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794325.4539568,
-    "fills": 1
+    "last_fill_at": 1786794949.7156208,
+    "fills": 2,
+    "closed_price": 80
   },
   {
     "timestamp": 1786794372,
@@ -3358,8 +3359,8 @@
     "title": "Dota 2: BoomBoys vs Team Falcons - Game 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 1999.999997,
-    "whale_pct": 0.862,
+    "whale_usd": 2999.999996,
+    "whale_pct": 1.293,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -3368,8 +3369,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794911.721801,
-    "fills": 2
+    "last_fill_at": 1786794994.2574806,
+    "fills": 3
   },
   {
     "timestamp": 1786794506,
@@ -3419,5 +3420,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786794701.5515234,
     "fills": 1
+  },
+  {
+    "timestamp": 1786794977,
+    "timestamp_added": 1786794978.2968016,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tt-al-2026-08-15",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "whale_usd": 3352.1176,
+    "whale_pct": 5.565,
+    "whale_value_at_open": 60237.4116,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786794994.330633,
+    "fills": 3
   }
 ]

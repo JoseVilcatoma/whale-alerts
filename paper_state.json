@@ -1,5 +1,5 @@
 {
-  "bankroll": 999.9080799340015,
+  "bankroll": 1007.2222614205496,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -315,6 +315,16 @@
       "timestamp": 1786794730.9623148,
       "bankroll": 999.91,
       "event": "lost: ferrariChampions2026 \u2014 Shimizu S-Pulse vs. Yokohama F\u00b7Marinos: O/U 2.5"
+    },
+    {
+      "timestamp": 1786794980.909261,
+      "bankroll": 1001.54,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Aldershot 2 Women: Susan Bandecchi vs Alana Smith"
+    },
+    {
+      "timestamp": 1786795033.461551,
+      "bankroll": 1007.22,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner (+5.69 USD)"
     }
   ]
 }
