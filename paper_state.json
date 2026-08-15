@@ -1,5 +1,5 @@
 {
-  "bankroll": 1028.0580212417876,
+  "bankroll": 968.0580212417876,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -935,6 +935,36 @@
       "timestamp": 1786831766.6967485,
       "bankroll": 1028.06,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner (+1.73 USD)"
+    },
+    {
+      "timestamp": 1786832002.757618,
+      "bankroll": 1018.06,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786832002.8577385,
+      "bankroll": 1008.06,
+      "event": "lost: Sassy-Bucket \u2014 New York Yankees vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786832003.1137938,
+      "bankroll": 998.06,
+      "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays: O/U 5.5"
+    },
+    {
+      "timestamp": 1786832003.3141866,
+      "bankroll": 988.06,
+      "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786832003.5854363,
+      "bankroll": 978.06,
+      "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays: O/U 6.5"
+    },
+    {
+      "timestamp": 1786832060.9402058,
+      "bankroll": 968.06,
+      "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays: O/U 8.5"
     }
   ]
 }
