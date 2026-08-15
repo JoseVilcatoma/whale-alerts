@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:24:44 (hora de Perú)
+Actualizado: 2026-08-15 17:26:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $969.07
@@ -23,6 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 6 | 4 | 3 | +1.39 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | Sassy-Bucket | 0 | 1 | 1 | -10.00 USD |
@@ -99,6 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 10.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 89% | 10.00 | 9.6% | 💰 vendida anticipada | +1.01 |
@@ -128,4 +130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ✅ ganada | +4.49 |
 | g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
