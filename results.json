@@ -2374,5 +2374,20 @@
     "status": "pending",
     "ultimo_fill": 1786799780,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 332,
+    "timestamp": 1786801707,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-furia-9z-2026-08-15",
+    "title": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 31901.8392,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1786801707,
+    "fills": 1
   }
 ]

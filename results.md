@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 08:47:03 (hora de Perú)
+Actualizado: 2026-08-15 08:49:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **158**  ($7,779,492 en total)
+- Apuestas registradas: **159**  ($7,811,394 en total)
 - Resueltas: **150** — 86 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 56
 
 ### Balance
@@ -47,6 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
+| CORGI8 | 0 | 1 | 1 | ⚠️ 0% (1) | $61,881 | -$29,980 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
-| Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
 
 _(mostrando los 40 de mayor monto, de 56 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 56 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | — | ⏳ Pendiente |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | — | ⏳ Pendiente |
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 56 en total)_
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | -$29,980 | ❌ Perdida |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | -$28,710 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
