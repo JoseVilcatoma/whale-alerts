@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 23:02:23 (hora de Perú)
+Actualizado: 2026-08-14 23:04:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **143**  ($6,914,115 en total)
-- Resueltas: **130** — 77 ganadas / 53 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Resueltas: **132** — 77 ganadas / 55 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 50
 
 ### Balance
 
-- **Resultado de los apostadores: +$254,916** sobre $6,448,400 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$347** sobre $12,700 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$195,410** sobre $6,507,906 apostados (ROI **+3.0%**)
+- Copiando $100 fijo en cada una: **-$547** sobre $12,900 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 7 | 3 | 71% | $1,685,592 | +$434,929 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 6 | 4 | 6 | 60% | $686,840 | +$136,224 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 6 | 6 | 4 | 50% | $686,840 | +$76,718 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $33,291 | — | ⏳ Pendiente |
 | texaskid | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $30,307 | — | ⏳ Pendiente |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | -$25,778 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | -$33,728 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | +$43,951 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $28,529 | +$23,342 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | -$37,047 | ❌ Perdida |
