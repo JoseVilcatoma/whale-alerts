@@ -1,5 +1,5 @@
 {
-  "bankroll": 1067.936832606437,
+  "bankroll": 1068.0388734227636,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -595,6 +595,11 @@
       "timestamp": 1786803850.0229566,
       "bankroll": 1067.94,
       "event": "lost: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786804653.17805,
+      "bankroll": 1068.04,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend (+0.10 USD)"
     }
   ]
 }
