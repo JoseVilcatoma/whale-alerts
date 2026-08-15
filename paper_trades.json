@@ -3764,8 +3764,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 5310.0,
-    "whale_pct": 13.92,
+    "whale_usd": 6107.4774,
+    "whale_pct": 16.011,
     "whale_value_at_open": 38145.2315,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3776,8 +3776,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799222.3566003,
-    "fills": 2
+    "last_fill_at": 1786799473.8488731,
+    "fills": 3
   },
   {
     "timestamp": 1786799359,
@@ -3788,8 +3788,8 @@
     "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 12848.820600000001,
-    "whale_pct": 26.986,
+    "whale_usd": 13784.820600000001,
+    "whale_pct": 28.952,
     "whale_value_at_open": 47612.8705,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -3800,8 +3800,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799368.9891207,
-    "fills": 2
+    "last_fill_at": 1786799549.5783036,
+    "fills": 3
   },
   {
     "timestamp": 1786799379,
@@ -3812,8 +3812,8 @@
     "title": "LoL: Bilibili Gaming vs Team WE - Game 1 Winner",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 3523.464,
-    "whale_pct": 7.4,
+    "whale_usd": 11551.616899999999,
+    "whale_pct": 24.262,
     "whale_value_at_open": 47612.8705,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -3824,7 +3824,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799393.8278024,
-    "fills": 2
+    "last_fill_at": 1786799518.0913937,
+    "fills": 6
   }
 ]
