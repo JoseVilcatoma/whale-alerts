@@ -1374,8 +1374,8 @@
     "title": "Will Shimizu S-Pulse win on 2026-08-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 708.4799999999999,
-    "whale_pct": 0.248,
+    "whale_usd": 1410.48,
+    "whale_pct": 0.493,
     "whale_value_at_open": 285938.5427,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -1384,8 +1384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786786929.0904777,
-    "fills": 1
+    "last_fill_at": 1786787334.7813973,
+    "fills": 2
   },
   {
     "timestamp": 1786786966,
