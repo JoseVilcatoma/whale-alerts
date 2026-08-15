@@ -4326,5 +4326,27 @@
     "last_fill_at": 1786816261.137211,
     "fills": 3,
     "closed_price": 100
+  },
+  {
+    "timestamp": 1786817019,
+    "timestamp_added": 1786817020.4567502,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "cs2-big5-ts7-2026-08-15-map-handicap-home-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs BIG (+1.5)",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 3681.6812999999997,
+    "whale_pct": 7.784,
+    "whale_value_at_open": 47297.1235,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786817020.4567578,
+    "fills": 1
   }
 ]

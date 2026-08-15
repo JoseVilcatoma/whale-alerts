@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 13:01:59 (hora de Perú)
+Actualizado: 2026-08-15 13:04:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 2 | -5.51 USD |
-| g42gh6524h5h5 | 3 | 3 | 2 | -6.46 USD |
+| g42gh6524h5h5 | 3 | 3 | 3 | -6.46 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -92,6 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 45% | 10.00 | 4.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ⏳ pendiente | — |
@@ -121,4 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. New York Mets:  | Under (BUY) | 52% | 10.00 | 40.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 255.5% | ⏳ pendiente | — |
