@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:58:44 (hora de Perú)
+Actualizado: 2026-08-15 18:00:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **214**  ($10,067,380 en total)
+- Apuestas registradas: **215**  ($10,093,819 en total)
 - Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 75
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
 | ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
+| texaskid | 0 | 1 | 1 | ⚠️ 0% (1) | $56,746 | -$30,307 |
 | suntori | 1 | 0 | 1 | ⚠️ 100% (1) | $56,430 | +$19,051 |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
-| fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 
 _(mostrando los 40 de mayor monto, de 75 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | -$30,796 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | -$46,407 | ❌ Perdida |
-| TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
