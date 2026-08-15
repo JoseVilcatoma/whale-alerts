@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 09:16:21 (hora de Perú)
+Actualizado: 2026-08-15 09:18:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **161**  ($7,921,505 en total)
+- Apuestas registradas: **162**  ($7,951,505 en total)
 - Resueltas: **150** — 86 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 57
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 0 | ⚠️ 43% (7) | $232,000 | -$60,212 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 1 | ⚠️ 43% (7) | $262,000 | -$60,212 |
 | 111111111115 | 2 | 1 | 1 | ⚠️ 67% (3) | $210,711 | +$22,354 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $26,943 | +$31,629 | ✅ Ganada |
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
