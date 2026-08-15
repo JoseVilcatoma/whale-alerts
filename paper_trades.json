@@ -2092,8 +2092,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 846.9566000000001,
-    "whale_pct": 0.312,
+    "whale_usd": 2613.1696,
+    "whale_pct": 0.963,
     "whale_value_at_open": 271372.608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -2104,8 +2104,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786790927.5448735,
-    "fills": 1
+    "last_fill_at": 1786791492.5931573,
+    "fills": 2
   },
   {
     "timestamp": 1786790937,
@@ -2248,8 +2248,8 @@
     "title": "Dota 2: BoomBoys vs Team Falcons - Game 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 42553.22909,
-    "whale_pct": 13.664,
+    "whale_usd": 94030.16180100001,
+    "whale_pct": 30.193,
     "whale_value_at_open": 311431.3304,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -2260,8 +2260,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791428.7116363,
-    "fills": 10
+    "last_fill_at": 1786791556.6451924,
+    "fills": 26
   },
   {
     "timestamp": 1786791380,
@@ -2306,5 +2306,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786791429.2760491,
     "fills": 1
+  },
+  {
+    "timestamp": 1786791440,
+    "timestamp_added": 1786791440.6131394,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-tr7-xtreme-2026-08-15-game2",
+    "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "whale_usd": 1813.8978459999998,
+    "whale_pct": 0.668,
+    "whale_value_at_open": 271683.1142,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786791447.711316,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786791455,
+    "timestamp_added": 1786791455.7765431,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-tr7-xtreme-2026-08-15-game2",
+    "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "whale_usd": 18427.694066000004,
+    "whale_pct": 32.78,
+    "whale_value_at_open": 56216.8916,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786791555.603671,
+    "fills": 6
   }
 ]
