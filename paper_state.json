@@ -1,5 +1,5 @@
 {
-  "bankroll": 998.9915966386556,
+  "bankroll": 1000.1027077497666,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -15,6 +15,11 @@
       "timestamp": 1786769203.1167095,
       "bankroll": 998.99,
       "event": "won: RN1 \u2014 Kansas City Royals vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786770190.3124723,
+      "bankroll": 1000.1,
+      "event": "won: RN1 \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
     }
   ]
 }
