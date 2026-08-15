@@ -188,8 +188,8 @@
     "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 1777.9989999999998,
-    "whale_pct": 0.975,
+    "whale_usd": 2922.6914129999996,
+    "whale_pct": 1.603,
     "whale_value_at_open": 182381.604,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -198,8 +198,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786768108.4462667,
-    "fills": 2
+    "last_fill_at": 1786768361.6860807,
+    "fills": 3
   },
   {
     "timestamp": 1786766677,
