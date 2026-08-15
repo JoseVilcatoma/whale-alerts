@@ -3238,8 +3238,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 4999.999999000001,
-    "whale_pct": 3.738,
+    "whale_usd": 6999.999998,
+    "whale_pct": 5.234,
     "whale_value_at_open": 133747.3368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3248,8 +3248,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794167.9849892,
-    "fills": 1
+    "last_fill_at": 1786794237.8954313,
+    "fills": 3
   },
   {
     "timestamp": 1786794177,
@@ -3271,6 +3271,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786794178.4227555,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786794245,
+    "timestamp_added": 1786794246.0676296,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ironwi-ty-2026-08-15-game1",
+    "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 1000.0,
+    "whale_pct": 0.646,
+    "whale_value_at_open": 154855.07,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786794246.0676408,
     "fills": 1
   }
 ]
