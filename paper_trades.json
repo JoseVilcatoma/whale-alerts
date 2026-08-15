@@ -256,8 +256,8 @@
     "title": "ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Yushan Shao",
     "outcome": "Chengyiyi Yuan",
     "side": "BUY",
-    "whale_usd": 581.44,
-    "whale_pct": 0.451,
+    "whale_usd": 1471.77,
+    "whale_pct": 1.142,
     "whale_value_at_open": 128878.41,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 32,
@@ -266,8 +266,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786766962.553746,
-    "fills": 1
+    "last_fill_at": 1786774427.7635415,
+    "fills": 2
   },
   {
     "timestamp": 1786767016,
