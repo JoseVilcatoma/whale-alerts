@@ -3874,8 +3874,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 29506.621399999996,
-    "whale_pct": 27.41,
+    "whale_usd": 31071.620899999994,
+    "whale_pct": 28.864,
     "whale_value_at_open": 107649.4285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -3884,8 +3884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786813883.8363597,
-    "fills": 2
+    "last_fill_at": 1786816387.5781727,
+    "fills": 3
   },
   {
     "timestamp": 1786812416,
@@ -3984,8 +3984,8 @@
     "title": "Vikings vs. Giants",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 6344.4954,
-    "whale_pct": 4.666,
+    "whale_usd": 7222.0426,
+    "whale_pct": 5.312,
     "whale_value_at_open": 135961.7161,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3994,8 +3994,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786814825.5169423,
-    "fills": 3
+    "last_fill_at": 1786816399.6232414,
+    "fills": 4
   },
   {
     "timestamp": 1786814047,
