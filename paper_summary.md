@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:57:36 (hora de Perú)
+Actualizado: 2026-08-14 21:59:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,814.38
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 35 | 9 | +274.24 USD |
+| 1winstreak1 | 57 | 35 | 11 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
@@ -86,11 +86,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-og-huliga-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
 | dota2-lgd-xtreme-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8, IMAREALPERSON |
 | mlb-col-sf-2026-08-14 | RN1, wr0ngw4yb3tt0r |
+| mlb-kc-laa-2026-08-14-total-12pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 54% | 10.00 | 2.1% | ⏳ pendiente | — |
+| 1winstreak1 | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 15% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Portland Fire vs. Seattle Storm | Portland Fire (BUY) | 69% | 10.00 | 3.9% | ⏳ pendiente | — |
@@ -119,5 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 36% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 52% | 10.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 75% | 10.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 54% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 37% | 10.00 | 0.9% | ⏳ pendiente | — |
