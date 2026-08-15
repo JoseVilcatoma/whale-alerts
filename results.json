@@ -2946,5 +2946,35 @@
     "status": "pending",
     "ultimo_fill": 1786824350,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 391,
+    "timestamp": 1786824879,
+    "username": "TheOneto3",
+    "wallet": "0xe7a2052a8b7c6b865e3eb3d16300a4db7432ae70",
+    "slug": "ufc-jer4-myk-2026-08-15",
+    "title": "UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims)",
+    "outcome": "Myktybek Orolbai",
+    "side": "BUY",
+    "usd": 28160.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1786824879,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 392,
+    "timestamp": 1786824328,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-wsh-nym-2026-08-15-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 33599.9944,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1786824328,
+    "fills": 1
   }
 ]
