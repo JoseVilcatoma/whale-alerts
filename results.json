@@ -2134,5 +2134,20 @@
     "status": "pending",
     "ultimo_fill": 1786764457,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 294,
+    "timestamp": 1786764776,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-vsn2-ts8-2026-08-15",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 46665.636,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786764776,
+    "fills": 1
   }
 ]
