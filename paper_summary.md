@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:56:53 (hora de Perú)
+Actualizado: 2026-08-15 03:58:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,052.77
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 49% | 10.00 | 19.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 49% | 10.00 | 22.1% | ⏳ pendiente | — |
 | RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 56% | 10.00 | 5.0% | ⏳ pendiente | — |
 | bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 94% | 10.00 | 7.3% | ⏳ pendiente | — |
