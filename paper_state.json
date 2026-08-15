@@ -1,5 +1,5 @@
 {
-  "bankroll": 1651.7184878000867,
+  "bankroll": 1679.5610297730639,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1345,6 +1345,56 @@
       "timestamp": 1786759697.168254,
       "bankroll": 1651.72,
       "event": "lost: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves: O/U 4.5"
+    },
+    {
+      "timestamp": 1786759885.591189,
+      "bankroll": 1641.72,
+      "event": "lost: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786759885.8916354,
+      "bankroll": 1649.9,
+      "event": "won: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786759886.7906585,
+      "bankroll": 1639.9,
+      "event": "lost: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1786759887.1135194,
+      "bankroll": 1629.9,
+      "event": "lost: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves: O/U 6.5"
+    },
+    {
+      "timestamp": 1786759887.21372,
+      "bankroll": 1635.28,
+      "event": "won: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786759887.5061765,
+      "bankroll": 1653.86,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786759887.6063771,
+      "bankroll": 1658.35,
+      "event": "won: 1winstreak1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786759887.7065616,
+      "bankroll": 1672.16,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1786759888.2073295,
+      "bankroll": 1676.05,
+      "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786759888.4076269,
+      "bankroll": 1679.56,
+      "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
     }
   ]
 }
