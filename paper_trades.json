@@ -4806,5 +4806,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786828337.7903905,
     "fills": 1
+  },
+  {
+    "timestamp": 1786829306,
+    "timestamp_added": 1786829306.421465,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-la-kc-2026-08-15",
+    "title": "Rams vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "whale_usd": 35765.997,
+    "whale_pct": 11.469,
+    "whale_value_at_open": 311837.0148,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786829317.1799455,
+    "fills": 2
   }
 ]
