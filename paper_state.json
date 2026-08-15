@@ -1,5 +1,5 @@
 {
-  "bankroll": 1044.5763544745046,
+  "bankroll": 1060.9156401887903,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -225,6 +225,21 @@
       "timestamp": 1786789833.8782175,
       "bankroll": 1044.58,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner (+2.14 USD)"
+    },
+    {
+      "timestamp": 1786792448.7270608,
+      "bankroll": 1045.2,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend (+0.62 USD)"
+    },
+    {
+      "timestamp": 1786792481.7257504,
+      "bankroll": 1070.92,
+      "event": "won: ferrariChampions2026 \u2014 Astana: Aziz Dougaz vs Sergey Fomin"
+    },
+    {
+      "timestamp": 1786792482.1957717,
+      "bankroll": 1060.92,
+      "event": "lost: ferrariChampions2026 \u2014 Astana: Aziz Dougaz vs Sergey Fomin"
     }
   ]
 }
