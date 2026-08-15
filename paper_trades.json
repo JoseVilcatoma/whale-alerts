@@ -2099,8 +2099,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 1643.6073999999999,
-    "whale_pct": 0.566,
+    "whale_usd": 8568.096943,
+    "whale_pct": 2.949,
     "whale_value_at_open": 290547.2563,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -2113,8 +2113,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786785263.8594701,
-    "fills": 1
+    "last_fill_at": 1786785539.4029827,
+    "fills": 9
   },
   {
     "timestamp": 1786785306,
@@ -2158,6 +2158,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786785311.3140316,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786785558,
+    "timestamp_added": 1786785559.5145643,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-kas-ngr-2026-08-15-total-1pt5",
+    "title": "Kashima Antlers vs. Nagoya Grampus: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1182.412,
+    "whale_pct": 0.411,
+    "whale_value_at_open": 287491.853,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786785559.5145717,
     "fills": 1
   }
 ]
