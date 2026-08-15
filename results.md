@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 15:31:22 (hora de Perú)
+Actualizado: 2026-08-15 15:33:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **199**  ($9,506,447 en total)
+- Apuestas registradas: **200**  ($9,531,957 en total)
 - Resueltas: **168** — 91 ganadas / 77 perdidas (**54%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 71
+- Pendientes: 32
+- Apostadores distintos: 72
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 
-_(mostrando los 40 de mayor monto, de 71 en total)_
+_(mostrando los 40 de mayor monto, de 72 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
 | TheOneto3 | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $28,160 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.52 (66¢) | $25,428 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 71 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $46,666 | +$31,110 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 1.92 (52¢) | $28,522 | -$28,522 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. San Francisco Giants | Colorado Rockies | 2.22 (45¢) | $29,513 | +$36,071 | ✅ Ganada |
-| Feromont | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
