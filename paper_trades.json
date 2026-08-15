@@ -42,5 +42,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786765278.0881984,
     "fills": 1
+  },
+  {
+    "timestamp": 1786765494,
+    "timestamp_added": 1786765494.709489,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-og-huliga-2026-08-14-game2",
+    "title": "Dota 2: OG vs HULIGANI - Game 2 Winner",
+    "outcome": "HULIGANI",
+    "side": "BUY",
+    "whale_usd": 2262.594,
+    "whale_pct": 3.942,
+    "whale_value_at_open": 57392.433,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786765551.745201,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786765514,
+    "timestamp_added": 1786765515.2043493,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-og-huliga-2026-08-14-game2",
+    "title": "Dota 2: OG vs HULIGANI - Game 2 Winner",
+    "outcome": "HULIGANI",
+    "side": "BUY",
+    "whale_usd": 16148.060000000001,
+    "whale_pct": 10.778,
+    "whale_value_at_open": 149824.7399,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786765515.20436,
+    "fills": 1
   }
 ]
