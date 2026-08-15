@@ -1,5 +1,5 @@
 {
-  "bankroll": 954.4294266883693,
+  "bankroll": 944.4294266883693,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -995,6 +995,11 @@
       "timestamp": 1786835823.076429,
       "bankroll": 954.43,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season (-3.39 USD)"
+    },
+    {
+      "timestamp": 1786836022.3415723,
+      "bankroll": 944.43,
+      "event": "lost: g42gh6524h5h5 \u2014 Map Handicap: TS (-1.5) vs BIG (+1.5)"
     }
   ]
 }
