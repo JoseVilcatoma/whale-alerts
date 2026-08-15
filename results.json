@@ -2056,7 +2056,7 @@
     "side": "BUY",
     "usd": 33291.0558,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786757923,
     "fills": 1
   },
@@ -2148,6 +2148,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1786764776,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 299,
+    "timestamp": 1786769145,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-lgd-xtreme-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 29999.999999000003,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786769145,
     "fills": 1
   }
 ]

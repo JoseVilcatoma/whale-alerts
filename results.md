@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 23:45:27 (hora de Perú)
+Actualizado: 2026-08-14 23:47:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **143**  ($6,914,115 en total)
-- Resueltas: **134** — 78 ganadas / 56 perdidas (**58%** de acierto)
+- Apuestas registradas: **144**  ($6,944,115 en total)
+- Resueltas: **135** — 78 ganadas / 57 perdidas (**58%** de acierto)
 - Pendientes: 9
 - Apostadores distintos: 50
 
 ### Balance
 
-- **Resultado de los apostadores: +$192,410** sobre $6,560,906 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$558** sobre $13,100 (ROI **-4.3%**)
+- **Resultado de los apostadores: +$159,119** sobre $6,594,197 apostados (ROI **+2.4%**)
+- Copiando $100 fijo en cada una: **-$658** sobre $13,200 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,12 +25,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 8 | 2 | 68% | $1,685,592 | +$408,429 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 7 | 6 | 3 | 54% | $686,840 | +$100,218 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 7 | 7 | 2 | 50% | $686,840 | +$66,927 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 1 | ⚠️ 50% (6) | $232,000 | -$30,212 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | wr0ngw4yb3tt0r | 2 | 0 | 1 | ⚠️ 100% (2) | $151,837 | +$85,410 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $46,666 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 1.92 (52¢) | $28,522 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. San Francisco Giants | Colorado Rockies | 2.22 (45¢) | $29,513 | — | ⏳ Pendiente |
 | Feromont | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $45,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $82,637 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $33,291 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $33,291 | -$33,291 | ❌ Perdida |
 | texaskid | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $30,307 | — | ⏳ Pendiente |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | -$25,778 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | RN1 | Spread: Los Angeles Angels (-2.5) | Texas Rangers | 1.35 (74¢) | $25,864 | -$25,864 | ❌ Perdida |
 | Elaran1993 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,210 | +$26,790 | ✅ Ganada |
 | huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | -$37,151 | ❌ Perdida |
-| basementdweller3000 | Titans vs. 49ers | Titans | 1.41 (71¢) | $49,700 | +$20,300 | ✅ Ganada |
