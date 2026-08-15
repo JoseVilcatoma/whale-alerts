@@ -4701,8 +4701,8 @@
     "title": "Spread: Chicago White Sox (-1.5)",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 1195.6,
-    "whale_pct": 0.51,
+    "whale_usd": 2188.5973999999997,
+    "whale_pct": 0.933,
     "whale_value_at_open": 234644.9165,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -4713,8 +4713,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818791.6066263,
-    "fills": 1
+    "last_fill_at": 1786821096.8475666,
+    "fills": 2
   },
   {
     "timestamp": 1786820816,

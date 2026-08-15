@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:10:46 (hora de Perú)
+Actualizado: 2026-08-15 14:12:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 17% | 10.00 | 5.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 30% | 10.00 | 11.4% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 58% | 10.00 | 6.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Detroit Tigers (BUY) | 51% | 10.00 | 10.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
