@@ -4976,8 +4976,8 @@
     "title": "LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 1474.4099999999999,
-    "whale_pct": 10.059,
+    "whale_usd": 2214.41,
+    "whale_pct": 15.108,
     "whale_value_at_open": 14656.9066,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -4986,8 +4986,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786832605.3698745,
-    "fills": 1
+    "last_fill_at": 1786835723.7677577,
+    "fills": 2
   },
   {
     "timestamp": 1786832778,
