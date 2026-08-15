@@ -1,5 +1,5 @@
 {
-  "bankroll": 1089.222616976973,
+  "bankroll": 1094.8636426179987,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -700,6 +700,21 @@
       "timestamp": 1786806521.2453582,
       "bankroll": 1089.22,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786806763.772036,
+      "bankroll": 1079.22,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786806764.2729583,
+      "bankroll": 1094.86,
+      "event": "won: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786806765.0744603,
+      "bankroll": 1094.86,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
     }
   ]
 }

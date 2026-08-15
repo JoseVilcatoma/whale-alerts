@@ -2480,8 +2480,8 @@
     "whale_value_at_open": 287613.2937,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3059,8 +3059,8 @@
     "whale_value_at_open": 342815.9075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.64,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3609,7 +3609,7 @@
     "whale_value_at_open": 50436.3893,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 100,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [
       "ferrariChampions2026"
@@ -4289,8 +4289,8 @@
     "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 9395.6053,
-    "whale_pct": 40.376,
+    "whale_usd": 12182.004999999997,
+    "whale_pct": 52.35,
     "whale_value_at_open": 23270.3379,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -4301,8 +4301,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786806416.3184464,
-    "fills": 3
+    "last_fill_at": 1786806767.8111122,
+    "fills": 5
   },
   {
     "timestamp": 1786806451,
