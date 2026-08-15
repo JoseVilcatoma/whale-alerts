@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 16:02:53 (hora de Perú)
+Actualizado: 2026-08-15 16:05:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,019.69
-**Retorno acumulado:** +1.97%
+**Bankroll actual:** $1,009.69
+**Retorno acumulado:** +0.97%
 **Peor caída desde un máximo (drawdown):** 9.78%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -30,18 +30,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
 | wr0ngw4yb3tt0r | 4 | 5 | 16 | -6.49 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
-| 1winstreak1 | 4 | 4 | 4 | -8.49 USD |
+| 1winstreak1 | 4 | 5 | 3 | -18.49 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 164
-- **Aciertos:** 88 (53.7%)
+- **Apuestas resueltas:** 165
+- **Aciertos:** 88 (53.3%)
 - **Cuota promedio de entrada:** 52.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,640.00
-- **ROI sobre lo apostado:** -1.16%
+- **Total apostado (suma de stakes):** $1,650.00
+- **ROI sobre lo apostado:** -1.76%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 16.0% | -16.0 pp |
 | 20-39% | 27 | 25.9% | 32.8% | -6.9 pp |
-| 40-59% | 90 | 50.0% | 49.2% | +0.8 pp |
+| 40-59% | 91 | 49.5% | 49.3% | +0.2 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 44% | 10.00 | 14.3% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiag | Thiago Agustin Tirante (BUY) | 66% | 10.00 | 61.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 2 Win | Vivo Keyd Stars (BUY) | 30% | 10.00 | 7.6% | ⏳ pendiente | — |
-| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 15.1% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 15.1% | ❌ perdida | -10.00 |
 | g42gh6524h5h5 | Counter-Strike: BIG vs Spirit (BO3) - Es | Spirit (BUY) | 57% | 10.00 | 37.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 34% | 10.00 | 3.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Toronto Blue Jays (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
