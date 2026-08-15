@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:16:59 (hora de Perú)
+Actualizado: 2026-08-15 08:19:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,058.04
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 1 | 0 | 6 | +9.23 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 5 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
@@ -86,16 +86,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-we-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, g42gh6524h5h5 |
 | lol-blg-we-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111 |
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
+| mlb-stl-chc-2026-08-15-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 67% | 10.00 | 47.0% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 53% | 10.00 | 26.0% | ⏳ pendiente | — |
+| Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 53% | 10.00 | 29.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 72% | 10.00 | 24.3% | 💰 vendida anticipada | +0.14 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 74% | 10.00 | 30.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 16.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 17.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 53% | 10.00 | 1.3% | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
@@ -120,4 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 8.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ⏳ pendiente | — |

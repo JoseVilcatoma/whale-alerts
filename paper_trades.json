@@ -3764,8 +3764,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 6107.4774,
-    "whale_pct": 16.011,
+    "whale_usd": 6761.349499999999,
+    "whale_pct": 17.725,
     "whale_value_at_open": 38145.2315,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3776,8 +3776,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799473.8488731,
-    "fills": 3
+    "last_fill_at": 1786799873.9824533,
+    "fills": 4
   },
   {
     "timestamp": 1786799359,
@@ -3837,8 +3837,8 @@
     "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 14759.383617,
-    "whale_pct": 26.046,
+    "whale_usd": 16727.273617,
+    "whale_pct": 29.519,
     "whale_value_at_open": 56665.8576,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -3847,8 +3847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799600.8459628,
-    "fills": 2
+    "last_fill_at": 1786799836.546193,
+    "fills": 3
   },
   {
     "timestamp": 1786799615,
@@ -3873,6 +3873,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786799616.278988,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786799835,
+    "timestamp_added": 1786799835.9640377,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-chc-2026-08-15-total-9pt5",
+    "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 694.98,
+    "whale_pct": 0.873,
+    "whale_value_at_open": 79570.4735,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786799835.9640462,
     "fills": 1
   }
 ]
