@@ -1330,8 +1330,8 @@
     "title": "Astana: Aziz Dougaz vs Sergey Fomin",
     "outcome": "Sergey Fomin",
     "side": "BUY",
-    "whale_usd": 9197.377499999999,
-    "whale_pct": 3.316,
+    "whale_usd": 18770.024400000002,
+    "whale_pct": 6.768,
     "whale_value_at_open": 277344.2272,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -1340,8 +1340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788082.4644547,
-    "fills": 4
+    "last_fill_at": 1786788249.1038635,
+    "fills": 6
   },
   {
     "timestamp": 1786786910,
@@ -1530,8 +1530,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 2755.0661,
-    "whale_pct": 0.916,
+    "whale_usd": 3531.489396,
+    "whale_pct": 1.174,
     "whale_value_at_open": 300853.1366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -1540,8 +1540,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787509.345774,
-    "fills": 2
+    "last_fill_at": 1786788173.3264415,
+    "fills": 3
   },
   {
     "timestamp": 1786787532,
@@ -1574,8 +1574,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 7831.452905,
-    "whale_pct": 2.505,
+    "whale_usd": 8970.352205,
+    "whale_pct": 2.869,
     "whale_value_at_open": 312622.2819,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -1587,8 +1587,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788094.4806144,
-    "fills": 9
+    "last_fill_at": 1786788184.2408016,
+    "fills": 10
   },
   {
     "timestamp": 1786787674,
@@ -1673,8 +1673,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 3407.1326069999996,
-    "whale_pct": 7.704,
+    "whale_usd": 4146.724407,
+    "whale_pct": 9.376,
     "whale_value_at_open": 44227.7188,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -1685,8 +1685,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787917.662882,
-    "fills": 3
+    "last_fill_at": 1786788183.52286,
+    "fills": 4
   },
   {
     "timestamp": 1786787834,

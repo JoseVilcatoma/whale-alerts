@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:02:49 (hora de Perú)
+Actualizado: 2026-08-15 05:04:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.49
@@ -77,13 +77,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | GamerLegion (BUY) | 81% | 10.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 33% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 72% | 10.00 | 7.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 72% | 10.00 | 9.4% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 57% | 10.00 | 3.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 11.5% | 💰 vendida anticipada | -1.88 |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 44% | 10.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 44% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 33% | 10.00 | 9.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 44% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 44% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | OG (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 30.8% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 52% | 10.00 | 88.8% | ⏳ pendiente | — |
@@ -92,7 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Kashima Antlers (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-15? | Yes (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 69% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 55% | 10.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 55% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 85% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 1.0% | ⏳ pendiente | — |
