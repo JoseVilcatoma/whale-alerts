@@ -5539,8 +5539,8 @@
     "whale_value_at_open": 13114.3068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.33,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6642,6 +6642,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786753611.1413152,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786753724,
+    "timestamp_added": 1786753725.1914854,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bos-pit-2026-08-14-spread-home-3pt5",
+    "title": "Spread: Pittsburgh Pirates (-3.5)",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 39.42,
+    "whale_pct": 0.104,
+    "whale_value_at_open": 37901.0229,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786753725.1914945,
     "fills": 1
   }
 ]
