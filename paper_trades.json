@@ -3762,8 +3762,8 @@
     "title": "Spread: BUF (-3.5)",
     "outcome": "CAR",
     "side": "BUY",
-    "whale_usd": 1020.0,
-    "whale_pct": 0.93,
+    "whale_usd": 2082.4115,
+    "whale_pct": 1.898,
     "whale_value_at_open": 109697.6154,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -3772,8 +3772,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786808523.2405686,
-    "fills": 1
+    "last_fill_at": 1786810348.3942804,
+    "fills": 2
   },
   {
     "timestamp": 1786809390,
