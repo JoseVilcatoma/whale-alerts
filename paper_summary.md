@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:06:31 (hora de Perú)
+Actualizado: 2026-08-15 08:08:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,057.90
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 5 | 2 | 3 | +32.59 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 4 | +32.22 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 5 | +32.22 USD |
 | CORGI8 | 3 | 2 | 5 | +31.20 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 1 | 0 | 5 | +9.23 USD |
@@ -81,6 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-tr7-xtreme-2026-08-15-game2 | CORGI8, ferrariChampions2026 |
 | lol-tt-al-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115, ferrariChampions2026 |
 | lol-fox1-dnf-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| dota2-liquid-aur1-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 | dota2-ironwi-ty-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 
@@ -88,6 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 13.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 53% | 10.00 | 1.3% | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
@@ -117,4 +119,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 9.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 5.9% | 💰 vendida anticipada | -2.00 |
-| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
