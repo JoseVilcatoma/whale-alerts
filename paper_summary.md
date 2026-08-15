@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:20:05 (hora de Perú)
+Actualizado: 2026-08-15 06:22:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,052.68
-**Retorno acumulado:** +5.27%
+**Bankroll actual:** $1,050.05
+**Retorno acumulado:** +5.00%
 **Peor caída desde un máximo (drawdown):** 3.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,23 +20,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 2 | 2 | 4 | +22.68 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 2 | +8.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 1 | 4 | +3.55 USD |
-| ferrariChampions2026 | 8 | 7 | 55 | +3.43 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
+| ferrariChampions2026 | 10 | 8 | 52 | +0.79 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
-| g42gh6524h5h5 | 0 | 0 | 4 | +0.00 USD |
+| g42gh6524h5h5 | 0 | 0 | 5 | +0.00 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 45
-- **Aciertos:** 25 (55.6%)
-- **Cuota promedio de entrada:** 52.4%
+- **Apuestas resueltas:** 48
+- **Aciertos:** 27 (56.2%)
+- **Cuota promedio de entrada:** 53.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $450.00
-- **ROI sobre lo apostado:** +10.92%
+- **Total apostado (suma de stakes):** $480.00
+- **ROI sobre lo apostado:** +9.68%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -44,10 +44,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 8 | 50.0% | 31.8% | +18.2 pp |
+| 20-39% | 9 | 44.4% | 32.6% | +11.9 pp |
 | 40-59% | 25 | 48.0% | 48.7% | -0.7 pp |
-| 60-79% | 8 | 62.5% | 67.5% | -5.0 pp |
-| 80-94% | 4 | 100.0% | 86.8% | +13.2 pp |
+| 60-79% | 9 | 66.7% | 67.0% | -0.3 pp |
+| 80-94% | 5 | 100.0% | 86.8% | +13.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-tr7-xtreme-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026, g42gh6524h5h5 |
 | lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-lgd-vg-2026-08-15-game1 | 111111111115, ferrariChampions2026 |
-| dota2-lgd-vg-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
+| dota2-lgd-vg-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026, g42gh6524h5h5 |
 | lol-tt-al-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-tt-al-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026, g42gh6524h5h5 |
 | cs2-mglz-navi-2026-08-15 | CORGI8, ferrariChampions2026 |
@@ -82,6 +82,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -111,4 +112,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | BNK FEARX (BUY) | 59% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | paiN (BUY) | 54% | 10.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liaoning Tieren FC vs. Shenzhen Xinpengc | Over (BUY) | 53% | 10.00 | 2.0% | ⏳ pendiente | — |
-| 111111111115 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 65% | 10.00 | 3.0% | ⏳ pendiente | — |

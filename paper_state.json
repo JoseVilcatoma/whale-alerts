@@ -1,5 +1,5 @@
 {
-  "bankroll": 1052.6803460711433,
+  "bankroll": 1050.0476148177224,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -250,6 +250,21 @@
       "timestamp": 1786792791.6772988,
       "bankroll": 1052.68,
       "event": "won: ferrariChampions2026 \u2014 FC Mito Holly Hock vs. Gamba \u014csaka: O/U 1.5"
+    },
+    {
+      "timestamp": 1786792914.654323,
+      "bankroll": 1054.17,
+      "event": "won: ferrariChampions2026 \u2014 Kashima Antlers vs. Nagoya Grampus: O/U 1.5"
+    },
+    {
+      "timestamp": 1786792915.3560202,
+      "bankroll": 1044.17,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kashima Antlers (-1.5)"
+    },
+    {
+      "timestamp": 1786792917.0248644,
+      "bankroll": 1050.05,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Kashima Antlers (-1.5)"
     }
   ]
 }
