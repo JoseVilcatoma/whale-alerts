@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:35:11 (hora de Perú)
+Actualizado: 2026-08-15 01:37:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $982.30
@@ -18,11 +18,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | +0.00 USD |
-| CORGI8 | 0 | 0 | 3 | +0.00 USD |
+| CORGI8 | 0 | 0 | 4 | +0.00 USD |
 | 111111111115 | 0 | 0 | 7 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 12 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 13 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 3 | 3 | 5 | -19.89 USD |
 
@@ -59,22 +59,24 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-liquid-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-ironwi-liquid-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
-| dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
+| dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 39% | 10.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 50% | 10.00 | 6.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 60% | 10.00 | 34.8% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 51% | 10.00 | 13.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 47% | 10.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 51% | 10.00 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 51% | 10.00 | 11.8% | ⏳ pendiente | — |
 | RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Khumoun Sultanov (BUY) | 59% | 10.00 | 6.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -94,5 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: OG vs HULIGANI (BO3) - The Inter | OG (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 50% | 10.00 | 2.4% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 48% | 10.00 | 12.3% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 28% | 10.00 | 1.0% | ⏳ pendiente | — |
