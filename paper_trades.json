@@ -1552,8 +1552,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 23412.609300000004,
-    "whale_pct": 7.782,
+    "whale_usd": 27942.051100000004,
+    "whale_pct": 9.288,
     "whale_value_at_open": 300853.1366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 33,
@@ -1562,8 +1562,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787692.3412242,
-    "fills": 9
+    "last_fill_at": 1786788003.364277,
+    "fills": 10
   },
   {
     "timestamp": 1786787543,
@@ -1574,8 +1574,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 2812.2629,
-    "whale_pct": 0.9,
+    "whale_usd": 3457.462405,
+    "whale_pct": 1.106,
     "whale_value_at_open": 312622.2819,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -1587,8 +1587,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787881.834206,
-    "fills": 4
+    "last_fill_at": 1786787992.3726962,
+    "fills": 5
   },
   {
     "timestamp": 1786787674,
@@ -1730,5 +1730,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786787880.011512,
     "fills": 1
+  },
+  {
+    "timestamp": 1786787962,
+    "timestamp_added": 1786787962.6837246,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-og-gl-2026-08-15-game1",
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 8900.281200000001,
+    "whale_pct": 3.164,
+    "whale_value_at_open": 281334.5209,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786788019.5980375,
+    "fills": 3
   }
 ]
