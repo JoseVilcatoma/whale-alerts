@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 01:55:56 (hora de Perú)
+Actualizado: 2026-08-15 01:58:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **148**  ($7,143,155 en total)
+- Apuestas registradas: **149**  ($7,182,467 en total)
 - Resueltas: **141** — 80 ganadas / 61 perdidas (**57%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 50
+- Pendientes: 8
+- Apostadores distintos: 51
 
 ### Balance
 
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Feromont | 2 | 0 | 0 | ⚠️ 100% (2) | $50,800 | +$29,200 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
+| StasPanda | 0 | 0 | 1 | — | $39,313 | — |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
@@ -63,14 +64,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 0 | 1 | 0 | ⚠️ 0% (1) | $30,307 | -$30,307 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,000 | +$2,967 |
-| CORGI8 | 0 | 1 | 0 | ⚠️ 0% (1) | $29,980 | -$29,980 |
 
-_(mostrando los 40 de mayor monto, de 50 en total)_
+_(mostrando los 40 de mayor monto, de 51 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group | Hanwha Life Esports | 1.37 (73¢) | $39,313 | — | ⏳ Pendiente |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 2.56 (39¢) | $32,307 | — | ⏳ Pendiente |
 | S-Works | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $28,233 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | DEN vs. ATL: O/U 38.5 | Over 38.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage | Team Yandex | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 111111111115 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 2.86 (35¢) | $25,858 | +$48,022 | ✅ Ganada |
