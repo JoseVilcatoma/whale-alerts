@@ -3654,8 +3654,8 @@
     "whale_value_at_open": 10165.8915,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.83,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3676,8 +3676,8 @@
     "whale_value_at_open": 64842.5448,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "Sassy-Bucket"
     ],
@@ -5150,5 +5150,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786836264.8575287,
     "fills": 1
+  },
+  {
+    "timestamp": 1786836340,
+    "timestamp_added": 1786836340.8928583,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mia-cin-2026-08-15",
+    "title": "Miami Marlins vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 1527.8799990000002,
+    "whale_pct": 13.346,
+    "whale_value_at_open": 11448.1608,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786836348.3168085,
+    "fills": 2
   }
 ]
