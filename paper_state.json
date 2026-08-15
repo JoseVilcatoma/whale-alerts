@@ -1,5 +1,5 @@
 {
-  "bankroll": 988.5638553420118,
+  "bankroll": 999.8138553420118,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -65,6 +65,16 @@
       "timestamp": 1786776578.2073293,
       "bankroll": 988.56,
       "event": "won: RN1 \u2014 ITF M15 Tianjin 2 Men: Matthew Dellavedova vs Kosuke Ogura"
+    },
+    {
+      "timestamp": 1786776639.4459953,
+      "bankroll": 1009.81,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Yushan Shao"
+    },
+    {
+      "timestamp": 1786776642.0631697,
+      "bankroll": 999.81,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Yushan Shao"
     }
   ]
 }
