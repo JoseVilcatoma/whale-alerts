@@ -892,8 +892,8 @@
     "title": "Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan",
     "outcome": "Ireland",
     "side": "BUY",
-    "whale_usd": 1005.0,
-    "whale_pct": 11.285,
+    "whale_usd": 1600.442,
+    "whale_pct": 17.971,
     "whale_value_at_open": 8905.6704,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
@@ -902,8 +902,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786773860.985163,
-    "fills": 1
+    "last_fill_at": 1786786104.0498543,
+    "fills": 2
   },
   {
     "timestamp": 1786774150,
