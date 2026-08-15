@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 18:01:50 (hora de Perú)
+Actualizado: 2026-08-15 18:03:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $964.07
@@ -101,7 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 359.7% | ⏳ pendiente | — |
+| 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 537.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | ⏳ pendiente | — |

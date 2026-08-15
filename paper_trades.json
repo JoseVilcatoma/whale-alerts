@@ -5090,8 +5090,8 @@
     "title": "Valorant: Team Envy vs Sentinels (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 13120.927,
-    "whale_pct": 359.677,
+    "whale_usd": 19620.927,
+    "whale_pct": 537.858,
     "whale_value_at_open": 3647.9751,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5100,7 +5100,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786834831.5059054,
-    "fills": 2
+    "last_fill_at": 1786835015.993426,
+    "fills": 3
   }
 ]
