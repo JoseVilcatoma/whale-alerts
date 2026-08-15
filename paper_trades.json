@@ -1899,5 +1899,53 @@
     "last_fill_at": 1786782649.809452,
     "fills": 2,
     "closed_price": 96
+  },
+  {
+    "timestamp": 1786783244,
+    "timestamp_added": 1786783245.1320019,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-chi1-joe-2026-08-15-totals-1pt5",
+    "title": "O/U 1.5 Rounds",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 996.3205,
+    "whale_pct": 1.368,
+    "whale_value_at_open": 72853.463,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786783245.1320088,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786783251,
+    "timestamp_added": 1786783252.6809597,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-hle1-kt-2026-08-15-game1",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 822.0206,
+    "whale_pct": 2.793,
+    "whale_value_at_open": 29433.9625,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "ferrariChampions2026",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786783252.6809685,
+    "fills": 1
   }
 ]
