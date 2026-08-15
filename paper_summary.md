@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 18:28:38 (hora de Perú)
+Actualizado: 2026-08-15 18:30:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $945.26
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
-| g42gh6524h5h5 | 6 | 5 | 4 | -8.61 USD |
+| g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
 | SDTrading | 0 | 1 | 3 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 1winstreak1 | 4 | 5 | 3 | -11.04 USD |
@@ -96,12 +96,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-tor-2026-08-15-total-7pt5 | 1winstreak1, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-cws-det-2026-08-15-spread-away-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | lol-sr-dig-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| lol-sr-dig-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 11.2% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
@@ -131,4 +133,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ❌ perdida | -10.00 |
