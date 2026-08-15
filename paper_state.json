@@ -1,5 +1,5 @@
 {
-  "bankroll": 1826.0157791701383,
+  "bankroll": 1828.2380013923605,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1635,6 +1635,16 @@
       "timestamp": 1786763204.3516438,
       "bankroll": 1826.02,
       "event": "lost: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763451.6598284,
+      "bankroll": 1816.02,
+      "event": "lost: 1winstreak1 \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
+    },
+    {
+      "timestamp": 1786763461.5800555,
+      "bankroll": 1828.24,
+      "event": "won: RN1 \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
     }
   ]
 }

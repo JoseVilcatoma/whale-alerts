@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:10:10 (hora de Perú)
+Actualizado: 2026-08-14 22:12:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,826.02
-**Retorno acumulado:** +82.60%
+**Bankroll actual:** $1,828.24
+**Retorno acumulado:** +82.82%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 35 | 22 | +274.24 USD |
+| 1winstreak1 | 57 | 36 | 21 | +264.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
-| Lakersfan111 | 26 | 10 | 2 | +165.32 USD |
+| Lakersfan111 | 26 | 10 | 4 | +165.32 USD |
 | midwicket72 | 26 | 3 | 8 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| RN1 | 19 | 5 | 57 | +59.53 USD |
+| RN1 | 20 | 5 | 56 | +71.75 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
 | wr0ngw4yb3tt0r | 15 | 14 | 14 | +20.45 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 326
-- **Aciertos:** 206 (63.2%)
-- **Cuota promedio de entrada:** 52.7%
+- **Apuestas resueltas:** 328
+- **Aciertos:** 207 (63.1%)
+- **Cuota promedio de entrada:** 52.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,258.66
-- **ROI sobre lo apostado:** +25.32%
+- **Total apostado (suma de stakes):** $3,278.66
+- **ROI sobre lo apostado:** +25.23%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -50,7 +50,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 16 | 12.5% | 16.0% | -3.5 pp |
 | 20-39% | 58 | 48.3% | 30.6% | +17.7 pp |
-| 40-59% | 135 | 60.0% | 47.8% | +12.2 pp |
+| 40-59% | 137 | 59.9% | 47.8% | +12.1 pp |
 | 60-79% | 79 | 75.9% | 67.1% | +8.8 pp |
 | 80-94% | 30 | 90.0% | 87.4% | +2.6 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 96.2% | +3.8 pp |
@@ -95,6 +95,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 4.5% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 3.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 22% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 36% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -123,5 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Portland Fire vs. Seattle Storm | Portland Fire (BUY) | 69% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. San Francisco Giant | Under (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 60% | 10.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 35% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
