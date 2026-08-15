@@ -1,5 +1,5 @@
 {
-  "bankroll": 1043.6985682536333,
+  "bankroll": 1030.3652349203,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -175,6 +175,21 @@
       "timestamp": 1786786220.2467325,
       "bankroll": 1043.7,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: BoomBoys vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786786542.3904881,
+      "bankroll": 1050.37,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786786542.5908015,
+      "bankroll": 1040.37,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786786542.7911441,
+      "bankroll": 1030.37,
+      "event": "lost: CORGI8 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner"
     }
   ]
 }
