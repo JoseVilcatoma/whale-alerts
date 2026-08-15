@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:15:52 (hora de Perú)
+Actualizado: 2026-08-15 14:17:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **184**  ($8,712,443 en total)
-- Resueltas: **156** — 88 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 28
+- Resueltas: **157** — 89 ganadas / 68 perdidas (**57%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 67
 
 ### Balance
 
-- **Resultado de los apostadores: +$7,545** sobre $7,461,369 apostados (ROI **+0.1%**)
+- **Resultado de los apostadores: +$23,259** sobre $7,501,369 apostados (ROI **+0.3%**)
 - Copiando $100 fijo en cada una: **-$1,214** sobre $15,300 (ROI **-7.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 0 | 0 | 1 | — | $40,000 | — |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
 | StasPanda | 1 | 0 | 0 | ⚠️ 100% (1) | $39,313 | +$14,540 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 67 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
 | Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
