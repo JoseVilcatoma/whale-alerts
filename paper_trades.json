@@ -1686,8 +1686,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 9477.59008,
-    "whale_pct": 3.873,
+    "whale_usd": 10676.454679999999,
+    "whale_pct": 4.363,
     "whale_value_at_open": 244682.5623,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -1699,8 +1699,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781900.4999366,
-    "fills": 9
+    "last_fill_at": 1786782125.3831644,
+    "fills": 10
   },
   {
     "timestamp": 1786781411,
@@ -1782,8 +1782,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 7367.361812,
-    "whale_pct": 2.859,
+    "whale_usd": 13843.336712,
+    "whale_pct": 5.372,
     "whale_value_at_open": 257674.8339,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -1796,8 +1796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786782073.0011961,
-    "fills": 5
+    "last_fill_at": 1786782190.521974,
+    "fills": 8
   },
   {
     "timestamp": 1786781890,
