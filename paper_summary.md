@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:52:21 (hora de Perú)
+Actualizado: 2026-08-14 19:54:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,472.70
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
-| 1winstreak1 | 17 | 14 | 50 | -30.99 USD |
+| 1winstreak1 | 17 | 14 | 54 | -30.99 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -73,6 +73,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 44% | 10.00 | 19.6% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 74% | 10.00 | 0.7% | ⏳ pendiente | — |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 77% | 10.00 | 30.1% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 18% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -99,7 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Map Handicap: C9 (-1.5) vs Fluxo W7M (+1 | Fluxo W7M (BUY) | 60% | 10.00 | 67.9% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Cloud9 vs Fluxo W7M - Map 1 Wi | Fluxo W7M (BUY) | 40% | 10.00 | 22.9% | ⏳ pendiente | — |
-| 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 33% | 10.00 | 1.7% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 91% | 10.00 | 6.9% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
