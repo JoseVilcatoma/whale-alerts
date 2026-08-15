@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:12:25 (hora de Perú)
+Actualizado: 2026-08-15 17:14:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,028.06
-**Retorno acumulado:** +2.81%
-**Peor caída desde un máximo (drawdown):** 8.53%
+**Bankroll actual:** $968.06
+**Retorno acumulado:** -3.19%
+**Peor caída desde un máximo (drawdown):** 13.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -18,29 +18,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 4 | 0 | +44.73 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
-| 1winstreak1 | 4 | 1 | 4 | +28.96 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 6 | 4 | 3 | +1.39 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| wr0ngw4yb3tt0r | 5 | 6 | 12 | -3.23 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
+| Sassy-Bucket | 0 | 1 | 1 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| 1winstreak1 | 4 | 5 | 0 | -11.04 USD |
+| wr0ngw4yb3tt0r | 5 | 7 | 11 | -13.23 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 171
-- **Aciertos:** 92 (53.8%)
-- **Cuota promedio de entrada:** 52.6%
+- **Apuestas resueltas:** 177
+- **Aciertos:** 92 (52.0%)
+- **Cuota promedio de entrada:** 52.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,710.00
-- **ROI sobre lo apostado:** -0.73%
+- **Total apostado (suma de stakes):** $1,770.00
+- **ROI sobre lo apostado:** -4.09%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,9 +48,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 1 | 0.0% | 15.0% | -15.0 pp |
-| 20-39% | 30 | 26.7% | 32.9% | -6.2 pp |
-| 40-59% | 92 | 50.0% | 49.2% | +0.8 pp |
+| 1-19% (bomba) | 2 | 0.0% | 15.0% | -15.0 pp |
+| 20-39% | 32 | 25.0% | 32.5% | -7.5 pp |
+| 40-59% | 95 | 48.4% | 49.1% | -0.6 pp |
 | 60-79% | 37 | 73.0% | 68.0% | +5.0 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -104,10 +104,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 15% | 10.00 | 3.6% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 20.0% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ❌ perdida | -10.00 |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ❌ perdida | -10.00 |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 15% | 10.00 | 3.6% | ❌ perdida | -10.00 |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 20.0% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Detroit Tigers (BUY) | 51% | 10.00 | 10.3% | ✅ ganada | +9.61 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ❌ perdida | -10.00 |
@@ -116,8 +116,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ❌ perdida | -10.00 |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ⏳ pendiente | — |
+| Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ❌ perdida | -10.00 |
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ❌ perdida | -10.00 |
 | 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ✅ ganada | +16.32 |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ❌ perdida | -10.00 |
