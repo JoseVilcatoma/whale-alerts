@@ -3216,8 +3216,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 3999.999998,
-    "whale_pct": 2.526,
+    "whale_usd": 4999.999997,
+    "whale_pct": 3.158,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3226,7 +3226,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793590.4903135,
-    "fills": 3
+    "last_fill_at": 1786793874.1579452,
+    "fills": 4
   }
 ]
