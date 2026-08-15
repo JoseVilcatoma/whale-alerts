@@ -1,5 +1,5 @@
 {
-  "bankroll": 1050.9156401887903,
+  "bankroll": 1052.6803460711433,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -245,6 +245,11 @@
       "timestamp": 1786792603.089678,
       "bankroll": 1050.92,
       "event": "lost: ferrariChampions2026 \u2014 FC Mito Holly Hock vs. Gamba \u014csaka: O/U 2.5"
+    },
+    {
+      "timestamp": 1786792791.6772988,
+      "bankroll": 1052.68,
+      "event": "won: ferrariChampions2026 \u2014 FC Mito Holly Hock vs. Gamba \u014csaka: O/U 1.5"
     }
   ]
 }
