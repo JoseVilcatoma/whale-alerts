@@ -2,7 +2,7 @@
   "0xa4b7b1814b0da33f2b61be4939976898aa476008": {
     "username": "midwicket72",
     "added_at": 1786750846.7339451,
-    "roi_pct": 457.58,
+    "roi_pct": 457.46,
     "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
@@ -14,31 +14,31 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786755556.053433,
-    "roi_pct": 311.97,
+    "roi_pct": 316.28,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786766195.9667165,
-    "roi_pct": 238.92,
+    "roi_pct": 220.22,
     "short_term_pct": 100.0
   },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
     "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
     "added_at": 1786812938.1016161,
-    "roi_pct": 877.3,
+    "roi_pct": 909.34,
     "short_term_pct": 100.0
   },
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "g42gh6524h5h5",
     "added_at": 1786815768.323626,
-    "roi_pct": 250.96,
+    "roi_pct": 243.49,
     "short_term_pct": 100.0
   },
   "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
     "username": "1winstreak1",
     "added_at": 1786816714.6763847,
-    "roi_pct": 783.44,
+    "roi_pct": 617.11,
     "short_term_pct": 100.0
   },
   "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
@@ -47,16 +47,16 @@
     "roi_pct": 2079.36,
     "short_term_pct": 100.0
   },
-  "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
-    "username": "Sassy-Bucket",
-    "added_at": 1786819539.0673141,
-    "roi_pct": 186.07,
+  "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
+    "username": "111111111115",
+    "added_at": 1786820480.481123,
+    "roi_pct": 29471.56,
     "short_term_pct": 100.0
   },
-  "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2": {
-    "username": "TennisLove",
-    "added_at": 1786819539.0673165,
-    "roi_pct": 130.87,
-    "short_term_pct": 80.0
+  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
+    "username": "IMAREALPERSON",
+    "added_at": 1786820480.481135,
+    "roi_pct": 1131.58,
+    "short_term_pct": 100.0
   }
 }
