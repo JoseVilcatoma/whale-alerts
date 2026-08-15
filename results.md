@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:54:51 (hora de Perú)
+Actualizado: 2026-08-15 18:56:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **224**  ($10,499,737 en total)
-- Resueltas: **195** — 109 ganadas / 86 perdidas (**56%** de acierto)
-- Pendientes: 29
+- Resueltas: **197** — 109 ganadas / 88 perdidas (**55%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 76
 
 ### Balance
 
-- **Resultado de los apostadores: -$293,278** sobre $8,930,902 apostados (ROI **-3.3%**)
-- Copiando $100 fijo en cada una: **-$1,769** sobre $19,100 (ROI **-9.3%**)
+- **Resultado de los apostadores: -$344,278** sobre $8,981,902 apostados (ROI **-3.8%**)
+- Copiando $100 fijo en cada una: **-$1,969** sobre $19,300 (ROI **-10.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| Winnnnnnning | 0 | 0 | 4 | — | $147,771 | — |
+| Winnnnnnning | 0 | 2 | 2 | ⚠️ 0% (2) | $147,771 | -$51,000 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | +$11,564 | ✅ Ganada |
-| Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | -$116,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
 | Sassy-Bucket | Washington Nationals vs. New York Mets: O/U 8.5 | Over 8.5 | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
 | highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | +$20,483 | ✅ Ganada |
-| Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | +$15,764 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | -$122,227 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
