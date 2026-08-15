@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:49:45 (hora de Perú)
+Actualizado: 2026-08-15 01:51:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $988.56
-**Retorno acumulado:** -1.14%
+**Bankroll actual:** $999.81
+**Retorno acumulado:** -0.02%
 **Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,16 +24,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 0 | 0 | 15 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
-| RN1 | 4 | 4 | 3 | -24.27 USD |
+| RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 13
-- **Aciertos:** 7 (53.8%)
-- **Cuota promedio de entrada:** 56.5%
+- **Apuestas resueltas:** 15
+- **Aciertos:** 8 (53.3%)
+- **Cuota promedio de entrada:** 55.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $130.00
-- **ROI sobre lo apostado:** -8.79%
+- **Total apostado (suma de stakes):** $150.00
+- **ROI sobre lo apostado:** -0.12%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,9 +41,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 3 | 33.3% | 33.3% | -0.0 pp |
+| 20-39% | 4 | 50.0% | 33.0% | +17.0 pp |
 | 40-59% | 4 | 25.0% | 47.5% | -22.5 pp |
-| 60-79% | 4 | 75.0% | 68.0% | +7.0 pp |
+| 60-79% | 5 | 60.0% | 66.6% | -6.6 pp |
 | 80-94% | 2 | 100.0% | 86.0% | +14.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -90,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 19.3% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ❌ perdida | -10.00 |
 | 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 59.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 48% | 10.00 | 13.8% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 46% | 10.00 | 22.4% | ⏳ pendiente | — |
