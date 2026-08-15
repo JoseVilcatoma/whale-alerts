@@ -3217,8 +3217,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 55999.999991,
-    "whale_pct": 35.369,
+    "whale_usd": 61999.999988999996,
+    "whale_pct": 39.159,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3227,8 +3227,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795157.373144,
-    "fills": 10
+    "last_fill_at": 1786795289.9880621,
+    "fills": 12
   },
   {
     "timestamp": 1786794167,
@@ -3239,8 +3239,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 14999.999993999998,
-    "whale_pct": 11.215,
+    "whale_usd": 15999.999992999998,
+    "whale_pct": 11.963,
     "whale_value_at_open": 133747.3368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3249,8 +3249,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794841.3960624,
-    "fills": 7
+    "last_fill_at": 1786795181.719553,
+    "fills": 8
   },
   {
     "timestamp": 1786794177,
@@ -3283,8 +3283,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 14999.999991999997,
-    "whale_pct": 9.686,
+    "whale_usd": 15999.999991999997,
+    "whale_pct": 10.332,
     "whale_value_at_open": 154855.07,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3293,8 +3293,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794976.4280064,
-    "fills": 10
+    "last_fill_at": 1786795188.2351422,
+    "fills": 11
   },
   {
     "timestamp": 1786794325,
@@ -3359,8 +3359,8 @@
     "title": "Dota 2: BoomBoys vs Team Falcons - Game 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 2999.999996,
-    "whale_pct": 1.293,
+    "whale_usd": 3999.9999940000002,
+    "whale_pct": 1.723,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -3369,8 +3369,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794994.2574806,
-    "fills": 3
+    "last_fill_at": 1786795260.9017515,
+    "fills": 4
   },
   {
     "timestamp": 1786794506,
@@ -3381,8 +3381,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 1999.999998,
-    "whale_pct": 0.862,
+    "whale_usd": 2999.999997,
+    "whale_pct": 1.293,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3391,8 +3391,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795172.5063496,
-    "fills": 2
+    "last_fill_at": 1786795275.271634,
+    "fills": 3
   },
   {
     "timestamp": 1786794701,
@@ -3430,8 +3430,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 3352.1176,
-    "whale_pct": 5.565,
+    "whale_usd": 4421.9927,
+    "whale_pct": 7.341,
     "whale_value_at_open": 60237.4116,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -3442,7 +3442,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794994.330633,
-    "fills": 3
+    "last_fill_at": 1786795208.7822711,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786795293,
+    "timestamp_added": 1786795294.4590073,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-fox1-dnf-2026-08-15-game2",
+    "title": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 7091.4658,
+    "whale_pct": 20.146,
+    "whale_value_at_open": 35200.4726,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786795294.4590178,
+    "fills": 1
   }
 ]
