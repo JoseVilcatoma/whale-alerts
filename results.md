@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:19:37 (hora de Perú)
+Actualizado: 2026-08-15 18:21:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **221**  ($10,370,622 en total)
-- Resueltas: **190** — 107 ganadas / 83 perdidas (**56%** de acierto)
-- Pendientes: 31
+- Resueltas: **191** — 108 ganadas / 83 perdidas (**57%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 76
 
 ### Balance
 
-- **Resultado de los apostadores: -$250,842** sobre $8,787,165 apostados (ROI **-2.9%**)
-- Copiando $100 fijo en cada una: **-$1,636** sobre $18,600 (ROI **-8.8%**)
+- **Resultado de los apostadores: -$239,278** sobre $8,816,902 apostados (ROI **-2.7%**)
+- Copiando $100 fijo en cada una: **-$1,597** sobre $18,700 (ROI **-8.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | — | ⏳ Pendiente |
-| rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | — | ⏳ Pendiente |
+| rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | +$11,564 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | -$116,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | — | ⏳ Pendiente |
