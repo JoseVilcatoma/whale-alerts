@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:41:44 (hora de Perú)
+Actualizado: 2026-08-14 22:43:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -28,4 +28,4 @@ _Todavía no hubo coincidencias._
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 1.4% | ⏳ pendiente | — |

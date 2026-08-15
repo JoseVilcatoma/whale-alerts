@@ -8,8 +8,8 @@
     "title": "Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 999.9999990000002,
-    "whale_pct": 0.478,
+    "whale_usd": 2999.9999970000003,
+    "whale_pct": 1.434,
     "whale_value_at_open": 209267.9976,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -18,8 +18,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786765265.1014664,
-    "fills": 1
+    "last_fill_at": 1786765381.7330022,
+    "fills": 3
   },
   {
     "timestamp": 1786765277,
