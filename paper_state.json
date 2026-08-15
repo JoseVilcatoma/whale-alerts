@@ -1,5 +1,5 @@
 {
-  "bankroll": 999.8138553420118,
+  "bankroll": 1016.8508923790489,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -75,6 +75,16 @@
       "timestamp": 1786776642.0631697,
       "bankroll": 999.81,
       "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Yushan Shao"
+    },
+    {
+      "timestamp": 1786776824.6690483,
+      "bankroll": 989.81,
+      "event": "lost: 111111111115 \u2014 Dota 2: Team Falcons vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786776824.769241,
+      "bankroll": 1016.85,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs GamerLegion - Game 2 Winner"
     }
   ]
 }
