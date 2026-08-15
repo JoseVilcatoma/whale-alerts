@@ -1,5 +1,5 @@
 {
-  "bankroll": 1047.1705838815121,
+  "bankroll": 1069.4127961591018,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -405,6 +405,31 @@
       "timestamp": 1786796488.5039978,
       "bankroll": 1047.17,
       "event": "won: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Cerezo \u014csaka: O/U 2.5"
+    },
+    {
+      "timestamp": 1786796861.740612,
+      "bankroll": 1056.4,
+      "event": "won: g42gh6524h5h5 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786796861.840793,
+      "bankroll": 1064.92,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786796862.4044163,
+      "bankroll": 1054.92,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786796862.5046248,
+      "bankroll": 1060.54,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786796863.1629102,
+      "bankroll": 1069.41,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner"
     }
   ]
 }

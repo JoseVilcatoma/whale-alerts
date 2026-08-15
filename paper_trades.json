@@ -1467,8 +1467,8 @@
     "whale_value_at_open": 5854.2753,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1489,8 +1489,8 @@
     "whale_value_at_open": 71790.8048,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.52,
     "overlaps_with": [
       "g42gh6524h5h5"
     ],
@@ -1579,8 +1579,8 @@
     "whale_value_at_open": 312622.2819,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "CORGI8",
       "g42gh6524h5h5"
@@ -1604,8 +1604,8 @@
     "whale_value_at_open": 326042.985,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.62,
     "overlaps_with": [
       "CORGI8",
       "g42gh6524h5h5"
@@ -1768,8 +1768,8 @@
     "whale_value_at_open": 53291.3224,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.87,
     "overlaps_with": [
       "CORGI8",
       "ferrariChampions2026",
@@ -3505,8 +3505,8 @@
     "title": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 8747.437399999999,
-    "whale_pct": 16.549,
+    "whale_usd": 10241.2061,
+    "whale_pct": 19.375,
     "whale_value_at_open": 52857.0345,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -3519,8 +3519,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795929.0650403,
-    "fills": 3
+    "last_fill_at": 1786796903.838261,
+    "fills": 4
   },
   {
     "timestamp": 1786795769,
@@ -3571,5 +3571,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786796462.5448384,
     "fills": 3
+  },
+  {
+    "timestamp": 1786796930,
+    "timestamp_added": 1786796930.6900733,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-blg-we-2026-08-15-game1",
+    "title": "LoL: Bilibili Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 3083.4453,
+    "whale_pct": 2.039,
+    "whale_value_at_open": 151256.9423,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786796930.6900818,
+    "fills": 1
   }
 ]
