@@ -3874,8 +3874,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 15467.0,
-    "whale_pct": 14.368,
+    "whale_usd": 29506.621399999996,
+    "whale_pct": 27.41,
     "whale_value_at_open": 107649.4285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -3884,8 +3884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786810920.8294165,
-    "fills": 1
+    "last_fill_at": 1786813883.8363597,
+    "fills": 2
   },
   {
     "timestamp": 1786812416,
@@ -3940,8 +3940,8 @@
     "title": "Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan",
     "outcome": "Afghanistan",
     "side": "BUY",
-    "whale_usd": 2781.8887,
-    "whale_pct": 16.792,
+    "whale_usd": 7601.8307,
+    "whale_pct": 45.886,
     "whale_value_at_open": 16566.9225,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
@@ -3950,8 +3950,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786813439.9365613,
-    "fills": 3
+    "last_fill_at": 1786813861.44609,
+    "fills": 4
   },
   {
     "timestamp": 1786813183,
@@ -3973,6 +3973,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786813183.734156,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786813854,
+    "timestamp_added": 1786813855.0255828,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-min-nyg-2026-08-15",
+    "title": "Vikings vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "whale_usd": 2999.9982,
+    "whale_pct": 2.207,
+    "whale_value_at_open": 135961.7161,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786813855.0255897,
     "fills": 1
   }
 ]
