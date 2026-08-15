@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:08:18 (hora de Perú)
+Actualizado: 2026-08-15 17:10:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,026.33
-**Retorno acumulado:** +2.63%
+**Bankroll actual:** $1,028.06
+**Retorno acumulado:** +2.81%
 **Peor caída desde un máximo (drawdown):** 8.53%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 4 | 1 | +43.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 4 | 0 | +44.73 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | 1winstreak1 | 4 | 1 | 4 | +28.96 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
@@ -99,8 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 9.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | 💰 vendida anticipada | +1.73 |
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 21.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
