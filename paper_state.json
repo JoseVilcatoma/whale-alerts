@@ -1,5 +1,5 @@
 {
-  "bankroll": 968.0580212417876,
+  "bankroll": 969.0692571968439,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -965,6 +965,11 @@
       "timestamp": 1786832060.9402058,
       "bankroll": 968.06,
       "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1786832334.925426,
+      "bankroll": 969.07,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner (+1.01 USD)"
     }
   ]
 }
