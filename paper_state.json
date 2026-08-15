@@ -1,5 +1,5 @@
 {
-  "bankroll": 1058.0359949512895,
+  "bankroll": 1048.0359949512895,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -470,6 +470,11 @@
       "timestamp": 1786799807.7747216,
       "bankroll": 1058.04,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE - Game 1 Winner (+0.14 USD)"
+    },
+    {
+      "timestamp": 1786800188.56842,
+      "bankroll": 1048.04,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Vigo Women: Matilde Jorge vs Sonja Zhiyenbayeva"
     }
   ]
 }
