@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 05:55:18 (hora de Perú)
+Actualizado: 2026-08-15 05:57:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **153**  ($7,620,941 en total)
+- Apuestas registradas: **154**  ($7,650,010 en total)
 - Resueltas: **147** — 83 ganadas / 64 perdidas (**56%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 54
+- Pendientes: 7
+- Apostadores distintos: 55
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 0 | 1 | 0 | ⚠️ 0% (1) | $30,307 | -$30,307 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 
-_(mostrando los 40 de mayor monto, de 54 en total)_
+_(mostrando los 40 de mayor monto, de 55 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xB3f07213c02C1A899f039BF6DfA464f61D675C25-1779335154871 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 4.17 (24¢) | $29,069 | — | ⏳ Pendiente |
 | JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | — | ⏳ Pendiente |
 | GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | — | ⏳ Pendiente |
 | noway8 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.32 (76¢) | $290,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 54 en total)_
 | NemecGhudini | Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.23 (81¢) | $35,235 | -$35,235 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: AL (-1.5) vs JD Gaming (+1.5) | JD Gaming | 1.43 (70¢) | $27,031 | +$11,585 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
-| retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | -$34,595 | ❌ Perdida |
