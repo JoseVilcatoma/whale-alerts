@@ -1,5 +1,5 @@
 {
-  "bankroll": 944.4294266883693,
+  "bankroll": 945.2627600217027,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1000,6 +1000,16 @@
       "timestamp": 1786836022.3415723,
       "bankroll": 944.43,
       "event": "lost: g42gh6524h5h5 \u2014 Map Handicap: TS (-1.5) vs BIG (+1.5)"
+    },
+    {
+      "timestamp": 1786836328.6301703,
+      "bankroll": 955.26,
+      "event": "won: Sassy-Bucket \u2014 Washington Nationals vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1786836328.730319,
+      "bankroll": 945.26,
+      "event": "lost: SDTrading \u2014 Washington Nationals vs. New York Mets: O/U 8.5"
     }
   ]
 }
