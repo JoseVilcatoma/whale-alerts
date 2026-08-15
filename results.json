@@ -2776,11 +2776,11 @@
     "title": "Will Sevilla FC win on 2026-08-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 73025.6982,
+    "usd": 168025.69819999998,
     "odds_at_bet": 38,
     "status": "pending",
-    "ultimo_fill": 1786821522,
-    "fills": 1
+    "ultimo_fill": 1786821659,
+    "fills": 3
   },
   {
     "telegram_msg_id": 367,
@@ -2795,6 +2795,21 @@
     "odds_at_bet": 63,
     "status": "pending",
     "ultimo_fill": 1786821522,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 368,
+    "timestamp": 1786821663,
+    "username": "Bulls94",
+    "wallet": "0x43cab54b56aba79c29c1ba14b889e7de5532c219",
+    "slug": "mlb-sea-hou-2026-08-15-total-8pt5",
+    "title": "Seattle Mariners vs. Houston Astros: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 29845.9392,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1786821663,
     "fills": 1
   }
 ]

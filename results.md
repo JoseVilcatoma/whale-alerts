@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:19:59 (hora de Perú)
+Actualizado: 2026-08-15 14:22:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **186**  ($8,848,469 en total)
+- Apuestas registradas: **187**  ($8,973,315 en total)
 - Resueltas: **157** — 89 ganadas / 68 perdidas (**57%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 68
 
 ### Balance
@@ -34,6 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
+| sainttroplay | 0 | 0 | 1 | — | $168,026 | — |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | pleaseplease123 | 0 | 1 | 2 | ⚠️ 0% (1) | $153,492 | -$99,433 |
@@ -50,10 +51,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 0 | 1 | 1 | ⚠️ 0% (1) | $82,641 | -$32,241 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
 | Feromont | 2 | 0 | 1 | ⚠️ 100% (2) | $76,000 | +$29,200 |
-| sainttroplay | 0 | 0 | 1 | — | $73,026 | — |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
+| Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
 | ExplosiveNinja | 1 | 0 | 1 | ⚠️ 100% (1) | $59,200 | +$19,800 |
 | sulumos | 0 | 0 | 1 | — | $58,856 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
 | StasPanda | 1 | 0 | 0 | ⚠️ 100% (1) | $39,313 | +$14,540 |
-| aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 
 _(mostrando los 40 de mayor monto, de 68 en total)_
 
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 68 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $73,026 | — | ⏳ Pendiente |
+| Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | — | ⏳ Pendiente |
+| sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $168,026 | — | ⏳ Pendiente |
 | ChinesePro | Will Sevilla FC win on 2026-08-15? | No | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 68 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | -$37,047 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: NYJ (-5.5) | TB | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.72 (58¢) | $69,600 | -$69,600 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel | Xinyu Wang | 1.82 (55¢) | $53,006 | +$43,368 | ✅ Ganada |
