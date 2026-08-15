@@ -2082,5 +2082,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786790098.1811185,
     "fills": 1
+  },
+  {
+    "timestamp": 1786790927,
+    "timestamp_added": 1786790927.5448642,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-al-2026-08-15",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "whale_usd": 846.9566000000001,
+    "whale_pct": 0.312,
+    "whale_value_at_open": 271372.608,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786790927.5448735,
+    "fills": 1
   }
 ]
