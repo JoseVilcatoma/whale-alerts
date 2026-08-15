@@ -3828,8 +3828,8 @@
     "title": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 1047.8654000000001,
-    "whale_pct": 1.968,
+    "whale_usd": 1607.8654000000001,
+    "whale_pct": 3.019,
     "whale_value_at_open": 53253.8008,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -3840,7 +3840,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786809670.7566242,
-    "fills": 2
+    "last_fill_at": 1786809805.4237852,
+    "fills": 3
   }
 ]
