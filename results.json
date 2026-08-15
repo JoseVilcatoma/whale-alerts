@@ -2386,7 +2386,7 @@
     "side": "BUY",
     "usd": 31901.8392,
     "odds_at_bet": 36,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786801707,
     "fills": 1
   },
@@ -2866,10 +2866,10 @@
     "title": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
     "outcome": "Novak Djokovic",
     "side": "BUY",
-    "usd": 94749.04800000001,
+    "usd": 122227.365533,
     "odds_at_bet": 80,
     "status": "pending",
-    "ultimo_fill": 1786822205,
-    "fills": 2
+    "ultimo_fill": 1786822227,
+    "fills": 3
   }
 ]
