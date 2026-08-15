@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:50:58 (hora de Perú)
+Actualizado: 2026-08-15 05:53:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,044.58
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 6 | 5 | 28 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 29 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
@@ -75,6 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Fagiano Okayama (-1.5) | V-Varen Nagasaki (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Aldershot 2 Women: Susan Bandecc | Susan Bandecchi (BUY) | 86% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Middlesbrough FC (-1.5) | Lincoln City FC (BUY) | 57% | 10.00 | 4.0% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | OG (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 30.8% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 52% | 10.00 | 88.8% | ⏳ pendiente | — |
-| bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 6.3% | ⏳ pendiente | — |
