@@ -1552,8 +1552,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 8726.508300000001,
-    "whale_pct": 2.901,
+    "whale_usd": 18642.627300000004,
+    "whale_pct": 6.197,
     "whale_value_at_open": 300853.1366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 33,
@@ -1562,8 +1562,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787551.063134,
-    "fills": 3
+    "last_fill_at": 1786787670.8614624,
+    "fills": 8
   },
   {
     "timestamp": 1786787543,
@@ -1588,6 +1588,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786787544.004368,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786787674,
+    "timestamp_added": 1786787674.4548733,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-tr7-xtreme-2026-08-15-game1",
+    "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "whale_usd": 2059.2,
+    "whale_pct": 0.632,
+    "whale_value_at_open": 326042.985,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786787674.4548826,
     "fills": 1
   }
 ]

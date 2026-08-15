@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:52:35 (hora de Perú)
+Actualizado: 2026-08-15 04:54:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,030.37
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 4 | -2.50 USD |
-| ferrariChampions2026 | 6 | 5 | 14 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 15 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
@@ -69,8 +69,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 33% | 10.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 33% | 10.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 44% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | OG (BUY) | 43% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 21.8% | ⏳ pendiente | — |
@@ -98,4 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Khumoun Sultanov (BUY) | 59% | 10.00 | 6.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
