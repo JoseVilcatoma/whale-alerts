@@ -1,5 +1,5 @@
 {
-  "bankroll": 1050.0476148177224,
+  "bankroll": 1040.0476148177224,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -265,6 +265,11 @@
       "timestamp": 1786792917.0248644,
       "bankroll": 1050.05,
       "event": "won: ferrariChampions2026 \u2014 Spread: Kashima Antlers (-1.5)"
+    },
+    {
+      "timestamp": 1786793109.694265,
+      "bankroll": 1040.05,
+      "event": "lost: ferrariChampions2026 \u2014 Will Kashima Antlers vs. Nagoya Grampus end in a draw?"
     }
   ]
 }
