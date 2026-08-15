@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 02:33:33 (hora de Perú)
+Actualizado: 2026-08-15 02:35:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,016.85
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | g42gh6524h5h5 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 58% | 10.00 | 30.6% | ⏳ pendiente | — |
-| RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 52% | 10.00 | 11.3% | ⏳ pendiente | — |
+| RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 52% | 10.00 | 14.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 50% | 10.00 | 8.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 65% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Nigma Galaxy (BUY) | 76% | 10.00 | 4.2% | ⏳ pendiente | — |
