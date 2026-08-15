@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:43:48 (hora de Perú)
+Actualizado: 2026-08-14 22:45:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -18,14 +18,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 0 | 0 | 1 | +0.00 USD |
+| CORGI8 | 0 | 0 | 1 | +0.00 USD |
+| 111111111115 | 0 | 0 | 1 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
-_Todavía no hubo coincidencias._
+| Mercado | Vigilados que coincidieron |
+|---|---|
+| dota2-og-huliga-2026-08-14-game2 | 111111111115, CORGI8 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 40% | 10.00 | 10.8% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 39% | 10.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 1.4% | ⏳ pendiente | — |
