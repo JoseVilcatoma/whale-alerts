@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:28:24 (hora de Perú)
+Actualizado: 2026-08-15 12:30:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,049.75
@@ -17,18 +17,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 2 | +45.78 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 3 | +45.78 USD |
 | Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 12 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 13 | +0.00 USD |
 | midwicket72 | 0 | 0 | 2 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | g42gh6524h5h5 | 3 | 3 | 1 | -6.46 USD |
-| IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
+| IMAREALPERSON | 2 | 1 | 1 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -85,11 +85,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-ty-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket |
 | lol-sk-fnc-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| lol-g2-shft-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 48% | 10.00 | 12.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 52% | 10.00 | 1.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Browns vs. Bears | Browns (BUY) | 60% | 10.00 | 16.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-08-15? | No (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -117,6 +121,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ✅ ganada | +4.49 |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ❌ perdida | -10.00 |
-| g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ❌ perdida | -10.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
-| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ❌ perdida | -10.00 |
