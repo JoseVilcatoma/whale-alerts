@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 15:03:43 (hora de Perú)
+Actualizado: 2026-08-15 15:05:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **194**  ($9,328,089 en total)
-- Resueltas: **166** — 90 ganadas / 76 perdidas (**54%** de acierto)
-- Pendientes: 28
+- Apuestas registradas: **195**  ($9,354,489 en total)
+- Resueltas: **168** — 91 ganadas / 77 perdidas (**54%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 70
 
 ### Balance
 
-- **Resultado de los apostadores: -$214,318** sobre $7,818,234 apostados (ROI **-2.7%**)
-- Copiando $100 fijo en cada una: **-$1,870** sobre $16,200 (ROI **-11.5%**)
+- **Resultado de los apostadores: -$205,742** sobre $7,872,293 apostados (ROI **-2.6%**)
+- Copiando $100 fijo en cada una: **-$1,843** sobre $16,400 (ROI **-11.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,9 +33,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
+| Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
-| Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
-| pleaseplease123 | 0 | 1 | 3 | ⚠️ 0% (1) | $185,652 | -$99,433 |
+| pleaseplease123 | 1 | 2 | 1 | ⚠️ 33% (3) | $185,652 | -$90,857 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 70 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Washington Nationals vs. New York Mets: O/U 8.5 | Over 8.5 | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
 | highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | — | ⏳ Pendiente |
@@ -96,10 +97,10 @@ _(mostrando los 40 de mayor monto, de 70 en total)_
 | ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | jtwyslljy | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $37,368 | -$37,368 | ❌ Perdida |
 | Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
-| pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | +$35,076 | ✅ Ganada |
 | sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | -$58,856 | ❌ Perdida |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $33,229 | -$33,229 | ❌ Perdida |
-| pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | +$7,762 | ✅ Ganada |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 70 en total)_
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $82,637 | -$82,637 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Kansas City Royals vs. Los Angeles Angels | Los Angeles Angels | 1.96 (51¢) | $33,291 | -$33,291 | ❌ Perdida |
 | texaskid | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $30,307 | -$30,307 | ❌ Perdida |
-| TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
