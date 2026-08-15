@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:20:00 (hora de Perú)
+Actualizado: 2026-08-14 21:22:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,708.09
@@ -16,21 +16,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 23 | +244.03 USD |
+| CORGI8 | 16 | 7 | 26 | +244.03 USD |
 | 1winstreak1 | 51 | 33 | 11 | +231.25 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 11 | +33.42 USD |
-| wr0ngw4yb3tt0r | 14 | 13 | 6 | +18.23 USD |
-| RN1 | 4 | 1 | 48 | +1.80 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 12 | +33.42 USD |
+| wr0ngw4yb3tt0r | 14 | 13 | 8 | +18.23 USD |
+| RN1 | 4 | 1 | 51 | +1.80 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| 111111111115 | 0 | 0 | 9 | +0.00 USD |
+| 111111111115 | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 3 | -39.04 USD |
+| IMAREALPERSON | 4 | 4 | 4 | -39.04 USD |
 | Sassy-Bucket | 1 | 9 | 11 | -81.82 USD |
 
 ## Análisis general
@@ -78,6 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bal-tb-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-sd-cle-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-ari-atl-2026-08-14 | 1winstreak1, RN1 |
+| mlb-kc-laa-2026-08-14 | RN1, wr0ngw4yb3tt0r |
 | mlb-col-sf-2026-08-14-total-7pt5 | RN1, Sassy-Bucket, wr0ngw4yb3tt0r |
 | dota2-og-huliga-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
 | dota2-lgd-xtreme-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8, IMAREALPERSON |
@@ -87,6 +88,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 11.1% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 23.5% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 58% | 10.00 | 4.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | LGD Gaming (BUY) | 41% | 10.00 | 14.4% | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 61% | 10.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | San Francisco Giants (BUY) | 56% | 10.00 | 0.2% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 42% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 61% | 10.00 | 13.1% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 60% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -105,15 +118,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 55% | 10.00 | 7.0% | ⏳ pendiente | — |
 | RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 64% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 54% | 10.00 | 5.6% | ⏳ pendiente | — |
-| RN1 | Spread: Baltimore Orioles (-1.5) | Tampa Bay Rays (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 55% | 10.00 | 1.4% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: OG vs HULIGANI - Game 1 Winner | HULIGANI (BUY) | 44% | 10.00 | 18.4% | ⏳ pendiente | — |
-| RN1 | Spread: Baltimore Orioles (-1.5) | Tampa Bay Rays (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: OG vs HULIGANI - Game 1 Winner | HULIGANI (BUY) | 44% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 54% | 10.00 | 2.9% | ⏳ pendiente | — |
-| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: OG vs HULIGANI - Game 1 Winner | OG (BUY) | 56% | 10.00 | 95.2% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: OG vs HULIGANI - Game 1 Winner | HULIGANI (BUY) | 44% | 10.00 | 483.8% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: OG vs HULIGANI - Game 1 Winner | OG (BUY) | 57% | 10.00 | 2.9% | ⏳ pendiente | — |
-| RN1 | Spread: Baltimore Orioles (-1.5) | Tampa Bay Rays (BUY) | 27% | 10.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 37% | 10.00 | 0.5% | ⏳ pendiente | — |
