@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 16:43:37 (hora de Perú)
+Actualizado: 2026-08-15 16:45:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,026.33
@@ -101,7 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 6.8% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 15% | 10.00 | 3.6% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 20.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.5% | ❌ perdida | -10.00 |
