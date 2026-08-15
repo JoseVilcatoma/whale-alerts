@@ -4256,5 +4256,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786805523.427046,
     "fills": 1
+  },
+  {
+    "timestamp": 1786806282,
+    "timestamp_added": 1786806283.3768146,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sk-fnc-2026-08-15-game1",
+    "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "whale_usd": 5806.018300000001,
+    "whale_pct": 5.209,
+    "whale_value_at_open": 111469.337,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786806392.0051267,
+    "fills": 5
+  },
+  {
+    "timestamp": 1786806391,
+    "timestamp_added": 1786806391.560478,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-sk-fnc-2026-08-15-game1",
+    "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 3297.1814999999997,
+    "whale_pct": 14.169,
+    "whale_value_at_open": 23270.3379,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786806391.5604885,
+    "fills": 1
   }
 ]

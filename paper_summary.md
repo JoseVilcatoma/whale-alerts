@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:04:35 (hora de Perú)
+Actualizado: 2026-08-15 10:06:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,064.51
@@ -17,10 +17,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 6 | 2 | 5 | +40.45 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 3 | 3 | +39.74 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 3 | 4 | +39.74 USD |
 | CORGI8 | 4 | 4 | 6 | +21.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 6 | 4 | +16.38 USD |
-| g42gh6524h5h5 | 3 | 1 | 3 | +13.54 USD |
+| g42gh6524h5h5 | 3 | 1 | 4 | +13.54 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
@@ -91,11 +91,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-stl-chc-2026-08-15-total-9pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 | cs2-mgc-3dmax-2026-08-15 | 111111111115, CORGI8 |
+| lol-sk-fnc-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 1 Winner | Fnatic (BUY) | 52% | 10.00 | 14.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 1 Winner | SK Gaming (BUY) | 50% | 10.00 | 5.2% | ⏳ pendiente | — |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 4.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 98% | 10.00 | 7.6% | 💰 vendida anticipada | +0.10 |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Team Yandex (BUY) | 51% | 10.00 | 40.7% | ⏳ pendiente | — |
@@ -124,5 +127,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 458.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 76% | 10.00 | 12.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 3.3% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 9.6% | ⏳ pendiente | — |
