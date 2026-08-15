@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 16:21:14 (hora de Perú)
+Actualizado: 2026-08-15 16:23:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,045.31
-**Retorno acumulado:** +4.53%
+**Bankroll actual:** $1,064.89
+**Retorno acumulado:** +6.49%
 **Peor caída desde un máximo (drawdown):** 7.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,8 +18,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 3 | 1 | +53.00 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
+| 1winstreak1 | 4 | 1 | 4 | +28.96 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
-| 1winstreak1 | 3 | 1 | 5 | +12.64 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 5 | 3 | 3 | +6.90 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -27,20 +27,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
+| wr0ngw4yb3tt0r | 5 | 6 | 10 | -3.23 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
-| wr0ngw4yb3tt0r | 4 | 5 | 12 | -6.49 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 161
-- **Aciertos:** 88 (54.7%)
-- **Cuota promedio de entrada:** 52.9%
+- **Apuestas resueltas:** 164
+- **Aciertos:** 90 (54.9%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,610.00
-- **ROI sobre lo apostado:** +0.41%
+- **Total apostado (suma de stakes):** $1,640.00
+- **ROI sobre lo apostado:** +1.59%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,9 +49,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 1 | 0.0% | 15.0% | -15.0 pp |
-| 20-39% | 26 | 26.9% | 32.9% | -6.0 pp |
-| 40-59% | 88 | 50.0% | 49.1% | +0.9 pp |
-| 60-79% | 35 | 74.3% | 68.2% | +6.1 pp |
+| 20-39% | 27 | 29.6% | 33.1% | -3.4 pp |
+| 40-59% | 89 | 50.6% | 49.0% | +1.6 pp |
+| 60-79% | 36 | 72.2% | 68.0% | +4.2 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
@@ -105,14 +105,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Detroit Tigers (BUY) | 51% | 10.00 | 10.3% | ✅ ganada | +9.61 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ✅ ganada | +13.26 |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ⏳ pendiente | — |
-| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ✅ ganada | +16.32 |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ✅ ganada | +11.74 |
