@@ -3930,5 +3930,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786812468.1324067,
     "fills": 1
+  },
+  {
+    "timestamp": 1786812776,
+    "timestamp_added": 1786812776.7308464,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crint-irl-afg-2026-08-15",
+    "title": "Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan",
+    "outcome": "Afghanistan",
+    "side": "BUY",
+    "whale_usd": 1281.672,
+    "whale_pct": 7.736,
+    "whale_value_at_open": 16566.9225,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786812776.7308547,
+    "fills": 1
   }
 ]
