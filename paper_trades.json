@@ -1080,8 +1080,8 @@
     "whale_value_at_open": 212824.1016,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.67,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1148,8 +1148,8 @@
     "whale_value_at_open": 200788.5193,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -1220,8 +1220,8 @@
     "whale_value_at_open": 114189.3655,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "ferrariChampions2026"
@@ -1297,6 +1297,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786786322.8945951,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786786536,
+    "timestamp_added": 1786786536.3861501,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-hol-gam-2026-08-15-total-1pt5",
+    "title": "FC Mito Holly Hock vs. Gamba \u014csaka: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1378.411,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 274305.3948,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786786536.3861582,
     "fills": 1
   }
 ]
