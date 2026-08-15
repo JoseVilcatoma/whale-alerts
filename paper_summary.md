@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:35:34 (hora de Perú)
+Actualizado: 2026-08-14 19:37:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,460.04
-**Retorno acumulado:** +46.00%
+**Bankroll actual:** $1,486.76
+**Retorno acumulado:** +48.68%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 17 | +244.03 USD |
+| CORGI8 | 16 | 7 | 18 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
+| wr0ngw4yb3tt0r | 14 | 8 | 9 | +68.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 12 | 12 | 40 | -30.94 USD |
+| 1winstreak1 | 15 | 12 | 38 | -15.19 USD |
+| SDTrading | 0 | 3 | 4 | -30.00 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 219
-- **Aciertos:** 135 (61.6%)
-- **Cuota promedio de entrada:** 53.4%
+- **Apuestas resueltas:** 225
+- **Aciertos:** 140 (62.2%)
+- **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,188.66
-- **ROI sobre lo apostado:** +20.97%
+- **Total apostado (suma de stakes):** $2,248.66
+- **ROI sobre lo apostado:** +21.60%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,9 +47,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 6 | 0.0% | 13.5% | -13.5 pp |
 | 20-39% | 39 | 51.3% | 29.7% | +21.6 pp |
-| 40-59% | 89 | 52.8% | 48.0% | +4.8 pp |
-| 60-79% | 62 | 75.8% | 66.9% | +9.0 pp |
-| 80-94% | 21 | 90.5% | 88.2% | +2.3 pp |
+| 40-59% | 93 | 53.8% | 48.0% | +5.7 pp |
+| 60-79% | 63 | 76.2% | 67.0% | +9.1 pp |
+| 80-94% | 22 | 90.9% | 88.4% | +2.5 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 95.0% | +5.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -72,6 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 27% | 10.00 | 0.4% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 22% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 7% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -97,8 +99,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 57% | 10.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates | Boston Red Sox (BUY) | 19% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 92% | 10.00 | 4.3% | ⏳ pendiente | — |
-| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 79% | 10.00 | 4.8% | ⏳ pendiente | — |
+| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 92% | 10.00 | 4.3% | ✅ ganada | +0.87 |
+| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 79% | 10.00 | 4.8% | ✅ ganada | +2.66 |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Cleveland Guardians (-2.5) | San Diego Padres (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |

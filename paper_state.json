@@ -1,5 +1,5 @@
 {
-  "bankroll": 1460.0409556287314,
+  "bankroll": 1486.7608705819978,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1100,6 +1100,36 @@
       "timestamp": 1786753684.1210768,
       "bankroll": 1460.04,
       "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 5.5"
+    },
+    {
+      "timestamp": 1786754246.2363646,
+      "bankroll": 1469.27,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1786754247.8024545,
+      "bankroll": 1459.27,
+      "event": "lost: SDTrading \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786754247.9026525,
+      "bankroll": 1471.01,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786754250.5825572,
+      "bankroll": 1483.23,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786754253.7921789,
+      "bankroll": 1485.89,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1786754254.0695605,
+      "bankroll": 1486.76,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 6.5"
     }
   ]
 }
