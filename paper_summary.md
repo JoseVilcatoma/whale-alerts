@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:58:09 (hora de Perú)
+Actualizado: 2026-08-15 08:00:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,051.76
-**Retorno acumulado:** +5.18%
+**Bankroll actual:** $1,064.01
+**Retorno acumulado:** +6.40%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,9 +16,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 111111111115 | 5 | 2 | 3 | +32.59 USD |
 | CORGI8 | 3 | 2 | 5 | +31.20 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 2 | 5 | +28.33 USD |
-| 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 1 | 0 | 5 | +9.23 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 21 | 18 | 31 | -29.58 USD |
+| ferrariChampions2026 | 22 | 18 | 30 | -24.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 78
-- **Aciertos:** 43 (55.1%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 80
+- **Aciertos:** 45 (56.2%)
+- **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $780.00
-- **ROI sobre lo apostado:** +3.83%
+- **Total apostado (suma de stakes):** $800.00
+- **ROI sobre lo apostado:** +5.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,8 +48,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 15 | 40.0% | 31.9% | +8.1 pp |
-| 40-59% | 39 | 48.7% | 48.6% | +0.1 pp |
-| 60-79% | 16 | 62.5% | 67.9% | -5.4 pp |
+| 40-59% | 40 | 50.0% | 48.8% | +1.2 pp |
+| 60-79% | 17 | 64.7% | 67.9% | -3.2 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)

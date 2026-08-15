@@ -1656,8 +1656,8 @@
     "whale_value_at_open": 326953.9028,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1954,8 +1954,8 @@
     "whale_value_at_open": 294828.1185,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.71,
     "overlaps_with": [
       "111111111115"
     ],
@@ -2204,8 +2204,8 @@
     "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
     "outcome": "TheMongolz",
     "side": "BUY",
-    "whale_usd": 10165.974000000002,
-    "whale_pct": 21.998,
+    "whale_usd": 12910.372000000003,
+    "whale_pct": 27.937,
     "whale_value_at_open": 46212.1815,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -2214,8 +2214,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791346.256803,
-    "fills": 1
+    "last_fill_at": 1786798708.4598472,
+    "fills": 2
   },
   {
     "timestamp": 1786791356,
