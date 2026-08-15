@@ -2856,5 +2856,20 @@
     "status": "pending",
     "ultimo_fill": 1786822058,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 372,
+    "timestamp": 1786822190,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-djokovi-tirante-2026-08-15",
+    "title": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "usd": 94749.04800000001,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1786822205,
+    "fills": 2
   }
 ]
