@@ -1,5 +1,5 @@
 {
-  "bankroll": 1918.2380013923605,
+  "bankroll": 1908.2380013923605,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1690,6 +1690,11 @@
       "timestamp": 1786763892.2056463,
       "bankroll": 1918.24,
       "event": "won: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786764708.2715454,
+      "bankroll": 1908.24,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 9.5"
     }
   ]
 }

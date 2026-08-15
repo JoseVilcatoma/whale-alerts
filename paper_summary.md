@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:30:57 (hora de Perú)
+Actualizado: 2026-08-14 22:33:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,918.24
-**Retorno acumulado:** +91.82%
+**Bankroll actual:** $1,908.24
+**Retorno acumulado:** +90.82%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 20 | 5 | 62 | +71.75 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 21 | +33.42 USD |
-| wr0ngw4yb3tt0r | 15 | 14 | 15 | +20.45 USD |
+| wr0ngw4yb3tt0r | 15 | 15 | 14 | +10.45 USD |
 | Sassy-Bucket | 10 | 9 | 2 | +8.18 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 337
-- **Aciertos:** 216 (64.1%)
+- **Apuestas resueltas:** 338
+- **Aciertos:** 216 (63.9%)
 - **Cuota promedio de entrada:** 52.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,368.66
-- **ROI sobre lo apostado:** +27.23%
+- **Total apostado (suma de stakes):** $3,378.66
+- **ROI sobre lo apostado:** +26.85%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -50,7 +50,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 16 | 12.5% | 16.0% | -3.5 pp |
 | 20-39% | 58 | 48.3% | 30.6% | +17.7 pp |
-| 40-59% | 146 | 62.3% | 47.9% | +14.4 pp |
+| 40-59% | 147 | 61.9% | 48.0% | +13.9 pp |
 | 60-79% | 79 | 75.9% | 67.1% | +8.8 pp |
 | 80-94% | 30 | 90.0% | 87.4% | +2.6 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 96.2% | +3.8 pp |
