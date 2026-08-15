@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 19:04:46 (hora de Perú)
+Actualizado: 2026-08-14 19:06:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **132**  ($6,501,400 en total)
+- Apuestas registradas: **133**  ($6,535,128 en total)
 - Resueltas: **122** — 73 ganadas / 49 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 49
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 16 | 7 | 2 | 70% | $1,610,404 | +$390,978 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 5 | ⚠️ 83% (6) | $518,930 | +$249,609 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 6 | ⚠️ 83% (6) | $552,659 | +$249,609 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $28,529 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | +$68,411 | ✅ Ganada |
 | 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $27,024 | +$12,717 | ✅ Ganada |
-| Weaseloftheweek | Philadelphia Phillies vs. Minnesota Twins | Minnesota Twins | 1.96 (51¢) | $78,606 | -$78,606 | ❌ Perdida |
