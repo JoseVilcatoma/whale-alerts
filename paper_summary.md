@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:39:45 (hora de Perú)
+Actualizado: 2026-08-15 09:41:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,068.04
-**Retorno acumulado:** +6.80%
+**Bankroll actual:** $1,077.27
+**Retorno acumulado:** +7.73%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,8 +20,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 3 | 3 | +39.74 USD |
 | CORGI8 | 4 | 3 | 7 | +31.20 USD |
 | g42gh6524h5h5 | 3 | 0 | 4 | +23.54 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 7 | 5 | 6 | +15.55 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 6 | 5 | 7 | +6.32 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 8 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 101
-- **Aciertos:** 56 (55.4%)
+- **Apuestas resueltas:** 102
+- **Aciertos:** 57 (55.9%)
 - **Cuota promedio de entrada:** 52.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,010.00
-- **ROI sobre lo apostado:** +3.83%
+- **Total apostado (suma de stakes):** $1,020.00
+- **ROI sobre lo apostado:** +4.69%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 19 | 31.6% | 32.9% | -1.4 pp |
-| 40-59% | 53 | 52.8% | 48.9% | +3.9 pp |
+| 40-59% | 54 | 53.7% | 49.0% | +4.7 pp |
 | 60-79% | 21 | 66.7% | 67.4% | -0.7 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
