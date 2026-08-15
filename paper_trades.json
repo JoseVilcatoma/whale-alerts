@@ -3874,8 +3874,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 31071.620899999994,
-    "whale_pct": 28.864,
+    "whale_usd": 32696.633299999994,
+    "whale_pct": 30.373,
     "whale_value_at_open": 107649.4285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -3884,8 +3884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786816387.5781727,
-    "fills": 3
+    "last_fill_at": 1786818584.4097772,
+    "fills": 4
   },
   {
     "timestamp": 1786812416,
@@ -4094,8 +4094,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Browns",
     "side": "BUY",
-    "whale_usd": 27702.9869,
-    "whale_pct": 16.924,
+    "whale_usd": 31839.6299,
+    "whale_pct": 19.451,
     "whale_value_at_open": 163694.3083,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -4104,8 +4104,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786814953.700198,
-    "fills": 3
+    "last_fill_at": 1786818660.3146505,
+    "fills": 4
   },
   {
     "timestamp": 1786814957,
@@ -4646,6 +4646,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786818360.273446,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786818641,
+    "timestamp_added": 1786818642.1966407,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-det-2026-08-15-total-9pt5",
+    "title": "Chicago White Sox vs. Detroit Tigers: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1170.0,
+    "whale_pct": 0.516,
+    "whale_value_at_open": 226572.4785,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786818642.1966481,
     "fills": 1
   }
 ]
