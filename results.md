@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 15:39:32 (hora de Perú)
+Actualizado: 2026-08-15 15:41:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **201**  ($9,557,368 en total)
-- Resueltas: **168** — 91 ganadas / 77 perdidas (**54%** de acierto)
+- Apuestas registradas: **203**  ($9,615,904 en total)
+- Resueltas: **170** — 93 ganadas / 77 perdidas (**55%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 72
 
 ### Balance
 
-- **Resultado de los apostadores: -$205,742** sobre $7,872,293 apostados (ROI **-2.6%**)
-- Copiando $100 fijo en cada una: **-$1,843** sobre $16,400 (ROI **-11.2%**)
+- **Resultado de los apostadores: -$192,840** sobre $7,942,530 apostados (ROI **-2.4%**)
+- Copiando $100 fijo en cada una: **-$1,806** sobre $16,600 (ROI **-10.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 2 | 67% | $2,011,755 | +$480,279 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 21 | 10 | 2 | 68% | $2,043,324 | +$487,181 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 3 | 50% | $802,440 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -41,10 +41,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 1 | ⚠️ 100% (4) | $148,998 | +$73,861 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
+| ferrariChampions2026 | 2 | 1 | 1 | ⚠️ 67% (3) | $137,969 | -$46,023 |
 | highnetworth | 1 | 0 | 1 | ⚠️ 100% (1) | $131,509 | +$91,821 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
-| ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | Winnnnnnning | 0 | 0 | 2 | — | $90,271 | — |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | Dragua9 | 0 | 1 | 1 | ⚠️ 0% (1) | $59,881 | -$29,281 |
 | Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
-| ExplosiveNinja | 1 | 0 | 1 | ⚠️ 100% (1) | $59,200 | +$19,800 |
+| ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 72 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | — | ⏳ Pendiente |
 | xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | — | ⏳ Pendiente |
 | sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
@@ -99,8 +101,8 @@ _(mostrando los 40 de mayor monto, de 72 en total)_
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $34,220 | -$34,220 | ❌ Perdida |
 | Dragua9 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $29,281 | -$29,281 | ❌ Perdida |
 | Daemon99 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.19 (84¢) | $36,237 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.19 (84¢) | $36,237 | +$6,902 | ✅ Ganada |
+| ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | jtwyslljy | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $37,368 | -$37,368 | ❌ Perdida |
 | Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | +$35,076 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 72 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: OG vs HULIGANI (BO3) - The International Group Stage | OG | 1.79 (56¢) | $112,000 | +$88,000 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $46,666 | +$31,110 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 1.92 (52¢) | $28,522 | -$28,522 | ❌ Perdida |

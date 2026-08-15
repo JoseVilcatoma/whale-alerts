@@ -2581,7 +2581,7 @@
     "side": "BUY",
     "usd": 34000.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786812467,
     "fills": 1
   },
@@ -2596,7 +2596,7 @@
     "side": "BUY",
     "usd": 36236.9196,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786812571,
     "fills": 1
   },
@@ -3020,6 +3020,36 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1786826027,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 398,
+    "timestamp": 1786826263,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-bellucc-mensik-2026-08-15",
+    "title": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "usd": 31569.65230644,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1786826263,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 399,
+    "timestamp": 1786826256,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-big5-ts7-2026-08-15",
+    "title": "Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 26966.3808,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1786826256,
     "fills": 1
   }
 ]
