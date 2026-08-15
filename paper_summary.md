@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:47:26 (hora de Perú)
+Actualizado: 2026-08-15 17:49:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $969.07
-**Retorno acumulado:** -3.09%
+**Bankroll actual:** $974.07
+**Retorno acumulado:** -2.59%
 **Peor caída desde un máximo (drawdown):** 13.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -26,22 +26,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
+| wr0ngw4yb3tt0r | 6 | 8 | 9 | -8.23 USD |
 | Sassy-Bucket | 0 | 1 | 1 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 1winstreak1 | 4 | 5 | 1 | -11.04 USD |
-| wr0ngw4yb3tt0r | 5 | 7 | 11 | -13.23 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 177
-- **Aciertos:** 92 (52.0%)
-- **Cuota promedio de entrada:** 52.0%
+- **Apuestas resueltas:** 179
+- **Aciertos:** 93 (52.0%)
+- **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,770.00
-- **ROI sobre lo apostado:** -4.09%
+- **Total apostado (suma de stakes):** $1,790.00
+- **ROI sobre lo apostado:** -3.77%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,8 +51,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 15.0% | -15.0 pp |
 | 20-39% | 32 | 25.0% | 32.5% | -7.5 pp |
-| 40-59% | 95 | 48.4% | 49.1% | -0.6 pp |
-| 60-79% | 37 | 73.0% | 68.0% | +5.0 pp |
+| 40-59% | 96 | 49.0% | 49.0% | -0.0 pp |
+| 60-79% | 38 | 71.1% | 67.8% | +3.3 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
