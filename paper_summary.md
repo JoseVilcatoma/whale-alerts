@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 15:35:41 (hora de Perú)
+Actualizado: 2026-08-15 15:37:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,017.95
-**Retorno acumulado:** +1.79%
-**Peor caída desde un máximo (drawdown):** 8.88%
+**Bankroll actual:** $1,007.95
+**Retorno acumulado:** +0.79%
+**Peor caída desde un máximo (drawdown):** 9.78%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 3 | 3 | +53.00 USD |
-| 111111111115 | 7 | 2 | 2 | +45.83 USD |
+| 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 4 | 3 | 5 | +2.41 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 162
-- **Aciertos:** 87 (53.7%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 163
+- **Aciertos:** 87 (53.4%)
+- **Cuota promedio de entrada:** 52.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,620.00
-- **ROI sobre lo apostado:** -1.28%
+- **Total apostado (suma de stakes):** $1,630.00
+- **ROI sobre lo apostado:** -1.89%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,7 +49,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 1 | 0.0% | 17.0% | -17.0 pp |
+| 1-19% (bomba) | 2 | 0.0% | 16.0% | -16.0 pp |
 | 20-39% | 27 | 25.9% | 32.8% | -6.9 pp |
 | 40-59% | 89 | 49.4% | 49.2% | +0.2 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
