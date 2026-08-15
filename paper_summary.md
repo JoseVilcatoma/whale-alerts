@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:23:02 (hora de Perú)
+Actualizado: 2026-08-14 19:25:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -18,16 +18,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 17 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 4 | +106.44 USD |
+| midwicket72 | 26 | 3 | 5 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 33 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 36 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
+| IMAREALPERSON | 4 | 4 | 1 | -39.04 USD |
 | Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
 
 ## Análisis general
@@ -71,6 +71,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Valorant: Cloud9 vs Fluxo W7M - Map 1 Wi | Fluxo W7M (BUY) | 40% | 10.00 | 22.9% | ⏳ pendiente | — |
+| 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 33% | 10.00 | 1.7% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 91% | 10.00 | 6.9% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 38% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 8% | 10.00 | 10.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 14% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -96,8 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 14% | 10.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 41% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 50% | 10.00 | 12.2% | ⏳ pendiente | — |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 19% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 37% | 10.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
