@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:10:41 (hora de Perú)
+Actualizado: 2026-08-15 08:12:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,057.90
@@ -91,9 +91,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 72% | 10.00 | 7.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 74% | 10.00 | 27.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 13.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 72% | 10.00 | 24.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 74% | 10.00 | 29.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 16.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 53% | 10.00 | 1.3% | ⏳ pendiente | — |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
