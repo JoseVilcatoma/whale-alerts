@@ -4039,5 +4039,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786802275.998279,
     "fills": 1
+  },
+  {
+    "timestamp": 1786803007,
+    "timestamp_added": 1786803007.4776394,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-isl-ian1-2026-08-15",
+    "title": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+    "outcome": "Ian Machado Garry",
+    "side": "BUY",
+    "whale_usd": 13755.568928,
+    "whale_pct": 15.924,
+    "whale_value_at_open": 86384.7438,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803007.4776478,
+    "fills": 1
   }
 ]
