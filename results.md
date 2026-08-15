@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:23:21 (hora de Perú)
+Actualizado: 2026-08-15 17:25:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **211**  ($9,975,610 en total)
+- Apuestas registradas: **212**  ($10,005,347 en total)
 - Resueltas: **180** — 99 ganadas / 81 perdidas (**55%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 74
+- Pendientes: 32
+- Apostadores distintos: 75
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 
-_(mostrando los 40 de mayor monto, de 74 en total)_
+_(mostrando los 40 de mayor monto, de 75 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 | TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
 | 0xB3f07213c02C1A899f039BF6DfA464f61D675C25-1779335154871 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 4.17 (24¢) | $29,069 | — | ⏳ Pendiente |
 | JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | +$2,998 | ✅ Ganada |
-| GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | +$10,800 | ✅ Ganada |
