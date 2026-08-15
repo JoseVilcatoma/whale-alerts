@@ -3603,8 +3603,8 @@
     "title": "LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 1146.47238,
-    "whale_pct": 2.273,
+    "whale_usd": 1655.96238,
+    "whale_pct": 3.283,
     "whale_value_at_open": 50436.3893,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 100,
@@ -3615,8 +3615,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786797085.8070643,
-    "fills": 1
+    "last_fill_at": 1786798299.6011481,
+    "fills": 2
   },
   {
     "timestamp": 1786797126,
