@@ -94,6 +94,10 @@ INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
 TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "30"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "10"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
+# Monto mínimo EN DÓLARES que debe tener la operación de la ballena para
+# considerarla una señal. Filtra los fragmentos de ejecución (fills de
+# centavos) que no representan una decisión, solo el motor casando órdenes.
+MIN_WHALE_USD = float(os.environ.get("MIN_WHALE_USD", "500"))
 SIZING_MODE = os.environ.get("SIZING_MODE", "FIJO").upper()   # FIJO o PORCENTAJE
 FIXED_STAKE_USD = float(os.environ.get("FIXED_STAKE_USD", "10"))
 MAX_SINGLE_POSITION_PCT = float(os.environ.get("MAX_SINGLE_POSITION_PCT", "25"))
@@ -736,6 +740,13 @@ def on_ws_message(ws, message):
     whale_value = get_portfolio_value(wallet)
     if not whale_value or whale_value <= 0:
         return
+    # Piso ABSOLUTO en dólares: una orden grande se ejecuta contra el libro y
+    # genera fragmentos minúsculos ($0,69, $3,31...). Sin este piso, el primer
+    # fragmento que llegue dispara una posición de papel completa — o sea,
+    # apostaríamos $10 copiando una migaja de $0,69.
+    if whale_usd < MIN_WHALE_USD:
+        return
+
     whale_pct = whale_usd / whale_value * 100
     if whale_pct < MIN_TRADE_PCT:
         return
@@ -777,9 +788,15 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, 
     now = time.time()
 
     with lock:
+        # UNA POSICIÓN POR APOSTADOR + MERCADO + RESULTADO, sin ventana de tiempo.
+        # Polymarket ejecuta una orden grande contra el libro y eso genera
+        # decenas de operaciones sueltas (vimos fills de $0,69 y $8.200 de la
+        # misma orden, repartidos en más de una hora). Cualquier ventana de
+        # tiempo deja fragmentos afuera; mientras la posición siga abierta,
+        # todo lo que la ballena ponga ahí es la MISMA señal.
         existente = next((tr for tr in trades if tr["status"] == "pending" and tr["wallet"] == wallet
-                           and tr["slug"] == slug and tr["outcome"] == outcome and tr.get("side") == "BUY"
-                           and now - tr.get("last_fill_at", tr["timestamp_added"]) < FILL_MERGE_WINDOW_SECONDS), None)
+                           and tr["slug"] == slug and tr["outcome"] == outcome
+                           and tr.get("side") == "BUY"), None)
         allocated = sum(tr["paper_stake_usd"] for tr in trades if tr["status"] == "pending")
 
     if existente:
