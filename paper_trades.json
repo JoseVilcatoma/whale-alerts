@@ -1641,15 +1641,16 @@
     "whale_value_at_open": 23851.5804,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 10.57,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786781284.8444479,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 72
   },
   {
     "timestamp": 1786781324,
@@ -1710,8 +1711,8 @@
     "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
     "outcome": "LNG Esports",
     "side": "BUY",
-    "whale_usd": 875.0,
-    "whale_pct": 3.451,
+    "whale_usd": 1386.3914,
+    "whale_pct": 5.469,
     "whale_value_at_open": 25352.0013,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 25,
@@ -1720,8 +1721,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781411.526713,
-    "fills": 1
+    "last_fill_at": 1786781977.2471225,
+    "fills": 2
   },
   {
     "timestamp": 1786781419,
@@ -1757,8 +1758,8 @@
     "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 9613.681,
-    "whale_pct": 3.647,
+    "whale_usd": 18798.0992,
+    "whale_pct": 7.132,
     "whale_value_at_open": 263589.6062,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -1769,8 +1770,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781902.1850367,
-    "fills": 7
+    "last_fill_at": 1786782015.3363144,
+    "fills": 12
   },
   {
     "timestamp": 1786781644,
@@ -1781,8 +1782,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 3202.8,
-    "whale_pct": 1.243,
+    "whale_usd": 7367.361812,
+    "whale_pct": 2.859,
     "whale_value_at_open": 257674.8339,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -1795,8 +1796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781644.7321012,
-    "fills": 1
+    "last_fill_at": 1786782073.0011961,
+    "fills": 5
   },
   {
     "timestamp": 1786781890,
