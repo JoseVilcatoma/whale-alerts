@@ -2356,7 +2356,7 @@
     "side": "BUY",
     "usd": 26000.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786797568,
     "fills": 1
   },
@@ -2853,7 +2853,7 @@
     "side": "BUY",
     "usd": 28000.000000000004,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786822058,
     "fills": 1
   },
@@ -2928,7 +2928,7 @@
     "side": "BUY",
     "usd": 26399.9956,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786824327,
     "fills": 1
   },
@@ -2973,7 +2973,7 @@
     "side": "BUY",
     "usd": 33599.9944,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786824328,
     "fills": 1
   },
@@ -3320,6 +3320,21 @@
     "odds_at_bet": 45,
     "status": "pending",
     "ultimo_fill": 1786835813,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 442,
+    "timestamp": 1786836349,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-mim-dcu-2026-08-15-mim",
+    "title": "Will CF Montr\u00e9al win on 2026-08-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 66527.31800000001,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1786836349,
     "fills": 1
   }
 ]
