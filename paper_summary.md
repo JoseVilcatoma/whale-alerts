@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:46:25 (hora de Perú)
+Actualizado: 2026-08-15 04:48:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,030.37
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 16.4% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 21.8% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 52% | 10.00 | 88.8% | ⏳ pendiente | — |
 | bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 49% | 10.00 | 0.6% | ⏳ pendiente | — |

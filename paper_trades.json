@@ -1484,8 +1484,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 11739.130433999999,
-    "whale_pct": 16.352,
+    "whale_usd": 15647.034833999998,
+    "whale_pct": 21.795,
     "whale_value_at_open": 71790.8048,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -1496,7 +1496,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786787177.673249,
-    "fills": 1
+    "last_fill_at": 1786787188.1361752,
+    "fills": 2
   }
 ]
