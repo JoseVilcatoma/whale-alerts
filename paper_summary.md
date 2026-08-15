@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:08:50 (hora de Perú)
+Actualizado: 2026-08-15 03:10:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,011.48
-**Retorno acumulado:** +1.15%
+**Bankroll actual:** $1,012.31
+**Retorno acumulado:** +1.23%
 **Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,25 +17,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
-| ferrariChampions2026 | 2 | 0 | 15 | +4.62 USD |
+| 111111111115 | 2 | 2 | 3 | +5.83 USD |
+| ferrariChampions2026 | 3 | 1 | 15 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 0 | 2 | +0.00 USD |
-| 111111111115 | 1 | 2 | 4 | -5.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 0 | 3 | +0.00 USD |
 | RN1 | 5 | 5 | 2 | -13.02 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 2 | 8 | -20.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 20
-- **Aciertos:** 11 (55.0%)
-- **Cuota promedio de entrada:** 56.0%
+- **Apuestas resueltas:** 24
+- **Aciertos:** 13 (54.2%)
+- **Cuota promedio de entrada:** 55.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $200.00
-- **ROI sobre lo apostado:** +5.74%
+- **Total apostado (suma de stakes):** $240.00
+- **ROI sobre lo apostado:** +5.13%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -44,7 +44,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 6 | 50.0% | 31.2% | +18.8 pp |
-| 40-59% | 4 | 25.0% | 47.5% | -22.5 pp |
+| 40-59% | 8 | 37.5% | 48.8% | -11.2 pp |
 | 60-79% | 7 | 57.1% | 68.6% | -11.4 pp |
 | 80-94% | 3 | 100.0% | 87.3% | +12.7 pp |
 
@@ -68,12 +68,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
-| dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8 |
+| dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 20% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 25% | 10.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 75% | 10.00 | 1.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 32.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 35% | 10.00 | 7.6% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | SK Gaming (BUY) | 51% | 10.00 | 10.7% | ⏳ pendiente | — |
@@ -101,6 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 50% | 10.00 | 6.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 60% | 10.00 | 34.8% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 51% | 10.00 | 13.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 47% | 10.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 51% | 10.00 | 11.8% | ⏳ pendiente | — |
-| RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Khumoun Sultanov (BUY) | 59% | 10.00 | 19.6% | ⏳ pendiente | — |

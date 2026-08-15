@@ -417,8 +417,8 @@
     "whale_value_at_open": 195572.8011,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -549,8 +549,8 @@
     "whale_value_at_open": 207917.2919,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.83,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -573,8 +573,8 @@
     "whale_value_at_open": 211377.9371,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "111111111115"
@@ -598,8 +598,8 @@
     "whale_value_at_open": 211377.9371,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "111111111115"
@@ -1674,6 +1674,78 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786781324.9122665,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786781365,
+    "timestamp_added": 1786781365.439744,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-vsn2-ts8-2026-08-15-game2",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 2777.055,
+    "whale_pct": 1.135,
+    "whale_value_at_open": 244682.5623,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781383.478239,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786781411,
+    "timestamp_added": 1786781411.526708,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-nip-lng-2026-08-15-game2",
+    "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
+    "outcome": "LNG Esports",
+    "side": "BUY",
+    "whale_usd": 875.0,
+    "whale_pct": 3.451,
+    "whale_value_at_open": 25352.0013,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 25,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781411.526713,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786781419,
+    "timestamp_added": 1786781419.2114067,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-vsn2-ts8-2026-08-15-game2",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 712.698,
+    "whale_pct": 0.289,
+    "whale_value_at_open": 246542.8307,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781419.2114124,
     "fills": 1
   }
 ]
