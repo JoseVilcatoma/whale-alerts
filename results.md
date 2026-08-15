@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:02:54 (hora de Perú)
+Actualizado: 2026-08-15 18:05:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **216**  ($10,148,874 en total)
+- Apuestas registradas: **217**  ($10,176,742 en total)
 - Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 76
 
 ### Balance
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
 | pleaseplease123 | 1 | 2 | 2 | ⚠️ 33% (3) | $211,152 | -$90,857 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
+| wr0ngw4yb3tt0r | 2 | 1 | 1 | ⚠️ 67% (3) | $179,704 | +$2,773 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
 | ferrariChampions2026 | 2 | 1 | 1 | ⚠️ 67% (3) | $137,969 | -$46,023 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $27,867 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | — | ⏳ Pendiente |
 | texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | -$31,902 | ❌ Perdida |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | -$30,796 | ❌ Perdida |
-| SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
