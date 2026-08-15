@@ -5196,5 +5196,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786836555.8296514,
     "fills": 2
+  },
+  {
+    "timestamp": 1786837031,
+    "timestamp_added": 1786837031.4476652,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sr-dig-2026-08-15",
+    "title": "LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "whale_usd": 1259.6847,
+    "whale_pct": 7.179,
+    "whale_value_at_open": 17546.6629,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786837133.0125184,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786837131,
+    "timestamp_added": 1786837132.3999636,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-la-wsh-2026-08-15-spread-home-6pt5",
+    "title": "Spread: Washington Mystics (-6.5)",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "whale_usd": 3951.48,
+    "whale_pct": 25.179,
+    "whale_value_at_open": 15693.3116,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786837133.0149248,
+    "fills": 2
   }
 ]
