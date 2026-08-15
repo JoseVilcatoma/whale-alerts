@@ -1,5 +1,5 @@
 {
-  "bankroll": 1058.102975986866,
+  "bankroll": 1064.514760164291,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -625,6 +625,21 @@
       "timestamp": 1786805708.2718894,
       "bankroll": 1058.1,
       "event": "lost: g42gh6524h5h5 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786806083.3790948,
+      "bankroll": 1048.1,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786806143.1132996,
+      "bankroll": 1056.97,
+      "event": "won: ferrariChampions2026 \u2014 Liaoning Tieren FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786806143.826876,
+      "bankroll": 1064.51,
+      "event": "won: ferrariChampions2026 \u2014 Will Liaoning Tieren FC win on 2026-08-15?"
     }
   ]
 }
