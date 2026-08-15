@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:44:25 (hora de Perú)
+Actualizado: 2026-08-15 04:46:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,030.37
@@ -17,11 +17,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 4 | 2 | 1 | +25.05 USD |
-| CORGI8 | 2 | 2 | 0 | +22.68 USD |
+| CORGI8 | 2 | 2 | 1 | +22.68 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
+| bigspending | 0 | 0 | 1 | +0.00 USD |
+| g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 4 | -2.50 USD |
 | ferrariChampions2026 | 6 | 5 | 10 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
@@ -61,17 +63,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
+| dota2-tr7-xtreme-2026-08-15-game1 | CORGI8, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 54% | 10.00 | 16.4% | ⏳ pendiente | — |
+| g42gh6524h5h5 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 52% | 10.00 | 88.8% | ⏳ pendiente | — |
+| bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 6.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 49% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Kashima Antlers (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-15? | Yes (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 69% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 55% | 10.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 85% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Mito Holly Hock vs. Gamba Ōsaka: O/U  | Over (BUY) | 85% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ✅ ganada | +9.23 |
@@ -93,6 +99,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ✅ ganada | +5.62 |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 1.9% | ✅ ganada | +10.83 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 19.3% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ❌ perdida | -10.00 |
