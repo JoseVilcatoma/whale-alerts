@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 11:46:38 (hora de Perú)
+Actualizado: 2026-08-15 11:48:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,046.49
@@ -16,13 +16,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 111111111115 | 7 | 2 | 1 | +45.83 USD |
+| 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 2 | +45.78 USD |
 | Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 5 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
@@ -90,6 +90,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Deportivo Alavés win on 2026-08-15? | Yes (BUY) | 40% | 10.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Browns vs. Bears | Bears (BUY) | 40% | 10.00 | 14.4% | ⏳ pendiente | — |
 | SDTrading | CAR vs. BUF: O/U 38.5 | Over (BUY) | 51% | 10.00 | 1.0% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 2 Winner | Fnatic (BUY) | 53% | 10.00 | 12.9% | ⏳ pendiente | — |
@@ -100,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. New York Mets:  | Under (BUY) | 52% | 10.00 | 40.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 235.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 255.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 76% | 10.00 | 12.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 2.3% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
@@ -118,5 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ✅ ganada | +10.83 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ❌ perdida | -10.00 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 8.8% | ❌ perdida | -10.00 |
