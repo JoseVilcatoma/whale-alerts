@@ -305,8 +305,8 @@
     "whale_value_at_open": 131491.2203,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 31,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -371,8 +371,8 @@
     "whale_value_at_open": 27872.6381,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.2,
     "overlaps_with": [
       "RN1"
     ],
