@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:38:49 (hora de Perú)
+Actualizado: 2026-08-15 12:40:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,049.99
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 48% | 10.00 | 23.8% | 💰 vendida anticipada | +2.08 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 52% | 10.00 | 12.6% | 💰 vendida anticipada | +5.00 |
 | wr0ngw4yb3tt0r | Browns vs. Bears | Browns (BUY) | 60% | 10.00 | 16.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 52% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-08-15? | No (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | CLE vs. CHI: O/U 38.5 | Under (BUY) | 57% | 10.00 | 0.4% | ⏳ pendiente | — |
