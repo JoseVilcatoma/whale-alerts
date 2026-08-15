@@ -2886,5 +2886,20 @@
     "status": "pending",
     "ultimo_fill": 1786822865,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 375,
+    "timestamp": 1786823714,
+    "username": "Winnnnnnning",
+    "wallet": "0x533c789d479d445186ff8ec132fa7a27541c2658",
+    "slug": "ufc-vic-tre3-2026-08-15",
+    "title": "UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims)",
+    "outcome": "Vicente Luque",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1786823714,
+    "fills": 1
   }
 ]
