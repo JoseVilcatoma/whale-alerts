@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 18:49:20 (hora de Perú)
+Actualizado: 2026-08-15 18:51:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $953.69
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| Sassy-Bucket | 1 | 1 | 0 | +0.83 USD |
+| Sassy-Bucket | 1 | 1 | 1 | +0.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
@@ -103,6 +103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
@@ -132,4 +133,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ✅ ganada | +13.26 |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ✅ ganada | +4.49 |
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ❌ perdida | -10.00 |
