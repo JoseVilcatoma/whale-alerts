@@ -2064,5 +2064,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786784837.7412093,
     "fills": 3
+  },
+  {
+    "timestamp": 1786784988,
+    "timestamp_added": 1786784989.627683,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-hle1-kt-2026-08-15",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 4384.3432999999995,
+    "whale_pct": 9.443,
+    "whale_value_at_open": 46427.1349,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786784989.6276882,
+    "fills": 1
   }
 ]

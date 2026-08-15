@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:09:12 (hora de Perú)
+Actualizado: 2026-08-15 04:11:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,052.77
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 0 | 2 | +40.01 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 0 | 3 | +40.01 USD |
 | CORGI8 | 2 | 1 | 6 | +32.68 USD |
 | 111111111115 | 3 | 2 | 2 | +15.44 USD |
 | ferrariChampions2026 | 4 | 2 | 18 | +5.45 USD |
@@ -71,11 +71,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026 |
 | lol-nip-lng-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 47% | 10.00 | 9.4% | ⏳ pendiente | — |
 | bigspending | Will Shimizu S-Pulse win on 2026-08-15? | No (BUY) | 58% | 10.00 | 21.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 34% | 10.00 | 2.7% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 49% | 10.00 | 22.1% | ⏳ pendiente | — |
@@ -105,4 +107,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 52% | 10.00 | 31.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 50% | 10.00 | 8.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 65% | 10.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Nigma Galaxy (BUY) | 76% | 10.00 | 4.2% | ⏳ pendiente | — |
