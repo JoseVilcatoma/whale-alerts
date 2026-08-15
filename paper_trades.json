@@ -4829,5 +4829,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786820890.6763592,
     "fills": 1
+  },
+  {
+    "timestamp": 1786821260,
+    "timestamp_added": 1786821261.3890162,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-jax-no-2026-08-15-total-35pt5",
+    "title": "JAX vs. NO: O/U 35.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 665.5500000000001,
+    "whale_pct": 0.239,
+    "whale_value_at_open": 278225.3639,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786821261.389025,
+    "fills": 1
   }
 ]

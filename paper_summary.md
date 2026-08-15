@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:12:47 (hora de Perú)
+Actualizado: 2026-08-15 14:14:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 21 | +7.54 USD |
+| wr0ngw4yb3tt0r | 1 | 0 | 22 | +7.54 USD |
 | 1winstreak1 | 1 | 0 | 8 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
@@ -97,6 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | JAX vs. NO: O/U 35.5 | Over (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Washington Mystic | Under (BUY) | 49% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 17% | 10.00 | 5.9% | ⏳ pendiente | — |
@@ -126,4 +127,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ⏳ pendiente | — |
 | TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Panthers vs. Bills | Bills (BUY) | 81% | 10.00 | 0.5% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 48% | 10.00 | 23.8% | 💰 vendida anticipada | +2.08 |
