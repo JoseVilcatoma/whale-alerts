@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:33:27 (hora de Perú)
+Actualizado: 2026-08-14 19:35:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,460.04
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 12 | 12 | 39 | -30.94 USD |
+| 1winstreak1 | 12 | 12 | 40 | -30.94 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -72,6 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 22% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 7% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 48% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -101,4 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | San Diego Padres (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 81% | 10.00 | 2.4% | ⏳ pendiente | — |
