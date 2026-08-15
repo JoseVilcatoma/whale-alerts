@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 13:07:59 (hora de Perú)
+Actualizado: 2026-08-15 13:09:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **178**  ($8,472,780 en total)
+- Apuestas registradas: **179**  ($8,502,554 en total)
 - Resueltas: **155** — 87 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 23
-- Apostadores distintos: 65
+- Pendientes: 24
+- Apostadores distintos: 66
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
 
-_(mostrando los 40 de mayor monto, de 65 en total)_
+_(mostrando los 40 de mayor monto, de 66 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | — | ⏳ Pendiente |
 | Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Deportivo Alavés win on 2026-08-15? | Yes | 2.44 (41¢) | $32,508 | — | ⏳ Pendiente |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $34,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 65 en total)_
 | g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | +$16,094 | ✅ Ganada |
 | Feromont | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Emiliana Arango vs Venus Williams | Emiliana Arango | 1.16 (86¢) | $39,763 | +$6,473 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | +$23,551 | ✅ Ganada |
