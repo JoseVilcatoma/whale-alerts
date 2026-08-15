@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 15:53:55 (hora de Perú)
+Actualizado: 2026-08-15 15:56:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **203**  ($9,615,904 en total)
+- Apuestas registradas: **204**  ($9,644,504 en total)
 - Resueltas: **170** — 93 ganadas / 77 perdidas (**55%** de acierto)
-- Pendientes: 33
-- Apostadores distintos: 72
+- Pendientes: 34
+- Apostadores distintos: 73
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 0 | ⚠️ 100% (1) | $40,000 | +$15,714 |
 
-_(mostrando los 40 de mayor monto, de 72 en total)_
+_(mostrando los 40 de mayor monto, de 73 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | — | ⏳ Pendiente |
 | xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 72 en total)_
 | S-Works | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $28,233 | +$18,822 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: OG vs HULIGANI (BO3) - The International Group Stage | OG | 1.79 (56¢) | $112,000 | +$88,000 | ✅ Ganada |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $30,000 | -$30,000 | ❌ Perdida |
