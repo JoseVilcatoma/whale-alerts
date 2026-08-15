@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 15:54:33 (hora de Perú)
+Actualizado: 2026-08-15 15:56:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,007.95
-**Retorno acumulado:** +0.79%
+**Bankroll actual:** $1,019.69
+**Retorno acumulado:** +1.97%
 **Peor caída desde un máximo (drawdown):** 9.78%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -28,20 +28,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
+| wr0ngw4yb3tt0r | 4 | 5 | 16 | -6.49 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | 1winstreak1 | 4 | 4 | 4 | -8.49 USD |
-| wr0ngw4yb3tt0r | 3 | 5 | 17 | -18.23 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 163
-- **Aciertos:** 87 (53.4%)
-- **Cuota promedio de entrada:** 52.6%
+- **Apuestas resueltas:** 164
+- **Aciertos:** 88 (53.7%)
+- **Cuota promedio de entrada:** 52.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,630.00
-- **ROI sobre lo apostado:** -1.89%
+- **Total apostado (suma de stakes):** $1,640.00
+- **ROI sobre lo apostado:** -1.16%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 16.0% | -16.0 pp |
 | 20-39% | 27 | 25.9% | 32.8% | -6.9 pp |
-| 40-59% | 89 | 49.4% | 49.2% | +0.2 pp |
+| 40-59% | 90 | 50.0% | 49.2% | +0.8 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -129,5 +129,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 59.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ✅ ganada | +11.74 |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
