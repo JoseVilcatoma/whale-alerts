@@ -1,5 +1,5 @@
 {
-  "bankroll": 974.0692571968439,
+  "bankroll": 964.0692571968439,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -980,6 +980,11 @@
       "timestamp": 1786834164.851457,
       "bankroll": 974.07,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Browns vs. Bears"
+    },
+    {
+      "timestamp": 1786834475.058332,
+      "bankroll": 964.07,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. San Francisco Giants"
     }
   ]
 }
