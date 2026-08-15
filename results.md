@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 13:34:35 (hora de Perú)
+Actualizado: 2026-08-15 13:36:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **181**  ($8,606,954 en total)
+- Apuestas registradas: **182**  ($8,632,154 en total)
 - Resueltas: **156** — 88 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 66
 
 ### Balance
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | CORGI8 | 0 | 2 | 1 | ⚠️ 0% (2) | $87,381 | -$55,480 |
 | Mylifeisover | 0 | 1 | 1 | ⚠️ 0% (1) | $82,641 | -$32,241 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
+| Feromont | 2 | 0 | 1 | ⚠️ 100% (2) | $76,000 | +$29,200 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | ChinesePro | 0 | 0 | 2 | — | $67,449 | — |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
@@ -56,7 +57,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 0 | 1 | — | $58,856 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
-| Feromont | 2 | 0 | 0 | ⚠️ 100% (2) | $50,800 | +$29,200 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | fireluo | 0 | 1 | 0 | ⚠️ 0% (1) | $46,407 | -$46,407 |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 66 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 66 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $30,080 | -$30,080 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Thanasi Kokkinakis | 1.82 (55¢) | $26,770 | -$26,770 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wolverhampton Wanderers FC win on 2026-08-14? | No | 2.27 (44¢) | $157,273 | +$200,166 | ✅ Ganada |
-| g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | +$16,094 | ✅ Ganada |
