@@ -20,13 +20,7 @@
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "g42gh6524h5h5",
     "added_at": 1786815768.323626,
-    "roi_pct": 605.11,
-    "short_term_pct": 100.0
-  },
-  "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
-    "username": "1winstreak1",
-    "added_at": 1786816714.6763847,
-    "roi_pct": 1530.26,
+    "roi_pct": 602.45,
     "short_term_pct": 100.0
   },
   "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
@@ -38,7 +32,7 @@
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "111111111115",
     "added_at": 1786820480.481123,
-    "roi_pct": 29668.73,
+    "roi_pct": 30258.1,
     "short_term_pct": 100.0
   },
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
@@ -50,13 +44,19 @@
   "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87": {
     "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
     "added_at": 1786822357.0282192,
-    "roi_pct": 476.95,
+    "roi_pct": 442.2,
     "short_term_pct": 100.0
   },
   "0x3eb095d871501a1d7a3cb086a22d174b52356a68": {
     "username": "predictionlegend",
     "added_at": 1786826109.885996,
-    "roi_pct": 660.27,
+    "roi_pct": 649.46,
+    "short_term_pct": 100.0
+  },
+  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
+    "username": "SDTrading",
+    "added_at": 1786827045.6145792,
+    "roi_pct": 363.96,
     "short_term_pct": 100.0
   }
 }
