@@ -10651,5 +10651,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786761748.441503,
     "fills": 1
+  },
+  {
+    "timestamp": 1786761854,
+    "timestamp_added": 1786761854.9313138,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kovacev-khachan-2026-08-13",
+    "title": "Cincinnati Open: Aleksandar Kovacevic vs Karen Khachanov",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "whale_usd": 165.60000000000002,
+    "whale_pct": 0.11,
+    "whale_value_at_open": 150134.9151,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761854.9313226,
+    "fills": 1
   }
 ]
