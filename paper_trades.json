@@ -3148,8 +3148,8 @@
     "title": "Dota 2: LGD Gaming vs Vici Gaming (BO3) - The International Group Stage",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 7207.924800000001,
-    "whale_pct": 11.48,
+    "whale_usd": 8570.329300000001,
+    "whale_pct": 13.65,
     "whale_value_at_open": 62788.3642,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -3158,8 +3158,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794539.4847953,
-    "fills": 3
+    "last_fill_at": 1786796131.57207,
+    "fills": 4
   },
   {
     "timestamp": 1786793324,
