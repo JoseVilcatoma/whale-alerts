@@ -1747,5 +1747,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786781419.2114124,
     "fills": 1
+  },
+  {
+    "timestamp": 1786781556,
+    "timestamp_added": 1786781557.0898864,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-nip-lng-2026-08-15-game2",
+    "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 1392.0732,
+    "whale_pct": 0.528,
+    "whale_value_at_open": 263589.6062,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781557.0898936,
+    "fills": 1
   }
 ]
