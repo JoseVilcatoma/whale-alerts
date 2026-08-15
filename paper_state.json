@@ -1,5 +1,5 @@
 {
-  "bankroll": 1036.490287008712,
+  "bankroll": 1049.7461009622002,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -745,6 +745,11 @@
       "timestamp": 1786813517.9404764,
       "bankroll": 1036.49,
       "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786814770.544525,
+      "bankroll": 1049.75,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage"
     }
   ]
 }
