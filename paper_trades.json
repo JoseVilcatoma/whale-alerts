@@ -1427,8 +1427,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 4316.998350999999,
-    "whale_pct": 14.015,
+    "whale_usd": 6696.384314999999,
+    "whale_pct": 21.739,
     "whale_value_at_open": 30803.7361,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -1439,8 +1439,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786779214.349295,
-    "fills": 3
+    "last_fill_at": 1786779772.9386196,
+    "fills": 5
   },
   {
     "timestamp": 1786778788,
@@ -1487,5 +1487,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786779708.173198,
     "fills": 2
+  },
+  {
+    "timestamp": 1786779825,
+    "timestamp_added": 1786779826.199773,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-boombo-aur1-2026-08-15-game2",
+    "title": "Dota 2: BoomBoys vs Aurora - Game 2 Winner",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 2249.037863,
+    "whale_pct": 3.002,
+    "whale_value_at_open": 74911.0597,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786779834.966726,
+    "fills": 3
   }
 ]
