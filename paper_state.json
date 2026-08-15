@@ -1,5 +1,5 @@
 {
-  "bankroll": 1052.7679962595266,
+  "bankroll": 1074.4857684747956,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -165,6 +165,26 @@
       "timestamp": 1786783515.026232,
       "bankroll": 1052.77,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786785187.7450671,
+      "bankroll": 1063.6,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786785188.8029993,
+      "bankroll": 1053.6,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786785188.9031417,
+      "bankroll": 1064.88,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786785189.0032802,
+      "bankroll": 1074.49,
+      "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs Team Liquid - Game 1 Winner"
     }
   ]
 }
