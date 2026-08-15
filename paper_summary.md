@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:15:10 (hora de Perú)
+Actualizado: 2026-08-15 03:17:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,012.31
@@ -76,10 +76,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 68% | 10.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 74% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 74% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 20% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 25% | 10.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 75% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 75% | 10.00 | 3.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 32.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 35% | 10.00 | 7.6% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | SK Gaming (BUY) | 51% | 10.00 | 10.7% | ⏳ pendiente | — |
