@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:50:14 (hora de Perú)
+Actualizado: 2026-08-14 19:52:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,472.70
@@ -23,6 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 14 | 8 | 9 | +68.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
+| TennisLove | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
 | 1winstreak1 | 17 | 14 | 50 | -30.99 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
@@ -72,6 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TennisLove | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 77% | 10.00 | 30.1% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 18% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -101,4 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 33% | 10.00 | 1.7% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 91% | 10.00 | 6.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 51% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
