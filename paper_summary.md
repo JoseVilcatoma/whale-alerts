@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:46:13 (hora de Perú)
+Actualizado: 2026-08-15 08:48:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,069.19
-**Retorno acumulado:** +6.92%
+**Bankroll actual:** $1,069.32
+**Retorno acumulado:** +6.93%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,11 +16,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 4 | 2 | 4 | +41.20 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 12 | 3 | 5 | +34.08 USD |
-| 111111111115 | 5 | 2 | 3 | +32.59 USD |
+| 111111111115 | 6 | 2 | 2 | +40.45 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 3 | 4 | +36.43 USD |
+| CORGI8 | 4 | 3 | 3 | +31.20 USD |
+| g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| g42gh6524h5h5 | 1 | 0 | 6 | +9.23 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 6 | +0.00 USD |
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 25 | 22 | 23 | -35.44 USD |
+| ferrariChampions2026 | 26 | 24 | 20 | -43.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 89
-- **Aciertos:** 50 (56.2%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 95
+- **Aciertos:** 53 (55.8%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $890.00
-- **ROI sobre lo apostado:** +5.11%
+- **Total apostado (suma de stakes):** $950.00
+- **ROI sobre lo apostado:** +4.55%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,8 +47,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 17 | 35.3% | 32.3% | +3.0 pp |
-| 40-59% | 44 | 52.3% | 48.7% | +3.6 pp |
+| 20-39% | 18 | 33.3% | 32.7% | +0.7 pp |
+| 40-59% | 49 | 53.1% | 48.8% | +4.3 pp |
 | 60-79% | 20 | 65.0% | 67.7% | -2.7 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 55% | 10.00 | 1.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 95% | 10.00 | 31.9% | 💰 vendida anticipada | +0.21 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 51% | 10.00 | 2.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 51% | 10.00 | 2.8% | 💰 vendida anticipada | +2.35 |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 67% | 10.00 | 47.0% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 53% | 10.00 | 29.5% | ⏳ pendiente | — |

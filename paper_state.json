@@ -1,5 +1,5 @@
 {
-  "bankroll": 1069.1874197079771,
+  "bankroll": 1069.3184523581913,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -520,6 +520,41 @@
       "timestamp": 1786801000.4472919,
       "bankroll": 1069.19,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786801624.3864808,
+      "bankroll": 1059.19,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786801625.0877287,
+      "bankroll": 1070.93,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786801687.2349634,
+      "bankroll": 1079.11,
+      "event": "won: g42gh6524h5h5 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786801687.3351185,
+      "bankroll": 1086.97,
+      "event": "won: 111111111115 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786801689.0052137,
+      "bankroll": 1076.97,
+      "event": "lost: CORGI8 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786801689.1053727,
+      "bankroll": 1066.97,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786801689.4219613,
+      "bankroll": 1069.32,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: BoomBoys vs Team Falcons (BO3) - The International Group Stage (+2.35 USD)"
     }
   ]
 }
