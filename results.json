@@ -2766,5 +2766,35 @@
     "status": "pending",
     "ultimo_fill": 1786820509,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 366,
+    "timestamp": 1786821522,
+    "username": "sainttroplay",
+    "wallet": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+    "slug": "lal-sev-ray-2026-08-15-sev",
+    "title": "Will Sevilla FC win on 2026-08-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 73025.6982,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1786821522,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 367,
+    "timestamp": 1786821522,
+    "username": "ChinesePro",
+    "wallet": "0x37e053beabee77acc15e641dfe8e395b2b2d024e",
+    "slug": "lal-sev-ray-2026-08-15-sev",
+    "title": "Will Sevilla FC win on 2026-08-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 63000.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1786821522,
+    "fills": 1
   }
 ]
