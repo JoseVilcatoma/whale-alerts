@@ -5020,8 +5020,8 @@
     "title": "LoL: Shopify Rebellion vs Dignitas - Game 2 Winner",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 1486.1687000000002,
-    "whale_pct": 7.138,
+    "whale_usd": 2396.7011,
+    "whale_pct": 11.511,
     "whale_value_at_open": 20821.3688,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -5030,8 +5030,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786833937.0810645,
-    "fills": 2
+    "last_fill_at": 1786834655.8085566,
+    "fills": 3
   },
   {
     "timestamp": 1786834238,
@@ -5055,6 +5055,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786834239.124408,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786834660,
+    "timestamp_added": 1786834660.7745645,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-sr-dig-2026-08-15-game2",
+    "title": "LoL: Shopify Rebellion vs Dignitas - Game 2 Winner",
+    "outcome": "Dignitas",
+    "side": "BUY",
+    "whale_usd": 815.4572,
+    "whale_pct": 3.395,
+    "whale_value_at_open": 24021.4968,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786834660.774573,
     "fills": 1
   }
 ]
