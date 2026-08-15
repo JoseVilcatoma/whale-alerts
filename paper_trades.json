@@ -434,8 +434,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming (BO3) - The International Group Stage",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 50999.99999699999,
-    "whale_pct": 22.807,
+    "whale_usd": 51896.23499699999,
+    "whale_pct": 23.208,
     "whale_value_at_open": 223614.5168,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -444,8 +444,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771800.0013342,
-    "fills": 5
+    "last_fill_at": 1786772278.4424486,
+    "fills": 6
   },
   {
     "timestamp": 1786769104,
