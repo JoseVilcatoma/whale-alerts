@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:16:49 (hora de Perú)
+Actualizado: 2026-08-14 19:18:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 21 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 26 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
@@ -71,6 +71,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 63% | 10.00 | 6.4% | ⏳ pendiente | — |
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 97% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 57% | 10.00 | 2.2% | ⏳ pendiente | — |
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
+| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates | Boston Red Sox (BUY) | 19% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 92% | 10.00 | 4.3% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 79% | 10.00 | 4.8% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -96,8 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 69% | 10.00 | 13.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | New York Yankees (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Buccaneers vs. Jets | Jets (BUY) | 84% | 10.00 | 4.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 40% | 10.00 | 0.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | New York Yankees (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 75% | 10.00 | 0.1% | ⏳ pendiente | — |
