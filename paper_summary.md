@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:29:18 (hora de Perú)
+Actualizado: 2026-08-15 14:31:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,062.51
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 22 | +7.54 USD |
+| wr0ngw4yb3tt0r | 1 | 0 | 24 | +7.54 USD |
 | g42gh6524h5h5 | 4 | 3 | 4 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 8 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -97,6 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 34% | 10.00 | 3.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Toronto Blue Jays (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 1 Win | Vivo Keyd Stars (BUY) | 42% | 10.00 | 2.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | JAX vs. NO: O/U 35.5 | Over (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Washington Mystic | Under (BUY) | 49% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -125,5 +127,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 45% | 10.00 | 4.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ⏳ pendiente | — |
-| TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ⏳ pendiente | — |
