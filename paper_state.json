@@ -1,5 +1,5 @@
 {
-  "bankroll": 1064.8853458454569,
+  "bankroll": 1026.3272520110183,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -895,6 +895,41 @@
       "timestamp": 1786828907.6807296,
       "bankroll": 1064.89,
       "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1786829214.3452165,
+      "bankroll": 1054.89,
+      "event": "lost: TeGeeLP \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786829214.4453645,
+      "bankroll": 1044.89,
+      "event": "lost: IMAREALPERSON \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786829214.8539999,
+      "bankroll": 1051.83,
+      "event": "won: IMAREALPERSON \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786829214.9541624,
+      "bankroll": 1041.83,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786829215.3332086,
+      "bankroll": 1031.83,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Shifters - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786829215.7856088,
+      "bankroll": 1021.83,
+      "event": "lost: IMAREALPERSON \u2014 LoL: G2 Esports vs Shifters - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786829215.8857849,
+      "bankroll": 1026.33,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: G2 Esports vs Shifters - Game 2 Winner"
     }
   ]
 }
