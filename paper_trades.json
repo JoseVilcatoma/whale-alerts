@@ -10761,5 +10761,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786762132.485374,
     "fills": 1
+  },
+  {
+    "timestamp": 1786762168,
+    "timestamp_added": 1786762168.8237946,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sea-hou-2026-08-14",
+    "title": "Seattle Mariners vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 82.57,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 16423.7409,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786762168.8238065,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786762226,
+    "timestamp_added": 1786762227.151775,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-col-sf-2026-08-14",
+    "title": "Colorado Rockies vs. San Francisco Giants",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 545.553,
+    "whale_pct": 0.316,
+    "whale_value_at_open": 172389.995,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786762227.1517897,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786762236,
+    "timestamp_added": 1786762236.8806329,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sea-hou-2026-08-14",
+    "title": "Seattle Mariners vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 72.762,
+    "whale_pct": 0.433,
+    "whale_value_at_open": 16802.4234,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786762236.8806443,
+    "fills": 1
   }
 ]
