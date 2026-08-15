@@ -1,5 +1,5 @@
 {
-  "bankroll": 1029.851089129544,
+  "bankroll": 1027.9497828886153,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -860,6 +860,26 @@
       "timestamp": 1786824259.8536744,
       "bankroll": 1029.85,
       "event": "lost: 1winstreak1 \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1786824316.2877612,
+      "bankroll": 1019.85,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786824316.4880238,
+      "bankroll": 1029.08,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786824318.1901011,
+      "bankroll": 1019.08,
+      "event": "lost: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786824318.5906823,
+      "bankroll": 1027.95,
+      "event": "won: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
     }
   ]
 }

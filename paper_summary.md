@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 15:04:25 (hora de Perú)
+Actualizado: 2026-08-15 15:06:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,029.85
-**Retorno acumulado:** +2.99%
-**Peor caída desde un máximo (drawdown):** 7.82%
+**Bankroll actual:** $1,027.95
+**Retorno acumulado:** +2.79%
+**Peor caída desde un máximo (drawdown):** 8.78%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -25,22 +25,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
-| 1winstreak1 | 3 | 3 | 4 | -7.36 USD |
-| wr0ngw4yb3tt0r | 2 | 3 | 20 | -7.46 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
+| wr0ngw4yb3tt0r | 3 | 4 | 18 | -8.23 USD |
+| 1winstreak1 | 4 | 4 | 2 | -8.49 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 157
-- **Aciertos:** 85 (54.1%)
-- **Cuota promedio de entrada:** 53.0%
+- **Apuestas resueltas:** 161
+- **Aciertos:** 87 (54.0%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,570.00
-- **ROI sobre lo apostado:** -0.57%
+- **Total apostado (suma de stakes):** $1,610.00
+- **ROI sobre lo apostado:** -0.67%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,8 +50,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 1 | 0.0% | 17.0% | -17.0 pp |
-| 20-39% | 26 | 26.9% | 32.6% | -5.7 pp |
-| 40-59% | 85 | 49.4% | 49.3% | +0.1 pp |
+| 20-39% | 27 | 25.9% | 32.8% | -6.9 pp |
+| 40-59% | 88 | 50.0% | 49.3% | +0.7 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -98,6 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiag | Thiago Agustin Tirante (BUY) | 66% | 10.00 | 22.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 2 Win | Vivo Keyd Stars (BUY) | 30% | 10.00 | 7.6% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 15.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Counter-Strike: BIG vs Spirit (BO3) - Es | Spirit (BUY) | 57% | 10.00 | 37.4% | ⏳ pendiente | — |
@@ -106,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 1 Win | Vivo Keyd Stars (BUY) | 42% | 10.00 | 2.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | JAX vs. NO: O/U 35.5 | Over (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Washington Mystic | Under (BUY) | 49% | 10.00 | 1.0% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 53% | 10.00 | 5.4% | ✅ ganada | +8.87 |
 | 1winstreak1 | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 17% | 10.00 | 5.9% | ❌ perdida | -10.00 |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 30% | 10.00 | 11.4% | ❌ perdida | -10.00 |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 58% | 10.00 | 6.4% | ❌ perdida | -10.00 |
@@ -116,7 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 121.9% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 121.9% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ⏳ pendiente | — |
@@ -127,4 +129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
