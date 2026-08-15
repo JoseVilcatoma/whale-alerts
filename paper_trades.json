@@ -4560,8 +4560,8 @@
     "title": "Chicago White Sox vs. Detroit Tigers",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 6859.469998999999,
-    "whale_pct": 109.487,
+    "whale_usd": 7635.940498999999,
+    "whale_pct": 121.88,
     "whale_value_at_open": 6265.107,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
@@ -4572,8 +4572,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818290.8007746,
-    "fills": 2
+    "last_fill_at": 1786822805.349731,
+    "fills": 3
   },
   {
     "timestamp": 1786818335,
@@ -4917,5 +4917,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786822251.835369,
     "fills": 3
+  },
+  {
+    "timestamp": 1786822856,
+    "timestamp_added": 1786822857.0307744,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "cs2-big5-ts7-2026-08-15",
+    "title": "Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 6859.8987,
+    "whale_pct": 37.355,
+    "whale_value_at_open": 18364.0725,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786822857.0307853,
+    "fills": 1
   }
 ]
