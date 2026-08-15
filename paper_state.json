@@ -1,5 +1,5 @@
 {
-  "bankroll": 1019.9080799340015,
+  "bankroll": 999.9080799340015,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -305,6 +305,16 @@
       "timestamp": 1786794674.7949688,
       "bankroll": 1019.91,
       "event": "won: ferrariChampions2026 \u2014 Will Shimizu S-Pulse vs. Yokohama F\u00b7Marinos end in a draw?"
+    },
+    {
+      "timestamp": 1786794729.366338,
+      "bankroll": 1009.91,
+      "event": "lost: ferrariChampions2026 \u2014 Shimizu S-Pulse vs. Yokohama F\u00b7Marinos: O/U 1.5"
+    },
+    {
+      "timestamp": 1786794730.9623148,
+      "bankroll": 999.91,
+      "event": "lost: ferrariChampions2026 \u2014 Shimizu S-Pulse vs. Yokohama F\u00b7Marinos: O/U 2.5"
     }
   ]
 }

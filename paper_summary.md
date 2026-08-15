@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:51:25 (hora de Perú)
+Actualizado: 2026-08-15 06:53:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,019.91
-**Retorno acumulado:** +1.99%
-**Peor caída desde un máximo (drawdown):** 5.70%
+**Bankroll actual:** $999.91
+**Retorno acumulado:** -0.01%
+**Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -24,20 +24,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 5 | +0.00 USD |
-| IMAREALPERSON | 0 | 0 | 1 | +0.00 USD |
+| IMAREALPERSON | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 0 | 1 | 5 | -10.00 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
-| ferrariChampions2026 | 11 | 11 | 48 | -19.21 USD |
+| ferrariChampions2026 | 11 | 13 | 46 | -39.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 54
-- **Aciertos:** 28 (51.9%)
+- **Apuestas resueltas:** 56
+- **Aciertos:** 28 (50.0%)
 - **Cuota promedio de entrada:** 51.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $540.00
-- **ROI sobre lo apostado:** +1.20%
+- **Total apostado (suma de stakes):** $560.00
+- **ROI sobre lo apostado:** -2.41%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,9 +45,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 11 | 36.4% | 30.5% | +5.8 pp |
+| 20-39% | 12 | 33.3% | 30.8% | +2.6 pp |
 | 40-59% | 29 | 44.8% | 48.3% | -3.5 pp |
-| 60-79% | 9 | 66.7% | 67.0% | -0.3 pp |
+| 60-79% | 10 | 60.0% | 67.2% | -7.2 pp |
 | 80-94% | 5 | 100.0% | 86.8% | +13.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -83,6 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 0.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | ⏳ pendiente | — |
@@ -112,4 +113,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 41% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | Natus Vincere (BUY) | 46% | 10.00 | 2.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | BNK FEARX (BUY) | 56% | 10.00 | 25.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 55% | 10.00 | 0.6% | ⏳ pendiente | — |
