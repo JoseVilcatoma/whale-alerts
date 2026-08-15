@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:11:41 (hora de Perú)
+Actualizado: 2026-08-15 12:13:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,036.49
@@ -90,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Vikings vs. Giants | Giants (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Vikings vs. Giants | Giants (BUY) | 43% | 10.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 45.9% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
