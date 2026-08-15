@@ -1,5 +1,5 @@
 {
-  "bankroll": 1669.5610297730639,
+  "bankroll": 1689.5875667036255,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1400,6 +1400,76 @@
       "timestamp": 1786760137.788893,
       "bankroll": 1669.56,
       "event": "lost: 1winstreak1 \u2014 Spread: Indiana Fever (-5.5)"
+    },
+    {
+      "timestamp": 1786760198.7130325,
+      "bankroll": 1659.56,
+      "event": "lost: 1winstreak1 \u2014 Dallas Wings vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786760199.8451824,
+      "bankroll": 1649.56,
+      "event": "lost: 1winstreak1 \u2014 Dallas Wings vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786760200.8468466,
+      "bankroll": 1656.23,
+      "event": "won: 1winstreak1 \u2014 Dallas Wings vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786760200.946992,
+      "bankroll": 1646.23,
+      "event": "lost: 1winstreak1 \u2014 Dallas Wings vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786760201.0471547,
+      "bankroll": 1636.23,
+      "event": "lost: 1winstreak1 \u2014 Dallas Wings vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1786760257.526545,
+      "bankroll": 1678.86,
+      "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760257.83598,
+      "bankroll": 1668.86,
+      "event": "lost: 1winstreak1 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786760258.1365452,
+      "bankroll": 1717.68,
+      "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760258.2367158,
+      "bankroll": 1727.68,
+      "event": "won: 1winstreak1 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1786760259.6401424,
+      "bankroll": 1717.68,
+      "event": "lost: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760260.0405993,
+      "bankroll": 1707.68,
+      "event": "lost: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760260.4413683,
+      "bankroll": 1697.68,
+      "event": "lost: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760262.4378624,
+      "bankroll": 1687.68,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760264.9540603,
+      "bankroll": 1689.59,
+      "event": "won: RN1 \u2014 San Diego Padres vs. Cleveland Guardians"
     }
   ]
 }
