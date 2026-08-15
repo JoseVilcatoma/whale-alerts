@@ -1,5 +1,5 @@
 {
-  "bankroll": 1031.4402253765543,
+  "bankroll": 1047.1705838815121,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -385,6 +385,26 @@
       "timestamp": 1786796422.5266,
       "bankroll": 1031.44,
       "event": "lost: ferrariChampions2026 \u2014 Will Vissel K\u014dbe win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786796482.6181796,
+      "bankroll": 1042.27,
+      "event": "won: bigspending \u2014 Will Sanfrecce Hiroshima win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786796483.9201443,
+      "bankroll": 1054.01,
+      "event": "won: ferrariChampions2026 \u2014 Will Sanfrecce Hiroshima win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786796488.2022784,
+      "bankroll": 1044.01,
+      "event": "lost: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Cerezo \u014csaka: O/U 3.5"
+    },
+    {
+      "timestamp": 1786796488.5039978,
+      "bankroll": 1047.17,
+      "event": "won: ferrariChampions2026 \u2014 Avispa Fukuoka vs. Cerezo \u014csaka: O/U 2.5"
     }
   ]
 }
