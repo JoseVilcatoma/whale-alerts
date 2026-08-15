@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:42:38 (hora de Perú)
+Actualizado: 2026-08-15 00:44:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 46.0% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 48.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 48% | 10.00 | 3.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 46% | 10.00 | 21.5% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: SK (-1.5) vs Fnatic (+1.5 | Fnatic (BUY) | 72% | 10.00 | 6.7% | ⏳ pendiente | — |
