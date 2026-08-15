@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:31:23 (hora de Perú)
+Actualizado: 2026-08-14 19:33:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,460.04
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 17 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 5 | +106.44 USD |
+| midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 12 | 12 | 38 | -30.94 USD |
+| 1winstreak1 | 12 | 12 | 39 | -30.94 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -72,6 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 7% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 48% | 10.00 | 1.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 49% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -100,5 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | San Diego Padres (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 81% | 10.00 | 2.4% | ⏳ pendiente | — |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 17% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 43% | 10.00 | 0.1% | ⏳ pendiente | — |
