@@ -3900,5 +3900,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786799835.9640462,
     "fills": 1
+  },
+  {
+    "timestamp": 1786800492,
+    "timestamp_added": 1786800493.4461052,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-boombo-flc-2026-08-15",
+    "title": "Dota 2: BoomBoys vs Team Falcons (BO3) - The International Group Stage",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 1885.0,
+    "whale_pct": 2.792,
+    "whale_value_at_open": 67511.0759,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786800511.348253,
+    "fills": 2
   }
 ]
