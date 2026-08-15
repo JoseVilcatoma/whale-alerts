@@ -5029,5 +5029,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786826359.004675,
     "fills": 1
+  },
+  {
+    "timestamp": 1786826564,
+    "timestamp_added": 1786826565.3973434,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-col-sf-2026-08-15",
+    "title": "Colorado Rockies vs. San Francisco Giants",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 1864.1199989999998,
+    "whale_pct": 9.806,
+    "whale_value_at_open": 19009.3916,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786826565.397351,
+    "fills": 1
   }
 ]
