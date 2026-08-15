@@ -4919,5 +4919,29 @@
     "last_fill_at": 1786831471.39775,
     "fills": 1,
     "closed_price": 61
+  },
+  {
+    "timestamp": 1786832257,
+    "timestamp_added": 1786832257.7334507,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sr-dig-2026-08-15-game1",
+    "title": "LoL: Shopify Rebellion vs Dignitas - Game 1 Winner",
+    "outcome": "Dignitas",
+    "side": "BUY",
+    "whale_usd": 961.0219999999999,
+    "whale_pct": 9.635,
+    "whale_value_at_open": 9974.7013,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786832257.7334607,
+    "fills": 1
   }
 ]
