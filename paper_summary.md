@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:41:28 (hora de Perú)
+Actualizado: 2026-08-15 01:43:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $982.30
-**Retorno acumulado:** -1.77%
+**Bankroll actual:** $1,002.94
+**Retorno acumulado:** +0.29%
 **Peor caída desde un máximo (drawdown):** 2.23%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,10 +16,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 111111111115 | 1 | 0 | 6 | +15.00 USD |
+| CORGI8 | 1 | 1 | 2 | +5.64 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | +0.00 USD |
-| CORGI8 | 0 | 0 | 4 | +0.00 USD |
-| 111111111115 | 0 | 0 | 7 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 13 | +0.00 USD |
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 7
-- **Aciertos:** 4 (57.1%)
-- **Cuota promedio de entrada:** 60.0%
+- **Apuestas resueltas:** 10
+- **Aciertos:** 6 (60.0%)
+- **Cuota promedio de entrada:** 54.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $70.00
-- **ROI sobre lo apostado:** -25.27%
+- **Total apostado (suma de stakes):** $100.00
+- **ROI sobre lo apostado:** +2.95%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,8 +41,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 2 | 0.0% | 30.5% | -30.5 pp |
-| 40-59% | 1 | 0.0% | 49.0% | -49.0 pp |
+| 20-39% | 3 | 33.3% | 33.3% | -0.0 pp |
+| 40-59% | 3 | 33.3% | 44.7% | -11.3 pp |
 | 60-79% | 2 | 100.0% | 69.0% | +31.0 pp |
 | 80-94% | 2 | 100.0% | 86.0% | +14.0 pp |
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 4.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 39% | 10.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 50% | 10.00 | 6.6% | ⏳ pendiente | — |

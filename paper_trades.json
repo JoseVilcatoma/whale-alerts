@@ -57,8 +57,8 @@
     "whale_value_at_open": 57392.433,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.64,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79,8 +79,8 @@
     "whale_value_at_open": 149824.7399,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.0,
     "overlaps_with": [
       "CORGI8"
     ],
@@ -237,8 +237,8 @@
     "whale_value_at_open": 77841.3941,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "111111111115"
     ],
@@ -1167,8 +1167,8 @@
     "title": "Dota 2: BoomBoys vs Aurora - Game 1 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 8134.8354979999995,
-    "whale_pct": 4.142,
+    "whale_usd": 12658.674997999999,
+    "whale_pct": 6.445,
     "whale_value_at_open": 196408.8322,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -1179,8 +1179,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775758.5312054,
-    "fills": 8
+    "last_fill_at": 1786776185.9709506,
+    "fills": 11
   },
   {
     "timestamp": 1786775540,
