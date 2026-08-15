@@ -3874,8 +3874,8 @@
     "title": "Browns vs. Bears",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 38781.4249,
-    "whale_pct": 36.026,
+    "whale_usd": 44236.9799,
+    "whale_pct": 41.094,
     "whale_value_at_open": 107649.4285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -3884,8 +3884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786820136.0000007,
-    "fills": 8
+    "last_fill_at": 1786820285.5934186,
+    "fills": 9
   },
   {
     "timestamp": 1786812416,
