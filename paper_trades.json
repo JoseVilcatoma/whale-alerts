@@ -4414,5 +4414,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786817724.4322205,
     "fills": 2
+  },
+  {
+    "timestamp": 1786817828,
+    "timestamp_added": 1786817829.2425797,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-g2-shft-2026-08-15-game2",
+    "title": "LoL: G2 Esports vs Shifters - Game 2 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 835.3224,
+    "whale_pct": 3.344,
+    "whale_value_at_open": 24983.4233,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786817829.242587,
+    "fills": 1
   }
 ]

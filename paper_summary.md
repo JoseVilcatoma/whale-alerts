@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 13:16:39 (hora de Perú)
+Actualizado: 2026-08-15 13:18:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 2 | +59.30 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 3 | +59.30 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
@@ -92,6 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 3.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ⏳ pendiente | — |
@@ -121,4 +122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 73% | 10.00 | 1.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 2 Winner | SK Gaming (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: BUF (-3.5) | CAR (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | 💰 vendida anticipada | +1.25 |
