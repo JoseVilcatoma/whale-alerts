@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:07:58 (hora de Perú)
+Actualizado: 2026-08-15 07:10:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,025.42
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 2 | 5 | +19.46 USD |
 | Lakersfan111 | 1 | 1 | 4 | +6.32 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| IMAREALPERSON | 1 | 0 | 1 | +1.52 USD |
+| IMAREALPERSON | 1 | 0 | 2 | +1.52 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
@@ -84,6 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 13.9% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
@@ -113,4 +114,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 43% | 10.00 | 12.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Cerezo Ōsaka: O/U 2.5 | Over (BUY) | 76% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Cerezo Ōsaka: O/U 3.5 | Over (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Vigo Women: Matilde Jorge vs Son | Matilde Jorge (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |

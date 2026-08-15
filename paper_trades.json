@@ -3521,5 +3521,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786795561.6450837,
     "fills": 2
+  },
+  {
+    "timestamp": 1786795769,
+    "timestamp_added": 1786795769.985629,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-lgd-vg-2026-08-15-game2",
+    "title": "Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 2147.36989,
+    "whale_pct": 5.343,
+    "whale_value_at_open": 40192.1267,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ferrariChampions2026",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786795769.9856393,
+    "fills": 1
   }
 ]
