@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:49:19 (hora de Perú)
+Actualizado: 2026-08-15 12:51:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,039.99
-**Retorno acumulado:** +4.00%
+**Bankroll actual:** $1,048.51
+**Retorno acumulado:** +4.85%
 **Peor caída desde un máximo (drawdown):** 7.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 2 | 3 | +50.78 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 2 | +59.30 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
@@ -92,7 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 10.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 54% | 10.00 | 13.2% | 💰 vendida anticipada | +8.52 |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 45% | 10.00 | 4.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |

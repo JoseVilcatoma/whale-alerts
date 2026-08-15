@@ -1,5 +1,5 @@
 {
-  "bankroll": 1039.9873290323756,
+  "bankroll": 1048.505847550894,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -775,6 +775,11 @@
       "timestamp": 1786816024.5912757,
       "bankroll": 1039.99,
       "event": "lost: Lakersfan111 \u2014 LoL: Bilibili Gaming vs Team WE - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786816283.4309812,
+      "bankroll": 1048.51,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Shifters - Game 1 Winner (+8.52 USD)"
     }
   ]
 }

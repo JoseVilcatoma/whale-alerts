@@ -4309,13 +4309,13 @@
     "title": "LoL: G2 Esports vs Shifters - Game 1 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 1788.68,
-    "whale_pct": 10.203,
+    "whale_usd": 2311.2218000000003,
+    "whale_pct": 13.183,
     "whale_value_at_open": 17531.5666,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 8.52,
     "overlaps_with": [
       "IMAREALPERSON",
       "TeGeeLP",
@@ -4323,7 +4323,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786816158.0761247,
-    "fills": 2
+    "last_fill_at": 1786816261.137211,
+    "fills": 3,
+    "closed_price": 100
   }
 ]
