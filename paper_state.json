@@ -1,5 +1,5 @@
 {
-  "bankroll": 1073.3384840875274,
+  "bankroll": 1065.2432459922893,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -810,6 +810,16 @@
       "timestamp": 1786822523.2226765,
       "bankroll": 1073.34,
       "event": "won: 1winstreak1 \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1786823452.0401995,
+      "bankroll": 1063.34,
+      "event": "lost: midwicket72 \u2014 Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan"
+    },
+    {
+      "timestamp": 1786823454.1001823,
+      "bankroll": 1065.24,
+      "event": "won: midwicket72 \u2014 Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan"
     }
   ]
 }
