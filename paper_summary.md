@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 14:14:50 (hora de Perú)
+Actualizado: 2026-08-15 14:16:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 3 | +59.30 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 2 | 4 | +59.30 USD |
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
@@ -97,6 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Vivo Keyd Stars vs LOS - Game 1 Win | Vivo Keyd Stars (BUY) | 42% | 10.00 | 2.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | JAX vs. NO: O/U 35.5 | Over (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Sparks vs. Washington Mystic | Under (BUY) | 49% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 53% | 10.00 | 5.4% | ⏳ pendiente | — |
@@ -106,14 +107,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-1.5) | Detroit Tigers (BUY) | 51% | 10.00 | 10.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ⏳ pendiente | — |
-| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 26.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -126,4 +127,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ⏳ pendiente | — |
 | TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Panthers vs. Bills | Bills (BUY) | 81% | 10.00 | 0.5% | ⏳ pendiente | — |
