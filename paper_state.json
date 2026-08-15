@@ -1,5 +1,5 @@
 {
-  "bankroll": 1056.0497072000169,
+  "bankroll": 1058.8065206172078,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -785,6 +785,21 @@
       "timestamp": 1786816910.266436,
       "bankroll": 1056.05,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Middlesbrough FC (-1.5)"
+    },
+    {
+      "timestamp": 1786821897.599405,
+      "bankroll": 1059.94,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: SK (-1.5) vs Fnatic (+1.5)"
+    },
+    {
+      "timestamp": 1786821899.2633073,
+      "bankroll": 1049.94,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786821899.4635541,
+      "bankroll": 1058.81,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: SK Gaming vs Fnatic - Game 2 Winner"
     }
   ]
 }
