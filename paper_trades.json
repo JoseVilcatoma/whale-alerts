@@ -1417,5 +1417,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786777958.857984,
     "fills": 5
+  },
+  {
+    "timestamp": 1786778303,
+    "timestamp_added": 1786778303.8893447,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-matsuok-sultano-2026-08-15",
+    "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "whale_usd": 1625.0,
+    "whale_pct": 5.275,
+    "whale_value_at_open": 30803.7361,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786778303.889352,
+    "fills": 1
   }
 ]
