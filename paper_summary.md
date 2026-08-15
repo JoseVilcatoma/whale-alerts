@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:40:57 (hora de Perú)
+Actualizado: 2026-08-15 06:43:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,051.91
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 5 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 1 | 5 | +15.41 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 4 | +8.78 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 6 | +8.78 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
@@ -82,7 +82,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 10.1% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 3.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 16.4% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 8.9% | ⏳ pendiente | — |
@@ -110,5 +112,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 57% | 10.00 | 4.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 43% | 10.00 | 0.9% | 💰 vendida anticipada | +11.86 |
 | ferrariChampions2026 | Map Handicap: NAVI (-1.5) vs TheMongolz  | TheMongolz (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 39% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 1.9% | ⏳ pendiente | — |
