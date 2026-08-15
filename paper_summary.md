@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:13:18 (hora de Perú)
+Actualizado: 2026-08-15 04:15:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,074.49
@@ -19,14 +19,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 0 | 3 | +40.01 USD |
 | CORGI8 | 2 | 1 | 6 | +32.68 USD |
 | 111111111115 | 4 | 2 | 1 | +25.05 USD |
-| ferrariChampions2026 | 5 | 3 | 16 | +6.73 USD |
+| ferrariChampions2026 | 5 | 3 | 18 | +6.73 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
 | bigspending | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 5 | 5 | 3 | -13.02 USD |
+| RN1 | 5 | 5 | 4 | -13.02 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 3 | 6 | -19.17 USD |
 
 ## Análisis general
@@ -77,6 +77,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF W50 Hamburg Women: Ruth Roura Llaver | Anna Siskova (BUY) | 95% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Team Liquid (BUY) | 71% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 47% | 10.00 | 9.4% | ⏳ pendiente | — |
 | bigspending | Will Shimizu S-Pulse win on 2026-08-15? | No (BUY) | 58% | 10.00 | 21.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 34% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -87,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 53% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 8.7% | 💰 vendida anticipada | +8.11 |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 20% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 68% | 10.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 74% | 10.00 | 7.1% | ⏳ pendiente | — |
@@ -104,6 +107,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 51% | 10.00 | 6.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 50% | 10.00 | 26.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 58% | 10.00 | 30.6% | ⏳ pendiente | — |
-| RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 52% | 10.00 | 31.5% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 50% | 10.00 | 8.5% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 65% | 10.00 | 4.0% | ⏳ pendiente | — |
