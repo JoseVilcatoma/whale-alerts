@@ -327,8 +327,8 @@
     "whale_value_at_open": 14169.4088,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 14.39,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -349,8 +349,8 @@
     "whale_value_at_open": 14169.4088,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2414,8 +2414,8 @@
     "whale_value_at_open": 423274.7369,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2546,8 +2546,8 @@
     "whale_value_at_open": 288285.772,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.62,
     "overlaps_with": [
       "111111111115"
     ],
@@ -2709,8 +2709,8 @@
     "whale_value_at_open": 291010.3928,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -2733,8 +2733,8 @@
     "whale_value_at_open": 20472.2778,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "Lakersfan111"
@@ -2780,8 +2780,8 @@
     "whale_value_at_open": 299350.3799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 14.39,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "Lakersfan111",
@@ -2806,8 +2806,8 @@
     "whale_value_at_open": 306633.8452,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "111111111115"
     ],
@@ -3176,8 +3176,8 @@
     "whale_value_at_open": 68171.7993,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.62,
     "overlaps_with": [
       "111111111115",
       "ferrariChampions2026"
@@ -3462,8 +3462,8 @@
     "whale_value_at_open": 35200.4726,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "Lakersfan111",
       "ferrariChampions2026"
@@ -3511,8 +3511,8 @@
     "whale_value_at_open": 52857.0345,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.49,
     "overlaps_with": [
       "Lakersfan111",
       "ferrariChampions2026",
@@ -4266,18 +4266,19 @@
     "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
     "outcome": "SK Gaming",
     "side": "BUY",
-    "whale_usd": 5806.018300000001,
-    "whale_pct": 5.209,
+    "whale_usd": 13996.0345,
+    "whale_pct": 12.556,
     "whale_value_at_open": 111469.337,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786806392.0051267,
-    "fills": 5
+    "last_fill_at": 1786806448.4740224,
+    "fills": 9,
+    "closed_price": 49
   },
   {
     "timestamp": 1786806391,
@@ -4288,8 +4289,8 @@
     "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 3297.1814999999997,
-    "whale_pct": 14.169,
+    "whale_usd": 9395.6053,
+    "whale_pct": 40.376,
     "whale_value_at_open": 23270.3379,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -4300,7 +4301,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786806391.5604885,
-    "fills": 1
+    "last_fill_at": 1786806416.3184464,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786806451,
+    "timestamp_added": 1786806451.9980555,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-sk-fnc-2026-08-15-game1",
+    "title": "LoL: SK Gaming vs Fnatic - Game 1 Winner",
+    "outcome": "SK Gaming",
+    "side": "BUY",
+    "whale_usd": 20120.844516,
+    "whale_pct": 9.871,
+    "whale_value_at_open": 203842.9898,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786806474.1587644,
+    "fills": 5
   }
 ]
