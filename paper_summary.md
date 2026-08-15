@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:21:11 (hora de Perú)
+Actualizado: 2026-08-15 08:23:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,058.04
-**Retorno acumulado:** +5.80%
+**Bankroll actual:** $1,048.04
+**Retorno acumulado:** +4.80%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 22 | 19 | 29 | -34.87 USD |
+| ferrariChampions2026 | 22 | 20 | 28 | -44.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 82
-- **Aciertos:** 46 (56.1%)
-- **Cuota promedio de entrada:** 53.3%
+- **Apuestas resueltas:** 83
+- **Aciertos:** 46 (55.4%)
+- **Cuota promedio de entrada:** 53.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $820.00
-- **ROI sobre lo apostado:** +4.39%
+- **Total apostado (suma de stakes):** $830.00
+- **ROI sobre lo apostado:** +3.13%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,7 +49,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 20-39% | 16 | 37.5% | 31.9% | +5.6 pp |
 | 40-59% | 40 | 50.0% | 48.8% | +1.2 pp |
-| 60-79% | 18 | 66.7% | 68.1% | -1.4 pp |
+| 60-79% | 19 | 63.2% | 67.9% | -4.7 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
