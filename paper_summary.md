@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:55:38 (hora de Perú)
+Actualizado: 2026-08-15 17:57:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $964.07
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| g42gh6524h5h5 | 6 | 4 | 4 | +1.39 USD |
+| g42gh6524h5h5 | 6 | 4 | 5 | +1.39 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
@@ -101,8 +101,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 7.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 10.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ⏳ pendiente | — |
@@ -130,4 +131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ✅ ganada | +11.74 |
-| 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
