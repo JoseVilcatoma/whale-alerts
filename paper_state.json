@@ -1,5 +1,5 @@
 {
-  "bankroll": 1084.026447243905,
+  "bankroll": 1087.5399607574186,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -685,6 +685,11 @@
       "timestamp": 1786807249.440656,
       "bankroll": 1084.03,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786807544.5024247,
+      "bankroll": 1087.54,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Kiwoom Heroes vs. KT Wiz"
     }
   ]
 }
