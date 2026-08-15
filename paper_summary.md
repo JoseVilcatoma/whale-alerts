@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:58:34 (hora de Perú)
+Actualizado: 2026-08-14 20:00:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,472.70
-**Retorno acumulado:** +47.27%
+**Bankroll actual:** $1,479.65
+**Retorno acumulado:** +47.96%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
+| 1winstreak1 | 18 | 14 | 63 | -24.04 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
-| 1winstreak1 | 17 | 14 | 62 | -30.99 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -33,12 +33,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 231
-- **Aciertos:** 143 (61.9%)
+- **Apuestas resueltas:** 232
+- **Aciertos:** 144 (62.1%)
 - **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,308.66
-- **ROI sobre lo apostado:** +20.43%
+- **Total apostado (suma de stakes):** $2,318.66
+- **ROI sobre lo apostado:** +20.64%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 7 | 0.0% | 13.6% | -13.6 pp |
 | 20-39% | 40 | 50.0% | 29.7% | +20.3 pp |
-| 40-59% | 95 | 53.7% | 48.1% | +5.6 pp |
+| 40-59% | 96 | 54.2% | 48.2% | +6.0 pp |
 | 60-79% | 64 | 76.6% | 67.1% | +9.4 pp |
 | 80-94% | 22 | 90.9% | 88.4% | +2.5 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
@@ -73,6 +73,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 42% | 10.00 | 1.0% | ⏳ pendiente | — |
+| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 69% | 10.00 | 18.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 35% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 65% | 10.00 | 1.1% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -98,8 +100,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Indiana Fever | Indiana Fever (BUY) | 60% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 40% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 59% | 10.00 | 0.4% | ✅ ganada | +6.95 |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Chicago White Sox (-4.5) | Detroit Tigers (BUY) | 43% | 10.00 | 3.2% | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 47% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
