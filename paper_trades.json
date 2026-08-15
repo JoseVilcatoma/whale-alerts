@@ -3126,8 +3126,8 @@
     "title": "Counter-Strike: Wildcard vs paiN (BO3) - Esports World Cup Group D",
     "outcome": "Wildcard",
     "side": "BUY",
-    "whale_usd": 4991.5428,
-    "whale_pct": 4.691,
+    "whale_usd": 10182.0666,
+    "whale_pct": 9.57,
     "whale_value_at_open": 106399.3068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -3136,8 +3136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793140.1988654,
-    "fills": 1
+    "last_fill_at": 1786798943.5121741,
+    "fills": 2
   },
   {
     "timestamp": 1786793157,
@@ -3649,8 +3649,8 @@
     "title": "Washington Nationals vs. New York Mets: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 23977.7376,
-    "whale_pct": 235.865,
+    "whale_usd": 24795.122215,
+    "whale_pct": 243.905,
     "whale_value_at_open": 10165.8915,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3659,8 +3659,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786797568.4471743,
-    "fills": 1
+    "last_fill_at": 1786799008.380478,
+    "fills": 2
   },
   {
     "timestamp": 1786797568,
