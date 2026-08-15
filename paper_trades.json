@@ -1599,8 +1599,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 8848.711218,
-    "whale_pct": 2.714,
+    "whale_usd": 10450.201418,
+    "whale_pct": 3.205,
     "whale_value_at_open": 326042.985,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -1612,8 +1612,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788155.0286841,
-    "fills": 6
+    "last_fill_at": 1786788488.7244537,
+    "fills": 7
   },
   {
     "timestamp": 1786787768,
@@ -1848,5 +1848,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786788421.2722428,
     "fills": 1
+  },
+  {
+    "timestamp": 1786788537,
+    "timestamp_added": 1786788538.1207788,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-al-2026-08-15-game1",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 3638.9736000000003,
+    "whale_pct": 1.201,
+    "whale_value_at_open": 302970.9241,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786788541.8144078,
+    "fills": 3
   }
 ]
