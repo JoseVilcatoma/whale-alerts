@@ -823,8 +823,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 2421.3152370000003,
-    "whale_pct": 1.315,
+    "whale_usd": 3940.5531370000003,
+    "whale_pct": 2.14,
     "whale_value_at_open": 184102.715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -836,8 +836,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786773348.1129856,
-    "fills": 4
+    "last_fill_at": 1786773705.6663058,
+    "fills": 6
   },
   {
     "timestamp": 1786773137,
