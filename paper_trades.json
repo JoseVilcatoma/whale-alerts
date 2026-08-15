@@ -1264,8 +1264,8 @@
     "title": "Astana: Aziz Dougaz vs Sergey Fomin",
     "outcome": "Aziz Dougaz",
     "side": "BUY",
-    "whale_usd": 2018.0141000000003,
-    "whale_pct": 0.735,
+    "whale_usd": 2834.3381000000004,
+    "whale_pct": 1.032,
     "whale_value_at_open": 274707.1636,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -1274,8 +1274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786786390.3145595,
-    "fills": 2
+    "last_fill_at": 1786786581.2811809,
+    "fills": 3
   },
   {
     "timestamp": 1786786322,
