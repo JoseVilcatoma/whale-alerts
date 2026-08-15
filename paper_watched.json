@@ -20,43 +20,43 @@
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "Lakersfan111",
     "added_at": 1786762155.465391,
-    "roi_pct": 1523.72,
+    "roi_pct": 1517.59,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1786763096.9710932,
-    "roi_pct": 509.2,
+    "roi_pct": 958.53,
     "short_term_pct": 100.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1786764035.6840007,
-    "roi_pct": 1942.09,
+    "roi_pct": 2056.0,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786766195.9667165,
-    "roi_pct": 680.77,
-    "short_term_pct": 100.0
-  },
-  "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
-    "username": "bigspending",
-    "added_at": 1786766195.9667304,
-    "roi_pct": 247.09,
+    "roi_pct": 814.73,
     "short_term_pct": 100.0
   },
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
     "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
     "added_at": 1786767148.9079177,
-    "roi_pct": 281.23,
+    "roi_pct": 248.92,
     "short_term_pct": 100.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "111111111115",
     "added_at": 1786769059.5935922,
-    "roi_pct": 235.49,
+    "roi_pct": 248.42,
+    "short_term_pct": 100.0
+  },
+  "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
+    "username": "1winstreak1",
+    "added_at": 1786770015.0720446,
+    "roi_pct": 1154.82,
     "short_term_pct": 100.0
   }
 }
