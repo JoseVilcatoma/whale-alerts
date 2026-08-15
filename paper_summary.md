@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:17:39 (hora de Perú)
+Actualizado: 2026-08-15 05:19:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,018.49
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Kashima Antlers vs. Nagoya Grampus  | Yes (BUY) | 21% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 70% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 19.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 20.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: NC Dinos vs. Lotte Giants | Lotte Giants (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
