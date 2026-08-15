@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:39:11 (hora de Perú)
+Actualizado: 2026-08-15 17:41:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $969.07
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 4 | 1 | +45.74 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 4 | 2 | +45.74 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -100,6 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 4.2% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 10.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ⏳ pendiente | — |
@@ -129,4 +130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ✅ ganada | +11.74 |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ✅ ganada | +4.49 |
-| g42gh6524h5h5 | Map Handicap: TS (-1.5) vs BIG (+1.5) | Spirit (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
