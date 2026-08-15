@@ -1,5 +1,5 @@
 {
-  "bankroll": 1073.2527047441934,
+  "bankroll": 1074.2639406992496,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -570,6 +570,11 @@
       "timestamp": 1786803544.5893047,
       "bankroll": 1073.25,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: LGD Gaming vs Vici Gaming (BO3) - The International Group Stage (+2.20 USD)"
+    },
+    {
+      "timestamp": 1786803772.263526,
+      "bankroll": 1074.26,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend (+1.01 USD)"
     }
   ]
 }

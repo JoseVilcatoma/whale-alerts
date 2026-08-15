@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:21:12 (hora de Perú)
+Actualizado: 2026-08-15 09:23:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,073.25
-**Retorno acumulado:** +7.33%
+**Bankroll actual:** $1,074.26
+**Retorno acumulado:** +7.43%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 6 | 2 | 4 | +40.45 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 3 | 4 | +38.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 3 | 3 | +39.64 USD |
 | CORGI8 | 4 | 3 | 6 | +31.20 USD |
 | g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -97,8 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | CORGI8 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 29.9% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 18.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 96.5% | ⏳ pendiente | — |
-| 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 96.5% | 💰 vendida anticipada | +1.01 |
+| 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 15.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Stoke City FC vs. Swansea City AFC: O/U  | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: magic vs 3DMAX (BO3) - E | 3DMAX (BUY) | 45% | 10.00 | 95.3% | ⏳ pendiente | — |

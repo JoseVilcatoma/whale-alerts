@@ -4072,8 +4072,8 @@
     "title": "Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 611.0500000000001,
-    "whale_pct": 0.178,
+    "whale_usd": 3638.8000000000006,
+    "whale_pct": 1.061,
     "whale_value_at_open": 342839.1847,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -4084,8 +4084,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803202.05043,
-    "fills": 1
+    "last_fill_at": 1786803724.9394503,
+    "fills": 2
   },
   {
     "timestamp": 1786803355,
@@ -4101,15 +4101,16 @@
     "whale_value_at_open": 73328.4445,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.01,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786803585.313689,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 98
   },
   {
     "timestamp": 1786803413,
