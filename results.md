@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 19:08:48 (hora de Perú)
+Actualizado: 2026-08-14 19:10:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **133**  ($6,535,128 en total)
-- Resueltas: **122** — 73 ganadas / 49 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **123** — 73 ganadas / 50 perdidas (**59%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 49
 
 ### Balance
 
-- **Resultado de los apostadores: +$268,431** sobre $6,114,565 apostados (ROI **+4.4%**)
-- Copiando $100 fijo en cada una: **-$325** sobre $11,900 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$238,352** sobre $6,144,644 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$425** sobre $12,000 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 16 | 7 | 2 | 70% | $1,610,404 | +$390,978 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 1 | 6 | ⚠️ 83% (6) | $552,659 | +$249,609 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 2 | 5 | ⚠️ 71% (7) | $552,659 | +$219,529 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
 | S-Works | 1 | 0 | 0 | ⚠️ 100% (1) | $312,000 | +$88,000 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.72 (58¢) | $69,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel | Xinyu Wang | 1.82 (55¢) | $53,006 | +$43,368 | ✅ Ganada |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Nuno Borges | 1.10 (91¢) | $30,000 | +$2,967 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $30,080 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $30,080 | -$30,080 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis | Thanasi Kokkinakis | 1.82 (55¢) | $26,770 | -$26,770 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wolverhampton Wanderers FC win on 2026-08-14? | No | 2.27 (44¢) | $157,273 | +$200,166 | ✅ Ganada |
 | g42gh6524h5h5 | LoL: GIANTX vs Team Vitality (BO3) - LEC Regular Season | Team Vitality | 1.49 (67¢) | $32,676 | +$16,094 | ✅ Ganada |
