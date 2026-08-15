@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:17:29 (hora de Perú)
+Actualizado: 2026-08-15 18:19:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **221**  ($10,370,622 en total)
-- Resueltas: **187** — 104 ganadas / 83 perdidas (**56%** de acierto)
-- Pendientes: 34
+- Resueltas: **190** — 107 ganadas / 83 perdidas (**56%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 76
 
 ### Balance
 
-- **Resultado de los apostadores: -$287,402** sobre $8,690,136 apostados (ROI **-3.3%**)
-- Copiando $100 fijo en cada una: **-$1,736** sobre $18,300 (ROI **-9.5%**)
+- **Resultado de los apostadores: -$250,842** sobre $8,787,165 apostados (ROI **-2.9%**)
+- Copiando $100 fijo en cada una: **-$1,636** sobre $18,600 (ROI **-8.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | beachboy4 | 0 | 0 | 3 | — | $156,544 | — |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
-| ferrariChampions2026 | 2 | 1 | 1 | ⚠️ 67% (3) | $137,969 | -$46,023 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
+| ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | suntori | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $31,177 | — | ⏳ Pendiente |
 | Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | +$11,092 | ✅ Ganada |
-| ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | +$4,029 | ✅ Ganada |
 | xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | +$14,294 | ✅ Ganada |
 | sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | -$25,510 | ❌ Perdida |
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
@@ -108,12 +108,12 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | — | ⏳ Pendiente |
 | sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $226,926 | — | ⏳ Pendiente |
 | ChinesePro | Will Sevilla FC win on 2026-08-15? | No | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | +$26,859 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
 | Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | +$29,600 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | +$5,671 | ✅ Ganada |
 | Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 3edmond.dantes | Will Deportivo Alavés win on 2026-08-15? | Yes | 2.44 (41¢) | $32,508 | +$46,780 | ✅ Ganada |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $34,220 | -$34,220 | ❌ Perdida |
