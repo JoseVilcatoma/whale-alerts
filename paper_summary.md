@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:09:32 (hora de Perú)
+Actualizado: 2026-08-14 21:11:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,651.72
-**Retorno acumulado:** +65.17%
+**Bankroll actual:** $1,679.56
+**Retorno acumulado:** +67.96%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,15 +17,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 22 | +244.03 USD |
-| 1winstreak1 | 40 | 21 | 34 | +176.70 USD |
+| 1winstreak1 | 45 | 24 | 26 | +197.13 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 3 | +33.42 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 5 | +33.42 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 4 | +18.23 USD |
+| RN1 | 2 | 0 | 43 | +7.40 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 43 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 268
-- **Aciertos:** 168 (62.7%)
-- **Cuota promedio de entrada:** 52.9%
-- **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,678.66
-- **ROI sobre lo apostado:** +24.29%
+- **Apuestas resueltas:** 278
+- **Aciertos:** 175 (62.9%)
+- **Cuota promedio de entrada:** 52.7%
+- **Stake promedio:** $10.00
+- **Total apostado (suma de stakes):** $2,778.66
+- **ROI sobre lo apostado:** +24.42%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,10 +47,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 8 | 0.0% | 14.2% | -14.2 pp |
-| 20-39% | 47 | 53.2% | 30.3% | +22.9 pp |
-| 40-59% | 117 | 57.3% | 47.9% | +9.3 pp |
-| 60-79% | 69 | 73.9% | 67.0% | +6.9 pp |
+| 1-19% (bomba) | 10 | 0.0% | 15.0% | -15.0 pp |
+| 20-39% | 49 | 53.1% | 30.6% | +22.5 pp |
+| 40-59% | 119 | 58.0% | 47.9% | +10.0 pp |
+| 60-79% | 73 | 75.3% | 67.2% | +8.2 pp |
 | 80-94% | 24 | 91.7% | 87.9% | +3.8 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
 
@@ -74,6 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-cle-2026-08-14 | 1winstreak1, RN1 |
 | mlb-bal-tb-2026-08-14 | 1winstreak1, RN1 |
 | mlb-bal-tb-2026-08-14-total-9pt5 | 1winstreak1, RN1 |
+| mlb-bal-tb-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-sd-cle-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-ari-atl-2026-08-14 | 1winstreak1, RN1 |
 
@@ -81,6 +82,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: OG vs HULIGANI - Game 1 Winner | OG (BUY) | 57% | 10.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | Spread: Baltimore Orioles (-1.5) | Tampa Bay Rays (BUY) | 27% | 10.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 37% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: OG vs HULIGANI - Game 1 Winner | OG (BUY) | 59% | 10.00 | 89.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 30% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Sofia Kenin (BUY) | 69% | 10.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -107,7 +112,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Colorado Rockies vs. San Francisco Giant | Over (BUY) | 50% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 56% | 10.00 | 6.7% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: Xtreme (-1.5) vs LGD Gami | Xtreme Gaming (BUY) | 32% | 10.00 | 6.7% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Sofia Kenin (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
