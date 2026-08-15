@@ -980,8 +980,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Khumoun Sultanov",
     "side": "BUY",
-    "whale_usd": 4097.497993,
-    "whale_pct": 6.465,
+    "whale_usd": 10175.987330999998,
+    "whale_pct": 16.056,
     "whale_value_at_open": 63376.5275,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -990,8 +990,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775369.7381132,
-    "fills": 3
+    "last_fill_at": 1786779881.0390131,
+    "fills": 6
   },
   {
     "timestamp": 1786774634,
@@ -1497,8 +1497,8 @@
     "title": "Dota 2: BoomBoys vs Aurora - Game 2 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 2249.037863,
-    "whale_pct": 3.002,
+    "whale_usd": 4508.339863,
+    "whale_pct": 6.018,
     "whale_value_at_open": 74911.0597,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -1509,7 +1509,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786779834.966726,
-    "fills": 3
+    "last_fill_at": 1786779918.0500686,
+    "fills": 5
   }
 ]
