@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 18:58:21 (hora de Perú)
+Actualizado: 2026-08-14 19:00:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 17 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 1 | +106.44 USD |
+| midwicket72 | 26 | 3 | 3 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 11 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 13 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
@@ -70,6 +70,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 83% | 10.00 | 1.0% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 14% | 10.00 | 2.2% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 41% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Cleveland Guardians (-2.5) | Cleveland Guardians (BUY) | 50% | 10.00 | 12.2% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 19% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 37% | 10.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -96,7 +100,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 66% | 10.00 | 1.9% | ✅ ganada | +5.15 |
 | ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 65% | 10.00 | 231.3% | ✅ ganada | +5.38 |
 | CORGI8 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 43% | 10.00 | 64.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 0.9% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Resilience vs Team Yandex ( | Team Resilience (BUY) | 15% | 10.00 | 1.6% | ⏳ pendiente | — |
