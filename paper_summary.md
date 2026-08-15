@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:44:44 (hora de Perú)
+Actualizado: 2026-08-15 00:46:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 0 | 0 | 4 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 4 | +0.00 USD |
-| RN1 | 3 | 2 | 3 | -9.89 USD |
+| RN1 | 3 | 2 | 4 | -9.89 USD |
 
 ## Análisis general
 
@@ -60,7 +60,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 48.0% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Yushan Shao (BUY) | 61% | 10.00 | 2.3% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 51% | 10.00 | 59.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid - Game  | Iron Wing (BUY) | 48% | 10.00 | 3.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 46% | 10.00 | 21.5% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: SK (-1.5) vs Fnatic (+1.5 | Fnatic (BUY) | 72% | 10.00 | 6.7% | ⏳ pendiente | — |
@@ -71,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 48% | 10.00 | 12.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 28% | 10.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Eric McConico vs. Donte Johnson | Eric McConico (BUY) | 24% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Matthew Dellavedova (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Matthew Dellavedova (BUY) | 70% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 20.6% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Vici Gaming (BUY) | 47% | 10.00 | 23.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 53% | 10.00 | 8.2% | ⏳ pendiente | — |
@@ -89,4 +90,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 27% | 10.00 | 13.9% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs GamerLegion - Ga | Team Falcons (BUY) | 73% | 10.00 | 26.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Shihomi Li Xuan | Shihomi Li Xuan Leong (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 40% | 10.00 | 10.8% | ⏳ pendiente | — |
