@@ -1,5 +1,5 @@
 {
-  "bankroll": 1743.1483998490728,
+  "bankroll": 1791.9220281431576,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1510,6 +1510,71 @@
       "timestamp": 1786760956.9348876,
       "bankroll": 1743.15,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Buccaneers vs. Jets"
+    },
+    {
+      "timestamp": 1786761322.3685875,
+      "bankroll": 1755.37,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Pittsburgh Pirates (-3.5)"
+    },
+    {
+      "timestamp": 1786761322.8641133,
+      "bankroll": 1764.98,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761322.964364,
+      "bankroll": 1779.98,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761324.094364,
+      "bankroll": 1783.68,
+      "event": "won: 1winstreak1 \u2014 Spread: Pittsburgh Pirates (-3.5)"
+    },
+    {
+      "timestamp": 1786761324.8812609,
+      "bankroll": 1796.4,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761325.4822648,
+      "bankroll": 1798.03,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761327.188432,
+      "bankroll": 1798.45,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761327.2887154,
+      "bankroll": 1798.87,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761328.2903602,
+      "bankroll": 1799.17,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761329.8818548,
+      "bankroll": 1799.38,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761330.3826084,
+      "bankroll": 1800.02,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761332.8699894,
+      "bankroll": 1801.92,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761333.0703154,
+      "bankroll": 1791.92,
+      "event": "lost: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
     }
   ]
 }

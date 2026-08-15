@@ -5838,8 +5838,8 @@
     "whale_value_at_open": 305723.7593,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 12.22,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6126,8 +6126,8 @@
     "whale_value_at_open": 26786.9738,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6370,8 +6370,8 @@
     "whale_value_at_open": 32866.8001,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6658,8 +6658,8 @@
     "whale_value_at_open": 37901.0229,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.7,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -7262,8 +7262,8 @@
     "whale_value_at_open": 42134.5644,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 12.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7592,8 +7592,8 @@
     "whale_value_at_open": 224368.6671,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -7996,8 +7996,8 @@
     "whale_value_at_open": 226593.3939,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -8020,8 +8020,8 @@
     "whale_value_at_open": 227707.9549,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -8242,8 +8242,8 @@
     "whale_value_at_open": 191301.6762,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.31,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -8624,8 +8624,8 @@
     "whale_value_at_open": 165407.6827,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -8760,8 +8760,8 @@
     "whale_value_at_open": 160941.9178,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.64,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -9310,8 +9310,8 @@
     "whale_value_at_open": 168641.347,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.9,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -9358,8 +9358,8 @@
     "whale_value_at_open": 168641.347,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 16,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -10428,6 +10428,74 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786761232.5786343,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786761284,
+    "timestamp_added": 1786761285.3055933,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kovacev-khachan-2026-08-13",
+    "title": "Cincinnati Open: Aleksandar Kovacevic vs Karen Khachanov",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "whale_usd": 4132.12027,
+    "whale_pct": 2.717,
+    "whale_value_at_open": 152059.446,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761287.821825,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786761307,
+    "timestamp_added": 1786761307.9270105,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-kc-laa-2026-08-14",
+    "title": "Kansas City Royals vs. Los Angeles Angels",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 2262.2911999999997,
+    "whale_pct": 1.276,
+    "whale_value_at_open": 177254.3531,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761308.4220686,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786761330,
+    "timestamp_added": 1786761331.2569425,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-mil-lad-2026-08-14",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 312.93,
+    "whale_pct": 0.206,
+    "whale_value_at_open": 152059.446,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761331.2569518,
     "fills": 1
   }
 ]
