@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:07:07 (hora de Perú)
+Actualizado: 2026-08-15 18:09:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **218**  ($10,234,133 en total)
+- Apuestas registradas: **219**  ($10,269,132 en total)
 - Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 76
 
 ### Balance
@@ -33,10 +33,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 6 | 0 | 1 | ⚠️ 100% (6) | $252,902 | +$131,874 |
+| pleaseplease123 | 1 | 2 | 3 | ⚠️ 33% (3) | $246,152 | -$90,857 |
 | wr0ngw4yb3tt0r | 2 | 1 | 2 | ⚠️ 67% (3) | $237,095 | +$2,773 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
 | Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
-| pleaseplease123 | 1 | 2 | 2 | ⚠️ 33% (3) | $211,152 | -$90,857 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $57,391 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $27,867 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | -$31,902 | ❌ Perdida |
