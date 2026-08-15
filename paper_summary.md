@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:05:02 (hora de Perú)
+Actualizado: 2026-08-15 04:07:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,052.77
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
-| bigspending | 0 | 0 | 1 | +0.00 USD |
+| bigspending | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 5 | 5 | 3 | -13.02 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 3 | 7 | -30.00 USD |
 
@@ -76,7 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 34% | 10.00 | 1.6% | ⏳ pendiente | — |
+| bigspending | Will Shimizu S-Pulse win on 2026-08-15? | No (BUY) | 58% | 10.00 | 12.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 34% | 10.00 | 2.7% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 49% | 10.00 | 22.1% | ⏳ pendiente | — |
 | RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 56% | 10.00 | 5.0% | ⏳ pendiente | — |
 | bigspending | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 48% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -105,4 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 50% | 10.00 | 8.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 65% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Nigma Galaxy (BUY) | 76% | 10.00 | 4.2% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 1.2% | ⏳ pendiente | — |
