@@ -1,5 +1,5 @@
 {
-  "bankroll": 1057.8971060624006,
+  "bankroll": 1058.0359949512895,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -465,6 +465,11 @@
       "timestamp": 1786799115.5444167,
       "bankroll": 1057.9,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786799807.7747216,
+      "bankroll": 1058.04,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE - Game 1 Winner (+0.14 USD)"
     }
   ]
 }

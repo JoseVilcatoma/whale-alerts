@@ -3817,15 +3817,16 @@
     "whale_value_at_open": 47612.8705,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.14,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786799518.0913937,
-    "fills": 6
+    "fills": 6,
+    "closed_price": 73
   },
   {
     "timestamp": 1786799597,

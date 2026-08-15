@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:14:53 (hora de Perú)
+Actualizado: 2026-08-15 08:16:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,057.90
-**Retorno acumulado:** +5.79%
+**Bankroll actual:** $1,058.04
+**Retorno acumulado:** +5.80%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 5 | 2 | 3 | +32.59 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 2 | 7 | +32.22 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 10 | 2 | 6 | +32.36 USD |
 | CORGI8 | 3 | 2 | 5 | +31.20 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 1 | 0 | 6 | +9.23 USD |
@@ -93,7 +93,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | g42gh6524h5h5 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 67% | 10.00 | 47.0% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 53% | 10.00 | 26.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 72% | 10.00 | 24.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 72% | 10.00 | 24.3% | 💰 vendida anticipada | +0.14 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 74% | 10.00 | 30.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Aurora - Game 2 W | Team Liquid (BUY) | 52% | 10.00 | 16.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. New York Mets:  | Under (BUY) | 53% | 10.00 | 1.3% | ⏳ pendiente | — |
