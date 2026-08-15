@@ -1264,8 +1264,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 12306.666556,
-    "whale_pct": 4.994,
+    "whale_usd": 13616.436556,
+    "whale_pct": 5.525,
     "whale_value_at_open": 246451.8054,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -1277,8 +1277,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786776796.3711731,
-    "fills": 5
+    "last_fill_at": 1786777289.7685704,
+    "fills": 6
   },
   {
     "timestamp": 1786776497,
@@ -1326,6 +1326,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786777110.0642755,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786777251,
+    "timestamp_added": 1786777252.3377287,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-blg-we-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: BLG (-1.5) vs Team WE (+1.5)",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 500.0,
+    "whale_pct": 1.25,
+    "whale_value_at_open": 40009.3388,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786777252.3377361,
     "fills": 1
   }
 ]
