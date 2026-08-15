@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:14:18 (hora de Perú)
+Actualizado: 2026-08-15 01:16:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $982.30
@@ -19,12 +19,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 8 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
-| 111111111115 | 0 | 0 | 5 | +0.00 USD |
-| Lakersfan111 | 0 | 0 | 5 | +0.00 USD |
+| 111111111115 | 0 | 0 | 6 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 0 | 0 | 6 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 3 | 3 | 4 | -19.89 USD |
+| RN1 | 3 | 3 | 5 | -19.89 USD |
 
 ## Análisis general
 
@@ -61,6 +61,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Khumoun Sultanov (BUY) | 59% | 10.00 | 5.5% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
+| 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 6.7% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -88,6 +91,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Milwaukee Brewers (BUY) | 82% | 10.00 | 21.4% | ✅ ganada | +2.20 |
 | Lakersfan111 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 40% | 10.00 | 8.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 41% | 10.00 | 19.4% | ⏳ pendiente | — |
-| RN1 | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 31% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 52.7% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Chengyiyi Yuan (BUY) | 32% | 10.00 | 1.1% | ⏳ pendiente | — |
