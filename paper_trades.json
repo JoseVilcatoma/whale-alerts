@@ -1685,8 +1685,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 2777.055,
-    "whale_pct": 1.135,
+    "whale_usd": 7490.710080000001,
+    "whale_pct": 3.061,
     "whale_value_at_open": 244682.5623,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -1698,8 +1698,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781383.478239,
-    "fills": 3
+    "last_fill_at": 1786781823.1402745,
+    "fills": 7
   },
   {
     "timestamp": 1786781411,
@@ -1757,8 +1757,8 @@
     "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 1392.0732,
-    "whale_pct": 0.528,
+    "whale_usd": 5145.880999999999,
+    "whale_pct": 1.952,
     "whale_value_at_open": 263589.6062,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -1769,8 +1769,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781557.0898936,
-    "fills": 1
+    "last_fill_at": 1786781791.3509302,
+    "fills": 3
   },
   {
     "timestamp": 1786781644,
