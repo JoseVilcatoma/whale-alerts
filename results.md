@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 11:04:33 (hora de Perú)
+Actualizado: 2026-08-15 11:06:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **165**  ($8,033,521 en total)
+- Apuestas registradas: **166**  ($8,060,021 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 57
 
 ### Balance
@@ -37,13 +37,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
+| pleaseplease123 | 0 | 1 | 1 | ⚠️ 0% (1) | $125,933 | -$99,433 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
-| pleaseplease123 | 0 | 1 | 0 | ⚠️ 0% (1) | $99,433 | -$99,433 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | CORGI8 | 0 | 1 | 2 | ⚠️ 0% (1) | $87,381 | -$29,980 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | — | ⏳ Pendiente |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 | 007theone1 | Todi: Alex Barrena vs Lukas Neumayer | Alex Barrena | 1.09 (92¢) | $26,515 | +$2,306 | ✅ Ganada |
 | jackpeter888 | LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend | Anyone's Legend | 1.22 (82¢) | $28,674 | +$6,294 | ✅ Ganada |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $48,966 | -$48,966 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C | Vitality | 1.15 (87¢) | $76,849 | -$76,849 | ❌ Perdida |
