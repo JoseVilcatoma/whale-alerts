@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 15:21:07 (hora de Perú)
+Actualizado: 2026-08-15 15:23:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,027.95
-**Retorno acumulado:** +2.79%
-**Peor caída desde un máximo (drawdown):** 8.78%
+**Bankroll actual:** $1,017.95
+**Retorno acumulado:** +1.79%
+**Peor caída desde un máximo (drawdown):** 8.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -29,19 +29,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
-| wr0ngw4yb3tt0r | 3 | 4 | 18 | -8.23 USD |
 | 1winstreak1 | 4 | 4 | 2 | -8.49 USD |
+| wr0ngw4yb3tt0r | 3 | 5 | 17 | -18.23 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 161
-- **Aciertos:** 87 (54.0%)
+- **Apuestas resueltas:** 162
+- **Aciertos:** 87 (53.7%)
 - **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,610.00
-- **ROI sobre lo apostado:** -0.67%
+- **Total apostado (suma de stakes):** $1,620.00
+- **ROI sobre lo apostado:** -1.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 1 | 0.0% | 17.0% | -17.0 pp |
 | 20-39% | 27 | 25.9% | 32.8% | -6.9 pp |
-| 40-59% | 88 | 50.0% | 49.3% | +0.7 pp |
+| 40-59% | 89 | 49.4% | 49.2% | +0.2 pp |
 | 60-79% | 34 | 73.5% | 68.1% | +5.4 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 1027.9497828886153,
+  "bankroll": 1017.9497828886153,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -880,6 +880,11 @@
       "timestamp": 1786824318.5906823,
       "bankroll": 1027.95,
       "event": "won: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786825385.1974432,
+      "bankroll": 1017.95,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Vikings vs. Giants"
     }
   ]
 }
