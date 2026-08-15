@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 19:49:41 (hora de Perú)
+Actualizado: 2026-08-14 19:51:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **134**  ($6,560,906 en total)
+- Apuestas registradas: **135**  ($6,592,380 en total)
 - Resueltas: **126** — 75 ganadas / 51 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 49
 
 ### Balance
@@ -33,11 +33,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 3 | 0 | ⚠️ 50% (6) | $202,000 | -$30,212 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| TennisLove | 1 | 0 | 1 | ⚠️ 100% (1) | $131,474 | +$42,857 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
-| TennisLove | 1 | 0 | 0 | ⚠️ 100% (1) | $100,000 | +$42,857 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | pleaseplease123 | 0 | 1 | 0 | ⚠️ 0% (1) | $99,433 | -$99,433 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 | BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | +$11,457 | ✅ Ganada |
 | Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | +$16,526 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | +$68,411 | ✅ Ganada |
-| 0x760f…326a | National Bank Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 2.22 (45¢) | $27,080 | -$27,080 | ❌ Perdida |
