@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:05:57 (hora de Perú)
+Actualizado: 2026-08-14 22:08:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,814.38
-**Retorno acumulado:** +81.44%
+**Bankroll actual:** $1,826.02
+**Retorno acumulado:** +82.60%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,31 +16,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 35 | 18 | +274.24 USD |
+| 1winstreak1 | 57 | 35 | 19 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 2 | +165.32 USD |
 | midwicket72 | 26 | 3 | 8 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| RN1 | 16 | 2 | 59 | +62.89 USD |
+| RN1 | 19 | 5 | 53 | +59.53 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
 | wr0ngw4yb3tt0r | 15 | 14 | 14 | +20.45 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
+| IMAREALPERSON | 5 | 4 | 4 | -24.04 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
-| IMAREALPERSON | 4 | 4 | 5 | -39.04 USD |
 | Sassy-Bucket | 1 | 9 | 11 | -81.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 319
-- **Aciertos:** 202 (63.3%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 326
+- **Aciertos:** 206 (63.2%)
+- **Cuota promedio de entrada:** 52.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,188.66
-- **ROI sobre lo apostado:** +25.51%
+- **Total apostado (suma de stakes):** $3,258.66
+- **ROI sobre lo apostado:** +25.32%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,9 +49,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 16 | 12.5% | 16.0% | -3.5 pp |
-| 20-39% | 57 | 49.1% | 30.6% | +18.6 pp |
-| 40-59% | 131 | 59.5% | 47.9% | +11.7 pp |
-| 60-79% | 77 | 76.6% | 67.2% | +9.5 pp |
+| 20-39% | 58 | 48.3% | 30.6% | +17.7 pp |
+| 40-59% | 135 | 60.0% | 47.8% | +12.2 pp |
+| 60-79% | 79 | 75.9% | 67.1% | +8.8 pp |
 | 80-94% | 30 | 90.0% | 87.4% | +2.6 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 96.2% | +3.8 pp |
 
@@ -95,6 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 71% | 10.00 | 1.0% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.1% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 71% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -124,4 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 60% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Los Angeles Angels (-1.5) | Kansas City Royals (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |

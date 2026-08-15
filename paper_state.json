@@ -1,5 +1,5 @@
 {
-  "bankroll": 1814.3757318468613,
+  "bankroll": 1826.0157791701383,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1600,6 +1600,41 @@
       "timestamp": 1786761457.7564518,
       "bankroll": 1814.38,
       "event": "won: RN1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786763198.0859392,
+      "bankroll": 1829.38,
+      "event": "won: IMAREALPERSON \u2014 Valorant: Cloud9 vs Fluxo W7M - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786763200.6588497,
+      "bankroll": 1819.38,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763201.9610214,
+      "bankroll": 1831.11,
+      "event": "won: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763202.7510078,
+      "bankroll": 1841.52,
+      "event": "won: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763203.0514882,
+      "bankroll": 1831.52,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763204.2514665,
+      "bankroll": 1836.02,
+      "event": "won: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
+    },
+    {
+      "timestamp": 1786763204.3516438,
+      "bankroll": 1826.02,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Sofia Kenin vs Eva Lys"
     }
   ]
 }
