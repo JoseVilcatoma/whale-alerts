@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:28:42 (hora de Perú)
+Actualizado: 2026-08-15 10:30:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,087.54
-**Retorno acumulado:** +8.75%
+**Bankroll actual:** $1,088.79
+**Retorno acumulado:** +8.88%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 7 | 2 | 1 | +45.83 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 2 | 1 | +44.53 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 0 | +45.78 USD |
 | Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
 | CORGI8 | 4 | 4 | 2 | +21.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 6 | 4 | +16.38 USD |
@@ -89,7 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | 💰 vendida anticipada | +1.25 |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. New York Mets:  | Under (BUY) | 52% | 10.00 | 40.1% | ⏳ pendiente | — |

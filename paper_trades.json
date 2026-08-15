@@ -3744,12 +3744,13 @@
     "whale_value_at_open": 95150.9753,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786807719.0340965,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 72
   }
 ]
