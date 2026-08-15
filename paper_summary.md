@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:50:40 (hora de Perú)
+Actualizado: 2026-08-14 20:52:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,525.80
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | wr0ngw4yb3tt0r | 14 | 10 | 7 | +48.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 2 | +33.42 USD |
 | 1winstreak1 | 24 | 15 | 56 | +20.77 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 21 | +0.00 USD |
+| RN1 | 0 | 0 | 23 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -67,6 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-pit-2026-08-14-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
+| dota2-lgd-xtreme-2026-08-14 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-spread-home-3pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-sd-cle-2026-08-14 | 1winstreak1, RN1 |
@@ -77,6 +78,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 56% | 10.00 | 6.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: Xtreme (-1.5) vs LGD Gami | Xtreme Gaming (BUY) | 32% | 10.00 | 6.7% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Sofia Kenin (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -103,7 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 10.4% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 36.1% | ⏳ pendiente | — |
-| RN1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 72% | 10.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 86% | 10.00 | 0.4% | ⏳ pendiente | — |
-| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 20.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
