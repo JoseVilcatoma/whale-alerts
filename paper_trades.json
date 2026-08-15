@@ -4816,8 +4816,8 @@
     "title": "Rams vs. Chiefs",
     "outcome": "Chiefs",
     "side": "BUY",
-    "whale_usd": 35765.997,
-    "whale_pct": 11.469,
+    "whale_usd": 38118.167,
+    "whale_pct": 12.224,
     "whale_value_at_open": 311837.0148,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -4826,7 +4826,29 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786829317.1799455,
-    "fills": 2
+    "last_fill_at": 1786829407.7163076,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786829429,
+    "timestamp_added": 1786829429.9181566,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-la-kc-2026-08-15-spread-home-1pt5",
+    "title": "Spread: KC (-1.5)",
+    "outcome": "KC",
+    "side": "BUY",
+    "whale_usd": 1764.1000000000001,
+    "whale_pct": 0.509,
+    "whale_value_at_open": 346484.3152,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786829429.9181666,
+    "fills": 1
   }
 ]
