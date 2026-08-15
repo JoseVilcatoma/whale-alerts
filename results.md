@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 12:00:21 (hora de Perú)
+Actualizado: 2026-08-15 12:02:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **173**  ($8,316,771 en total)
+- Apuestas registradas: **174**  ($8,346,771 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 61
+- Pendientes: 22
+- Apostadores distintos: 62
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 
-_(mostrando los 40 de mayor monto, de 61 en total)_
+_(mostrando los 40 de mayor monto, de 62 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Daemon99 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.19 (84¢) | $36,237 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | jtwyslljy | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $37,368 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 61 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | -$43,321 | ❌ Perdida |
 | Sassy-Bucket | San Diego Padres vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.17 (46¢) | $46,000 | -$46,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs 100 Thieves (BO3) - Esports World Cup Group C | PARIVISION | 1.85 (54¢) | $90,511 | +$77,102 | ✅ Ganada |
