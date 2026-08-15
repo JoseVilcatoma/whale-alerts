@@ -1,5 +1,5 @@
 {
-  "bankroll": 1016.8508923790489,
+  "bankroll": 1017.96200349016,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -85,6 +85,16 @@
       "timestamp": 1786776824.769241,
       "bankroll": 1016.85,
       "event": "won: CORGI8 \u2014 Dota 2: Team Falcons vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786780419.9914794,
+      "bankroll": 1016.85,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786780449.9562173,
+      "bankroll": 1017.96,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs HULIGANI (BO3) - The International Group Stage"
     }
   ]
 }
