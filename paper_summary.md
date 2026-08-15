@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:01:33 (hora de Perú)
+Actualizado: 2026-08-15 00:03:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $998.99
-**Retorno acumulado:** -0.10%
+**Bankroll actual:** $1,000.10
+**Retorno acumulado:** +0.01%
 **Peor caída desde un máximo (drawdown):** 1.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,22 +16,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| RN1 | 3 | 1 | 4 | +0.11 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 2 | 1 | 4 | -1.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3
-- **Aciertos:** 2 (66.7%)
-- **Cuota promedio de entrada:** 62.3%
+- **Apuestas resueltas:** 4
+- **Aciertos:** 3 (75.0%)
+- **Cuota promedio de entrada:** 69.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $30.00
-- **ROI sobre lo apostado:** -3.33%
+- **Total apostado (suma de stakes):** $40.00
+- **ROI sobre lo apostado:** +0.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -41,6 +41,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1 | 0.0% | 49.0% | -49.0 pp |
 | 60-79% | 2 | 100.0% | 69.0% | +31.0 pp |
+| 80-94% | 1 | 100.0% | 90.0% | +10.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -54,9 +55,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Matthew Dellavedova (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Vici Gaming (BUY) | 47% | 10.00 | 4.5% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 53% | 10.00 | 7.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 53% | 10.00 | 8.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 51% | 10.00 | 16.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Milwaukee Brewers (BUY) | 82% | 10.00 | 21.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 40% | 10.00 | 8.4% | ⏳ pendiente | — |
@@ -66,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Chengyiyi Yuan (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | OG (BUY) | 45% | 10.00 | 14.6% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 70% | 10.00 | 7.6% | ✅ ganada | +4.29 |
-| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 90% | 10.00 | 2.6% | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 90% | 10.00 | 2.6% | ✅ ganada | +1.11 |
 | RN1 | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 68% | 10.00 | 1.6% | ✅ ganada | +4.71 |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 27% | 10.00 | 13.9% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs GamerLegion - Ga | Team Falcons (BUY) | 73% | 10.00 | 26.2% | ⏳ pendiente | — |

@@ -193,8 +193,8 @@
     "whale_value_at_open": 182381.604,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -412,8 +412,8 @@
     "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 14999.999996,
-    "whale_pct": 7.67,
+    "whale_usd": 15999.999996,
+    "whale_pct": 8.181,
     "whale_value_at_open": 195572.8011,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -422,8 +422,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786768989.9777682,
-    "fills": 4
+    "last_fill_at": 1786770154.650731,
+    "fills": 5
   },
   {
     "timestamp": 1786769092,
@@ -467,6 +467,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786769105.1395733,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786770127,
+    "timestamp_added": 1786770127.413936,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-dellave-ogura-2026-08-15",
+    "title": "ITF M15 Tianjin 2 Men: Matthew Dellavedova vs Kosuke Ogura",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "whale_usd": 703.3444810000001,
+    "whale_pct": 1.29,
+    "whale_value_at_open": 54527.2545,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786770127.4139457,
     "fills": 1
   }
 ]
