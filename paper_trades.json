@@ -434,8 +434,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming (BO3) - The International Group Stage",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 30999.999997,
-    "whale_pct": 13.863,
+    "whale_usd": 50999.99999699999,
+    "whale_pct": 22.807,
     "whale_value_at_open": 223614.5168,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -444,8 +444,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771331.2617295,
-    "fills": 4
+    "last_fill_at": 1786771800.0013342,
+    "fills": 5
   },
   {
     "timestamp": 1786769104,
@@ -456,8 +456,8 @@
     "title": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 3999.9999989999997,
-    "whale_pct": 1.789,
+    "whale_usd": 4999.999997999999,
+    "whale_pct": 2.236,
     "whale_value_at_open": 223614.5168,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -466,8 +466,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771469.4887767,
-    "fills": 3
+    "last_fill_at": 1786771805.7313995,
+    "fills": 4
   },
   {
     "timestamp": 1786770127,
@@ -593,8 +593,8 @@
     "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 564.48,
-    "whale_pct": 0.267,
+    "whale_usd": 1612.8,
+    "whale_pct": 0.763,
     "whale_value_at_open": 211377.9371,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -606,8 +606,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786771036.7148523,
-    "fills": 1
+    "last_fill_at": 1786771815.3732953,
+    "fills": 2
   },
   {
     "timestamp": 1786771333,
