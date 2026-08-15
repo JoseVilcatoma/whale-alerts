@@ -2119,5 +2119,20 @@
     "status": "pending",
     "ultimo_fill": 1786760002,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 293,
+    "timestamp": 1786764457,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-lgd-xtreme-2026-08-14-game2",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner",
+    "outcome": "Xtreme Gaming",
+    "side": "BUY",
+    "usd": 28521.911600000003,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786764457,
+    "fills": 1
   }
 ]

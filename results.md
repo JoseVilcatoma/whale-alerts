@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 22:26:53 (hora de Perú)
+Actualizado: 2026-08-14 22:28:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **141**  ($6,838,927 en total)
+- Apuestas registradas: **142**  ($6,867,449 en total)
 - Resueltas: **130** — 77 ganadas / 53 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 50
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 7 | 1 | 71% | $1,610,404 | +$434,929 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 7 | 2 | 71% | $1,638,926 | +$434,929 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 6 | 4 | 6 | 60% | $686,840 | +$136,224 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 1.92 (52¢) | $28,522 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. San Francisco Giants | Colorado Rockies | 2.22 (45¢) | $29,513 | — | ⏳ Pendiente |
 | Feromont | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $45,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | huli3882 | Washington Mystics vs. Las Vegas Aces: O/U 170.5 | Over 170.5 | 2.00 (50¢) | $37,151 | -$37,151 | ❌ Perdida |
 | basementdweller3000 | Titans vs. 49ers | Titans | 1.41 (71¢) | $49,700 | +$20,300 | ✅ Ganada |
 | pleaseplease123 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Over 7.5 | 2.08 (48¢) | $99,433 | -$99,433 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $28,889 | +$26,666 | ✅ Ganada |
