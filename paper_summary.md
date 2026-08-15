@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:12:57 (hora de Perú)
+Actualizado: 2026-08-15 10:15:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,094.86
-**Retorno acumulado:** +9.49%
+**Bankroll actual:** $1,089.15
+**Retorno acumulado:** +8.91%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 3 | 3 | 2 | -6.46 USD |
 | IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 32 | 30 | 8 | -39.90 USD |
+| ferrariChampions2026 | 33 | 31 | 6 | -45.61 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 123
-- **Aciertos:** 69 (56.1%)
-- **Cuota promedio de entrada:** 53.3%
+- **Apuestas resueltas:** 125
+- **Aciertos:** 70 (56.0%)
+- **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,230.00
-- **ROI sobre lo apostado:** +5.34%
+- **Total apostado (suma de stakes):** $1,250.00
+- **ROI sobre lo apostado:** +4.79%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,8 +48,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 21 | 33.3% | 33.3% | -0.0 pp |
-| 40-59% | 66 | 53.0% | 49.2% | +3.8 pp |
-| 60-79% | 27 | 66.7% | 67.4% | -0.8 pp |
+| 40-59% | 67 | 52.2% | 49.2% | +3.0 pp |
+| 60-79% | 28 | 67.9% | 67.5% | +0.3 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 111111111115 | LoL: SK Gaming vs Fnatic - Game 1 Winner | SK Gaming (BUY) | 47% | 10.00 | 9.9% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 1 Winner | Fnatic (BUY) | 52% | 10.00 | 52.4% | ⏳ pendiente | — |
+| g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 1 Winner | Fnatic (BUY) | 52% | 10.00 | 62.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 1 Winner | SK Gaming (BUY) | 50% | 10.00 | 12.6% | 💰 vendida anticipada | -0.20 |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 4.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 98% | 10.00 | 7.6% | 💰 vendida anticipada | +0.10 |
