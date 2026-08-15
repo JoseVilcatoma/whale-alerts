@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:26:51 (hora de Perú)
+Actualizado: 2026-08-15 07:28:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,047.17
-**Retorno acumulado:** +4.72%
+**Bankroll actual:** $1,069.41
+**Retorno acumulado:** +6.94%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,28 +16,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| CORGI8 | 3 | 2 | 5 | +31.20 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 2 | 4 | +28.33 USD |
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
-| CORGI8 | 2 | 2 | 6 | +22.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 2 | 5 | +19.46 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| Lakersfan111 | 1 | 1 | 5 | +6.32 USD |
+| g42gh6524h5h5 | 1 | 0 | 5 | +9.23 USD |
+| Lakersfan111 | 1 | 1 | 6 | +6.32 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
-| g42gh6524h5h5 | 0 | 0 | 6 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
-| ferrariChampions2026 | 19 | 16 | 35 | -17.55 USD |
+| ferrariChampions2026 | 20 | 17 | 33 | -21.93 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 70
-- **Aciertos:** 38 (54.3%)
+- **Apuestas resueltas:** 75
+- **Aciertos:** 42 (56.0%)
 - **Cuota promedio de entrada:** 52.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $700.00
-- **ROI sobre lo apostado:** +3.61%
+- **Total apostado (suma de stakes):** $750.00
+- **ROI sobre lo apostado:** +6.34%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,8 +46,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 15 | 40.0% | 31.9% | +8.1 pp |
-| 40-59% | 34 | 47.1% | 48.5% | -1.4 pp |
-| 60-79% | 14 | 64.3% | 68.4% | -4.1 pp |
+| 40-59% | 38 | 50.0% | 48.7% | +1.3 pp |
+| 60-79% | 15 | 66.7% | 68.1% | -1.5 pp |
 | 80-94% | 7 | 100.0% | 86.1% | +13.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -84,9 +84,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 7.0% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 16.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
@@ -113,4 +114,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 43% | 10.00 | 12.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Cerezo Ōsaka: O/U 2.5 | Over (BUY) | 76% | 10.00 | 0.6% | ✅ ganada | +3.16 |
