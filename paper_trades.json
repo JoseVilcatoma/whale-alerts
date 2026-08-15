@@ -10363,5 +10363,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786761035.8021357,
     "fills": 1
+  },
+  {
+    "timestamp": 1786761129,
+    "timestamp_added": 1786761130.6215193,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-flc-gl-2026-08-14-game1",
+    "title": "Dota 2: Team Falcons vs GamerLegion - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 258.12899999999996,
+    "whale_pct": 0.684,
+    "whale_value_at_open": 37735.892,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761130.6215303,
+    "fills": 1
   }
 ]
