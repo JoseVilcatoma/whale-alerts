@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:42:08 (hora de Perú)
+Actualizado: 2026-08-15 17:44:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **213**  ($10,041,880 en total)
+- Apuestas registradas: **214**  ($10,067,380 en total)
 - Resueltas: **180** — 99 ganadas / 81 perdidas (**55%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 75
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 5 | 0 | 2 | ⚠️ 100% (5) | $252,902 | +$86,960 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
 | Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
+| pleaseplease123 | 1 | 2 | 2 | ⚠️ 33% (3) | $211,152 | -$90,857 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
-| pleaseplease123 | 1 | 2 | 1 | ⚠️ 33% (3) | $185,652 | -$90,857 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | -$46,407 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
-| 0xB3f07213c02C1A899f039BF6DfA464f61D675C25-1779335154871 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 4.17 (24¢) | $29,069 | — | ⏳ Pendiente |

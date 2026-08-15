@@ -3201,5 +3201,20 @@
     "status": "pending",
     "ultimo_fill": 1786832778,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 420,
+    "timestamp": 1786833747,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sea-hou-2026-08-15-total-8pt5",
+    "title": "Seattle Mariners vs. Houston Astros: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1786833747,
+    "fills": 1
   }
 ]
