@@ -1,5 +1,5 @@
 {
-  "bankroll": 1048.0359949512895,
+  "bankroll": 1049.5432714585659,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -475,6 +475,16 @@
       "timestamp": 1786800188.56842,
       "bankroll": 1048.04,
       "event": "lost: ferrariChampions2026 \u2014 ITF W35 Vigo Women: Matilde Jorge vs Sonja Zhiyenbayeva"
+    },
+    {
+      "timestamp": 1786800216.1366687,
+      "bankroll": 1047.65,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Liquid vs Aurora - Game 2 Winner (-0.38 USD)"
+    },
+    {
+      "timestamp": 1786800295.1178384,
+      "bankroll": 1049.54,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend (+1.89 USD)"
     }
   ]
 }

@@ -3695,8 +3695,8 @@
     "title": "San Diego Padres vs. Cleveland Guardians",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 5153.0377,
-    "whale_pct": 5.688,
+    "whale_usd": 6714.138,
+    "whale_pct": 7.411,
     "whale_value_at_open": 90592.5448,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -3705,8 +3705,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786797699.3629913,
-    "fills": 1
+    "last_fill_at": 1786800197.8554933,
+    "fills": 2
   },
   {
     "timestamp": 1786797795,
@@ -3769,15 +3769,16 @@
     "whale_value_at_open": 38145.2315,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.38,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786799873.9824533,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 50
   },
   {
     "timestamp": 1786799359,
@@ -3793,15 +3794,16 @@
     "whale_value_at_open": 47612.8705,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.89,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786799589.939487,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 88
   },
   {
     "timestamp": 1786799379,
