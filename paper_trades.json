@@ -4574,5 +4574,78 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786818290.8007746,
     "fills": 2
+  },
+  {
+    "timestamp": 1786818335,
+    "timestamp_added": 1786818335.9626498,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-g2-shft-2026-08-15-game2",
+    "title": "LoL: G2 Esports vs Shifters - Game 2 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 3770.3606,
+    "whale_pct": 36.123,
+    "whale_value_at_open": 10437.6372,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786818361.0714667,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786818335,
+    "timestamp_added": 1786818336.8261333,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-g2-shft-2026-08-15-game2",
+    "title": "LoL: G2 Esports vs Shifters - Game 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 6911.271699999999,
+    "whale_pct": 12.455,
+    "whale_value_at_open": 55488.9066,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786818350.122476,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786818359,
+    "timestamp_added": 1786818360.2734394,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-chc-2026-08-15",
+    "title": "St. Louis Cardinals vs. Chicago Cubs",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 949.999,
+    "whale_pct": 0.431,
+    "whale_value_at_open": 220619.0958,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786818360.273446,
+    "fills": 1
   }
 ]
