@@ -4033,8 +4033,8 @@
     "whale_value_at_open": 158217.7724,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -4077,8 +4077,8 @@
     "whale_value_at_open": 162398.1254,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -4565,8 +4565,8 @@
     "whale_value_at_open": 6265.107,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -4798,8 +4798,8 @@
     "whale_value_at_open": 22655.6621,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.87,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -4982,6 +4982,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786823769.7497618,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786824350,
+    "timestamp_added": 1786824350.9863424,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-djokovi-tirante-2026-08-15",
+    "title": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "whale_usd": 25427.778899999998,
+    "whale_pct": 22.171,
+    "whale_value_at_open": 114690.2489,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786824350.9863503,
     "fills": 1
   }
 ]
