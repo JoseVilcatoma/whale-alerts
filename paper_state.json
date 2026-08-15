@@ -1,5 +1,5 @@
 {
-  "bankroll": 1061.7584751714476,
+  "bankroll": 1084.026447243905,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -440,6 +440,251 @@
       "timestamp": 1786797171.10924,
       "bankroll": 1061.76,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807233.821451,
+      "bankroll": 1051.76,
+      "event": "lost: Lakersfan111 \u2014 LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807234.1410317,
+      "bankroll": 1066.15,
+      "event": "won: Lakersfan111 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807234.4804535,
+      "bankroll": 1081.15,
+      "event": "won: Lakersfan111 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807236.2912014,
+      "bankroll": 1093.88,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786807236.5974271,
+      "bankroll": 1083.88,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786807236.9221547,
+      "bankroll": 1091.42,
+      "event": "won: 111111111115 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807237.022275,
+      "bankroll": 1095.31,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1786807237.345067,
+      "bankroll": 1085.31,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807237.6279094,
+      "bankroll": 1075.31,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807238.0249653,
+      "bankroll": 1080.01,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807238.3582904,
+      "bankroll": 1084.3,
+      "event": "won: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786807238.4584346,
+      "bankroll": 1074.3,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807238.8425455,
+      "bankroll": 1064.3,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1786807239.788579,
+      "bankroll": 1072.48,
+      "event": "won: g42gh6524h5h5 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807239.8887794,
+      "bankroll": 1080.34,
+      "event": "won: 111111111115 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807240.2267716,
+      "bankroll": 1070.34,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807240.3269367,
+      "bankroll": 1081.17,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807240.4270756,
+      "bankroll": 1091.17,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807240.7678938,
+      "bankroll": 1102.91,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Wildcard vs paiN - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786807241.115007,
+      "bankroll": 1108.3,
+      "event": "won: 111111111115 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807241.422912,
+      "bankroll": 1117.16,
+      "event": "won: ferrariChampions2026 \u2014 Liaoning Tieren FC vs. Shenzhen Xinpengcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1786807241.5230515,
+      "bankroll": 1107.16,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Wildcard vs paiN - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786807241.869705,
+      "bankroll": 1097.16,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786807242.2086062,
+      "bankroll": 1087.16,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807242.3087687,
+      "bankroll": 1093.04,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807242.4089296,
+      "bankroll": 1098.66,
+      "event": "won: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807242.7387457,
+      "bankroll": 1088.66,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786807243.1208084,
+      "bankroll": 1096.21,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807243.4574344,
+      "bankroll": 1103.75,
+      "event": "won: ferrariChampions2026 \u2014 Will Liaoning Tieren FC win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786807243.6576686,
+      "bankroll": 1093.75,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807243.757823,
+      "bankroll": 1083.75,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807243.8579783,
+      "bankroll": 1095.49,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786807243.9581568,
+      "bankroll": 1109.88,
+      "event": "won: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807244.0583997,
+      "bankroll": 1099.88,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807244.3703356,
+      "bankroll": 1089.88,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Vigo Women: Matilde Jorge vs Sonja Zhiyenbayeva"
+    },
+    {
+      "timestamp": 1786807244.4704628,
+      "bankroll": 1079.88,
+      "event": "lost: CORGI8 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807244.570588,
+      "bankroll": 1069.88,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807245.075848,
+      "bankroll": 1085.52,
+      "event": "won: ferrariChampions2026 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786807245.1759667,
+      "bankroll": 1091.65,
+      "event": "won: g42gh6524h5h5 \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807245.8074625,
+      "bankroll": 1093.84,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: LGD Gaming vs Vici Gaming (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786807245.90762,
+      "bankroll": 1099.47,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807247.7033565,
+      "bankroll": 1110.3,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807248.0157402,
+      "bankroll": 1100.3,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: BoomBoys vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807248.3239892,
+      "bankroll": 1109.53,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Liquid vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807248.424139,
+      "bankroll": 1099.53,
+      "event": "lost: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Vici Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807248.5243256,
+      "bankroll": 1089.53,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807248.624465,
+      "bankroll": 1079.53,
+      "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786807248.7246225,
+      "bankroll": 1084.03,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786807249.440656,
+      "bankroll": 1084.03,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
     }
   ]
 }

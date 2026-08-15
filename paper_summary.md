@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:43:28 (hora de Perú)
+Actualizado: 2026-08-15 10:22:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,061.76
-**Retorno acumulado:** +6.18%
+**Bankroll actual:** $1,084.03
+**Retorno acumulado:** +8.40%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,30 +16,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 3 | 2 | 5 | +31.20 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 2 | 5 | +28.33 USD |
-| 111111111115 | 4 | 2 | 4 | +25.05 USD |
+| 111111111115 | 7 | 2 | 1 | +45.83 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 2 | 0 | +44.53 USD |
+| Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
+| CORGI8 | 4 | 4 | 2 | +21.20 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 6 | 4 | +16.38 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| g42gh6524h5h5 | 1 | 0 | 5 | +9.23 USD |
-| Lakersfan111 | 1 | 1 | 7 | +6.32 USD |
-| IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
+| g42gh6524h5h5 | 3 | 3 | 0 | -6.46 USD |
+| IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 21 | 18 | 31 | -29.58 USD |
+| ferrariChampions2026 | 33 | 31 | 6 | -45.61 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 77
-- **Aciertos:** 43 (55.8%)
-- **Cuota promedio de entrada:** 53.0%
+- **Apuestas resueltas:** 126
+- **Aciertos:** 71 (56.3%)
+- **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $770.00
-- **ROI sobre lo apostado:** +5.18%
+- **Total apostado (suma de stakes):** $1,260.00
+- **ROI sobre lo apostado:** +4.93%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,10 +47,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 15 | 40.0% | 31.9% | +8.1 pp |
-| 40-59% | 39 | 48.7% | 48.6% | +0.1 pp |
-| 60-79% | 15 | 66.7% | 68.1% | -1.5 pp |
-| 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
+| 20-39% | 21 | 33.3% | 33.3% | -0.0 pp |
+| 40-59% | 67 | 52.2% | 49.2% | +3.0 pp |
+| 60-79% | 28 | 67.9% | 67.5% | +0.3 pp |
+| 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
+| 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -93,28 +94,28 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Washington Nationals vs. New York Mets:  | Under (BUY) | 52% | 10.00 | 40.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. New York Mets:  | Over (BUY) | 48% | 10.00 | 235.9% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 76% | 10.00 | 12.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 2.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 100% | 10.00 | 2.3% | ✅ ganada | +0.00 |
 | Lakersfan111 | LoL: Bilibili Gaming vs Team WE - Game 1 | Team WE (BUY) | 29% | 10.00 | 2.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 9.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ✅ ganada | +4.49 |
+| CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ❌ perdida | -10.00 |
+| g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
-| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 6.9% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 1.7% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ❌ perdida | -10.00 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 6.9% | ✅ ganada | +9.23 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 1.7% | ❌ perdida | -10.00 |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | 💰 vendida anticipada | +1.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ✅ ganada | +10.83 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 8.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 13.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ✅ ganada | +5.62 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 13.7% | ✅ ganada | +2.20 |
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ⏳ pendiente | — |
-| g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
+| g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ✅ ganada | +6.13 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 5.9% | 💰 vendida anticipada | -2.00 |
-| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ✅ ganada | +15.64 |
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ✅ ganada | +15.64 |
