@@ -1557,8 +1557,8 @@
     "whale_value_at_open": 300853.1366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 33,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1678,8 +1678,8 @@
     "whale_value_at_open": 44227.7188,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.89,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -3649,8 +3649,8 @@
     "title": "Washington Nationals vs. New York Mets: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 24795.122215,
-    "whale_pct": 243.905,
+    "whale_usd": 46593.990645,
+    "whale_pct": 458.336,
     "whale_value_at_open": 10165.8915,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3659,8 +3659,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786799008.380478,
-    "fills": 2
+    "last_fill_at": 1786799132.049806,
+    "fills": 6
   },
   {
     "timestamp": 1786797568,
@@ -3728,6 +3728,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786797795.7579677,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786799136,
+    "timestamp_added": 1786799137.271884,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-wsh-nym-2026-08-15-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1027.4209,
+    "whale_pct": 1.312,
+    "whale_value_at_open": 78327.0931,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786799137.2718914,
     "fills": 1
   }
 ]
