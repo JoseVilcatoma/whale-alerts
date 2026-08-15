@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:01:20 (hora de Perú)
+Actualizado: 2026-08-15 06:03:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,044.58
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 111111111115 | 4 | 2 | 3 | +25.05 USD |
+| 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 3 | +22.68 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 1 | +8.78 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 1 | 3 | +2.93 USD |
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 6 | 5 | 34 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 38 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
@@ -77,9 +77,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 48% | 10.00 | 13.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | BNK FEARX (BUY) | 59% | 10.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | paiN (BUY) | 54% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Liaoning Tieren FC vs. Shenzhen Xinpengc | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
+| 111111111115 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | Wildcard (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 48% | 10.00 | 22.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 50% | 10.00 | 34.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 48% | 10.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 48% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Resilience vs Xtreme Gaming | Xtreme Gaming (BUY) | 49% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vissel Kōbe win on 2026-08-15? | Yes (BUY) | 32% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 56% | 10.00 | 32.0% | ⏳ pendiente | — |
@@ -102,8 +107,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Nagoya Grampus (BUY) | 63% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 83% | 10.00 | 12.8% | 💰 vendida anticipada | +0.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Resilience vs Xtreme Gaming | Team Resilience (BUY) | 53% | 10.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 1 Winne | GamerLegion (BUY) | 81% | 10.00 | 5.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 33% | 10.00 | 0.2% | ⏳ pendiente | — |
