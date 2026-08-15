@@ -11,6 +11,18 @@
     "roi_pct": 502.63,
     "short_term_pct": 100.0
   },
+  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
+    "username": "SDTrading",
+    "added_at": 1786755556.053433,
+    "roi_pct": 334.07,
+    "short_term_pct": 100.0
+  },
+  "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
+    "username": "111111111115",
+    "added_at": 1786807279.1952782,
+    "roi_pct": 30047.98,
+    "short_term_pct": 100.0
+  },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
     "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
     "added_at": 1786812938.1016161,
@@ -20,7 +32,13 @@
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "g42gh6524h5h5",
     "added_at": 1786815768.323626,
-    "roi_pct": 827.36,
+    "roi_pct": 752.29,
+    "short_term_pct": 100.0
+  },
+  "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705": {
+    "username": "1winstreak1",
+    "added_at": 1786816714.6763847,
+    "roi_pct": 1069.54,
     "short_term_pct": 100.0
   },
   "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
@@ -29,34 +47,16 @@
     "roi_pct": 2082.82,
     "short_term_pct": 100.0
   },
-  "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
-    "username": "111111111115",
-    "added_at": 1786820480.481123,
-    "roi_pct": 29840.75,
-    "short_term_pct": 100.0
-  },
   "0x3eb095d871501a1d7a3cb086a22d174b52356a68": {
     "username": "predictionlegend",
-    "added_at": 1786826109.885996,
-    "roi_pct": 1717.73,
-    "short_term_pct": 100.0
-  },
-  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
-    "username": "SDTrading",
-    "added_at": 1786827045.6145792,
-    "roi_pct": 336.76,
+    "added_at": 1786828291.7190967,
+    "roi_pct": 1772.33,
     "short_term_pct": 100.0
   },
   "0x38337de21ff0bb0a11a40761507d51e318d633d1": {
     "username": "SineNooneEI",
-    "added_at": 1786827980.3663268,
+    "added_at": 1786828291.719107,
     "roi_pct": 560.55,
-    "short_term_pct": 100.0
-  },
-  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
-    "username": "wr0ngw4yb3tt0r",
-    "added_at": 1786827980.3663335,
-    "roi_pct": 201.57,
     "short_term_pct": 100.0
   }
 }
