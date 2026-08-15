@@ -3153,13 +3153,14 @@
     "whale_value_at_open": 62788.3642,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786796131.57207,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 100
   },
   {
     "timestamp": 1786793324,
@@ -4119,8 +4120,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 24778.7258,
-    "whale_pct": 7.27,
+    "whale_usd": 48741.4598,
+    "whale_pct": 14.3,
     "whale_value_at_open": 340857.5427,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -4131,7 +4132,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803421.3490026,
-    "fills": 3
+    "last_fill_at": 1786803543.0792627,
+    "fills": 9
+  },
+  {
+    "timestamp": 1786803436,
+    "timestamp_added": 1786803436.6096547,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-liquid-aur1-2026-08-15",
+    "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 19207.6478,
+    "whale_pct": 29.94,
+    "whale_value_at_open": 64153.9272,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803496.1082237,
+    "fills": 4
   }
 ]

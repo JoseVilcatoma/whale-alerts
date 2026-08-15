@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:17:05 (hora de Perú)
+Actualizado: 2026-08-15 09:19:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,071.06
-**Retorno acumulado:** +7.11%
+**Bankroll actual:** $1,073.25
+**Retorno acumulado:** +7.33%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,8 +17,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 6 | 2 | 4 | +40.45 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 3 | 5 | +36.43 USD |
-| CORGI8 | 4 | 3 | 5 | +31.20 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 3 | 4 | +38.63 USD |
+| CORGI8 | 4 | 3 | 6 | +31.20 USD |
 | g42gh6524h5h5 | 2 | 0 | 5 | +17.41 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-dnf-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-boombo-flc-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-liquid-aur1-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
-| dota2-liquid-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
+| dota2-liquid-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8 |
 | dota2-ironwi-ty-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | lol-blg-we-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, g42gh6524h5h5 |
 | lol-blg-we-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111 |
@@ -95,7 +95,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 7.3% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 29.9% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 14.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 10.5% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 15.9% | ⏳ pendiente | — |
@@ -124,4 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 19.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 46% | 10.00 | 20.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 7.3% | 💰 vendida anticipada | +0.36 |
