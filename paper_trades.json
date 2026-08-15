@@ -4961,5 +4961,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786823104.9802194,
     "fills": 1
+  },
+  {
+    "timestamp": 1786823768,
+    "timestamp_added": 1786823769.7497513,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-vks-los-2026-08-15-game2",
+    "title": "LoL: Vivo Keyd Stars vs LOS - Game 2 Winner",
+    "outcome": "Vivo Keyd Stars",
+    "side": "BUY",
+    "whale_usd": 1304.4515000000001,
+    "whale_pct": 7.551,
+    "whale_value_at_open": 17274.4905,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786823769.7497618,
+    "fills": 1
   }
 ]
