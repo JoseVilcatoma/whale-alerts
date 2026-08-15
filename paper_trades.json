@@ -3559,8 +3559,8 @@
     "title": "Game Handicap: BLG (-1.5) vs Team WE (+1.5)",
     "outcome": "Team WE",
     "side": "BUY",
-    "whale_usd": 10491.187156,
-    "whale_pct": 7.978,
+    "whale_usd": 12667.911273,
+    "whale_pct": 9.633,
     "whale_value_at_open": 131503.8602,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3569,8 +3569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786797296.3336031,
-    "fills": 4
+    "last_fill_at": 1786797419.8141751,
+    "fills": 6
   },
   {
     "timestamp": 1786796930,
