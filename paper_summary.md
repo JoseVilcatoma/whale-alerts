@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:58:11 (hora de Perú)
+Actualizado: 2026-08-14 23:00:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,000.00
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|---|---|---|
 | RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 90% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 68% | 10.00 | 1.6% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 27% | 10.00 | 12.1% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 27% | 10.00 | 13.9% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs GamerLegion - Ga | Team Falcons (BUY) | 73% | 10.00 | 26.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Shihomi Li Xuan | Shihomi Li Xuan Leong (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 40% | 10.00 | 10.8% | ⏳ pendiente | — |

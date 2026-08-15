@@ -142,8 +142,8 @@
     "title": "Dota 2: Team Falcons vs GamerLegion - Game 2 Winner",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 7846.3917,
-    "whale_pct": 12.09,
+    "whale_usd": 9037.8801,
+    "whale_pct": 13.926,
     "whale_value_at_open": 64901.0606,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 27,
@@ -154,8 +154,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786765915.9385,
-    "fills": 1
+    "last_fill_at": 1786766344.4972382,
+    "fills": 2
   },
   {
     "timestamp": 1786765949,
