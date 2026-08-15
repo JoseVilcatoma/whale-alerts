@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:56:28 (hora de Perú)
+Actualizado: 2026-08-14 19:58:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,472.70
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
-| 1winstreak1 | 17 | 14 | 55 | -30.99 USD |
+| 1winstreak1 | 17 | 14 | 62 | -30.99 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
@@ -73,6 +73,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 35% | 10.00 | 2.3% | ⏳ pendiente | — |
+| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 65% | 10.00 | 1.1% | ⏳ pendiente | — |
+| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 37% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves: | Over (BUY) | 17% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Arizona Diamondbacks (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 71% | 10.00 | 1.6% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Indiana Fever (-5.5) | Dallas Wings (BUY) | 56% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 26% | 10.00 | 0.1% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 44% | 10.00 | 19.6% | ⏳ pendiente | — |
@@ -96,10 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Chicago White Sox (-4.5) | Detroit Tigers (BUY) | 43% | 10.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 47% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 27% | 10.00 | 0.4% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 22% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
-| midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 7% | 10.00 | 1.0% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 48% | 10.00 | 1.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
