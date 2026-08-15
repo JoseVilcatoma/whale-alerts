@@ -3158,5 +3158,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786793158.3465984,
     "fills": 1
+  },
+  {
+    "timestamp": 1786793324,
+    "timestamp_added": 1786793324.7431526,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tt-al-2026-08-15-game2",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 1419.4464,
+    "whale_pct": 2.082,
+    "whale_value_at_open": 68171.7993,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786793396.714358,
+    "fills": 2
   }
 ]
