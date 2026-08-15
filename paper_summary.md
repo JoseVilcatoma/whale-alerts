@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:19:43 (hora de Perú)
+Actualizado: 2026-08-15 05:21:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,018.49
-**Retorno acumulado:** +1.85%
+**Bankroll actual:** $1,021.16
+**Retorno acumulado:** +2.12%
 **Peor caída desde un máximo (drawdown):** 3.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,12 +19,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 4 | 2 | 2 | +25.05 USD |
 | CORGI8 | 2 | 2 | 1 | +22.68 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 1 | 2 | +0.79 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
-| g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 3 | -1.88 USD |
+| g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 6 | 5 | 26 | -4.04 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 3 | -12.50 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
@@ -69,17 +69,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | dota2-lgd-vg-2026-08-15-game1 | 111111111115, ferrariChampions2026 |
 | lol-tt-al-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| lol-tt-al-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| lol-tt-al-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 70% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kashima Antlers vs. Nagoya Grampus  | Yes (BUY) | 21% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 70% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 20.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 60% | 10.00 | 20.1% | 💰 vendida anticipada | +2.67 |
 | ferrariChampions2026 | KBO: NC Dinos vs. Lotte Giants | Lotte Giants (BUY) | 60% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 72% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sanfrecce Hiroshima win on 2026-08- | Yes (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Kashima Antlers (-1.5) | Kashima Antlers (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shimizu S-Pulse win on 2026-08-15? | Yes (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shimizu S-Pulse vs. Yokohama F·Marinos:  | Over (BUY) | 69% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 55% | 10.00 | 15.1% | ⏳ pendiente | — |
