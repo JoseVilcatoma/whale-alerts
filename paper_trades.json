@@ -4219,19 +4219,20 @@
     "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 2750.86,
-    "whale_pct": 2.661,
+    "whale_usd": 7854.40439,
+    "whale_pct": 7.597,
     "whale_value_at_open": 103383.0409,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.1,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803961.4213073,
-    "fills": 1
+    "last_fill_at": 1786804593.0466604,
+    "fills": 2,
+    "closed_price": 99
   }
 ]

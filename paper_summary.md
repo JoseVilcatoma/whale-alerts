@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:35:38 (hora de Perú)
+Actualizado: 2026-08-15 09:37:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,067.94
-**Retorno acumulado:** +6.79%
+**Bankroll actual:** $1,068.04
+**Retorno acumulado:** +6.80%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 6 | 2 | 5 | +40.45 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 3 | 4 | +39.64 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 3 | 3 | +39.74 USD |
 | CORGI8 | 4 | 3 | 7 | +31.20 USD |
 | g42gh6524h5h5 | 3 | 0 | 4 | +23.54 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 98% | 10.00 | 2.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 98% | 10.00 | 7.6% | 💰 vendida anticipada | +0.10 |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Team Yandex (BUY) | 51% | 10.00 | 40.7% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 48% | 10.00 | 10.2% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 29.9% | ⏳ pendiente | — |
