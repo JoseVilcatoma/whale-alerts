@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:27:45 (hora de Perú)
+Actualizado: 2026-08-14 20:29:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,514.81
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
-| Sassy-Bucket | 1 | 9 | 0 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 2 | -81.82 USD |
 
 ## Análisis general
 
@@ -73,6 +73,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 121.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 42% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 69% | 10.00 | 18.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 35% | 10.00 | 2.3% | ⏳ pendiente | — |
@@ -101,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Dallas Wings vs. Indiana Fever | Indiana Fever (BUY) | 60% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 40% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 59% | 10.00 | 0.4% | ✅ ganada | +6.95 |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 42% | 10.00 | 0.2% | ✅ ganada | +13.81 |
-| 1winstreak1 | Spread: Chicago White Sox (-4.5) | Detroit Tigers (BUY) | 43% | 10.00 | 3.2% | ⏳ pendiente | — |
