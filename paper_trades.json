@@ -5090,8 +5090,8 @@
     "title": "Valorant: Team Envy vs Sentinels (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 19620.927,
-    "whale_pct": 537.858,
+    "whale_usd": 27304.647,
+    "whale_pct": 748.488,
     "whale_value_at_open": 3647.9751,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5100,7 +5100,29 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786835015.993426,
-    "fills": 3
+    "last_fill_at": 1786835108.788143,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786835123,
+    "timestamp_added": 1786835124.400845,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-ast10-nip-2026-08-16",
+    "title": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
+    "outcome": "NIP",
+    "side": "BUY",
+    "whale_usd": 9149.679817999999,
+    "whale_pct": 39.023,
+    "whale_value_at_open": 23446.9277,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786835124.4008539,
+    "fills": 1
   }
 ]
