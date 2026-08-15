@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:57:36 (hora de Perú)
+Actualizado: 2026-08-15 06:59:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,007.22
@@ -85,15 +85,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 28% | 10.00 | 5.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | Vici Gaming (BUY) | 38% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 1 W | Aurora (BUY) | 52% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Team Falcons - Game  | Team Falcons (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 9.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 11.2% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 29.1% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 2.5% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 35.4% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 8.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 11.5% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ⏳ pendiente | — |
