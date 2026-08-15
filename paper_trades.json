@@ -4993,8 +4993,8 @@
     "title": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 25427.778899999998,
-    "whale_pct": 22.171,
+    "whale_usd": 37135.3257,
+    "whale_pct": 32.379,
     "whale_value_at_open": 114690.2489,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -5003,7 +5003,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786824350.9863503,
-    "fills": 1
+    "last_fill_at": 1786824562.5647757,
+    "fills": 2
   }
 ]
