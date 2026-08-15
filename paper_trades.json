@@ -2001,8 +2001,8 @@
     "title": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 12535.204932,
-    "whale_pct": 19.21,
+    "whale_usd": 14411.967358000002,
+    "whale_pct": 22.086,
     "whale_value_at_open": 65254.226,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -2014,7 +2014,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786784206.584974,
-    "fills": 7
+    "last_fill_at": 1786784258.9398983,
+    "fills": 9
   }
 ]
