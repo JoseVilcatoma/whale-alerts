@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:30:18 (hora de Perú)
+Actualizado: 2026-08-15 14:32:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **191**  ($9,212,474 en total)
-- Resueltas: **157** — 89 ganadas / 68 perdidas (**57%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **191**  ($9,239,952 en total)
+- Resueltas: **158** — 89 ganadas / 69 perdidas (**56%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 69
 
 ### Balance
 
-- **Resultado de los apostadores: +$23,259** sobre $7,501,369 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$1,214** sobre $15,300 (ROI **-7.9%**)
+- **Resultado de los apostadores: -$8,643** sobre $7,533,270 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$1,314** sobre $15,400 (ROI **-8.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 2 | 67% | $1,984,276 | +$480,279 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 2 | 67% | $2,011,755 | +$480,279 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 2 | 50% | $768,840 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
-| CORGI8 | 0 | 2 | 1 | ⚠️ 0% (2) | $87,381 | -$55,480 |
+| CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 0 | 1 | 1 | ⚠️ 0% (1) | $82,641 | -$32,241 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
 | Feromont | 2 | 0 | 1 | ⚠️ 100% (2) | $76,000 | +$29,200 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $94,749 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | — | ⏳ Pendiente |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | -$31,902 | ❌ Perdida |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | -$30,796 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | -$46,407 | ❌ Perdida |
