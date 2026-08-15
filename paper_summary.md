@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:43:34 (hora de Perú)
+Actualizado: 2026-08-15 01:45:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,002.94
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 10 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 13 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 14 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 3 | 3 | 5 | -19.89 USD |
 
@@ -66,6 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
@@ -95,4 +96,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Team Falcons vs GamerLegion (BO3 | Team Falcons (BUY) | 74% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs HULIGANI (BO3) - The Inter | OG (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 50% | 10.00 | 2.4% | ⏳ pendiente | — |
