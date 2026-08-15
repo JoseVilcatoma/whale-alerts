@@ -5287,5 +5287,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786837870.8222568,
     "fills": 1
+  },
+  {
+    "timestamp": 1786837938,
+    "timestamp_added": 1786837939.2959912,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sr-dig-2026-08-15",
+    "title": "LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "whale_usd": 3017.3122,
+    "whale_pct": 13.667,
+    "whale_value_at_open": 22078.1113,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786837961.480208,
+    "fills": 2
   }
 ]
