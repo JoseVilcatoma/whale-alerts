@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:01:45 (hora de Perú)
+Actualizado: 2026-08-14 22:03:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,814.38
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 35 | 13 | +274.24 USD |
+| 1winstreak1 | 57 | 35 | 18 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 7 | +106.44 USD |
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 16 | 2 | 59 | +62.89 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
-| wr0ngw4yb3tt0r | 15 | 14 | 13 | +20.45 USD |
+| wr0ngw4yb3tt0r | 15 | 14 | 14 | +20.45 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
@@ -86,7 +86,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-og-huliga-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
 | mlb-mil-lad-2026-08-14 | 1winstreak1, RN1 |
 | dota2-lgd-xtreme-2026-08-14-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, CORGI8, IMAREALPERSON |
-| mlb-col-sf-2026-08-14 | RN1, wr0ngw4yb3tt0r |
+| mlb-col-sf-2026-08-14 | 1winstreak1, RN1, wr0ngw4yb3tt0r |
+| mlb-mil-lad-2026-08-14-spread-away-1pt5 | 1winstreak1, RN1 |
 | mlb-kc-laa-2026-08-14-total-12pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-kc-laa-2026-08-14-spread-home-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
@@ -94,6 +95,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 22% | 10.00 | 0.5% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers (BUY) | 16% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Over (BUY) | 14% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 28% | 10.00 | 0.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | San Francisco Giants (BUY) | 39% | 10.00 | 1.1% | ⏳ pendiente | — |
+| 1winstreak1 | Colorado Rockies vs. San Francisco Giant | San Francisco Giants (BUY) | 43% | 10.00 | 2.1% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 83% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Under (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 29% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -118,9 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 17% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 27% | 10.00 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 71% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 64% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 66% | 10.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 69% | 10.00 | 4.6% | ⏳ pendiente | — |
