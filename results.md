@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 09:12:09 (hora de Perú)
+Actualizado: 2026-08-15 09:14:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **160**  ($7,866,505 en total)
+- Apuestas registradas: **161**  ($7,921,505 en total)
 - Resueltas: **150** — 86 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 57
 
 ### Balance
@@ -40,6 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | ⚠️ 100% (4) | $123,570 | +$73,861 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | ferrariChampions2026 | 2 | 1 | 0 | ⚠️ 67% (3) | $111,002 | -$46,023 |
+| 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 0 | ⚠️ 67% (3) | $101,645 | -$16,960 |
 | highnetworth | 1 | 0 | 0 | ⚠️ 100% (1) | $99,472 | +$91,821 |
 | pleaseplease123 | 0 | 1 | 0 | ⚠️ 0% (1) | $99,433 | -$99,433 |
@@ -49,7 +50,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | CORGI8 | 0 | 1 | 1 | ⚠️ 0% (1) | $61,881 | -$29,980 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
-| 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 1 | — | $55,111 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | Feromont | 2 | 0 | 0 | ⚠️ 100% (2) | $50,800 | +$29,200 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,000 | — | ⏳ Pendiente |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $55,111 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D | 9z | 2.78 (36¢) | $31,902 | — | ⏳ Pendiente |
 | 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 | AV23IUa | Map Handicap: VIT (-1.5) vs B8 (+1.5) | Vitality | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $43,648 | -$43,648 | ❌ Perdida |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | -$29,980 | ❌ Perdida |
