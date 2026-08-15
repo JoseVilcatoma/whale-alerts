@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 18:28:00 (hora de Perú)
+Actualizado: 2026-08-15 18:30:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **222**  ($10,437,149 en total)
+- Apuestas registradas: **223**  ($10,467,737 en total)
 - Resueltas: **195** — 109 ganadas / 86 perdidas (**56%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 76
 
 ### Balance
@@ -32,11 +32,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
+| beachboy4 | 0 | 0 | 5 | — | $253,659 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 6 | 0 | 1 | ⚠️ 100% (6) | $252,902 | +$131,874 |
 | pleaseplease123 | 2 | 2 | 2 | ⚠️ 50% (4) | $246,152 | -$62,338 |
 | wr0ngw4yb3tt0r | 2 | 1 | 2 | ⚠️ 67% (3) | $237,095 | +$2,773 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
-| beachboy4 | 0 | 0 | 4 | — | $223,072 | — |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 76 en total)_
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | +$7,762 | ✅ Ganada |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
