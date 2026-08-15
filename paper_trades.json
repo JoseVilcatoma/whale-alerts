@@ -5020,8 +5020,8 @@
     "title": "LoL: Shopify Rebellion vs Dignitas - Game 2 Winner",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 879.9200000000001,
-    "whale_pct": 4.226,
+    "whale_usd": 1486.1687000000002,
+    "whale_pct": 7.138,
     "whale_value_at_open": 20821.3688,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -5030,7 +5030,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786833553.5342839,
-    "fills": 1
+    "last_fill_at": 1786833937.0810645,
+    "fills": 2
   }
 ]
