@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 16:18:53 (hora de Perú)
+Actualizado: 2026-08-15 16:21:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **206**  ($9,743,051 en total)
-- Resueltas: **170** — 93 ganadas / 77 perdidas (**55%** de acierto)
-- Pendientes: 36
+- Resueltas: **171** — 94 ganadas / 77 perdidas (**55%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 74
 
 ### Balance
 
-- **Resultado de los apostadores: -$192,840** sobre $7,942,530 apostados (ROI **-2.4%**)
-- Copiando $100 fijo en cada una: **-$1,806** sobre $16,600 (ROI **-10.9%**)
+- **Resultado de los apostadores: -$163,240** sobre $7,992,930 apostados (ROI **-2.0%**)
+- Copiando $100 fijo en cada una: **-$1,748** sobre $16,700 (ROI **-10.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 0 | 2 | 1 | ⚠️ 0% (2) | $88,711 | -$63,300 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
-| Mylifeisover | 0 | 1 | 1 | ⚠️ 0% (1) | $82,641 | -$32,241 |
+| Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
 | Feromont | 2 | 0 | 1 | ⚠️ 100% (2) | $76,000 | +$29,200 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 74 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
 | Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
-| nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | — | ⏳ Pendiente |
+| nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | +$29,600 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | — | ⏳ Pendiente |
 | Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
