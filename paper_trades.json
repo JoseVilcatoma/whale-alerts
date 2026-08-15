@@ -4194,8 +4194,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 25500.0,
-    "whale_pct": 30.217,
+    "whale_usd": 34353.8768,
+    "whale_pct": 40.708,
     "whale_value_at_open": 84390.0644,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -4207,8 +4207,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803907.5662718,
-    "fills": 1
+    "last_fill_at": 1786804234.4583788,
+    "fills": 5
   },
   {
     "timestamp": 1786803961,
