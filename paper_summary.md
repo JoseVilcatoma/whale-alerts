@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:11:49 (hora de Perú)
+Actualizado: 2026-08-15 00:13:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
-| 111111111115 | 0 | 0 | 2 | +0.00 USD |
+| 111111111115 | 0 | 0 | 4 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 3 | 2 | 3 | -9.89 USD |
@@ -51,11 +51,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-og-huliga-2026-08-14-game2 | 111111111115, CORGI8 |
 | dota2-flc-gl-2026-08-14-game2 | 111111111115, CORGI8 |
 | mlb-mil-lad-2026-08-14-spread-home-2pt5 | 1winstreak1, RN1 |
+| dota2-lgd-xtreme-2026-08-14 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 48% | 10.00 | 12.3% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Eric McConico vs. Donte Johnson | Eric McConico (BUY) | 24% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Matthew Dellavedova (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |

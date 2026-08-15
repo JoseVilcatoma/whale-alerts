@@ -512,5 +512,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786770561.1471815,
     "fills": 1
+  },
+  {
+    "timestamp": 1786770776,
+    "timestamp_added": 1786770777.2350268,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-flc-gl-2026-08-14",
+    "title": "Dota 2: Team Falcons vs GamerLegion (BO3) - The International Group Stage",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 1516.8664,
+    "whale_pct": 0.73,
+    "whale_value_at_open": 207917.2919,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 28,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786770777.235033,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786770785,
+    "timestamp_added": 1786770786.027485,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-lgd-xtreme-2026-08-14",
+    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 25665.3552,
+    "whale_pct": 12.344,
+    "whale_value_at_open": 207917.2919,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786770817.3976796,
+    "fills": 3
   }
 ]
