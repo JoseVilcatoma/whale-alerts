@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 00:01:54 (hora de Perú)
+Actualizado: 2026-08-15 00:03:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **145**  ($7,056,115 en total)
-- Resueltas: **135** — 78 ganadas / 57 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **136** — 79 ganadas / 57 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 50
 
 ### Balance
 
-- **Resultado de los apostadores: +$159,119** sobre $6,594,197 apostados (ROI **+2.4%**)
-- Copiando $100 fijo en cada una: **-$658** sobre $13,200 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$195,191** sobre $6,623,710 apostados (ROI **+2.9%**)
+- Copiando $100 fijo en cada una: **-$536** sobre $13,300 (ROI **-4.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 17 | 8 | 3 | 68% | $1,797,592 | +$408,429 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 7 | 7 | 2 | 50% | $686,840 | +$66,927 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 7 | 1 | 53% | $686,840 | +$102,998 |
 | Djdjdjekekek | 0 | 7 | 0 | ⚠️ 0% (7) | $553,935 | -$321,572 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 50 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $46,666 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner | Xtreme Gaming | 1.92 (52¢) | $28,522 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. San Francisco Giants | Colorado Rockies | 2.22 (45¢) | $29,513 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. San Francisco Giants | Colorado Rockies | 2.22 (45¢) | $29,513 | +$36,071 | ✅ Ganada |
 | Feromont | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $45,600 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $82,637 | — | ⏳ Pendiente |
