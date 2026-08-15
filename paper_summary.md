@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:18:30 (hora de Perú)
+Actualizado: 2026-08-15 07:20:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,029.67
-**Retorno acumulado:** +2.97%
+**Bankroll actual:** $1,031.44
+**Retorno acumulado:** +3.14%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 6 | +22.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 2 | 5 | +19.46 USD |
-| Lakersfan111 | 1 | 1 | 4 | +6.32 USD |
+| Lakersfan111 | 1 | 1 | 5 | +6.32 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
@@ -27,17 +27,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 6 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
+| ferrariChampions2026 | 17 | 15 | 38 | -22.45 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 14 | 13 | 43 | -24.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 61
-- **Aciertos:** 32 (52.5%)
-- **Cuota promedio de entrada:** 52.2%
+- **Apuestas resueltas:** 66
+- **Aciertos:** 35 (53.0%)
+- **Cuota promedio de entrada:** 52.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $610.00
-- **ROI sobre lo apostado:** +1.28%
+- **Total apostado (suma de stakes):** $660.00
+- **ROI sobre lo apostado:** +1.45%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,10 +45,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 13 | 38.5% | 31.3% | +7.2 pp |
+| 20-39% | 15 | 40.0% | 31.9% | +8.1 pp |
 | 40-59% | 31 | 45.2% | 48.8% | -3.7 pp |
-| 60-79% | 11 | 63.6% | 67.4% | -3.7 pp |
-| 80-94% | 6 | 100.0% | 86.7% | +13.3 pp |
+| 60-79% | 13 | 61.5% | 67.8% | -6.3 pp |
+| 80-94% | 7 | 100.0% | 86.1% | +13.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -84,6 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Game Handicap: BLG (-1.5) vs Team WE (+1 | Team WE (BUY) | 50% | 10.00 | 4.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 45% | 10.00 | 5.3% | 💰 vendida anticipada | +0.89 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | DN SOOPers (BUY) | 69% | 10.00 | 16.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex - Game  | Team Yandex (BUY) | 53% | 10.00 | 20.7% | ⏳ pendiente | — |
@@ -105,12 +106,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 5.9% | 💰 vendida anticipada | -2.00 |
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | JEF United Ichihara Chiba vs. FC Machida | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ✅ ganada | +15.64 |
+| ferrariChampions2026 | JEF United Ichihara Chiba vs. FC Machida | Over (BUY) | 71% | 10.00 | 0.2% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | Natus Vincere (BUY) | 71% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 69% | 10.00 | 0.3% | ✅ ganada | +4.49 |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 43% | 10.00 | 12.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. Cerezo Ōsaka: O/U 2.5 | Over (BUY) | 76% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Avispa Fukuoka vs. Cerezo Ōsaka: O/U 3.5 | Over (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
