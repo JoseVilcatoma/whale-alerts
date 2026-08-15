@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 13:23:01 (hora de Perú)
+Actualizado: 2026-08-15 13:25:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -20,11 +20,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 15 | +7.54 USD |
-| 1winstreak1 | 1 | 0 | 1 | +2.20 USD |
+| wr0ngw4yb3tt0r | 1 | 0 | 17 | +7.54 USD |
+| 1winstreak1 | 1 | 0 | 3 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
-| Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
+| Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -86,14 +86,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-ty-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
 | mlb-wsh-nym-2026-08-15-total-8pt5 | SDTrading, Sassy-Bucket |
 | lol-sk-fnc-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| mlb-cws-det-2026-08-15 | 1winstreak1, wr0ngw4yb3tt0r |
 | lol-g2-shft-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, TeGeeLP, g42gh6524h5h5 |
+| mlb-stl-chc-2026-08-15 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-nyy-tor-2026-08-15-total-7pt5 | Sassy-Bucket, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
+| Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 2.7% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 11.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: FURIA Esports vs RED Canids (BO3) - | FURIA Esports (BUY) | 69% | 10.00 | 10.6% | ⏳ pendiente | — |
@@ -117,8 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 134.6% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Deportivo Alavés win on 2026-08-15? | Yes (BUY) | 40% | 10.00 | 7.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Browns vs. Bears | Bears (BUY) | 40% | 10.00 | 28.9% | ⏳ pendiente | — |
-| SDTrading | CAR vs. BUF: O/U 38.5 | Over (BUY) | 51% | 10.00 | 1.0% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: SK Gaming vs Fnatic - Game 2 Winner | Fnatic (BUY) | 53% | 10.00 | 12.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 73% | 10.00 | 1.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 2 Winner | SK Gaming (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
