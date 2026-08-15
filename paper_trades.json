@@ -8,8 +8,8 @@
     "title": "Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 29999.999978999997,
-    "whale_pct": 14.336,
+    "whale_usd": 31999.999975999996,
+    "whale_pct": 15.291,
     "whale_value_at_open": 209267.9976,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -18,8 +18,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786765909.5920305,
-    "fills": 23
+    "last_fill_at": 1786765938.110465,
+    "fills": 25
   },
   {
     "timestamp": 1786765277,
@@ -156,5 +156,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786765915.9385,
     "fills": 1
+  },
+  {
+    "timestamp": 1786765949,
+    "timestamp_added": 1786765950.1532698,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-kc-laa-2026-08-14-spread-away-1pt5",
+    "title": "Spread: Kansas City Royals (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 2883.2000000000003,
+    "whale_pct": 1.616,
+    "whale_value_at_open": 178468.1367,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786765952.3014705,
+    "fills": 2
   }
 ]
