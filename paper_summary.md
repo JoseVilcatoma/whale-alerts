@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 16:49:44 (hora de Perú)
+Actualizado: 2026-08-15 16:51:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,026.33
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 4 | 1 | 4 | +28.96 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| g42gh6524h5h5 | 6 | 4 | 1 | +1.39 USD |
+| g42gh6524h5h5 | 6 | 4 | 2 | +1.39 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
@@ -98,6 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 9.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ⏳ pendiente | — |
@@ -127,4 +128,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ❌ perdida | -10.00 |
 | TeGeeLP | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 58% | 10.00 | 6024.3% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | Panthers vs. Bills | Bills (BUY) | 81% | 10.00 | 0.5% | ⏳ pendiente | — |
