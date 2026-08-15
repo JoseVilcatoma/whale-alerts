@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:30:16 (hora de Perú)
+Actualizado: 2026-08-15 00:32:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Lakersfan111 | Game Handicap: SK (-1.5) vs Fnatic (+1.5 | Fnatic (BUY) | 72% | 10.00 | 6.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Falcons vs GamerLegion (BO3 | Team Falcons (BUY) | 74% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Falcons vs GamerLegion (BO3 | Team Falcons (BUY) | 74% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs HULIGANI (BO3) - The Inter | OG (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | LGD Gaming (BUY) | 50% | 10.00 | 2.4% | ⏳ pendiente | — |
