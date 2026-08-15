@@ -3639,5 +3639,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786797127.2624807,
     "fills": 1
+  },
+  {
+    "timestamp": 1786797567,
+    "timestamp_added": 1786797568.4471657,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-wsh-nym-2026-08-15-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 23977.7376,
+    "whale_pct": 235.865,
+    "whale_value_at_open": 10165.8915,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786797568.4471743,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786797568,
+    "timestamp_added": 1786797569.0432515,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-wsh-nym-2026-08-15-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 26000.0,
+    "whale_pct": 40.097,
+    "whale_value_at_open": 64842.5448,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786797569.0432599,
+    "fills": 1
   }
 ]
