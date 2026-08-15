@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 09:56:06 (hora de Perú)
+Actualizado: 2026-08-15 09:58:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **164**  ($8,004,322 en total)
-- Resueltas: **150** — 86 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 14
+- Resueltas: **151** — 87 ganadas / 64 perdidas (**58%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 57
 
 ### Balance
 
-- **Resultado de los apostadores: +$129,488** sobre $7,272,486 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$852** sobre $14,700 (ROI **-5.8%**)
+- **Resultado de los apostadores: +$132,486** sobre $7,299,467 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$841** sobre $14,800 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 57 en total)_
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
 | 0xB3f07213c02C1A899f039BF6DfA464f61D675C25-1779335154871 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 4.17 (24¢) | $29,069 | — | ⏳ Pendiente |
-| JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | — | ⏳ Pendiente |
+| JaJa888 | LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner | ThunderTalk Gaming | 1.11 (90¢) | $26,982 | +$2,998 | ✅ Ganada |
 | GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | +$10,800 | ✅ Ganada |
 | noway8 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.32 (76¢) | $290,000 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $96,292 | +$32,097 | ✅ Ganada |
