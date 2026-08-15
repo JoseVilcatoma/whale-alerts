@@ -4882,8 +4882,8 @@
     "title": "LoL: Shopify Rebellion vs Dignitas - Game 1 Winner",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 1447.9080000000001,
-    "whale_pct": 9.116,
+    "whale_usd": 3472.584,
+    "whale_pct": 21.863,
     "whale_value_at_open": 15883.2706,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -4892,8 +4892,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786830959.6268678,
-    "fills": 1
+    "last_fill_at": 1786831757.8585634,
+    "fills": 3
   },
   {
     "timestamp": 1786831471,
@@ -4909,14 +4909,15 @@
     "whale_value_at_open": 7881.7047,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.73,
     "overlaps_with": [
       "g42gh6524h5h5"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786831471.39775,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 61
   }
 ]
