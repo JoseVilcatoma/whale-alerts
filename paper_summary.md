@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:08:02 (hora de Perú)
+Actualizado: 2026-08-14 22:10:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,826.02
@@ -16,12 +16,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 35 | 19 | +274.24 USD |
+| 1winstreak1 | 57 | 35 | 22 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 2 | +165.32 USD |
 | midwicket72 | 26 | 3 | 8 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
-| RN1 | 19 | 5 | 53 | +59.53 USD |
+| RN1 | 19 | 5 | 57 | +59.53 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
 | wr0ngw4yb3tt0r | 15 | 14 | 14 | +20.45 USD |
@@ -95,6 +95,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Los Angeles Angels (-1.5) | Los Angeles Angels (BUY) | 22% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 36% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Los Angeles Angels (-2.5) | Kansas City Royals (BUY) | 86% | 10.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 63% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 71% | 10.00 | 1.0% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 0.1% | ⏳ pendiente | — |
@@ -118,10 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 60% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 35% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 53% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 47% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 68% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Spread: San Francisco Giants (-2.5) | Colorado Rockies (BUY) | 77% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Aleksandar Kovacevic (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 60% | 10.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
