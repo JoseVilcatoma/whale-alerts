@@ -1,5 +1,5 @@
 {
-  "bankroll": 1078.102975986866,
+  "bankroll": 1058.102975986866,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -615,6 +615,16 @@
       "timestamp": 1786805150.9003975,
       "bankroll": 1078.1,
       "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786805707.9713483,
+      "bankroll": 1068.1,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786805708.2718894,
+      "bankroll": 1058.1,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner"
     }
   ]
 }
