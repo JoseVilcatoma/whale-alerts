@@ -3111,5 +3111,20 @@
     "status": "pending",
     "ultimo_fill": 1786829009,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 405,
+    "timestamp": 1786829612,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-paul-hurkacz-2026-08-15",
+    "title": "Cincinnati Open: Tommy Paul vs Hubert Hurkacz",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 31200.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786829612,
+    "fills": 1
   }
 ]
