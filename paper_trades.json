@@ -713,8 +713,8 @@
     "whale_value_at_open": 107093.5075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.83,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1007,8 +1007,8 @@
     "whale_value_at_open": 183373.4068,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -1031,8 +1031,8 @@
     "whale_value_at_open": 185661.5335,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 11.28,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -1055,8 +1055,8 @@
     "whale_value_at_open": 180810.9337,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.61,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "ferrariChampions2026"
