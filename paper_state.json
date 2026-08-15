@@ -1,5 +1,5 @@
 {
-  "bankroll": 1512.5471400394908,
+  "bankroll": 1525.8029539929792,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1215,6 +1215,11 @@
       "timestamp": 1786758000.4886217,
       "bankroll": 1512.55,
       "event": "lost: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1786758128.0561755,
+      "bankroll": 1525.8,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-4.5)"
     }
   ]
 }
