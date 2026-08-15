@@ -2509,5 +2509,20 @@
     "status": "pending",
     "ultimo_fill": 1786811077,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 344,
+    "timestamp": 1786811172,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lal-ala-get-2026-08-15-ala",
+    "title": "Will Deportivo Alav\u00e9s win on 2026-08-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28327.7349,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1786811172,
+    "fills": 1
   }
 ]
