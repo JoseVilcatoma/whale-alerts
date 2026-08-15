@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 17:04:07 (hora de Perú)
+Actualizado: 2026-08-15 17:06:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,026.33
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 4 | 0 | +43.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 4 | 1 | +43.00 USD |
 | 111111111115 | 7 | 3 | 1 | +35.83 USD |
 | 1winstreak1 | 4 | 1 | 4 | +28.96 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
@@ -93,11 +93,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-chc-2026-08-15 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-nyy-tor-2026-08-15-total-7pt5 | 1winstreak1, Sassy-Bucket, wr0ngw4yb3tt0r |
 | mlb-cws-det-2026-08-15-spread-away-1pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| lol-sr-dig-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 9.1% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -127,4 +129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 45% | 10.00 | 4.1% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 59% | 10.00 | 29.3% | ✅ ganada | +6.95 |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Trinbago Knight Riders (BUY) | 65% | 10.00 | 2.7% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 35% | 10.00 | 93.4% | ❌ perdida | -10.00 |
