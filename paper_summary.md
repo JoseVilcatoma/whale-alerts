@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 12:03:18 (hora de Perú)
+Actualizado: 2026-08-15 12:05:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,046.49
-**Retorno acumulado:** +4.65%
-**Peor caída desde un máximo (drawdown):** 6.63%
+**Bankroll actual:** $1,036.49
+**Retorno acumulado:** +3.65%
+**Peor caída desde un máximo (drawdown):** 7.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -26,20 +26,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 2 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 8 | 2 | -3.62 USD |
 | g42gh6524h5h5 | 3 | 3 | 1 | -6.46 USD |
 | IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 9 | 1 | -13.62 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 136
-- **Aciertos:** 75 (55.1%)
+- **Apuestas resueltas:** 137
+- **Aciertos:** 75 (54.7%)
 - **Cuota promedio de entrada:** 53.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,360.00
-- **ROI sobre lo apostado:** +1.72%
+- **Total apostado (suma de stakes):** $1,370.00
+- **ROI sobre lo apostado:** +0.97%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 23 | 30.4% | 33.0% | -2.5 pp |
-| 40-59% | 72 | 50.0% | 49.2% | +0.8 pp |
+| 40-59% | 73 | 49.3% | 49.2% | +0.1 pp |
 | 60-79% | 31 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -91,7 +91,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 12.1% | ⏳ pendiente | — |
+| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 16.8% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Deportivo Alavés win on 2026-08-15? | Yes (BUY) | 40% | 10.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Browns vs. Bears | Bears (BUY) | 40% | 10.00 | 14.4% | ⏳ pendiente | — |
