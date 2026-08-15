@@ -2248,8 +2248,8 @@
     "title": "Dota 2: BoomBoys vs Team Falcons - Game 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 94030.16180100001,
-    "whale_pct": 30.193,
+    "whale_usd": 99530.16180100001,
+    "whale_pct": 31.959,
     "whale_value_at_open": 311431.3304,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -2260,8 +2260,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791556.6451924,
-    "fills": 26
+    "last_fill_at": 1786791577.3333154,
+    "fills": 27
   },
   {
     "timestamp": 1786791380,
@@ -2294,8 +2294,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 692.1691,
-    "whale_pct": 0.255,
+    "whale_usd": 2753.8705,
+    "whale_pct": 1.014,
     "whale_value_at_open": 271683.1142,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -2304,8 +2304,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791429.2760491,
-    "fills": 1
+    "last_fill_at": 1786791659.1514938,
+    "fills": 3
   },
   {
     "timestamp": 1786791440,
@@ -2316,8 +2316,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 1813.8978459999998,
-    "whale_pct": 0.668,
+    "whale_usd": 5702.539245999999,
+    "whale_pct": 2.099,
     "whale_value_at_open": 271683.1142,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -2326,8 +2326,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791447.711316,
-    "fills": 2
+    "last_fill_at": 1786791674.813872,
+    "fills": 6
   },
   {
     "timestamp": 1786791455,
@@ -2338,8 +2338,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 18427.694066000004,
-    "whale_pct": 32.78,
+    "whale_usd": 19259.694066000004,
+    "whale_pct": 34.26,
     "whale_value_at_open": 56216.8916,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -2350,7 +2350,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791555.603671,
-    "fills": 6
+    "last_fill_at": 1786791558.1160927,
+    "fills": 7
+  },
+  {
+    "timestamp": 1786791622,
+    "timestamp_added": 1786791622.8111944,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tt-al-2026-08-15",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "whale_usd": 6744.109200000001,
+    "whale_pct": 13.536,
+    "whale_value_at_open": 49823.5246,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786791653.9473374,
+    "fills": 4
   }
 ]
