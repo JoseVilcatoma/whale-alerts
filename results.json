@@ -3051,5 +3051,20 @@
     "status": "pending",
     "ultimo_fill": 1786826256,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 400,
+    "timestamp": 1786827300,
+    "username": "Kosherlocks",
+    "wallet": "0x82398835fe16616214d928ba87127e28fc1cd9a3",
+    "slug": "mlb-mil-lad-2026-08-15",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 28599.999998000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1786827300,
+    "fills": 1
   }
 ]
