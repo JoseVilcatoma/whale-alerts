@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:32:12 (hora de Perú)
+Actualizado: 2026-08-15 04:34:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,043.70
@@ -52,31 +52,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|
 | dota2-og-huliga-2026-08-14-game2 | 111111111115, CORGI8 |
 | dota2-flc-gl-2026-08-14-game2 | 111111111115, CORGI8 |
-| lol-hle1-kt-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, ferrariChampions2026, g42gh6524h5h5 |
 | mlb-mil-lad-2026-08-14-spread-home-2pt5 | 1winstreak1, RN1 |
 | dota2-lgd-xtreme-2026-08-14 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
-| dota2-ngx-vg-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-ngx-vg-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
 | dota2-flc-gl-2026-08-14 | 111111111115, ferrariChampions2026 |
-| dota2-ironwi-liquid-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026 |
+| dota2-ironwi-liquid-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-ironwi-liquid-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
-| dota2-boombo-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
-| dota2-boombo-aur1-2026-08-15-game2 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8 |
-| lol-nip-lng-2026-08-15-game1 | Lakersfan111, g42gh6524h5h5 |
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
-| dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026 |
-| lol-nip-lng-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| atp-dougaz-fomin-2026-08-15 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 87% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Aziz Dougaz (BUY) | 28% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ✅ ganada | +9.23 |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
@@ -92,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
+| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 19.4% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ✅ ganada | +5.62 |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ❌ perdida | -10.00 |
