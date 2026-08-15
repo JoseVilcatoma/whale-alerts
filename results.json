@@ -2826,5 +2826,35 @@
     "status": "pending",
     "ultimo_fill": 1786821914,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 370,
+    "timestamp": 1786822038,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-wsh-nym-2026-08-15-total-7pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 32160.113800000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1786822038,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 371,
+    "timestamp": 1786822058,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-wsh-nym-2026-08-15-total-8pt5",
+    "title": "Washington Nationals vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1786822058,
+    "fills": 1
   }
 ]
