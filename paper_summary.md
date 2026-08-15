@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:28:22 (hora de Perú)
+Actualizado: 2026-08-15 06:30:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,040.05
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 4 | 2 | 4 | +25.05 USD |
 | CORGI8 | 2 | 2 | 5 | +22.68 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 2 | +8.78 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 1 | 5 | +3.55 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 1 | 6 | +3.55 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
@@ -76,12 +76,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-mglz-navi-2026-08-15 | CORGI8, ferrariChampions2026 |
 | dota2-boombo-flc-2026-08-15-game1 | 111111111115, CORGI8, ferrariChampions2026, g42gh6524h5h5 |
 | dota2-tr7-xtreme-2026-08-15-game2 | CORGI8, ferrariChampions2026 |
-| lol-tt-al-2026-08-15-game2 | 111111111115, ferrariChampions2026 |
+| lol-tt-al-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 8.9% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ⏳ pendiente | — |
@@ -111,4 +112,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 2 Winne | GamerLegion (BUY) | 63% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 2 Winne | OG (BUY) | 38% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | BNK FEARX (BUY) | 59% | 10.00 | 2.0% | ⏳ pendiente | — |
