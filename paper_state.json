@@ -1,5 +1,5 @@
 {
-  "bankroll": 1088.7899607574186,
+  "bankroll": 1086.490287008712,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -695,6 +695,31 @@
       "timestamp": 1786807788.0008416,
       "bankroll": 1088.79,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Fnatic (BO3) - LEC Regular Season (+1.25 USD)"
+    },
+    {
+      "timestamp": 1786808786.2740846,
+      "bankroll": 1095.46,
+      "event": "won: ferrariChampions2026 \u2014 KBO: NC Dinos vs. Lotte Giants"
+    },
+    {
+      "timestamp": 1786808786.9137404,
+      "bankroll": 1085.46,
+      "event": "lost: CORGI8 \u2014 Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786808787.2136674,
+      "bankroll": 1092.41,
+      "event": "won: ferrariChampions2026 \u2014 Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)"
+    },
+    {
+      "timestamp": 1786808787.313857,
+      "bankroll": 1082.41,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786808787.7405362,
+      "bankroll": 1086.49,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D"
     }
   ]
 }

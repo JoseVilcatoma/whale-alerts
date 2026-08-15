@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:45:03 (hora de Perú)
+Actualizado: 2026-08-15 10:47:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,088.79
-**Retorno acumulado:** +8.88%
+**Bankroll actual:** $1,086.49
+**Retorno acumulado:** +8.65%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -19,8 +19,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 2 | 1 | +45.83 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 0 | +45.78 USD |
 | Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
-| CORGI8 | 4 | 4 | 2 | +21.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 6 | 4 | +16.38 USD |
+| CORGI8 | 4 | 5 | 1 | +11.20 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 3 | 3 | 0 | -6.46 USD |
 | IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 34 | 31 | 5 | -42.10 USD |
+| ferrariChampions2026 | 37 | 32 | 1 | -34.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 127
-- **Aciertos:** 72 (56.7%)
-- **Cuota promedio de entrada:** 53.8%
+- **Apuestas resueltas:** 132
+- **Aciertos:** 75 (56.8%)
+- **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,270.00
-- **ROI sobre lo apostado:** +5.17%
+- **Total apostado (suma de stakes):** $1,320.00
+- **ROI sobre lo apostado:** +4.80%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,9 +47,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 20-39% | 21 | 33.3% | 33.3% | -0.0 pp |
-| 40-59% | 67 | 52.2% | 49.2% | +3.0 pp |
-| 60-79% | 29 | 69.0% | 67.8% | +1.2 pp |
+| 20-39% | 23 | 30.4% | 33.0% | -2.5 pp |
+| 40-59% | 68 | 52.9% | 49.3% | +3.6 pp |
+| 60-79% | 31 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
