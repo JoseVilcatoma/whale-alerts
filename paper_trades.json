@@ -4370,5 +4370,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786817128.4063885,
     "fills": 3
+  },
+  {
+    "timestamp": 1786817515,
+    "timestamp_added": 1786817516.2721894,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-nyl-conn-2026-08-15-spread-away-8pt5",
+    "title": "Spread: New York Liberty (-8.5)",
+    "outcome": "Connecticut Sun",
+    "side": "BUY",
+    "whale_usd": 1974.0299990000003,
+    "whale_pct": 58.341,
+    "whale_value_at_open": 3383.5806,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786817516.2721968,
+    "fills": 1
   }
 ]
