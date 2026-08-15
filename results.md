@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 12:04:27 (hora de Perú)
+Actualizado: 2026-08-15 12:06:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **175**  ($8,376,052 en total)
+- Apuestas registradas: **176**  ($8,410,272 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 63
 
 ### Balance
@@ -48,6 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | CORGI8 | 0 | 1 | 2 | ⚠️ 0% (1) | $87,381 | -$29,980 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
+| ChinesePro | 0 | 0 | 2 | — | $67,449 | — |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | ExplosiveNinja | 1 | 0 | 1 | ⚠️ 100% (1) | $59,200 | +$19,800 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jtwyslljy | 0 | 0 | 1 | — | $37,368 | — |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
-| hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 
 _(mostrando los 40 de mayor monto, de 63 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 63 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $34,220 | — | ⏳ Pendiente |
 | Dragua9 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $29,281 | — | ⏳ Pendiente |
 | Daemon99 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.19 (84¢) | $36,237 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 63 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.59 (63¢) | $40,100 | +$23,551 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Pablo Carreno Busta | 1.32 (76¢) | $31,491 | +$9,945 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tomas Machac vs Pablo Carreno Busta | Tomas Machac | 2.22 (45¢) | $43,321 | -$43,321 | ❌ Perdida |
-| Sassy-Bucket | San Diego Padres vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
