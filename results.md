@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 13:12:03 (hora de Perú)
+Actualizado: 2026-08-15 13:14:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **179**  ($8,502,554 en total)
-- Resueltas: **155** — 87 ganadas / 68 perdidas (**56%** de acierto)
-- Pendientes: 24
+- Resueltas: **156** — 88 ganadas / 68 perdidas (**56%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 66
 
 ### Balance
 
-- **Resultado de los apostadores: -$217** sobre $7,432,170 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$1,241** sobre $15,200 (ROI **-8.2%**)
+- **Resultado de los apostadores: +$7,545** sobre $7,461,369 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$1,214** sobre $15,300 (ROI **-7.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 19 | 10 | 2 | 66% | $1,889,527 | +$472,517 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 1 | 67% | $1,889,527 | +$480,279 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 0 | 50% | $686,840 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 66 en total)_
 | sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | — | ⏳ Pendiente |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $33,229 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | +$7,762 | ✅ Ganada |
 | CORGI8 | Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage | Team Yandex | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $27,318 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Spirit - Game 2 Winner | Team Spirit | 1.39 (72¢) | $30,000 | -$30,000 | ❌ Perdida |
