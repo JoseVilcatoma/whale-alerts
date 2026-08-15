@@ -6311,5 +6311,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786753099.9108863,
     "fills": 1
+  },
+  {
+    "timestamp": 1786753216,
+    "timestamp_added": 1786753217.2898254,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-bal-tb-2026-08-14-total-9pt5",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 444.0,
+    "whale_pct": 1.351,
+    "whale_value_at_open": 32866.8001,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786753217.2898343,
+    "fills": 1
   }
 ]
