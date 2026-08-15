@@ -1330,8 +1330,8 @@
     "title": "Astana: Aziz Dougaz vs Sergey Fomin",
     "outcome": "Sergey Fomin",
     "side": "BUY",
-    "whale_usd": 18770.024400000002,
-    "whale_pct": 6.768,
+    "whale_usd": 41992.025219,
+    "whale_pct": 15.141,
     "whale_value_at_open": 277344.2272,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -1340,8 +1340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788249.1038635,
-    "fills": 6
+    "last_fill_at": 1786788385.2065063,
+    "fills": 10
   },
   {
     "timestamp": 1786786910,
@@ -1824,5 +1824,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786788161.571563,
     "fills": 2
+  },
+  {
+    "timestamp": 1786788420,
+    "timestamp_added": 1786788421.2722344,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-ura-san-2026-08-15-san",
+    "title": "Will Sanfrecce Hiroshima win on 2026-08-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1199.5466000000001,
+    "whale_pct": 0.404,
+    "whale_value_at_open": 296573.0555,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "bigspending"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786788421.2722428,
+    "fills": 1
   }
 ]
