@@ -1264,8 +1264,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 13616.436556,
-    "whale_pct": 5.525,
+    "whale_usd": 15383.737756,
+    "whale_pct": 6.242,
     "whale_value_at_open": 246451.8054,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -1277,8 +1277,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786777289.7685704,
-    "fills": 6
+    "last_fill_at": 1786777377.122541,
+    "fills": 7
   },
   {
     "timestamp": 1786776497,
