@@ -1,5 +1,5 @@
 {
-  "bankroll": 1056.490287008712,
+  "bankroll": 1046.490287008712,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -735,6 +735,11 @@
       "timestamp": 1786809469.103615,
       "bankroll": 1056.49,
       "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786810649.912554,
+      "bankroll": 1046.49,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: BoomBoys vs Team Falcons (BO3) - The International Group Stage"
     }
   ]
 }
