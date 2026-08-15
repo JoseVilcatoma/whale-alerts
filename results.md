@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 08:15:42 (hora de Perú)
+Actualizado: 2026-08-15 08:17:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **157**  ($7,748,696 en total)
+- Apuestas registradas: **158**  ($7,779,492 en total)
 - Resueltas: **149** — 85 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 56
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 0 | ⚠️ 43% (7) | $232,000 | -$60,212 |
+| 111111111115 | 2 | 1 | 1 | ⚠️ 67% (3) | $210,711 | +$22,354 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
-| 111111111115 | 2 | 1 | 0 | ⚠️ 67% (3) | $179,915 | +$22,354 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
 | TennisLove | 1 | 0 | 1 | ⚠️ 100% (1) | $131,474 | +$42,857 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 56 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 111111111115 | Dota 2: Iron Wing vs Team Yandex - Game 2 Winner | Iron Wing | 1.79 (56¢) | $30,796 | — | ⏳ Pendiente |
 | SDTrading | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fireluo | Dota 2: Nigma Galaxy vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 1.22 (82¢) | $46,407 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Vivo Keyd Stars vs LOS (BO3) - CBLOL Regular Season | LOS | 1.37 (73¢) | $26,279 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 56 en total)_
 | CORGI8 | Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C | MOUZ | 1.56 (64¢) | $29,980 | -$29,980 | ❌ Perdida |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $28,710 | -$28,710 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.14 (88¢) | $28,364 | +$3,868 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B | NIP | 1.64 (61¢) | $34,921 | +$22,326 | ✅ Ganada |
