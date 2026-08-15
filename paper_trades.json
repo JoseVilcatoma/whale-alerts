@@ -2092,8 +2092,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 2613.1696,
-    "whale_pct": 0.963,
+    "whale_usd": 3274.359828,
+    "whale_pct": 1.207,
     "whale_value_at_open": 271372.608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -2104,8 +2104,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791492.5931573,
-    "fills": 2
+    "last_fill_at": 1786792069.363164,
+    "fills": 3
   },
   {
     "timestamp": 1786790937,
@@ -2294,8 +2294,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner",
     "outcome": "Xtreme Gaming",
     "side": "BUY",
-    "whale_usd": 5174.966186,
-    "whale_pct": 1.905,
+    "whale_usd": 5693.768486,
+    "whale_pct": 2.096,
     "whale_value_at_open": 271683.1142,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -2304,8 +2304,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791981.7816896,
-    "fills": 6
+    "last_fill_at": 1786792132.315006,
+    "fills": 7
   },
   {
     "timestamp": 1786791440,
@@ -2386,8 +2386,8 @@
     "title": "Counter-Strike: Wildcard vs paiN - Map 1 Winner",
     "outcome": "Wildcard",
     "side": "BUY",
-    "whale_usd": 1751.6033320000001,
-    "whale_pct": 0.609,
+    "whale_usd": 2432.616657,
+    "whale_pct": 0.846,
     "whale_value_at_open": 287613.2937,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -2396,8 +2396,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791740.3230932,
-    "fills": 2
+    "last_fill_at": 1786792128.0969222,
+    "fills": 3
   },
   {
     "timestamp": 1786791746,
@@ -2540,8 +2540,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 1069.252444,
-    "whale_pct": 0.371,
+    "whale_usd": 2166.6220439999997,
+    "whale_pct": 0.752,
     "whale_value_at_open": 288285.772,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -2552,8 +2552,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791892.7309716,
-    "fills": 1
+    "last_fill_at": 1786792081.3168569,
+    "fills": 3
   },
   {
     "timestamp": 1786791922,
@@ -2564,8 +2564,8 @@
     "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner",
     "outcome": "TheMongolz",
     "side": "BUY",
-    "whale_usd": 792.786885,
-    "whale_pct": 0.272,
+    "whale_usd": 1646.8424020000002,
+    "whale_pct": 0.566,
     "whale_value_at_open": 291158.5387,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
@@ -2574,8 +2574,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791922.8497014,
-    "fills": 1
+    "last_fill_at": 1786792073.7171483,
+    "fills": 2
   },
   {
     "timestamp": 1786791967,
@@ -2586,8 +2586,8 @@
     "title": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
     "outcome": "TheMongolz",
     "side": "BUY",
-    "whale_usd": 585.395121,
-    "whale_pct": 0.201,
+    "whale_usd": 1113.561921,
+    "whale_pct": 0.382,
     "whale_value_at_open": 291158.5387,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -2596,8 +2596,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791967.4061422,
-    "fills": 1
+    "last_fill_at": 1786792114.6276848,
+    "fills": 2
   },
   {
     "timestamp": 1786791968,
@@ -2646,5 +2646,100 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786792022.4824278,
     "fills": 1
+  },
+  {
+    "timestamp": 1786792064,
+    "timestamp_added": 1786792064.565396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "chi-tie-xin-2026-08-15-tie",
+    "title": "Will Liaoning Tieren FC win on 2026-08-15?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2603.9309999999996,
+    "whale_pct": 0.897,
+    "whale_value_at_open": 290185.6765,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792073.7127175,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786792112,
+    "timestamp_added": 1786792113.0989668,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-mglz-navi-2026-08-15",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "whale_usd": 3497.424,
+    "whale_pct": 1.202,
+    "whale_value_at_open": 291010.3928,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "CORGI8"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792113.0989752,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786792123,
+    "timestamp_added": 1786792124.1836953,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dnf-2026-08-15-game2",
+    "title": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 1816.2925,
+    "whale_pct": 0.624,
+    "whale_value_at_open": 291010.3928,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792124.1837041,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786792129,
+    "timestamp_added": 1786792129.4910812,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-fox1-dnf-2026-08-15-game1",
+    "title": "LoL: BNK FEARX vs DN SOOPers - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 5225.584,
+    "whale_pct": 25.525,
+    "whale_value_at_open": 20472.2778,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792129.924917,
+    "fills": 2
   }
 ]
