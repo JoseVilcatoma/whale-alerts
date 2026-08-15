@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:31:48 (hora de Perú)
+Actualizado: 2026-08-15 03:33:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,022.88
-**Retorno acumulado:** +2.29%
+**Bankroll actual:** $1,044.21
+**Retorno acumulado:** +4.42%
 **Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 0 | 3 | +10.57 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 0 | 1 | +31.90 USD |
 | 111111111115 | 2 | 2 | 3 | +5.83 USD |
 | ferrariChampions2026 | 3 | 1 | 20 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
@@ -82,12 +82,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 68% | 10.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | Ninjas in Pyjamas (BUY) | 74% | 10.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 20% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 25% | 10.00 | 5.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 25% | 10.00 | 5.5% | 💰 vendida anticipada | +20.00 |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 75% | 10.00 | 4.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 32.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 35% | 10.00 | 7.6% | 💰 vendida anticipada | +10.57 |
 | Lakersfan111 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | SK Gaming (BUY) | 51% | 10.00 | 10.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 60% | 10.00 | 10.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 60% | 10.00 | 10.2% | 💰 vendida anticipada | +1.33 |
 | Lakersfan111 | Game Handicap: HLE (-1.5) vs KT Rolster  | KT Rolster (BUY) | 54% | 10.00 | 25.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 68% | 10.00 | 138.5% | 💰 vendida anticipada | +0.00 |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 33% | 10.00 | 27.5% | ⏳ pendiente | — |
