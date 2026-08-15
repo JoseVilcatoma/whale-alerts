@@ -2614,15 +2614,16 @@
     "whale_value_at_open": 60871.1042,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 11.86,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786791968.484703,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 94
   },
   {
     "timestamp": 1786792022,
@@ -3075,8 +3076,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 2323.3594999999996,
-    "whale_pct": 3.645,
+    "whale_usd": 3773.359499999999,
+    "whale_pct": 5.919,
     "whale_value_at_open": 63748.3895,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
@@ -3087,8 +3088,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786793525.618871,
-    "fills": 2
+    "last_fill_at": 1786793789.3311894,
+    "fills": 4
   },
   {
     "timestamp": 1786792873,
