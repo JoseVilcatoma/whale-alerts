@@ -4468,8 +4468,8 @@
     "title": "St. Louis Cardinals vs. Chicago Cubs",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 525.6299990000001,
-    "whale_pct": 9.227,
+    "whale_usd": 1483.145199,
+    "whale_pct": 26.035,
     "whale_value_at_open": 5696.703,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
@@ -4478,8 +4478,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818212.9700172,
-    "fills": 1
+    "last_fill_at": 1786821362.513685,
+    "fills": 2
   },
   {
     "timestamp": 1786818213,
@@ -4633,8 +4633,8 @@
     "title": "St. Louis Cardinals vs. Chicago Cubs",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 949.999,
-    "whale_pct": 0.431,
+    "whale_usd": 2043.9975,
+    "whale_pct": 0.926,
     "whale_value_at_open": 220619.0958,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -4645,8 +4645,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818360.273446,
-    "fills": 1
+    "last_fill_at": 1786821308.0178263,
+    "fills": 2
   },
   {
     "timestamp": 1786818641,
@@ -4850,6 +4850,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786821261.389025,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786821303,
+    "timestamp_added": 1786821304.285961,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-vks-los-2026-08-15-game1",
+    "title": "LoL: Vivo Keyd Stars vs LOS - Game 1 Winner",
+    "outcome": "Vivo Keyd Stars",
+    "side": "BUY",
+    "whale_usd": 679.7071999999998,
+    "whale_pct": 2.614,
+    "whale_value_at_open": 26003.2683,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786821304.2859683,
     "fills": 1
   }
 ]
