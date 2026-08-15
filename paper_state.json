@@ -1,5 +1,5 @@
 {
-  "bankroll": 1525.8029539929792,
+  "bankroll": 1658.5394754544077,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1220,6 +1220,111 @@
       "timestamp": 1786758128.0561755,
       "bankroll": 1525.8,
       "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-4.5)"
+    },
+    {
+      "timestamp": 1786759188.8043325,
+      "bankroll": 1515.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays: O/U 5.5"
+    },
+    {
+      "timestamp": 1786759253.2235887,
+      "bankroll": 1505.8,
+      "event": "lost: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759253.4384942,
+      "bankroll": 1495.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759253.638822,
+      "bankroll": 1485.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759254.2865403,
+      "bankroll": 1500.8,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759254.386791,
+      "bankroll": 1517.83,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759254.6873682,
+      "bankroll": 1532.22,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759255.1784296,
+      "bankroll": 1545.48,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759255.6793196,
+      "bankroll": 1563.25,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759255.8796868,
+      "bankroll": 1553.25,
+      "event": "lost: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759257.1313043,
+      "bankroll": 1569.57,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759257.2314696,
+      "bankroll": 1582.3,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759257.8324785,
+      "bankroll": 1592.71,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759258.032757,
+      "bankroll": 1603.54,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759258.5335832,
+      "bankroll": 1630.58,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759258.8341212,
+      "bankroll": 1645.58,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759259.0345242,
+      "bankroll": 1635.58,
+      "event": "lost: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759259.524215,
+      "bankroll": 1625.58,
+      "event": "lost: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759260.0249329,
+      "bankroll": 1629.09,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. New York Mets"
+    },
+    {
+      "timestamp": 1786759260.1250792,
+      "bankroll": 1644.73,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1786759260.2252147,
+      "bankroll": 1658.54,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Toronto Blue Jays"
     }
   ]
 }
