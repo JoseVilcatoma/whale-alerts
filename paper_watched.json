@@ -14,13 +14,13 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786755556.053433,
-    "roi_pct": 684.36,
+    "roi_pct": 684.23,
     "short_term_pct": 80.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "Lakersfan111",
     "added_at": 1786762155.465391,
-    "roi_pct": 684.63,
+    "roi_pct": 656.94,
     "short_term_pct": 100.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
@@ -32,31 +32,31 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1786766195.9667165,
-    "roi_pct": 809.27,
+    "roi_pct": 807.93,
     "short_term_pct": 100.0
   },
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "g42gh6524h5h5",
     "added_at": 1786775693.8141174,
-    "roi_pct": 1835.28,
+    "roi_pct": 1505.68,
     "short_term_pct": 100.0
   },
   "0x79ae097215202b5d01f98e4479fb219102469a4a": {
     "username": "CORGI8",
     "added_at": 1786775693.8141484,
-    "roi_pct": 360.75,
+    "roi_pct": 363.78,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1786776639.5589085,
-    "roi_pct": 370.02,
+    "roi_pct": 351.35,
     "short_term_pct": 100.0
   },
-  "0xf201a19b43471261a3c1ba9247335d55270e527e": {
-    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-    "added_at": 1786777581.867505,
-    "roi_pct": 7332.12,
+  "0x86dab59a8a6e7f9947282d2117aab3429b706428": {
+    "username": "bigspending",
+    "added_at": 1786778523.8088973,
+    "roi_pct": 247.09,
     "short_term_pct": 100.0
   }
 }
