@@ -1870,5 +1870,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786782295.685731,
     "fills": 2
+  },
+  {
+    "timestamp": 1786782561,
+    "timestamp_added": 1786782562.4051294,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-hle1-kt-2026-08-15-game1",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 2113.0994,
+    "whale_pct": 6.914,
+    "whale_value_at_open": 30562.2474,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "ferrariChampions2026",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786782562.4051383,
+    "fills": 1
   }
 ]

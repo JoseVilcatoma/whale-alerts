@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:27:44 (hora de Perú)
+Actualizado: 2026-08-15 03:29:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,022.88
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 0 | 2 | +10.57 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 0 | 3 | +10.57 USD |
 | 111111111115 | 2 | 2 | 3 | +5.83 USD |
 | ferrariChampions2026 | 3 | 1 | 20 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
@@ -75,6 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 20% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -104,4 +105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | BoomBoys (BUY) | 46% | 10.00 | 6.8% | ⏳ pendiente | — |
