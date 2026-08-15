@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 20:33:58 (hora de Perú)
+Actualizado: 2026-08-14 20:36:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,514.81
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| CORGI8 | 16 | 7 | 19 | +244.03 USD |
+| CORGI8 | 16 | 7 | 20 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | 1winstreak1 | 21 | 14 | 60 | +11.12 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 3 | +0.00 USD |
+| RN1 | 0 | 0 | 4 | +0.00 USD |
 | SDTrading | 1 | 4 | 2 | -28.26 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 2 | -39.04 USD |
-| Sassy-Bucket | 1 | 9 | 5 | -81.82 USD |
+| Sassy-Bucket | 1 | 9 | 9 | -81.82 USD |
 
 ## Análisis general
 
@@ -76,6 +76,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 63% | 10.00 | 0.9% | ⏳ pendiente | — |
+| CORGI8 | Dota 2: Team Falcons vs GamerLegion (BO3 | GamerLegion (BUY) | 11% | 10.00 | 0.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 4.5% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 10.4% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 50% | 10.00 | 36.1% | ⏳ pendiente | — |
@@ -100,9 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 39% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 74% | 10.00 | 0.7% | ⏳ pendiente | — |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 77% | 10.00 | 30.1% | ⏳ pendiente | — |
-| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 18% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 40% | 10.00 | 1.0% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Arizona Diamondbacks vs. Atlanta Braves | Atlanta Braves (BUY) | 38% | 10.00 | 5.0% | ⏳ pendiente | — |
