@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 08:31:39 (hora de Perú)
+Actualizado: 2026-08-15 08:33:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,049.54
-**Retorno acumulado:** +4.95%
+**Bankroll actual:** $1,060.38
+**Retorno acumulado:** +6.04%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,9 +16,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 11 | 3 | 5 | +33.87 USD |
+| CORGI8 | 4 | 2 | 4 | +41.20 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 11 | 3 | 6 | +33.87 USD |
 | 111111111115 | 5 | 2 | 3 | +32.59 USD |
-| CORGI8 | 3 | 2 | 5 | +31.20 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | g42gh6524h5h5 | 1 | 0 | 6 | +9.23 USD |
 | IMAREALPERSON | 2 | 0 | 1 | +2.41 USD |
@@ -30,16 +30,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | Lakersfan111 | 1 | 2 | 6 | -3.68 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 22 | 20 | 28 | -44.87 USD |
+| ferrariChampions2026 | 23 | 21 | 26 | -44.04 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 83
-- **Aciertos:** 46 (55.4%)
-- **Cuota promedio de entrada:** 53.5%
+- **Apuestas resueltas:** 86
+- **Aciertos:** 48 (55.8%)
+- **Cuota promedio de entrada:** 53.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $830.00
-- **ROI sobre lo apostado:** +3.13%
+- **Total apostado (suma de stakes):** $860.00
+- **ROI sobre lo apostado:** +4.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 16 | 37.5% | 31.9% | +5.6 pp |
-| 40-59% | 40 | 50.0% | 48.8% | +1.2 pp |
+| 40-59% | 43 | 51.2% | 48.8% | +2.3 pp |
 | 60-79% | 19 | 63.2% | 67.9% | -4.7 pp |
 | 80-94% | 8 | 100.0% | 85.5% | +14.5 pp |
 
@@ -93,6 +93,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 95% | 10.00 | 31.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 51% | 10.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Bilibili Gaming vs Team WE - Game 1 | Bilibili Gaming (BUY) | 67% | 10.00 | 47.0% | ⏳ pendiente | — |
@@ -122,4 +123,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |

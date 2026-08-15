@@ -1,5 +1,5 @@
 {
-  "bankroll": 1049.5432714585659,
+  "bankroll": 1060.3766047918991,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -485,6 +485,21 @@
       "timestamp": 1786800295.1178384,
       "bankroll": 1049.54,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend (+1.89 USD)"
+    },
+    {
+      "timestamp": 1786800814.683194,
+      "bankroll": 1039.54,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786800814.7833438,
+      "bankroll": 1050.38,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786800814.8836737,
+      "bankroll": 1060.38,
+      "event": "won: CORGI8 \u2014 Dota 2: Team Resilience vs Xtreme Gaming - Game 2 Winner"
     }
   ]
 }
