@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:35:58 (hora de Perú)
+Actualizado: 2026-08-15 03:38:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,044.21
-**Retorno acumulado:** +4.42%
+**Bankroll actual:** $1,052.33
+**Retorno acumulado:** +5.23%
 **Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,8 +16,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 0 | 0 | +40.01 USD |
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 0 | 1 | +31.90 USD |
 | 111111111115 | 2 | 2 | 3 | +5.83 USD |
 | ferrariChampions2026 | 3 | 1 | 20 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 8.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 53% | 10.00 | 8.7% | 💰 vendida anticipada | +8.11 |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 19% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster ( | KT Rolster (BUY) | 28% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Hanwha Life Esports vs KT Rolster - | KT Rolster (BUY) | 20% | 10.00 | 0.5% | ⏳ pendiente | — |

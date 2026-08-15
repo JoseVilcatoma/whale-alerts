@@ -1887,8 +1887,8 @@
     "whale_value_at_open": 30562.2474,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 8.11,
     "overlaps_with": [
       "Lakersfan111",
       "ferrariChampions2026",
@@ -1897,6 +1897,7 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786782649.809452,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 96
   }
 ]
