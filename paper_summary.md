@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 11:59:08 (hora de Perú)
+Actualizado: 2026-08-15 12:01:14 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,046.49
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 6 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 7 | +0.00 USD |
 | midwicket72 | 0 | 0 | 2 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
@@ -90,7 +90,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 7.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
+| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Afghanistan (BUY) | 84% | 10.00 | 12.1% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: JiJieHao vs Aurora Gamin | JiJieHao (BUY) | 15% | 10.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Deportivo Alavés win on 2026-08-15? | Yes (BUY) | 40% | 10.00 | 7.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Browns vs. Bears | Bears (BUY) | 40% | 10.00 | 14.4% | ⏳ pendiente | — |
@@ -119,4 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | 💰 vendida anticipada | +1.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ✅ ganada | +10.83 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ❌ perdida | -10.00 |
