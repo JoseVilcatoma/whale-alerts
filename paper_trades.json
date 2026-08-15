@@ -1724,8 +1724,8 @@
     "whale_value_at_open": 278024.918,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2639,8 +2639,8 @@
     "whale_value_at_open": 240331.5609,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.54,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -3106,8 +3106,8 @@
     "whale_value_at_open": 27260.1363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.13,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "ferrariChampions2026"
@@ -3410,8 +3410,8 @@
     "whale_value_at_open": 48283.4602,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 38,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
@@ -4050,8 +4050,8 @@
     "title": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
     "outcome": "Ian Machado Garry",
     "side": "BUY",
-    "whale_usd": 13755.568928,
-    "whale_pct": 15.924,
+    "whale_usd": 19950.308428,
+    "whale_pct": 23.095,
     "whale_value_at_open": 86384.7438,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 23,
@@ -4060,8 +4060,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803007.4776478,
-    "fills": 1
+    "last_fill_at": 1786803828.5468125,
+    "fills": 2
   },
   {
     "timestamp": 1786803201,
@@ -4160,5 +4160,54 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786803496.1082237,
     "fills": 4
+  },
+  {
+    "timestamp": 1786803875,
+    "timestamp_added": 1786803876.2496068,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ironwi-ty-2026-08-15",
+    "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 35491.592940999995,
+    "whale_pct": 8.625,
+    "whale_value_at_open": 411515.7964,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803908.0228152,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786803907,
+    "timestamp_added": 1786803907.5662644,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ironwi-ty-2026-08-15",
+    "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 25500.0,
+    "whale_pct": 30.217,
+    "whale_value_at_open": 84390.0644,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803907.5662718,
+    "fills": 1
   }
 ]
