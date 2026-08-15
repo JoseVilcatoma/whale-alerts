@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 07:16:26 (hora de Perú)
+Actualizado: 2026-08-15 07:18:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,025.17
-**Retorno acumulado:** +2.52%
+**Bankroll actual:** $1,029.67
+**Retorno acumulado:** +2.97%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -28,16 +28,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 0 | 0 | 6 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 5 | 8 | -1.22 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| ferrariChampions2026 | 13 | 13 | 44 | -28.71 USD |
+| ferrariChampions2026 | 14 | 13 | 43 | -24.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 60
-- **Aciertos:** 31 (51.7%)
-- **Cuota promedio de entrada:** 51.9%
+- **Apuestas resueltas:** 61
+- **Aciertos:** 32 (52.5%)
+- **Cuota promedio de entrada:** 52.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $600.00
-- **ROI sobre lo apostado:** +0.55%
+- **Total apostado (suma de stakes):** $610.00
+- **ROI sobre lo apostado:** +1.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 20-39% | 13 | 38.5% | 31.3% | +7.2 pp |
 | 40-59% | 31 | 45.2% | 48.8% | -3.7 pp |
-| 60-79% | 10 | 60.0% | 67.2% | -7.2 pp |
+| 60-79% | 11 | 63.6% | 67.4% | -3.7 pp |
 | 80-94% | 6 | 100.0% | 86.7% | +13.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Sanfrecce Hiroshima (-1.5) | Sanfrecce Hiroshima (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | JEF United Ichihara Chiba vs. FC Machida | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | Natus Vincere (BUY) | 71% | 10.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 69% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Fagiano Okayama vs. V-Varen Nagasaki: O/ | Over (BUY) | 69% | 10.00 | 0.3% | ✅ ganada | +4.49 |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons (BO3) - | BoomBoys (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Team Falcons - Game  | BoomBoys (BUY) | 43% | 10.00 | 12.5% | ⏳ pendiente | — |
