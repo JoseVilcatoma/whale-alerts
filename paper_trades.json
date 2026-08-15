@@ -5136,8 +5136,8 @@
     "title": "San Diego Padres vs. Cleveland Guardians",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 1123.05,
-    "whale_pct": 11.164,
+    "whale_usd": 1739.22,
+    "whale_pct": 17.289,
     "whale_value_at_open": 10059.6488,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -5148,8 +5148,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786836264.8575287,
-    "fills": 1
+    "last_fill_at": 1786837389.0609963,
+    "fills": 2
   },
   {
     "timestamp": 1786836340,
