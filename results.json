@@ -2269,5 +2269,20 @@
     "status": "pending",
     "ultimo_fill": 1786786773,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 319,
+    "timestamp": 1786789944,
+    "username": "GarlickDemon",
+    "wallet": "0x53fb607596ca2b760e577ec8b4774e4193d47c30",
+    "slug": "dota2-tr7-xtreme-2026-08-15",
+    "title": "Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage",
+    "outcome": "Team Resilience",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1786789944,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 05:30:45 (hora de Perú)
+Actualizado: 2026-08-15 05:32:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **151**  ($7,568,759 en total)
+- Apuestas registradas: **152**  ($7,593,959 en total)
 - Resueltas: **144** — 81 ganadas / 63 perdidas (**56%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 52
+- Pendientes: 8
+- Apostadores distintos: 53
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 0 | 1 | 0 | ⚠️ 0% (1) | $30,307 | -$30,307 |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 
-_(mostrando los 40 de mayor monto, de 52 en total)_
+_(mostrando los 40 de mayor monto, de 53 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | — | ⏳ Pendiente |
 | noway8 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.32 (76¢) | $290,000 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $96,292 | — | ⏳ Pendiente |
 | StasPanda | LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group | Hanwha Life Esports | 1.37 (73¢) | $39,313 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 52 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $40,000 | -$40,000 | ❌ Perdida |
 | retroactivesource | LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group | T1 | 1.25 (80¢) | $34,595 | -$34,595 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage | Team Falcons | 1.61 (62¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | DEN vs. ATL: O/U 38.5 | Over 38.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
