@@ -3239,8 +3239,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 15999.999992999998,
-    "whale_pct": 11.963,
+    "whale_usd": 24999.999987999996,
+    "whale_pct": 18.692,
     "whale_value_at_open": 133747.3368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -3249,8 +3249,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795181.719553,
-    "fills": 8
+    "last_fill_at": 1786795423.3030658,
+    "fills": 13
   },
   {
     "timestamp": 1786794177,
@@ -3283,8 +3283,8 @@
     "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 15999.999991999997,
-    "whale_pct": 10.332,
+    "whale_usd": 29999.999986999996,
+    "whale_pct": 19.373,
     "whale_value_at_open": 154855.07,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -3293,8 +3293,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795188.2351422,
-    "fills": 11
+    "last_fill_at": 1786795400.2801883,
+    "fills": 16
   },
   {
     "timestamp": 1786794325,
@@ -3381,8 +3381,8 @@
     "title": "Dota 2: Team Liquid vs Aurora - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 2999.999997,
-    "whale_pct": 1.293,
+    "whale_usd": 4999.999995,
+    "whale_pct": 2.154,
     "whale_value_at_open": 232093.9091,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -3391,8 +3391,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786795275.271634,
-    "fills": 3
+    "last_fill_at": 1786795409.4942002,
+    "fills": 5
   },
   {
     "timestamp": 1786794701,
@@ -3469,5 +3469,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786795294.4590178,
     "fills": 1
+  },
+  {
+    "timestamp": 1786795361,
+    "timestamp_added": 1786795361.595952,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ironwi-ty-2026-08-15-game1",
+    "title": "Dota 2: Iron Wing vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 15027.349960000003,
+    "whale_pct": 15.991,
+    "whale_value_at_open": 93971.5594,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786795408.5826192,
+    "fills": 5
   }
 ]
