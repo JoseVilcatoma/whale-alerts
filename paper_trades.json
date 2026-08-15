@@ -3752,5 +3752,27 @@
     "last_fill_at": 1786807719.0340965,
     "fills": 1,
     "closed_price": 72
+  },
+  {
+    "timestamp": 1786808522,
+    "timestamp_added": 1786808523.2405603,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-car-buf-2026-08-15-spread-home-3pt5",
+    "title": "Spread: BUF (-3.5)",
+    "outcome": "CAR",
+    "side": "BUY",
+    "whale_usd": 1020.0,
+    "whale_pct": 0.93,
+    "whale_value_at_open": 109697.6154,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786808523.2405686,
+    "fills": 1
   }
 ]

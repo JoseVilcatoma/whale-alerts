@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:40:56 (hora de Perú)
+Actualizado: 2026-08-15 10:42:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,088.79
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 6 | 4 | +16.38 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
@@ -89,6 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: BUF (-3.5) | CAR (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | 💰 vendida anticipada | +1.25 |
 | SDTrading | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 54% | 10.00 | 17.5% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | San Diego Padres (BUY) | 47% | 10.00 | 5.7% | ⏳ pendiente | — |
@@ -118,4 +119,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ⏳ pendiente | — |
 | g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ✅ ganada | +6.13 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 5.9% | 💰 vendida anticipada | -2.00 |
-| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | DN SOOPers (BUY) | 39% | 10.00 | 0.3% | ✅ ganada | +15.64 |
