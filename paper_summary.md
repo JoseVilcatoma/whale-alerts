@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:36:43 (hora de Perú)
+Actualizado: 2026-08-14 21:38:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,791.92
-**Retorno acumulado:** +79.19%
+**Bankroll actual:** $1,814.38
+**Retorno acumulado:** +81.44%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,15 +16,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 33 | 5 | +294.24 USD |
+| 1winstreak1 | 57 | 35 | 3 | +274.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
+| RN1 | 16 | 2 | 50 | +62.89 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
 | wr0ngw4yb3tt0r | 15 | 14 | 9 | +20.45 USD |
-| RN1 | 13 | 2 | 52 | +20.43 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 314
-- **Aciertos:** 199 (63.4%)
-- **Cuota promedio de entrada:** 52.9%
+- **Apuestas resueltas:** 319
+- **Aciertos:** 202 (63.3%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,138.66
-- **ROI sobre lo apostado:** +25.20%
+- **Total apostado (suma de stakes):** $3,188.66
+- **ROI sobre lo apostado:** +25.51%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,12 +48,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 15 | 13.3% | 15.9% | -2.5 pp |
-| 20-39% | 55 | 49.1% | 30.7% | +18.4 pp |
-| 40-59% | 130 | 59.2% | 47.9% | +11.3 pp |
+| 1-19% (bomba) | 16 | 12.5% | 16.0% | -3.5 pp |
+| 20-39% | 57 | 49.1% | 30.6% | +18.6 pp |
+| 40-59% | 131 | 59.5% | 47.9% | +11.7 pp |
 | 60-79% | 77 | 76.6% | 67.2% | +9.5 pp |
 | 80-94% | 30 | 90.0% | 87.4% | +2.6 pp |
-| 95-99% (casi seguro) | 7 | 100.0% | 96.3% | +3.7 pp |
+| 95-99% (casi seguro) | 8 | 100.0% | 96.2% | +3.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -90,6 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Milwaukee Brewers (BUY) | 27% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 71% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 64% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -119,4 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 11.1% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 83% | 10.00 | 0.6% | ⏳ pendiente | — |

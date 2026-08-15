@@ -1,5 +1,5 @@
 {
-  "bankroll": 1791.9220281431576,
+  "bankroll": 1814.3757318468613,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1575,6 +1575,31 @@
       "timestamp": 1786761333.0703154,
       "bankroll": 1791.92,
       "event": "lost: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786761450.0504503,
+      "bankroll": 1781.92,
+      "event": "lost: 1winstreak1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786761450.3495483,
+      "bankroll": 1771.92,
+      "event": "lost: 1winstreak1 \u2014 Spread: Baltimore Orioles (-2.5)"
+    },
+    {
+      "timestamp": 1786761456.7546923,
+      "bankroll": 1798.96,
+      "event": "won: RN1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786761457.4558976,
+      "bankroll": 1813.96,
+      "event": "won: RN1 \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1786761457.7564518,
+      "bankroll": 1814.38,
+      "event": "won: RN1 \u2014 Spread: Baltimore Orioles (-1.5)"
     }
   ]
 }

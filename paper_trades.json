@@ -6392,8 +6392,8 @@
     "whale_value_at_open": 33637.2034,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 29,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6414,8 +6414,8 @@
     "whale_value_at_open": 33637.2034,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 18,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8918,8 +8918,8 @@
     "whale_value_at_open": 166244.1716,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 27,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 27.04,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -9080,8 +9080,8 @@
     "whale_value_at_open": 166442.5008,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 15.0,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -9150,8 +9150,8 @@
     "whale_value_at_open": 166548.0155,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -10496,6 +10496,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786761331.2569518,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786761515,
+    "timestamp_added": 1786761515.846751,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-andrade-jones-2026-08-14",
+    "title": "Brownsburg: Andres Andrade vs Jack Pinnington Jones",
+    "outcome": "Jack Pinnington Jones",
+    "side": "BUY",
+    "whale_usd": 764.51,
+    "whale_pct": 0.497,
+    "whale_value_at_open": 153969.3059,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786761515.84676,
     "fills": 1
   }
 ]
