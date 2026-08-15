@@ -1465,5 +1465,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786778788.7806787,
     "fills": 1
+  },
+  {
+    "timestamp": 1786779680,
+    "timestamp_added": 1786779681.3059168,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "dota2-ironwi-liquid-2026-08-15-game2",
+    "title": "Dota 2: Iron Wing vs Team Liquid - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 15167.996900000002,
+    "whale_pct": 26.136,
+    "whale_value_at_open": 58035.4538,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786779708.173198,
+    "fills": 2
   }
 ]
