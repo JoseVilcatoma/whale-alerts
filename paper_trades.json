@@ -1313,8 +1313,8 @@
     "whale_value_at_open": 274305.3948,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2565,8 +2565,8 @@
     "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner",
     "outcome": "TheMongolz",
     "side": "BUY",
-    "whale_usd": 3058.2157340000003,
-    "whale_pct": 1.05,
+    "whale_usd": 5756.476366,
+    "whale_pct": 1.977,
     "whale_value_at_open": 291158.5387,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
@@ -2575,8 +2575,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792362.072423,
-    "fills": 4
+    "last_fill_at": 1786792770.5759056,
+    "fills": 7
   },
   {
     "timestamp": 1786791967,
@@ -2752,8 +2752,8 @@
     "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 7111.289048,
-    "whale_pct": 2.376,
+    "whale_usd": 8066.970248,
+    "whale_pct": 2.695,
     "whale_value_at_open": 299350.3799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -2762,8 +2762,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792641.9343293,
-    "fills": 7
+    "last_fill_at": 1786792695.007818,
+    "fills": 8
   },
   {
     "timestamp": 1786792215,
@@ -2774,8 +2774,8 @@
     "title": "LoL: BNK FEARX vs DN SOOPers - Game 1 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 4004.9938,
-    "whale_pct": 1.338,
+    "whale_usd": 5261.2388,
+    "whale_pct": 1.758,
     "whale_value_at_open": 299350.3799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -2788,8 +2788,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792669.3489242,
-    "fills": 3
+    "last_fill_at": 1786792705.0763054,
+    "fills": 4
   },
   {
     "timestamp": 1786792292,
@@ -2868,8 +2868,8 @@
     "title": "Avispa Fukuoka vs. Cerezo \u014csaka: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 963.6116000000001,
-    "whale_pct": 0.304,
+    "whale_usd": 1885.2116,
+    "whale_pct": 0.594,
     "whale_value_at_open": 317175.1718,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
@@ -2878,8 +2878,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792371.6749187,
-    "fills": 1
+    "last_fill_at": 1786792704.2882285,
+    "fills": 2
   },
   {
     "timestamp": 1786792427,
@@ -2985,8 +2985,8 @@
     "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 2115.212413,
-    "whale_pct": 0.617,
+    "whale_usd": 5762.241013,
+    "whale_pct": 1.681,
     "whale_value_at_open": 342815.9075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -2997,8 +2997,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792561.3251827,
-    "fills": 1
+    "last_fill_at": 1786792677.2000127,
+    "fills": 2
   },
   {
     "timestamp": 1786792568,
