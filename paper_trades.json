@@ -11528,5 +11528,52 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786763622.6858134,
     "fills": 2
+  },
+  {
+    "timestamp": 1786763750,
+    "timestamp_added": 1786763750.739302,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "wnba-por-sea-2026-08-14",
+    "title": "Portland Fire vs. Seattle Storm",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "whale_usd": 80.73,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 20776.522,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786763750.7393122,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786763770,
+    "timestamp_added": 1786763770.6046305,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-col-sf-2026-08-14",
+    "title": "Colorado Rockies vs. San Francisco Giants",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 22.05,
+    "whale_pct": 0.106,
+    "whale_value_at_open": 20776.522,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786763770.6046393,
+    "fills": 1
   }
 ]

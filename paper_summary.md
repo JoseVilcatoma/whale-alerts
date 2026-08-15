@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 22:14:24 (hora de Perú)
+Actualizado: 2026-08-14 22:16:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,828.24
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 1winstreak1 | 57 | 36 | 21 | +264.24 USD |
+| 1winstreak1 | 57 | 36 | 23 | +264.24 USD |
 | CORGI8 | 16 | 7 | 29 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 4 | +165.32 USD |
 | midwicket72 | 26 | 3 | 9 | +106.44 USD |
@@ -95,6 +95,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 45% | 10.00 | 0.1% | ⏳ pendiente | — |
+| 1winstreak1 | Portland Fire vs. Seattle Storm | Seattle Storm (BUY) | 27% | 10.00 | 0.4% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: St. Lucia King | St. Lucia Kings (BUY) | 62% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 70% | 10.00 | 4.5% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 3.7% | ⏳ pendiente | — |
@@ -123,5 +125,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 15% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 1winstreak1 | Portland Fire vs. Seattle Storm | Portland Fire (BUY) | 69% | 10.00 | 3.9% | ⏳ pendiente | — |
-| 1winstreak1 | Colorado Rockies vs. San Francisco Giant | Under (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
