@@ -1,5 +1,5 @@
 {
-  "bankroll": 1679.5610297730639,
+  "bankroll": 1669.5610297730639,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1395,6 +1395,11 @@
       "timestamp": 1786759888.4076269,
       "bankroll": 1679.56,
       "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1786760137.788893,
+      "bankroll": 1669.56,
+      "event": "lost: 1winstreak1 \u2014 Spread: Indiana Fever (-5.5)"
     }
   ]
 }
