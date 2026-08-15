@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:20:51 (hora de Perú)
+Actualizado: 2026-08-14 19:23:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -18,13 +18,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 17 | +244.03 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
-| midwicket72 | 26 | 3 | 3 | +106.44 USD |
+| midwicket72 | 26 | 3 | 4 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | wr0ngw4yb3tt0r | 12 | 8 | 11 | +47.26 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 27 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 33 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
@@ -71,6 +71,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 38% | 10.00 | 0.1% | ⏳ pendiente | — |
+| midwicket72 | Caribbean Premier League: St. Lucia King | Antigua And Barbuda Falcons (BUY) | 8% | 10.00 | 10.2% | ⏳ pendiente | — |
+| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 14% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 18% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 29% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 40% | 10.00 | 1.0% | ⏳ pendiente | — |
+| 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 37% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 40% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 63% | 10.00 | 6.4% | ⏳ pendiente | — |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 97% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -94,10 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 40% | 10.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Pittsburgh Pirates (-3.5) | Pittsburgh Pirates (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 72% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 22% | 10.00 | 2.9% | ⏳ pendiente | — |
-| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Miami Marlins (BUY) | 31% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 69% | 10.00 | 13.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays | New York Yankees (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
