@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 00:07:43 (hora de Perú)
+Actualizado: 2026-08-15 00:09:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $992.30
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | RN1 | 3 | 2 | 3 | -9.89 USD |
 
 ## Análisis general
@@ -56,9 +56,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | UFC 330: Eric McConico vs. Donte Johnson | Eric McConico (BUY) | 24% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Matthew Dellavedova (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Vici Gaming (BUY) | 47% | 10.00 | 4.5% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Vici Gaming (BO3 | Vici Gaming (BUY) | 47% | 10.00 | 4.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 53% | 10.00 | 8.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 51% | 10.00 | 16.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-2.5) | Milwaukee Brewers (BUY) | 82% | 10.00 | 21.4% | ✅ ganada | +2.20 |
