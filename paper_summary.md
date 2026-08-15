@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 13:27:09 (hora de Perú)
+Actualizado: 2026-08-15 13:29:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 38% | 10.00 | 109.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | Chicago Cubs (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 53.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 2.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 4.0% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |

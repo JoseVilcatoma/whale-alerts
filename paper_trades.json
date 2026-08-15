@@ -4490,8 +4490,8 @@
     "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5731.531000000001,
-    "whale_pct": 2.657,
+    "whale_usd": 8568.530400000001,
+    "whale_pct": 3.973,
     "whale_value_at_open": 215676.7461,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -4500,8 +4500,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786818214.6527202,
-    "fills": 1
+    "last_fill_at": 1786818525.63099,
+    "fills": 2
   },
   {
     "timestamp": 1786818214,
