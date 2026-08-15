@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 05:21:46 (hora de Perú)
+Actualizado: 2026-08-15 05:23:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,021.16
-**Retorno acumulado:** +2.12%
+**Bankroll actual:** $1,042.43
+**Retorno acumulado:** +4.24%
 **Peor caída desde un máximo (drawdown):** 3.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,6 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 111111111115 | 4 | 2 | 2 | +25.05 USD |
 | CORGI8 | 2 | 2 | 1 | +22.68 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 5 | 4 | 1 | +8.78 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 1 | 2 | +0.79 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
@@ -26,17 +27,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 2 | +0.00 USD |
 | ferrariChampions2026 | 6 | 5 | 26 | -4.04 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 4 | 3 | -12.50 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 39
-- **Aciertos:** 21 (53.8%)
-- **Cuota promedio de entrada:** 52.4%
+- **Apuestas resueltas:** 41
+- **Aciertos:** 23 (56.1%)
+- **Cuota promedio de entrada:** 52.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $390.00
-- **ROI sobre lo apostado:** +5.22%
+- **Total apostado (suma de stakes):** $410.00
+- **ROI sobre lo apostado:** +10.16%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 7 | 42.9% | 32.3% | +10.6 pp |
-| 40-59% | 21 | 47.6% | 48.4% | -0.8 pp |
+| 40-59% | 23 | 52.2% | 48.4% | +3.8 pp |
 | 60-79% | 8 | 62.5% | 67.5% | -5.0 pp |
 | 80-94% | 3 | 100.0% | 87.3% | +12.7 pp |
 
