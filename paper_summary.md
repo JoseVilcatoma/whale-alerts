@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:07:26 (hora de Perú)
+Actualizado: 2026-08-14 21:09:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,650.89
-**Retorno acumulado:** +65.09%
+**Bankroll actual:** $1,651.72
+**Retorno acumulado:** +65.17%
 **Peor caída desde un máximo (drawdown):** 17.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,7 +17,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | CORGI8 | 16 | 7 | 22 | +244.03 USD |
-| 1winstreak1 | 39 | 20 | 36 | +175.87 USD |
+| 1winstreak1 | 40 | 21 | 34 | +176.70 USD |
 | Lakersfan111 | 26 | 10 | 0 | +165.32 USD |
 | midwicket72 | 26 | 3 | 6 | +106.44 USD |
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 3 | +33.42 USD |
 | wr0ngw4yb3tt0r | 14 | 13 | 4 | +18.23 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 0 | 0 | 40 | +0.00 USD |
+| RN1 | 0 | 0 | 43 | +0.00 USD |
 | SDTrading | 3 | 4 | 0 | -6.92 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 266
-- **Aciertos:** 167 (62.8%)
+- **Apuestas resueltas:** 268
+- **Aciertos:** 168 (62.7%)
 - **Cuota promedio de entrada:** 52.9%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $2,658.66
-- **ROI sobre lo apostado:** +24.44%
+- **Total apostado (suma de stakes):** $2,678.66
+- **ROI sobre lo apostado:** +24.29%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,8 +48,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 8 | 0.0% | 14.2% | -14.2 pp |
-| 20-39% | 46 | 54.3% | 30.2% | +24.2 pp |
-| 40-59% | 116 | 56.9% | 47.9% | +9.0 pp |
+| 20-39% | 47 | 53.2% | 30.3% | +22.9 pp |
+| 40-59% | 117 | 57.3% | 47.9% | +9.3 pp |
 | 60-79% | 69 | 73.9% | 67.0% | +6.9 pp |
 | 80-94% | 24 | 91.7% | 87.9% | +3.8 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 95.7% | +4.3 pp |
@@ -81,6 +81,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Eva Lys (BUY) | 30% | 10.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Sofia Kenin (BUY) | 69% | 10.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 73% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Jack Pinnington Jones (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -108,6 +111,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sofia Kenin vs Eva Lys | Sofia Kenin (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Brownsburg: Andres Andrade vs Jack Pinni | Andres Andrade (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 46% | 10.00 | 0.5% | ⏳ pendiente | — |
