@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-14 20:27:18 (hora de Perú)
+Actualizado: 2026-08-14 20:29:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **135**  ($6,592,380 en total)
+- Apuestas registradas: **136**  ($6,622,686 en total)
 - Resueltas: **126** — 75 ganadas / 51 perdidas (**60%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 49
+- Pendientes: 10
+- Apostadores distintos: 50
 
 ### Balance
 
@@ -59,18 +59,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 0 | 1 | 0 | ⚠️ 0% (1) | $32,241 | -$32,241 |
 | lIlIlIllllIIIII | 1 | 0 | 0 | ⚠️ 100% (1) | $31,285 | +$10,428 |
 | Nooserac | 1 | 0 | 0 | ⚠️ 100% (1) | $30,691 | +$16,526 |
+| texaskid | 0 | 0 | 1 | — | $30,307 | — |
 | Elaran1993 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,210 | +$26,790 |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 1 | 0 | 0 | ⚠️ 100% (1) | $30,000 | +$2,967 |
 | CORGI8 | 0 | 1 | 0 | ⚠️ 0% (1) | $29,980 | -$29,980 |
 | jackpeter888 | 1 | 0 | 0 | ⚠️ 100% (1) | $28,674 | +$6,294 |
-| 0x760f…326a | 0 | 1 | 0 | ⚠️ 0% (1) | $27,080 | -$27,080 |
 
-_(mostrando los 40 de mayor monto, de 49 en total)_
+_(mostrando los 40 de mayor monto, de 50 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Texas Rangers vs. Athletics | Texas Rangers | 1.96 (51¢) | $30,307 | — | ⏳ Pendiente |
 | TennisLove | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.30 (77¢) | $31,474 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 49 en total)_
 | Weaseloftheweek | National Bank Open: Ben Shelton vs Brandon Nakashima | Ben Shelton | 1.47 (68¢) | $54,468 | +$25,632 | ✅ Ganada |
 | BLAHBLAHBLAH-298 | National Bank Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.35 (74¢) | $32,609 | +$11,457 | ✅ Ganada |
 | Nooserac | Valorant: KRÜ Esports vs BESTIA (BO3) - VCT Americas Stage 2 Play-In | KRÜ Esports | 1.54 (65¢) | $30,691 | +$16,526 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $77,144 | +$68,411 | ✅ Ganada |
