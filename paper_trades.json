@@ -4085,5 +4085,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786803202.05043,
     "fills": 1
+  },
+  {
+    "timestamp": 1786803355,
+    "timestamp_added": 1786803355.868749,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-blg-we-2026-08-15",
+    "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 7717.4125,
+    "whale_pct": 10.524,
+    "whale_value_at_open": 73328.4445,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803355.8687575,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786803413,
+    "timestamp_added": 1786803414.1147125,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-liquid-aur1-2026-08-15",
+    "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 24778.7258,
+    "whale_pct": 7.27,
+    "whale_value_at_open": 340857.5427,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786803421.3490026,
+    "fills": 3
   }
 ]
