@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 14:26:08 (hora de Perú)
+Actualizado: 2026-08-15 14:28:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **188**  ($9,057,565 en total)
+- Apuestas registradas: **190**  ($9,117,725 en total)
 - Resueltas: **157** — 89 ganadas / 68 perdidas (**57%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 69
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 20 | 10 | 1 | 67% | $1,889,527 | +$480,279 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 1 | 50% | $740,840 | +$57,398 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 2 | 50% | $768,840 | +$57,398 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
@@ -35,9 +35,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | Sassy-Bucket | 3 | 0 | 0 | ⚠️ 100% (3) | $186,137 | +$166,647 |
+| pleaseplease123 | 0 | 1 | 3 | ⚠️ 0% (1) | $185,652 | -$99,433 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| pleaseplease123 | 0 | 1 | 2 | ⚠️ 0% (1) | $153,492 | -$99,433 |
 | wr0ngw4yb3tt0r | 2 | 1 | 0 | ⚠️ 67% (3) | $151,837 | +$2,773 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 2 | 1 | 1 | ⚠️ 67% (3) | $141,934 | -$16,960 |
 | ChinesePro | 0 | 0 | 3 | — | $130,449 | — |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | — | ⏳ Pendiente |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | — | ⏳ Pendiente |
 | Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | — | ⏳ Pendiente |
 | sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $226,926 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 69 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $33,728 | -$33,728 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $65,926 | +$43,951 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $28,529 | +$23,342 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $37,047 | -$37,047 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: NYJ (-5.5) | TB | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
