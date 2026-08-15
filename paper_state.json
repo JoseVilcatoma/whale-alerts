@@ -1,5 +1,5 @@
 {
-  "bankroll": 1009.688913323398,
+  "bankroll": 1014.1816669465863,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -900,6 +900,11 @@
       "timestamp": 1786827832.9421265,
       "bankroll": 1009.69,
       "event": "lost: 1winstreak1 \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 11.5"
+    },
+    {
+      "timestamp": 1786828015.9572957,
+      "bankroll": 1014.18,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: FURIA Esports vs RED Canids (BO3) - CBLOL Regular Season"
     }
   ]
 }
