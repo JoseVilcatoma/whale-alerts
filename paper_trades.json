@@ -1264,8 +1264,8 @@
     "title": "Astana: Aziz Dougaz vs Sergey Fomin",
     "outcome": "Aziz Dougaz",
     "side": "BUY",
-    "whale_usd": 2834.3381000000004,
-    "whale_pct": 1.032,
+    "whale_usd": 3421.5881000000004,
+    "whale_pct": 1.246,
     "whale_value_at_open": 274707.1636,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
@@ -1274,8 +1274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786786581.2811809,
-    "fills": 3
+    "last_fill_at": 1786788952.315091,
+    "fills": 4
   },
   {
     "timestamp": 1786786322,
@@ -1599,8 +1599,8 @@
     "title": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
     "outcome": "Team Resilience",
     "side": "BUY",
-    "whale_usd": 14007.584881,
-    "whale_pct": 4.296,
+    "whale_usd": 15392.957281,
+    "whale_pct": 4.721,
     "whale_value_at_open": 326042.985,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -1612,8 +1612,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788864.1331427,
-    "fills": 9
+    "last_fill_at": 1786788955.0764184,
+    "fills": 10
   },
   {
     "timestamp": 1786787768,
@@ -1902,8 +1902,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 11002.798999999999,
-    "whale_pct": 16.704,
+    "whale_usd": 12526.954399999999,
+    "whale_pct": 19.018,
     "whale_value_at_open": 65867.5929,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -1914,8 +1914,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786788869.7421966,
-    "fills": 10
+    "last_fill_at": 1786788968.7281146,
+    "fills": 11
   },
   {
     "timestamp": 1786788593,
