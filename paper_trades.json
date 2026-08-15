@@ -4096,8 +4096,8 @@
     "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 7717.4125,
-    "whale_pct": 10.524,
+    "whale_usd": 70732.3375,
+    "whale_pct": 96.46,
     "whale_value_at_open": 73328.4445,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -4108,8 +4108,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803355.8687575,
-    "fills": 1
+    "last_fill_at": 1786803585.313689,
+    "fills": 2
   },
   {
     "timestamp": 1786803413,
@@ -4120,8 +4120,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 48741.4598,
-    "whale_pct": 14.3,
+    "whale_usd": 62527.823436,
+    "whale_pct": 18.344,
     "whale_value_at_open": 340857.5427,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -4132,8 +4132,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786803543.0792627,
-    "fills": 9
+    "last_fill_at": 1786803610.6052294,
+    "fills": 11
   },
   {
     "timestamp": 1786803436,

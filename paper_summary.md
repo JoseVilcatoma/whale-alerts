@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 09:19:09 (hora de Perú)
+Actualizado: 2026-08-15 09:21:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,073.25
@@ -96,8 +96,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | CORGI8 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 29.9% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 14.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 10.5% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 44% | 10.00 | 18.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Team WE (BO3) -  | Bilibili Gaming (BUY) | 89% | 10.00 | 96.5% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: magic vs 3DMAX (BO3) - E | magic (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Ian Machado Garry (BUY) | 23% | 10.00 | 15.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Stoke City FC vs. Swansea City AFC: O/U  | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
