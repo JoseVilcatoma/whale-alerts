@@ -1,5 +1,5 @@
 {
-  "bankroll": 1049.7461009622002,
+  "bankroll": 1042.9039956990423,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -750,6 +750,16 @@
       "timestamp": 1786814770.544525,
       "bankroll": 1049.75,
       "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Yandex (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786815086.642914,
+      "bankroll": 1039.75,
+      "event": "lost: Lakersfan111 \u2014 Game Handicap: BLG (-1.5) vs Team WE (+1.5)"
+    },
+    {
+      "timestamp": 1786815087.2792187,
+      "bankroll": 1042.9,
+      "event": "won: Lakersfan111 \u2014 LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend"
     }
   ]
 }
