@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:19:29 (hora de Perú)
+Actualizado: 2026-08-15 04:21:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,086.06
@@ -80,7 +80,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 70% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Hamburg Women: Ruth Roura Llaver | Anna Siskova (BUY) | 95% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 69% | 10.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Team Liquid (BUY) | 71% | 10.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Team Liquid (BUY) | 71% | 10.00 | 3.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 47% | 10.00 | 9.4% | 💰 vendida anticipada | +2.34 |
 | bigspending | Will Shimizu S-Pulse win on 2026-08-15? | No (BUY) | 58% | 10.00 | 21.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Iron Wing (BUY) | 34% | 10.00 | 2.7% | ⏳ pendiente | — |
