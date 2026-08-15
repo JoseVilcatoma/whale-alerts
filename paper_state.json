@@ -1,5 +1,5 @@
 {
-  "bankroll": 1077.2696426535329,
+  "bankroll": 1078.102975986866,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -605,6 +605,16 @@
       "timestamp": 1786804837.3645315,
       "bankroll": 1077.27,
       "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Team Liquid vs Aurora - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786805150.4428048,
+      "bankroll": 1088.1,
+      "event": "won: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786805150.9003975,
+      "bankroll": 1078.1,
+      "event": "lost: CORGI8 \u2014 Dota 2: Iron Wing vs Team Yandex - Game 1 Winner"
     }
   ]
 }
