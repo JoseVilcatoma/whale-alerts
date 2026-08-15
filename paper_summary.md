@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 18:18:23 (hora de Perú)
+Actualizado: 2026-08-15 18:20:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $954.43
-**Retorno acumulado:** -4.56%
-**Peor caída desde un máximo (drawdown):** 14.57%
+**Bankroll actual:** $944.43
+**Retorno acumulado:** -5.56%
+**Peor caída desde un máximo (drawdown):** 15.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -20,12 +20,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 3 | 3 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| g42gh6524h5h5 | 6 | 4 | 5 | +1.39 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | SDTrading | 0 | 0 | 4 | +0.00 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
+| g42gh6524h5h5 | 6 | 5 | 4 | -8.61 USD |
 | Sassy-Bucket | 0 | 1 | 1 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 1winstreak1 | 4 | 5 | 1 | -11.04 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 180
-- **Aciertos:** 93 (51.7%)
+- **Apuestas resueltas:** 181
+- **Aciertos:** 93 (51.4%)
 - **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,800.00
-- **ROI sobre lo apostado:** -4.30%
+- **Total apostado (suma de stakes):** $1,810.00
+- **ROI sobre lo apostado:** -4.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 2 | 0.0% | 15.0% | -15.0 pp |
 | 20-39% | 33 | 24.2% | 32.7% | -8.5 pp |
-| 40-59% | 96 | 49.0% | 49.0% | -0.0 pp |
+| 40-59% | 97 | 48.5% | 49.0% | -0.6 pp |
 | 60-79% | 38 | 71.1% | 67.8% | +3.3 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
