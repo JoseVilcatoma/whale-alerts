@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 04:21:32 (hora de Perú)
+Actualizado: 2026-08-15 04:23:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,086.06
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 6 | 0 | 2 | +42.35 USD |
 | CORGI8 | 2 | 1 | 6 | +32.68 USD |
 | 111111111115 | 4 | 2 | 1 | +25.05 USD |
-| ferrariChampions2026 | 6 | 4 | 17 | +5.96 USD |
+| ferrariChampions2026 | 6 | 4 | 18 | +5.96 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
@@ -72,14 +72,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-ts8-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, CORGI8, ferrariChampions2026 |
 | lol-nip-lng-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
 | lol-hle1-kt-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| atp-dougaz-fomin-2026-08-15 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 71% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Nagoya Grampus: O/U  | Over (BUY) | 70% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Hamburg Women: Ruth Roura Llaver | Anna Siskova (BUY) | 95% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 69% | 10.00 | 4.1% | ⏳ pendiente | — |
+| RN1 | Astana: Aziz Dougaz vs Sergey Fomin | Sergey Fomin (BUY) | 69% | 10.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Liquid (BO3) - | Team Liquid (BUY) | 71% | 10.00 | 3.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs KT Rolster ( | Hanwha Life Esports (BUY) | 47% | 10.00 | 9.4% | 💰 vendida anticipada | +2.34 |
 | bigspending | Will Shimizu S-Pulse win on 2026-08-15? | No (BUY) | 58% | 10.00 | 21.3% | ⏳ pendiente | — |
@@ -106,4 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 68% | 10.00 | 138.5% | 💰 vendida anticipada | +0.00 |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 33% | 10.00 | 27.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 51% | 10.00 | 6.0% | ⏳ pendiente | — |
-| CORGI8 | Dota 2: Iron Wing vs Team Liquid - Game  | Team Liquid (BUY) | 50% | 10.00 | 26.1% | ⏳ pendiente | — |
