@@ -4072,8 +4072,8 @@
     "title": "Chicago White Sox vs. Detroit Tigers",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 1146.574666,
-    "whale_pct": 0.706,
+    "whale_usd": 2946.574666,
+    "whale_pct": 1.814,
     "whale_value_at_open": 162398.1254,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -4082,8 +4082,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786815113.6711965,
-    "fills": 2
+    "last_fill_at": 1786815555.274179,
+    "fills": 3
   },
   {
     "timestamp": 1786814915,
