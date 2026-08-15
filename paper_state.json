@@ -1,5 +1,5 @@
 {
-  "bankroll": 1689.5875667036255,
+  "bankroll": 1708.088852463831,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1470,6 +1470,21 @@
       "timestamp": 1786760264.9540603,
       "bankroll": 1689.59,
       "event": "won: RN1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786760321.2075274,
+      "bankroll": 1699.2,
+      "event": "won: 1winstreak1 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1786760322.0087378,
+      "bankroll": 1705.59,
+      "event": "won: 1winstreak1 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1786760327.1341856,
+      "bankroll": 1708.09,
+      "event": "won: RN1 \u2014 Spread: San Diego Padres (-1.5)"
     }
   ]
 }
