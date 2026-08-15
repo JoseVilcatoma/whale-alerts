@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 13:29:16 (hora de Perú)
+Actualizado: 2026-08-15 13:31:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,056.05
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 2 | 2 | +45.83 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Lakersfan111 | 4 | 4 | 1 | +8.87 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 18 | +7.54 USD |
+| wr0ngw4yb3tt0r | 1 | 0 | 19 | +7.54 USD |
 | 1winstreak1 | 1 | 0 | 3 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | midwicket72 | 0 | 0 | 3 | +0.00 USD |
@@ -96,6 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 45% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals (BUY) | 43% | 10.00 | 0.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: G2 Esports vs Shifters - Game 2 Win | G2 Esports (BUY) | 69% | 10.00 | 12.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 31% | 10.00 | 36.1% | ⏳ pendiente | — |
@@ -119,10 +120,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Panthers vs. Bills | Bills (BUY) | 81% | 10.00 | 0.5% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Shifters - Game 1 Win | Shifters (BUY) | 48% | 10.00 | 23.8% | 💰 vendida anticipada | +2.08 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 1 Win | G2 Esports (BUY) | 52% | 10.00 | 12.6% | 💰 vendida anticipada | +5.00 |
-| wr0ngw4yb3tt0r | Browns vs. Bears | Browns (BUY) | 60% | 10.00 | 16.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Browns vs. Bears | Browns (BUY) | 60% | 10.00 | 19.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Chicago White Sox (BUY) | 52% | 10.00 | 2.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-08-15? | No (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | CLE vs. CHI: O/U 38.5 | Under (BUY) | 57% | 10.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Vikings vs. Giants | Giants (BUY) | 43% | 10.00 | 5.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
