@@ -2128,5 +2128,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786790938.044337,
     "fills": 1
+  },
+  {
+    "timestamp": 1786791061,
+    "timestamp_added": 1786791061.658825,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-fag-vva-2026-08-15-spread-home-1pt5",
+    "title": "Spread: Fagiano Okayama (-1.5)",
+    "outcome": "V-Varen Nagasaki",
+    "side": "BUY",
+    "whale_usd": 1352.7505999999998,
+    "whale_pct": 0.494,
+    "whale_value_at_open": 274052.1853,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786791061.6588342,
+    "fills": 1
   }
 ]
