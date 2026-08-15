@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 08:03:16 (hora de Perú)
+Actualizado: 2026-08-15 08:05:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **157**  ($7,748,696 en total)
-- Resueltas: **148** — 84 ganadas / 64 perdidas (**57%** de acierto)
-- Pendientes: 9
+- Resueltas: **149** — 85 ganadas / 64 perdidas (**57%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 56
 
 ### Balance
 
-- **Resultado de los apostadores: +$104,148** sobre $7,207,973 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$932** sobre $14,500 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$118,688** sobre $7,247,286 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$895** sobre $14,600 (ROI **-6.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
 | fireluo | 0 | 0 | 1 | — | $46,407 | — |
 | 0b1 | 1 | 0 | 0 | ⚠️ 100% (1) | $39,763 | +$6,473 |
-| StasPanda | 0 | 0 | 1 | — | $39,313 | — |
+| StasPanda | 1 | 0 | 0 | ⚠️ 100% (1) | $39,313 | +$14,540 |
 | aaditp | 0 | 1 | 0 | ⚠️ 0% (1) | $37,966 | -$37,966 |
 | huli3882 | 0 | 1 | 0 | ⚠️ 0% (1) | $37,151 | -$37,151 |
 | retroactivesource | 0 | 1 | 0 | ⚠️ 0% (1) | $34,595 | -$34,595 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 56 en total)_
 | GarlickDemon | Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage | Team Resilience | 1.43 (70¢) | $25,200 | — | ⏳ Pendiente |
 | noway8 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.32 (76¢) | $290,000 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $96,292 | +$32,097 | ✅ Ganada |
-| StasPanda | LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group | Hanwha Life Esports | 1.37 (73¢) | $39,313 | — | ⏳ Pendiente |
+| StasPanda | LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group | Hanwha Life Esports | 1.37 (73¢) | $39,313 | +$14,540 | ✅ Ganada |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | Team Spirit | 2.56 (39¢) | $32,307 | -$32,307 | ❌ Perdida |
 | S-Works | Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage | TEAM VISION | 1.67 (60¢) | $28,233 | +$18,822 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage | Xtreme Gaming | 1.92 (52¢) | $26,500 | -$26,500 | ❌ Perdida |
