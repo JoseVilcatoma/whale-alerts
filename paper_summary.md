@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 10:57:18 (hora de Perú)
+Actualizado: 2026-08-15 10:59:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,066.49
-**Retorno acumulado:** +6.65%
+**Bankroll actual:** $1,056.49
+**Retorno acumulado:** +5.65%
 **Peor caída desde un máximo (drawdown):** 6.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,16 +17,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 111111111115 | 7 | 2 | 1 | +45.83 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 1 | +45.78 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 2 | 2 | +45.78 USD |
 | Lakersfan111 | 3 | 2 | 4 | +25.71 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 7 | 3 | +6.38 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 0 | 0 | 3 | +0.00 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 8 | 8 | 2 | -3.62 USD |
 | g42gh6524h5h5 | 3 | 3 | 0 | -6.46 USD |
 | IMAREALPERSON | 2 | 1 | 0 | -7.59 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 134
-- **Aciertos:** 75 (56.0%)
+- **Apuestas resueltas:** 135
+- **Aciertos:** 75 (55.6%)
 - **Cuota promedio de entrada:** 53.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,340.00
-- **ROI sobre lo apostado:** +3.23%
+- **Total apostado (suma de stakes):** $1,350.00
+- **ROI sobre lo apostado:** +2.47%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 20-39% | 23 | 30.4% | 33.0% | -2.5 pp |
-| 40-59% | 70 | 51.4% | 49.3% | +2.1 pp |
+| 40-59% | 71 | 50.7% | 49.3% | +1.4 pp |
 | 60-79% | 31 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 9 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -89,6 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 73% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic - Game 2 Winner | SK Gaming (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: BUF (-3.5) | CAR (BUY) | 51% | 10.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | Fnatic (BUY) | 64% | 10.00 | 5.6% | 💰 vendida anticipada | +1.25 |
@@ -111,11 +112,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 46% | 10.00 | 8.6% | 💰 vendida anticipada | +1.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 51% | 10.00 | 2.3% | 💰 vendida anticipada | +5.69 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 20.0% | ✅ ganada | +10.83 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex - Game  | Iron Wing (BUY) | 48% | 10.00 | 0.7% | ❌ perdida | -10.00 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Iron Wing vs Team Yandex (BO3) - | Iron Wing (BUY) | 43% | 10.00 | 18.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora (BO3) - Th | Aurora (BUY) | 50% | 10.00 | 39.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Aurora - Game 2 W | Aurora (BUY) | 50% | 10.00 | 8.8% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 2.1% | ✅ ganada | +5.62 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: LGD Gaming vs Vici Gaming (BO3)  | LGD Gaming (BUY) | 82% | 10.00 | 13.7% | ✅ ganada | +2.20 |
 | CORGI8 | Counter-Strike: Wildcard vs paiN (BO3) - | Wildcard (BUY) | 46% | 10.00 | 4.7% | ❌ perdida | -10.00 |
-| g42gh6524h5h5 | Dota 2: LGD Gaming vs Vici Gaming - Game | LGD Gaming (BUY) | 62% | 10.00 | 45.5% | ✅ ganada | +6.13 |
