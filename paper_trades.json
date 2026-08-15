@@ -992,5 +992,78 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786774563.883994,
     "fills": 2
+  },
+  {
+    "timestamp": 1786774634,
+    "timestamp_added": 1786774635.1426883,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ironwi-liquid-2026-08-15-game1",
+    "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 2424.242742,
+    "whale_pct": 1.322,
+    "whale_value_at_open": 183373.4068,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786774635.142698,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786774643,
+    "timestamp_added": 1786774644.0072386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ironwi-liquid-2026-08-15-game1",
+    "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 2384.828684,
+    "whale_pct": 1.285,
+    "whale_value_at_open": 185661.5335,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786774644.0072446,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786774676,
+    "timestamp_added": 1786774676.6744924,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ironwi-liquid-2026-08-15-game1",
+    "title": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 15553.894651999999,
+    "whale_pct": 8.602,
+    "whale_value_at_open": 180810.9337,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786774705.1380656,
+    "fills": 8
   }
 ]
