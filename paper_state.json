@@ -1,5 +1,5 @@
 {
-  "bankroll": 1080.2432459922893,
+  "bankroll": 1029.851089129544,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -825,6 +825,41 @@
       "timestamp": 1786824005.5676,
       "bankroll": 1080.24,
       "event": "won: wr0ngw4yb3tt0r \u2014 Will Deportivo Alav\u00e9s win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786824194.476123,
+      "bankroll": 1070.24,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1786824198.2449915,
+      "bankroll": 1079.85,
+      "event": "won: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786824198.34517,
+      "bankroll": 1069.85,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786824198.5454545,
+      "bankroll": 1059.85,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago White Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786824259.204089,
+      "bankroll": 1049.85,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1786824259.5053513,
+      "bankroll": 1039.85,
+      "event": "lost: 1winstreak1 \u2014 Chicago White Sox vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1786824259.8536744,
+      "bankroll": 1029.85,
+      "event": "lost: 1winstreak1 \u2014 Spread: Chicago White Sox (-2.5)"
     }
   ]
 }
