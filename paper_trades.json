@@ -3828,8 +3828,8 @@
     "title": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 1607.8654000000001,
-    "whale_pct": 3.019,
+    "whale_usd": 3231.268,
+    "whale_pct": 6.068,
     "whale_value_at_open": 53253.8008,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -3840,7 +3840,29 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786809805.4237852,
-    "fills": 3
+    "last_fill_at": 1786809829.5560832,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786809867,
+    "timestamp_added": 1786809868.4835122,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-car-buf-2026-08-15-total-38pt5",
+    "title": "CAR vs. BUF: O/U 38.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1195.7052,
+    "whale_pct": 0.975,
+    "whale_value_at_open": 122677.9804,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786809868.483523,
+    "fills": 1
   }
 ]
