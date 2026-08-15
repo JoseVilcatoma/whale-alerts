@@ -1,5 +1,5 @@
 {
-  "bankroll": 1056.4601469807044,
+  "bankroll": 1069.1874197079771,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -515,6 +515,11 @@
       "timestamp": 1786800941.5774012,
       "bankroll": 1056.46,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs GamerLegion - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786801000.4472919,
+      "bankroll": 1069.19,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Resilience vs Xtreme Gaming (BO3) - The International Group Stage"
     }
   ]
 }
