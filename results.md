@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 11:27:23 (hora de Perú)
+Actualizado: 2026-08-15 11:29:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **168**  ($8,121,578 en total)
+- Apuestas registradas: **168**  ($8,152,106 en total)
 - Resueltas: **152** — 87 ganadas / 65 perdidas (**57%** de acierto)
 - Pendientes: 16
 - Apostadores distintos: 59
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | xifutloong3 | 0 | 2 | 0 | ⚠️ 0% (2) | $63,300 | -$63,300 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
+| sulumos | 0 | 0 | 1 | — | $58,856 | — |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | Feromont | 2 | 0 | 0 | ⚠️ 100% (2) | $50,800 | +$29,200 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | hansama231 | 1 | 0 | 0 | ⚠️ 100% (1) | $34,160 | +$21,840 |
 | ChinesePro | 0 | 0 | 1 | — | $33,229 | — |
 | g42gh6524h5h5 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,676 | +$16,094 |
-| BLAHBLAHBLAH-298 | 1 | 0 | 0 | ⚠️ 100% (1) | $32,609 | +$11,457 |
 
 _(mostrando los 40 de mayor monto, de 59 en total)_
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 59 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $28,328 | — | ⏳ Pendiente |
+| sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | — | ⏳ Pendiente |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $33,229 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: magic vs 3DMAX (BO3) - Esports World Cup Group D | magic | 1.27 (79¢) | $29,198 | — | ⏳ Pendiente |
