@@ -1880,8 +1880,8 @@
     "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 2113.0994,
-    "whale_pct": 6.914,
+    "whale_usd": 2654.541,
+    "whale_pct": 8.686,
     "whale_value_at_open": 30562.2474,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -1894,7 +1894,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786782562.4051383,
-    "fills": 1
+    "last_fill_at": 1786782649.809452,
+    "fills": 2
   }
 ]
