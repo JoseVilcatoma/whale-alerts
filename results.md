@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:46:14 (hora de Perú)
+Actualizado: 2026-08-15 17:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **214**  ($10,067,380 en total)
-- Resueltas: **180** — 99 ganadas / 81 perdidas (**55%** de acierto)
-- Pendientes: 34
+- Resueltas: **182** — 101 ganadas / 81 perdidas (**55%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 75
 
 ### Balance
 
-- **Resultado de los apostadores: -$257,900** sobre $8,367,661 apostados (ROI **-3.1%**)
-- Copiando $100 fijo en cada una: **-$1,860** sobre $17,600 (ROI **-10.6%**)
+- **Resultado de los apostadores: -$193,935** sobre $8,460,286 apostados (ROI **-2.3%**)
+- Copiando $100 fijo en cada una: **-$1,718** sobre $17,800 (ROI **-9.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 5 | 0 | 2 | ⚠️ 100% (5) | $252,902 | +$86,960 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 6 | 0 | 1 | ⚠️ 100% (6) | $252,902 | +$131,874 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
 | Sassy-Bucket | 3 | 0 | 1 | ⚠️ 100% (3) | $212,537 | +$166,647 |
 | pleaseplease123 | 1 | 2 | 2 | ⚠️ 33% (3) | $211,152 | -$90,857 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Bulls94 | 0 | 0 | 2 | — | $59,846 | — |
 | ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
-| suntori | 0 | 0 | 2 | — | $56,430 | — |
+| suntori | 1 | 0 | 1 | ⚠️ 100% (1) | $56,430 | +$19,051 |
 | TAIWANNUMBERONE | 1 | 0 | 1 | ⚠️ 100% (1) | $53,310 | +$11,585 |
 | 007theone1 | 2 | 0 | 0 | ⚠️ 100% (2) | $52,861 | +$3,987 |
 | basementdweller3000 | 1 | 0 | 0 | ⚠️ 100% (1) | $49,700 | +$20,300 |
@@ -78,8 +78,8 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
-| suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.67 (60¢) | $67,371 | — | ⏳ Pendiente |
+| suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | +$19,051 | ✅ Ganada |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.67 (60¢) | $67,371 | +$44,914 | ✅ Ganada |
 | suntori | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $31,177 | — | ⏳ Pendiente |
 | Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | +$11,092 | ✅ Ganada |
