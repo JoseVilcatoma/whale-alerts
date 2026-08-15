@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 21:32:40 (hora de Perú)
+Actualizado: 2026-08-14 21:34:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,743.15
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 1 | 0 | +71.90 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 20 | +33.42 USD |
-| RN1 | 6 | 1 | 56 | +24.91 USD |
+| RN1 | 6 | 1 | 58 | +24.91 USD |
 | wr0ngw4yb3tt0r | 14 | 14 | 9 | +8.23 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
 | 111111111115 | 0 | 0 | 11 | +0.00 USD |
@@ -90,6 +90,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Aleksandar Kovacevic vs | Karen Khachanov (BUY) | 66% | 10.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | Spread: Houston Astros (-1.5) | Houston Astros (BUY) | 69% | 10.00 | 4.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 29% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 36% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 52% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -118,5 +120,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Texas Rangers vs. Athletics | Athletics (BUY) | 79% | 10.00 | 1.0% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: Team Resilience vs Team Yandex - | Team Resilience (BUY) | 25% | 10.00 | 23.5% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 58% | 10.00 | 4.5% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | LGD Gaming (BUY) | 41% | 10.00 | 14.4% | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
