@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 03:00:27 (hora de Perú)
+Actualizado: 2026-08-15 03:02:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,011.48
@@ -19,11 +19,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 2 | 1 | 5 | +32.68 USD |
 | ferrariChampions2026 | 2 | 0 | 15 | +4.62 USD |
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
-| Lakersfan111 | 0 | 0 | 9 | +0.00 USD |
+| Lakersfan111 | 0 | 0 | 10 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 1 | +0.00 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 0 | 0 | +0.00 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 0 | 1 | +0.00 USD |
 | 111111111115 | 1 | 2 | 4 | -5.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
 | RN1 | 5 | 5 | 2 | -13.02 USD |
@@ -73,7 +73,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Lakersfan111 | Game Handicap: HLE (-1.5) vs KT Rolster  | KT Rolster (BUY) | 54% | 10.00 | 23.6% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: SK Gaming vs Fnatic (BO3) - LEC Reg | SK Gaming (BUY) | 51% | 10.00 | 10.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 60% | 10.00 | 10.2% | ⏳ pendiente | — |
+| Lakersfan111 | Game Handicap: HLE (-1.5) vs KT Rolster  | KT Rolster (BUY) | 54% | 10.00 | 25.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 68% | 10.00 | 138.5% | 💰 vendida anticipada | +0.00 |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 33% | 10.00 | 27.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 51% | 10.00 | 6.0% | ⏳ pendiente | — |
@@ -101,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Astana: Hayato Matsuoka vs Khumoun Sulta | Khumoun Sultanov (BUY) | 59% | 10.00 | 16.1% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Ninjas in Pyjamas vs LNG Esports -  | LNG Esports (BUY) | 22% | 10.00 | 3.9% | ⏳ pendiente | — |
 | 111111111115 | Valorant: KRÜ Esports vs MIBR (BO3) - VC | MIBR (BUY) | 70% | 10.00 | 1.3% | ⏳ pendiente | — |
-| Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
-| midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
