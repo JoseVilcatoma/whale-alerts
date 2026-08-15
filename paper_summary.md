@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 06:09:38 (hora de Perú)
+Actualizado: 2026-08-15 06:11:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,044.58
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | bigspending | 0 | 0 | 1 | +0.00 USD |
 | g42gh6524h5h5 | 0 | 0 | 4 | +0.00 USD |
-| ferrariChampions2026 | 6 | 5 | 46 | -4.04 USD |
+| ferrariChampions2026 | 6 | 5 | 49 | -4.04 USD |
 | RN1 | 5 | 5 | 1 | -13.02 USD |
 
 ## Análisis general
@@ -56,7 +56,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-og-huliga-2026-08-14-game2 | 111111111115, CORGI8 |
 | dota2-flc-gl-2026-08-14-game2 | 111111111115, CORGI8 |
 | mlb-mil-lad-2026-08-14-spread-home-2pt5 | 1winstreak1, RN1 |
-| lol-fox1-dnf-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, g42gh6524h5h5 |
+| lol-fox1-dnf-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Lakersfan111, ferrariChampions2026, g42gh6524h5h5 |
 | lol-fox1-dnf-2026-08-15-game2 | Lakersfan111, ferrariChampions2026 |
 | dota2-lgd-xtreme-2026-08-14 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
 | dota2-ngx-vg-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
@@ -82,6 +82,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 35% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | Natus Vincere (BUY) | 46% | 10.00 | 0.5% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | BNK FEARX (BUY) | 56% | 10.00 | 25.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers - Game 2 Wi | BNK FEARX (BUY) | 55% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 30% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -90,11 +93,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs DN SOOPers - Game 1 Wi | DN SOOPers (BUY) | 43% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: NAVI (-1.5) vs TheMongolz  | TheMongolz (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: TheMongolz vs Natus Vinc | TheMongolz (BUY) | 39% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 64% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 2 Winne | GamerLegion (BUY) | 63% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs GamerLegion - Game 2 Winne | OG (BUY) | 38% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs DN SOOPers (BO3) - LCK | BNK FEARX (BUY) | 59% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | paiN (BUY) | 54% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | paiN (BUY) | 54% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liaoning Tieren FC vs. Shenzhen Xinpengc | Over (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | LoL: ThunderTalk Gaming vs Anyone's Lege | Anyone's Legend (BUY) | 65% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Wildcard vs paiN - Map 1 | Wildcard (BUY) | 46% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -109,6 +112,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: Kiwoom Heroes vs. KT Wiz | Kiwoom Heroes (BUY) | 74% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shimizu S-Pulse vs. Yokohama F·Mari | No (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Fagiano Okayama (-1.5) | V-Varen Nagasaki (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Aldershot 2 Women: Susan Bandecc | Susan Bandecchi (BUY) | 86% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: ThunderTalk Gaming vs Anyone's Lege | ThunderTalk Gaming (BUY) | 46% | 10.00 | 1.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Middlesbrough FC (-1.5) | Lincoln City FC (BUY) | 57% | 10.00 | 4.0% | ⏳ pendiente | — |

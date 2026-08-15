@@ -2092,8 +2092,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 3274.359828,
-    "whale_pct": 1.207,
+    "whale_usd": 8199.272928,
+    "whale_pct": 3.021,
     "whale_value_at_open": 271372.608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -2104,8 +2104,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792069.363164,
-    "fills": 3
+    "last_fill_at": 1786792283.8576586,
+    "fills": 5
   },
   {
     "timestamp": 1786790937,
@@ -2452,8 +2452,8 @@
     "title": "Counter-Strike: Wildcard vs paiN - Map 1 Winner",
     "outcome": "paiN",
     "side": "BUY",
-    "whale_usd": 559.6776000000001,
-    "whale_pct": 0.195,
+    "whale_usd": 1847.6076000000003,
+    "whale_pct": 0.642,
     "whale_value_at_open": 287613.2937,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -2462,8 +2462,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786791771.2656622,
-    "fills": 1
+    "last_fill_at": 1786792189.1471288,
+    "fills": 2
   },
   {
     "timestamp": 1786791782,
@@ -2540,8 +2540,8 @@
     "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 2166.6220439999997,
-    "whale_pct": 0.752,
+    "whale_usd": 3201.6220439999997,
+    "whale_pct": 1.111,
     "whale_value_at_open": 288285.772,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -2552,8 +2552,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786792081.3168569,
-    "fills": 3
+    "last_fill_at": 1786792197.8560796,
+    "fills": 4
   },
   {
     "timestamp": 1786791922,
@@ -2741,5 +2741,77 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786792129.924917,
     "fills": 2
+  },
+  {
+    "timestamp": 1786792197,
+    "timestamp_added": 1786792198.1199763,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-mglz-navi-2026-08-15-game1",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 1 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 1405.5852,
+    "whale_pct": 0.47,
+    "whale_value_at_open": 299350.3799,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792198.1199849,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786792215,
+    "timestamp_added": 1786792216.3439307,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dnf-2026-08-15-game1",
+    "title": "LoL: BNK FEARX vs DN SOOPers - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 1322.25,
+    "whale_pct": 0.442,
+    "whale_value_at_open": 299350.3799,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Lakersfan111",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792216.3439405,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786792292,
+    "timestamp_added": 1786792292.7883914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-tt-al-2026-08-15-game2",
+    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 2 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "whale_usd": 781.1999999999999,
+    "whale_pct": 0.255,
+    "whale_value_at_open": 306633.8452,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786792292.7884002,
+    "fills": 1
   }
 ]
