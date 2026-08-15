@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:41:53 (hora de Perú)
+Actualizado: 2026-08-14 19:43:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,486.76
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 14 | 8 | 9 | +68.23 USD |
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
-| 1winstreak1 | 15 | 12 | 45 | -15.19 USD |
+| 1winstreak1 | 15 | 12 | 47 | -15.19 USD |
 | SDTrading | 0 | 3 | 4 | -30.00 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
@@ -72,6 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 37% | 10.00 | 5.1% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Indiana Fever | Indiana Fever (BUY) | 60% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 40% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Detroit Tigers: O/ | Over (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -100,5 +102,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 29% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 40% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 1winstreak1 | Dallas Wings vs. Indiana Fever | Dallas Wings (BUY) | 37% | 10.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 40% | 10.00 | 1.4% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 63% | 10.00 | 6.4% | ⏳ pendiente | — |
