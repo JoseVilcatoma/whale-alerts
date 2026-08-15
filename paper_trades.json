@@ -892,8 +892,8 @@
     "title": "Afghanistan Tour of Ireland ODIs: Ireland vs Afghanistan",
     "outcome": "Ireland",
     "side": "BUY",
-    "whale_usd": 1005.0,
-    "whale_pct": 11.285,
+    "whale_usd": 1600.442,
+    "whale_pct": 17.971,
     "whale_value_at_open": 8905.6704,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
@@ -902,8 +902,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786773860.985163,
-    "fills": 1
+    "last_fill_at": 1786786104.0498543,
+    "fills": 2
   },
   {
     "timestamp": 1786774150,
@@ -980,8 +980,8 @@
     "title": "Astana: Hayato Matsuoka vs Khumoun Sultanov",
     "outcome": "Khumoun Sultanov",
     "side": "BUY",
-    "whale_usd": 4097.497993,
-    "whale_pct": 6.465,
+    "whale_usd": 12430.907330999999,
+    "whale_pct": 19.614,
     "whale_value_at_open": 63376.5275,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -990,8 +990,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786775369.7381132,
-    "fills": 3
+    "last_fill_at": 1786781234.5966375,
+    "fills": 7
   },
   {
     "timestamp": 1786774634,
@@ -1167,8 +1167,8 @@
     "title": "Dota 2: BoomBoys vs Aurora - Game 1 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 12658.674997999999,
-    "whale_pct": 6.445,
+    "whale_usd": 13444.914997999998,
+    "whale_pct": 6.845,
     "whale_value_at_open": 196408.8322,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -1179,8 +1179,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786776185.9709506,
-    "fills": 11
+    "last_fill_at": 1786776381.8877056,
+    "fills": 12
   },
   {
     "timestamp": 1786775540,

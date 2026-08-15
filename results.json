@@ -2131,7 +2131,7 @@
     "side": "BUY",
     "usd": 28521.911600000003,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786764457,
     "fills": 1
   },
@@ -2161,7 +2161,7 @@
     "side": "BUY",
     "usd": 29999.999999000003,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786769145,
     "fills": 1
   },
@@ -2176,7 +2176,7 @@
     "side": "BUY",
     "usd": 112000.00000000001,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786770102,
     "fills": 1
   },
@@ -2191,7 +2191,7 @@
     "side": "BUY",
     "usd": 26500.000000000004,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786770800,
     "fills": 1
   },
@@ -2223,6 +2223,36 @@
     "odds_at_bet": 39,
     "status": "pending",
     "ultimo_fill": 1786773271,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 312,
+    "timestamp": 1786776978,
+    "username": "StasPanda",
+    "wallet": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "slug": "lol-hle1-kt-2026-08-15",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 39312.7849,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1786776978,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 316,
+    "timestamp": 1786784522,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-nip-lng-2026-08-15",
+    "title": "LoL: Ninjas in Pyjamas vs LNG Esports (BO3) - LPL Group Nirvana",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 96291.85399,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1786784522,
     "fills": 1
   }
 ]
