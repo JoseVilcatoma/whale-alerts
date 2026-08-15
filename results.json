@@ -2506,7 +2506,7 @@
     "side": "BUY",
     "usd": 33229.419499999996,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786811077,
     "fills": 1
   },
@@ -2521,7 +2521,7 @@
     "side": "BUY",
     "usd": 58856.099,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786811267,
     "fills": 2
   },
@@ -2551,7 +2551,7 @@
     "side": "BUY",
     "usd": 29500.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786812146,
     "fills": 1
   },
@@ -2566,7 +2566,7 @@
     "side": "BUY",
     "usd": 37368.33,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786812416,
     "fills": 1
   },
@@ -2611,7 +2611,7 @@
     "side": "BUY",
     "usd": 30000.0,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786813315,
     "fills": 1
   },
@@ -2626,7 +2626,7 @@
     "side": "BUY",
     "usd": 29281.2,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786813414,
     "fills": 1
   },
@@ -2641,7 +2641,7 @@
     "side": "BUY",
     "usd": 34220.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786813498,
     "fills": 1
   },
@@ -2656,7 +2656,7 @@
     "side": "BUY",
     "usd": 32508.079999999998,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786813794,
     "fills": 1
   },
@@ -2900,6 +2900,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1786823714,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 384,
+    "timestamp": 1786823982,
+    "username": "highnetworth",
+    "wallet": "0xbb5fbe810633ab08d106b82db84418a0e2ca2e21",
+    "slug": "atp-djokovi-tirante-2026-08-15",
+    "title": "Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "usd": 32036.773,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1786823982,
     "fills": 1
   }
 ]
