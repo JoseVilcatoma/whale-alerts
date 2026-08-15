@@ -1,5 +1,5 @@
 {
-  "bankroll": 1058.8065206172078,
+  "bankroll": 1062.5051507541941,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -800,6 +800,11 @@
       "timestamp": 1786821899.4635541,
       "bankroll": 1058.81,
       "event": "won: g42gh6524h5h5 \u2014 LoL: SK Gaming vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786822086.8801296,
+      "bankroll": 1062.51,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: SK Gaming vs Fnatic (BO3) - LEC Regular Season"
     }
   ]
 }
