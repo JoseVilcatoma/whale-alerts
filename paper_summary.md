@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 19:14:46 (hora de Perú)
+Actualizado: 2026-08-14 19:16:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,456.71
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 9 | 0 | +36.21 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 1 | 0 | +33.42 USD |
 | SDTrading | 0 | 2 | 5 | -20.00 USD |
-| 1winstreak1 | 11 | 12 | 18 | -34.27 USD |
+| 1winstreak1 | 11 | 12 | 21 | -34.27 USD |
 | ActionReaction | 5 | 8 | 0 | -36.08 USD |
 | ferrariChampions2026 | 20 | 10 | 0 | -36.74 USD |
 | IMAREALPERSON | 4 | 4 | 0 | -39.04 USD |
@@ -62,6 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ros-cor-2026-08-13-cor | AV23IUa, ferrariChampions2026 |
 | atp-hijikat-monfils-2026-08-13 | AV23IUa, ferrariChampions2026 |
 | dota2-aur1-ty-2026-08-14 | ActionReaction, CORGI8 |
+| mlb-bos-pit-2026-08-14-total-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-cws-det-2026-08-14 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-bos-pit-2026-08-14-total-8pt5 | 1winstreak1, SDTrading, wr0ngw4yb3tt0r |
 | mlb-nyy-tor-2026-08-14 | 1winstreak1, wr0ngw4yb3tt0r |
@@ -70,6 +71,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 92% | 10.00 | 4.3% | ⏳ pendiente | — |
+| 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 79% | 10.00 | 4.8% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. New York Mets | New York Mets (BUY) | 36% | 10.00 | 0.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Cleveland Guardians (-2.5) | San Diego Padres (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 81% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -97,6 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago White Sox vs. Detroit Tigers | Detroit Tigers (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 45% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 75% | 10.00 | 0.1% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. New York Mets | Washington Nationals (BUY) | 50% | 10.00 | 12.6% | ⏳ pendiente | — |
-| ActionReaction | LoL: GIANTX vs Team Vitality (BO3) - LEC | Team Vitality (BUY) | 54% | 10.00 | 44.6% | ✅ ganada | +8.52 |
-| wr0ngw4yb3tt0r | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 29% | 10.00 | 0.2% | ✅ ganada | +24.48 |
