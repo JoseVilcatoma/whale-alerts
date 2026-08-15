@@ -1,5 +1,5 @@
 {
-  "bankroll": 957.8192571968439,
+  "bankroll": 954.4294266883693,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -990,6 +990,11 @@
       "timestamp": 1786835317.6681674,
       "bankroll": 957.82,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 2 Winner (-6.25 USD)"
+    },
+    {
+      "timestamp": 1786835823.076429,
+      "bankroll": 954.43,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shopify Rebellion vs Dignitas (BO3) - LCS Regular Season (-3.39 USD)"
     }
   ]
 }
