@@ -527,8 +527,8 @@
     "whale_value_at_open": 207917.2919,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 28,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -645,8 +645,8 @@
     "whale_value_at_open": 189717.3218,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.51,
     "overlaps_with": [
       "111111111115"
     ],
@@ -1558,5 +1558,27 @@
     "last_fill_at": 1786780399.2471247,
     "fills": 2,
     "closed_price": 68
+  },
+  {
+    "timestamp": 1786780712,
+    "timestamp_added": 1786780713.1363585,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-hle1-kt-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: HLE (-1.5) vs KT Rolster (+1.5)",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 13173.495338,
+    "whale_pct": 23.552,
+    "whale_value_at_open": 55934.302,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786780766.7135801,
+    "fills": 4
   }
 ]

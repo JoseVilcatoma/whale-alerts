@@ -1,5 +1,5 @@
 {
-  "bankroll": 1017.96200349016,
+  "bankroll": 1011.4755170036735,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -95,6 +95,16 @@
       "timestamp": 1786780449.9562173,
       "bankroll": 1017.96,
       "event": "won: ferrariChampions2026 \u2014 Dota 2: OG vs HULIGANI (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786780817.3544436,
+      "bankroll": 1007.96,
+      "event": "lost: 111111111115 \u2014 Dota 2: Team Falcons vs GamerLegion (BO3) - The International Group Stage"
+    },
+    {
+      "timestamp": 1786780817.7552507,
+      "bankroll": 1011.48,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Falcons vs GamerLegion (BO3) - The International Group Stage"
     }
   ]
 }
