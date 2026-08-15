@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 01:47:42 (hora de Perú)
+Actualizado: 2026-08-15 01:49:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $992.94
-**Retorno acumulado:** -0.71%
-**Peor caída desde un máximo (drawdown):** 2.23%
+**Bankroll actual:** $988.56
+**Retorno acumulado:** -1.14%
+**Peor caída desde un máximo (drawdown):** 2.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -21,19 +21,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 0 | 0 | +2.20 USD |
 | Lakersfan111 | 0 | 0 | 6 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
-| ferrariChampions2026 | 0 | 0 | 14 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 15 | +0.00 USD |
 | midwicket72 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 9 | -10.00 USD |
-| RN1 | 3 | 3 | 5 | -19.89 USD |
+| RN1 | 4 | 4 | 3 | -24.27 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 11
-- **Aciertos:** 6 (54.5%)
-- **Cuota promedio de entrada:** 54.5%
+- **Apuestas resueltas:** 13
+- **Aciertos:** 7 (53.8%)
+- **Cuota promedio de entrada:** 56.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $110.00
-- **ROI sobre lo apostado:** -6.41%
+- **Total apostado (suma de stakes):** $130.00
+- **ROI sobre lo apostado:** -8.79%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -43,7 +43,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 20-39% | 3 | 33.3% | 33.3% | -0.0 pp |
 | 40-59% | 4 | 25.0% | 47.5% | -22.5 pp |
-| 60-79% | 2 | 100.0% | 69.0% | +31.0 pp |
+| 60-79% | 4 | 75.0% | 68.0% | +7.0 pp |
 | 80-94% | 2 | 100.0% | 86.0% | +14.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -58,6 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-flc-gl-2026-08-14 | 111111111115, ferrariChampions2026 |
 | dota2-ironwi-liquid-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | dota2-ironwi-liquid-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115, ferrariChampions2026 |
+| dota2-boombo-aur1-2026-08-15 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
 | atp-matsuok-sultano-2026-08-15 | RN1, ferrariChampions2026 |
 | dota2-vsn2-ts8-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, CORGI8, ferrariChampions2026 |
 | dota2-boombo-aur1-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, ferrariChampions2026 |
@@ -66,7 +67,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 39% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 54% | 10.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: BoomBoys vs Aurora - Game 1 Winn | Aurora (BUY) | 52% | 10.00 | 0.3% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Astana: Hayato Matsuoka vs Khumoun Sulta | Hayato Matsuoka (BUY) | 53% | 10.00 | 6.8% | ⏳ pendiente | — |
@@ -84,7 +86,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: NIP (-1.5) vs LNG Esports | LNG Esports (BUY) | 38% | 10.00 | 9.1% | ⏳ pendiente | — |
 | midwicket72 | Afghanistan Tour of Ireland ODIs: Irelan | Ireland (BUY) | 30% | 10.00 | 11.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora - Game 2 Winn | Aurora (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ⏳ pendiente | — |
+| RN1 | ITF M15 Tianjin 2 Men: Matthew Dellavedo | Kosuke Ogura (BUY) | 64% | 10.00 | 12.2% | ✅ ganada | +5.62 |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Vici Gaming (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Nigma Galaxy vs Vici Gaming - Ga | Nigma Galaxy (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: BoomBoys vs Aurora (BO3) - The I | Aurora (BUY) | 47% | 10.00 | 19.3% | ⏳ pendiente | — |
@@ -95,4 +97,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: SK (-1.5) vs Fnatic (+1.5 | Fnatic (BUY) | 72% | 10.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Falcons vs GamerLegion (BO3 | Team Falcons (BUY) | 74% | 10.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: OG vs HULIGANI (BO3) - The Inter | OG (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: LGD Gaming vs Xtreme Gaming (BO3 | Xtreme Gaming (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
