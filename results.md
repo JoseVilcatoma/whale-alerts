@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 17:52:29 (hora de Perú)
+Actualizado: 2026-08-15 17:54:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **214**  ($10,067,380 en total)
-- Resueltas: **183** — 101 ganadas / 82 perdidas (**55%** de acierto)
-- Pendientes: 31
+- Resueltas: **184** — 102 ganadas / 82 perdidas (**55%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 75
 
 ### Balance
 
-- **Resultado de los apostadores: -$309,935** sobre $8,576,286 apostados (ROI **-3.6%**)
-- Copiando $100 fijo en cada una: **-$1,818** sobre $17,900 (ROI **-10.2%**)
+- **Resultado de los apostadores: -$295,641** sobre $8,601,697 apostados (ROI **-3.4%**)
+- Copiando $100 fijo en cada una: **-$1,762** sobre $18,000 (ROI **-9.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Winnnnnnning | 0 | 0 | 3 | — | $115,771 | — |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
-| xifutloong3 | 0 | 2 | 1 | ⚠️ 0% (2) | $88,711 | -$63,300 |
+| xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 | SDTrading | 0 | 2 | 1 | ⚠️ 0% (2) | $81,210 | -$55,210 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 75 en total)_
 | Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | +$11,092 | ✅ Ganada |
 | ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | — | ⏳ Pendiente |
-| xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | — | ⏳ Pendiente |
+| xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | +$14,294 | ✅ Ganada |
 | sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | -$25,510 | ❌ Perdida |
 | Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
 | TheOneto3 | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $28,160 | -$28,160 | ❌ Perdida |
