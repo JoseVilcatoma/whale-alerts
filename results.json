@@ -2704,5 +2704,20 @@
     "status": "pending",
     "ultimo_fill": 1786818214,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 361,
+    "timestamp": 1786818758,
+    "username": "nogame1",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-stl-chc-2026-08-15",
+    "title": "St. Louis Cardinals vs. Chicago Cubs",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 50400.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1786818758,
+    "fills": 1
   }
 ]
