@@ -1,10 +1,20 @@
 {
-  "bankroll": 1004.7058823529412,
+  "bankroll": 998.9915966386556,
   "history": [
     {
       "timestamp": 1786769079.9057262,
       "bankroll": 1004.71,
       "event": "won: RN1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1786769202.4155498,
+      "bankroll": 994.71,
+      "event": "lost: RN1 \u2014 Kansas City Royals vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1786769203.1167095,
+      "bankroll": 998.99,
+      "event": "won: RN1 \u2014 Kansas City Royals vs. Los Angeles Angels"
     }
   ]
 }

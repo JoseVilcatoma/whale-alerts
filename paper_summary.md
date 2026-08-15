@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-14 23:45:06 (hora de Perú)
+Actualizado: 2026-08-14 23:47:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $1,004.71
-**Retorno acumulado:** +0.47%
-**Peor caída desde un máximo (drawdown):** 0.00%
+**Bankroll actual:** $998.99
+**Retorno acumulado:** -0.10%
+**Peor caída desde un máximo (drawdown):** 1.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
@@ -16,22 +16,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| RN1 | 1 | 0 | 6 | +4.71 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 0 | 4 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 111111111115 | 0 | 0 | 2 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 3 | +0.00 USD |
 | 1winstreak1 | 0 | 0 | 1 | +0.00 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 1 | +0.00 USD |
+| RN1 | 2 | 1 | 4 | -1.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1
-- **Aciertos:** 1 (100.0%)
-- **Cuota promedio de entrada:** 68.0%
+- **Apuestas resueltas:** 3
+- **Aciertos:** 2 (66.7%)
+- **Cuota promedio de entrada:** 62.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $10.00
-- **ROI sobre lo apostado:** +47.10%
+- **Total apostado (suma de stakes):** $30.00
+- **ROI sobre lo apostado:** -3.33%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -39,7 +39,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 60-79% | 1 | 100.0% | 68.0% | +32.0 pp |
+| 40-59% | 1 | 0.0% | 49.0% | -49.0 pp |
+| 60-79% | 2 | 100.0% | 69.0% | +31.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -64,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Hanwha Life Esports vs KT Rolster - | Hanwha Life Esports (BUY) | 64% | 10.00 | 52.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Chengyiyi Yuan (BUY) | 32% | 10.00 | 0.5% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | OG (BUY) | 45% | 10.00 | 14.6% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 70% | 10.00 | 7.6% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 70% | 10.00 | 7.6% | ✅ ganada | +4.29 |
 | RN1 | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 90% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 68% | 10.00 | 1.6% | ✅ ganada | +4.71 |
 | CORGI8 | Dota 2: Team Falcons vs GamerLegion - Ga | GamerLegion (BUY) | 27% | 10.00 | 13.9% | ⏳ pendiente | — |
@@ -72,5 +73,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 2 Women: Shihomi Li Xuan | Shihomi Li Xuan Leong (BUY) | 30% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 40% | 10.00 | 10.8% | ⏳ pendiente | — |
 | CORGI8 | Dota 2: OG vs HULIGANI - Game 2 Winner | HULIGANI (BUY) | 39% | 10.00 | 3.9% | ⏳ pendiente | — |
-| RN1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 49% | 10.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 49% | 10.00 | 1.8% | ❌ perdida | -10.00 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: LGD Gaming vs Xtreme Gaming - Ga | Xtreme Gaming (BUY) | 56% | 10.00 | 15.3% | ⏳ pendiente | — |
