@@ -5053,5 +5053,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786826565.397351,
     "fills": 1
+  },
+  {
+    "timestamp": 1786828181,
+    "timestamp_added": 1786828182.2808795,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-eds-est1-2026-08-15",
+    "title": "UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)",
+    "outcome": "Edson Barboza",
+    "side": "BUY",
+    "whale_usd": 1323.0000000000002,
+    "whale_pct": 0.435,
+    "whale_value_at_open": 304084.775,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 14,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786828182.2808888,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 16:09:11 (hora de Perú)
+Actualizado: 2026-08-15 16:10:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $1,014.18
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | IMAREALPERSON | 3 | 1 | 3 | -5.51 USD |
-| wr0ngw4yb3tt0r | 4 | 5 | 16 | -6.49 USD |
+| wr0ngw4yb3tt0r | 4 | 5 | 17 | -6.49 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | 1winstreak1 | 4 | 5 | 3 | -18.49 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
@@ -101,6 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 1winstreak1 | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 43% | 10.00 | 9.8% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 44% | 10.00 | 14.3% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiag | Thiago Agustin Tirante (BUY) | 66% | 10.00 | 61.7% | ⏳ pendiente | — |
@@ -130,4 +131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Colorado Rockies vs. San Francisco Giant | Colorado Rockies (BUY) | 39% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Shifters - Game 2 Win | Shifters (BUY) | 28% | 10.00 | 17.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 46% | 10.00 | 0.8% | ✅ ganada | +11.74 |
-| 1winstreak1 | Spread: New York Liberty (-8.5) | Connecticut Sun (BUY) | 48% | 10.00 | 58.3% | ✅ ganada | +10.83 |
