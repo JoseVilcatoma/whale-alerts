@@ -6667,5 +6667,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786753725.1914945,
     "fills": 1
+  },
+  {
+    "timestamp": 1786753798,
+    "timestamp_added": 1786753798.7343624,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-nyy-tor-2026-08-14",
+    "title": "New York Yankees vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 457.91999999999996,
+    "whale_pct": 1.23,
+    "whale_value_at_open": 37233.6556,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786753798.734372,
+    "fills": 1
   }
 ]
