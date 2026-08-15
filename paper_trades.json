@@ -4116,18 +4116,19 @@
     "title": "LoL: G2 Esports vs Shifters - Game 1 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 4292.2202,
-    "whale_pct": 4.764,
+    "whale_usd": 11366.7578,
+    "whale_pct": 12.617,
     "whale_value_at_open": 90092.9761,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 5.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786815145.5381854,
-    "fills": 3
+    "last_fill_at": 1786815407.4107306,
+    "fills": 5,
+    "closed_price": 78
   },
   {
     "timestamp": 1786814999,
@@ -4200,5 +4201,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786815345.845981,
     "fills": 5
+  },
+  {
+    "timestamp": 1786815404,
+    "timestamp_added": 1786815404.9757352,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-g2-shft-2026-08-15-game1",
+    "title": "LoL: G2 Esports vs Shifters - Game 1 Winner",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 3972.0639,
+    "whale_pct": 76.971,
+    "whale_value_at_open": 5160.4653,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "TeGeeLP"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786815407.3933616,
+    "fills": 2
   }
 ]
