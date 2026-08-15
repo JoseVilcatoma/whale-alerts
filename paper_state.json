@@ -1,5 +1,5 @@
 {
-  "bankroll": 1472.3888899056692,
+  "bankroll": 1472.6981682561848,
   "history": [
     {
       "timestamp": 1786670410.4873557,
@@ -1155,6 +1155,11 @@
       "timestamp": 1786754882.629522,
       "bankroll": 1472.39,
       "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1786754939.6310365,
+      "bankroll": 1472.7,
+      "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians: O/U 6.5"
     }
   ]
 }
