@@ -691,8 +691,8 @@
     "whale_value_at_open": 107093.5075,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -963,8 +963,8 @@
     "whale_value_at_open": 24772.5007,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 22,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1124,8 +1124,8 @@
     "whale_value_at_open": 193722.6902,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592"
     ],
@@ -2165,8 +2165,8 @@
     "whale_value_at_open": 271160.1427,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3081,15 +3081,16 @@
     "whale_value_at_open": 63748.3895,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786793789.3311894,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 28
   },
   {
     "timestamp": 1786792873,
@@ -3216,8 +3217,8 @@
     "title": "Dota 2: Team Liquid vs Aurora (BO3) - The International Group Stage",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 25999.999993999998,
-    "whale_pct": 16.421,
+    "whale_usd": 45999.999992,
+    "whale_pct": 29.053,
     "whale_value_at_open": 158329.9446,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -3226,8 +3227,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786794068.4230251,
-    "fills": 7
+    "last_fill_at": 1786794677.293724,
+    "fills": 9
   },
   {
     "timestamp": 1786794167,
