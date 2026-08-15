@@ -1685,8 +1685,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 7490.710080000001,
-    "whale_pct": 3.061,
+    "whale_usd": 9477.59008,
+    "whale_pct": 3.873,
     "whale_value_at_open": 244682.5623,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -1698,8 +1698,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781823.1402745,
-    "fills": 7
+    "last_fill_at": 1786781900.4999366,
+    "fills": 9
   },
   {
     "timestamp": 1786781411,
@@ -1757,8 +1757,8 @@
     "title": "LoL: Ninjas in Pyjamas vs LNG Esports - Game 2 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 5145.880999999999,
-    "whale_pct": 1.952,
+    "whale_usd": 9613.681,
+    "whale_pct": 3.647,
     "whale_value_at_open": 263589.6062,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -1769,8 +1769,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786781791.3509302,
-    "fills": 3
+    "last_fill_at": 1786781902.1850367,
+    "fills": 7
   },
   {
     "timestamp": 1786781644,
@@ -1796,6 +1796,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786781644.7321012,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786781890,
+    "timestamp_added": 1786781890.4290376,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-hle1-kt-2026-08-15-game1",
+    "title": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 1301.996,
+    "whale_pct": 0.486,
+    "whale_value_at_open": 268101.6984,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 20,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Lakersfan111",
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786781890.429048,
     "fills": 1
   }
 ]
