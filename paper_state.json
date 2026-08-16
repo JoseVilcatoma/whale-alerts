@@ -1,5 +1,5 @@
 {
-  "bankroll": 861.1348743127397,
+  "bankroll": 851.1348743127397,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1405,6 +1405,11 @@
       "timestamp": 1786893315.1325479,
       "bankroll": 861.13,
       "event": "won: RN1 \u2014 Hamburg: Jan Kumstat vs Marvin Moeller"
+    },
+    {
+      "timestamp": 1786893763.9414797,
+      "bankroll": 851.13,
+      "event": "lost: RN1 \u2014 SG Dynamo Dresden vs. SV Darmstadt 98: O/U 2.5"
     }
   ]
 }
