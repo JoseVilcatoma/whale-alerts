@@ -6586,5 +6586,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786880159.9666114,
     "fills": 1
+  },
+  {
+    "timestamp": 1786880474,
+    "timestamp_added": 1786880475.1164272,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zhu-cigarra-2026-08-16",
+    "title": "Sion: Michael Zhu vs Thiago Cigarran",
+    "outcome": "Thiago Cigarran",
+    "side": "BUY",
+    "whale_usd": 827.16,
+    "whale_pct": 0.82,
+    "whale_value_at_open": 100883.6948,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786880475.1164389,
+    "fills": 1
   }
 ]
