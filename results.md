@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 00:09:53 (hora de Perú)
+Actualizado: 2026-08-16 00:11:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **259**  ($12,509,097 en total)
-- Resueltas: **256** — 140 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 3
+- Resueltas: **257** — 141 ganadas / 116 perdidas (**55%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 85
 
 ### Balance
 
-- **Resultado de los apostadores: -$792,436** sobre $12,346,365 apostados (ROI **-6.4%**)
-- Copiando $100 fijo en cada una: **-$2,843** sobre $25,100 (ROI **-11.3%**)
+- **Resultado de los apostadores: -$779,579** sobre $12,376,365 apostados (ROI **-6.3%**)
+- Copiando $100 fijo en cada una: **-$2,800** sobre $25,200 (ROI **-11.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 1 | 38% | $292,000 | -$90,212 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 111111111115 | 2 | 2 | 1 | ⚠️ 50% (4) | $266,029 | -$8,442 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 85 en total)_
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.78 (36¢) | $88,469 | -$88,469 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $30,442 | -$30,442 | ❌ Perdida |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | — | ⏳ Pendiente |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | +$12,857 | ✅ Ganada |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | -$136,800 | ❌ Perdida |
 | rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | +$108,921 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | +$4,345 | ✅ Ganada |
