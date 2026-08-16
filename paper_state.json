@@ -1,5 +1,5 @@
 {
-  "bankroll": 962.3157576163211,
+  "bankroll": 959.557136926666,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1115,6 +1115,16 @@
       "timestamp": 1786849284.2248116,
       "bankroll": 962.32,
       "event": "lost: Sassy-Bucket \u2014 UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786850220.2765768,
+      "bankroll": 969.56,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786850220.376678,
+      "bankroll": 959.56,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 2 Winner"
     }
   ]
 }
