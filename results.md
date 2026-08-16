@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 14:07:53 (hora de Perú)
+Actualizado: 2026-08-16 14:09:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **332**  ($17,331,774 en total)
-- Resueltas: **298** — 174 ganadas / 124 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Resueltas: **299** — 175 ganadas / 124 perdidas (**59%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 106
 
 ### Balance
 
-- **Resultado de los apostadores: -$470,977** sobre $14,356,329 apostados (ROI **-3.3%**)
-- Copiando $100 fijo en cada una: **-$2,228** sobre $29,000 (ROI **-7.7%**)
+- **Resultado de los apostadores: -$405,024** sobre $14,391,842 apostados (ROI **-2.8%**)
+- Copiando $100 fijo en cada una: **-$2,042** sobre $29,100 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| 111111111115 | 5 | 2 | 1 | ⚠️ 71% (7) | $384,218 | +$76,990 |
+| 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | pleaseplease123 | 4 | 2 | 1 | ⚠️ 67% (6) | $308,477 | +$78 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $61,282 | +$13,452 | ✅ Ganada |
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros | 1.82 (55¢) | $28,852 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.11 (90¢) | $28,905 | +$3,212 | ✅ Ganada |
-| 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | — | ⏳ Pendiente |
+| 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | +$65,953 | ✅ Ganada |
