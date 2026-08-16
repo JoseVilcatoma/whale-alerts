@@ -1,5 +1,5 @@
 {
-  "bankroll": 958.2827617921678,
+  "bankroll": 967.8906049294227,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1180,6 +1180,11 @@
       "timestamp": 1786855522.274937,
       "bankroll": 958.28,
       "event": "won: RN1 \u2014 Texas Rangers vs. Athletics"
+    },
+    {
+      "timestamp": 1786857826.8377626,
+      "bankroll": 967.89,
+      "event": "won: SDTrading \u2014 CAR vs. BUF: O/U 38.5"
     }
   ]
 }
