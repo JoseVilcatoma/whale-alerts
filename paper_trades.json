@@ -7667,8 +7667,8 @@
     "title": "LoL: LYON vs Sentinels - Game 2 Winner",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 2205.305185,
-    "whale_pct": 7.112,
+    "whale_usd": 5945.179785,
+    "whale_pct": 19.174,
     "whale_value_at_open": 31006.114,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -7680,7 +7680,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786923745.1711793,
-    "fills": 2
+    "last_fill_at": 1786923893.6566923,
+    "fills": 3
   }
 ]
