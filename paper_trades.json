@@ -7539,5 +7539,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786903150.4087937,
     "fills": 4
+  },
+  {
+    "timestamp": 1786903883,
+    "timestamp_added": 1786903883.8257093,
+    "username": "ChonkyChocolateCake",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-g2-fnc-2026-08-16-game2",
+    "title": "LoL: G2 Esports vs Fnatic - Game 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 5674.562132999999,
+    "whale_pct": 51.015,
+    "whale_value_at_open": 11123.2673,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786903894.465258,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786903905,
+    "timestamp_added": 1786903906.3408725,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-g2-fnc-2026-08-16-game2",
+    "title": "LoL: G2 Esports vs Fnatic - Game 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 8148.535199999999,
+    "whale_pct": 19.675,
+    "whale_value_at_open": 41415.8631,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ChonkyChocolateCake"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786903906.34088,
+    "fills": 1
   }
 ]
