@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 00:47:53 (hora de Perú)
+Actualizado: 2026-08-16 00:49:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $967.89
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 00:47:53 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $677.89)
+**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $667.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 0 | +44.73 USD |
-| 111111111115 | 8 | 4 | 6 | +30.12 USD |
+| 111111111115 | 8 | 4 | 7 | +30.12 USD |
 | Lakersfan111 | 5 | 4 | 8 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
@@ -111,6 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
@@ -135,9 +136,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 8.8% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 13.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ✅ ganada | +3.51 |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Athletics (BUY) | 68% | 10.00 | 1.6% | ❌ perdida | -10.00 |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ✅ ganada | +1.49 |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ❌ perdida | -10.00 |
-| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
