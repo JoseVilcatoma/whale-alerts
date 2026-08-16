@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:01:15 (hora de Perú)
+Actualizado: 2026-08-16 08:03:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $880.49
-**Retorno acumulado:** -11.95%
+**Bankroll actual:** $872.99
+**Retorno acumulado:** -12.70%
 **Peor caída desde un máximo (drawdown):** 22.19%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:01:15 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $300.49)
+**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $282.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,24 +30,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 4 | -1.87 USD |
+| SDTrading | 2 | 2 | 6 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| midwicket72 | 1 | 2 | 0 | -18.10 USD |
+| midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
-| RN1 | 12 | 11 | 22 | -55.44 USD |
+| RN1 | 13 | 12 | 20 | -62.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 243
-- **Aciertos:** 127 (52.3%)
-- **Cuota promedio de entrada:** 53.6%
+- **Apuestas resueltas:** 245
+- **Aciertos:** 128 (52.2%)
+- **Cuota promedio de entrada:** 53.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,430.00
-- **ROI sobre lo apostado:** -6.58%
+- **Total apostado (suma de stakes):** $2,450.00
+- **ROI sobre lo apostado:** -6.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,9 +57,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
-| 40-59% | 124 | 48.4% | 49.5% | -1.1 pp |
+| 40-59% | 125 | 48.0% | 49.5% | -1.5 pp |
 | 60-79% | 57 | 68.4% | 68.1% | +0.4 pp |
-| 80-94% | 15 | 100.0% | 85.5% | +14.5 pp |
+| 80-94% | 16 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 4 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -118,6 +118,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
+| SDTrading | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 50% | 10.00 | 1.9% | ⏳ pendiente | — |
+| midwicket72 | The Hundred, Women: Trent Rockets vs Sun | Trent Rockets (BUY) | 59% | 10.00 | 26.5% | ⏳ pendiente | — |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 53% | 10.00 | 6.4% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Team Secret Whales vs CTBC Flying O | Team Secret Whales (BUY) | 51% | 10.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 51% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -145,6 +148,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ⏳ pendiente | — |
