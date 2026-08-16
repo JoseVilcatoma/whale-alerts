@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:52:26 (hora de Perú)
+Actualizado: 2026-08-16 09:54:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **307**  ($16,280,115 en total)
+- Apuestas registradas: **309**  ($16,418,615 en total)
 - Resueltas: **269** — 152 ganadas / 117 perdidas (**57%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 100
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 5 | 66% | $2,580,861 | +$258,390 |
-| sainttroplay | 1 | 0 | 12 | ⚠️ 100% (1) | $2,042,133 | +$370,247 |
+| sainttroplay | 1 | 0 | 13 | ⚠️ 100% (1) | $2,092,133 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
@@ -44,6 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 0 | 0 | 2 | — | $153,500 | — |
 | Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 1 | — | $83,889 | — |
-| Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 
 _(mostrando los 40 de mayor monto, de 100 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | — | ⏳ Pendiente |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | — | ⏳ Pendiente |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.09 (92¢) | $26,220 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | User1244322 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.10 (91¢) | $46,746 | +$4,623 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.12 (89¢) | $27,377 | +$3,384 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Lois Boisson vs Belinda Bencic | Lois Boisson | 1.49 (67¢) | $50,818 | +$25,030 | ✅ Ganada |
-| suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | -$48,702 | ❌ Perdida |
-| BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $91,469 | -$91,469 | ❌ Perdida |
