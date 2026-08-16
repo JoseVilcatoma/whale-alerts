@@ -1,5 +1,5 @@
 {
-  "bankroll": 837.1623730137122,
+  "bankroll": 817.1623730137122,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1460,6 +1460,16 @@
       "timestamp": 1786896271.0008082,
       "bankroll": 837.16,
       "event": "won: HomeRunHazard \u2014 Prague: Matyas Cerny vs Dusan Obradovic"
+    },
+    {
+      "timestamp": 1786896329.5977762,
+      "bankroll": 827.16,
+      "event": "lost: RN1 \u2014 Will VfL Wolfsburg win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786896390.0605657,
+      "bankroll": 817.16,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage"
     }
   ]
 }
