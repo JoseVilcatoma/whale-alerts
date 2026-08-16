@@ -4887,5 +4887,20 @@
     "status": "pending",
     "ultimo_fill": 1786900968,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 647,
+    "timestamp": 1786901509,
+    "username": "dauntlesswitness",
+    "wallet": "0xf1771327cccb5cda15e0eaa3c56755bbf3655f6a",
+    "slug": "cs2-lgc-mibr-2026-08-16",
+    "title": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 28999.999997000003,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1786901509,
+    "fills": 1
   }
 ]
