@@ -7526,8 +7526,8 @@
     "title": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 1192.9180000000001,
-    "whale_pct": 15.505,
+    "whale_usd": 7737.3518,
+    "whale_pct": 100.569,
     "whale_value_at_open": 7693.5793,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -7537,7 +7537,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786903022.6073868,
-    "fills": 1
+    "last_fill_at": 1786903150.4087937,
+    "fills": 4
   }
 ]
