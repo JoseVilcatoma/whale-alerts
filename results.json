@@ -3773,5 +3773,20 @@
     "status": "pending",
     "ultimo_fill": 1786849694,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 508,
+    "timestamp": 1786849735,
+    "username": "User1244322",
+    "wallet": "0xe558bb7b02ea489d772bd34f14cc845e391fdcd2",
+    "slug": "ufc-mac1-gil-2026-08-15",
+    "title": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
+    "outcome": "Mackenzie Dern",
+    "side": "BUY",
+    "usd": 46745.6899,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1786849735,
+    "fills": 1
   }
 ]
