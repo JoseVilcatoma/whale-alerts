@@ -5585,8 +5585,8 @@
     "title": "Will Atlas FC win on 2026-08-15?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1219.3293,
-    "whale_pct": 1.586,
+    "whale_usd": 2489.3893,
+    "whale_pct": 3.237,
     "whale_value_at_open": 76894.5366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 77,
@@ -5595,8 +5595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786855835.5649765,
-    "fills": 2
+    "last_fill_at": 1786856023.7405288,
+    "fills": 4
   },
   {
     "timestamp": 1786852736,
@@ -5860,8 +5860,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Cameron Norrie",
     "side": "BUY",
-    "whale_usd": 3187.3445209999995,
-    "whale_pct": 2.824,
+    "whale_usd": 4128.520990999999,
+    "whale_pct": 3.658,
     "whale_value_at_open": 112875.8453,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 40,
@@ -5872,8 +5872,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786855292.3190289,
-    "fills": 2
+    "last_fill_at": 1786856002.0061543,
+    "fills": 3
   },
   {
     "timestamp": 1786854525,
@@ -5962,5 +5962,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786855579.6809838,
     "fills": 7
+  },
+  {
+    "timestamp": 1786855964,
+    "timestamp_added": 1786855965.1332736,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-atl-tig-2026-08-15-tig",
+    "title": "Will Tigres de la UANL win on 2026-08-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 613.1999999999999,
+    "whale_pct": 0.992,
+    "whale_value_at_open": 61800.884,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786855965.1332781,
+    "fills": 1
   }
 ]
