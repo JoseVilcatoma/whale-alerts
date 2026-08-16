@@ -6947,8 +6947,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.39,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8183,8 +8183,8 @@
     "title": "RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 9117.464399999999,
-    "whale_pct": 20.856,
+    "whale_usd": 14323.1904,
+    "whale_pct": 32.764,
     "whale_value_at_open": 43715.6886,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -8194,7 +8194,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786895803.4368455,
-    "fills": 1
+    "last_fill_at": 1786895965.2376413,
+    "fills": 2
   }
 ]

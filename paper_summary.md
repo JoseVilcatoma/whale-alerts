@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:58:17 (hora de Perú)
+Actualizado: 2026-08-16 11:00:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $827.44
-**Retorno acumulado:** -17.26%
+**Bankroll actual:** $833.83
+**Retorno acumulado:** -16.62%
 **Peor caída desde un máximo (drawdown):** 25.93%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 10:58:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $167.44)
+**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $183.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,16 +39,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
-| RN1 | 21 | 16 | 8 | -70.38 USD |
+| RN1 | 22 | 16 | 7 | -63.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 269
-- **Aciertos:** 142 (52.8%)
+- **Apuestas resueltas:** 270
+- **Aciertos:** 143 (53.0%)
 - **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,690.00
-- **ROI sobre lo apostado:** -7.91%
+- **Total apostado (suma de stakes):** $2,700.00
+- **ROI sobre lo apostado:** -7.65%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +59,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
 | 40-59% | 136 | 46.3% | 49.6% | -3.3 pp |
-| 60-79% | 63 | 69.8% | 68.2% | +1.6 pp |
+| 60-79% | 64 | 70.3% | 68.1% | +2.2 pp |
 | 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 20.9% | ⏳ pendiente | — |
+| predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
 | predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 69.8% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Nottinghamshire (BUY) | 59% | 10.00 | 36.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
