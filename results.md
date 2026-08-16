@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 02:27:44 (hora de Perú)
+Actualizado: 2026-08-16 02:29:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **261**  ($12,596,884 en total)
-- Resueltas: **257** — 141 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 4
+- Resueltas: **258** — 142 ganadas / 116 perdidas (**55%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 86
 
 ### Balance
 
-- **Resultado de los apostadores: -$779,579** sobre $12,376,365 apostados (ROI **-6.3%**)
-- Copiando $100 fijo en cada una: **-$2,800** sobre $25,200 (ROI **-11.1%**)
+- **Resultado de los apostadores: -$724,260** sobre $12,431,683 apostados (ROI **-5.8%**)
+- Copiando $100 fijo en cada una: **-$2,700** sobre $25,300 (ROI **-10.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| 111111111115 | 2 | 2 | 2 | ⚠️ 50% (4) | $323,576 | -$8,442 |
+| 111111111115 | 3 | 2 | 1 | ⚠️ 60% (5) | $323,576 | +$46,876 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 86 en total)_
 |---|---|---|---|---|---|---|
 | Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | — | ⏳ Pendiente |
-| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winner | BoomBoys | 2.00 (50¢) | $55,318 | — | ⏳ Pendiente |
+| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winner | BoomBoys | 2.00 (50¢) | $55,318 | +$55,318 | ✅ Ganada |
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $59,200 | +$20,800 | ✅ Ganada |
