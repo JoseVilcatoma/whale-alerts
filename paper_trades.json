@@ -6941,8 +6941,8 @@
     "title": "Djurgardens IF vs. AIK: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 886.8,
-    "whale_pct": 0.779,
+    "whale_usd": 1744.04,
+    "whale_pct": 1.533,
     "whale_value_at_open": 113766.6558,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -6952,8 +6952,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786882800.6516423,
-    "fills": 1
+    "last_fill_at": 1786882904.2128892,
+    "fills": 2
   },
   {
     "timestamp": 1786882897,
@@ -6976,6 +6976,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786882897.5683858,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786882919,
+    "timestamp_added": 1786882920.1770372,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-deg-ifk-2026-08-16-deg",
+    "title": "Will Degerfors IF win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 646.2,
+    "whale_pct": 0.569,
+    "whale_value_at_open": 113480.3627,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786882920.1770499,
     "fills": 1
   }
 ]

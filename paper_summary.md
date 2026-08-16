@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:21:42 (hora de Perú)
+Actualizado: 2026-08-16 07:23:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $874.36
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:21:42 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $454.36)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $444.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
-| RN1 | 11 | 11 | 22 | -61.57 USD |
+| RN1 | 11 | 11 | 23 | -61.57 USD |
 
 ## Análisis general
 
@@ -114,8 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will FC Nordsjælland win on 2026-08-16? | Yes (BUY) | 74% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
@@ -143,4 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 57% | 10.00 | 1.4% | ❌ perdida | -10.00 |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Team Yandex (BO3)  | LGD Gaming (BUY) | 47% | 10.00 | 2.7% | ⏳ pendiente | — |
 | Dota2winner | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 51% | 10.00 | 23.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Louis Wessels (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
