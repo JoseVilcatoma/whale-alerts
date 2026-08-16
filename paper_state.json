@@ -1,5 +1,5 @@
 {
-  "bankroll": 782.4764711827671,
+  "bankroll": 788.8699138057179,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1615,6 +1615,11 @@
       "timestamp": 1786920252.2066312,
       "bankroll": 782.48,
       "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786921491.998035,
+      "bankroll": 788.87,
+      "event": "won: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
     }
   ]
 }
