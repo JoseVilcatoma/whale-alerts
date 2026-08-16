@@ -7834,8 +7834,8 @@
     "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 6794.222599999999,
-    "whale_pct": 116.99,
+    "whale_usd": 7315.022599999999,
+    "whale_pct": 125.958,
     "whale_value_at_open": 5807.5256,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 63,
@@ -7845,8 +7845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786918306.6368983,
-    "fills": 4
+    "last_fill_at": 1786918451.3640037,
+    "fills": 5
   },
   {
     "timestamp": 1786917749,
