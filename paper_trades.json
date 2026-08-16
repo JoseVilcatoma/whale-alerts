@@ -6990,15 +6990,16 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.54,
     "overlaps_with": [
       "g42gh6524h5h5"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786872976.5001957,
-    "fills": 4
+    "fills": 4,
+    "closed_price": 60
   },
   {
     "timestamp": 1786872524,
@@ -7067,6 +7068,54 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786872635.212289,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786873068,
+    "timestamp_added": 1786873068.9152474,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-t1-gen-2026-08-16-game2",
+    "title": "LoL: T1 vs Gen.G - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 5973.1614,
+    "whale_pct": 23.695,
+    "whale_value_at_open": 25208.3428,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786873068.9152555,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786873076,
+    "timestamp_added": 1786873077.4684052,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-added-henning-2026-08-16",
+    "title": "ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning",
+    "outcome": "Philip Henning",
+    "side": "BUY",
+    "whale_usd": 1636.54,
+    "whale_pct": 2.817,
+    "whale_value_at_open": 58096.7326,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786873077.4684143,
     "fills": 1
   }
 ]

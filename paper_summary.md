@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:36:25 (hora de Perú)
+Actualizado: 2026-08-16 04:38:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $905.58
-**Retorno acumulado:** -9.44%
+**Bankroll actual:** $907.12
+**Retorno acumulado:** -9.29%
 **Peor caída desde un máximo (drawdown):** 20.18%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 04:36:25 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $455.58)
+**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $447.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,9 +34,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| IMAREALPERSON | 5 | 3 | 2 | -17.02 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
-| RN1 | 11 | 10 | 8 | -40.39 USD |
+| RN1 | 11 | 10 | 9 | -40.39 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
@@ -120,10 +120,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 2.8% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 55% | 10.00 | 23.7% | ⏳ pendiente | — |
 | bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 10.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 50% | 10.00 | 71.4% | ⏳ pendiente | — |
 | RN1 | Sion: Gerard Campana Lee vs Franco Riber | Gerard Campana Lee (BUY) | 96% | 10.00 | 2.6% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 89.0% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 89.0% | 💰 vendida anticipada | +1.54 |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 2 Winner | Gen.G (BUY) | 58% | 10.00 | 112.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 52% | 10.00 | 6.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 41% | 10.00 | 38.5% | ⏳ pendiente | — |
@@ -148,5 +150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Thasaporn Naklo (BUY) | 83% | 10.00 | 2.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 1 Wi | JD Gaming (BUY) | 80% | 10.00 | 6.7% | 💰 vendida anticipada | -1.50 |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 47% | 10.00 | 15.3% | ⏳ pendiente | — |
