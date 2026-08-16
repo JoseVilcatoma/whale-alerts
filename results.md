@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:33:38 (hora de Perú)
+Actualizado: 2026-08-16 09:35:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **307**  ($16,280,115 en total)
-- Resueltas: **267** — 151 ganadas / 116 perdidas (**57%** de acierto)
-- Pendientes: 40
+- Resueltas: **268** — 152 ganadas / 116 perdidas (**57%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 100
 
 ### Balance
 
-- **Resultado de los apostadores: -$577,856** sobre $12,795,460 apostados (ROI **-4.5%**)
-- Copiando $100 fijo en cada una: **-$2,320** sobre $26,100 (ROI **-8.9%**)
+- **Resultado de los apostadores: -$569,856** sobre $12,887,460 apostados (ROI **-4.4%**)
+- Copiando $100 fijo en cada una: **-$2,311** sobre $26,200 (ROI **-8.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | 007theone1 | 3 | 0 | 0 | ⚠️ 100% (3) | $103,679 | +$29,017 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
-| greyoctober | 0 | 0 | 1 | — | $92,000 | — |
+| greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | bloodmaster | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.11 (90¢) | $28,905 | — | ⏳ Pendiente |
 | 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | — | ⏳ Pendiente |
-| greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | — | ⏳ Pendiente |
+| greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | — | ⏳ Pendiente |
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | — | ⏳ Pendiente |
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
