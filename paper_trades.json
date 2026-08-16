@@ -5828,5 +5828,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786854124.6972916,
     "fills": 1
+  },
+  {
+    "timestamp": 1786854175,
+    "timestamp_added": 1786854175.7701645,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-atl-tig-2026-08-15-total-2pt5",
+    "title": "Atlas FC vs. Tigres de la UANL: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 590.25,
+    "whale_pct": 0.893,
+    "whale_value_at_open": 66097.078,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786854175.7701693,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786854234,
+    "timestamp_added": 1786854235.2489626,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-zverev-norrie-2026-08-15",
+    "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "whale_usd": 600.0,
+    "whale_pct": 0.532,
+    "whale_value_at_open": 112875.8453,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786854235.2489738,
+    "fills": 1
   }
 ]
