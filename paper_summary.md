@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:19:41 (hora de Perú)
+Actualizado: 2026-08-16 04:21:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $901.29
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 04:19:41 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $481.29)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $471.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
+| IMAREALPERSON | 4 | 3 | 1 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | RN1 | 10 | 10 | 8 | -44.68 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
@@ -114,11 +114,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-gen-2026-08-16-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115, g42gh6524h5h5 |
 | atp-dougaz-matsuok-2026-08-16 | HomeRunHazard, RN1 |
 | lol-lgd-jdg-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| lol-t1-gen-2026-08-16-game2 | IMAREALPERSON, g42gh6524h5h5 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 9.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 2 Winner | Gen.G (BUY) | 58% | 10.00 | 112.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 52% | 10.00 | 6.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 41% | 10.00 | 38.5% | ⏳ pendiente | — |
@@ -148,4 +150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 1 Wi | JD Gaming (BUY) | 85% | 10.00 | 11.1% | 💰 vendida anticipada | -0.12 |
 | HomeRunHazard | Arizona Diamondbacks vs. Atlanta Braves: | Under (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Tianjin 2 Men: Kosuke Ogura vs O | Omar Jasika (BUY) | 56% | 10.00 | 1.9% | ✅ ganada | +7.86 |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
