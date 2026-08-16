@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:12:23 (hora de Perú)
+Actualizado: 2026-08-16 10:14:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $851.53
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 10:12:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $141.53)
+**Capital comprometido ahora mismo:** $720.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $131.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
+| Lakersfan111 | 9 | 9 | 3 | -16.53 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 4 | 1 | -28.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
@@ -105,6 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-sr-dig-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| cs2-ast10-nip-2026-08-16 | 111111111115, Lakersfan111 |
 | mlb-tex-oak-2026-08-15 | HomeRunHazard, RN1, Sassy-Bucket |
 | atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 | cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
@@ -124,6 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -153,4 +155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 50% | 10.00 | 1.9% | ⏳ pendiente | — |
-| midwicket72 | The Hundred, Women: Trent Rockets vs Sun | Trent Rockets (BUY) | 59% | 10.00 | 26.5% | ⏳ pendiente | — |
