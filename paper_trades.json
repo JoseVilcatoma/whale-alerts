@@ -5377,5 +5377,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786844043.9102793,
     "fills": 1
+  },
+  {
+    "timestamp": 1786844160,
+    "timestamp_added": 1786844161.1743083,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-oak-2026-08-15",
+    "title": "Texas Rangers vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 1989.0,
+    "whale_pct": 18.041,
+    "whale_value_at_open": 11024.7921,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786844161.1743155,
+    "fills": 1
   }
 ]
