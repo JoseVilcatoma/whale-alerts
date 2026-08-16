@@ -1,5 +1,5 @@
 {
-  "bankroll": 894.1754691134942,
+  "bankroll": 884.4216101230895,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1350,6 +1350,26 @@
       "timestamp": 1786876259.62256,
       "bankroll": 894.18,
       "event": "venta anticipada: IMAREALPERSON \u2014 LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner (-2.12 USD)"
+    },
+    {
+      "timestamp": 1786877583.7645097,
+      "bankroll": 903.78,
+      "event": "won: RN1 \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1786877584.265358,
+      "bankroll": 893.78,
+      "event": "lost: RN1 \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1786877584.4657164,
+      "bankroll": 883.78,
+      "event": "lost: HomeRunHazard \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1786877585.6133964,
+      "bankroll": 884.42,
+      "event": "won: HomeRunHazard \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
     }
   ]
 }
