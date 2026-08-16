@@ -7268,8 +7268,8 @@
     "title": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
     "outcome": "Weibo Gaming",
     "side": "BUY",
-    "whale_usd": 6036.545022,
-    "whale_pct": 27.46,
+    "whale_usd": 10117.525022000002,
+    "whale_pct": 46.025,
     "whale_value_at_open": 21982.6548,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7279,8 +7279,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786875790.6716115,
-    "fills": 4
+    "last_fill_at": 1786875856.3718424,
+    "fills": 5
   },
   {
     "timestamp": 1786875758,
