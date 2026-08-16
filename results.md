@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 16:48:05 (hora de Perú)
+Actualizado: 2026-08-16 16:50:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **340**  ($17,661,276 en total)
-- Resueltas: **326** — 194 ganadas / 132 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **328** — 196 ganadas / 132 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 107
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,041,859** sobre $17,133,351 apostados (ROI **+6.1%**)
-- Copiando $100 fijo en cada una: **-$1,113** sobre $31,800 (ROI **-3.5%**)
+- **Resultado de los apostadores: +$1,077,240** sobre $17,192,288 apostados (ROI **+6.3%**)
+- Copiando $100 fijo en cada una: **-$993** sobre $32,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 4 | 1 | 1 | ⚠️ 80% (5) | $245,134 | +$45,984 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | Winnnnnnning | 0 | 4 | 1 | ⚠️ 0% (4) | $193,233 | -$116,271 |
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 107 en total)_
 | WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | -$36,783 | ❌ Perdida |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | — | ⏳ Pendiente |
-| dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | +$18,348 | ✅ Ganada |
+| dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | +$17,032 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $25,095 | +$22,254 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.92 (52¢) | $49,000 | +$23,558 | 💰 Vendida antes |
 | SDTrading | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
