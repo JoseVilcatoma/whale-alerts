@@ -6503,8 +6503,8 @@
     "title": "LoL: LGD Gaming vs JD Gaming - Game 2 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 10475.440454,
-    "whale_pct": 138.542,
+    "whale_usd": 12259.003954,
+    "whale_pct": 162.13,
     "whale_value_at_open": 7561.207,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -6514,8 +6514,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786868696.5832117,
-    "fills": 4
+    "last_fill_at": 1786868845.5122375,
+    "fills": 5
   },
   {
     "timestamp": 1786867372,
@@ -6681,6 +6681,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786868188.8534346,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786868858,
+    "timestamp_added": 1786868859.749815,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-lgd-jdg-2026-08-16-game2",
+    "title": "LoL: LGD Gaming vs JD Gaming - Game 2 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 1996.1069999999997,
+    "whale_pct": 34.237,
+    "whale_value_at_open": 5830.2658,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786868859.7498257,
     "fills": 1
   }
 ]

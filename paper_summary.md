@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 03:27:05 (hora de Perú)
+Actualizado: 2026-08-16 03:29:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $911.67
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 03:27:05 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $551.67)
+**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $541.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
+| g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
@@ -109,6 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-lgd-ty-2026-08-16 | Lakersfan111, SineNooneEI |
+| lol-lgd-jdg-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-t1-gen-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | lol-t1-gen-2026-08-16-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 
@@ -116,6 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 66% | 10.00 | 34.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | ⏳ pendiente | — |
 | RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 51% | 10.00 | 20.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 72% | 10.00 | 11.2% | ⏳ pendiente | — |
@@ -123,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 111111111115 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 59% | 10.00 | 16.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 58% | 10.00 | 106.0% | 💰 vendida anticipada | +1.55 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 138.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 162.1% | ⏳ pendiente | — |
 | RN1 | Prague: Marek Gengel vs Svyatoslav Gulin | Svyatoslav Gulin (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Thasaporn Naklo (BUY) | 83% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -145,4 +147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ❌ perdida | -10.00 |
-| RN1 | Will Tigres de la UANL win on 2026-08-15 | No (BUY) | 95% | 10.00 | 0.9% | ✅ ganada | +0.53 |
