@@ -8160,8 +8160,8 @@
     "title": "Will FC Arouca win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 18182.6386,
-    "whale_pct": 69.778,
+    "whale_usd": 27286.9286,
+    "whale_pct": 104.717,
     "whale_value_at_open": 26057.6946,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -8171,8 +8171,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786895559.2999198,
-    "fills": 3
+    "last_fill_at": 1786896474.1910474,
+    "fills": 4
   },
   {
     "timestamp": 1786895802,

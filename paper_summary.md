@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 11:06:38 (hora de Perú)
+Actualizado: 2026-08-16 11:08:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.16
@@ -127,7 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ChonkyChocolateCake | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 50% | 10.00 | 30.8% | ⏳ pendiente | — |
 | predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
-| predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 69.8% | ⏳ pendiente | — |
+| predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 104.7% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Nottinghamshire (BUY) | 59% | 10.00 | 36.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 4.5% | ⏳ pendiente | — |
