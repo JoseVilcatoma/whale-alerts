@@ -3983,5 +3983,20 @@
     "status": "pending",
     "ultimo_fill": 1786867967,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 554,
+    "timestamp": 1786871649,
+    "username": "bbb17367162806",
+    "wallet": "0x0c787cc2962ee6464414da592b892c3886e077f1",
+    "slug": "ere-ado-gro-2026-08-16-ado",
+    "title": "Will ADO Den Haag win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1786871649,
+    "fills": 1
   }
 ]
