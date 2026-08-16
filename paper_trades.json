@@ -6152,8 +6152,8 @@
     "title": "Dota 2: LGD Gaming vs Team Yandex - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 4546.75,
-    "whale_pct": 3.415,
+    "whale_usd": 6425.3605,
+    "whale_pct": 4.827,
     "whale_value_at_open": 133122.4391,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -6163,8 +6163,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786859909.3492084,
-    "fills": 1
+    "last_fill_at": 1786860615.1257458,
+    "fills": 2
   },
   {
     "timestamp": 1786860038,
