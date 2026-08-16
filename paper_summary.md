@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:18:03 (hora de Perú)
+Actualizado: 2026-08-16 05:20:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.47
@@ -120,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
