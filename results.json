@@ -5081,7 +5081,7 @@
     "side": "BUY",
     "usd": 42567.337999999996,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786912643,
     "fills": 1
   },
@@ -5143,6 +5143,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1786919704,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 704,
+    "timestamp": 1786920560,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-sea-hou-2026-08-16",
+    "title": "Seattle Mariners vs. Houston Astros",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1786920560,
     "fills": 1
   }
 ]
