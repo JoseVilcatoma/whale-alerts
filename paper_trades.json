@@ -5541,8 +5541,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 13443.242621000001,
-    "whale_pct": 8.804,
+    "whale_usd": 19889.527321,
+    "whale_pct": 13.026,
     "whale_value_at_open": 152696.2455,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5551,8 +5551,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786858831.0113158,
-    "fills": 7
+    "last_fill_at": 1786859300.6207526,
+    "fills": 9
   },
   {
     "timestamp": 1786852436,
@@ -6096,5 +6096,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786859025.961729,
     "fills": 3
+  },
+  {
+    "timestamp": 1786859370,
+    "timestamp_added": 1786859371.185128,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mglz-pain-2026-08-16-game1",
+    "title": "Counter-Strike: TheMongolz vs paiN - Map 1 Winner",
+    "outcome": "paiN",
+    "side": "BUY",
+    "whale_usd": 675.0,
+    "whale_pct": 0.272,
+    "whale_value_at_open": 248538.1529,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786859371.1851377,
+    "fills": 1
   }
 ]
