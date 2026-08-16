@@ -7242,8 +7242,8 @@
     "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 502.9,
-    "whale_pct": 2.21,
+    "whale_usd": 2118.7599999999998,
+    "whale_pct": 9.312,
     "whale_value_at_open": 22752.3173,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -7253,8 +7253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786899732.0095904,
-    "fills": 1
+    "last_fill_at": 1786900030.1733592,
+    "fills": 2
   },
   {
     "timestamp": 1786899937,
@@ -7265,8 +7265,8 @@
     "title": "Miami Marlins vs. Cincinnati Reds: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3490.08,
-    "whale_pct": 14.997,
+    "whale_usd": 29013.08,
+    "whale_pct": 124.669,
     "whale_value_at_open": 23272.0222,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -7276,7 +7276,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786899950.8222287,
-    "fills": 2
+    "last_fill_at": 1786900079.5314772,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786899988,
+    "timestamp_added": 1786899989.1189284,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crichundred-tre-man-2026-08-16",
+    "title": "The Hundred: Trent Rockets vs Manchester Super Giants",
+    "outcome": "Manchester Super Giants",
+    "side": "BUY",
+    "whale_usd": 1781.9183999999998,
+    "whale_pct": 5.584,
+    "whale_value_at_open": 31909.7521,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786899989.1189404,
+    "fills": 1
   }
 ]
