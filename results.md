@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 03:48:08 (hora de Perú)
+Actualizado: 2026-08-16 03:50:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **265**  ($12,748,986 en total)
-- Resueltas: **258** — 142 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 7
+- Resueltas: **259** — 143 ganadas / 116 perdidas (**55%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 87
 
 ### Balance
 
-- **Resultado de los apostadores: -$724,260** sobre $12,431,683 apostados (ROI **-5.8%**)
-- Copiando $100 fijo en cada una: **-$2,700** sobre $25,300 (ROI **-10.7%**)
+- **Resultado de los apostadores: -$702,976** sobre $12,489,230 apostados (ROI **-5.6%**)
+- Copiando $100 fijo en cada una: **-$2,663** sobre $25,400 (ROI **-10.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| 111111111115 | 3 | 2 | 1 | ⚠️ 60% (5) | $323,576 | +$46,876 |
+| 111111111115 | 4 | 2 | 0 | ⚠️ 67% (6) | $323,576 | +$68,161 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | — | ⏳ Pendiente |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | — | ⏳ Pendiente |
 | Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
-| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | — | ⏳ Pendiente |
+| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | +$21,284 | ✅ Ganada |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winner | BoomBoys | 2.00 (50¢) | $55,318 | +$55,318 | ✅ Ganada |
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
