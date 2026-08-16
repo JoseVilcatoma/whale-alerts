@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 18:07:16 (hora de Perú)
+Actualizado: 2026-08-16 18:09:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **344**  ($17,819,626 en total)
+- Apuestas registradas: **345**  ($17,845,626 en total)
 - Resueltas: **331** — 198 ganadas / 133 perdidas (**60%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 107
+- Pendientes: 14
+- Apostadores distintos: 108
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 
-_(mostrando los 40 de mayor monto, de 107 en total)_
+_(mostrando los 40 de mayor monto, de 108 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 107 en total)_
 | matanovik | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $37,050 | -$37,050 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $65,000 | -$65,000 | ❌ Perdida |
 | CongoleseBorat | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $64,862 | +$1,410 | 💰 Vendida antes |
-| 0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514 | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
