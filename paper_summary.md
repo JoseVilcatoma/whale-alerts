@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 13:36:55 (hora de Perú)
+Actualizado: 2026-08-16 13:38:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $832.17
-**Retorno acumulado:** -16.78%
+**Bankroll actual:** $833.45
+**Retorno acumulado:** -16.66%
 **Peor caída desde un máximo (drawdown):** 27.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 13:36:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $492.17)
+**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $513.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,11 +32,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
-| 111111111115 | 11 | 9 | 2 | -3.43 USD |
+| Lakersfan111 | 10 | 9 | 1 | -5.25 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
+| 111111111115 | 11 | 10 | 1 | -13.43 USD |
 | midwicket72 | 1 | 2 | 4 | -18.10 USD |
 | IMAREALPERSON | 5 | 4 | 3 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 275
-- **Aciertos:** 145 (52.7%)
+- **Apuestas resueltas:** 277
+- **Aciertos:** 146 (52.7%)
 - **Cuota promedio de entrada:** 54.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,750.00
-- **ROI sobre lo apostado:** -7.93%
+- **Total apostado (suma de stakes):** $2,770.00
+- **ROI sobre lo apostado:** -7.83%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 139 | 46.8% | 49.7% | -2.9 pp |
+| 40-59% | 141 | 46.8% | 49.7% | -2.9 pp |
 | 60-79% | 66 | 69.7% | 68.3% | +1.4 pp |
 | 80-94% | 18 | 100.0% | 84.9% | +15.1 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |

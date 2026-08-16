@@ -1,5 +1,5 @@
 {
-  "bankroll": 832.1719263824433,
+  "bankroll": 833.4485221271242,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1480,6 +1480,16 @@
       "timestamp": 1786904764.5251746,
       "bankroll": 832.17,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season (+10.00 USD)"
+    },
+    {
+      "timestamp": 1786905469.6158576,
+      "bankroll": 822.17,
+      "event": "lost: 111111111115 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786905469.7160192,
+      "bankroll": 833.45,
+      "event": "won: Lakersfan111 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
     }
   ]
 }
