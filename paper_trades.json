@@ -7274,13 +7274,14 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786875856.3718424,
-    "fills": 5
+    "fills": 5,
+    "closed_price": 41
   },
   {
     "timestamp": 1786875758,
@@ -7291,8 +7292,8 @@
     "title": "Sion: Michael Zhu vs Thiago Cigarran",
     "outcome": "Thiago Cigarran",
     "side": "BUY",
-    "whale_usd": 3659.04,
-    "whale_pct": 4.218,
+    "whale_usd": 4491.04,
+    "whale_pct": 5.177,
     "whale_value_at_open": 86753.6179,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -7302,7 +7303,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786875759.1761808,
-    "fills": 1
+    "last_fill_at": 1786876313.8348982,
+    "fills": 2
   }
 ]

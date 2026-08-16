@@ -1,5 +1,5 @@
 {
-  "bankroll": 896.2908537288788,
+  "bankroll": 894.1754691134942,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1345,6 +1345,11 @@
       "timestamp": 1786876220.8520415,
       "bankroll": 896.29,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning"
+    },
+    {
+      "timestamp": 1786876259.62256,
+      "bankroll": 894.18,
+      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner (-2.12 USD)"
     }
   ]
 }
