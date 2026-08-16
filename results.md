@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:15:32 (hora de Perú)
+Actualizado: 2026-08-16 12:17:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **323**  ($17,019,165 en total)
-- Resueltas: **277** — 159 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 46
+- Resueltas: **284** — 162 ganadas / 122 perdidas (**57%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 104
 
 ### Balance
 
-- **Resultado de los apostadores: -$507,535** sobre $13,209,606 apostados (ROI **-3.8%**)
-- Copiando $100 fijo en cada una: **-$2,266** sobre $27,000 (ROI **-8.4%**)
+- **Resultado de los apostadores: -$630,268** sobre $13,649,221 apostados (ROI **-4.6%**)
+- Copiando $100 fijo en cada una: **-$2,419** sobre $27,700 (ROI **-8.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 27 | 13 | 6 | 68% | $2,685,962 | +$292,709 |
-| sainttroplay | 1 | 0 | 13 | ⚠️ 100% (1) | $2,092,133 | +$370,247 |
+| sainttroplay | 1 | 4 | 9 | ⚠️ 20% (5) | $2,092,133 | +$96,462 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 1 | 0 | 2 | ⚠️ 100% (1) | $162,760 | +$46,780 |
 | SDTrading | 0 | 3 | 3 | ⚠️ 0% (3) | $161,562 | -$81,210 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 0 | 0 | 2 | — | $153,500 | — |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 0 | 1 | ⚠️ 100% (1) | $153,500 | +$88,500 |
 | Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -84,14 +84,14 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
-| ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | — | ⏳ Pendiente |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | — | ⏳ Pendiente |
+| ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | +$88,500 | ✅ Ganada |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | — | ⏳ Pendiente |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | — | ⏳ Pendiente |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | -$73,336 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.09 (92¢) | $26,220 | — | ⏳ Pendiente |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $115,200 | — | ⏳ Pendiente |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.13 (47¢) | $35,250 | — | ⏳ Pendiente |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $115,200 | -$115,200 | ❌ Perdida |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.13 (47¢) | $35,250 | -$35,250 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.06 (94¢) | $83,889 | — | ⏳ Pendiente |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.25 (80¢) | $25,243 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.09 (92¢) | $67,846 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | — | ⏳ Pendiente |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.78 (36¢) | $58,448 | — | ⏳ Pendiente |
-| lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | +$12,553 | ✅ Ganada |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | — | ⏳ Pendiente |
