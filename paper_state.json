@@ -1,5 +1,5 @@
 {
-  "bankroll": 833.8290396803789,
+  "bankroll": 837.1623730137122,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1455,6 +1455,11 @@
       "timestamp": 1786895947.881077,
       "bankroll": 833.83,
       "event": "won: RN1 \u2014 Djurgardens IF vs. AIK: O/U 3.5"
+    },
+    {
+      "timestamp": 1786896271.0008082,
+      "bankroll": 837.16,
+      "event": "won: HomeRunHazard \u2014 Prague: Matyas Cerny vs Dusan Obradovic"
     }
   ]
 }
