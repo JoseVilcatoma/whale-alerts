@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:51:06 (hora de Perú)
+Actualizado: 2026-08-16 05:53:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $894.18
-**Retorno acumulado:** -10.58%
-**Peor caída desde un máximo (drawdown):** 20.18%
+**Bankroll actual:** $884.42
+**Retorno acumulado:** -11.56%
+**Peor caída desde un máximo (drawdown):** 20.89%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $374.18)
+**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $404.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,28 +26,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | Lakersfan111 | 7 | 6 | 8 | +4.62 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
-| HomeRunHazard | 6 | 2 | 9 | +3.78 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | SineNooneEI | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| HomeRunHazard | 7 | 3 | 7 | -5.58 USD |
 | g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 5 | 5 | 2 | -24.78 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 13 | 11 | 13 | -49.55 USD |
+| RN1 | 14 | 12 | 11 | -49.94 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 242
-- **Aciertos:** 128 (52.9%)
-- **Cuota promedio de entrada:** 53.8%
+- **Apuestas resueltas:** 246
+- **Aciertos:** 130 (52.8%)
+- **Cuota promedio de entrada:** 54.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,420.00
-- **ROI sobre lo apostado:** -5.70%
+- **Total apostado (suma de stakes):** $2,460.00
+- **ROI sobre lo apostado:** -6.01%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,9 +57,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
-| 40-59% | 123 | 49.6% | 49.4% | +0.1 pp |
-| 60-79% | 55 | 69.1% | 68.3% | +0.8 pp |
-| 80-94% | 16 | 93.8% | 85.2% | +8.5 pp |
+| 40-59% | 125 | 49.6% | 49.4% | +0.2 pp |
+| 60-79% | 56 | 67.9% | 68.3% | -0.4 pp |
+| 80-94% | 17 | 94.1% | 85.8% | +8.4 pp |
 | 95-99% (casi seguro) | 5 | 100.0% | 97.0% | +3.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -130,7 +130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | 💰 vendida anticipada | -2.12 |
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ⏳ pendiente | — |
+| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ✅ ganada | +0.64 |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Malmö Men: Karl Friberg vs John  | Karl Friberg (BUY) | 90% | 10.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 64% | 10.00 | 3.3% | ⏳ pendiente | — |
@@ -144,10 +144,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 52% | 10.00 | 6.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 41% | 10.00 | 38.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 43% | 10.00 | 62.9% | 💰 vendida anticipada | +1.40 |
-| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 41% | 10.00 | 0.9% | ❌ perdida | -10.00 |
 | RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 61% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Matyas Kozlovsky vs Javier Barra | Javier Barranco Cosano (BUY) | 91% | 10.00 | 2.4% | ✅ ganada | +0.99 |
-| RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 67% | 10.00 | 11.1% | ⏳ pendiente | — |
+| RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 67% | 10.00 | 11.1% | ❌ perdida | -10.00 |
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Daria Kuczer (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | T1 (BUY) | 69% | 10.00 | 220.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 73% | 10.00 | 38.3% | ⏳ pendiente | — |
