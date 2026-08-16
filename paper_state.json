@@ -1,5 +1,5 @@
 {
-  "bankroll": 872.9913185889739,
+  "bankroll": 873.1954002216269,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1325,6 +1325,11 @@
       "timestamp": 1786885331.7154584,
       "bankroll": 872.99,
       "event": "won: RN1 \u2014 Roehampton: Rhys Lawlor vs Nicolas Tepmahc"
+    },
+    {
+      "timestamp": 1786887451.1614885,
+      "bankroll": 873.2,
+      "event": "won: RN1 \u2014 Prague: Fryderyk Lechno-Wasiutynski vs Matthew William Donald"
     }
   ]
 }
