@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 22:06:33 (hora de Perú)
+Actualizado: 2026-08-15 22:08:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **250**  ($12,079,698 en total)
+- Apuestas registradas: **251**  ($12,107,076 en total)
 - Resueltas: **229** — 120 ganadas / 109 perdidas (**52%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 81
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 13 | 0 | 64% | $2,263,987 | +$215,383 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 13 | 1 | 64% | $2,291,364 | +$215,383 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 12 | 4 | 43% | $1,106,976 | -$104,644 |
 | BreakTheBank | 0 | 2 | 5 | ⚠️ 0% (2) | $612,966 | -$179,262 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.12 (89¢) | $27,377 | — | ⏳ Pendiente |
 | 007theone1 | Cincinnati Open: Lois Boisson vs Belinda Bencic | Lois Boisson | 1.49 (67¢) | $50,818 | — | ⏳ Pendiente |
 | suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $91,469 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 | highnetworth | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.64 (61¢) | $32,037 | +$20,483 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | +$15,764 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | -$122,227 | ❌ Perdida |
