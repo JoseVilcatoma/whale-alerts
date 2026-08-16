@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:29:12 (hora de Perú)
+Actualizado: 2026-08-16 10:31:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $848.48
-**Retorno acumulado:** -15.15%
-**Peor caída desde un máximo (drawdown):** 24.06%
+**Bankroll actual:** $844.10
+**Retorno acumulado:** -15.59%
+**Peor caída desde un máximo (drawdown):** 24.95%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $680.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $168.48)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $184.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,16 +39,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
-| RN1 | 20 | 15 | 10 | -66.00 USD |
+| RN1 | 21 | 16 | 8 | -70.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 264
-- **Aciertos:** 140 (53.0%)
-- **Cuota promedio de entrada:** 54.5%
+- **Apuestas resueltas:** 266
+- **Aciertos:** 141 (53.0%)
+- **Cuota promedio de entrada:** 54.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,640.00
-- **ROI sobre lo apostado:** -7.27%
+- **Total apostado (suma de stakes):** $2,660.00
+- **ROI sobre lo apostado:** -7.38%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +59,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
 | 40-59% | 134 | 47.0% | 49.5% | -2.5 pp |
-| 60-79% | 60 | 70.0% | 68.1% | +1.9 pp |
+| 60-79% | 62 | 69.4% | 68.1% | +1.3 pp |
 | 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
@@ -126,7 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 1.2% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
