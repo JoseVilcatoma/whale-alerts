@@ -1,5 +1,5 @@
 {
-  "bankroll": 933.6941325707222,
+  "bankroll": 937.5830214596111,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1025,6 +1025,11 @@
       "timestamp": 1786840369.809138,
       "bankroll": 933.69,
       "event": "lost: wr0ngw4yb3tt0r \u2014 CLE vs. CHI: O/U 38.5"
+    },
+    {
+      "timestamp": 1786840555.9363072,
+      "bankroll": 937.58,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Cincinnati Open: Tommy Paul vs Hubert Hurkacz"
     }
   ]
 }

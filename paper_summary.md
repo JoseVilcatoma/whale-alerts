@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 19:35:01 (hora de Perú)
+Actualizado: 2026-08-15 19:37:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $933.69
-**Retorno acumulado:** -6.63%
+**Bankroll actual:** $937.58
+**Retorno acumulado:** -6.24%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 7 | 3 | 3 | +35.83 USD |
 | Lakersfan111 | 5 | 4 | 0 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Sassy-Bucket | 1 | 1 | 1 | +0.83 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 185
-- **Aciertos:** 94 (50.8%)
-- **Cuota promedio de entrada:** 51.8%
+- **Apuestas resueltas:** 186
+- **Aciertos:** 95 (51.1%)
+- **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,850.00
-- **ROI sobre lo apostado:** -5.76%
+- **Total apostado (suma de stakes):** $1,860.00
+- **ROI sobre lo apostado:** -5.52%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,7 +52,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 2 | 0.0% | 15.0% | -15.0 pp |
 | 20-39% | 34 | 23.5% | 32.5% | -8.9 pp |
 | 40-59% | 100 | 48.0% | 49.1% | -1.1 pp |
-| 60-79% | 38 | 71.1% | 67.8% | +3.3 pp |
+| 60-79% | 39 | 71.8% | 67.9% | +3.9 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
@@ -104,7 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 70.5% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 101.7% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ✅ ganada | +3.89 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 20.1% | 💰 vendida anticipada | -3.39 |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 89% | 10.00 | 9.6% | 💰 vendida anticipada | +1.01 |
