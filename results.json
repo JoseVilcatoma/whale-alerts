@@ -4690,5 +4690,20 @@
     "status": "pending",
     "ultimo_fill": 1786893476,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 613,
+    "timestamp": 1786892910,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "wta-krejcik-bejlek-2026-08-16",
+    "title": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek",
+    "outcome": "Sara Bejlek",
+    "side": "BUY",
+    "usd": 28200.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1786892910,
+    "fills": 1
   }
 ]
