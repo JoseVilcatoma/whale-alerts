@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.4044597039758,
+  "bankroll": 775.4044597039758,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1640,6 +1640,16 @@
       "timestamp": 1786919517.26962,
       "bankroll": 795.4,
       "event": "lost: midwicket72 \u2014 Metro Bank One Day Cup: Middlesex vs Durham"
+    },
+    {
+      "timestamp": 1786920191.2926862,
+      "bankroll": 785.4,
+      "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 9.5"
+    },
+    {
+      "timestamp": 1786920191.5667686,
+      "bankroll": 775.4,
+      "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
     }
   ]
 }
