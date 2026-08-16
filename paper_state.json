@@ -1,5 +1,5 @@
 {
-  "bankroll": 834.2818554604576,
+  "bankroll": 845.5584512051385,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1500,6 +1500,11 @@
       "timestamp": 1786908482.8222332,
       "bankroll": 834.28,
       "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786908926.4660962,
+      "bankroll": 845.56,
+      "event": "won: 3edmond.dantes \u2014 Will RCD Espanyol de Barcelona win on 2026-08-16?"
     }
   ]
 }
