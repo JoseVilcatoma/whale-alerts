@@ -1,5 +1,5 @@
 {
-  "bankroll": 938.2721771004044,
+  "bankroll": 922.1318262232114,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1225,6 +1225,26 @@
       "timestamp": 1786863476.9648294,
       "bankroll": 938.27,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: KC (-1.5)"
+    },
+    {
+      "timestamp": 1786864734.5092869,
+      "bankroll": 941.61,
+      "event": "won: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 2.5"
+    },
+    {
+      "timestamp": 1786864736.438145,
+      "bankroll": 931.61,
+      "event": "lost: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786864736.5383136,
+      "bankroll": 932.13,
+      "event": "won: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786864736.9411962,
+      "bankroll": 922.13,
+      "event": "lost: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 3.5"
     }
   ]
 }
