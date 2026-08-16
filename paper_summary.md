@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:28:19 (hora de Perú)
+Actualizado: 2026-08-16 08:30:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:28:19 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $700.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $172.99)
+**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $162.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 9 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
+| g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
@@ -121,6 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ChonkyChocolateCake | Game Handicap: TES (-1.5) vs EDward Gami | Top Esports (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 60% | 10.00 | 6.0% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Over (BUY) | 42% | 10.00 | 1.5% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8 | Under (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
@@ -150,4 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Sion: Dimitris Sakellaridis vs Gian Luca | Dimitris Sakellaridis (BUY) | 69% | 10.00 | 222.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | Kiwoom DRX (BUY) | 58% | 10.00 | 23.3% | ⏳ pendiente | — |
