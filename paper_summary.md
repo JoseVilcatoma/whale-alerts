@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:00:57 (hora de Perú)
+Actualizado: 2026-08-16 17:02:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.82
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 17:00:57 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $605.82)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $595.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | midwicket72 | 2 | 2 | 3 | -17.23 USD |
 | SineNooneEI | 0 | 2 | 1 | -20.00 USD |
-| IMAREALPERSON | 7 | 5 | 1 | -20.19 USD |
+| IMAREALPERSON | 7 | 5 | 2 | -20.19 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
@@ -121,6 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Game Handicap: LY (-1.5) vs Sentinels (+ | Sentinels (BUY) | 46% | 10.00 | 29.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 97.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 53% | 10.00 | 3.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 10.00 | 33.8% | ⏳ pendiente | — |
@@ -150,4 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 51.5% | ✅ ganada | +7.86 |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 128.3% | ⏳ pendiente | — |
-| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 20 | Yes (BUY) | 47% | 10.00 | 304.7% | ✅ ganada | +11.28 |

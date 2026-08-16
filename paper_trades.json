@@ -7847,5 +7847,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786917255.21607,
     "fills": 3
+  },
+  {
+    "timestamp": 1786917749,
+    "timestamp_added": 1786917750.3756495,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-ly-sen-2026-08-16-game-handicap-away-1pt5",
+    "title": "Game Handicap: LY (-1.5) vs Sentinels (+1.5)",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 4317.07459,
+    "whale_pct": 29.671,
+    "whale_value_at_open": 14549.8585,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786917770.7848964,
+    "fills": 2
   }
 ]
