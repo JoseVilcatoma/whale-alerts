@@ -6445,5 +6445,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786866010.958678,
     "fills": 1
+  },
+  {
+    "timestamp": 1786866619,
+    "timestamp_added": 1786866619.759343,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "dota2-lgd-ty-2026-08-16",
+    "title": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 18000.0,
+    "whale_pct": 125.305,
+    "whale_value_at_open": 14364.9128,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786866619.7593513,
+    "fills": 1
   }
 ]
