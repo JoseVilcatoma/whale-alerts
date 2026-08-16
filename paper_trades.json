@@ -6701,5 +6701,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786880896.8860357,
     "fills": 1
+  },
+  {
+    "timestamp": 1786881432,
+    "timestamp_added": 1786881433.5119345,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-ind-atl-2026-08-16",
+    "title": "Indiana Fever vs. Atlanta Dream",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 595.0017,
+    "whale_pct": 0.732,
+    "whale_value_at_open": 81302.3668,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786881433.5119429,
+    "fills": 1
   }
 ]
