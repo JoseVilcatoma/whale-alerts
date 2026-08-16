@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 19:50:58 (hora de Perú)
+Actualizado: 2026-08-15 19:53:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **231**  ($10,798,777 en total)
-- Resueltas: **199** — 111 ganadas / 88 perdidas (**56%** de acierto)
-- Pendientes: 32
+- Resueltas: **200** — 111 ganadas / 89 perdidas (**56%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 79
 
 ### Balance
 
-- **Resultado de los apostadores: -$301,270** sobre $9,049,636 apostados (ROI **-3.3%**)
-- Copiando $100 fijo en cada una: **-$1,838** sobre $19,500 (ROI **-9.4%**)
+- **Resultado de los apostadores: -$330,618** sobre $9,078,983 apostados (ROI **-3.6%**)
+- Copiando $100 fijo en cada una: **-$1,938** sobre $19,600 (ROI **-9.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
 | surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | — | ⏳ Pendiente |
-| Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | — | ⏳ Pendiente |
+| Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |
 | Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | — | ⏳ Pendiente |
