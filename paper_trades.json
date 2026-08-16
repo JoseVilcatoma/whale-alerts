@@ -7727,5 +7727,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786886909.5080943,
     "fills": 1
+  },
+  {
+    "timestamp": 1786887800,
+    "timestamp_added": 1786887800.8801382,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "por-nac-est-2026-08-16-total-2pt5",
+    "title": "CD Nacional vs. Estoril Praia: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2125.5,
+    "whale_pct": 21.309,
+    "whale_value_at_open": 9974.575,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786887800.8801477,
+    "fills": 1
   }
 ]
