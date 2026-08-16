@@ -4735,5 +4735,35 @@
     "status": "pending",
     "ultimo_fill": 1786896824,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 620,
+    "timestamp": 1786897656,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-humbert-zheng-2026-08-16",
+    "title": "Cincinnati Open: Ugo Humbert vs Michael Zheng",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "usd": 25426.939125,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1786897656,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 621,
+    "timestamp": 1786897862,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-krejcik-bejlek-2026-08-16",
+    "title": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek",
+    "outcome": "Sara Bejlek",
+    "side": "BUY",
+    "usd": 50000.00000000001,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786897862,
+    "fills": 1
   }
 ]
