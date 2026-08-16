@@ -1,5 +1,5 @@
 {
-  "bankroll": 823.4485221271242,
+  "bankroll": 834.2818554604576,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1495,6 +1495,11 @@
       "timestamp": 1786907352.1285036,
       "bankroll": 823.45,
       "event": "lost: Lakersfan111 \u2014 Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D"
+    },
+    {
+      "timestamp": 1786908482.8222332,
+      "bankroll": 834.28,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
     }
   ]
 }
