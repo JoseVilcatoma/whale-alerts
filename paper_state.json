@@ -1,5 +1,5 @@
 {
-  "bankroll": 858.814749070276,
+  "bankroll": 860.5794549526289,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1375,6 +1375,11 @@
       "timestamp": 1786889570.7356303,
       "bankroll": 858.81,
       "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 4.5"
+    },
+    {
+      "timestamp": 1786889761.2567472,
+      "bankroll": 860.58,
+      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 3.5"
     }
   ]
 }
