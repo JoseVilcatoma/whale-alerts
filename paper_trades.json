@@ -6621,8 +6621,8 @@
     "title": "LoL: T1 vs Gen.G - Game 1 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 17020.6889,
-    "whale_pct": 62.719,
+    "whale_usd": 18109.1065,
+    "whale_pct": 66.729,
     "whale_value_at_open": 27138.1867,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -6634,8 +6634,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786869202.4979467,
-    "fills": 5
+    "last_fill_at": 1786869213.2414958,
+    "fills": 6
   },
   {
     "timestamp": 1786868166,
@@ -6706,6 +6706,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786868859.7498257,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786869301,
+    "timestamp_added": 1786869301.9559264,
+    "username": "g42gh6524h5h5",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-t1-gen-2026-08-16-game1",
+    "title": "LoL: T1 vs Gen.G - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 5147.0136,
+    "whale_pct": 38.276,
+    "whale_value_at_open": 13446.9406,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786869301.9559348,
     "fills": 1
   }
 ]
