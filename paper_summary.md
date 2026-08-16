@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:11:07 (hora de Perú)
+Actualizado: 2026-08-16 17:13:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $805.40
@@ -124,7 +124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ChonkyChocolateCake | Game Handicap: LY (-1.5) vs Sentinels (+ | LYON (BUY) | 55% | 10.00 | 13.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: LY (-1.5) vs Sentinels (+ | Sentinels (BUY) | 46% | 10.00 | 29.7% | ⏳ pendiente | — |
-| Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 97.8% | ⏳ pendiente | — |
+| Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 117.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 53% | 10.00 | 3.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 10.00 | 33.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: FlyQuest vs Cloud9 - Game 1 Winner | FlyQuest (BUY) | 42% | 10.00 | 2.4% | 💰 vendida anticipada | -4.76 |
