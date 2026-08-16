@@ -3908,5 +3908,20 @@
     "status": "pending",
     "ultimo_fill": 1786860038,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 547,
+    "timestamp": 1786863724,
+    "username": "Zywoo123",
+    "wallet": "0xc44f432b014f36679e13615f95996eac32bbd49f",
+    "slug": "dota2-ts8-tr7-2026-08-16",
+    "title": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 30240.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1786863724,
+    "fills": 1
   }
 ]
