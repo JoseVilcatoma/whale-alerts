@@ -5541,8 +5541,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 30358.186335000002,
-    "whale_pct": 19.881,
+    "whale_usd": 34293.341735,
+    "whale_pct": 22.459,
     "whale_value_at_open": 152696.2455,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5551,8 +5551,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786859956.6253865,
-    "fills": 14
+    "last_fill_at": 1786860076.2868376,
+    "fills": 17
   },
   {
     "timestamp": 1786852436,
@@ -6165,5 +6165,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786859909.3492084,
     "fills": 1
+  },
+  {
+    "timestamp": 1786860038,
+    "timestamp_added": 1786860039.2475336,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ironwi-gl-2026-08-16-game1",
+    "title": "Dota 2: Iron Wing vs GamerLegion - Game 1 Winner",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "whale_usd": 63808.841199999995,
+    "whale_pct": 25.749,
+    "whale_value_at_open": 247814.6925,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786860123.1348534,
+    "fills": 4
   }
 ]
