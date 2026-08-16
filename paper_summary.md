@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:28:29 (hora de Perú)
+Actualizado: 2026-08-16 12:30:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $813.65
-**Retorno acumulado:** -18.63%
+**Bankroll actual:** $822.17
+**Retorno acumulado:** -17.78%
 **Peor caída desde un máximo (drawdown):** 27.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:28:29 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $533.65)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $552.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,16 +40,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 5 | 4 | 1 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
-| RN1 | 24 | 18 | 3 | -73.53 USD |
+| RN1 | 25 | 18 | 2 | -65.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 274
-- **Aciertos:** 144 (52.6%)
+- **Apuestas resueltas:** 275
+- **Aciertos:** 145 (52.7%)
 - **Cuota promedio de entrada:** 54.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,740.00
-- **ROI sobre lo apostado:** -8.27%
+- **Total apostado (suma de stakes):** $2,750.00
+- **ROI sobre lo apostado:** -7.93%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +59,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 138 | 46.4% | 49.6% | -3.2 pp |
+| 40-59% | 139 | 46.8% | 49.7% | -2.9 pp |
 | 60-79% | 66 | 69.7% | 68.3% | +1.4 pp |
 | 80-94% | 18 | 100.0% | 84.9% | +15.1 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ✅ ganada | +5.62 |
-| RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ✅ ganada | +8.52 |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ❌ perdida | -10.00 |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ✅ ganada | +6.95 |

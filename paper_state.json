@@ -1,5 +1,5 @@
 {
-  "bankroll": 813.6534078639248,
+  "bankroll": 822.1719263824433,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1470,6 +1470,11 @@
       "timestamp": 1786900778.4642286,
       "bankroll": 813.65,
       "event": "won: RN1 \u2014 Real Racing Club vs. Villarreal CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1786901398.5051203,
+      "bankroll": 822.17,
+      "event": "won: RN1 \u2014 Will Nottingham Forest win on 2026-08-16?"
     }
   ]
 }
