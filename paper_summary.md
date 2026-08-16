@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:02:02 (hora de Perú)
+Actualizado: 2026-08-15 23:04:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $965.89
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HomeRunHazard | 0 | 0 | 5 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
@@ -100,11 +100,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-sr-dig-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | mlb-tex-oak-2026-08-15 | HomeRunHazard, Sassy-Bucket |
+| atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -134,4 +136,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ✅ ganada | +3.89 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 20.1% | 💰 vendida anticipada | -3.39 |
-| 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ❌ perdida | -10.00 |
