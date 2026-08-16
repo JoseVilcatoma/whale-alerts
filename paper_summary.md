@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:24:57 (hora de Perú)
+Actualizado: 2026-08-15 21:27:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $960.36
-**Retorno acumulado:** -3.96%
+**Bankroll actual:** $962.71
+**Retorno acumulado:** -3.73%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -31,17 +31,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 1 | 2 | 3 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| wr0ngw4yb3tt0r | 7 | 12 | 4 | -40.69 USD |
+| wr0ngw4yb3tt0r | 8 | 12 | 3 | -38.34 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 200
-- **Aciertos:** 103 (51.5%)
-- **Cuota promedio de entrada:** 51.7%
+- **Apuestas resueltas:** 201
+- **Aciertos:** 104 (51.7%)
+- **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,000.00
-- **ROI sobre lo apostado:** -4.00%
+- **Total apostado (suma de stakes):** $2,010.00
+- **ROI sobre lo apostado:** -3.86%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -53,7 +53,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
 | 40-59% | 110 | 49.1% | 49.5% | -0.4 pp |
 | 60-79% | 41 | 70.7% | 67.8% | +2.9 pp |
-| 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
+| 80-94% | 11 | 100.0% | 84.6% | +15.4 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 2.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 24.3% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 278.6% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 346.2% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 78% | 10.00 | 15.2% | ⏳ pendiente | — |

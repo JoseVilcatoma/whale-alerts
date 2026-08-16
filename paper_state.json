@@ -1,5 +1,5 @@
 {
-  "bankroll": 960.3622354667204,
+  "bankroll": 962.7079144790662,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1100,6 +1100,11 @@
       "timestamp": 1786847089.0961394,
       "bankroll": 960.36,
       "event": "won: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786847214.4558463,
+      "bankroll": 962.71,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Panthers vs. Bills"
     }
   ]
 }
