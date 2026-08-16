@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:26:22 (hora de Perú)
+Actualizado: 2026-08-16 05:28:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $895.87
@@ -125,12 +125,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Malmö Men: Karl Friberg vs John  | Karl Friberg (BUY) | 90% | 10.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 64% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 5.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 55% | 10.00 | 23.7% | 💰 vendida anticipada | -5.64 |
-| bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 43.3% | ⏳ pendiente | — |
+| bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 84.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 50% | 10.00 | 71.4% | ⏳ pendiente | — |
 | RN1 | Sion: Gerard Campana Lee vs Franco Riber | Gerard Campana Lee (BUY) | 96% | 10.00 | 2.6% | ✅ ganada | +0.42 |
 | IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 89.0% | 💰 vendida anticipada | +1.54 |

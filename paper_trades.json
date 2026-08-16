@@ -7056,8 +7056,8 @@
     "title": "Will Incheon United FC win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 14844.728045000002,
-    "whale_pct": 43.305,
+    "whale_usd": 28866.454445,
+    "whale_pct": 84.21,
     "whale_value_at_open": 34279.1388,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -7067,8 +7067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786874623.1586173,
-    "fills": 6
+    "last_fill_at": 1786876056.1172798,
+    "fills": 9
   },
   {
     "timestamp": 1786873068,
@@ -7174,8 +7174,8 @@
     "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1223.0015,
-    "whale_pct": 1.562,
+    "whale_usd": 2483.0023,
+    "whale_pct": 3.172,
     "whale_value_at_open": 78290.1658,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -7185,8 +7185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786875008.8479679,
-    "fills": 1
+    "last_fill_at": 1786875984.676634,
+    "fills": 2
   },
   {
     "timestamp": 1786875100,
