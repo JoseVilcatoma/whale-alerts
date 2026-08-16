@@ -1,5 +1,5 @@
 {
-  "bankroll": 860.5794549526289,
+  "bankroll": 851.2177528249694,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1385,6 +1385,16 @@
       "timestamp": 1786890315.3371665,
       "bankroll": 860.58,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend (+0.00 USD)"
+    },
+    {
+      "timestamp": 1786891005.8712811,
+      "bankroll": 850.58,
+      "event": "lost: Lakersfan111 \u2014 Map Handicap: VIT (-1.5) vs Lynn Vision (+1.5)"
+    },
+    {
+      "timestamp": 1786891013.976328,
+      "bankroll": 851.22,
+      "event": "won: HomeRunHazard \u2014 Prague: Luciano Emanuel Ambrogi vs Vojtech Mares"
     }
   ]
 }
