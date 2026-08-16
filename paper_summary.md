@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 13:45:17 (hora de Perú)
+Actualizado: 2026-08-16 13:47:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $833.45
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 13:45:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $513.45)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $493.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,13 +28,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 3edmond.dantes | 0 | 0 | 1 | +0.00 USD |
-| SineNooneEI | 0 | 0 | 2 | +0.00 USD |
+| SineNooneEI | 0 | 0 | 3 | +0.00 USD |
 | crisp1973 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | Lakersfan111 | 10 | 9 | 1 | -5.25 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
+| g42gh6524h5h5 | 9 | 7 | 3 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 111111111115 | 11 | 10 | 1 | -13.43 USD |
 | midwicket72 | 1 | 2 | 4 | -18.10 USD |
@@ -115,11 +115,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
+| lol-png1-fxw7-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SineNooneEI | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 45% | 10.00 | 8.4% | ⏳ pendiente | — |
+| ChonkyChocolateCake | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | Fluxo W7M (BUY) | 59% | 10.00 | 64.1% | ⏳ pendiente | — |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 72% | 10.00 | 113.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 100.6% | 💰 vendida anticipada | +10.00 |
@@ -148,5 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ✅ ganada | +6.39 |
-| RN1 | Will FC Nordsjælland win on 2026-08-16? | Yes (BUY) | 74% | 10.00 | 1.5% | ✅ ganada | +3.51 |
-| RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ❌ perdida | -10.00 |
