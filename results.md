@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 20:37:52 (hora de Perú)
+Actualizado: 2026-08-15 20:39:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **233**  ($10,883,177 en total)
+- Apuestas registradas: **234**  ($10,917,066 en total)
 - Resueltas: **205** — 111 ganadas / 94 perdidas (**54%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 79
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 11 | 0 | 68% | $2,074,524 | +$404,846 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 2 | 45% | $991,445 | -$74,202 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 3 | 45% | $1,025,333 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 2 | 25% | $453,907 | -$131,530 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.64 (61¢) | $33,889 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $38,400 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $42,462 | — | ⏳ Pendiente |
 | AV23IUa | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $46,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | 3edmond.dantes | Will Deportivo Alavés win on 2026-08-15? | Yes | 2.44 (41¢) | $32,508 | +$46,780 | ✅ Ganada |
 | ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $34,220 | -$34,220 | ❌ Perdida |
 | Dragua9 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $29,281 | -$29,281 | ❌ Perdida |
-| Daemon99 | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
