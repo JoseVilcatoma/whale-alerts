@@ -2026,7 +2026,7 @@
     "side": "BUY",
     "usd": 31473.699996000003,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786755025,
     "fills": 1
   },
@@ -2266,7 +2266,7 @@
     "side": "BUY",
     "usd": 289999.999998,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786786773,
     "fills": 2
   },
@@ -2311,7 +2311,7 @@
     "side": "BUY",
     "usd": 29068.760000000002,
     "odds_at_bet": 24,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786791428,
     "fills": 1
   },
@@ -2401,7 +2401,7 @@
     "side": "BUY",
     "usd": 55110.989997,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786801799,
     "fills": 1
   },
@@ -2416,7 +2416,7 @@
     "side": "BUY",
     "usd": 54999.99999802,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786803007,
     "fills": 1
   },
@@ -2446,7 +2446,7 @@
     "side": "BUY",
     "usd": 27317.579998,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786803828,
     "fills": 1
   },
@@ -3078,7 +3078,7 @@
     "side": "BUY",
     "usd": 31176.549997000006,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786827893,
     "fills": 1
   },
@@ -3545,7 +3545,7 @@
     "side": "BUY",
     "usd": 39194.69783700001,
     "odds_at_bet": 26,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786845243,
     "fills": 1
   },
@@ -3575,7 +3575,7 @@
     "side": "BUY",
     "usd": 35155.0,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786845829,
     "fills": 1
   },
@@ -3725,7 +3725,7 @@
     "side": "BUY",
     "usd": 91469.229729,
     "odds_at_bet": 26,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786848650,
     "fills": 1
   },
@@ -3800,7 +3800,7 @@
     "side": "BUY",
     "usd": 26054.669997999998,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786849950,
     "fills": 1
   },
@@ -3815,7 +3815,7 @@
     "side": "BUY",
     "usd": 74000.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786851161,
     "fills": 1
   },
@@ -3830,7 +3830,7 @@
     "side": "BUY",
     "usd": 32637.959874,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786851356,
     "fills": 1
   },
@@ -3845,7 +3845,7 @@
     "side": "BUY",
     "usd": 59200.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786851419,
     "fills": 1
   },
@@ -3862,6 +3862,21 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1786851704,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 524,
+    "timestamp": 1786855064,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "ecs-ars-mci-2026-08-16-total-2pt5",
+    "title": "Arsenal FC vs. Manchester City: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 77414.3535,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1786855064,
     "fills": 1
   }
 ]
