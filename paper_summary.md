@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 00:41:44 (hora de Perú)
+Actualizado: 2026-08-16 00:43:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $967.89
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 00:41:44 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $687.89)
+**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $677.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 0 | +44.73 USD |
-| 111111111115 | 8 | 4 | 5 | +30.12 USD |
+| 111111111115 | 8 | 4 | 6 | +30.12 USD |
 | Lakersfan111 | 5 | 4 | 8 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
@@ -111,6 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -140,4 +141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ✅ ganada | +1.49 |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |

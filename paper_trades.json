@@ -6073,5 +6073,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786857988.1096563,
     "fills": 1
+  },
+  {
+    "timestamp": 1786858991,
+    "timestamp_added": 1786858992.0875692,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ts8-tr7-2026-08-16-game2",
+    "title": "Dota 2: Team Spirit vs Team Resilience - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 7803.524799999999,
+    "whale_pct": 3.256,
+    "whale_value_at_open": 239650.7927,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786859025.961729,
+    "fills": 3
   }
 ]
