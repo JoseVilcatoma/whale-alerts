@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 15:01:56 (hora de Perú)
+Actualizado: 2026-08-16 15:03:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **336**  ($17,508,395 en total)
-- Resueltas: **307** — 182 ganadas / 125 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Resueltas: **315** — 186 ganadas / 129 perdidas (**59%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 106
 
 ### Balance
 
-- **Resultado de los apostadores: +$41,895** sobre $15,274,192 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$1,706** sobre $29,900 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$88,781** sobre $16,307,319 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$1,751** sobre $30,700 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 15 | 1 | 67% | $2,745,075 | +$241,594 |
-| sainttroplay | 4 | 4 | 6 | 50% | $2,092,133 | +$424,879 |
+| sainttroplay | 7 | 4 | 3 | 64% | $2,092,133 | +$861,648 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 4 | 57% | $1,392,581 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
+| wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
@@ -110,24 +110,24 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.09 (92¢) | $67,846 | +$5,900 | ✅ Ganada |
 | StasPanda | Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins | Joblife | 2.08 (48¢) | $34,413 | -$34,413 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.16 (86¢) | $42,552 | +$6,927 | ✅ Ganada |
-| ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | — | ⏳ Pendiente |
-| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | — | ⏳ Pendiente |
+| ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | -$44,961 | ❌ Perdida |
+| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | +$86,648 | ✅ Ganada |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.78 (36¢) | $58,448 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | +$12,553 | ✅ Ganada |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
-| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | — | ⏳ Pendiente |
+| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | +$69,000 | ✅ Ganada |
 | bigspending | Will West Ham United FC win on 2026-08-16? | No | 1.79 (56¢) | $30,830 | +$24,223 | ✅ Ganada |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $38,400 | +$21,600 | ✅ Ganada |
 | matanovik | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $37,050 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | CongoleseBorat | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $64,862 | +$1,410 | 💰 Vendida antes |
-| 0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514 | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
+| 0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514 | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $28,700 | +$6,300 | ✅ Ganada |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $513,453 | +$288,817 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $191,316 | — | ⏳ Pendiente |
-| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $304,548 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $191,316 | -$191,316 | ❌ Perdida |
+| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $304,548 | +$281,121 | ✅ Ganada |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $422,671 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $180,985 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $180,985 | -$180,985 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.49 (67¢) | $73,263 | +$36,085 | ✅ Ganada |
 | dsasdaas | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.54 (65¢) | $123,402 | +$66,447 | ✅ Ganada |
