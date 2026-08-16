@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 13:57:28 (hora de Perú)
+Actualizado: 2026-08-16 13:59:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **330**  ($17,256,742 en total)
+- Apuestas registradas: **331**  ($17,302,204 en total)
 - Resueltas: **296** — 173 ganadas / 123 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 106
 
 ### Balance
@@ -42,13 +42,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 4 | 1 | 1 | ⚠️ 80% (5) | $245,134 | +$45,984 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
+| Winnnnnnning | 0 | 4 | 1 | ⚠️ 0% (4) | $193,233 | -$116,271 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 1 | 0 | 2 | ⚠️ 100% (1) | $162,760 | +$46,780 |
 | SDTrading | 0 | 3 | 3 | ⚠️ 0% (3) | $161,562 | -$81,210 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 0 | 1 | ⚠️ 100% (1) | $153,500 | +$88,500 |
-| Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 0 | ⚠️ 100% (3) | $139,000 | +$61,772 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | — | ⏳ Pendiente |
 | WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | bloodmaster | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.11 (90¢) | $28,905 | +$3,212 | ✅ Ganada |
 | 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | +$8,829 | ✅ Ganada |
-| greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
