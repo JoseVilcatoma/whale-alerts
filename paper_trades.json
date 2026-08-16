@@ -5645,5 +5645,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786853027.569144,
     "fills": 1
+  },
+  {
+    "timestamp": 1786853126,
+    "timestamp_added": 1786853126.733579,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zverev-norrie-2026-08-15",
+    "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
+    "outcome": "Cameron Norrie",
+    "side": "BUY",
+    "whale_usd": 768.15,
+    "whale_pct": 1.313,
+    "whale_value_at_open": 58518.3104,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786853126.7335868,
+    "fills": 1
   }
 ]
