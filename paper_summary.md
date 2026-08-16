@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 11:48:30 (hora de Perú)
+Actualizado: 2026-08-16 11:50:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $810.68
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 11:48:30 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $620.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $190.68)
+**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $180.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 0 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
-| Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
+| Sassy-Bucket | 2 | 3 | 1 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | HomeRunHazard | 7 | 2 | 29 | +6.76 USD |
 | 111111111115 | 11 | 8 | 3 | +6.57 USD |
@@ -120,12 +120,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mia-cin-2026-08-16-total-8pt5 | HomeRunHazard, SDTrading |
 | mlb-mia-cin-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-bos-pit-2026-08-16 | HomeRunHazard, SDTrading |
+| mlb-bos-pit-2026-08-16-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | lol-mkoi-navi-2026-08-16-game2 | ChonkyChocolateCake, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 4.7% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 46% | 10.00 | 38.5% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 50% | 10.00 | 30.8% | ⏳ pendiente | — |
 | predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
@@ -155,4 +157,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 53% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Over (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
