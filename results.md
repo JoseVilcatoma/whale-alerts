@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 10:58:15 (hora de Perú)
+Actualizado: 2026-08-16 11:00:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **313**  ($16,588,979 en total)
+- Apuestas registradas: **314**  ($16,619,479 en total)
 - Resueltas: **272** — 155 ganadas / 117 perdidas (**57%** de acierto)
-- Pendientes: 41
-- Apostadores distintos: 102
+- Pendientes: 42
+- Apostadores distintos: 103
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 1 | — | $83,889 | — |
 
-_(mostrando los 40 de mayor monto, de 102 en total)_
+_(mostrando los 40 de mayor monto, de 103 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 102 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $59,200 | +$20,800 | ✅ Ganada |
 | abouttojump | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.37 (73¢) | $32,638 | +$12,072 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
