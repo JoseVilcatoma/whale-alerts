@@ -7315,8 +7315,8 @@
     "title": "ADO Den Haag vs. FC Groningen: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1063.44,
-    "whale_pct": 1.18,
+    "whale_usd": 1580.74,
+    "whale_pct": 1.754,
     "whale_value_at_open": 90144.1092,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -7326,8 +7326,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786876445.9685166,
-    "fills": 1
+    "last_fill_at": 1786876871.748908,
+    "fills": 2
   },
   {
     "timestamp": 1786876840,
@@ -7351,5 +7351,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786876840.9046242,
     "fills": 1
+  },
+  {
+    "timestamp": 1786876862,
+    "timestamp_added": 1786876863.397221,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-drx-bro2-2026-08-16-game1",
+    "title": "LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner",
+    "outcome": "Kiwoom DRX",
+    "side": "BUY",
+    "whale_usd": 9440.7696,
+    "whale_pct": 23.467,
+    "whale_value_at_open": 40229.1382,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786876878.908935,
+    "fills": 3
   }
 ]
