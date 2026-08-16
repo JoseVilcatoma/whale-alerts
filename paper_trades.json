@@ -6516,5 +6516,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786867255.433194,
     "fills": 2
+  },
+  {
+    "timestamp": 1786867372,
+    "timestamp_added": 1786867373.0667431,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-gen-2026-08-16",
+    "title": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 11796.446399999999,
+    "whale_pct": 106.005,
+    "whale_value_at_open": 11128.2415,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786867373.066752,
+    "fills": 1
   }
 ]
