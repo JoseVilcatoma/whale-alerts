@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 18:08:23 (hora de Perú)
+Actualizado: 2026-08-16 18:10:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $788.87
-**Retorno acumulado:** -21.11%
+**Bankroll actual:** $798.87
+**Retorno acumulado:** -20.11%
 **Peor caída desde un máximo (drawdown):** 29.96%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 18:08:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $708.87)
+**Capital comprometido ahora mismo:** $70.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $728.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,10 +28,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
+| Sassy-Bucket | 4 | 6 | 1 | +0.12 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Sassy-Bucket | 3 | 6 | 2 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 303
-- **Aciertos:** 158 (52.1%)
+- **Apuestas resueltas:** 304
+- **Aciertos:** 159 (52.3%)
 - **Cuota promedio de entrada:** 54.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,030.00
-- **ROI sobre lo apostado:** -8.63%
+- **Total apostado (suma de stakes):** $3,040.00
+- **ROI sobre lo apostado:** -8.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 158 | 46.8% | 49.6% | -2.7 pp |
+| 40-59% | 159 | 47.2% | 49.6% | -2.4 pp |
 | 60-79% | 74 | 66.2% | 68.4% | -2.2 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -139,7 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 12.0% | ✅ ganada | +10.83 |
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ❌ perdida | -10.00 |
 | IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 51.5% | ✅ ganada | +7.86 |
-| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 128.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 128.3% | ✅ ganada | +10.00 |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 20 | Yes (BUY) | 47% | 10.00 | 304.7% | ✅ ganada | +11.28 |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ✅ ganada | +2.82 |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ✅ ganada | +6.39 |

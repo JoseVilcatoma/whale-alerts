@@ -1,5 +1,5 @@
 {
-  "bankroll": 788.8699138057179,
+  "bankroll": 798.8699138057179,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1620,6 +1620,11 @@
       "timestamp": 1786921491.998035,
       "bankroll": 788.87,
       "event": "won: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1786921804.22076,
+      "bankroll": 798.87,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Pittsburgh Pirates"
     }
   ]
 }
