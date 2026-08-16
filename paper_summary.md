@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 15:42:35 (hora de Perú)
+Actualizado: 2026-08-16 15:44:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $855.56
-**Retorno acumulado:** -14.44%
+**Bankroll actual:** $845.56
+**Retorno acumulado:** -15.44%
 **Peor caída desde un máximo (drawdown):** 27.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 15:42:35 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $505.56)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $505.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 1 | +44.73 USD |
-| Sassy-Bucket | 3 | 3 | 10 | +20.12 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| Sassy-Bucket | 3 | 4 | 9 | +10.12 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 284
-- **Aciertos:** 151 (53.2%)
-- **Cuota promedio de entrada:** 54.7%
+- **Apuestas resueltas:** 285
+- **Aciertos:** 151 (53.0%)
+- **Cuota promedio de entrada:** 54.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,840.00
-- **ROI sobre lo apostado:** -6.86%
+- **Total apostado (suma de stakes):** $2,850.00
+- **ROI sobre lo apostado:** -7.18%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 146 | 47.9% | 49.7% | -1.7 pp |
+| 40-59% | 147 | 47.6% | 49.6% | -2.0 pp |
 | 60-79% | 67 | 68.7% | 68.2% | +0.4 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -121,13 +121,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 53% | 10.00 | 1.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 10.00 | 33.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 53% | 10.00 | 3.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 10.00 | 33.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: FlyQuest vs Cloud9 - Game 1 Winner | FlyQuest (BUY) | 42% | 10.00 | 2.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Colorado Rockies vs. San Francisco Giant | Over (BUY) | 54% | 10.00 | 8.3% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 57% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Chicago Sky vs. Seattle Storm: O/U 179.5 | Over (BUY) | 44% | 10.00 | 7.0% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 47% | 10.00 | 16.7% | ⏳ pendiente | — |
+| Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 47% | 10.00 | 16.7% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
 | SineNooneEI | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 45% | 10.00 | 8.4% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | Fluxo W7M (BUY) | 59% | 10.00 | 64.1% | ⏳ pendiente | — |
