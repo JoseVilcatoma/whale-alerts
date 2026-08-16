@@ -1,5 +1,5 @@
 {
-  "bankroll": 845.5584512051385,
+  "bankroll": 846.4280164225297,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1505,6 +1505,11 @@
       "timestamp": 1786908926.4660962,
       "bankroll": 845.56,
       "event": "won: 3edmond.dantes \u2014 Will RCD Espanyol de Barcelona win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786909240.0509212,
+      "bankroll": 846.43,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Leicestershire vs Nottinghamshire"
     }
   ]
 }
