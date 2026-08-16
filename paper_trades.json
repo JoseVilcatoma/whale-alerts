@@ -7010,8 +7010,8 @@
     "title": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "Kiwoom DRX",
     "side": "BUY",
-    "whale_usd": 13520.2774,
-    "whale_pct": 21.756,
+    "whale_usd": 14475.5174,
+    "whale_pct": 23.293,
     "whale_value_at_open": 62144.9212,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -7023,8 +7023,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786884254.2229052,
-    "fills": 3
+    "last_fill_at": 1786884409.4114695,
+    "fills": 4
   },
   {
     "timestamp": 1786884083,
@@ -7035,8 +7035,8 @@
     "title": "Sion: Dimitris Sakellaridis vs Gian Luca Tanner",
     "outcome": "Dimitris Sakellaridis",
     "side": "BUY",
-    "whale_usd": 31015.264750000002,
-    "whale_pct": 141.021,
+    "whale_usd": 48815.874950000005,
+    "whale_pct": 221.957,
     "whale_value_at_open": 21993.4254,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -7046,8 +7046,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786884141.1965675,
-    "fills": 6
+    "last_fill_at": 1786884473.6990938,
+    "fills": 8
   },
   {
     "timestamp": 1786884238,
