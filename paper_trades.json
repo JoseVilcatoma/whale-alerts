@@ -7372,5 +7372,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786900987.177368,
     "fills": 1
+  },
+  {
+    "timestamp": 1786901273,
+    "timestamp_added": 1786901273.9351864,
+    "username": "midwicket72",
+    "wallet": "0xa4b7b1814b0da33f2b61be4939976898aa476008",
+    "slug": "crichundred-tre-man-2026-08-16",
+    "title": "The Hundred: Trent Rockets vs Manchester Super Giants",
+    "outcome": "Trent Rockets",
+    "side": "BUY",
+    "whale_usd": 3061.908,
+    "whale_pct": 10.659,
+    "whale_value_at_open": 28726.863,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786901273.9351966,
+    "fills": 1
   }
 ]
