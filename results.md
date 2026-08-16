@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 04:52:13 (hora de Perú)
+Actualizado: 2026-08-16 04:54:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **267**  ($12,808,012 en total)
-- Resueltas: **259** — 143 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 8
+- Resueltas: **260** — 144 ganadas / 116 perdidas (**55%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 88
 
 ### Balance
 
-- **Resultado de los apostadores: -$702,976** sobre $12,489,230 apostados (ROI **-5.6%**)
-- Copiando $100 fijo en cada una: **-$2,663** sobre $25,400 (ROI **-10.5%**)
+- **Resultado de los apostadores: -$691,216** sobre $12,519,470 apostados (ROI **-5.5%**)
+- Copiando $100 fijo en cada una: **-$2,624** sobre $25,500 (ROI **-10.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 88 en total)_
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | — | ⏳ Pendiente |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | — | ⏳ Pendiente |
-| Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
+| Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | +$11,760 | ✅ Ganada |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | +$21,284 | ✅ Ganada |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winner | BoomBoys | 2.00 (50¢) | $55,318 | +$55,318 | ✅ Ganada |
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
