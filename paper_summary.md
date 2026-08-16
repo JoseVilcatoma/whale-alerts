@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 06:46:23 (hora de Perú)
+Actualizado: 2026-08-16 06:48:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $878.24
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 06:46:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $548.24)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $538.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 14 | -52.54 USD |
+| RN1 | 9 | 10 | 15 | -52.54 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -114,8 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ⏳ pendiente | — |
-| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION - Game 2 | HANJIN BRION (BUY) | 49% | 10.00 | 6.3% | ⏳ pendiente | — |
+| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION - Game 2 | HANJIN BRION (BUY) | 49% | 10.00 | 10.2% | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-16? | Yes (BUY) | 47% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 62% | 10.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | DSC Arminia Bielefeld vs. FC Energie Cot | Over (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -143,4 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ❌ perdida | -10.00 |
-| RN1 | Will Tigres de la UANL win on 2026-08-15 | No (BUY) | 95% | 10.00 | 0.9% | ✅ ganada | +0.53 |

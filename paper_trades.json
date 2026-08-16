@@ -6642,8 +6642,8 @@
     "title": "LoL: Kiwoom DRX vs HANJIN BRION - Game 2 Winner",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 33908.3424,
-    "whale_pct": 6.288,
+    "whale_usd": 54885.702300000004,
+    "whale_pct": 10.178,
     "whale_value_at_open": 539267.4617,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -6653,8 +6653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786880745.9236841,
-    "fills": 3
+    "last_fill_at": 1786880865.1330037,
+    "fills": 5
   },
   {
     "timestamp": 1786880713,
@@ -6678,5 +6678,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786880762.951144,
     "fills": 6
+  },
+  {
+    "timestamp": 1786880896,
+    "timestamp_added": 1786880896.8860288,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-lawlor-tepmahc-2026-08-16",
+    "title": "Roehampton: Rhys Lawlor vs Nicolas Tepmahc",
+    "outcome": "Nicolas Tepmahc",
+    "side": "BUY",
+    "whale_usd": 3743.2200000000003,
+    "whale_pct": 3.494,
+    "whale_value_at_open": 107143.9224,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 80,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786880896.8860357,
+    "fills": 1
   }
 ]
