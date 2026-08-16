@@ -6494,5 +6494,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786879254.2536664,
     "fills": 1
+  },
+  {
+    "timestamp": 1786879331,
+    "timestamp_added": 1786879331.9325297,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-drx-bro2-2026-08-16-game1",
+    "title": "LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "whale_usd": 11880.7425,
+    "whale_pct": 31.021,
+    "whale_value_at_open": 38299.0302,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786879332.421805,
+    "fills": 2
   }
 ]
