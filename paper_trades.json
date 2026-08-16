@@ -7374,5 +7374,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786876878.908935,
     "fills": 3
+  },
+  {
+    "timestamp": 1786877096,
+    "timestamp_added": 1786877097.1413395,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-cizek-gombos-2026-08-16",
+    "title": "Prague: Jiri Cizek vs Norbert Gombos",
+    "outcome": "Norbert Gombos",
+    "side": "BUY",
+    "whale_usd": 2766.4874999999997,
+    "whale_pct": 2.888,
+    "whale_value_at_open": 95786.596,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 86,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786877097.141349,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786877116,
+    "timestamp_added": 1786877116.9650512,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-drx-bro2-2026-08-16-game1",
+    "title": "LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "whale_usd": 7639.590899999999,
+    "whale_pct": 9.418,
+    "whale_value_at_open": 81113.5611,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786877117.6434076,
+    "fills": 2
   }
 ]
