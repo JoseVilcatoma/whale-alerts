@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 11:12:53 (hora de Perú)
+Actualizado: 2026-08-16 11:17:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **314**  ($16,619,479 en total)
+- Apuestas registradas: **315**  ($16,688,400 en total)
 - Resueltas: **273** — 155 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 103
 
 ### Balance
@@ -42,6 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 1 | ⚠️ 75% (4) | $215,197 | +$9,899 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
+| 007theone1 | 3 | 0 | 1 | ⚠️ 100% (3) | $172,600 | +$29,017 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 0 | 0 | 2 | — | $153,500 | — |
@@ -56,7 +57,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 0 | 3 | 1 | ⚠️ 0% (3) | $110,062 | -$81,210 |
 | TAIWANNUMBERONE | 3 | 0 | 1 | ⚠️ 100% (3) | $109,036 | +$29,377 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
-| 007theone1 | 3 | 0 | 0 | ⚠️ 100% (3) | $103,679 | +$29,017 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 103 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | — | ⏳ Pendiente |
 | HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 103 en total)_
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $59,200 | +$20,800 | ✅ Ganada |
-| abouttojump | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.37 (73¢) | $32,638 | +$12,072 | ✅ Ganada |
