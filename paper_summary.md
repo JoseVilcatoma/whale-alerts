@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:00:48 (hora de Perú)
+Actualizado: 2026-08-16 04:02:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $895.19
-**Retorno acumulado:** -10.48%
+**Bankroll actual:** $899.90
+**Retorno acumulado:** -10.01%
 **Peor caída desde un máximo (drawdown):** 20.18%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 04:00:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $485.19)
+**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $499.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 8 | 3 | +44.66 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 9 | 3 | +41.51 USD |
 | 111111111115 | 10 | 5 | 7 | +33.24 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
@@ -37,17 +37,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 9 | -52.54 USD |
+| RN1 | 10 | 10 | 8 | -44.68 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 235
-- **Aciertos:** 122 (51.9%)
+- **Apuestas resueltas:** 236
+- **Aciertos:** 123 (52.1%)
 - **Cuota promedio de entrada:** 53.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,350.00
-- **ROI sobre lo apostado:** -6.17%
+- **Total apostado (suma de stakes):** $2,360.00
+- **ROI sobre lo apostado:** -5.81%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,7 +57,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
-| 40-59% | 122 | 49.2% | 49.4% | -0.2 pp |
+| 40-59% | 123 | 49.6% | 49.4% | +0.1 pp |
 | 60-79% | 53 | 67.9% | 68.1% | -0.2 pp |
 | 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
@@ -118,6 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 43% | 10.00 | 30.4% | ⏳ pendiente | — |
 | HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 61% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Matyas Kozlovsky vs Javier Barra | Javier Barranco Cosano (BUY) | 91% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -126,7 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | T1 (BUY) | 69% | 10.00 | 220.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 73% | 10.00 | 38.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 66% | 10.00 | 34.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | 💰 vendida anticipada | -3.15 |
 | RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 51% | 10.00 | 20.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 72% | 10.00 | 66.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Bucharest 3 Women: Maria Sara Po | Maria Sara Popa (BUY) | 70% | 10.00 | 7.4% | ⏳ pendiente | — |
@@ -142,9 +143,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 47% | 10.00 | 15.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 1 Wi | JD Gaming (BUY) | 85% | 10.00 | 11.1% | 💰 vendida anticipada | -0.12 |
 | HomeRunHazard | Arizona Diamondbacks vs. Atlanta Braves: | Under (BUY) | 48% | 10.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | ITF M15 Tianjin 2 Men: Kosuke Ogura vs O | Omar Jasika (BUY) | 56% | 10.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | ITF M15 Tianjin 2 Men: Kosuke Ogura vs O | Omar Jasika (BUY) | 56% | 10.00 | 1.9% | ✅ ganada | +7.86 |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 84% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ✅ ganada | +3.51 |
