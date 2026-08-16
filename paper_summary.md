@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:33:35 (hora de Perú)
+Actualizado: 2026-08-16 17:35:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.40
@@ -122,7 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 52% | 10.00 | 10.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 52% | 10.00 | 29.9% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Game Handicap: LY (-1.5) vs Sentinels (+ | LYON (BUY) | 55% | 10.00 | 13.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: LY (-1.5) vs Sentinels (+ | Sentinels (BUY) | 46% | 10.00 | 29.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 126.0% | ⏳ pendiente | — |
