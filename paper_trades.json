@@ -7800,5 +7800,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786912685.112161,
     "fills": 3
+  },
+  {
+    "timestamp": 1786912778,
+    "timestamp_added": 1786912779.219765,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-ind-atl-2026-08-16-total-188pt5",
+    "title": "Indiana Fever vs. Atlanta Dream: O/U 188.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2457.0,
+    "whale_pct": 1.215,
+    "whale_value_at_open": 202188.0355,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786912779.2197752,
+    "fills": 1
   }
 ]
