@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.2903967529951,
+  "bankroll": 817.2903967529951,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1565,6 +1565,11 @@
       "timestamp": 1786913948.4250576,
       "bankroll": 827.29,
       "event": "won: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
+    },
+    {
+      "timestamp": 1786914073.5567763,
+      "bankroll": 817.29,
+      "event": "lost: Sassy-Bucket \u2014 Miami Marlins vs. Cincinnati Reds: O/U 8.5"
     }
   ]
 }
