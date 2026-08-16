@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 20:19:21 (hora de Perú)
+Actualizado: 2026-08-15 20:21:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **232**  ($10,844,777 en total)
-- Resueltas: **200** — 111 ganadas / 89 perdidas (**56%** de acierto)
-- Pendientes: 32
+- Resueltas: **205** — 111 ganadas / 94 perdidas (**54%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 79
 
 ### Balance
 
-- **Resultado de los apostadores: -$330,618** sobre $9,078,983 apostados (ROI **-3.6%**)
-- Copiando $100 fijo en cada una: **-$1,938** sobre $19,600 (ROI **-9.9%**)
+- **Resultado de los apostadores: -$592,620** sobre $9,340,985 apostados (ROI **-6.3%**)
+- Copiando $100 fijo en cada una: **-$2,438** sobre $20,100 (ROI **-12.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,15 +41,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| Winnnnnnning | 0 | 2 | 2 | ⚠️ 0% (2) | $147,771 | -$51,000 |
+| Winnnnnnning | 0 | 3 | 1 | ⚠️ 0% (3) | $147,771 | -$115,771 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
-| rabbitfoot1 | 1 | 0 | 1 | ⚠️ 100% (1) | $115,608 | +$11,564 |
+| rabbitfoot1 | 1 | 1 | 0 | ⚠️ 50% (2) | $115,608 | -$74,307 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
-| sleepy-panda | 0 | 1 | 2 | ⚠️ 0% (1) | $100,978 | -$25,510 |
+| sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
@@ -73,11 +73,11 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 |---|---|---|---|---|---|---|
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $42,462 | — | ⏳ Pendiente |
 | AV23IUa | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $46,000 | — | ⏳ Pendiente |
-| rabbitfoot1 | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $85,871 | — | ⏳ Pendiente |
-| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | — | ⏳ Pendiente |
-| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
+| rabbitfoot1 | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $85,871 | -$85,871 | ❌ Perdida |
+| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | -$37,969 | ❌ Perdida |
+| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
-| surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | — | ⏳ Pendiente |
+| surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | -$35,892 | ❌ Perdida |
 | Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |
 | Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | — | ⏳ Pendiente |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | +$4,029 | ✅ Ganada |
 | xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | +$14,294 | ✅ Ganada |
 | sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | -$25,510 | ❌ Perdida |
-| Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | — | ⏳ Pendiente |
+| Winnnnnnning | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $64,771 | -$64,771 | ❌ Perdida |
 | TheOneto3 | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $28,160 | -$28,160 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.52 (66¢) | $25,428 | +$13,099 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $33,600 | -$33,600 | ❌ Perdida |
