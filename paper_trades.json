@@ -6803,8 +6803,8 @@
     "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 6432.0535,
-    "whale_pct": 7.907,
+    "whale_usd": 7108.7755,
+    "whale_pct": 8.739,
     "whale_value_at_open": 81341.5848,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -6814,8 +6814,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786884282.3729818,
-    "fills": 4
+    "last_fill_at": 1786892221.4733925,
+    "fills": 5
   },
   {
     "timestamp": 1786881863,
@@ -7595,8 +7595,8 @@
     "title": "San Diego Padres vs. Cleveland Guardians: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 570.8100000000001,
-    "whale_pct": 0.506,
+    "whale_usd": 4926.471600000001,
+    "whale_pct": 4.367,
     "whale_value_at_open": 112803.36,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -7606,8 +7606,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786886458.5967605,
-    "fills": 1
+    "last_fill_at": 1786892224.8379068,
+    "fills": 2
   },
   {
     "timestamp": 1786886573,
@@ -7926,8 +7926,8 @@
     "title": "Will Molde FK win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 16982.785,
-    "whale_pct": 135.459,
+    "whale_usd": 18077.785,
+    "whale_pct": 144.193,
     "whale_value_at_open": 12537.2001,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -7937,8 +7937,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786892017.3535855,
-    "fills": 2
+    "last_fill_at": 1786892226.027577,
+    "fills": 3
   },
   {
     "timestamp": 1786891833,
@@ -7984,6 +7984,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786891940.955363,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786892223,
+    "timestamp_added": 1786892224.1062515,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sd-cle-2026-08-16-total-8pt5",
+    "title": "San Diego Padres vs. Cleveland Guardians: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1058.8326,
+    "whale_pct": 0.671,
+    "whale_value_at_open": 157915.4543,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786892224.1062613,
     "fills": 1
   }
 ]
