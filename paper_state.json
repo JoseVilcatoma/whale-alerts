@@ -1,5 +1,5 @@
 {
-  "bankroll": 943.6941325707222,
+  "bankroll": 933.6941325707222,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1020,6 +1020,11 @@
       "timestamp": 1786839121.4331865,
       "bankroll": 943.69,
       "event": "lost: wr0ngw4yb3tt0r \u2014 UFC 330: Eric McConico vs. Donte Johnson (Middleweight, Early Prelims)"
+    },
+    {
+      "timestamp": 1786840369.809138,
+      "bankroll": 933.69,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 CLE vs. CHI: O/U 38.5"
     }
   ]
 }
