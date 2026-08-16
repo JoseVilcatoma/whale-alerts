@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 20:46:07 (hora de Perú)
+Actualizado: 2026-08-15 20:48:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **234**  ($10,917,066 en total)
-- Resueltas: **205** — 111 ganadas / 94 perdidas (**54%** de acierto)
-- Pendientes: 29
+- Resueltas: **207** — 112 ganadas / 95 perdidas (**54%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 79
 
 ### Balance
 
-- **Resultado de los apostadores: -$592,620** sobre $9,340,985 apostados (ROI **-6.3%**)
-- Copiando $100 fijo en cada una: **-$2,438** sobre $20,100 (ROI **-12.1%**)
+- **Resultado de los apostadores: -$597,966** sobre $9,396,331 apostados (ROI **-6.4%**)
+- Copiando $100 fijo en cada una: **-$2,442** sobre $20,300 (ROI **-12.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | beachboy4 | 0 | 0 | 5 | — | $253,659 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| pleaseplease123 | 2 | 2 | 2 | ⚠️ 50% (4) | $246,152 | -$62,338 |
+| pleaseplease123 | 3 | 2 | 1 | ⚠️ 60% (5) | $246,152 | -$37,838 |
 | wr0ngw4yb3tt0r | 2 | 1 | 2 | ⚠️ 67% (3) | $237,095 | +$2,773 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | Dragua9 | 1 | 1 | 0 | ⚠️ 50% (2) | $59,881 | -$13,518 |
-| Bulls94 | 0 | 1 | 1 | ⚠️ 0% (1) | $59,846 | -$30,000 |
+| Bulls94 | 0 | 2 | 0 | ⚠️ 0% (2) | $59,846 | -$59,846 |
 | ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
 | texaskid | 0 | 1 | 1 | ⚠️ 0% (1) | $56,746 | -$30,307 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $27,867 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | — | ⏳ Pendiente |
 | texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | — | ⏳ Pendiente |
-| pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| pleaseplease123 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | +$14,208 | ✅ Ganada |
 | rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | +$11,564 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | +$28,519 | ✅ Ganada |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | — | ⏳ Pendiente |
-| Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | — | ⏳ Pendiente |
+| Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | -$29,846 | ❌ Perdida |
 | sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $226,926 | — | ⏳ Pendiente |
 | ChinesePro | Will Sevilla FC win on 2026-08-15? | No | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | +$26,859 | ✅ Ganada |
