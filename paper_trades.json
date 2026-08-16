@@ -7916,5 +7916,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786890930.440636,
     "fills": 1
+  },
+  {
+    "timestamp": 1786891643,
+    "timestamp_added": 1786891643.7356863,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "nor-mol-tro-2026-08-16-mol",
+    "title": "Will Molde FK win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 8398.895,
+    "whale_pct": 66.992,
+    "whale_value_at_open": 12537.2001,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786891643.7356982,
+    "fills": 1
   }
 ]
