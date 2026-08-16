@@ -5333,5 +5333,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786842137.5381355,
     "fills": 1
+  },
+  {
+    "timestamp": 1786843346,
+    "timestamp_added": 1786843346.7918553,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-flc-vg-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)",
+    "outcome": "Vici Gaming",
+    "side": "BUY",
+    "whale_usd": 1012.0,
+    "whale_pct": 19.841,
+    "whale_value_at_open": 5100.5123,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786843346.791865,
+    "fills": 1
   }
 ]
