@@ -4570,5 +4570,20 @@
     "status": "pending",
     "ultimo_fill": 1786890539,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 602,
+    "timestamp": 1786890686,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mouz-prv-2026-08-16",
+    "title": "Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 26220.414,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1786890686,
+    "fills": 1
   }
 ]
