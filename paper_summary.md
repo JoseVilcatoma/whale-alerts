@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:02:59 (hora de Perú)
+Actualizado: 2026-08-16 17:05:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $795.82
-**Retorno acumulado:** -20.42%
+**Bankroll actual:** $805.40
+**Retorno acumulado:** -19.46%
 **Peor caída desde un máximo (drawdown):** 29.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 17:02:59 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $595.82)
+**Capital comprometido ahora mismo:** $150.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $655.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,25 +32,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 4 | 6 | 6 | -1.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| SineNooneEI | 1 | 2 | 0 | -7.78 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| IMAREALPERSON | 8 | 5 | 1 | -13.24 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| midwicket72 | 2 | 2 | 3 | -17.23 USD |
-| SineNooneEI | 0 | 2 | 1 | -20.00 USD |
-| IMAREALPERSON | 7 | 5 | 2 | -20.19 USD |
+| midwicket72 | 3 | 3 | 1 | -16.82 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
-| g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
+| g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 300
-- **Aciertos:** 157 (52.3%)
-- **Cuota promedio de entrada:** 54.9%
+- **Apuestas resueltas:** 305
+- **Aciertos:** 160 (52.5%)
+- **Cuota promedio de entrada:** 54.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,000.00
-- **ROI sobre lo apostado:** -8.32%
+- **Total apostado (suma de stakes):** $3,050.00
+- **ROI sobre lo apostado:** -7.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 156 | 47.4% | 49.7% | -2.2 pp |
+| 40-59% | 161 | 47.8% | 49.8% | -2.0 pp |
 | 60-79% | 73 | 65.8% | 68.5% | -2.7 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -130,9 +130,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 57% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | Sassy-Bucket | Chicago Sky vs. Seattle Storm: O/U 179.5 | Over (BUY) | 44% | 10.00 | 7.0% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 47% | 10.00 | 16.7% | ❌ perdida | -10.00 |
-| IMAREALPERSON | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
-| SineNooneEI | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 45% | 10.00 | 8.4% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | Fluxo W7M (BUY) | 59% | 10.00 | 64.1% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 59% | 10.00 | 12.5% | ✅ ganada | +6.95 |
+| SineNooneEI | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 45% | 10.00 | 8.4% | ✅ ganada | +12.22 |
+| ChonkyChocolateCake | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | Fluxo W7M (BUY) | 59% | 10.00 | 64.1% | ❌ perdida | -10.00 |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ❌ perdida | -10.00 |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 72% | 10.00 | 113.4% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 100.6% | 💰 vendida anticipada | +10.00 |
@@ -141,11 +141,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 33.9% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ❌ perdida | -10.00 |
 | crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ✅ ganada | +9.61 |
-| midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ⏳ pendiente | — |
+| midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ❌ perdida | -10.00 |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ❌ perdida | -10.00 |
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ✅ ganada | +0.87 |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ❌ perdida | -10.00 |
-| midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 18.1% | ⏳ pendiente | — |
+| midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 18.1% | ✅ ganada | +10.41 |
 | Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ❌ perdida | -10.00 |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 12.0% | ✅ ganada | +10.83 |
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |

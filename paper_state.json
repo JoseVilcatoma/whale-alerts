@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.8249216740746,
+  "bankroll": 805.4044597039758,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1610,6 +1610,31 @@
       "timestamp": 1786917409.8233044,
       "bankroll": 795.82,
       "event": "won: crisp1973 \u2014 Will SK Slavia Praha win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786917839.2621112,
+      "bankroll": 806.23,
+      "event": "won: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
+    },
+    {
+      "timestamp": 1786917839.3622365,
+      "bankroll": 796.23,
+      "event": "lost: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
+    },
+    {
+      "timestamp": 1786917839.850421,
+      "bankroll": 786.23,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786917839.950624,
+      "bankroll": 798.46,
+      "event": "won: SineNooneEI \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786917840.0508132,
+      "bankroll": 805.4,
+      "event": "won: IMAREALPERSON \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
     }
   ]
 }
