@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 15:36:15 (hora de Perú)
+Actualizado: 2026-08-16 15:38:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $844.29
-**Retorno acumulado:** -15.57%
+**Bankroll actual:** $855.56
+**Retorno acumulado:** -14.44%
 **Peor caída desde un máximo (drawdown):** 27.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 15:36:15 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $504.29)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $515.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 1 | +44.73 USD |
-| Sassy-Bucket | 3 | 3 | 8 | +20.12 USD |
+| Sassy-Bucket | 3 | 3 | 9 | +20.12 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -40,17 +40,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 2 | 2 | 3 | -17.23 USD |
 | IMAREALPERSON | 6 | 4 | 3 | -20.60 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
+| RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| RN1 | 25 | 18 | 2 | -65.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 283
-- **Aciertos:** 150 (53.0%)
+- **Apuestas resueltas:** 284
+- **Aciertos:** 151 (53.2%)
 - **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,830.00
-- **ROI sobre lo apostado:** -7.28%
+- **Total apostado (suma de stakes):** $2,840.00
+- **ROI sobre lo apostado:** -6.86%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 145 | 47.6% | 49.7% | -2.1 pp |
+| 40-59% | 146 | 47.9% | 49.7% | -1.7 pp |
 | 60-79% | 67 | 68.7% | 68.2% | +0.4 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -121,6 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Indiana Fever vs. Atlanta Dream: O/U 187 | Under (BUY) | 51% | 10.00 | 33.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: FlyQuest vs Cloud9 - Game 1 Winner | FlyQuest (BUY) | 42% | 10.00 | 2.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Colorado Rockies vs. San Francisco Giant | Over (BUY) | 54% | 10.00 | 8.3% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 57% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -150,4 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 20 | Yes (BUY) | 47% | 10.00 | 304.7% | ✅ ganada | +11.28 |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |

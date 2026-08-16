@@ -1,5 +1,5 @@
 {
-  "bankroll": 844.2851592796726,
+  "bankroll": 855.5617550243535,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1520,6 +1520,11 @@
       "timestamp": 1786910495.4512787,
       "bankroll": 844.29,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Arsenal FC vs. Manchester City: O/U 2.5"
+    },
+    {
+      "timestamp": 1786912692.7686956,
+      "bankroll": 855.56,
+      "event": "won: RN1 \u2014 Yellow-Red KV Mechelen vs. Standard Liege: O/U 2.5"
     }
   ]
 }
