@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:54:28 (hora de Perú)
+Actualizado: 2026-08-16 08:56:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **293**  ($15,442,436 en total)
-- Resueltas: **264** — 148 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 29
+- Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 97
 
 ### Balance
 
-- **Resultado de los apostadores: -$626,901** sobre $12,689,779 apostados (ROI **-4.9%**)
-- Copiando $100 fijo en cada una: **-$2,460** sobre $25,800 (ROI **-9.5%**)
+- **Resultado de los apostadores: -$595,856** sobre $12,763,460 apostados (ROI **-4.7%**)
+- Copiando $100 fijo en cada una: **-$2,376** sobre $26,000 (ROI **-9.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
-| Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,796 | +$14,400 |
+| Lakersfan111 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,796 | +$34,627 |
 
 _(mostrando los 40 de mayor monto, de 97 en total)_
 
@@ -99,8 +99,8 @@ _(mostrando los 40 de mayor monto, de 97 en total)_
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | +$8,073 | ✅ Ganada |
 | bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
-| lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | — | ⏳ Pendiente |
-| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | +$10,818 | ✅ Ganada |
+| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | +$20,227 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | +$39,623 | ✅ Ganada |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | +$15,209 | ✅ Ganada |
 | Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | +$11,760 | ✅ Ganada |
