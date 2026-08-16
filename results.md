@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:13:04 (hora de Perú)
+Actualizado: 2026-08-15 21:15:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **240**  ($11,435,676 en total)
-- Resueltas: **215** — 115 ganadas / 100 perdidas (**53%** de acierto)
+- Apuestas registradas: **242**  ($11,496,118 en total)
+- Resueltas: **217** — 116 ganadas / 101 perdidas (**53%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 80
 
 ### Balance
 
-- **Resultado de los apostadores: -$753,357** sobre $9,759,701 apostados (ROI **-7.7%**)
-- Copiando $100 fijo en cada una: **-$2,693** sobre $21,100 (ROI **-12.8%**)
+- **Resultado de los apostadores: -$715,940** sobre $9,826,700 apostados (ROI **-7.3%**)
+- Copiando $100 fijo en cada una: **-$2,585** sobre $21,200 (ROI **-12.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,16 +25,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 11 | 2 | 68% | $2,263,987 | +$404,846 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 3 | 45% | $1,025,333 | -$74,202 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 4 | 45% | $1,055,776 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 2 | 25% | $453,907 | -$131,530 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 1 | 38% | $292,000 | -$90,212 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
 | beachboy4 | 0 | 4 | 1 | ⚠️ 0% (4) | $253,659 | -$223,072 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| pleaseplease123 | 3 | 2 | 1 | ⚠️ 60% (5) | $246,152 | -$37,838 |
+| pleaseplease123 | 4 | 2 | 0 | ⚠️ 67% (6) | $246,152 | +$78 |
 | wr0ngw4yb3tt0r | 4 | 1 | 0 | ⚠️ 80% (5) | $237,095 | +$72,530 |
 | rabbitfoot1 | 1 | 1 | 1 | ⚠️ 50% (2) | $233,606 | -$74,307 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 1 | 0 | 2 | ⚠️ 100% (1) | $158,791 | +$42,857 |
-| Winnnnnnning | 0 | 3 | 1 | ⚠️ 0% (3) | $147,771 | -$115,771 |
+| Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $30,442 | — | ⏳ Pendiente |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | — | ⏳ Pendiente |
@@ -87,12 +89,12 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
 | surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | -$35,892 | ❌ Perdida |
 | Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |
-| Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | -$500 | 💰 Vendida antes |
 | beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | — | ⏳ Pendiente |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | -$66,527 | ❌ Perdida |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | -$56,489 | ❌ Perdida |
-| pleaseplease123 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.08 (48¢) | $35,000 | +$37,916 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $57,391 | +$46,956 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $27,867 | +$22,800 | ✅ Ganada |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | -$55,055 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | ChinesePro | Will Sevilla FC win on 2026-08-15? | No | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | +$26,859 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
-| Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
-| nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | +$29,600 | ✅ Ganada |
