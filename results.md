@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:23:21 (hora de Perú)
+Actualizado: 2026-08-15 21:25:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **242**  ($11,496,118 en total)
+- Apuestas registradas: **243**  ($11,547,318 en total)
 - Resueltas: **217** — 116 ganadas / 101 perdidas (**53%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 80
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 11 | 2 | 68% | $2,263,987 | +$404,846 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 4 | 45% | $1,055,776 | -$74,202 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 5 | 45% | $1,106,976 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 6 | 2 | 25% | $453,907 | -$131,530 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $51,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $30,442 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $226,926 | — | ⏳ Pendiente |
 | ChinesePro | Will Sevilla FC win on 2026-08-15? | No | 1.59 (63¢) | $63,000 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.67 (60¢) | $40,289 | +$26,859 | ✅ Ganada |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
