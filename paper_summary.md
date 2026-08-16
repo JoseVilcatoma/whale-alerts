@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:39:35 (hora de Perú)
+Actualizado: 2026-08-16 10:41:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $844.10
@@ -126,7 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 3.6% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
