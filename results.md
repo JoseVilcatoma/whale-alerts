@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 23:41:06 (hora de Perú)
+Actualizado: 2026-08-15 23:43:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **258**  ($12,453,779 en total)
-- Resueltas: **253** — 137 ganadas / 116 perdidas (**54%** de acierto)
-- Pendientes: 5
+- Resueltas: **254** — 138 ganadas / 116 perdidas (**54%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 85
 
 ### Balance
 
-- **Resultado de los apostadores: -$859,367** sobre $12,247,221 apostados (ROI **-7.0%**)
-- Copiando $100 fijo en cada una: **-$3,046** sobre $24,800 (ROI **-12.3%**)
+- **Resultado de los apostadores: -$837,172** sobre $12,277,872 apostados (ROI **-6.8%**)
+- Copiando $100 fijo en cada una: **-$2,973** sobre $24,900 (ROI **-11.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 24 | 13 | 0 | 65% | $2,291,364 | +$218,767 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 12 | 3 | 52% | $1,270,826 | -$7,444 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 14 | 12 | 2 | 54% | $1,270,826 | +$14,751 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 85 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $59,200 | +$20,800 | ✅ Ganada |
 | abouttojump | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.37 (73¢) | $32,638 | +$12,072 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $74,000 | +$26,000 | ✅ Ganada |
