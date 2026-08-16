@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:13:28 (hora de Perú)
+Actualizado: 2026-08-16 12:15:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **323**  ($17,019,165 en total)
-- Resueltas: **275** — 157 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 48
+- Resueltas: **277** — 159 ganadas / 118 perdidas (**57%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 104
 
 ### Balance
 
-- **Resultado de los apostadores: -$555,186** sobre $13,110,185 apostados (ROI **-4.2%**)
-- Copiando $100 fijo en cada una: **-$2,371** sobre $26,800 (ROI **-8.8%**)
+- **Resultado de los apostadores: -$507,535** sobre $13,209,606 apostados (ROI **-3.8%**)
+- Copiando $100 fijo en cada una: **-$2,266** sobre $27,000 (ROI **-8.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 1 | ⚠️ 75% (4) | $215,197 | +$9,899 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
-| 007theone1 | 3 | 0 | 1 | ⚠️ 100% (3) | $172,600 | +$29,017 |
+| 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 1 | 0 | 2 | ⚠️ 100% (1) | $162,760 | +$46,780 |
 | SDTrading | 0 | 3 | 3 | ⚠️ 0% (3) | $161,562 | -$81,210 |
@@ -79,8 +79,8 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | +$22,500 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Ugo Humbert vs Michael Zheng | Michael Zheng | 1.19 (84¢) | $25,427 | +$4,843 | ✅ Ganada |
-| 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | — | ⏳ Pendiente |
-| HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
+| 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
+| HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
