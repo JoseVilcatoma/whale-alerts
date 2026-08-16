@@ -7939,5 +7939,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786891643.7356982,
     "fills": 1
+  },
+  {
+    "timestamp": 1786891833,
+    "timestamp_added": 1786891834.2732766,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-cerny-obradov-2026-08-16",
+    "title": "Prague: Matyas Cerny vs Dusan Obradovic",
+    "outcome": "Matyas Cerny",
+    "side": "BUY",
+    "whale_usd": 805.0015999999999,
+    "whale_pct": 0.514,
+    "whale_value_at_open": 156534.3972,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786891834.2732856,
+    "fills": 1
   }
 ]
