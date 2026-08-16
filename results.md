@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 05:18:04 (hora de Perú)
+Actualizado: 2026-08-16 05:20:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **269**  ($12,862,203 en total)
+- Apuestas registradas: **270**  ($12,901,276 en total)
 - Resueltas: **260** — 144 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 90
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 24 | 13 | 1 | 65% | $2,343,888 | +$218,767 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 24 | 13 | 2 | 65% | $2,382,961 | +$218,767 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | — | ⏳ Pendiente |
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | — | ⏳ Pendiente |
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 90 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.39 (72¢) | $36,534 | +$14,208 | ✅ Ganada |
 | rabbitfoot1 | UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims) | Lucas Fernando | 1.39 (72¢) | $29,737 | +$11,564 | ✅ Ganada |
 | Winnnnnnning | UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims) | Vicente Luque | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | -$116,000 | ❌ Perdida |
