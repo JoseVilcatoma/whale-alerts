@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:30:07 (hora de Perú)
+Actualizado: 2026-08-16 12:32:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **325**  ($17,093,260 en total)
+- Apuestas registradas: **326**  ($17,122,260 en total)
 - Resueltas: **290** — 167 ganadas / 123 perdidas (**58%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 104
+- Pendientes: 36
+- Apostadores distintos: 105
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 
-_(mostrando los 40 de mayor monto, de 104 en total)_
+_(mostrando los 40 de mayor monto, de 105 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $25,095 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.92 (52¢) | $49,000 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | -$25,748 | ❌ Perdida |
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | -$28,442 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | +$8,073 | ✅ Ganada |
-| bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
