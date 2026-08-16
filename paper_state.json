@@ -1,5 +1,5 @@
 {
-  "bankroll": 873.1954002216269,
+  "bankroll": 878.8204002216269,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1330,6 +1330,11 @@
       "timestamp": 1786887451.1614885,
       "bankroll": 873.2,
       "event": "won: RN1 \u2014 Prague: Fryderyk Lechno-Wasiutynski vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786887580.3610585,
+      "bankroll": 878.82,
+      "event": "won: RN1 \u2014 Sion: Alex Marti Pujolras vs Maximilian Neuchrist"
     }
   ]
 }
