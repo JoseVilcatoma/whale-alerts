@@ -6435,8 +6435,8 @@
     "title": "Will Hannover 96 win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2715.894244,
-    "whale_pct": 3.159,
+    "whale_usd": 3568.494244,
+    "whale_pct": 4.15,
     "whale_value_at_open": 85979.8204,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -6446,8 +6446,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786878829.991223,
-    "fills": 2
+    "last_fill_at": 1786882492.372186,
+    "fills": 3
   },
   {
     "timestamp": 1786878899,
@@ -6907,6 +6907,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786882206.475608,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786882410,
+    "timestamp_added": 1786882411.4244833,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-nor-sif-2026-08-16-nor",
+    "title": "Will FC Nordsj\u00e6lland win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 562.1,
+    "whale_pct": 0.513,
+    "whale_value_at_open": 109528.616,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786882411.4244947,
     "fills": 1
   }
 ]
