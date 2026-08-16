@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 03:18:34 (hora de Perú)
+Actualizado: 2026-08-16 03:20:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $910.12
-**Retorno acumulado:** -8.99%
+**Bankroll actual:** $911.67
+**Retorno acumulado:** -8.83%
 **Peor caída desde un máximo (drawdown):** 18.53%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 03:18:34 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $540.12)
+**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $551.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 8 | 4 | +43.11 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 8 | 3 | +44.66 USD |
 | 111111111115 | 9 | 4 | 9 | +39.73 USD |
 | Lakersfan111 | 6 | 5 | 10 | +11.63 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -122,7 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Bucharest 3 Women: Maria Sara Po | Maria Sara Popa (BUY) | 70% | 10.00 | 7.4% | ⏳ pendiente | — |
 | 111111111115 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 111111111115 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 59% | 10.00 | 16.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 58% | 10.00 | 106.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 58% | 10.00 | 106.0% | 💰 vendida anticipada | +1.55 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 85.2% | ⏳ pendiente | — |
 | RN1 | Prague: Marek Gengel vs Svyatoslav Gulin | Svyatoslav Gulin (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |

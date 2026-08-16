@@ -1,5 +1,5 @@
 {
-  "bankroll": 910.1220223016428,
+  "bankroll": 911.6737464395738,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1270,6 +1270,11 @@
       "timestamp": 1786867865.6319854,
       "bankroll": 910.12,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: BUF (-3.5)"
+    },
+    {
+      "timestamp": 1786868373.1258788,
+      "bankroll": 911.67,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group (+1.55 USD)"
     }
   ]
 }
