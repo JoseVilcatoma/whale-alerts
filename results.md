@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:00:38 (hora de Perú)
+Actualizado: 2026-08-16 08:02:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **274**  ($13,082,823 en total)
+- Apuestas registradas: **275**  ($13,111,676 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 92
 
 ### Balance
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
+| SDTrading | 0 | 3 | 1 | ⚠️ 0% (3) | $110,062 | -$81,210 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | 007theone1 | 3 | 0 | 0 | ⚠️ 100% (3) | $103,679 | +$29,017 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
@@ -58,7 +59,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
-| SDTrading | 0 | 3 | 0 | ⚠️ 0% (3) | $81,210 | -$81,210 |
 | TAIWANNUMBERONE | 3 | 0 | 0 | ⚠️ 100% (3) | $80,336 | +$29,377 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 92 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros | 1.82 (55¢) | $28,852 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.11 (90¢) | $28,905 | — | ⏳ Pendiente |
 | 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 92 en total)_
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $57,391 | +$46,956 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $27,867 | +$22,800 | ✅ Ganada |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.27 (44¢) | $55,055 | -$55,055 | ❌ Perdida |
-| texaskid | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 2.04 (49¢) | $26,439 | -$26,439 | ❌ Perdida |
