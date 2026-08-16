@@ -7315,8 +7315,8 @@
     "title": "ADO Den Haag vs. FC Groningen: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1580.74,
-    "whale_pct": 1.754,
+    "whale_usd": 2238.45,
+    "whale_pct": 2.483,
     "whale_value_at_open": 90144.1092,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -7326,8 +7326,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786876871.748908,
-    "fills": 2
+    "last_fill_at": 1786877300.6348941,
+    "fills": 3
   },
   {
     "timestamp": 1786876840,

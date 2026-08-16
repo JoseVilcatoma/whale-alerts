@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:46:59 (hora de Perú)
+Actualizado: 2026-08-16 05:49:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.18
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Jiri Cizek vs Norbert Gombos | Norbert Gombos (BUY) | 86% | 10.00 | 2.9% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | Kiwoom DRX (BUY) | 49% | 10.00 | 23.5% | ⏳ pendiente | — |
 | RN1 | Sion: Nicolas Parizzia vs Theo Papamalam | Nicolas Parizzia (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | ADO Den Haag vs. FC Groningen: O/U 2.5 | Over (BUY) | 73% | 10.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | ADO Den Haag vs. FC Groningen: O/U 2.5 | Over (BUY) | 73% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | 💰 vendida anticipada | -2.12 |
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
