@@ -6743,8 +6743,8 @@
     "title": "LoL: T1 vs Gen.G - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 11079.602799999999,
-    "whale_pct": 82.617,
+    "whale_usd": 29589.660200000002,
+    "whale_pct": 220.642,
     "whale_value_at_open": 13410.7235,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -6757,7 +6757,30 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786869659.7694182,
-    "fills": 4
+    "last_fill_at": 1786869757.0248842,
+    "fills": 11
+  },
+  {
+    "timestamp": 1786869788,
+    "timestamp_added": 1786869788.9344816,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kuczer-kotliar-2026-08-16",
+    "title": "ITF W35 Bydgoszcz Women: Daria Kuczer vs Yelyzaveta Kotliar",
+    "outcome": "Daria Kuczer",
+    "side": "BUY",
+    "whale_usd": 514.7594110000001,
+    "whale_pct": 1.017,
+    "whale_value_at_open": 50612.8991,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786869788.9344928,
+    "fills": 1
   }
 ]
