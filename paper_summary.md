@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:44:55 (hora de Perú)
+Actualizado: 2026-08-16 12:46:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $822.17
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:44:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $542.17)
+**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $502.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 0 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
-| Sassy-Bucket | 2 | 3 | 3 | +9.29 USD |
+| Sassy-Bucket | 2 | 3 | 5 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
 | midwicket72 | 1 | 2 | 4 | -18.10 USD |
-| IMAREALPERSON | 5 | 4 | 1 | -28.46 USD |
+| IMAREALPERSON | 5 | 4 | 3 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 | RN1 | 25 | 18 | 2 | -65.01 USD |
@@ -113,12 +113,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
-| lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, SineNooneEI |
+| lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 27.6% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 8.9% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ⏳ pendiente | — |
 | crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 16.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ⏳ pendiente | — |
@@ -145,7 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ✅ ganada | +5.62 |
 | RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ✅ ganada | +8.52 |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 7.9% | ⏳ pendiente | — |
-| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ❌ perdida | -10.00 |
-| RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ✅ ganada | +6.95 |
-| RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ✅ ganada | +0.20 |
