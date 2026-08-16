@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:43:49 (hora de Perú)
+Actualizado: 2026-08-15 21:45:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $962.71
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 45% | 10.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Astralis vs NIP - Map 1  | Astralis (BUY) | 47% | 10.00 | 11.7% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 13.7% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
@@ -116,9 +116,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 3.3% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 4.4% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 27.4% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 35.7% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 346.2% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 8.0% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 10.6% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 78% | 10.00 | 15.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Ga | Team Falcons (BUY) | 74% | 10.00 | 9.0% | ⏳ pendiente | — |
