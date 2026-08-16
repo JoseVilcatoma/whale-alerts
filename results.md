@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 13:13:45 (hora de Perú)
+Actualizado: 2026-08-16 13:15:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **328**  ($17,188,980 en total)
+- Apuestas registradas: **329**  ($17,219,692 en total)
 - Resueltas: **295** — 172 ganadas / 123 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 105
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 14 | 1 | 69% | $2,685,962 | +$289,468 |
 | sainttroplay | 1 | 4 | 9 | ⚠️ 20% (5) | $2,092,133 | +$96,462 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 1 | 57% | $1,295,921 | +$59,487 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 2 | 57% | $1,326,634 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | +$8,829 | ✅ Ganada |
 | greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | +$29,476 | ✅ Ganada |
-| happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | -$25,748 | ❌ Perdida |
