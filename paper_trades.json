@@ -5827,5 +5827,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786848306.0279326,
     "fills": 2
+  },
+  {
+    "timestamp": 1786848656,
+    "timestamp_added": 1786848657.2022448,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-isl-ian1-2026-08-15-totals-4pt5",
+    "title": "O/U 4.5 Rounds",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 662.790697,
+    "whale_pct": 0.542,
+    "whale_value_at_open": 122375.7004,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786848657.2022524,
+    "fills": 1
   }
 ]
