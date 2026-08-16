@@ -5541,8 +5541,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 11000.260241,
-    "whale_pct": 7.204,
+    "whale_usd": 12881.212621,
+    "whale_pct": 8.436,
     "whale_value_at_open": 152696.2455,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5551,8 +5551,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786857881.5594025,
-    "fills": 5
+    "last_fill_at": 1786858023.1620674,
+    "fills": 6
   },
   {
     "timestamp": 1786852436,
@@ -6049,6 +6049,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786857020.0404775,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786857987,
+    "timestamp_added": 1786857988.1096463,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-lgd-ty-2026-08-16-game-handicap-home-1pt5",
+    "title": "Game Handicap: TY (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 511.06631500000003,
+    "whale_pct": 0.392,
+    "whale_value_at_open": 130433.4997,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786857988.1096563,
     "fills": 1
   }
 ]
