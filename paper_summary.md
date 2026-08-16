@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 11:27:37 (hora de Perú)
+Actualizado: 2026-08-16 11:29:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $807.16
@@ -126,7 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 46% | 10.00 | 6.5% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 46% | 10.00 | 38.5% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 50% | 10.00 | 30.8% | ⏳ pendiente | — |
 | predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
 | predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 104.7% | ⏳ pendiente | — |
