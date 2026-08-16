@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 14:37:03 (hora de Perú)
+Actualizado: 2026-08-16 14:39:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **336**  ($17,508,395 en total)
-- Resueltas: **300** — 175 ganadas / 125 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Resueltas: **302** — 177 ganadas / 125 perdidas (**59%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 106
 
 ### Balance
 
-- **Resultado de los apostadores: -$452,898** sobre $14,439,716 apostados (ROI **-3.1%**)
-- Copiando $100 fijo en cada una: **-$2,142** sobre $29,200 (ROI **-7.3%**)
+- **Resultado de los apostadores: -$299,994** sobre $14,569,968 apostados (ROI **-2.1%**)
+- Copiando $100 fijo en cada una: **-$1,908** sobre $29,400 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Winnnnnnning | 0 | 4 | 1 | ⚠️ 0% (4) | $193,233 | -$116,271 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 3edmond.dantes | 1 | 0 | 2 | ⚠️ 100% (1) | $162,760 | +$46,780 |
+| 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
 | SDTrading | 0 | 3 | 3 | ⚠️ 0% (3) | $161,562 | -$81,210 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 0 | 1 | ⚠️ 100% (1) | $153,500 | +$88,500 |
@@ -87,9 +87,9 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | SDTrading | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.82 (55¢) | $47,874 | -$47,874 | ❌ Perdida |
-| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | +$98,904 | ✅ Ganada |
 | cryptojo | Cincinnati Open: Janice Tjen vs Viktorija Golubic | Janice Tjen | 1.12 (89¢) | $25,712 | +$3,178 | ✅ Ganada |
-| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | +$22,500 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Ugo Humbert vs Michael Zheng | Michael Zheng | 1.19 (84¢) | $25,427 | +$4,843 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
