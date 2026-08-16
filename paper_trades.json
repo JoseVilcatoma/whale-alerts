@@ -5591,8 +5591,8 @@
     "title": "Map Handicap: 9z (-1.5) vs magic (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 2153.3994999999995,
-    "whale_pct": 4.903,
+    "whale_usd": 3492.236999999999,
+    "whale_pct": 7.952,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
@@ -5601,8 +5601,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846436.7307594,
-    "fills": 1
+    "last_fill_at": 1786847340.308183,
+    "fills": 2
   },
   {
     "timestamp": 1786846436,
@@ -5637,8 +5637,8 @@
     "title": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 10674.515200000002,
-    "whale_pct": 24.307,
+    "whale_usd": 12042.688000000002,
+    "whale_pct": 27.422,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -5647,8 +5647,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846445.3802493,
-    "fills": 3
+    "last_fill_at": 1786847347.7416642,
+    "fills": 4
   },
   {
     "timestamp": 1786846439,
@@ -5758,6 +5758,52 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786846940.7271783,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786847297,
+    "timestamp_added": 1786847297.8942606,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-ast10-nip-2026-08-16-game1",
+    "title": "Counter-Strike: Astralis vs NIP - Map 1 Winner",
+    "outcome": "NIP",
+    "side": "BUY",
+    "whale_usd": 7950.0,
+    "whale_pct": 13.656,
+    "whale_value_at_open": 58216.8227,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786847297.8942697,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786847297,
+    "timestamp_added": 1786847298.4479375,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-ast10-nip-2026-08-16-game1",
+    "title": "Counter-Strike: Astralis vs NIP - Map 1 Winner",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "whale_usd": 6894.9,
+    "whale_pct": 11.665,
+    "whale_value_at_open": 59105.4826,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786847298.4479449,
     "fills": 1
   }
 ]
