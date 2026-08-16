@@ -1,5 +1,5 @@
 {
-  "bankroll": 775.4044597039758,
+  "bankroll": 782.4764711827671,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1482,174 +1482,139 @@
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season (+10.00 USD)"
     },
     {
-      "timestamp": 1786905469.6158576,
+      "timestamp": 1786920244.708477,
       "bankroll": 822.17,
-      "event": "lost: 111111111115 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786905469.7160192,
-      "bankroll": 833.45,
-      "event": "won: Lakersfan111 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786907352.1285036,
-      "bankroll": 823.45,
-      "event": "lost: Lakersfan111 \u2014 Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D"
-    },
-    {
-      "timestamp": 1786908482.8222332,
-      "bankroll": 834.28,
-      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
-    },
-    {
-      "timestamp": 1786908926.4660962,
-      "bankroll": 845.56,
-      "event": "won: 3edmond.dantes \u2014 Will RCD Espanyol de Barcelona win on 2026-08-16?"
-    },
-    {
-      "timestamp": 1786909240.0509212,
-      "bankroll": 846.43,
-      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Leicestershire vs Nottinghamshire"
-    },
-    {
-      "timestamp": 1786909552.6846802,
-      "bankroll": 854.29,
-      "event": "won: IMAREALPERSON \u2014 Counter-Strike: Astralis vs NIP - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786910495.4512787,
-      "bankroll": 844.29,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Arsenal FC vs. Manchester City: O/U 2.5"
-    },
-    {
-      "timestamp": 1786912692.7686956,
-      "bankroll": 855.56,
-      "event": "won: RN1 \u2014 Yellow-Red KV Mechelen vs. Standard Liege: O/U 2.5"
-    },
-    {
-      "timestamp": 1786913013.6158607,
-      "bankroll": 845.56,
-      "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 8.5"
-    },
-    {
-      "timestamp": 1786913193.1041605,
-      "bankroll": 840.8,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: FlyQuest vs Cloud9 - Game 1 Winner (-4.76 USD)"
-    },
-    {
-      "timestamp": 1786913321.156525,
-      "bankroll": 830.8,
       "event": "lost: 111111111115 \u2014 Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B"
     },
     {
-      "timestamp": 1786913388.1498468,
-      "bankroll": 820.8,
-      "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 9.5"
+      "timestamp": 1786920245.0056036,
+      "bankroll": 812.17,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D"
     },
     {
-      "timestamp": 1786913637.3314369,
-      "bankroll": 810.8,
-      "event": "lost: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 6.5"
+      "timestamp": 1786920245.290289,
+      "bankroll": 802.17,
+      "event": "lost: 111111111115 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
     },
     {
-      "timestamp": 1786913947.3063493,
-      "bankroll": 819.32,
+      "timestamp": 1786920245.390496,
+      "bankroll": 813.45,
+      "event": "won: Lakersfan111 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786920245.852521,
+      "bankroll": 803.45,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Arsenal FC vs. Manchester City: O/U 2.5"
+    },
+    {
+      "timestamp": 1786920246.1480021,
+      "bankroll": 814.73,
+      "event": "won: RN1 \u2014 Yellow-Red KV Mechelen vs. Standard Liege: O/U 2.5"
+    },
+    {
+      "timestamp": 1786920246.8917553,
+      "bankroll": 823.24,
       "event": "won: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 7.5"
     },
     {
-      "timestamp": 1786913947.8726435,
-      "bankroll": 824.47,
+      "timestamp": 1786920247.3629541,
+      "bankroll": 813.24,
+      "event": "lost: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 6.5"
+    },
+    {
+      "timestamp": 1786920247.6576185,
+      "bankroll": 818.4,
       "event": "won: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 8.5"
     },
     {
-      "timestamp": 1786913948.4250576,
-      "bankroll": 827.29,
+      "timestamp": 1786920248.1461806,
+      "bankroll": 821.22,
       "event": "won: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
     },
     {
-      "timestamp": 1786914073.5567763,
-      "bankroll": 817.29,
-      "event": "lost: Sassy-Bucket \u2014 Miami Marlins vs. Cincinnati Reds: O/U 8.5"
+      "timestamp": 1786920248.4346907,
+      "bankroll": 832.49,
+      "event": "won: 3edmond.dantes \u2014 Will RCD Espanyol de Barcelona win on 2026-08-16?"
     },
     {
-      "timestamp": 1786914140.025475,
-      "bankroll": 825.81,
-      "event": "won: Sassy-Bucket \u2014 Colorado Rockies vs. San Francisco Giants: O/U 7.5"
+      "timestamp": 1786920248.8937645,
+      "bankroll": 840.35,
+      "event": "won: IMAREALPERSON \u2014 Counter-Strike: Astralis vs NIP - Map 2 Winner"
     },
     {
-      "timestamp": 1786914450.421643,
-      "bankroll": 815.81,
-      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786914450.5217724,
-      "bankroll": 805.81,
-      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786914450.8222282,
-      "bankroll": 795.81,
-      "event": "lost: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786914451.0225499,
-      "bankroll": 806.22,
-      "event": "won: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
-    },
-    {
-      "timestamp": 1786914575.3524532,
-      "bankroll": 796.22,
-      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786914575.4526424,
-      "bankroll": 786.22,
-      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786917409.8233044,
-      "bankroll": 795.82,
-      "event": "won: crisp1973 \u2014 Will SK Slavia Praha win on 2026-08-16?"
-    },
-    {
-      "timestamp": 1786917839.2621112,
-      "bankroll": 806.23,
-      "event": "won: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
-    },
-    {
-      "timestamp": 1786917839.3622365,
-      "bankroll": 796.23,
-      "event": "lost: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
-    },
-    {
-      "timestamp": 1786917839.850421,
-      "bankroll": 786.23,
-      "event": "lost: ChonkyChocolateCake \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786917839.950624,
-      "bankroll": 798.46,
-      "event": "won: SineNooneEI \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786917840.0508132,
-      "bankroll": 805.4,
-      "event": "won: IMAREALPERSON \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786919517.26962,
-      "bankroll": 795.4,
+      "timestamp": 1786920249.1871524,
+      "bankroll": 830.35,
       "event": "lost: midwicket72 \u2014 Metro Bank One Day Cup: Middlesex vs Durham"
     },
     {
-      "timestamp": 1786920191.2926862,
-      "bankroll": 785.4,
+      "timestamp": 1786920249.524592,
+      "bankroll": 841.18,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1786920249.83714,
+      "bankroll": 831.18,
+      "event": "lost: Sassy-Bucket \u2014 Miami Marlins vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1786920250.1322525,
+      "bankroll": 841.59,
+      "event": "won: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
+    },
+    {
+      "timestamp": 1786920250.4334047,
+      "bankroll": 831.59,
+      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786920250.738341,
+      "bankroll": 832.46,
+      "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Leicestershire vs Nottinghamshire"
+    },
+    {
+      "timestamp": 1786920250.8384748,
+      "bankroll": 822.46,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786920250.9386125,
+      "bankroll": 812.46,
+      "event": "lost: midwicket72 \u2014 The Hundred: Trent Rockets vs Manchester Super Giants"
+    },
+    {
+      "timestamp": 1786920251.235951,
+      "bankroll": 822.07,
+      "event": "won: crisp1973 \u2014 Will SK Slavia Praha win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786920251.3361568,
+      "bankroll": 812.07,
+      "event": "lost: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786920251.5415385,
+      "bankroll": 802.07,
       "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 9.5"
     },
     {
-      "timestamp": 1786920191.5667686,
-      "bankroll": 775.4,
+      "timestamp": 1786920251.6416578,
+      "bankroll": 812.48,
+      "event": "won: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786920251.8342166,
+      "bankroll": 802.48,
       "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1786920252.1065123,
+      "bankroll": 792.48,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786920252.2066312,
+      "bankroll": 782.48,
+      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
     }
   ]
 }
