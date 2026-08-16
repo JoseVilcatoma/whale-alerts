@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:58:42 (hora de Perú)
+Actualizado: 2026-08-16 10:00:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **309**  ($16,418,615 en total)
+- Apuestas registradas: **310**  ($16,466,654 en total)
 - Resueltas: **269** — 152 ganadas / 117 perdidas (**57%** de acierto)
-- Pendientes: 40
-- Apostadores distintos: 100
+- Pendientes: 41
+- Apostadores distintos: 101
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 1 | — | $83,889 | — |
 
-_(mostrando los 40 de mayor monto, de 100 en total)_
+_(mostrando los 40 de mayor monto, de 101 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | — | ⏳ Pendiente |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | — | ⏳ Pendiente |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | DegenKingBetter | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $26,055 | +$9,154 | ✅ Ganada |
 | User1244322 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.10 (91¢) | $46,746 | +$4,623 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.12 (89¢) | $27,377 | +$3,384 | ✅ Ganada |
-| 007theone1 | Cincinnati Open: Lois Boisson vs Belinda Bencic | Lois Boisson | 1.49 (67¢) | $50,818 | +$25,030 | ✅ Ganada |
