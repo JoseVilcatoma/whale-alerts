@@ -6540,5 +6540,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786879743.3616898,
     "fills": 1
+  },
+  {
+    "timestamp": 1786879853,
+    "timestamp_added": 1786879853.8998396,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ere-ado-gro-2026-08-16-total-4pt5",
+    "title": "ADO Den Haag vs. FC Groningen: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 595.2,
+    "whale_pct": 0.607,
+    "whale_value_at_open": 98043.9871,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786879853.899849,
+    "fills": 1
   }
 ]
