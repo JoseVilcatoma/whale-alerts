@@ -1,5 +1,5 @@
 {
-  "bankroll": 822.1719263824433,
+  "bankroll": 832.1719263824433,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1475,6 +1475,11 @@
       "timestamp": 1786901398.5051203,
       "bankroll": 822.17,
       "event": "won: RN1 \u2014 Will Nottingham Forest win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786904764.5251746,
+      "bankroll": 832.17,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season (+10.00 USD)"
     }
   ]
 }
