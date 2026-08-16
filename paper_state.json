@@ -1,5 +1,5 @@
 {
-  "bankroll": 899.8983353944999,
+  "bankroll": 901.2936842317092,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1300,6 +1300,11 @@
       "timestamp": 1786870960.4912732,
       "bankroll": 899.9,
       "event": "won: RN1 \u2014 ITF M15 Tianjin 2 Men: Kosuke Ogura vs Omar Jasika"
+    },
+    {
+      "timestamp": 1786871030.4168353,
+      "bankroll": 901.29,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend (+1.40 USD)"
     }
   ]
 }
