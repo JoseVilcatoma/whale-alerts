@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:57:11 (hora de Perú)
+Actualizado: 2026-08-16 13:01:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **327**  ($17,152,197 en total)
+- Apuestas registradas: **328**  ($17,188,980 en total)
 - Resueltas: **295** — 172 ganadas / 123 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 105
 
 ### Balance
@@ -53,6 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
+| xifutloong3 | 1 | 2 | 1 | ⚠️ 33% (3) | $125,494 | -$49,007 |
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | swisstony | 0 | 0 | 2 | — | $120,372 | — |
@@ -62,7 +63,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
-| xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 
 _(mostrando los 40 de mayor monto, de 105 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $25,095 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | +$29,476 | ✅ Ganada |
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | -$25,748 | ❌ Perdida |
-| us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | -$28,442 | ❌ Perdida |
