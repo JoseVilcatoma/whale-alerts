@@ -5928,8 +5928,8 @@
     "title": "Arsenal FC vs. Manchester City: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 213011.5995,
-    "whale_pct": 355.312,
+    "whale_usd": 410790.59790000005,
+    "whale_pct": 685.216,
     "whale_value_at_open": 59950.4972,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -5938,8 +5938,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786886759.7327392,
-    "fills": 5
+    "last_fill_at": 1786886824.9767992,
+    "fills": 6
   },
   {
     "timestamp": 1786855385,
