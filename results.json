@@ -5189,5 +5189,20 @@
     "status": "pending",
     "ultimo_fill": 1786921669,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 713,
+    "timestamp": 1786924209,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-sea-hou-2026-08-16",
+    "title": "Seattle Mariners vs. Houston Astros",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 30974.7908,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1786924209,
+    "fills": 1
   }
 ]
