@@ -1,5 +1,5 @@
 {
-  "bankroll": 905.5793985174236,
+  "bankroll": 907.1178600558851,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1310,6 +1310,11 @@
       "timestamp": 1786872286.1035423,
       "bankroll": 905.58,
       "event": "won: RN1 \u2014 ITF W15 Bucharest 3 Women: Maria Sara Popa vs Ida Wobker"
+    },
+    {
+      "timestamp": 1786872987.845908,
+      "bankroll": 907.12,
+      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: T1 vs Gen.G - Game 2 Winner (+1.54 USD)"
     }
   ]
 }
