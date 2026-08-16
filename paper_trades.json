@@ -7869,5 +7869,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786889157.3509896,
     "fills": 1
+  },
+  {
+    "timestamp": 1786890207,
+    "timestamp_added": 1786890208.1919012,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tes-edg-2026-08-16",
+    "title": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "whale_usd": 83888.9088,
+    "whale_pct": 276.292,
+    "whale_value_at_open": 30362.3914,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786890208.191913,
+    "fills": 1
   }
 ]
