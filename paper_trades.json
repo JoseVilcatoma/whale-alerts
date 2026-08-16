@@ -7265,8 +7265,8 @@
     "title": "Miami Marlins vs. Cincinnati Reds: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 29013.08,
-    "whale_pct": 124.669,
+    "whale_usd": 34013.08,
+    "whale_pct": 146.154,
     "whale_value_at_open": 23272.0222,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -7276,8 +7276,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786900079.5314772,
-    "fills": 4
+    "last_fill_at": 1786900567.8702643,
+    "fills": 5
   },
   {
     "timestamp": 1786899988,
