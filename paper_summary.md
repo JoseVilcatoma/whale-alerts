@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:55:04 (hora de Perú)
+Actualizado: 2026-08-16 12:57:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $822.17
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:55:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $502.17)
+**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $492.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 0 | +34.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 1 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 5 | +9.29 USD |
@@ -119,6 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 15.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 58.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 10.1% | ⏳ pendiente | — |
@@ -148,4 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ✅ ganada | +5.62 |
-| RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ✅ ganada | +8.52 |
