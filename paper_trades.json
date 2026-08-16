@@ -4169,8 +4169,8 @@
     "whale_value_at_open": 189258.1714,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.35,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5613,8 +5613,8 @@
     "title": "Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 31981.836011,
-    "whale_pct": 278.644,
+    "whale_usd": 39738.660711,
+    "whale_pct": 346.226,
     "whale_value_at_open": 11477.6787,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
@@ -5625,8 +5625,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846986.6888301,
-    "fills": 13
+    "last_fill_at": 1786847122.8483264,
+    "fills": 16
   },
   {
     "timestamp": 1786846437,
