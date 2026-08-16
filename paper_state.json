@@ -1,5 +1,5 @@
 {
-  "bankroll": 869.2107711793942,
+  "bankroll": 874.3622863309093,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1305,6 +1305,11 @@
       "timestamp": 1786882013.4407403,
       "bankroll": 869.21,
       "event": "lost: RN1 \u2014 ITF M25 Kursumlijska Banja 3 Men: Sean Cuenin vs Stefan Horia Haita"
+    },
+    {
+      "timestamp": 1786882582.2781415,
+      "bankroll": 874.36,
+      "event": "won: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner"
     }
   ]
 }

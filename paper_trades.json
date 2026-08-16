@@ -6206,8 +6206,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6918,8 +6918,8 @@
     "title": "Will FC Nordsj\u00e6lland win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 562.1,
-    "whale_pct": 0.513,
+    "whale_usd": 1670.9,
+    "whale_pct": 1.526,
     "whale_value_at_open": 109528.616,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -6929,7 +6929,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786882411.4244947,
-    "fills": 1
+    "last_fill_at": 1786882630.010412,
+    "fills": 3
   }
 ]
