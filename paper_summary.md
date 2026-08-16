@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 19:16:19 (hora de Perú)
+Actualizado: 2026-08-15 19:18:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $943.69
@@ -104,7 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 7.7% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 49.1% | ⏳ pendiente | — |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
