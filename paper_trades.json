@@ -7150,8 +7150,8 @@
     "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5762.2968,
-    "whale_pct": 8.528,
+    "whale_usd": 8953.8264,
+    "whale_pct": 13.252,
     "whale_value_at_open": 67567.4787,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -7161,8 +7161,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786888393.42359,
-    "fills": 3
+    "last_fill_at": 1786888990.5773342,
+    "fills": 4
   },
   {
     "timestamp": 1786884575,
