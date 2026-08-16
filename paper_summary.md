@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:22:00 (hora de Perú)
+Actualizado: 2026-08-16 08:24:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:22:00 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $212.99)
+**Capital comprometido ahora mismo:** $700.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $172.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 19 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 21 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 7 | -1.87 USD |
+| SDTrading | 2 | 2 | 9 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -114,11 +114,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-kc-laa-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-bal-tb-2026-08-16-total-7pt5 | HomeRunHazard, SDTrading |
 | mlb-tex-oak-2026-08-16-total-10pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-mia-cin-2026-08-16-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-mia-cin-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 60% | 10.00 | 6.0% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Over (BUY) | 42% | 10.00 | 1.5% | ⏳ pendiente | — |
+| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8 | Under (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 53% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Over (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -145,7 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Sion: Dimitris Sakellaridis vs Gian Luca | Dimitris Sakellaridis (BUY) | 69% | 10.00 | 222.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | Kiwoom DRX (BUY) | 58% | 10.00 | 23.3% | ⏳ pendiente | — |
-| RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | Will FC Nordsjælland win on 2026-08-16? | Yes (BUY) | 74% | 10.00 | 1.5% | ⏳ pendiente | — |
