@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:02:53 (hora de Perú)
+Actualizado: 2026-08-15 21:04:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **237**  ($11,145,722 en total)
+- Apuestas registradas: **238**  ($11,180,877 en total)
 - Resueltas: **215** — 115 ganadas / 100 perdidas (**53%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 79
+- Pendientes: 23
+- Apostadores distintos: 80
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
 | texaskid | 0 | 2 | 0 | ⚠️ 0% (2) | $56,746 | -$56,746 |
 
-_(mostrando los 40 de mayor monto, de 79 en total)_
+_(mostrando los 40 de mayor monto, de 80 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.18 (85¢) | $89,526 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $39,195 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.19 (84¢) | $99,936 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | +$29,600 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | +$5,671 | ✅ Ganada |
-| Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
