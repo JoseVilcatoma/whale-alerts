@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:53:34 (hora de Perú)
+Actualizado: 2026-08-16 09:55:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $851.53
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | SDTrading | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 56% | 10.00 | 13.7% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Matyas Cerny vs Dusan Obradovic | Matyas Cerny (BUY) | 75% | 10.00 | 0.5% | ⏳ pendiente | — |
-| predictionlegend | Will Molde FK win on 2026-08-16? | No (BUY) | 51% | 10.00 | 67.0% | ⏳ pendiente | — |
+| predictionlegend | Will Molde FK win on 2026-08-16? | No (BUY) | 51% | 10.00 | 135.5% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 54% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | 💰 vendida anticipada | +0.00 |
 | HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
