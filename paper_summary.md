@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 22:45:44 (hora de Perú)
+Actualizado: 2026-08-15 22:47:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $965.89
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HomeRunHazard | 0 | 0 | 1 | +0.00 USD |
+| HomeRunHazard | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
@@ -104,6 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Texas Rangers (-1.5) | Athletics (BUY) | 68% | 10.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
@@ -132,5 +134,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | 💰 vendida anticipada | +1.73 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 21.9% | ✅ ganada | +8.18 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ❌ perdida | -10.00 |
