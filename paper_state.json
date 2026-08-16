@@ -1,5 +1,5 @@
 {
-  "bankroll": 962.5725741476474,
+  "bankroll": 972.1804172849023,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1080,6 +1080,11 @@
       "timestamp": 1786845652.524328,
       "bankroll": 962.57,
       "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786846149.7133672,
+      "bankroll": 972.18,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Mystics (-6.5)"
     }
   ]
 }
