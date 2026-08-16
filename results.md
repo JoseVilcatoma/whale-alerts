@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 00:58:28 (hora de Perú)
+Actualizado: 2026-08-16 01:01:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **259**  ($12,509,097 en total)
+- Apuestas registradas: **260**  ($12,566,644 en total)
 - Resueltas: **257** — 141 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 85
 
 ### Balance
@@ -31,9 +31,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
+| 111111111115 | 2 | 2 | 2 | ⚠️ 50% (4) | $323,576 | -$8,442 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
-| 111111111115 | 2 | 2 | 1 | ⚠️ 50% (4) | $266,029 | -$8,442 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | pleaseplease123 | 4 | 2 | 0 | ⚠️ 67% (6) | $246,152 | +$78 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 85 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | — | ⏳ Pendiente |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winner | BoomBoys | 2.00 (50¢) | $55,318 | — | ⏳ Pendiente |
 | gransaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.96 (51¢) | $77,414 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | O/U 4.5 Rounds | Over 4.5 Rounds | 1.72 (58¢) | $30,651 | +$22,195 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 85 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | +$11,092 | ✅ Ganada |
 | ferrariChampions2026 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.15 (87¢) | $26,966 | +$4,029 | ✅ Ganada |
 | xifutloong3 | Colorado Rockies vs. San Francisco Giants | San Francisco Giants | 1.56 (64¢) | $25,411 | +$14,294 | ✅ Ganada |
-| sleepy-panda | UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims) | Myktybek Orolbai | 1.14 (88¢) | $25,510 | -$25,510 | ❌ Perdida |
