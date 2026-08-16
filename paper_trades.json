@@ -7636,5 +7636,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786906027.8449805,
     "fills": 2
+  },
+  {
+    "timestamp": 1786906470,
+    "timestamp_added": 1786906471.1795533,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-png1-fxw7-2026-08-16-game2",
+    "title": "LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner",
+    "outcome": "paiN Gaming",
+    "side": "BUY",
+    "whale_usd": 3316.129,
+    "whale_pct": 12.463,
+    "whale_value_at_open": 26608.2293,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ChonkyChocolateCake",
+      "SineNooneEI"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786906471.1795604,
+    "fills": 1
   }
 ]
