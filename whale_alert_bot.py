@@ -809,36 +809,6 @@ def recuperar_perdidas():
         print(f"[respaldo] ⚠️ se recuperaron {recuperadas} apuestas que el stream se perdió")
     else:
         print(f"[respaldo] revisadas {len(trades)} operaciones grandes — nada nuevo")
-    """Envía un mensaje y devuelve su message_id (o None si falló).
-    Si se pasa responder_a, el mensaje sale como respuesta a ese otro,
-    que es lo que permite enlazar el desenlace con la apuesta original."""
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        return None
-    try:
-        cuerpo = {
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": text,
-            "disable_web_page_preview": True,
-        }
-        if responder_a:
-            cuerpo["reply_to_message_id"] = responder_a
-            # si el mensaje original ya no existe, que igual se envíe suelto
-            cuerpo["allow_sending_without_reply"] = True
-        r = requests.post(
-            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
-            json=cuerpo,
-            timeout=10,
-        )
-        if r.status_code != 200:
-            print(f"[telegram] ⚠️ respuesta {r.status_code}: {r.text[:300]}", file=sys.stderr)
-        else:
-            try:
-                return r.json().get("result", {}).get("message_id")
-            except Exception:
-                return None
-    except Exception as e:
-        print(f"Error mandando a Telegram: {e}", file=sys.stderr)
-    return None
 
 
 def dias_hasta_resolver(slug):
