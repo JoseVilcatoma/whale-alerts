@@ -7503,8 +7503,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 56246.165167,
-    "whale_pct": 65.74,
+    "whale_usd": 61528.215167,
+    "whale_pct": 71.913,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7514,8 +7514,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786909055.4624581,
-    "fills": 14
+    "last_fill_at": 1786910274.4866264,
+    "fills": 15
   },
   {
     "timestamp": 1786903022,
