@@ -7242,8 +7242,8 @@
     "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2118.7599999999998,
-    "whale_pct": 9.312,
+    "whale_usd": 2739.0706999999998,
+    "whale_pct": 12.039,
     "whale_value_at_open": 22752.3173,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -7253,8 +7253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786900030.1733592,
-    "fills": 2
+    "last_fill_at": 1786900987.7234125,
+    "fills": 3
   },
   {
     "timestamp": 1786899937,
@@ -7346,6 +7346,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786900750.6162894,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786900987,
+    "timestamp_added": 1786900987.1773612,
+    "username": "ChonkyChocolateCake",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-g2-fnc-2026-08-16-game1",
+    "title": "LoL: G2 Esports vs Fnatic - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 2838.6328,
+    "whale_pct": 14.699,
+    "whale_value_at_open": 19312.3958,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 63,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SineNooneEI"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786900987.177368,
     "fills": 1
   }
 ]

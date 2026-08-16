@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:22:20 (hora de Perú)
+Actualizado: 2026-08-16 12:24:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $813.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:22:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $553.65)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $543.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 111111111115 | 11 | 9 | 2 | -3.43 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
+| g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
 | midwicket72 | 1 | 2 | 3 | -18.10 USD |
@@ -112,16 +112,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
+| lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, SineNooneEI |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 14.7% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ⏳ pendiente | — |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 7.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 9.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 12.0% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |
 | IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 51.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 128.3% | ⏳ pendiente | — |
@@ -146,4 +148,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ✅ ganada | +0.20 |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ✅ ganada | +2.50 |
-| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ✅ ganada | +3.33 |
