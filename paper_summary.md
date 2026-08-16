@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:48:50 (hora de Perú)
+Actualizado: 2026-08-16 07:50:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $874.36
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:48:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $384.36)
+**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $354.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 10 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 0 | -1.87 USD |
+| SDTrading | 2 | 2 | 2 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -110,11 +110,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
+| mlb-stl-chc-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 3.0% | ⏳ pendiente | — |
+| HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 58% | 10.00 | 1.5% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 4.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -142,6 +146,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | DSC Arminia Bielefeld vs. FC Energie Cot | Over (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ADO Den Haag vs. FC Groningen: O/U 4.5 | Over (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ADO Den Haag vs. FC Groningen: O/U 3.5 | Over (BUY) | 85% | 10.00 | 0.6% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 99% | 10.00 | 31.0% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Over (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Hamburg: Jan Kumstat vs Marvin Moeller | Jan Kumstat (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
