@@ -6106,8 +6106,8 @@
     "title": "Counter-Strike: TheMongolz vs paiN - Map 1 Winner",
     "outcome": "paiN",
     "side": "BUY",
-    "whale_usd": 675.0,
-    "whale_pct": 0.272,
+    "whale_usd": 1305.9,
+    "whale_pct": 0.525,
     "whale_value_at_open": 248538.1529,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -6117,8 +6117,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786859371.1851377,
-    "fills": 1
+    "last_fill_at": 1786867571.5199943,
+    "fills": 2
   },
   {
     "timestamp": 1786859636,
@@ -6549,8 +6549,8 @@
     "title": "LoL: T1 vs Gen.G - Game 1 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 8226.893999999998,
-    "whale_pct": 6.695,
+    "whale_usd": 19799.222715,
+    "whale_pct": 16.114,
     "whale_value_at_open": 122872.0097,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -6560,8 +6560,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786867472.2159674,
-    "fills": 1
+    "last_fill_at": 1786867632.6653674,
+    "fills": 3
   },
   {
     "timestamp": 1786867539,
