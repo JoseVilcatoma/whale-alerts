@@ -1,5 +1,5 @@
 {
-  "bankroll": 844.1022637240947,
+  "bankroll": 827.435597057428,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1435,6 +1435,21 @@
       "timestamp": 1786894264.99422,
       "bankroll": 844.1,
       "event": "won: RN1 \u2014 DSC Arminia Bielefeld vs. FC Energie Cottbus: O/U 2.5"
+    },
+    {
+      "timestamp": 1786895389.2320492,
+      "bankroll": 834.1,
+      "event": "lost: 111111111115 \u2014 LoL: Kiwoom DRX vs HANJIN BRION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786895389.431159,
+      "bankroll": 837.44,
+      "event": "won: 111111111115 \u2014 LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786895390.8677628,
+      "bankroll": 827.44,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
     }
   ]
 }
