@@ -6642,8 +6642,8 @@
     "title": "LoL: Kiwoom DRX vs HANJIN BRION - Game 2 Winner",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 54885.702300000004,
-    "whale_pct": 10.178,
+    "whale_usd": 70779.31090000001,
+    "whale_pct": 13.125,
     "whale_value_at_open": 539267.4617,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -6653,8 +6653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786880865.1330037,
-    "fills": 5
+    "last_fill_at": 1786880957.939876,
+    "fills": 6
   },
   {
     "timestamp": 1786880713,
