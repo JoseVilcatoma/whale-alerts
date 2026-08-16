@@ -5387,8 +5387,8 @@
     "title": "Texas Rangers vs. Athletics",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 1989.0,
-    "whale_pct": 18.041,
+    "whale_usd": 26580.4461,
+    "whale_pct": 241.097,
     "whale_value_at_open": 11024.7921,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 39,
@@ -5397,7 +5397,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786844161.1743155,
-    "fills": 1
+    "last_fill_at": 1786844383.258057,
+    "fills": 6
   }
 ]
