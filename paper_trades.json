@@ -6609,5 +6609,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786880475.1164389,
     "fills": 1
+  },
+  {
+    "timestamp": 1786880645,
+    "timestamp_added": 1786880646.0935369,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bl2-h96-wob-2026-08-16-h96",
+    "title": "Will Hannover 96 win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 617.32,
+    "whale_pct": 0.583,
+    "whale_value_at_open": 105862.7071,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786880646.0935447,
+    "fills": 1
   }
 ]
