@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:28:49 (hora de Perú)
+Actualizado: 2026-08-15 23:30:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $957.38
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 5 | 4 | 7 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
-| HomeRunHazard | 1 | 0 | 6 | +1.49 USD |
+| HomeRunHazard | 1 | 0 | 7 | +1.49 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -107,17 +107,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 40% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Atlas FC vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 75% | 10.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Atlas FC vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 75% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: MOUZ vs PARIVISION (BO3) | PARIVISION (BUY) | 35% | 10.00 | 10.3% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 77% | 10.00 | 0.5% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 77% | 10.00 | 2.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Astralis vs NIP - Map 1  | Astralis (BUY) | 47% | 10.00 | 6.4% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 35.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 69% | 10.00 | 1.8% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: VIT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 29% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 3.7% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 6.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -136,4 +137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ✅ ganada | +0.20 |
 | Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 103.1% | ✅ ganada | +28.46 |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ✅ ganada | +6.95 |
-| 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ✅ ganada | +9.61 |
