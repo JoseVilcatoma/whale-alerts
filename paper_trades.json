@@ -7196,8 +7196,8 @@
     "title": "Counter-Strike: Astralis vs NIP - Map 2 Winner",
     "outcome": "NIP",
     "side": "BUY",
-    "whale_usd": 5423.341,
-    "whale_pct": 43.87,
+    "whale_usd": 6360.4278,
+    "whale_pct": 51.451,
     "whale_value_at_open": 12362.1626,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -7207,8 +7207,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786899454.8120756,
-    "fills": 4
+    "last_fill_at": 1786899944.8620734,
+    "fills": 5
   },
   {
     "timestamp": 1786899541,
@@ -7255,5 +7255,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786899732.0095904,
     "fills": 1
+  },
+  {
+    "timestamp": 1786899937,
+    "timestamp_added": 1786899937.626657,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-mia-cin-2026-08-16-total-8pt5",
+    "title": "Miami Marlins vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3490.08,
+    "whale_pct": 14.997,
+    "whale_value_at_open": 23272.0222,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786899950.8222287,
+    "fills": 2
   }
 ]
