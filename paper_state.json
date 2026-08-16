@@ -1,5 +1,5 @@
 {
-  "bankroll": 901.6737464395738,
+  "bankroll": 895.1872599530874,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1280,6 +1280,16 @@
       "timestamp": 1786869385.6059217,
       "bankroll": 901.67,
       "event": "lost: 111111111115 \u2014 Dota 2: Team Spirit vs Team Resilience - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786870079.7435071,
+      "bankroll": 891.67,
+      "event": "lost: Lakersfan111 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786870081.641906,
+      "bankroll": 895.19,
+      "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
     }
   ]
 }
