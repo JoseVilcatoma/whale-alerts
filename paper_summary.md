@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:29:08 (hora de Perú)
+Actualizado: 2026-08-15 21:31:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $962.71
@@ -113,8 +113,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.4% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 2.5% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 3.3% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 4.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 27.4% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 346.2% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 8.0% | ⏳ pendiente | — |
