@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:29:47 (hora de Perú)
+Actualizado: 2026-08-16 08:31:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **282**  ($14,469,142 en total)
+- Apuestas registradas: **284**  ($15,011,294 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 93
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 2 | 66% | $2,444,242 | +$258,390 |
+| sainttroplay | 1 | 0 | 3 | ⚠️ 100% (1) | $1,467,597 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
-| sainttroplay | 1 | 0 | 2 | ⚠️ 100% (1) | $954,145 | +$370,247 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | SDTrading | 0 | 3 | 1 | ⚠️ 0% (3) | $110,062 | -$81,210 |
+| TAIWANNUMBERONE | 3 | 0 | 1 | ⚠️ 100% (3) | $109,036 | +$29,377 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | 007theone1 | 3 | 0 | 0 | ⚠️ 100% (3) | $103,679 | +$29,017 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
@@ -60,7 +61,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
-| TAIWANNUMBERONE | 3 | 0 | 0 | ⚠️ 100% (3) | $80,336 | +$29,377 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,796 | +$14,400 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $28,700 | — | ⏳ Pendiente |
+| sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $513,453 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $191,316 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $304,548 | — | ⏳ Pendiente |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $422,671 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | -$30,000 | ❌ Perdida |
 | surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | -$35,892 | ❌ Perdida |
 | Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |
-| Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | -$500 | 💰 Vendida antes |
-| beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | +$34,492 | ✅ Ganada |
