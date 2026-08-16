@@ -5613,8 +5613,8 @@
     "title": "Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner",
     "outcome": "Vici Gaming",
     "side": "BUY",
-    "whale_usd": 28346.963806,
-    "whale_pct": 246.975,
+    "whale_usd": 29758.728511,
+    "whale_pct": 259.275,
     "whale_value_at_open": 11477.6787,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 30,
@@ -5625,8 +5625,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846702.0887954,
-    "fills": 11
+    "last_fill_at": 1786846753.3455322,
+    "fills": 12
   },
   {
     "timestamp": 1786846437,
@@ -5692,6 +5692,28 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786846444.629382,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786846721,
+    "timestamp_added": 1786846722.2547407,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-nyy-tor-2026-08-16-total-7pt5",
+    "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2731.8708000000006,
+    "whale_pct": 3.364,
+    "whale_value_at_open": 81205.662,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786846722.2547517,
     "fills": 1
   }
 ]
