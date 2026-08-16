@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:17:31 (hora de Perú)
+Actualizado: 2026-08-16 07:19:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $874.36
@@ -120,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 4.8% | ⏳ pendiente | — |
-| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
