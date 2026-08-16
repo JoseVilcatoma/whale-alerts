@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:06:55 (hora de Perú)
+Actualizado: 2026-08-15 21:08:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **238**  ($11,180,877 en total)
+- Apuestas registradas: **240**  ($11,435,676 en total)
 - Resueltas: **215** — 115 ganadas / 100 perdidas (**53%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 80
 
 ### Balance
@@ -36,7 +36,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | pleaseplease123 | 3 | 2 | 1 | ⚠️ 60% (5) | $246,152 | -$37,838 |
 | wr0ngw4yb3tt0r | 4 | 1 | 0 | ⚠️ 80% (5) | $237,095 | +$72,530 |
+| rabbitfoot1 | 1 | 1 | 1 | ⚠️ 50% (2) | $233,606 | -$74,307 |
 | sainttroplay | 0 | 0 | 1 | — | $226,926 | — |
+| BreakTheBank | 0 | 0 | 3 | — | $218,456 | — |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 111111111115 | 2 | 2 | 0 | ⚠️ 50% (4) | $210,711 | -$8,442 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -47,14 +49,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
-| rabbitfoot1 | 1 | 1 | 0 | ⚠️ 50% (2) | $115,608 | -$74,307 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
-| BreakTheBank | 0 | 0 | 2 | — | $81,656 | — |
 | SDTrading | 0 | 3 | 0 | ⚠️ 0% (3) | $81,210 | -$81,210 |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | — | ⏳ Pendiente |
+| rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.18 (85¢) | $89,526 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $39,195 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Jelena Ostapenko vs Magdalena Frech | Magdalena Frech | 1.79 (56¢) | $40,000 | +$15,714 | 💰 Vendida antes |
 | Feromont | New York Yankees vs. Toronto Blue Jays | New York Yankees | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
 | nogame1 | St. Louis Cardinals vs. Chicago Cubs | St. Louis Cardinals | 1.59 (63¢) | $50,400 | +$29,600 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | +$5,671 | ✅ Ganada |
