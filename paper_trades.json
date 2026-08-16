@@ -5799,8 +5799,8 @@
     "whale_value_at_open": 114331.1822,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.99,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7105,8 +7105,8 @@
     "title": "ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning",
     "outcome": "Philip Henning",
     "side": "BUY",
-    "whale_usd": 1636.54,
-    "whale_pct": 2.817,
+    "whale_usd": 2925.023333,
+    "whale_pct": 5.035,
     "whale_value_at_open": 58096.7326,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -7116,8 +7116,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786873077.4684143,
-    "fills": 1
+    "last_fill_at": 1786873867.0457046,
+    "fills": 2
   },
   {
     "timestamp": 1786873718,
