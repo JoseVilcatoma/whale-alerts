@@ -7422,5 +7422,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786877117.6434076,
     "fills": 2
+  },
+  {
+    "timestamp": 1786877663,
+    "timestamp_added": 1786877663.9651456,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-staehel-wessels-2026-08-16",
+    "title": "ITF M25 Muttenz Men: Luca Staeheli vs Louis Wessels",
+    "outcome": "Luca Staeheli",
+    "side": "BUY",
+    "whale_usd": 1264.66,
+    "whale_pct": 1.983,
+    "whale_value_at_open": 63779.4919,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786877663.9651556,
+    "fills": 1
   }
 ]
