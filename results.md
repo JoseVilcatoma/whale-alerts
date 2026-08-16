@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 15:55:11 (hora de Perú)
+Actualizado: 2026-08-16 15:57:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **339**  ($17,624,435 en total)
-- Resueltas: **322** — 190 ganadas / 132 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Resueltas: **323** — 191 ganadas / 132 perdidas (**59%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 107
 
 ### Balance
 
-- **Resultado de los apostadores: +$906,236** sobre $16,994,431 apostados (ROI **+5.3%**)
-- Copiando $100 fijo en cada una: **-$1,494** sobre $31,400 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$971,105** sobre $17,056,756 apostados (ROI **+5.7%**)
+- Copiando $100 fijo en cada una: **-$1,390** sobre $31,500 (ROI **-4.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| pleaseplease123 | 4 | 2 | 1 | ⚠️ 67% (6) | $308,477 | +$78 |
+| pleaseplease123 | 5 | 2 | 0 | ⚠️ 71% (7) | $308,477 | +$64,948 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 107 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Ugo Humbert vs Michael Zheng | Michael Zheng | 1.19 (84¢) | $25,427 | +$4,843 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
 | HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
-| pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | +$64,869 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
 | ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
