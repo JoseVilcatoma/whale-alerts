@@ -3138,7 +3138,7 @@
     "side": "BUY",
     "usd": 34604.49,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786830448,
     "fills": 1
   },
@@ -3515,7 +3515,7 @@
     "side": "BUY",
     "usd": 33888.5439,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786844383,
     "fills": 1
   },
@@ -3878,5 +3878,20 @@
     "status": "pending",
     "ultimo_fill": 1786855064,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 540,
+    "timestamp": 1786855412,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-aur1-boombo-2026-08-15-game2",
+    "title": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "usd": 55318.312900000004,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1786855439,
+    "fills": 2
   }
 ]
