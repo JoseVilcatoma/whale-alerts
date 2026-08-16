@@ -5365,8 +5365,8 @@
     "title": "Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 5297.35,
-    "whale_pct": 78.229,
+    "whale_usd": 7897.35,
+    "whale_pct": 116.624,
     "whale_value_at_open": 6771.6108,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -5375,8 +5375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786844043.9102793,
-    "fills": 1
+    "last_fill_at": 1786844685.8346293,
+    "fills": 2
   },
   {
     "timestamp": 1786844160,
@@ -5399,5 +5399,51 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786844383.258057,
     "fills": 6
+  },
+  {
+    "timestamp": 1786844671,
+    "timestamp_added": 1786844671.4504294,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-aur1-boombo-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: AUR (-1.5) vs BoomBoys (+1.5)",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 5823.5294109999995,
+    "whale_pct": 46.425,
+    "whale_value_at_open": 12543.9411,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786844671.450439,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786844671,
+    "timestamp_added": 1786844672.0107367,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-aur1-boombo-2026-08-15-game-handicap-away-1pt5",
+    "title": "Game Handicap: AUR (-1.5) vs BoomBoys (+1.5)",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 2999.9999989999997,
+    "whale_pct": 48.465,
+    "whale_value_at_open": 6190.0162,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786844672.010752,
+    "fills": 1
   }
 ]
