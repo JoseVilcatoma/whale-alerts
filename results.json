@@ -3968,5 +3968,20 @@
     "status": "pending",
     "ultimo_fill": 1786867269,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 552,
+    "timestamp": 1786867967,
+    "username": "lIlIlIllllIIIII",
+    "wallet": "0xcd66d7ff1d5ddbb5e57d9eac844403550256664f",
+    "slug": "dota2-lgd-ty-2026-08-16",
+    "title": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 26485.3927,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1786867967,
+    "fills": 1
   }
 ]
