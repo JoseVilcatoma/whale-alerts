@@ -6471,5 +6471,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786878900.3157885,
     "fills": 2
+  },
+  {
+    "timestamp": 1786879253,
+    "timestamp_added": 1786879254.2536583,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-chi-sea-2026-08-16-total-178pt5",
+    "title": "Chicago Sky vs. Seattle Storm: O/U 178.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 539.1793,
+    "whale_pct": 0.712,
+    "whale_value_at_open": 75724.9863,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786879254.2536664,
+    "fills": 1
   }
 ]
