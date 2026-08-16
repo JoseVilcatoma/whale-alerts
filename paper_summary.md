@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 03:35:30 (hora de Perú)
+Actualizado: 2026-08-16 03:37:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $911.67
-**Retorno acumulado:** -8.83%
-**Peor caída desde un máximo (drawdown):** 18.53%
+**Bankroll actual:** $901.67
+**Retorno acumulado:** -9.83%
+**Peor caída desde un máximo (drawdown):** 19.29%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $531.67)
+**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $531.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 8 | 3 | +44.66 USD |
-| 111111111115 | 9 | 4 | 9 | +39.73 USD |
+| 111111111115 | 9 | 5 | 8 | +29.73 USD |
 | Lakersfan111 | 6 | 5 | 10 | +11.63 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
@@ -42,12 +42,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 232
-- **Aciertos:** 121 (52.2%)
-- **Cuota promedio de entrada:** 52.9%
+- **Apuestas resueltas:** 233
+- **Aciertos:** 121 (51.9%)
+- **Cuota promedio de entrada:** 53.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,320.00
-- **ROI sobre lo apostado:** -5.54%
+- **Total apostado (suma de stakes):** $2,330.00
+- **ROI sobre lo apostado:** -5.95%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 39 | 23.1% | 32.5% | -9.4 pp |
 | 40-59% | 122 | 49.2% | 49.4% | -0.2 pp |
-| 60-79% | 51 | 68.6% | 67.9% | +0.7 pp |
+| 60-79% | 52 | 67.3% | 68.0% | -0.7 pp |
 | 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
 
@@ -144,6 +144,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ❌ perdida | -10.00 |
 | Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
