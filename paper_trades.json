@@ -5275,8 +5275,8 @@
     "title": "UFC 330: Chidi Njokuani vs. Joel \u00c1lvarez (Welterweight, Prelims)",
     "outcome": "Chidi Njokuani",
     "side": "BUY",
-    "whale_usd": 45240.3777,
-    "whale_pct": 101.654,
+    "whale_usd": 45874.437699999995,
+    "whale_pct": 103.079,
     "whale_value_at_open": 44504.2564,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 26,
@@ -5285,8 +5285,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786840599.2731059,
-    "fills": 11
+    "last_fill_at": 1786840661.3028767,
+    "fills": 12
   },
   {
     "timestamp": 1786837938,
