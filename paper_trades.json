@@ -5445,5 +5445,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786844672.010752,
     "fills": 1
+  },
+  {
+    "timestamp": 1786844833,
+    "timestamp_added": 1786844833.6265347,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-aur1-boombo-2026-08-15-game1",
+    "title": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
+    "outcome": "Aurora",
+    "side": "BUY",
+    "whale_usd": 1375.0,
+    "whale_pct": 6.338,
+    "whale_value_at_open": 21695.2066,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786844833.6265428,
+    "fills": 1
   }
 ]

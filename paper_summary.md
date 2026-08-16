@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 20:45:21 (hora de Perú)
+Actualizado: 2026-08-15 20:47:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $967.28
@@ -19,7 +19,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
 | 111111111115 | 8 | 3 | 2 | +40.12 USD |
 | Sassy-Bucket | 2 | 1 | 2 | +29.29 USD |
-| Lakersfan111 | 5 | 4 | 3 | +12.76 USD |
+| Lakersfan111 | 5 | 4 | 4 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -104,6 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 55% | 10.00 | 6.3% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Game Handicap: AUR (-1.5) vs BoomBoys (+ | Aurora (BUY) | 34% | 10.00 | 48.5% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: AUR (-1.5) vs BoomBoys (+ | BoomBoys (BUY) | 66% | 10.00 | 46.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 241.1% | ⏳ pendiente | — |
@@ -133,4 +134,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ❌ perdida | -10.00 |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ❌ perdida | -10.00 |
