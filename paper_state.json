@@ -1,5 +1,5 @@
 {
-  "bankroll": 957.2794267492368,
+  "bankroll": 947.2794267492368,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1055,6 +1055,11 @@
       "timestamp": 1786845402.557589,
       "bankroll": 957.28,
       "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1786845590.5977805,
+      "bankroll": 947.28,
+      "event": "lost: Sassy-Bucket \u2014 UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)"
     }
   ]
 }
