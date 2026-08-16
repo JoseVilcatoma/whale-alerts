@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:05:08 (hora de Perú)
+Actualizado: 2026-08-16 12:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **321**  ($16,967,665 en total)
+- Apuestas registradas: **322**  ($16,992,665 en total)
 - Resueltas: **274** — 156 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 104
 
 ### Balance
@@ -49,13 +49,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 0 | 0 | 2 | — | $153,500 | — |
 | Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
+| SDTrading | 0 | 3 | 2 | ⚠️ 0% (3) | $135,062 | -$81,210 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | dsasdaas | 0 | 0 | 1 | — | $123,402 | — |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | swisstony | 0 | 0 | 2 | — | $120,372 | — |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
-| SDTrading | 0 | 3 | 1 | ⚠️ 0% (3) | $110,062 | -$81,210 |
 | TAIWANNUMBERONE | 3 | 0 | 1 | ⚠️ 100% (3) | $109,036 | +$29,377 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.82 (55¢) | $47,874 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | — | ⏳ Pendiente |
 | cryptojo | Cincinnati Open: Janice Tjen vs Viktorija Golubic | Janice Tjen | 1.12 (89¢) | $25,712 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | +$10,818 | ✅ Ganada |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | +$20,227 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | +$39,623 | ✅ Ganada |
-| casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | +$15,209 | ✅ Ganada |
