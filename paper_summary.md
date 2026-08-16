@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:02:48 (hora de Perú)
+Actualizado: 2026-08-16 07:04:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $879.11
-**Retorno acumulado:** -12.09%
+**Bankroll actual:** $879.21
+**Retorno acumulado:** -12.08%
 **Peor caída desde un máximo (drawdown):** 21.70%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:02:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $499.11)
+**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $499.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,17 +37,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 10 | 10 | 17 | -51.67 USD |
+| RN1 | 11 | 10 | 17 | -51.57 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 239
-- **Aciertos:** 124 (51.9%)
-- **Cuota promedio de entrada:** 53.3%
+- **Apuestas resueltas:** 240
+- **Aciertos:** 125 (52.1%)
+- **Cuota promedio de entrada:** 53.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,390.00
-- **ROI sobre lo apostado:** -6.74%
+- **Total apostado (suma de stakes):** $2,400.00
+- **ROI sobre lo apostado:** -6.71%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 123 | 48.8% | 49.4% | -0.6 pp |
 | 60-79% | 55 | 67.3% | 68.2% | -0.9 pp |
 | 80-94% | 15 | 100.0% | 85.5% | +14.5 pp |
-| 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
+| 95-99% (casi seguro) | 4 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -114,6 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 4.8% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -131,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Over (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Hamburg: Jan Kumstat vs Marvin Moeller | Jan Kumstat (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-16? | No (BUY) | 58% | 10.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Peter Makk vs Roan Jones | Peter Makk (BUY) | 99% | 10.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Roehampton: Peter Makk vs Roan Jones | Peter Makk (BUY) | 99% | 10.00 | 2.3% | ✅ ganada | +0.10 |
 | RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Rhys Lawlor (BUY) | 48% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: LGD Gaming vs Team Yandex (BO3)  | LGD Gaming (BUY) | 47% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -143,4 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ✅ ganada | +3.51 |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ❌ perdida | -10.00 |
-| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
