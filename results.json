@@ -3923,5 +3923,20 @@
     "status": "pending",
     "ultimo_fill": 1786863724,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 549,
+    "timestamp": 1786867169,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-nova-tec-2026-08-16",
+    "title": "Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs",
+    "outcome": "Nova Esports",
+    "side": "BUY",
+    "usd": 25897.019399999997,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1786867169,
+    "fills": 1
   }
 ]
