@@ -7962,5 +7962,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786891834.2732856,
     "fills": 1
+  },
+  {
+    "timestamp": 1786891940,
+    "timestamp_added": 1786891940.9553547,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tex-oak-2026-08-16",
+    "title": "Texas Rangers vs. Athletics",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 20533.2435,
+    "whale_pct": 13.729,
+    "whale_value_at_open": 149563.1527,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786891940.955363,
+    "fills": 1
   }
 ]
