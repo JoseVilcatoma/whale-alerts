@@ -4405,5 +4405,50 @@
     "status": "pending",
     "ultimo_fill": 1786888377,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 590,
+    "timestamp": 1786888672,
+    "username": "sainttroplay",
+    "wallet": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+    "slug": "ecs-ars-mci-2026-08-16-ars",
+    "title": "Will Arsenal FC win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 58447.5145,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1786888672,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 591,
+    "timestamp": 1786888672,
+    "username": "lIlIlIllllIIIII",
+    "wallet": "0xcd66d7ff1d5ddbb5e57d9eac844403550256664f",
+    "slug": "cs2-mouz-prv-2026-08-16-game2",
+    "title": "Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 29290.246999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1786888672,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 592,
+    "timestamp": 1786888684,
+    "username": "sainttroplay",
+    "wallet": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+    "slug": "ecs-ars-mci-2026-08-16-total-2pt5",
+    "title": "Arsenal FC vs. Manchester City: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 105902.7912,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1786888684,
+    "fills": 1
   }
 ]
