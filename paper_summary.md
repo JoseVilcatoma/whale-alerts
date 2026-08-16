@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:27:04 (hora de Perú)
+Actualizado: 2026-08-16 10:29:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $851.13
-**Retorno acumulado:** -14.89%
-**Peor caída desde un máximo (drawdown):** 24.02%
+**Bankroll actual:** $848.48
+**Retorno acumulado:** -15.15%
+**Peor caída desde un máximo (drawdown):** 24.06%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $141.13)
+**Capital comprometido ahora mismo:** $680.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $168.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,19 +36,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 9 | 9 | 4 | -16.53 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 4 | 4 | 1 | -28.56 USD |
+| IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
-| RN1 | 19 | 14 | 12 | -63.24 USD |
+| RN1 | 20 | 15 | 10 | -66.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 261
-- **Aciertos:** 138 (52.9%)
-- **Cuota promedio de entrada:** 54.4%
+- **Apuestas resueltas:** 264
+- **Aciertos:** 140 (53.0%)
+- **Cuota promedio de entrada:** 54.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,610.00
-- **ROI sobre lo apostado:** -7.25%
+- **Total apostado (suma de stakes):** $2,640.00
+- **ROI sobre lo apostado:** -7.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,10 +58,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
-| 40-59% | 132 | 47.0% | 49.5% | -2.5 pp |
+| 40-59% | 134 | 47.0% | 49.5% | -2.5 pp |
 | 60-79% | 60 | 70.0% | 68.1% | +1.9 pp |
 | 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
-| 95-99% (casi seguro) | 6 | 100.0% | 97.8% | +2.2 pp |
+| 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
