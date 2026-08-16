@@ -1,5 +1,5 @@
 {
-  "bankroll": 817.2903967529951,
+  "bankroll": 825.8089152715136,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1570,6 +1570,11 @@
       "timestamp": 1786914073.5567763,
       "bankroll": 817.29,
       "event": "lost: Sassy-Bucket \u2014 Miami Marlins vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1786914140.025475,
+      "bankroll": 825.81,
+      "event": "won: Sassy-Bucket \u2014 Colorado Rockies vs. San Francisco Giants: O/U 7.5"
     }
   ]
 }
