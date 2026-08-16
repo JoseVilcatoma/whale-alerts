@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:55:26 (hora de Perú)
+Actualizado: 2026-08-16 08:57:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $852.13
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:55:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $192.13)
+**Capital comprometido ahora mismo:** $670.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $182.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 22 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 23 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -122,6 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. Atlanta Dream | Indiana Fever (BUY) | 50% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 48% | 10.00 | 5.3% | ⏳ pendiente | — |
 | predictionlegend | CD Nacional vs. Estoril Praia: O/U 2.5 | Over (BUY) | 51% | 10.00 | 21.3% | ⏳ pendiente | — |
@@ -151,4 +152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 58% | 10.00 | 1.5% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 8.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 8.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
