@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 20:54:36 (hora de Perú)
+Actualizado: 2026-08-15 20:56:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **236**  ($11,056,197 en total)
+- Apuestas registradas: **237**  ($11,145,722 en total)
 - Resueltas: **213** — 114 ganadas / 99 perdidas (**54%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 79
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 11 | 1 | 68% | $2,174,461 | +$404,846 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 23 | 11 | 2 | 68% | $2,263,987 | +$404,846 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 3 | 45% | $1,025,333 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.18 (85¢) | $89,526 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $39,195 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.19 (84¢) | $99,936 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.64 (61¢) | $33,889 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 79 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Toronto Blue Jays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $54,000 | +$46,000 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: BIG vs Spirit (BO3) - Esports World Cup Group A | Spirit | 1.19 (84¢) | $29,774 | +$5,671 | ✅ Ganada |
 | Bulls94 | Washington Nationals vs. New York Mets: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 3edmond.dantes | Will Deportivo Alavés win on 2026-08-15? | Yes | 2.44 (41¢) | $32,508 | +$46,780 | ✅ Ganada |
