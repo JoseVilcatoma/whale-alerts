@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:25:44 (hora de Perú)
+Actualizado: 2026-08-16 08:27:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **279**  ($13,501,644 en total)
+- Apuestas registradas: **281**  ($14,128,483 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 93
 
 ### Balance
@@ -26,12 +26,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 2 | 66% | $2,444,242 | +$258,390 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
+| sainttroplay | 1 | 0 | 2 | ⚠️ 100% (1) | $804,802 | +$370,247 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
+| wr0ngw4yb3tt0r | 4 | 1 | 1 | ⚠️ 80% (5) | $418,080 | +$72,530 |
 | 111111111115 | 4 | 2 | 2 | ⚠️ 67% (6) | $384,218 | +$68,161 |
-| wr0ngw4yb3tt0r | 4 | 1 | 1 | ⚠️ 80% (5) | $369,117 | +$72,530 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
@@ -39,7 +40,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | pleaseplease123 | 4 | 2 | 0 | ⚠️ 67% (6) | $246,152 | +$78 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| sainttroplay | 1 | 0 | 0 | ⚠️ 100% (1) | $226,926 | +$370,247 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 1 | ⚠️ 75% (4) | $215,197 | +$9,899 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $132,022 | — | ⏳ Pendiente |
+| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $304,548 | — | ⏳ Pendiente |
+| sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $273,328 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.04 (49¢) | $180,985 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.49 (67¢) | $73,263 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.54 (65¢) | $123,402 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $61,282 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 | Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | -$500 | 💰 Vendida antes |
 | beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | +$34,492 | ✅ Ganada |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | -$66,527 | ❌ Perdida |
-| beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
-| beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | -$56,489 | ❌ Perdida |
