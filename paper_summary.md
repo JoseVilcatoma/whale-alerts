@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 18:45:23 (hora de Perú)
+Actualizado: 2026-08-16 18:47:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $788.87
-**Retorno acumulado:** -21.11%
-**Peor caída desde un máximo (drawdown):** 29.96%
+**Bankroll actual:** $778.87
+**Retorno acumulado:** -22.11%
+**Peor caída desde un máximo (drawdown):** 30.28%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $708.87)
+**Capital comprometido ahora mismo:** $70.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $708.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,11 +26,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
-| HomeRunHazard | 9 | 4 | 3 | +5.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Sassy-Bucket | 4 | 6 | 1 | +0.12 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
+| HomeRunHazard | 9 | 5 | 2 | -4.33 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 305
-- **Aciertos:** 159 (52.1%)
+- **Apuestas resueltas:** 306
+- **Aciertos:** 159 (52.0%)
 - **Cuota promedio de entrada:** 54.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,050.00
-- **ROI sobre lo apostado:** -8.57%
+- **Total apostado (suma de stakes):** $3,060.00
+- **ROI sobre lo apostado:** -8.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 159 | 47.2% | 49.6% | -2.4 pp |
+| 40-59% | 160 | 46.9% | 49.6% | -2.7 pp |
 | 60-79% | 75 | 65.3% | 68.3% | -3.0 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -121,7 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 19.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 34.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ⏳ pendiente | — |
