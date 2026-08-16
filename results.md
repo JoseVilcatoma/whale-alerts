@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 11:04:35 (hora de Perú)
+Actualizado: 2026-08-16 11:06:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **314**  ($16,619,479 en total)
-- Resueltas: **272** — 155 ganadas / 117 perdidas (**57%** de acierto)
-- Pendientes: 42
+- Resueltas: **273** — 155 ganadas / 118 perdidas (**57%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 103
 
 ### Balance
 
-- **Resultado de los apostadores: -$554,087** sobre $13,006,316 apostados (ROI **-4.3%**)
-- Copiando $100 fijo en cada una: **-$2,290** sobre $26,600 (ROI **-8.6%**)
+- **Resultado de los apostadores: -$582,529** sobre $13,034,758 apostados (ROI **-4.5%**)
+- Copiando $100 fijo en cada una: **-$2,390** sobre $26,700 (ROI **-8.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 103 en total)_
 | greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | +$29,476 | ✅ Ganada |
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | -$25,748 | ❌ Perdida |
-| us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
+| us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | -$28,442 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | +$8,073 | ✅ Ganada |
 | bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | +$10,818 | ✅ Ganada |
