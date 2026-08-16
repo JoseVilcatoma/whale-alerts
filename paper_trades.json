@@ -5590,8 +5590,8 @@
     "whale_value_at_open": 76894.5366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6503,8 +6503,8 @@
     "title": "LoL: LGD Gaming vs JD Gaming - Game 2 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 2329.660654,
-    "whale_pct": 30.811,
+    "whale_usd": 3098.046454,
+    "whale_pct": 40.973,
     "whale_value_at_open": 7561.207,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -6514,7 +6514,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786866985.738609,
-    "fills": 1
+    "last_fill_at": 1786867255.433194,
+    "fills": 2
   }
 ]

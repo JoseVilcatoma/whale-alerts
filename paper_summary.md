@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 02:59:43 (hora de Perú)
+Actualizado: 2026-08-16 03:01:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $930.12
-**Retorno acumulado:** -6.99%
-**Peor caída desde un máximo (drawdown):** 17.47%
+**Bankroll actual:** $920.12
+**Retorno acumulado:** -7.99%
+**Peor caída desde un máximo (drawdown):** 17.64%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $610.12)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $610.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,18 +36,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 9 | 9 | 5 | -42.54 USD |
 | wr0ngw4yb3tt0r | 10 | 14 | 2 | -44.24 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
+| RN1 | 9 | 10 | 4 | -52.54 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 230
-- **Aciertos:** 121 (52.6%)
-- **Cuota promedio de entrada:** 52.8%
+- **Apuestas resueltas:** 231
+- **Aciertos:** 121 (52.4%)
+- **Cuota promedio de entrada:** 52.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,300.00
-- **ROI sobre lo apostado:** -4.72%
+- **Total apostado (suma de stakes):** $2,310.00
+- **ROI sobre lo apostado:** -5.13%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 39 | 23.1% | 32.5% | -9.4 pp |
 | 40-59% | 121 | 49.6% | 49.4% | +0.2 pp |
-| 60-79% | 50 | 70.0% | 67.7% | +2.3 pp |
+| 60-79% | 51 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 30.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 41.0% | ⏳ pendiente | — |
 | RN1 | Prague: Marek Gengel vs Svyatoslav Gulin | Svyatoslav Gulin (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Thasaporn Naklo (BUY) | 83% | 10.00 | 2.7% | ⏳ pendiente | — |
