@@ -1,5 +1,5 @@
 {
-  "bankroll": 920.1220223016428,
+  "bankroll": 910.1220223016428,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1265,6 +1265,11 @@
       "timestamp": 1786867238.8548312,
       "bankroll": 920.12,
       "event": "lost: RN1 \u2014 Will Atlas FC win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786867865.6319854,
+      "bankroll": 910.12,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: BUF (-3.5)"
     }
   ]
 }
