@@ -7572,8 +7572,8 @@
     "title": "LoL: G2 Esports vs Fnatic - Game 2 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 8148.535199999999,
-    "whale_pct": 19.675,
+    "whale_usd": 17508.5352,
+    "whale_pct": 42.275,
     "whale_value_at_open": 41415.8631,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -7585,7 +7585,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786903906.34088,
-    "fills": 1
+    "last_fill_at": 1786903916.7588093,
+    "fills": 2
   }
 ]
