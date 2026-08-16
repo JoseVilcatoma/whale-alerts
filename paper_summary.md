@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 14:39:42 (hora de Perú)
+Actualizado: 2026-08-16 14:41:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $845.56
-**Retorno acumulado:** -15.44%
+**Bankroll actual:** $846.43
+**Retorno acumulado:** -15.36%
 **Peor caída desde un máximo (drawdown):** 27.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 14:39:42 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $485.56)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $496.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 111111111115 | 11 | 10 | 1 | -13.43 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
-| midwicket72 | 1 | 2 | 4 | -18.10 USD |
+| midwicket72 | 2 | 2 | 3 | -17.23 USD |
 | IMAREALPERSON | 5 | 4 | 4 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 280
-- **Aciertos:** 148 (52.9%)
-- **Cuota promedio de entrada:** 54.6%
+- **Apuestas resueltas:** 281
+- **Aciertos:** 149 (53.0%)
+- **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,800.00
-- **ROI sobre lo apostado:** -7.31%
+- **Total apostado (suma de stakes):** $2,810.00
+- **ROI sobre lo apostado:** -7.26%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,7 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 143 | 47.6% | 49.6% | -2.1 pp |
 | 60-79% | 67 | 68.7% | 68.2% | +0.4 pp |
-| 80-94% | 18 | 100.0% | 84.9% | +15.1 pp |
+| 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ✅ ganada | +0.87 |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 18.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ⏳ pendiente | — |
