@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 22:59:48 (hora de Perú)
+Actualizado: 2026-08-15 23:01:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **257**  ($12,376,365 en total)
-- Resueltas: **238** — 126 ganadas / 112 perdidas (**53%** de acierto)
-- Pendientes: 19
+- Resueltas: **239** — 126 ganadas / 113 perdidas (**53%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 84
 
 ### Balance
 
-- **Resultado de los apostadores: -$876,287** sobre $11,321,659 apostados (ROI **-7.7%**)
-- Copiando $100 fijo en cada una: **-$2,987** sobre $23,300 (ROI **-12.8%**)
+- **Resultado de los apostadores: -$924,990** sobre $11,370,362 apostados (ROI **-8.1%**)
+- Copiando $100 fijo en cada una: **-$3,087** sobre $23,400 (ROI **-13.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
-| suntori | 1 | 0 | 2 | ⚠️ 100% (1) | $105,133 | +$19,051 |
+| suntori | 1 | 1 | 1 | ⚠️ 50% (2) | $105,133 | -$29,651 |
 | 007theone1 | 3 | 0 | 0 | ⚠️ 100% (3) | $103,679 | +$29,017 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 84 en total)_
 | User1244322 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.10 (91¢) | $46,746 | +$4,623 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.12 (89¢) | $27,377 | +$3,384 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Lois Boisson vs Belinda Bencic | Lois Boisson | 1.49 (67¢) | $50,818 | +$25,030 | ✅ Ganada |
-| suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | — | ⏳ Pendiente |
+| suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | -$48,702 | ❌ Perdida |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $91,469 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $179,572 | -$179,572 | ❌ Perdida |
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
