@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:41:44 (hora de Perú)
+Actualizado: 2026-08-16 17:43:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $795.40
-**Retorno acumulado:** -20.46%
-**Peor caída desde un máximo (drawdown):** 29.62%
+**Bankroll actual:** $775.40
+**Retorno acumulado:** -22.46%
+**Peor caída desde un máximo (drawdown):** 30.59%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $635.40)
+**Capital comprometido ahora mismo:** $140.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $635.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,13 +29,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| Sassy-Bucket | 4 | 6 | 7 | -1.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -7.78 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | IMAREALPERSON | 8 | 5 | 1 | -13.24 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
+| Sassy-Bucket | 4 | 8 | 5 | -21.36 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 1 | -37.06 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 306
-- **Aciertos:** 160 (52.3%)
-- **Cuota promedio de entrada:** 54.8%
+- **Apuestas resueltas:** 308
+- **Aciertos:** 160 (51.9%)
+- **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,060.00
-- **ROI sobre lo apostado:** -8.17%
+- **Total apostado (suma de stakes):** $3,080.00
+- **ROI sobre lo apostado:** -8.77%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 162 | 47.5% | 49.7% | -2.2 pp |
+| 40-59% | 164 | 47.0% | 49.7% | -2.8 pp |
 | 60-79% | 73 | 65.8% | 68.5% | -2.7 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -139,9 +139,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ❌ perdida | -10.00 |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 72% | 10.00 | 113.4% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 100.6% | 💰 vendida anticipada | +10.00 |
-| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 71.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 71.9% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ✅ ganada | +10.41 |
-| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 33.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 33.9% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ❌ perdida | -10.00 |
 | crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ✅ ganada | +9.61 |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ❌ perdida | -10.00 |
