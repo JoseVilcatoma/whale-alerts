@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 22:25:36 (hora de Perú)
+Actualizado: 2026-08-15 22:27:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $959.56
-**Retorno acumulado:** -4.04%
+**Bankroll actual:** $965.89
+**Retorno acumulado:** -3.41%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -16,7 +16,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 0 | +44.73 USD |
 | 111111111115 | 8 | 4 | 2 | +30.12 USD |
 | Sassy-Bucket | 2 | 2 | 1 | +19.29 USD |
 | Lakersfan111 | 5 | 4 | 3 | +12.76 USD |
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
-| g42gh6524h5h5 | 8 | 7 | 1 | -13.19 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 2 | -28.73 USD |
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 205
-- **Aciertos:** 106 (51.7%)
-- **Cuota promedio de entrada:** 51.9%
+- **Apuestas resueltas:** 207
+- **Aciertos:** 108 (52.2%)
+- **Cuota promedio de entrada:** 52.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,050.00
-- **ROI sobre lo apostado:** -3.94%
+- **Total apostado (suma de stakes):** $2,070.00
+- **ROI sobre lo apostado:** -3.59%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,9 +52,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
 | 40-59% | 113 | 49.6% | 49.5% | +0.1 pp |
-| 60-79% | 42 | 69.0% | 67.8% | +1.3 pp |
+| 60-79% | 43 | 69.8% | 67.6% | +2.1 pp |
 | 80-94% | 11 | 100.0% | 84.6% | +15.4 pp |
-| 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
+| 95-99% (casi seguro) | 2 | 100.0% | 99.0% | +1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -109,12 +109,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Vici Gaming (BUY) | 44% | 10.00 | 19.8% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ✅ ganada | +0.20 |
 | Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 103.1% | ✅ ganada | +28.46 |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ✅ ganada | +6.95 |
 | 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ✅ ganada | +9.61 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ✅ ganada | +6.13 |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ❌ perdida | -10.00 |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
 | 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
