@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:24:29 (hora de Perú)
+Actualizado: 2026-08-16 09:26:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $860.58
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 09:24:29 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $670.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $190.58)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $200.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 2 | +44.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 6 | 1 | +44.73 USD |
 | 111111111115 | 10 | 7 | 5 | +13.24 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -123,7 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | 💰 vendida anticipada | +0.00 |
 | HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates | Boston Red Sox (BUY) | 53% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Indiana Fever (BUY) | 50% | 10.00 | 1.1% | ⏳ pendiente | — |
