@@ -7301,5 +7301,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786900083.5792148,
     "fills": 2
+  },
+  {
+    "timestamp": 1786900328,
+    "timestamp_added": 1786900329.4337013,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-g2-fnc-2026-08-16-game1",
+    "title": "LoL: G2 Esports vs Fnatic - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 5289.7275,
+    "whale_pct": 9.457,
+    "whale_value_at_open": 55936.8475,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 76,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786900364.956776,
+    "fills": 2
   }
 ]
