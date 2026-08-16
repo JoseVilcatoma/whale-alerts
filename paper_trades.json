@@ -6604,8 +6604,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6984,8 +6984,8 @@
     "title": "LoL: T1 vs Gen.G - Game 2 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 1019.9949,
-    "whale_pct": 9.417,
+    "whale_usd": 3194.9949,
+    "whale_pct": 29.498,
     "whale_value_at_open": 10831.3014,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -6997,7 +6997,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786872067.3561964,
-    "fills": 1
+    "last_fill_at": 1786872292.423903,
+    "fills": 2
   }
 ]
