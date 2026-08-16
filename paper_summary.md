@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:30:27 (hora de Perú)
+Actualizado: 2026-08-16 05:32:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $896.29
-**Retorno acumulado:** -10.37%
+**Bankroll actual:** $894.18
+**Retorno acumulado:** -10.58%
 **Peor caída desde un máximo (drawdown):** 20.18%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 05:30:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $416.29)
+**Capital comprometido ahora mismo:** $470.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $424.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 5 | 4 | 2 | -22.66 USD |
+| IMAREALPERSON | 5 | 5 | 1 | -24.78 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | RN1 | 13 | 11 | 10 | -49.55 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
@@ -120,8 +120,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 73% | 10.00 | 4.2% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | ⏳ pendiente | — |
+| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
+| IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | 💰 vendida anticipada | -2.12 |
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ⏳ pendiente | — |
