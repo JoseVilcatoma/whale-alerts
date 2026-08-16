@@ -8,55 +8,55 @@
   "0x3413c803c3a6efc8d963afbce2dcee48d3738ff2": {
     "username": "Dota2winner",
     "added_at": 1786884790.7923932,
-    "roi_pct": 996.14,
+    "roi_pct": 996.19,
     "short_term_pct": 100.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "111111111115",
     "added_at": 1786889466.7384508,
-    "roi_pct": 593.31,
+    "roi_pct": 760.75,
     "short_term_pct": 100.0
   },
   "0xa4b7b1814b0da33f2b61be4939976898aa476008": {
     "username": "midwicket72",
     "added_at": 1786891353.7361505,
-    "roi_pct": 790.52,
+    "roi_pct": 802.24,
     "short_term_pct": 100.0
   },
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "ChonkyChocolateCake",
     "added_at": 1786891353.7361543,
-    "roi_pct": 1289.08,
-    "short_term_pct": 100.0
-  },
-  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
-    "username": "theowalcott",
-    "added_at": 1786891353.7361557,
-    "roi_pct": 502.63,
-    "short_term_pct": 100.0
-  },
-  "0x38337de21ff0bb0a11a40761507d51e318d633d1": {
-    "username": "SineNooneEI",
-    "added_at": 1786893221.7194812,
-    "roi_pct": 432.5,
+    "roi_pct": 1580.37,
     "short_term_pct": 100.0
   },
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
     "username": "IMAREALPERSON",
     "added_at": 1786894156.4457767,
-    "roi_pct": 832.19,
+    "roi_pct": 934.68,
     "short_term_pct": 100.0
   },
   "0xde3131239a358be036397ee2c152e256e6b3df79": {
     "username": "crisp1973",
     "added_at": 1786896028.2357635,
-    "roi_pct": 945.16,
+    "roi_pct": 1678.27,
     "short_term_pct": 100.0
   },
-  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
-    "username": "wr0ngw4yb3tt0r",
-    "added_at": 1786896963.4154737,
-    "roi_pct": 400.39,
+  "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87": {
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "added_at": 1786897899.0329354,
+    "roi_pct": 4150.87,
+    "short_term_pct": 100.0
+  },
+  "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748": {
+    "username": "3edmond.dantes",
+    "added_at": 1786897899.0329406,
+    "roi_pct": 1585.47,
+    "short_term_pct": 100.0
+  },
+  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
+    "username": "HVAB",
+    "added_at": 1786897899.0329533,
+    "roi_pct": 670.64,
     "short_term_pct": 100.0
   }
 }
