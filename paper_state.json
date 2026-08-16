@@ -1,5 +1,5 @@
 {
-  "bankroll": 967.8906049294227,
+  "bankroll": 957.8906049294227,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1185,6 +1185,11 @@
       "timestamp": 1786857826.8377626,
       "bankroll": 967.89,
       "event": "won: SDTrading \u2014 CAR vs. BUF: O/U 38.5"
+    },
+    {
+      "timestamp": 1786860013.406809,
+      "bankroll": 957.89,
+      "event": "lost: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Trinbago Knight Riders"
     }
   ]
 }
