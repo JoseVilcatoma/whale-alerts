@@ -1,5 +1,5 @@
 {
-  "bankroll": 981.5465268470904,
+  "bankroll": 971.5465268470904,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1115,6 +1115,11 @@
       "timestamp": 1786848789.5387254,
       "bankroll": 981.55,
       "event": "won: Sassy-Bucket \u2014 UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786849167.912954,
+      "bankroll": 971.55,
+      "event": "lost: 111111111115 \u2014 Valorant: Team Envy vs Sentinels (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
