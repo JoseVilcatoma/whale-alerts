@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:59:24 (hora de Perú)
+Actualizado: 2026-08-16 06:01:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $884.42
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 05:59:24 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $384.42)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $374.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| HomeRunHazard | 7 | 3 | 7 | -5.58 USD |
+| HomeRunHazard | 7 | 3 | 8 | -5.58 USD |
 | g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
@@ -116,11 +116,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-lgd-jdg-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-t1-gen-2026-08-16-game2 | IMAREALPERSON, g42gh6524h5h5 |
 | lol-drx-bro2-2026-08-16-game1 | IMAREALPERSON, SineNooneEI |
+| atp-cizek-gombos-2026-08-16 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Prague: Jiri Cizek vs Norbert Gombos | Norbert Gombos (BUY) | 97% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Sion: Michael Zhu vs Thiago Cigarran | Michael Zhu (BUY) | 58% | 10.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Luca Staeheli (BUY) | 75% | 10.00 | 2.0% | ⏳ pendiente | — |
 | SineNooneEI | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 52% | 10.00 | 9.4% | ⏳ pendiente | — |
@@ -150,4 +152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 61% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Matyas Kozlovsky vs Javier Barra | Javier Barranco Cosano (BUY) | 91% | 10.00 | 2.4% | ✅ ganada | +0.99 |
 | RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 67% | 10.00 | 11.1% | ❌ perdida | -10.00 |
-| RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Daria Kuczer (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
