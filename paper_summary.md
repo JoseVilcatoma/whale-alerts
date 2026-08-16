@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:47:54 (hora de Perú)
+Actualizado: 2026-08-16 10:50:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $844.10
-**Retorno acumulado:** -15.59%
-**Peor caída desde un máximo (drawdown):** 24.95%
+**Bankroll actual:** $827.44
+**Retorno acumulado:** -17.26%
+**Peor caída desde un máximo (drawdown):** 25.93%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $184.10)
+**Capital comprometido ahora mismo:** $640.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $187.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,12 +20,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 6 | 1 | +44.73 USD |
-| 111111111115 | 10 | 7 | 5 | +13.24 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 0 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
+| 111111111115 | 11 | 8 | 3 | +6.57 USD |
 | HomeRunHazard | 6 | 2 | 30 | +3.43 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 2 | +0.00 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 9 | 9 | 4 | -16.53 USD |
-| midwicket72 | 1 | 2 | 1 | -18.10 USD |
+| midwicket72 | 1 | 2 | 2 | -18.10 USD |
 | IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
@@ -43,12 +43,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 266
-- **Aciertos:** 141 (53.0%)
-- **Cuota promedio de entrada:** 54.6%
+- **Apuestas resueltas:** 269
+- **Aciertos:** 142 (52.8%)
+- **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,660.00
-- **ROI sobre lo apostado:** -7.38%
+- **Total apostado (suma de stakes):** $2,690.00
+- **ROI sobre lo apostado:** -7.91%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,8 +58,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
-| 40-59% | 134 | 47.0% | 49.5% | -2.5 pp |
-| 60-79% | 62 | 69.4% | 68.1% | +1.3 pp |
+| 40-59% | 136 | 46.3% | 49.6% | -3.3 pp |
+| 60-79% | 63 | 69.8% | 68.2% | +1.6 pp |
 | 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
@@ -125,6 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Nottinghamshire (BUY) | 59% | 10.00 | 36.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
@@ -154,4 +155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 10.00 | 11.9% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 56% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
-| SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
