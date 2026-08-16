@@ -1,5 +1,5 @@
 {
-  "bankroll": 854.2851592796726,
+  "bankroll": 844.2851592796726,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1515,6 +1515,11 @@
       "timestamp": 1786909552.6846802,
       "bankroll": 854.29,
       "event": "won: IMAREALPERSON \u2014 Counter-Strike: Astralis vs NIP - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786910495.4512787,
+      "bankroll": 844.29,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Arsenal FC vs. Manchester City: O/U 2.5"
     }
   ]
 }
