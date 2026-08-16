@@ -4949,5 +4949,20 @@
     "status": "pending",
     "ultimo_fill": 1786904144,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 656,
+    "timestamp": 1786904596,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "bra-cam-gre-2026-08-15-cam",
+    "title": "Will CA Mineiro win on 2026-08-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37050.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1786904596,
+    "fills": 1
   }
 ]
