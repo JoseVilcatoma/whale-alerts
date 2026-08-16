@@ -7824,5 +7824,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786912997.6041338,
     "fills": 3
+  },
+  {
+    "timestamp": 1786917203,
+    "timestamp_added": 1786917203.8915844,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-t1-dnf-2026-08-17",
+    "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 5678.222599999999,
+    "whale_pct": 97.774,
+    "whale_value_at_open": 5807.5256,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 63,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786917255.21607,
+    "fills": 3
   }
 ]
