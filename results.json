@@ -4058,5 +4058,20 @@
     "status": "pending",
     "ultimo_fill": 1786875581,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 561,
+    "timestamp": 1786877846,
+    "username": "greyoctober",
+    "wallet": "0xc65ca4755436f82d8eb461e65781584b8cadea39",
+    "slug": "cs2-vit-lvg-2026-08-16",
+    "title": "Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 92000.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1786877846,
+    "fills": 1
   }
 ]
