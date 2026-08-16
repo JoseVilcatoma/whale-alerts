@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:40:47 (hora de Perú)
+Actualizado: 2026-08-16 12:42:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $822.17
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:40:47 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $552.17)
+**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $542.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 3edmond.dantes | 0 | 0 | 1 | +0.00 USD |
 | SineNooneEI | 0 | 0 | 1 | +0.00 USD |
+| crisp1973 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 111111111115 | 11 | 9 | 2 | -3.43 USD |
@@ -118,6 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 10.7% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ⏳ pendiente | — |
@@ -147,4 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ❌ perdida | -10.00 |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ✅ ganada | +6.95 |
 | RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ✅ ganada | +0.20 |
-| HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |

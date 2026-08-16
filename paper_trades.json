@@ -7395,5 +7395,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786901273.9351966,
     "fills": 1
+  },
+  {
+    "timestamp": 1786902131,
+    "timestamp_added": 1786902132.0778825,
+    "username": "crisp1973",
+    "wallet": "0xde3131239a358be036397ee2c152e256e6b3df79",
+    "slug": "cze1-fsl-ssp-2026-08-16-ssp",
+    "title": "Will SK Slavia Praha win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 21380.9219,
+    "whale_pct": 366.927,
+    "whale_value_at_open": 5827.0233,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786902141.1067138,
+    "fills": 5
   }
 ]
