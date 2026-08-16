@@ -7225,8 +7225,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7905,8 +7905,8 @@
     "title": "Portland Fire vs. Phoenix Mercury: O/U 178.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 15433.037142000001,
-    "whale_pct": 9.323,
+    "whale_usd": 16918.594284000003,
+    "whale_pct": 10.22,
     "whale_value_at_open": 165537.3945,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7916,7 +7916,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786919342.9086115,
-    "fills": 2
+    "last_fill_at": 1786919587.0882592,
+    "fills": 4
   }
 ]

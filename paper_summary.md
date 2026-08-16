@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:31:32 (hora de Perú)
+Actualizado: 2026-08-16 17:33:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $805.40
-**Retorno acumulado:** -19.46%
+**Bankroll actual:** $795.40
+**Retorno acumulado:** -20.46%
 **Peor caída desde un máximo (drawdown):** 29.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 17:31:32 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $635.40)
+**Capital comprometido ahora mismo:** $160.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $635.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,8 +36,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | IMAREALPERSON | 8 | 5 | 1 | -13.24 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| midwicket72 | 3 | 3 | 1 | -16.82 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
+| midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 1 | -37.06 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | RN1 | 26 | 18 | 1 | -53.73 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 305
-- **Aciertos:** 160 (52.5%)
+- **Apuestas resueltas:** 306
+- **Aciertos:** 160 (52.3%)
 - **Cuota promedio de entrada:** 54.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,050.00
-- **ROI sobre lo apostado:** -7.87%
+- **Total apostado (suma de stakes):** $3,060.00
+- **ROI sobre lo apostado:** -8.17%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 161 | 47.8% | 49.8% | -2.0 pp |
+| 40-59% | 162 | 47.5% | 49.7% | -2.2 pp |
 | 60-79% | 73 | 65.8% | 68.5% | -2.7 pp |
 | 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -122,7 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 52% | 10.00 | 9.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 52% | 10.00 | 10.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Game Handicap: LY (-1.5) vs Sentinels (+ | LYON (BUY) | 55% | 10.00 | 13.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: LY (-1.5) vs Sentinels (+ | Sentinels (BUY) | 46% | 10.00 | 29.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 126.0% | ⏳ pendiente | — |
@@ -151,4 +151,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 18.1% | ✅ ganada | +10.41 |
 | Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ❌ perdida | -10.00 |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 12.0% | ✅ ganada | +10.83 |
-| midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |
+| midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ❌ perdida | -10.00 |
