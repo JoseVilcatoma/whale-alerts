@@ -7621,8 +7621,8 @@
     "title": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 3011.4937,
-    "whale_pct": 19.599,
+    "whale_usd": 3557.4937,
+    "whale_pct": 23.152,
     "whale_value_at_open": 15365.7567,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
@@ -7632,7 +7632,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786921060.496598,
-    "fills": 2
+    "last_fill_at": 1786921110.007037,
+    "fills": 3
   }
 ]
