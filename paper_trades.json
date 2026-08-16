@@ -5770,8 +5770,8 @@
     "title": "Counter-Strike: Astralis vs NIP - Map 1 Winner",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 6528.257699999999,
-    "whale_pct": 6.36,
+    "whale_usd": 13114.2784,
+    "whale_pct": 12.776,
     "whale_value_at_open": 102647.6277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -5782,8 +5782,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786853682.1706266,
-    "fills": 1
+    "last_fill_at": 1786895881.6808374,
+    "fills": 2
   },
   {
     "timestamp": 1786854000,
@@ -8173,5 +8173,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786895559.2999198,
     "fills": 3
+  },
+  {
+    "timestamp": 1786895802,
+    "timestamp_added": 1786895803.436835,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "lal-esp-lev-2026-08-16-total-2pt5",
+    "title": "RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 9117.464399999999,
+    "whale_pct": 20.856,
+    "whale_value_at_open": 43715.6886,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786895803.4368455,
+    "fills": 1
   }
 ]
