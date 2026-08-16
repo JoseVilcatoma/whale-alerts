@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 06:05:26 (hora de Perú)
+Actualizado: 2026-08-16 06:07:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $878.24
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 06:05:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $698.24)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $678.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,9 +35,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
-| IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
+| IMAREALPERSON | 4 | 3 | 1 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 4 | -52.54 USD |
+| RN1 | 9 | 10 | 5 | -52.54 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -108,16 +108,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 | cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
-| dota2-lgd-ty-2026-08-16 | Dota2winner, Lakersfan111 |
+| dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Dota2winner | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 51% | 10.00 | 3.1% | ⏳ pendiente | — |
+| RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: LGD Gaming vs Team Yandex (BO3)  | LGD Gaming (BUY) | 47% | 10.00 | 2.7% | ⏳ pendiente | — |
+| Dota2winner | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 51% | 10.00 | 23.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Louis Wessels (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will FC Groningen win on 2026-08-16? | Yes (BUY) | 97% | 10.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W35 Vigo Women: Sonja Zhiyenbayeva v | Sonja Zhiyenbayeva (BUY) | 92% | 10.00 | 7.1% | ⏳ pendiente | — |
+| RN1 | ITF W35 Vigo Women: Sonja Zhiyenbayeva v | Sonja Zhiyenbayeva (BUY) | 92% | 10.00 | 11.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ✅ ganada | +3.51 |
@@ -142,5 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 35.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 69% | 10.00 | 1.8% | ✅ ganada | +4.49 |
 | Lakersfan111 | Map Handicap: VIT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 29% | 10.00 | 4.3% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ✅ ganada | +1.24 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 10.4% | ❌ perdida | -10.00 |
