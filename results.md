@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:02:39 (hora de Perú)
+Actualizado: 2026-08-16 09:04:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **298**  ($15,723,589 en total)
+- Apuestas registradas: **299**  ($15,758,002 en total)
 - Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 98
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins | Joblife | 2.08 (48¢) | $34,413 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.16 (86¢) | $42,552 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $30,442 | -$30,442 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | +$12,857 | ✅ Ganada |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | -$136,800 | ❌ Perdida |
-| rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | +$108,921 | ✅ Ganada |
