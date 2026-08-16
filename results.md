@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:37:39 (hora de Perú)
+Actualizado: 2026-08-15 21:39:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **244**  ($11,635,786 en total)
-- Resueltas: **222** — 117 ganadas / 105 perdidas (**53%** de acierto)
-- Pendientes: 22
+- Resueltas: **224** — 118 ganadas / 106 perdidas (**53%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 80
 
 ### Balance
 
-- **Resultado de los apostadores: -$623,505** sobre $10,331,438 apostados (ROI **-6.0%**)
-- Copiando $100 fijo en cada una: **-$2,822** sobre $21,700 (ROI **-13.0%**)
+- **Resultado de los apostadores: -$619,013** sobre $10,392,026 apostados (ROI **-6.0%**)
+- Copiando $100 fijo en cada una: **-$2,809** sobre $21,900 (ROI **-12.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,12 +28,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 5 | 45% | $1,106,976 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| AV23IUa | 2 | 6 | 2 | 25% | $453,907 | -$131,530 |
+| AV23IUa | 2 | 7 | 1 | 22% | $453,907 | -$161,530 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | BreakTheBank | 0 | 0 | 4 | — | $306,925 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 1 | 38% | $292,000 | -$90,212 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
-| beachboy4 | 0 | 4 | 1 | ⚠️ 0% (4) | $253,659 | -$223,072 |
+| beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | pleaseplease123 | 4 | 2 | 0 | ⚠️ 67% (6) | $246,152 | +$78 |
 | wr0ngw4yb3tt0r | 4 | 1 | 0 | ⚠️ 80% (5) | $237,095 | +$72,530 |
@@ -88,11 +88,11 @@ _(mostrando los 40 de mayor monto, de 80 en total)_
 | rabbitfoot1 | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $85,871 | -$85,871 | ❌ Perdida |
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | -$37,969 | ❌ Perdida |
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
-| AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | -$30,000 | ❌ Perdida |
 | surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | -$35,892 | ❌ Perdida |
 | Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |
 | Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | -$500 | 💰 Vendida antes |
-| beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | — | ⏳ Pendiente |
+| beachboy4 | Will Charlotte FC win on 2026-08-15? | Yes | 2.13 (47¢) | $30,588 | +$34,492 | ✅ Ganada |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.13 (47¢) | $66,527 | -$66,527 | ❌ Perdida |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | -$56,489 | ❌ Perdida |
