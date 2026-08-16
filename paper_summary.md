@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:01:39 (hora de Perú)
+Actualizado: 2026-08-16 09:03:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $852.13
@@ -150,5 +150,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 58% | 10.00 | 1.5% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 8.5% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 13.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 8.2% | ⏳ pendiente | — |
