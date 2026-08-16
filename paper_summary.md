@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:59:27 (hora de Perú)
+Actualizado: 2026-08-16 05:01:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $904.47
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 04:59:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $454.47)
+**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $444.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 5 | 4 | 1 | -22.66 USD |
-| RN1 | 11 | 10 | 10 | -40.39 USD |
+| RN1 | 11 | 10 | 11 | -40.39 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
@@ -120,10 +120,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Malmö Men: Karl Friberg vs John  | Karl Friberg (BUY) | 90% | 10.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 64% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 5.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 55% | 10.00 | 23.7% | 💰 vendida anticipada | -5.64 |
-| bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 10.8% | ⏳ pendiente | — |
+| bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 26.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 50% | 10.00 | 71.4% | ⏳ pendiente | — |
 | RN1 | Sion: Gerard Campana Lee vs Franco Riber | Gerard Campana Lee (BUY) | 96% | 10.00 | 2.6% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 89.0% | 💰 vendida anticipada | +1.54 |
@@ -149,4 +150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 162.1% | ⏳ pendiente | — |
 | RN1 | Prague: Marek Gengel vs Svyatoslav Gulin | Svyatoslav Gulin (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 2 Women: Chengyiyi Yuan  | Thasaporn Naklo (BUY) | 83% | 10.00 | 2.7% | ⏳ pendiente | — |

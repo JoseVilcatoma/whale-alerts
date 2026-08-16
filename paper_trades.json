@@ -7056,8 +7056,8 @@
     "title": "Will Incheon United FC win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3715.5150000000003,
-    "whale_pct": 10.839,
+    "whale_usd": 9103.862045000002,
+    "whale_pct": 26.558,
     "whale_value_at_open": 34279.1388,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -7067,8 +7067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786872635.212289,
-    "fills": 1
+    "last_fill_at": 1786874488.3628347,
+    "fills": 5
   },
   {
     "timestamp": 1786873068,
@@ -7141,5 +7141,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786873719.4949203,
     "fills": 1
+  },
+  {
+    "timestamp": 1786874422,
+    "timestamp_added": 1786874423.24913,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-friberg-lithen-2026-08-16",
+    "title": "ITF M15 Malm\u00f6 Men: Karl Friberg vs John Hallquist Lithen",
+    "outcome": "Karl Friberg",
+    "side": "BUY",
+    "whale_usd": 3051.066666,
+    "whale_pct": 4.233,
+    "whale_value_at_open": 72086.5388,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786874423.7697513,
+    "fills": 2
   }
 ]
