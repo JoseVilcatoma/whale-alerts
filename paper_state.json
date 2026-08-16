@@ -1,5 +1,5 @@
 {
-  "bankroll": 904.4685094065345,
+  "bankroll": 894.4685094065345,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1325,6 +1325,11 @@
       "timestamp": 1786873856.1207454,
       "bankroll": 904.47,
       "event": "won: Lakersfan111 \u2014 Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round"
+    },
+    {
+      "timestamp": 1786875163.2481139,
+      "bankroll": 894.47,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Thasaporn Naklo"
     }
   ]
 }
