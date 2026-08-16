@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:53:18 (hora de Perú)
+Actualizado: 2026-08-16 08:55:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $868.82
-**Retorno acumulado:** -13.12%
-**Peor caída desde un máximo (drawdown):** 22.23%
+**Bankroll actual:** $852.13
+**Retorno acumulado:** -14.79%
+**Peor caída desde un máximo (drawdown):** 24.02%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $158.82)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $192.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,34 +21,34 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 1 | +44.73 USD |
-| 111111111115 | 10 | 6 | 6 | +23.24 USD |
+| 111111111115 | 10 | 7 | 5 | +13.24 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
 | HomeRunHazard | 5 | 2 | 22 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
-| Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 10 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| Lakersfan111 | 9 | 8 | 3 | -6.53 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
+| IMAREALPERSON | 4 | 4 | 1 | -28.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
 | RN1 | 15 | 13 | 17 | -67.12 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 248
-- **Aciertos:** 130 (52.4%)
+- **Apuestas resueltas:** 253
+- **Aciertos:** 132 (52.2%)
 - **Cuota promedio de entrada:** 53.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,480.00
-- **ROI sobre lo apostado:** -6.91%
+- **Total apostado (suma de stakes):** $2,530.00
+- **ROI sobre lo apostado:** -7.44%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,8 +58,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
-| 40-59% | 126 | 47.6% | 49.5% | -1.9 pp |
-| 60-79% | 58 | 69.0% | 68.0% | +1.0 pp |
+| 40-59% | 130 | 46.9% | 49.4% | -2.5 pp |
+| 60-79% | 59 | 69.5% | 68.1% | +1.4 pp |
 | 80-94% | 16 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 5 | 100.0% | 98.0% | +2.0 pp |
 
