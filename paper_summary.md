@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:04:06 (hora de Perú)
+Actualizado: 2026-08-15 23:06:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $965.89
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 5 | 6 | 2 | -23.02 USD |
+| RN1 | 5 | 6 | 3 | -23.02 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 3 | -28.73 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -106,6 +106,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -135,4 +136,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ✅ ganada | +7.24 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ✅ ganada | +3.89 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Dignitas (BUY) | 59% | 10.00 | 20.1% | 💰 vendida anticipada | -3.39 |
