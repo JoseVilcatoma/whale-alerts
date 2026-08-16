@@ -94,6 +94,23 @@ INITIAL_BANKROLL = float(os.environ.get("INITIAL_BANKROLL", "1000"))
 TOP_N_CANDIDATES = int(os.environ.get("TOP_N_CANDIDATES", "30"))
 TOP_K_REPLICATE = int(os.environ.get("TOP_K_REPLICATE", "10"))
 MIN_TRADE_PCT = float(os.environ.get("MIN_TRADE_PCT", "0.1"))
+# Filtro de cuota mínima: por debajo de este precio (%), no replicamos.
+# Motivo: en los primeros 207 resultados de la simulación, las apuestas de cuota
+# baja ("bombas") fueron las únicas claramente perdedoras (-6.6 pp en el rango
+# 20-39%, -14.7 pp por debajo de 20%), mientras que de 40% para arriba el
+# resultado era positivo. Tiene lógica: entrar tarde y unos centavos peor que la
+# ballena duele mucho más en una apuesta a 25% que en una a 80%.
+# OJO: sale de una muestra chica (día y medio). Puede ser ventaja real o
+# casualidad — por eso se mide de acá en adelante antes de darlo por bueno.
+MIN_ODDS_PCT = float(os.environ.get("MIN_ODDS_PCT", "40"))
+# SLIPPAGE: en la vida real NUNCA conseguís el mismo precio que la ballena.
+# Su propia orden mueve el mercado, y vos entrás segundos después, siempre peor.
+# Sin esto, la simulación sale artificialmente optimista. Se aplica como un
+# encarecimiento relativo del precio de entrada: con 2%, una cuota de 50% se
+# convierte en 51% para nosotros (compramos más caro = ganamos menos si acierta).
+# El 2% es una ESTIMACIÓN prudente, no un dato medido — ajustable según lo que
+# veas al comparar con operaciones reales.
+SLIPPAGE_PCT = float(os.environ.get("SLIPPAGE_PCT", "2"))
 # Monto mínimo EN DÓLARES que debe tener la operación de la ballena para
 # considerarla una señal. Filtra los fragmentos de ejecución (fills de
 # centavos) que no representan una decisión, solo el motor casando órdenes.
@@ -466,6 +483,13 @@ def build_summary_md():
         f"**Modo de apuesta:** " + ("monto fijo de ${:,.2f} por apuesta".format(FIXED_STAKE_USD)
           if SIZING_MODE == "FIJO" else f"proporcional al % de la ballena (tope {MAX_SINGLE_POSITION_PCT:.0f}%)"),
         "",
+        f"**Filtro de cuota mínima:** solo se replican apuestas de {MIN_ODDS_PCT:.0f}% o más",
+        f"**Slippage aplicado:** {SLIPPAGE_PCT:.1f}% — entramos siempre a peor precio que la ballena "
+        f"(su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.",
+        f"**Capital comprometido ahora mismo:** ${sum(t.get('paper_stake_usd',0) for t in trades if t['status']=='pending'):,.2f} "
+        f"en {sum(1 for t in trades if t['status']=='pending')} posiciones abiertas "
+        f"(disponible para nuevas apuestas: ${max(0.0, bankroll - sum(t.get('paper_stake_usd',0) for t in trades if t['status']=='pending')):,.2f})",
+        "",
         "_Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._",
         "",
         "## Por vigilado",
@@ -569,7 +593,7 @@ def send_telegram(text):
 
 
 # ---------- registrar y resolver posiciones de papel ----------
-def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds,
+def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, odds_ballena=None,
                      recortado_bankroll=False, recortado_tope=False, whale_value_at_open=None):
     global trades_dirty
     slug = trade.get("slug")
@@ -593,6 +617,7 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "whale_value_at_open": whale_value_at_open,
             "paper_stake_usd": round(paper_stake, 2),
             "odds_at_bet": odds,
+            "odds_ballena": odds_ballena if odds_ballena is not None else odds,
             "status": "pending",
             "profit_usd": 0.0,
             "overlaps_with": same_day_others,
@@ -607,7 +632,10 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
     aviso += f"Réplica simulada: ${paper_stake:,.2f}\n"
     aviso += f"Mercado: {trade.get('title','')}\n"
     aviso += f"Apuesta a: {trade.get('outcome','')} ({trade.get('side','')})\n"
-    aviso += f"Precio al momento de apostar: {odds}%\n"
+    if odds_ballena is not None and odds_ballena != odds:
+        aviso += f"Precio de la ballena: {odds_ballena}% -> nuestro precio real: {odds}% (slippage)\n"
+    else:
+        aviso += f"Precio al momento de apostar: {odds}%\n"
     if recortado_tope:
         aviso += f"⚠️ Recortado por tope de seguridad ({MAX_SINGLE_POSITION_PCT:.0f}% máx. por posición)\n"
     if recortado_bankroll:
@@ -751,6 +779,15 @@ def on_ws_message(ws, message):
     if whale_pct < MIN_TRADE_PCT:
         return
 
+    if odds < MIN_ODDS_PCT:
+        print(f"🧪 PAPER — {username}: se ignora, cuota de {odds}% por debajo del mínimo "
+              f"de {MIN_ODDS_PCT:.0f}% — {trade.get('title')}")
+        return
+
+    # Precio realista de ENTRADA nuestro: peor que el de la ballena por el slippage.
+    odds_ballena = odds
+    odds = min(99, round(odds * (1 + SLIPPAGE_PCT / 100)))
+
     market = get_market(trade.get("slug"))
     days_left = days_to_resolution(market)
     if days_left is not None and days_left > MAX_DAYS_TO_RESOLUTION:
@@ -761,10 +798,10 @@ def on_ws_message(ws, message):
         print(f"🧪 PAPER — {username}: se ignora, no es un mercado de deportes/esports — {trade.get('title')}")
         return
 
-    merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value)
+    merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value, odds_ballena)
 
 
-def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value_now):
+def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, whale_value_now, odds_ballena=None):
     """Si la misma ballena ya tiene una compra reciente (dentro de
     FILL_MERGE_WINDOW_SECONDS) en el mismo mercado+resultado, la suma a esa
     posición en vez de abrir una nueva.
@@ -880,7 +917,7 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, 
     if recortado_bankroll:
         nota += " [recortado por falta de bankroll disponible]"
     print(f"🧪 PAPER — {username}: {whale_pct:.2f}% -> ${paper_stake:,.2f} en {trade.get('title')}{nota}")
-    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds,
+    log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, odds, odds_ballena,
                      recortado_bankroll=recortado_bankroll, recortado_tope=recortado_tope,
                      whale_value_at_open=whale_value_now)
 
