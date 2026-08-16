@@ -1,5 +1,5 @@
 {
-  "bankroll": 805.4044597039758,
+  "bankroll": 795.4044597039758,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1635,6 +1635,11 @@
       "timestamp": 1786917840.0508132,
       "bankroll": 805.4,
       "event": "won: IMAREALPERSON \u2014 LoL: paiN Gaming vs Fluxo W7M - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786919517.26962,
+      "bankroll": 795.4,
+      "event": "lost: midwicket72 \u2014 Metro Bank One Day Cup: Middlesex vs Durham"
     }
   ]
 }
