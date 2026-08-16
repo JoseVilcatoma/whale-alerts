@@ -7235,5 +7235,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786875279.5025382,
     "fills": 1
+  },
+  {
+    "timestamp": 1786875434,
+    "timestamp_added": 1786875434.6076431,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kuczer-kotliar-2026-08-16",
+    "title": "ITF W35 Bydgoszcz Women: Daria Kuczer vs Yelyzaveta Kotliar",
+    "outcome": "Yelyzaveta Kotliar",
+    "side": "BUY",
+    "whale_usd": 1515.36,
+    "whale_pct": 1.816,
+    "whale_value_at_open": 83444.387,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 86,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786875434.6076512,
+    "fills": 1
   }
 ]

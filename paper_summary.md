@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:16:00 (hora de Perú)
+Actualizado: 2026-08-16 05:18:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.47
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 05:16:00 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $414.47)
+**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $404.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 5 | 4 | 1 | -22.66 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 11 | 11 | 10 | -50.39 USD |
+| RN1 | 11 | 11 | 11 | -50.39 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -120,6 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -149,4 +150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Bucharest 3 Women: Maria Sara Po | Maria Sara Popa (BUY) | 70% | 10.00 | 7.4% | ✅ ganada | +4.29 |
 | 111111111115 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | 111111111115 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 59% | 10.00 | 16.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 58% | 10.00 | 106.0% | 💰 vendida anticipada | +1.55 |
