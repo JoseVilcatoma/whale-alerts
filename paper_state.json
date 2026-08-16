@@ -1,5 +1,5 @@
 {
-  "bankroll": 947.2794267492368,
+  "bankroll": 962.5725741476474,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1060,6 +1060,26 @@
       "timestamp": 1786845590.5977805,
       "bankroll": 947.28,
       "event": "lost: Sassy-Bucket \u2014 UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786845649.8786771,
+      "bankroll": 937.28,
+      "event": "lost: SDTrading \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786845650.0294535,
+      "bankroll": 945.8,
+      "event": "won: SDTrading \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786845650.9146457,
+      "bankroll": 953.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Orlando City SC win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786845652.524328,
+      "bankroll": 962.57,
+      "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
     }
   ]
 }
