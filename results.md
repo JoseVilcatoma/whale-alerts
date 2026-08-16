@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:42:08 (hora de Perú)
+Actualizado: 2026-08-16 08:44:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **287**  ($15,188,156 en total)
+- Apuestas registradas: **289**  ($15,263,606 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 96
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 2 | 66% | $2,444,242 | +$258,390 |
-| sainttroplay | 1 | 0 | 3 | ⚠️ 100% (1) | $1,467,597 | +$370,247 |
+| sainttroplay | 1 | 0 | 4 | ⚠️ 100% (1) | $1,505,997 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 96 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $38,400 | — | ⏳ Pendiente |
+| matanovik | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $37,050 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $65,000 | — | ⏳ Pendiente |
 | CongoleseBorat | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $64,862 | — | ⏳ Pendiente |
 | 0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514 | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 96 en total)_
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $42,462 | -$42,462 | ❌ Perdida |
 | AV23IUa | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $46,000 | +$42,462 | ✅ Ganada |
 | rabbitfoot1 | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $85,871 | -$85,871 | ❌ Perdida |
-| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | -$37,969 | ❌ Perdida |
-| sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
