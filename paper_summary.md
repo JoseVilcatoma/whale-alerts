@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:39:16 (hora de Perú)
+Actualizado: 2026-08-15 23:41:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $961.88
-**Retorno acumulado:** -3.81%
+**Bankroll actual:** $971.49
+**Retorno acumulado:** -2.85%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -20,9 +20,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 8 | 4 | 4 | +30.12 USD |
 | Sassy-Bucket | 2 | 2 | 1 | +19.29 USD |
 | Lakersfan111 | 5 | 4 | 7 | +12.76 USD |
+| HomeRunHazard | 2 | 0 | 6 | +11.10 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
-| HomeRunHazard | 1 | 0 | 7 | +1.49 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 210
-- **Aciertos:** 110 (52.4%)
+- **Apuestas resueltas:** 211
+- **Aciertos:** 111 (52.6%)
 - **Cuota promedio de entrada:** 52.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,100.00
-- **ROI sobre lo apostado:** -3.73%
+- **Total apostado (suma de stakes):** $2,110.00
+- **ROI sobre lo apostado:** -3.26%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,7 +52,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 36 | 25.0% | 32.1% | -7.1 pp |
-| 40-59% | 113 | 49.6% | 49.5% | +0.1 pp |
+| 40-59% | 114 | 50.0% | 49.5% | +0.5 pp |
 | 60-79% | 44 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 12 | 100.0% | 84.8% | +15.2 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 99.0% | +1.0 pp |
@@ -123,7 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Athletics (BUY) | 68% | 10.00 | 1.6% | ⏳ pendiente | — |
