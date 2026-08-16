@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 18:43:22 (hora de Perú)
+Actualizado: 2026-08-16 18:45:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $788.87
@@ -121,7 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 7.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 19.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ⏳ pendiente | — |
