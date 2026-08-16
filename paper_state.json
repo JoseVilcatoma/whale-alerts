@@ -1,5 +1,5 @@
 {
-  "bankroll": 964.9986139649036,
+  "bankroll": 958.2827617921678,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1165,6 +1165,21 @@
       "timestamp": 1786855395.790966,
       "bankroll": 965.0,
       "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1786855521.063315,
+      "bankroll": 955.0,
+      "event": "lost: Sassy-Bucket \u2014 Texas Rangers vs. Athletics"
+    },
+    {
+      "timestamp": 1786855521.9744804,
+      "bankroll": 957.05,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Athletics"
+    },
+    {
+      "timestamp": 1786855522.274937,
+      "bankroll": 958.28,
+      "event": "won: RN1 \u2014 Texas Rangers vs. Athletics"
     }
   ]
 }

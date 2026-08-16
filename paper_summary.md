@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:43:22 (hora de Perú)
+Actualizado: 2026-08-15 23:45:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $965.00
-**Retorno acumulado:** -3.50%
+**Bankroll actual:** $958.28
+**Retorno acumulado:** -4.17%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,10 +18,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 0 | +44.73 USD |
 | 111111111115 | 8 | 4 | 5 | +30.12 USD |
-| Sassy-Bucket | 2 | 2 | 1 | +19.29 USD |
 | Lakersfan111 | 5 | 4 | 7 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| HomeRunHazard | 3 | 1 | 4 | +4.61 USD |
+| Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
+| HomeRunHazard | 4 | 1 | 3 | +6.66 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -31,18 +31,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 5 | 6 | 5 | -23.02 USD |
+| RN1 | 6 | 6 | 4 | -21.78 USD |
 | wr0ngw4yb3tt0r | 10 | 13 | 3 | -34.24 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 213
-- **Aciertos:** 112 (52.6%)
-- **Cuota promedio de entrada:** 52.5%
+- **Apuestas resueltas:** 216
+- **Aciertos:** 114 (52.8%)
+- **Cuota promedio de entrada:** 52.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,130.00
-- **ROI sobre lo apostado:** -3.53%
+- **Total apostado (suma de stakes):** $2,160.00
+- **ROI sobre lo apostado:** -3.80%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,10 +51,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
-| 20-39% | 36 | 25.0% | 32.1% | -7.1 pp |
+| 20-39% | 37 | 24.3% | 32.3% | -7.9 pp |
 | 40-59% | 114 | 50.0% | 49.5% | +0.5 pp |
 | 60-79% | 46 | 69.6% | 67.8% | +1.8 pp |
-| 80-94% | 12 | 100.0% | 84.8% | +15.2 pp |
+| 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 99.0% | +1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -107,7 +107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 33.8% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 240.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under (BUY) | 49% | 10.00 | 53.4% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ⏳ pendiente | — |
@@ -119,10 +119,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 35.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 69% | 10.00 | 1.8% | ✅ ganada | +4.49 |
 | Lakersfan111 | Map Handicap: VIT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 29% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ⏳ pendiente | — |
+| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ✅ ganada | +1.24 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 9.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ⏳ pendiente | — |
+| Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ❌ perdida | -10.00 |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Vici Gaming (BUY) | 44% | 10.00 | 19.8% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ❌ perdida | -10.00 |
