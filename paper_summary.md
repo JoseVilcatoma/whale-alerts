@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:53:04 (hora de Perú)
+Actualizado: 2026-08-16 07:55:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $874.36
-**Retorno acumulado:** -12.56%
+**Bankroll actual:** $880.49
+**Retorno acumulado:** -11.95%
 **Peor caída desde un máximo (drawdown):** 22.19%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:53:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $334.36)
+**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $330.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,12 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 12 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 13 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 2 | -1.87 USD |
+| SDTrading | 2 | 2 | 3 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -38,16 +38,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
-| RN1 | 11 | 11 | 23 | -61.57 USD |
+| RN1 | 12 | 11 | 22 | -55.44 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 242
-- **Aciertos:** 126 (52.1%)
+- **Apuestas resueltas:** 243
+- **Aciertos:** 127 (52.3%)
 - **Cuota promedio de entrada:** 53.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,420.00
-- **ROI sobre lo apostado:** -6.86%
+- **Total apostado (suma de stakes):** $2,430.00
+- **ROI sobre lo apostado:** -6.58%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
 | 40-59% | 124 | 48.4% | 49.5% | -1.1 pp |
-| 60-79% | 56 | 67.9% | 68.2% | -0.3 pp |
+| 60-79% | 57 | 68.4% | 68.1% | +0.4 pp |
 | 80-94% | 15 | 100.0% | 85.5% | +14.5 pp |
 | 95-99% (casi seguro) | 4 | 100.0% | 98.0% | +2.0 pp |
 
@@ -111,12 +111,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | mlb-stl-chc-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-kc-laa-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 57% | 10.00 | 2.8% | ⏳ pendiente | — |
+| SDTrading | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 58% | 10.00 | 1.9% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 44% | 10.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 57% | 10.00 | 7.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 58% | 10.00 | 1.5% | ⏳ pendiente | — |
@@ -144,5 +147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ⏳ pendiente | — |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION - Game 2 | HANJIN BRION (BUY) | 49% | 10.00 | 13.1% | ⏳ pendiente | — |
 | RN1 | Will Hannover 96 win on 2026-08-16? | Yes (BUY) | 47% | 10.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 62% | 10.00 | 4.2% | ⏳ pendiente | — |
-| RN1 | DSC Arminia Bielefeld vs. FC Energie Cot | Over (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
