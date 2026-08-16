@@ -4857,5 +4857,35 @@
     "status": "pending",
     "ultimo_fill": 1786900079,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 643,
+    "timestamp": 1786901171,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mia-cin-2026-08-16",
+    "title": "Miami Marlins vs. Cincinnati Reds",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 25094.948800000002,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1786901171,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 644,
+    "timestamp": 1786900968,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-tsitsip-augeral-2026-08-16",
+    "title": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime",
+    "outcome": "Felix Auger-Aliassime",
+    "side": "BUY",
+    "usd": 49000.000000472195,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786900968,
+    "fills": 1
   }
 ]
