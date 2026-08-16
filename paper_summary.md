@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:16:31 (hora de Perú)
+Actualizado: 2026-08-16 10:18:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $861.13
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 10:16:31 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $151.13)
+**Capital comprometido ahora mismo:** $720.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $141.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| Lakersfan111 | 9 | 9 | 3 | -16.53 USD |
+| Lakersfan111 | 9 | 9 | 4 | -16.53 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 4 | 1 | -28.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
@@ -125,7 +125,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -154,4 +155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 56% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
-| SDTrading | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 50% | 10.00 | 1.9% | ⏳ pendiente | — |
