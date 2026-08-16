@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 11:50:30 (hora de Perú)
+Actualizado: 2026-08-16 11:52:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **317**  ($16,763,827 en total)
-- Resueltas: **273** — 155 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 44
+- Resueltas: **274** — 156 ganadas / 118 perdidas (**57%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 103
 
 ### Balance
 
-- **Resultado de los apostadores: -$582,529** sobre $13,034,758 apostados (ROI **-4.5%**)
+- **Resultado de los apostadores: -$560,029** sobre $13,084,758 apostados (ROI **-4.3%**)
 - Copiando $100 fijo en cada una: **-$2,390** sobre $26,700 (ROI **-8.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 1 | 0 | 1 | ⚠️ 100% (1) | $90,000 | +$15,714 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 2 | 0 | 0 | ⚠️ 100% (2) | $90,000 | +$38,214 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 103 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | +$22,500 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Ugo Humbert vs Michael Zheng | Michael Zheng | 1.19 (84¢) | $25,427 | — | ⏳ Pendiente |
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | — | ⏳ Pendiente |
 | HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
