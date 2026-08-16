@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:07:33 (hora de Perú)
+Actualizado: 2026-08-16 08:09:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:07:33 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $272.99)
+**Capital comprometido ahora mismo:** $620.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $252.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 15 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 16 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
+| wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
 | RN1 | 13 | 12 | 20 | -62.94 USD |
 
 ## Análisis general
@@ -113,11 +113,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-chc-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-kc-laa-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-bal-tb-2026-08-16-total-7pt5 | HomeRunHazard, SDTrading |
+| mlb-tex-oak-2026-08-16-total-10pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 10.00 | 11.9% | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 56% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 50% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -146,5 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 7.9% | ⏳ pendiente | — |
-| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ⏳ pendiente | — |
