@@ -7382,8 +7382,8 @@
     "title": "The Hundred: Trent Rockets vs Manchester Super Giants",
     "outcome": "Trent Rockets",
     "side": "BUY",
-    "whale_usd": 3061.908,
-    "whale_pct": 10.659,
+    "whale_usd": 4754.9388,
+    "whale_pct": 16.552,
     "whale_value_at_open": 28726.863,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -7393,8 +7393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786901273.9351966,
-    "fills": 1
+    "last_fill_at": 1786902220.0788953,
+    "fills": 2
   },
   {
     "timestamp": 1786902131,
