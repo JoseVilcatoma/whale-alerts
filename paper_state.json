@@ -1,5 +1,5 @@
 {
-  "bankroll": 851.5270311754848,
+  "bankroll": 861.1348743127397,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1400,6 +1400,11 @@
       "timestamp": 1786891630.2512434,
       "bankroll": 851.53,
       "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786893315.1325479,
+      "bankroll": 861.13,
+      "event": "won: RN1 \u2014 Hamburg: Jan Kumstat vs Marvin Moeller"
     }
   ]
 }
