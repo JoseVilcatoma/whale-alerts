@@ -4133,5 +4133,35 @@
     "status": "pending",
     "ultimo_fill": 1786885335,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 569,
+    "timestamp": 1786886132,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-tes-edg-2026-08-16",
+    "title": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 61281.88,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1786886132,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 570,
+    "timestamp": 1786886211,
+    "username": "dsasdaas",
+    "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+    "slug": "cs2-mouz-prv-2026-08-16",
+    "title": "Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 123401.564,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1786886211,
+    "fills": 1
   }
 ]
