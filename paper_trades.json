@@ -6885,5 +6885,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786881991.8488595,
     "fills": 1
+  },
+  {
+    "timestamp": 1786882205,
+    "timestamp_added": 1786882206.4755983,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bl2-dyn-svd-2026-08-16-total-2pt5",
+    "title": "SG Dynamo Dresden vs. SV Darmstadt 98: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 806.96,
+    "whale_pct": 0.756,
+    "whale_value_at_open": 106744.1262,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786882206.475608,
+    "fills": 1
   }
 ]
