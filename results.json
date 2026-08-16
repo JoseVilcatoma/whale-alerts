@@ -3803,5 +3803,20 @@
     "status": "pending",
     "ultimo_fill": 1786849950,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 510,
+    "timestamp": 1786851161,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "ufc-isl-ian1-2026-08-15",
+    "title": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+    "outcome": "Islam Makhachev",
+    "side": "BUY",
+    "usd": 74000.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1786851161,
+    "fills": 1
   }
 ]
