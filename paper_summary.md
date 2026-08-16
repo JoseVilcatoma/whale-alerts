@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:24:40 (hora de Perú)
+Actualizado: 2026-08-15 23:26:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $957.38
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 69% | 10.00 | 1.8% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: VIT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 29% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 0.7% | ⏳ pendiente | — |
