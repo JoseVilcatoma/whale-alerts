@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 12:03:54 (hora de Perú)
+Actualizado: 2026-08-16 12:05:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $816.70
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 12:03:54 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $576.70)
+**Capital comprometido ahora mismo:** $250.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $566.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 0 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
-| Sassy-Bucket | 2 | 3 | 2 | +9.29 USD |
+| Sassy-Bucket | 2 | 3 | 3 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | 111111111115 | 11 | 8 | 3 | +6.57 USD |
 | HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
@@ -116,9 +116,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 15.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 2.2% | ⏳ pendiente | — |
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |
-| IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 43.9% | ⏳ pendiente | — |
+| IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 51.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 91.9% | ⏳ pendiente | — |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 20 | Yes (BUY) | 47% | 10.00 | 304.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ⏳ pendiente | — |
@@ -145,4 +146,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION - Game 2 | HANJIN BRION (BUY) | 49% | 10.00 | 13.1% | ❌ perdida | -10.00 |
 | RN1 | Will Hannover 96 win on 2026-08-16? | Yes (BUY) | 47% | 10.00 | 1.2% | ❌ perdida | -10.00 |
 | RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 62% | 10.00 | 4.2% | ✅ ganada | +6.13 |
-| RN1 | DSC Arminia Bielefeld vs. FC Energie Cot | Over (BUY) | 64% | 10.00 | 1.0% | ✅ ganada | +5.62 |
