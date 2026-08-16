@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:56:25 (hora de Perú)
+Actualizado: 2026-08-15 21:58:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **248**  ($11,980,177 en total)
+- Apuestas registradas: **249**  ($12,028,880 en total)
 - Resueltas: **229** — 120 ganadas / 109 perdidas (**52%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 81
 
 ### Balance
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
+| suntori | 1 | 0 | 2 | ⚠️ 100% (1) | $105,133 | +$19,051 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Bulls94 | 0 | 2 | 0 | ⚠️ 0% (2) | $59,846 | -$59,846 |
 | ExplosiveNinja | 2 | 0 | 0 | ⚠️ 100% (2) | $59,200 | +$25,800 |
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
-| texaskid | 0 | 2 | 0 | ⚠️ 0% (2) | $56,746 | -$56,746 |
 
 _(mostrando los 40 de mayor monto, de 81 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $91,469 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $179,572 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 | Dragua9 | Will Sevilla FC vs. Rayo Vallecano de Madrid end in a draw? | No | 1.52 (66¢) | $30,600 | +$15,764 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Novak Djokovic vs Thiago Agustin Tirante | Novak Djokovic | 1.25 (80¢) | $122,227 | -$122,227 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. New York Mets: O/U 8.5 | Under 8.5 | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
-| pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | +$28,519 | ✅ Ganada |
