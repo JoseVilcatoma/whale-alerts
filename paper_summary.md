@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 20:37:03 (hora de Perú)
+Actualizado: 2026-08-15 22:03:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $967.28
-**Retorno acumulado:** -3.27%
+**Bankroll actual:** $962.32
+**Retorno acumulado:** -3.77%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -17,30 +17,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
-| 111111111115 | 8 | 3 | 2 | +40.12 USD |
-| Sassy-Bucket | 2 | 1 | 2 | +29.29 USD |
-| Lakersfan111 | 5 | 4 | 2 | +12.76 USD |
+| 111111111115 | 8 | 4 | 1 | +30.12 USD |
+| Sassy-Bucket | 2 | 2 | 1 | +19.29 USD |
+| Lakersfan111 | 5 | 4 | 3 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
+| 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
-| g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
-| SDTrading | 0 | 1 | 3 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| 1winstreak1 | 5 | 6 | 3 | -14.09 USD |
+| g42gh6524h5h5 | 7 | 6 | 3 | -10.43 USD |
+| SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| wr0ngw4yb3tt0r | 6 | 11 | 6 | -38.23 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 2 | -28.73 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 190
-- **Aciertos:** 98 (51.6%)
+- **Apuestas resueltas:** 203
+- **Aciertos:** 105 (51.7%)
 - **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,900.00
+- **Total apostado (suma de stakes):** $2,030.00
 - **ROI sobre lo apostado:** -3.84%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -49,11 +49,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 1-19% (bomba) | 2 | 0.0% | 15.0% | -15.0 pp |
+| 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
-| 40-59% | 101 | 48.5% | 49.2% | -0.7 pp |
-| 60-79% | 41 | 70.7% | 67.8% | +2.9 pp |
-| 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
+| 40-59% | 111 | 49.5% | 49.5% | +0.1 pp |
+| 60-79% | 42 | 69.0% | 67.8% | +1.3 pp |
+| 80-94% | 11 | 100.0% | 84.6% | +15.4 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -103,20 +103,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Vici Gaming (BUY) | 44% | 10.00 | 19.8% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Chidi Njokuani vs. Joel Álvarez | Chidi Njokuani (BUY) | 26% | 10.00 | 103.1% | ✅ ganada | +28.46 |
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 59% | 10.00 | 5.1% | ✅ ganada | +6.95 |
-| 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Washington Mystics (-6.5) | Washington Mystics (BUY) | 51% | 10.00 | 25.2% | ✅ ganada | +9.61 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
-| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ⏳ pendiente | — |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ⏳ pendiente | — |
+| 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ❌ perdida | -10.00 |
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
 | 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
-| 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ⏳ pendiente | — |
+| 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ❌ perdida | -10.00 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
@@ -125,11 +126,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 10.00 | 159.1% | ❌ perdida | -10.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 89% | 10.00 | 9.6% | 💰 vendida anticipada | +1.01 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 52% | 10.00 | 6.6% | 💰 vendida anticipada | +1.73 |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 21.9% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ⏳ pendiente | — |
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 55% | 10.00 | 21.9% | ✅ ganada | +8.18 |
+| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 17.1% | ❌ perdida | -10.00 |
 | wr0ngw4yb3tt0r | Spread: KC (-1.5) | KC (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Rams vs. Chiefs | Chiefs (BUY) | 52% | 10.00 | 12.2% | ❌ perdida | -10.00 |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 33% | 10.00 | 12.6% | ❌ perdida | -10.00 |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ❌ perdida | -10.00 |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 15% | 10.00 | 3.6% | ❌ perdida | -10.00 |
-| 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 20.0% | ❌ perdida | -10.00 |

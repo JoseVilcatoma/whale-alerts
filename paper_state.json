@@ -1,5 +1,5 @@
 {
-  "bankroll": 967.2794267492368,
+  "bankroll": 962.3157576163211,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1050,6 +1050,71 @@
       "timestamp": 1786844094.6671815,
       "bankroll": 967.28,
       "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786849279.6425402,
+      "bankroll": 976.89,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786849279.9266157,
+      "bankroll": 966.89,
+      "event": "lost: SDTrading \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786849280.198051,
+      "bankroll": 975.41,
+      "event": "won: SDTrading \u2014 Milwaukee Brewers vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1786849280.9145203,
+      "bankroll": 982.95,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Orlando City SC win on 2026-08-15?"
+    },
+    {
+      "timestamp": 1786849281.2292109,
+      "bankroll": 985.3,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Panthers vs. Bills"
+    },
+    {
+      "timestamp": 1786849281.6507668,
+      "bankroll": 975.3,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Rams vs. Chiefs"
+    },
+    {
+      "timestamp": 1786849282.128601,
+      "bankroll": 965.3,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786849282.2286944,
+      "bankroll": 973.48,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786849282.7236304,
+      "bankroll": 963.48,
+      "event": "lost: 111111111115 \u2014 Valorant: Team Envy vs Sentinels (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1786849283.0138328,
+      "bankroll": 972.71,
+      "event": "won: 1winstreak1 \u2014 San Diego Padres vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1786849283.302044,
+      "bankroll": 962.71,
+      "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1786849283.803555,
+      "bankroll": 972.32,
+      "event": "won: 1winstreak1 \u2014 Spread: Washington Mystics (-6.5)"
+    },
+    {
+      "timestamp": 1786849284.2248116,
+      "bankroll": 962.32,
+      "event": "lost: Sassy-Bucket \u2014 UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)"
     }
   ]
 }
