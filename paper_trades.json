@@ -7288,8 +7288,8 @@
     "title": "The Hundred: Trent Rockets vs Manchester Super Giants",
     "outcome": "Manchester Super Giants",
     "side": "BUY",
-    "whale_usd": 4543.256866,
-    "whale_pct": 14.238,
+    "whale_usd": 5777.873466,
+    "whale_pct": 18.107,
     "whale_value_at_open": 31909.7521,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -7299,8 +7299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786903768.7802975,
-    "fills": 4
+    "last_fill_at": 1786906943.8123956,
+    "fills": 5
   },
   {
     "timestamp": 1786900328,
@@ -7661,6 +7661,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786906471.1795604,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786907009,
+    "timestamp_added": 1786907010.1184943,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-stl-chc-2026-08-16-total-8pt5",
+    "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 22119.675,
+    "whale_pct": 16.704,
+    "whale_value_at_open": 132421.7703,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786907010.1185064,
     "fills": 1
   }
 ]
