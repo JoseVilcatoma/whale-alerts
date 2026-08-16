@@ -3857,8 +3857,8 @@
     "whale_value_at_open": 122677.9804,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5541,8 +5541,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 10203.265797,
-    "whale_pct": 6.682,
+    "whale_usd": 11000.260241,
+    "whale_pct": 7.204,
     "whale_value_at_open": 152696.2455,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5551,8 +5551,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786857268.2130225,
-    "fills": 4
+    "last_fill_at": 1786857881.5594025,
+    "fills": 5
   },
   {
     "timestamp": 1786852436,
