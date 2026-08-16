@@ -4747,7 +4747,7 @@
     "side": "BUY",
     "usd": 25426.939125,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786897656,
     "fills": 1
   },
@@ -4841,6 +4841,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1786900004,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 628,
+    "timestamp": 1786900079,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mia-cin-2026-08-16",
+    "title": "Miami Marlins vs. Cincinnati Reds",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1786900079,
     "fills": 1
   }
 ]
