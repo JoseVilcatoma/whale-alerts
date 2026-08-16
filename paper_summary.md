@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 10:10:17 (hora de Perú)
+Actualizado: 2026-08-16 10:12:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $851.53
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 10:10:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $690.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $161.53)
+**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $141.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
-| HomeRunHazard | 6 | 2 | 28 | +3.43 USD |
+| HomeRunHazard | 6 | 2 | 30 | +3.43 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -124,6 +124,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 56% | 10.00 | 13.7% | ⏳ pendiente | — |
@@ -152,5 +154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 56% | 10.00 | 35.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 50% | 10.00 | 1.9% | ⏳ pendiente | — |
 | midwicket72 | The Hundred, Women: Trent Rockets vs Sun | Trent Rockets (BUY) | 59% | 10.00 | 26.5% | ⏳ pendiente | — |
-| SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 53% | 10.00 | 6.4% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: Team Secret Whales vs CTBC Flying O | Team Secret Whales (BUY) | 51% | 10.00 | 11.3% | ⏳ pendiente | — |
