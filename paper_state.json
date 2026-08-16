@@ -1,5 +1,5 @@
 {
-  "bankroll": 856.6196271190564,
+  "bankroll": 858.814749070276,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1370,6 +1370,11 @@
       "timestamp": 1786889452.62106,
       "bankroll": 856.62,
       "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Sion: Dimitris Sakellaridis vs Gian Luca Tanner"
+    },
+    {
+      "timestamp": 1786889570.7356303,
+      "bankroll": 858.81,
+      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 4.5"
     }
   ]
 }
