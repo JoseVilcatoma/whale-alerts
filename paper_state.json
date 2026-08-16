@@ -1,5 +1,5 @@
 {
-  "bankroll": 961.8772573141351,
+  "bankroll": 971.48510045139,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1150,6 +1150,11 @@
       "timestamp": 1786855086.6471906,
       "bankroll": 961.88,
       "event": "won: wr0ngw4yb3tt0r \u2014 UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)"
+    },
+    {
+      "timestamp": 1786855270.8503969,
+      "bankroll": 971.49,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Athletics: O/U 8.5"
     }
   ]
 }
