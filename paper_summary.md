@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 00:12:29 (hora de Perú)
+Actualizado: 2026-08-16 00:15:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $958.28
@@ -9,6 +9,10 @@ Actualizado: 2026-08-16 00:12:29 (hora de Perú)
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
+
+**Filtro de cuota mínima:** solo se replican apuestas de 40% o más
+**Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
+**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $678.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 5.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 6.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ✅ ganada | +3.51 |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Athletics (BUY) | 68% | 10.00 | 1.6% | ❌ perdida | -10.00 |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ✅ ganada | +1.49 |
