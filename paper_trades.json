@@ -7526,8 +7526,8 @@
     "title": "Prague: Luciano Emanuel Ambrogi vs Vojtech Mares",
     "outcome": "Luciano Emanuel Ambrogi",
     "side": "BUY",
-    "whale_usd": 567.9988,
-    "whale_pct": 0.466,
+    "whale_usd": 1168.9971999999998,
+    "whale_pct": 0.959,
     "whale_value_at_open": 121864.0887,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 94,
@@ -7537,8 +7537,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786885989.932719,
-    "fills": 1
+    "last_fill_at": 1786886491.3625681,
+    "fills": 2
   },
   {
     "timestamp": 1786886112,
@@ -7584,6 +7584,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786886194.3294005,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786886457,
+    "timestamp_added": 1786886458.5967517,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sd-cle-2026-08-16-total-8pt5",
+    "title": "San Diego Padres vs. Cleveland Guardians: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 570.8100000000001,
+    "whale_pct": 0.506,
+    "whale_value_at_open": 112803.36,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786886458.5967605,
     "fills": 1
   }
 ]

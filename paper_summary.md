@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:19:55 (hora de Perú)
+Actualizado: 2026-08-16 08:22:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $872.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:19:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $222.99)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $212.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 6 | -1.87 USD |
+| SDTrading | 2 | 2 | 7 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -119,9 +119,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Over (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Luciano Emanuel Ambrogi vs Vojte | Luciano Emanuel Ambrogi (BUY) | 94% | 10.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Prague: Luciano Emanuel Ambrogi vs Vojte | Luciano Emanuel Ambrogi (BUY) | 94% | 10.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 10.00 | 11.9% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 56% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -148,4 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will FC Nordsjælland win on 2026-08-16? | Yes (BUY) | 74% | 10.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ⏳ pendiente | — |
