@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:49:27 (hora de Perú)
+Actualizado: 2026-08-16 09:51:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $851.53
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 09:49:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $201.53)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $191.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
-| HomeRunHazard | 6 | 2 | 25 | +3.43 USD |
+| HomeRunHazard | 6 | 2 | 26 | +3.43 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -123,6 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Prague: Matyas Cerny vs Dusan Obradovic | Matyas Cerny (BUY) | 75% | 10.00 | 0.5% | ⏳ pendiente | — |
 | predictionlegend | Will Molde FK win on 2026-08-16? | No (BUY) | 51% | 10.00 | 67.0% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 54% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | 💰 vendida anticipada | +0.00 |
@@ -152,4 +153,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 51% | 10.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 58% | 10.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 44% | 10.00 | 2.6% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 57% | 10.00 | 7.9% | ⏳ pendiente | — |
