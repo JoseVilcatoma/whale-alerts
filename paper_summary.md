@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:20:44 (hora de Perú)
+Actualizado: 2026-08-15 21:22:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.18
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 3 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| midwicket72 | 1 | 1 | 1 | -8.10 USD |
+| midwicket72 | 1 | 1 | 2 | -8.10 USD |
 | g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| SDTrading | 1 | 2 | 2 | -11.48 USD |
+| SDTrading | 1 | 2 | 3 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | wr0ngw4yb3tt0r | 7 | 11 | 5 | -30.69 USD |
@@ -107,6 +107,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
+| SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 2.5% | ⏳ pendiente | — |
@@ -135,5 +137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
 | 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
 | 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
