@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:39:37 (hora de Perú)
+Actualizado: 2026-08-15 21:41:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $962.71
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 1 | 2 | 3 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| wr0ngw4yb3tt0r | 8 | 12 | 3 | -38.34 USD |
+| wr0ngw4yb3tt0r | 8 | 12 | 4 | -38.34 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
@@ -108,6 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Kansas City Royals (BUY) | 45% | 10.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Astralis vs NIP - Map 1  | Astralis (BUY) | 47% | 10.00 | 11.7% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 13.7% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
@@ -137,4 +138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ❌ perdida | -10.00 |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
