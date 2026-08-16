@@ -1,5 +1,5 @@
 {
-  "bankroll": 957.8906049294227,
+  "bankroll": 956.7585294577245,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1190,6 +1190,16 @@
       "timestamp": 1786860013.406809,
       "bankroll": 957.89,
       "event": "lost: midwicket72 \u2014 Caribbean Premier League: Jamaica Kingsmen vs Trinbago Knight Riders"
+    },
+    {
+      "timestamp": 1786861274.9116993,
+      "bankroll": 947.89,
+      "event": "lost: Lakersfan111 \u2014 Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786861275.0118933,
+      "bankroll": 956.76,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)"
     }
   ]
 }
