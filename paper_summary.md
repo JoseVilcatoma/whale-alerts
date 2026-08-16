@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 01:13:01 (hora de Perú)
+Actualizado: 2026-08-16 01:15:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $957.89
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 01:13:01 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $627.89)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $617.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 5 | 4 | 11 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
-| HomeRunHazard | 4 | 1 | 3 | +6.66 USD |
+| HomeRunHazard | 4 | 1 | 4 | +6.66 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -112,6 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ⏳ pendiente | — |
@@ -141,4 +142,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
 | RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 23.5% | ⏳ pendiente | — |
