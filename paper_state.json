@@ -1,5 +1,5 @@
 {
-  "bankroll": 851.2177528249694,
+  "bankroll": 851.5270311754848,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1395,6 +1395,11 @@
       "timestamp": 1786891013.976328,
       "bankroll": 851.22,
       "event": "won: HomeRunHazard \u2014 Prague: Luciano Emanuel Ambrogi vs Vojtech Mares"
+    },
+    {
+      "timestamp": 1786891630.2512434,
+      "bankroll": 851.53,
+      "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-16?"
     }
   ]
 }
