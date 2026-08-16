@@ -1,5 +1,5 @@
 {
-  "bankroll": 970.3302742068639,
+  "bankroll": 967.2794267492368,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1040,6 +1040,16 @@
       "timestamp": 1786843164.2856934,
       "bankroll": 970.33,
       "event": "won: Sassy-Bucket \u2014 UFC 330: Chidi Njokuani vs. Joel \u00c1lvarez (Welterweight, Prelims)"
+    },
+    {
+      "timestamp": 1786844093.6116743,
+      "bankroll": 960.33,
+      "event": "lost: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1786844094.6671815,
+      "bankroll": 967.28,
+      "event": "won: 1winstreak1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
     }
   ]
 }
