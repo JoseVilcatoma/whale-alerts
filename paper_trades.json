@@ -5950,8 +5950,8 @@
     "title": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 75425.57350000001,
-    "whale_pct": 240.76,
+    "whale_usd": 78560.57350000001,
+    "whale_pct": 250.767,
     "whale_value_at_open": 31328.0608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -5960,7 +5960,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786855440.809987,
-    "fills": 6
+    "last_fill_at": 1786855579.6809838,
+    "fills": 7
   }
 ]
