@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 00:08:18 (hora de Perú)
+Actualizado: 2026-08-16 00:10:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $958.28
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 6 | 6 | 7 | -21.78 USD |
+| RN1 | 6 | 6 | 8 | -21.78 USD |
 | wr0ngw4yb3tt0r | 10 | 13 | 3 | -34.24 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -107,6 +107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will Tigres de la UANL win on 2026-08-15 | No (BUY) | 95% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Tigres de la UANL win on 2026-08-15 | Yes (BUY) | 42% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -136,4 +137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ❌ perdida | -10.00 |
-| Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
