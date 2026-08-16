@@ -115,6 +115,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
+| lol-png1-fxw7-2026-08-16-game2 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
+| lol-ly-sen-2026-08-16-game-handicap-away-1pt5 | ChonkyChocolateCake, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 

@@ -7288,8 +7288,8 @@
     "title": "The Hundred: Trent Rockets vs Manchester Super Giants",
     "outcome": "Manchester Super Giants",
     "side": "BUY",
-    "whale_usd": 4543.256866,
-    "whale_pct": 14.238,
+    "whale_usd": 5777.873466,
+    "whale_pct": 18.107,
     "whale_value_at_open": 31909.7521,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -7299,8 +7299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786903768.7802975,
-    "fills": 4
+    "last_fill_at": 1786906943.8123956,
+    "fills": 5
   },
   {
     "timestamp": 1786900328,
@@ -7454,8 +7454,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 8657.6953,
-    "whale_pct": 10.119,
+    "whale_usd": 29009.6522,
+    "whale_pct": 33.906,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -7465,8 +7465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786902460.512289,
-    "fills": 3
+    "last_fill_at": 1786910602.4165127,
+    "fills": 7
   },
   {
     "timestamp": 1786902389,
@@ -7503,8 +7503,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 49762.790167,
-    "whale_pct": 58.162,
+    "whale_usd": 61528.215167,
+    "whale_pct": 71.913,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7514,8 +7514,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786902589.3244839,
-    "fills": 13
+    "last_fill_at": 1786910274.4866264,
+    "fills": 15
   },
   {
     "timestamp": 1786903022,
