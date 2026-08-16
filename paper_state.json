@@ -1,5 +1,5 @@
 {
-  "bankroll": 895.1872599530874,
+  "bankroll": 899.8983353944999,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1290,6 +1290,16 @@
       "timestamp": 1786870081.641906,
       "bankroll": 895.19,
       "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786870912.4076374,
+      "bankroll": 892.04,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend (-3.15 USD)"
+    },
+    {
+      "timestamp": 1786870960.4912732,
+      "bankroll": 899.9,
+      "event": "won: RN1 \u2014 ITF M15 Tianjin 2 Men: Kosuke Ogura vs Omar Jasika"
     }
   ]
 }

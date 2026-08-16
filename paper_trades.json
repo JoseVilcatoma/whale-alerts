@@ -6298,8 +6298,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.86,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6675,13 +6675,14 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -3.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786868188.8534346,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 61
   },
   {
     "timestamp": 1786868858,
@@ -6876,5 +6877,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786870818.4863675,
     "fills": 1
+  },
+  {
+    "timestamp": 1786870969,
+    "timestamp_added": 1786870969.397372,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-lgd-jdg-2026-08-16",
+    "title": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 4620.0,
+    "whale_pct": 30.374,
+    "whale_value_at_open": 15210.2684,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786870970.9937925,
+    "fills": 3
   }
 ]
