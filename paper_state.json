@@ -1,5 +1,5 @@
 {
-  "bankroll": 825.8089152715136,
+  "bankroll": 806.2170785368197,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1575,6 +1575,26 @@
       "timestamp": 1786914140.025475,
       "bankroll": 825.81,
       "event": "won: Sassy-Bucket \u2014 Colorado Rockies vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1786914450.421643,
+      "bankroll": 815.81,
+      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786914450.5217724,
+      "bankroll": 805.81,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786914450.8222282,
+      "bankroll": 795.81,
+      "event": "lost: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786914451.0225499,
+      "bankroll": 806.22,
+      "event": "won: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
     }
   ]
 }
