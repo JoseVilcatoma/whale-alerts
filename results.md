@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:16:56 (hora de Perú)
+Actualizado: 2026-08-16 09:18:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **301**  ($15,851,091 en total)
-- Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 35
+- Resueltas: **267** — 151 ganadas / 116 perdidas (**57%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 99
 
 ### Balance
 
-- **Resultado de los apostadores: -$595,856** sobre $12,763,460 apostados (ROI **-4.7%**)
-- Copiando $100 fijo en cada una: **-$2,376** sobre $26,000 (ROI **-9.1%**)
+- **Resultado de los apostadores: -$577,856** sobre $12,795,460 apostados (ROI **-4.5%**)
+- Copiando $100 fijo en cada una: **-$2,320** sobre $26,100 (ROI **-8.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 99 en total)_
 | happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | — | ⏳ Pendiente |
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | +$8,073 | ✅ Ganada |
-| bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | +$10,818 | ✅ Ganada |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | +$20,227 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | +$39,623 | ✅ Ganada |
