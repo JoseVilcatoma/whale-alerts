@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:09:57 (hora de Perú)
+Actualizado: 2026-08-16 09:12:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $852.13
-**Retorno acumulado:** -14.79%
+**Bankroll actual:** $856.62
+**Retorno acumulado:** -14.34%
 **Peor caída desde un máximo (drawdown):** 24.02%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 09:09:57 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $690.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $162.13)
+**Capital comprometido ahora mismo:** $680.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $176.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | HomeRunHazard | 5 | 2 | 25 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
@@ -43,12 +43,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 253
-- **Aciertos:** 132 (52.2%)
+- **Apuestas resueltas:** 254
+- **Aciertos:** 133 (52.4%)
 - **Cuota promedio de entrada:** 53.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,530.00
-- **ROI sobre lo apostado:** -7.44%
+- **Total apostado (suma de stakes):** $2,540.00
+- **ROI sobre lo apostado:** -7.23%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +59,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
 | 40-59% | 130 | 46.9% | 49.4% | -2.5 pp |
-| 60-79% | 59 | 69.5% | 68.1% | +1.4 pp |
+| 60-79% | 60 | 70.0% | 68.1% | +1.9 pp |
 | 80-94% | 16 | 100.0% | 85.1% | +14.9 pp |
 | 95-99% (casi seguro) | 5 | 100.0% | 98.0% | +2.0 pp |
 

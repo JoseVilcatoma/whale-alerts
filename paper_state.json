@@ -1,5 +1,5 @@
 {
-  "bankroll": 852.126873495868,
+  "bankroll": 856.6196271190564,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1365,6 +1365,11 @@
       "timestamp": 1786888513.7393956,
       "bankroll": 852.13,
       "event": "lost: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
+    },
+    {
+      "timestamp": 1786889452.62106,
+      "bankroll": 856.62,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Sion: Dimitris Sakellaridis vs Gian Luca Tanner"
     }
   ]
 }
