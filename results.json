@@ -4450,5 +4450,35 @@
     "status": "pending",
     "ultimo_fill": 1786888684,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 593,
+    "timestamp": 1786888765,
+    "username": "ratatatatatatatataaaa",
+    "wallet": "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487",
+    "slug": "ecs-ars-mci-2026-08-16-total-2pt5",
+    "title": "Arsenal FC vs. Manchester City: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 44960.562,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1786888765,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 594,
+    "timestamp": 1786888799,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mouz-prv-2026-08-16",
+    "title": "Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 42551.8798,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1786888799,
+    "fills": 1
   }
 ]

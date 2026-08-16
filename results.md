@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:58:34 (hora de Perú)
+Actualizado: 2026-08-16 09:00:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **296**  ($15,636,076 en total)
+- Apuestas registradas: **298**  ($15,723,589 en total)
 - Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 97
+- Pendientes: 32
+- Apostadores distintos: 98
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 2 | 66% | $2,444,242 | +$258,390 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 3 | 66% | $2,486,794 | +$258,390 |
 | sainttroplay | 1 | 0 | 9 | ⚠️ 100% (1) | $1,818,348 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 
-_(mostrando los 40 de mayor monto, de 97 en total)_
+_(mostrando los 40 de mayor monto, de 98 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.16 (86¢) | $42,552 | — | ⏳ Pendiente |
+| ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | — | ⏳ Pendiente |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.78 (36¢) | $58,448 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 97 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | +$12,857 | ✅ Ganada |
 | BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | -$136,800 | ❌ Perdida |
 | rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | +$108,921 | ✅ Ganada |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | +$4,345 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.18 (85¢) | $89,526 | -$89,526 | ❌ Perdida |
