@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:56:29 (hora de Perú)
+Actualizado: 2026-08-16 08:58:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **293**  ($15,442,436 en total)
+- Apuestas registradas: **296**  ($15,636,076 en total)
 - Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 27
+- Pendientes: 30
 - Apostadores distintos: 97
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 2 | 66% | $2,444,242 | +$258,390 |
-| sainttroplay | 1 | 0 | 7 | ⚠️ 100% (1) | $1,653,997 | +$370,247 |
+| sainttroplay | 1 | 0 | 9 | ⚠️ 100% (1) | $1,818,348 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
+| lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
-| Lakersfan111 | 2 | 0 | 0 | ⚠️ 100% (2) | $72,796 | +$34,627 |
 
 _(mostrando los 40 de mayor monto, de 97 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 97 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | — | ⏳ Pendiente |
+| sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.78 (36¢) | $58,448 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | — | ⏳ Pendiente |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 97 en total)_
 | rabbitfoot1 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Jalin Turner | 1.92 (52¢) | $117,998 | +$108,921 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ian Machado Garry win by KO or TKO? | No | 1.12 (89¢) | $35,155 | +$4,345 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.18 (85¢) | $89,526 | -$89,526 | ❌ Perdida |
-| BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $39,195 | -$39,195 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims) | Mansur Abdul-Malik | 1.19 (84¢) | $99,936 | -$99,936 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.64 (61¢) | $33,889 | +$21,666 | ✅ Ganada |
