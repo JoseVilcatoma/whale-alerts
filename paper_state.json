@@ -1,5 +1,5 @@
 {
-  "bankroll": 848.4772637240947,
+  "bankroll": 844.1022637240947,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1425,6 +1425,16 @@
       "timestamp": 1786894139.2337656,
       "bankroll": 848.48,
       "event": "won: IMAREALPERSON \u2014 LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786894201.9977772,
+      "bankroll": 838.48,
+      "event": "lost: RN1 \u2014 Hannover 96 vs. VfL Wolfsburg: O/U 1.5"
+    },
+    {
+      "timestamp": 1786894264.99422,
+      "bankroll": 844.1,
+      "event": "won: RN1 \u2014 DSC Arminia Bielefeld vs. FC Energie Cottbus: O/U 2.5"
     }
   ]
 }
