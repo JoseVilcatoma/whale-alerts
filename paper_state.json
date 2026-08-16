@@ -1,5 +1,5 @@
 {
-  "bankroll": 878.8204002216269,
+  "bankroll": 868.8204002216269,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1335,6 +1335,11 @@
       "timestamp": 1786887580.3610585,
       "bankroll": 878.82,
       "event": "won: RN1 \u2014 Sion: Alex Marti Pujolras vs Maximilian Neuchrist"
+    },
+    {
+      "timestamp": 1786888201.0621693,
+      "bankroll": 868.82,
+      "event": "lost: RN1 \u2014 ITF M25 Muttenz Men: Luca Staeheli vs Louis Wessels"
     }
   ]
 }
