@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:08:41 (hora de Perú)
+Actualizado: 2026-08-16 09:10:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **299**  ($15,758,002 en total)
+- Apuestas registradas: **300**  ($15,825,848 en total)
 - Resueltas: **266** — 150 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 98
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 3 | 66% | $2,486,794 | +$258,390 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 4 | 66% | $2,554,641 | +$258,390 |
 | sainttroplay | 1 | 0 | 9 | ⚠️ 100% (1) | $1,818,348 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.09 (92¢) | $67,846 | — | ⏳ Pendiente |
 | StasPanda | Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins | Joblife | 2.08 (48¢) | $34,413 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.16 (86¢) | $42,552 | — | ⏳ Pendiente |
 | ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 98 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $30,442 | -$30,442 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner | Team Falcons | 1.43 (70¢) | $30,000 | +$12,857 | ✅ Ganada |
-| BreakTheBank | UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims) | Kauê Fernandes | 2.08 (48¢) | $136,800 | -$136,800 | ❌ Perdida |
