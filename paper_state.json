@@ -1,5 +1,5 @@
 {
-  "bankroll": 937.5830214596111,
+  "bankroll": 941.8687357453255,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1030,6 +1030,11 @@
       "timestamp": 1786840555.9363072,
       "bankroll": 937.58,
       "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Cincinnati Open: Tommy Paul vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1786841299.026854,
+      "bankroll": 941.87,
+      "event": "won: 111111111115 \u2014 Valorant: KR\u00dc Esports vs MIBR (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
