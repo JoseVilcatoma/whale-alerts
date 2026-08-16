@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:31:31 (hora de Perú)
+Actualizado: 2026-08-16 09:33:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **305**  ($16,080,451 en total)
+- Apuestas registradas: **307**  ($16,280,115 en total)
 - Resueltas: **267** — 151 ganadas / 116 perdidas (**57%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 100
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 25 | 13 | 5 | 66% | $2,580,861 | +$258,390 |
-| sainttroplay | 1 | 0 | 11 | ⚠️ 100% (1) | $1,937,598 | +$370,247 |
+| sainttroplay | 1 | 0 | 12 | ⚠️ 100% (1) | $2,042,133 | +$370,247 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 1 | 2 | ⚠️ 80% (5) | $609,396 | +$72,530 |
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | dsasdaas | 0 | 0 | 1 | — | $123,402 | — |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
+| swisstony | 0 | 0 | 2 | — | $120,372 | — |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | SDTrading | 0 | 3 | 1 | ⚠️ 0% (3) | $110,062 | -$81,210 |
 | TAIWANNUMBERONE | 3 | 0 | 1 | ⚠️ 100% (3) | $109,036 | +$29,377 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 1 | — | $83,889 | — |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
-| gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 
 _(mostrando los 40 de mayor monto, de 100 en total)_
 
@@ -71,8 +71,10 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | — | ⏳ Pendiente |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.09 (92¢) | $26,220 | — | ⏳ Pendiente |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $84,000 | — | ⏳ Pendiente |
+| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $115,200 | — | ⏳ Pendiente |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.13 (47¢) | $35,250 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.06 (94¢) | $83,889 | — | ⏳ Pendiente |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.25 (80¢) | $25,243 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | 007theone1 | Cincinnati Open: Lois Boisson vs Belinda Bencic | Lois Boisson | 1.49 (67¢) | $50,818 | +$25,030 | ✅ Ganada |
 | suntori | Cincinnati Open: Peyton Stearns vs Clara Tauson | Peyton Stearns | 1.39 (72¢) | $48,702 | -$48,702 | ❌ Perdida |
 | BreakTheBank | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Ian Machado Garry | 3.85 (26¢) | $91,469 | -$91,469 | ❌ Perdida |
-| BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $179,572 | -$179,572 | ❌ Perdida |
-| BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
