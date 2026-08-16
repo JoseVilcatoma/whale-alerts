@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 17:23:22 (hora de Perú)
+Actualizado: 2026-08-16 17:25:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $805.40
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 17:23:22 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $645.40)
+**Capital comprometido ahora mismo:** $170.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $635.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| Sassy-Bucket | 4 | 6 | 6 | -1.36 USD |
+| Sassy-Bucket | 4 | 6 | 7 | -1.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -7.78 USD |
@@ -122,6 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 52% | 10.00 | 9.0% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Game Handicap: LY (-1.5) vs Sentinels (+ | LYON (BUY) | 55% | 10.00 | 13.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: LY (-1.5) vs Sentinels (+ | Sentinels (BUY) | 46% | 10.00 | 29.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 63% | 10.00 | 126.0% | ⏳ pendiente | — |
@@ -151,4 +152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ❌ perdida | -10.00 |
 | Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 12.0% | ✅ ganada | +10.83 |
 | midwicket72 | Metro Bank One Day Cup: Middlesex vs Dur | Durham (BUY) | 42% | 10.00 | 21.0% | ⏳ pendiente | — |
-| IMAREALPERSON | Counter-Strike: Astralis vs NIP - Map 2  | NIP (BUY) | 56% | 10.00 | 51.5% | ✅ ganada | +7.86 |

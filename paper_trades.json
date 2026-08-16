@@ -7895,5 +7895,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786917908.3834262,
     "fills": 1
+  },
+  {
+    "timestamp": 1786919123,
+    "timestamp_added": 1786919123.9736745,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-por-phx-2026-08-16-total-178pt5",
+    "title": "Portland Fire vs. Phoenix Mercury: O/U 178.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 14850.18,
+    "whale_pct": 8.971,
+    "whale_value_at_open": 165537.3945,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786919123.9736855,
+    "fills": 1
   }
 ]
