@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 18:41:17 (hora de Perú)
+Actualizado: 2026-08-16 18:43:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $788.87
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 18:41:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $718.87)
+**Capital comprometido ahora mismo:** $80.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $708.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 0 | +44.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 1 | +44.73 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -115,11 +115,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
+| lol-ly-sen-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 7.1% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ⏳ pendiente | — |
@@ -149,4 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Sion: Dimitris Sakellaridis vs Gian Luca | Dimitris Sakellaridis (BUY) | 69% | 10.00 | 141.0% | ✅ ganada | +4.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | Kiwoom DRX (BUY) | 58% | 10.00 | 21.8% | ❌ perdida | -10.00 |
 | RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ❌ perdida | -10.00 |
-| RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ❌ perdida | -10.00 |
