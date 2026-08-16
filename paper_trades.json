@@ -7245,8 +7245,8 @@
     "title": "ITF W35 Bydgoszcz Women: Daria Kuczer vs Yelyzaveta Kotliar",
     "outcome": "Yelyzaveta Kotliar",
     "side": "BUY",
-    "whale_usd": 1515.36,
-    "whale_pct": 1.816,
+    "whale_usd": 2601.3306000000002,
+    "whale_pct": 3.117,
     "whale_value_at_open": 83444.387,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -7256,7 +7256,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786875434.6076512,
-    "fills": 1
+    "last_fill_at": 1786875520.3778117,
+    "fills": 2
   }
 ]
