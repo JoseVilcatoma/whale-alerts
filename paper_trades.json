@@ -6435,8 +6435,8 @@
     "title": "Will Hannover 96 win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 911.405344,
-    "whale_pct": 1.06,
+    "whale_usd": 2715.894244,
+    "whale_pct": 3.159,
     "whale_value_at_open": 85979.8204,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -6446,7 +6446,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786878765.5176916,
-    "fills": 1
+    "last_fill_at": 1786878829.991223,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786878899,
+    "timestamp_added": 1786878899.8106272,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kumstat-moelle-2026-08-16",
+    "title": "Hamburg: Jan Kumstat vs Marvin Moeller",
+    "outcome": "Jan Kumstat",
+    "side": "BUY",
+    "whale_usd": 3837.60098,
+    "whale_pct": 4.263,
+    "whale_value_at_open": 90030.9669,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786878900.3157885,
+    "fills": 2
   }
 ]
