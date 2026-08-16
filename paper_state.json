@@ -1,5 +1,5 @@
 {
-  "bankroll": 810.6758865272258,
+  "bankroll": 816.704255321552,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1312,174 +1312,154 @@
       "event": "won: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner"
     },
     {
-      "timestamp": 1786884897.520235,
-      "bankroll": 880.49,
-      "event": "won: RN1 \u2014 Sion: Michael Zhu vs Thiago Cigarran"
-    },
-    {
-      "timestamp": 1786885330.3829148,
-      "bankroll": 870.49,
-      "event": "lost: RN1 \u2014 Roehampton: Rhys Lawlor vs Nicolas Tepmahc"
-    },
-    {
-      "timestamp": 1786885331.7154584,
-      "bankroll": 872.99,
-      "event": "won: RN1 \u2014 Roehampton: Rhys Lawlor vs Nicolas Tepmahc"
-    },
-    {
-      "timestamp": 1786887451.1614885,
-      "bankroll": 873.2,
-      "event": "won: RN1 \u2014 Prague: Fryderyk Lechno-Wasiutynski vs Matthew William Donald"
-    },
-    {
-      "timestamp": 1786887580.3610585,
-      "bankroll": 878.82,
-      "event": "won: RN1 \u2014 Sion: Alex Marti Pujolras vs Maximilian Neuchrist"
-    },
-    {
-      "timestamp": 1786888201.0621693,
-      "bankroll": 868.82,
-      "event": "lost: RN1 \u2014 ITF M25 Muttenz Men: Luca Staeheli vs Louis Wessels"
-    },
-    {
-      "timestamp": 1786888512.5289314,
-      "bankroll": 858.82,
-      "event": "lost: Lakersfan111 \u2014 Game Handicap: TY (-1.5) vs LGD Gaming (+1.5)"
-    },
-    {
-      "timestamp": 1786888512.8164032,
-      "bankroll": 848.82,
-      "event": "lost: 111111111115 \u2014 Counter-Strike: TheMongolz vs paiN - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786888512.9165132,
-      "bankroll": 852.52,
-      "event": "won: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
-    },
-    {
-      "timestamp": 1786888513.63921,
-      "bankroll": 862.13,
-      "event": "won: Dota2winner \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
-    },
-    {
-      "timestamp": 1786888513.7393956,
-      "bankroll": 852.13,
-      "event": "lost: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
-    },
-    {
-      "timestamp": 1786889452.62106,
-      "bankroll": 856.62,
-      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Sion: Dimitris Sakellaridis vs Gian Luca Tanner"
-    },
-    {
-      "timestamp": 1786889570.7356303,
-      "bankroll": 858.81,
-      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 4.5"
-    },
-    {
-      "timestamp": 1786889761.2567472,
-      "bankroll": 860.58,
-      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 3.5"
-    },
-    {
-      "timestamp": 1786890315.3371665,
-      "bankroll": 860.58,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend (+0.00 USD)"
-    },
-    {
-      "timestamp": 1786891005.8712811,
-      "bankroll": 850.58,
+      "timestamp": 1786899224.9560254,
+      "bankroll": 864.36,
       "event": "lost: Lakersfan111 \u2014 Map Handicap: VIT (-1.5) vs Lynn Vision (+1.5)"
     },
     {
-      "timestamp": 1786891013.976328,
-      "bankroll": 851.22,
-      "event": "won: HomeRunHazard \u2014 Prague: Luciano Emanuel Ambrogi vs Vojtech Mares"
+      "timestamp": 1786899226.1674767,
+      "bankroll": 854.36,
+      "event": "lost: Lakersfan111 \u2014 Game Handicap: TY (-1.5) vs LGD Gaming (+1.5)"
     },
     {
-      "timestamp": 1786891630.2512434,
-      "bankroll": 851.53,
+      "timestamp": 1786899226.42703,
+      "bankroll": 844.36,
+      "event": "lost: 111111111115 \u2014 Counter-Strike: TheMongolz vs paiN - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786899226.687454,
+      "bankroll": 848.06,
+      "event": "won: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
+    },
+    {
+      "timestamp": 1786899227.1107996,
+      "bankroll": 848.37,
       "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-16?"
     },
     {
-      "timestamp": 1786893315.1325479,
-      "bankroll": 861.13,
-      "event": "won: RN1 \u2014 Hamburg: Jan Kumstat vs Marvin Moeller"
+      "timestamp": 1786899227.4102244,
+      "bankroll": 838.37,
+      "event": "lost: RN1 \u2014 ITF M25 Muttenz Men: Luca Staeheli vs Louis Wessels"
     },
     {
-      "timestamp": 1786893763.9414797,
-      "bankroll": 851.13,
-      "event": "lost: RN1 \u2014 SG Dynamo Dresden vs. SV Darmstadt 98: O/U 2.5"
+      "timestamp": 1786899227.510388,
+      "bankroll": 847.98,
+      "event": "won: Dota2winner \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
     },
     {
-      "timestamp": 1786894073.549994,
-      "bankroll": 858.38,
+      "timestamp": 1786899227.6105409,
+      "bankroll": 837.98,
+      "event": "lost: IMAREALPERSON \u2014 Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round"
+    },
+    {
+      "timestamp": 1786899227.913387,
+      "bankroll": 827.98,
+      "event": "lost: RN1 \u2014 Roehampton: Rhys Lawlor vs Nicolas Tepmahc"
+    },
+    {
+      "timestamp": 1786899228.1927066,
+      "bankroll": 835.22,
       "event": "won: RN1 \u2014 Will Hannover 96 win on 2026-08-16?"
     },
     {
-      "timestamp": 1786894073.9507027,
-      "bankroll": 848.38,
-      "event": "lost: RN1 \u2014 Will Hannover 96 win on 2026-08-16?"
+      "timestamp": 1786899228.4568532,
+      "bankroll": 844.83,
+      "event": "won: RN1 \u2014 Hamburg: Jan Kumstat vs Marvin Moeller"
     },
     {
-      "timestamp": 1786894139.2337656,
-      "bankroll": 848.48,
+      "timestamp": 1786899228.8781936,
+      "bankroll": 844.93,
       "event": "won: IMAREALPERSON \u2014 LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner"
     },
     {
-      "timestamp": 1786894201.9977772,
-      "bankroll": 838.48,
-      "event": "lost: RN1 \u2014 Hannover 96 vs. VfL Wolfsburg: O/U 1.5"
+      "timestamp": 1786899229.1295016,
+      "bankroll": 846.69,
+      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 3.5"
     },
     {
-      "timestamp": 1786894264.99422,
-      "bankroll": 844.1,
+      "timestamp": 1786899229.3802197,
+      "bankroll": 848.89,
+      "event": "won: RN1 \u2014 ADO Den Haag vs. FC Groningen: O/U 4.5"
+    },
+    {
+      "timestamp": 1786899229.658547,
+      "bankroll": 854.51,
       "event": "won: RN1 \u2014 DSC Arminia Bielefeld vs. FC Energie Cottbus: O/U 2.5"
     },
     {
-      "timestamp": 1786895389.2320492,
-      "bankroll": 834.1,
+      "timestamp": 1786899229.9161167,
+      "bankroll": 860.64,
+      "event": "won: RN1 \u2014 Sion: Michael Zhu vs Thiago Cigarran"
+    },
+    {
+      "timestamp": 1786899230.0162466,
+      "bankroll": 850.64,
+      "event": "lost: RN1 \u2014 Will Hannover 96 win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786899230.3180728,
+      "bankroll": 840.64,
       "event": "lost: 111111111115 \u2014 LoL: Kiwoom DRX vs HANJIN BRION - Game 2 Winner"
     },
     {
-      "timestamp": 1786895389.431159,
-      "bankroll": 837.44,
+      "timestamp": 1786899230.576858,
+      "bankroll": 843.98,
       "event": "won: 111111111115 \u2014 LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
     },
     {
-      "timestamp": 1786895390.8677628,
-      "bankroll": 827.44,
-      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
+      "timestamp": 1786899230.6770432,
+      "bankroll": 846.48,
+      "event": "won: RN1 \u2014 Roehampton: Rhys Lawlor vs Nicolas Tepmahc"
     },
     {
-      "timestamp": 1786895947.881077,
-      "bankroll": 833.83,
+      "timestamp": 1786899231.1418009,
+      "bankroll": 846.68,
+      "event": "won: RN1 \u2014 Prague: Fryderyk Lechno-Wasiutynski vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786899231.6201167,
+      "bankroll": 836.68,
+      "event": "lost: RN1 \u2014 Hannover 96 vs. VfL Wolfsburg: O/U 1.5"
+    },
+    {
+      "timestamp": 1786899232.2203975,
+      "bankroll": 842.3,
+      "event": "won: RN1 \u2014 Sion: Alex Marti Pujolras vs Maximilian Neuchrist"
+    },
+    {
+      "timestamp": 1786899232.6005945,
+      "bankroll": 832.3,
+      "event": "lost: RN1 \u2014 SG Dynamo Dresden vs. SV Darmstadt 98: O/U 2.5"
+    },
+    {
+      "timestamp": 1786899232.900713,
+      "bankroll": 835.82,
+      "event": "won: RN1 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786899233.18755,
+      "bankroll": 842.21,
       "event": "won: RN1 \u2014 Djurgardens IF vs. AIK: O/U 3.5"
     },
     {
-      "timestamp": 1786896271.0008082,
-      "bankroll": 837.16,
-      "event": "won: HomeRunHazard \u2014 Prague: Matyas Cerny vs Dusan Obradovic"
-    },
-    {
-      "timestamp": 1786896329.5977762,
-      "bankroll": 827.16,
+      "timestamp": 1786899233.449005,
+      "bankroll": 832.21,
       "event": "lost: RN1 \u2014 Will VfL Wolfsburg win on 2026-08-16?"
     },
     {
-      "timestamp": 1786896390.0605657,
-      "bankroll": 817.16,
-      "event": "lost: ChonkyChocolateCake \u2014 LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage"
-    },
-    {
-      "timestamp": 1786897647.3425884,
-      "bankroll": 807.16,
+      "timestamp": 1786899233.744507,
+      "bankroll": 822.21,
       "event": "lost: RN1 \u2014 Will Degerfors IF win on 2026-08-16?"
     },
     {
-      "timestamp": 1786898084.192466,
-      "bankroll": 810.68,
-      "event": "won: RN1 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-16?"
+      "timestamp": 1786899233.8446553,
+      "bankroll": 812.21,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1786899234.132534,
+      "bankroll": 816.7,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Sion: Dimitris Sakellaridis vs Gian Luca Tanner"
     }
   ]
 }

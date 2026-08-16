@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 11:53:31 (hora de Perú)
+Actualizado: 2026-08-16 11:55:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $810.68
-**Retorno acumulado:** -18.93%
-**Peor caída desde un máximo (drawdown):** 27.75%
+**Bankroll actual:** $816.70
+**Retorno acumulado:** -18.33%
+**Peor caída desde un máximo (drawdown):** 27.30%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $180.68)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $616.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,35 +20,34 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 0 | +34.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 0 | +34.73 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
-| Sassy-Bucket | 2 | 3 | 1 | +9.29 USD |
+| Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
-| HomeRunHazard | 7 | 2 | 29 | +6.76 USD |
 | 111111111115 | 11 | 8 | 3 | +6.57 USD |
+| HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| predictionlegend | 0 | 0 | 4 | +0.00 USD |
+| 3edmond.dantes | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 11 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| Lakersfan111 | 9 | 9 | 4 | -16.53 USD |
-| g42gh6524h5h5 | 9 | 8 | 2 | -17.06 USD |
-| midwicket72 | 1 | 2 | 2 | -18.10 USD |
-| IMAREALPERSON | 5 | 4 | 1 | -28.46 USD |
+| Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
+| midwicket72 | 1 | 2 | 0 | -18.10 USD |
+| IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
+| wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 | RN1 | 23 | 18 | 4 | -80.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 275
-- **Aciertos:** 145 (52.7%)
-- **Cuota promedio de entrada:** 54.9%
+- **Apuestas resueltas:** 272
+- **Aciertos:** 143 (52.6%)
+- **Cuota promedio de entrada:** 54.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,750.00
-- **ROI sobre lo apostado:** -8.35%
+- **Total apostado (suma de stakes):** $2,720.00
+- **ROI sobre lo apostado:** -8.22%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,9 +57,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
-| 40-59% | 138 | 45.7% | 49.6% | -3.9 pp |
-| 60-79% | 67 | 70.1% | 68.4% | +1.7 pp |
-| 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
+| 40-59% | 137 | 46.0% | 49.6% | -3.6 pp |
+| 60-79% | 66 | 69.7% | 68.3% | +1.4 pp |
+| 80-94% | 18 | 100.0% | 84.9% | +15.1 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -127,33 +126,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Boston Red Sox vs. Pittsburgh Pirates: O | Over (BUY) | 48% | 10.00 | 4.7% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 46% | 10.00 | 38.5% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 50% | 10.00 | 30.8% | ⏳ pendiente | — |
-| predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
-| predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 104.7% | ⏳ pendiente | — |
-| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Nottinghamshire (BUY) | 59% | 10.00 | 36.1% | ⏳ pendiente | — |
-| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 46% | 10.00 | 4.5% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Taylor Townsend vs Elen | Elena Rybakina (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Ugo Humbert vs Michael  | Michael Zheng (BUY) | 47% | 10.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Janice Tjen vs Viktorij | Janice Tjen (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | San Diego Padres vs. Cleveland Guardians | Over (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
-| SDTrading | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 56% | 10.00 | 13.7% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Matyas Cerny vs Dusan Obradovic | Matyas Cerny (BUY) | 75% | 10.00 | 0.5% | ✅ ganada | +3.33 |
-| predictionlegend | Will Molde FK win on 2026-08-16? | No (BUY) | 51% | 10.00 | 144.2% | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 54% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | 💰 vendida anticipada | +0.00 |
-| HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates | Boston Red Sox (BUY) | 53% | 10.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. Atlanta Dream | Indiana Fever (BUY) | 50% | 10.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
-| SDTrading | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 48% | 10.00 | 7.4% | ⏳ pendiente | — |
-| predictionlegend | CD Nacional vs. Estoril Praia: O/U 2.5 | Over (BUY) | 51% | 10.00 | 21.3% | ⏳ pendiente | — |
-| ChonkyChocolateCake | Game Handicap: TES (-1.5) vs EDward Gami | Top Esports (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
-| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 60% | 10.00 | 6.0% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Over (BUY) | 42% | 10.00 | 1.5% | ⏳ pendiente | — |
-| SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8 | Under (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 53% | 10.00 | 1.9% | ⏳ pendiente | — |
-| SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 4.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
+| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 20 | Yes (BUY) | 47% | 10.00 | 105.4% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Sion: Dimitris Sakellaridis vs Gian Luca | Dimitris Sakellaridis (BUY) | 69% | 10.00 | 141.0% | ✅ ganada | +4.49 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | Kiwoom DRX (BUY) | 58% | 10.00 | 21.8% | ❌ perdida | -10.00 |
+| RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ❌ perdida | -10.00 |
+| RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ❌ perdida | -10.00 |
+| RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ✅ ganada | +6.39 |
+| RN1 | Will FC Nordsjælland win on 2026-08-16? | Yes (BUY) | 74% | 10.00 | 1.5% | ✅ ganada | +3.51 |
+| RN1 | SG Dynamo Dresden vs. SV Darmstadt 98: O | Over (BUY) | 57% | 10.00 | 0.8% | ❌ perdida | -10.00 |
+| RN1 | Will Liverpool FC vs. Como 1907 end in a | No (BUY) | 76% | 10.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Sion: Alex Marti Pujolras vs Maximilian  | Alex Marti Pujolras (BUY) | 64% | 10.00 | 3.1% | ✅ ganada | +5.62 |
+| RN1 | Will Nottingham Forest win on 2026-08-16 | Yes (BUY) | 54% | 10.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 7.9% | ⏳ pendiente | — |
+| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 2.6% | ❌ perdida | -10.00 |
+| RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ✅ ganada | +0.20 |
+| HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ✅ ganada | +2.50 |
+| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ✅ ganada | +3.33 |
+| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION - Game 2 | HANJIN BRION (BUY) | 49% | 10.00 | 13.1% | ❌ perdida | -10.00 |
+| RN1 | Will Hannover 96 win on 2026-08-16? | Yes (BUY) | 47% | 10.00 | 1.2% | ❌ perdida | -10.00 |
+| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 62% | 10.00 | 4.2% | ✅ ganada | +6.13 |
+| RN1 | DSC Arminia Bielefeld vs. FC Energie Cot | Over (BUY) | 64% | 10.00 | 1.0% | ✅ ganada | +5.62 |
+| RN1 | ADO Den Haag vs. FC Groningen: O/U 4.5 | Over (BUY) | 82% | 10.00 | 0.6% | ✅ ganada | +2.20 |
+| RN1 | ADO Den Haag vs. FC Groningen: O/U 3.5 | Over (BUY) | 85% | 10.00 | 0.6% | ✅ ganada | +1.76 |
+| IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 99% | 10.00 | 31.0% | ✅ ganada | +0.10 |
+| HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Over (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |

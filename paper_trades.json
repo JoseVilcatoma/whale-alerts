@@ -8269,5 +8269,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786898966.664556,
     "fills": 1
+  },
+  {
+    "timestamp": 1786899335,
+    "timestamp_added": 1786899335.5541434,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "lal-esp-lev-2026-08-16-esp",
+    "title": "Will RCD Espanyol de Barcelona win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 46000.0,
+    "whale_pct": 105.421,
+    "whale_value_at_open": 43634.3912,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786899335.554155,
+    "fills": 1
   }
 ]
