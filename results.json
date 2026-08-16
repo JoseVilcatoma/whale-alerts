@@ -4280,9 +4280,11 @@
     "side": "BUY",
     "usd": 64861.9366,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1786887147,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 1410.04,
+    "precio_salida": 47
   },
   {
     "telegram_msg_id": 579,
@@ -4342,6 +4344,21 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1786887829,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 584,
+    "timestamp": 1786888187,
+    "username": "bigspending",
+    "wallet": "0x86dab59a8a6e7f9947282d2117aab3429b706428",
+    "slug": "elc-bur-whu-2026-08-16-whu",
+    "title": "Will West Ham United FC win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30829.573600000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1786888187,
     "fills": 1
   }
 ]
