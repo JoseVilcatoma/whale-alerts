@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 02:15:55 (hora de Perú)
+Actualizado: 2026-08-16 02:17:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $938.27
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 02:15:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $648.27)
+**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $638.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 7 | 7 | 6 | -26.40 USD |
+| RN1 | 7 | 7 | 7 | -26.40 USD |
 | wr0ngw4yb3tt0r | 10 | 14 | 2 | -44.24 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -112,6 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Tianjin 2 Men: Kosuke Ogura vs O | Omar Jasika (BUY) | 56% | 10.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm | Chicago Sky (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 84% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -141,4 +142,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 4.0% | ✅ ganada | +1.24 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 10.4% | ❌ perdida | -10.00 |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ✅ ganada | +6.13 |
-| HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
