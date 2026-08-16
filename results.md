@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 15:26:32 (hora de Perú)
+Actualizado: 2026-08-16 15:28:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **336**  ($17,508,395 en total)
-- Resueltas: **316** — 186 ganadas / 130 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **317** — 187 ganadas / 130 perdidas (**59%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 106
 
 ### Balance
 
-- **Resultado de los apostadores: +$51,998** sobre $16,344,101 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$1,851** sobre $30,800 (ROI **-6.0%**)
+- **Resultado de los apostadores: +$54,419** sobre $16,376,263 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$1,843** sobre $30,900 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $59,113 | — | ⏳ Pendiente |
 | Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | — | ⏳ Pendiente |
+| 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | +$2,421 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | — | ⏳ Pendiente |
 | Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | — | ⏳ Pendiente |
