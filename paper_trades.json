@@ -8089,8 +8089,8 @@
     "title": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
     "outcome": "NIP",
     "side": "BUY",
-    "whale_usd": 3863.536363,
-    "whale_pct": 2.671,
+    "whale_usd": 5254.445453,
+    "whale_pct": 3.632,
     "whale_value_at_open": 144670.3094,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -8102,8 +8102,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786894223.3951848,
-    "fills": 4
+    "last_fill_at": 1786894662.0504959,
+    "fills": 5
   },
   {
     "timestamp": 1786893436,
