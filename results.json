@@ -5054,5 +5054,20 @@
     "status": "pending",
     "ultimo_fill": 1786908405,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 686,
+    "timestamp": 1786912162,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-chi-sea-2026-08-16-spread-away-2pt5",
+    "title": "Spread: Chicago Sky (-2.5)",
+    "outcome": "Seattle Storm",
+    "side": "BUY",
+    "usd": 27208.764498273318,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786912162,
+    "fills": 1
   }
 ]
