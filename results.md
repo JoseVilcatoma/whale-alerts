@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 04:14:56 (hora de Perú)
+Actualizado: 2026-08-16 04:17:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **266**  ($12,780,986 en total)
+- Apuestas registradas: **267**  ($12,808,012 en total)
 - Resueltas: **259** — 143 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 88
 
 ### Balance
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 | Mylifeisover | 1 | 1 | 0 | ⚠️ 50% (2) | $82,641 | -$2,641 |
 | SDTrading | 0 | 3 | 0 | ⚠️ 0% (3) | $81,210 | -$81,210 |
+| TAIWANNUMBERONE | 2 | 0 | 1 | ⚠️ 100% (2) | $80,336 | +$21,304 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,796 | +$14,400 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
-| Dragua9 | 1 | 1 | 0 | ⚠️ 50% (2) | $59,881 | -$13,518 |
 
 _(mostrando los 40 de mayor monto, de 88 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 88 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | — | ⏳ Pendiente |
 | bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 88 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims) | Ramiz Brahimaj | 1.72 (58¢) | $116,000 | -$116,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Texas Rangers | 1.67 (60¢) | $34,604 | +$23,070 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
-| suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | +$19,051 | ✅ Ganada |
