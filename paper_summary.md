@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 03:50:13 (hora de Perú)
+Actualizado: 2026-08-16 03:52:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $895.19
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 03:50:13 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $525.19)
+**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $515.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 7 | -52.54 USD |
+| RN1 | 9 | 10 | 8 | -52.54 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -117,6 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 67% | 10.00 | 5.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Daria Kuczer (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | T1 (BUY) | 69% | 10.00 | 220.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 73% | 10.00 | 38.3% | ⏳ pendiente | — |
@@ -146,4 +147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.5% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ❌ perdida | -10.00 |

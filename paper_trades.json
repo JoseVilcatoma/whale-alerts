@@ -6782,5 +6782,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786869788.9344928,
     "fills": 1
+  },
+  {
+    "timestamp": 1786870220,
+    "timestamp_added": 1786870221.7537773,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dougaz-matsuok-2026-08-16",
+    "title": "Astana: Aziz Dougaz vs Hayato Matsuoka",
+    "outcome": "Aziz Dougaz",
+    "side": "BUY",
+    "whale_usd": 3121.812376,
+    "whale_pct": 5.938,
+    "whale_value_at_open": 52571.995,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 67,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786870276.2781897,
+    "fills": 2
   }
 ]
