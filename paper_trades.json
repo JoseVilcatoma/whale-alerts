@@ -6190,5 +6190,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786860123.1348534,
     "fills": 4
+  },
+  {
+    "timestamp": 1786860675,
+    "timestamp_added": 1786860676.555675,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-lgd-ty-2026-08-16-game2",
+    "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 1707.7775,
+    "whale_pct": 1.218,
+    "whale_value_at_open": 140207.4266,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786860676.5556846,
+    "fills": 1
   }
 ]
