@@ -7150,8 +7150,8 @@
     "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3676.3092,
-    "whale_pct": 5.441,
+    "whale_usd": 5762.2968,
+    "whale_pct": 8.528,
     "whale_value_at_open": 67567.4787,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -7161,8 +7161,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786884707.8355765,
-    "fills": 2
+    "last_fill_at": 1786888393.42359,
+    "fills": 3
   },
   {
     "timestamp": 1786884575,
@@ -7749,6 +7749,54 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786887800.8801477,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786888271,
+    "timestamp_added": 1786888272.3698008,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bos-pit-2026-08-16",
+    "title": "Boston Red Sox vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 6462.7256,
+    "whale_pct": 5.298,
+    "whale_value_at_open": 121975.1899,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786888272.369811,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786888330,
+    "timestamp_added": 1786888330.4945822,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-chc-2026-08-16-total-9pt5",
+    "title": "St. Louis Cardinals vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 937.9031,
+    "whale_pct": 0.705,
+    "whale_value_at_open": 132969.8377,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786888330.4945922,
     "fills": 1
   }
 ]

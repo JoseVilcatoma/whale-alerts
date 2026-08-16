@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 08:51:12 (hora de Perú)
+Actualizado: 2026-08-16 08:53:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $868.82
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 08:51:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $690.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $178.82)
+**Capital comprometido ahora mismo:** $710.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $158.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,13 +25,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 21 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 22 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 9 | -1.87 USD |
+| SDTrading | 2 | 2 | 10 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -122,6 +122,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
+| SDTrading | Boston Red Sox vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 48% | 10.00 | 5.3% | ⏳ pendiente | — |
 | predictionlegend | CD Nacional vs. Estoril Praia: O/U 2.5 | Over (BUY) | 51% | 10.00 | 21.3% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Game Handicap: TES (-1.5) vs EDward Gami | Top Esports (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 60% | 10.00 | 6.0% | ⏳ pendiente | — |
@@ -147,8 +149,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Chicago Cubs: O/ | Under (BUY) | 58% | 10.00 | 1.5% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 5.4% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 55% | 10.00 | 8.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 8.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
