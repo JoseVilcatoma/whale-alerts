@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 18:53:53 (hora de Perú)
+Actualizado: 2026-08-16 18:55:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **346**  ($17,876,601 en total)
-- Resueltas: **335** — 200 ganadas / 135 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **336** — 201 ganadas / 135 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,105,361** sobre $17,483,501 apostados (ROI **+6.3%**)
-- Copiando $100 fijo en cada una: **-$828** sobre $32,700 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$1,132,657** sobre $17,513,071 apostados (ROI **+6.5%**)
+- Copiando $100 fijo en cada una: **-$735** sobre $32,800 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 18 | 0 | 63% | $2,833,907 | +$93,649 |
 | sainttroplay | 10 | 4 | 0 | 71% | $2,092,133 | +$1,815,515 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 12 | 2 | 61% | $1,439,581 | +$152,795 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 12 | 1 | 62% | $1,439,581 | +$180,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | +$79,897 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | +$2,421 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | +$42,704 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | +$27,296 | ✅ Ganada |
 | Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | — | ⏳ Pendiente |
 | WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | +$28,350 | ✅ Ganada |
