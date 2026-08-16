@@ -7085,15 +7085,16 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -5.64,
     "overlaps_with": [
       "g42gh6524h5h5"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786873068.9152555,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 24
   },
   {
     "timestamp": 1786873076,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 907.1178600558851,
+  "bankroll": 901.4814964195215,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1315,6 +1315,11 @@
       "timestamp": 1786872987.845908,
       "bankroll": 907.12,
       "event": "venta anticipada: IMAREALPERSON \u2014 LoL: T1 vs Gen.G - Game 2 Winner (+1.54 USD)"
+    },
+    {
+      "timestamp": 1786873315.732115,
+      "bankroll": 901.48,
+      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: T1 vs Gen.G - Game 2 Winner (-5.64 USD)"
     }
   ]
 }
