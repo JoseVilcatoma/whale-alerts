@@ -1,5 +1,5 @@
 {
-  "bankroll": 786.2170785368197,
+  "bankroll": 795.8249216740746,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1605,6 +1605,11 @@
       "timestamp": 1786914575.4526424,
       "bankroll": 786.22,
       "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786917409.8233044,
+      "bankroll": 795.82,
+      "event": "won: crisp1973 \u2014 Will SK Slavia Praha win on 2026-08-16?"
     }
   ]
 }
