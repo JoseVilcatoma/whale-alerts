@@ -6619,8 +6619,8 @@
     "title": "Will Hannover 96 win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 617.32,
-    "whale_pct": 0.583,
+    "whale_usd": 1293.52,
+    "whale_pct": 1.222,
     "whale_value_at_open": 105862.7071,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -6630,8 +6630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786880646.0935447,
-    "fills": 1
+    "last_fill_at": 1786882043.8558164,
+    "fills": 2
   },
   {
     "timestamp": 1786880708,
