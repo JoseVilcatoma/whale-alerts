@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:06:09 (hora de Perú)
+Actualizado: 2026-08-15 23:08:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $965.89
-**Retorno acumulado:** -3.41%
+**Bankroll actual:** $957.38
+**Retorno acumulado:** -4.26%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -22,8 +22,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 5 | 4 | 3 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
+| HomeRunHazard | 1 | 0 | 5 | +1.49 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HomeRunHazard | 0 | 0 | 6 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
@@ -31,18 +31,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 5 | 6 | 3 | -23.02 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 3 | -28.73 USD |
+| RN1 | 5 | 6 | 4 | -23.02 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 2 | -38.73 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 207
-- **Aciertos:** 108 (52.2%)
+- **Apuestas resueltas:** 209
+- **Aciertos:** 109 (52.2%)
 - **Cuota promedio de entrada:** 52.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,070.00
-- **ROI sobre lo apostado:** -3.59%
+- **Total apostado (suma de stakes):** $2,090.00
+- **ROI sobre lo apostado:** -3.97%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,10 +51,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
-| 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
+| 20-39% | 36 | 25.0% | 32.1% | -7.1 pp |
 | 40-59% | 113 | 49.6% | 49.5% | +0.1 pp |
 | 60-79% | 43 | 69.8% | 67.6% | +2.1 pp |
-| 80-94% | 11 | 100.0% | 84.6% | +15.4 pp |
+| 80-94% | 12 | 100.0% | 84.8% | +15.2 pp |
 | 95-99% (casi seguro) | 2 | 100.0% | 99.0% | +1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -99,13 +99,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-sr-dig-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
-| mlb-tex-oak-2026-08-15 | HomeRunHazard, Sassy-Bucket |
+| mlb-tex-oak-2026-08-15 | HomeRunHazard, RN1, Sassy-Bucket |
 | atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 89% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ⏳ pendiente | — |
@@ -114,8 +115,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Athletics (BUY) | 68% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Los Angeles Angels (BUY) | 87% | 10.00 | 8.2% | ✅ ganada | +1.49 |
+| wr0ngw4yb3tt0r | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 25% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 53% | 10.00 | 32.0% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ⏳ pendiente | — |
@@ -135,4 +136,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ❌ perdida | -10.00 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ✅ ganada | +7.24 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Tommy Paul vs Hubert Hu | Tommy Paul (BUY) | 72% | 10.00 | 25.4% | ✅ ganada | +3.89 |
