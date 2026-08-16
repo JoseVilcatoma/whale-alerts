@@ -6974,5 +6974,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786871832.7527246,
     "fills": 3
+  },
+  {
+    "timestamp": 1786872066,
+    "timestamp_added": 1786872067.356188,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-t1-gen-2026-08-16-game2",
+    "title": "LoL: T1 vs Gen.G - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1019.9949,
+    "whale_pct": 9.417,
+    "whale_value_at_open": 10831.3014,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "g42gh6524h5h5"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786872067.3561964,
+    "fills": 1
   }
 ]
