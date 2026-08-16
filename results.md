@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 19:40:31 (hora de Perú)
+Actualizado: 2026-08-15 19:42:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **229**  ($10,670,445 en total)
+- Apuestas registradas: **230**  ($10,756,315 en total)
 - Resueltas: **199** — 111 ganadas / 88 perdidas (**56%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 78
 
 ### Balance
@@ -47,6 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 2 | 1 | ⚠️ 0% (2) | $130,449 | -$67,449 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
+| rabbitfoot1 | 1 | 0 | 1 | ⚠️ 100% (1) | $115,608 | +$11,564 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 0 | 0 | 2 | — | $110,111 | — |
 | sleepy-panda | 0 | 1 | 2 | ⚠️ 0% (1) | $100,978 | -$25,510 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 1 | 0 | ⚠️ 0% (1) | $58,856 | -$58,856 |
 | texaskid | 0 | 1 | 1 | ⚠️ 0% (1) | $56,746 | -$30,307 |
 | suntori | 1 | 0 | 1 | ⚠️ 100% (1) | $56,430 | +$19,051 |
-| TAIWANNUMBERONE | 2 | 0 | 0 | ⚠️ 100% (2) | $53,310 | +$21,304 |
 
 _(mostrando los 40 de mayor monto, de 78 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 78 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| rabbitfoot1 | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $85,871 | — | ⏳ Pendiente |
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | — | ⏳ Pendiente |
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 78 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.19 (84¢) | $36,237 | +$6,902 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: JiJieHao vs Aurora Gaming (BO3) - Esports World Cup Group A | Aurora Gaming | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | jtwyslljy | Will Deportivo Alavés win on 2026-08-15? | No | 1.67 (60¢) | $37,368 | -$37,368 | ❌ Perdida |
-| Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
