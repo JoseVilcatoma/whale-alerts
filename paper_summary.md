@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:00:46 (hora de Perú)
+Actualizado: 2026-08-16 07:02:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $878.24
-**Retorno acumulado:** -12.18%
+**Bankroll actual:** $879.11
+**Retorno acumulado:** -12.09%
 **Peor caída desde un máximo (drawdown):** 21.70%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:00:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $508.24)
+**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $499.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 4 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 5 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -37,17 +37,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 17 | -52.54 USD |
+| RN1 | 10 | 10 | 17 | -51.67 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 238
-- **Aciertos:** 123 (51.7%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 239
+- **Aciertos:** 124 (51.9%)
+- **Cuota promedio de entrada:** 53.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,380.00
-- **ROI sobre lo apostado:** -6.81%
+- **Total apostado (suma de stakes):** $2,390.00
+- **ROI sobre lo apostado:** -6.74%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +59,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
 | 40-59% | 123 | 48.8% | 49.4% | -0.6 pp |
 | 60-79% | 55 | 67.3% | 68.2% | -0.9 pp |
-| 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
+| 80-94% | 15 | 100.0% | 85.5% | +14.5 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -114,6 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 4.8% | ⏳ pendiente | — |
+| RN1 | Hannover 96 vs. VfL Wolfsburg: O/U 1.5 | Over (BUY) | 72% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -136,11 +138,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Dota2winner | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 51% | 10.00 | 23.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Louis Wessels (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will FC Groningen win on 2026-08-16? | Yes (BUY) | 97% | 10.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W35 Vigo Women: Sonja Zhiyenbayeva v | Sonja Zhiyenbayeva (BUY) | 92% | 10.00 | 11.1% | ⏳ pendiente | — |
+| RN1 | ITF W35 Vigo Women: Sonja Zhiyenbayeva v | Sonja Zhiyenbayeva (BUY) | 92% | 10.00 | 11.1% | ✅ ganada | +0.87 |
 | HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ✅ ganada | +3.51 |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ❌ perdida | -10.00 |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ❌ perdida | -10.00 |
