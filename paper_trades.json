@@ -6470,5 +6470,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786866619.7593513,
     "fills": 1
+  },
+  {
+    "timestamp": 1786866842,
+    "timestamp_added": 1786866843.8350575,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gengel-gulin-2026-08-16",
+    "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
+    "outcome": "Svyatoslav Gulin",
+    "side": "BUY",
+    "whale_usd": 598.365,
+    "whale_pct": 1.852,
+    "whale_value_at_open": 32302.6914,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786866843.8350675,
+    "fills": 1
   }
 ]
