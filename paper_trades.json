@@ -7454,8 +7454,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 23620.9842,
-    "whale_pct": 27.608,
+    "whale_usd": 29009.6522,
+    "whale_pct": 33.906,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -7465,8 +7465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786909324.0179002,
-    "fills": 6
+    "last_fill_at": 1786910602.4165127,
+    "fills": 7
   },
   {
     "timestamp": 1786902389,
@@ -7741,8 +7741,8 @@
     "title": "Colorado Rockies vs. San Francisco Giants: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3567.1544,
-    "whale_pct": 2.202,
+    "whale_usd": 13390.1956,
+    "whale_pct": 8.265,
     "whale_value_at_open": 162010.3259,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -7752,7 +7752,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786908159.1264205,
-    "fills": 1
+    "last_fill_at": 1786910685.967091,
+    "fills": 3
   }
 ]
