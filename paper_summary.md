@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 13:53:41 (hora de Perú)
+Actualizado: 2026-08-16 13:55:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $833.45
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 13:53:41 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $493.45)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $483.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 111111111115 | 11 | 10 | 1 | -13.43 USD |
 | midwicket72 | 1 | 2 | 4 | -18.10 USD |
-| IMAREALPERSON | 5 | 4 | 3 | -28.46 USD |
+| IMAREALPERSON | 5 | 4 | 4 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 | RN1 | 25 | 18 | 2 | -65.01 USD |
@@ -115,12 +115,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | lol-g2-fnc-2026-08-16-game1 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
-| lol-png1-fxw7-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
+| lol-png1-fxw7-2026-08-16-game2 | ChonkyChocolateCake, IMAREALPERSON, SineNooneEI |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 59% | 10.00 | 12.5% | ⏳ pendiente | — |
 | SineNooneEI | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | paiN Gaming (BUY) | 45% | 10.00 | 8.4% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: paiN Gaming vs Fluxo W7M - Game 2 W | Fluxo W7M (BUY) | 59% | 10.00 | 64.1% | ⏳ pendiente | — |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ⏳ pendiente | — |
@@ -150,4 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | Kiwoom DRX (BUY) | 58% | 10.00 | 21.8% | ❌ perdida | -10.00 |
 | RN1 | Will Degerfors IF win on 2026-08-16? | No (BUY) | 46% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | RN1 | Will VfL Wolfsburg win on 2026-08-16? | No (BUY) | 76% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| RN1 | Djurgardens IF vs. AIK: O/U 3.5 | Over (BUY) | 61% | 10.00 | 1.5% | ✅ ganada | +6.39 |
