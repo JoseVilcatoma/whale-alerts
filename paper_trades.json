@@ -5114,8 +5114,8 @@
     "title": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
     "outcome": "NIP",
     "side": "BUY",
-    "whale_usd": 10683.484363,
-    "whale_pct": 45.565,
+    "whale_usd": 11274.211635,
+    "whale_pct": 48.084,
     "whale_value_at_open": 23446.9277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -5124,8 +5124,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786895424.238281,
-    "fills": 3
+    "last_fill_at": 1786895622.9812267,
+    "fills": 4
   },
   {
     "timestamp": 1786836264,
@@ -8150,5 +8150,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786895314.1056836,
     "fills": 1
+  },
+  {
+    "timestamp": 1786895545,
+    "timestamp_added": 1786895546.2115624,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "por-aro-mor-2026-08-16-aro",
+    "title": "Will FC Arouca win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 18182.6386,
+    "whale_pct": 69.778,
+    "whale_value_at_open": 26057.6946,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786895559.2999198,
+    "fills": 3
   }
 ]
