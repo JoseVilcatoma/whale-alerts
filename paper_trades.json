@@ -7232,5 +7232,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786899542.969704,
     "fills": 2
+  },
+  {
+    "timestamp": 1786899731,
+    "timestamp_added": 1786899732.0095813,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bos-pit-2026-08-16-total-8pt5",
+    "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 502.9,
+    "whale_pct": 2.21,
+    "whale_value_at_open": 22752.3173,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786899732.0095904,
+    "fills": 1
   }
 ]
