@@ -1,5 +1,5 @@
 {
-  "bankroll": 851.1348743127397,
+  "bankroll": 848.4772637240947,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1410,6 +1410,21 @@
       "timestamp": 1786893763.9414797,
       "bankroll": 851.13,
       "event": "lost: RN1 \u2014 SG Dynamo Dresden vs. SV Darmstadt 98: O/U 2.5"
+    },
+    {
+      "timestamp": 1786894073.549994,
+      "bankroll": 858.38,
+      "event": "won: RN1 \u2014 Will Hannover 96 win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786894073.9507027,
+      "bankroll": 848.38,
+      "event": "lost: RN1 \u2014 Will Hannover 96 win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786894139.2337656,
+      "bankroll": 848.48,
+      "event": "won: IMAREALPERSON \u2014 LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner"
     }
   ]
 }
