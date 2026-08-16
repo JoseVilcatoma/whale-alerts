@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:31:50 (hora de Perú)
+Actualizado: 2026-08-16 08:33:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **284**  ($15,011,294 en total)
+- Apuestas registradas: **286**  ($15,123,156 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 93
+- Pendientes: 23
+- Apostadores distintos: 95
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
 | Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,796 | +$14,400 |
 
-_(mostrando los 40 de mayor monto, de 93 en total)_
+_(mostrando los 40 de mayor monto, de 95 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CongoleseBorat | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.17 (46¢) | $64,862 | — | ⏳ Pendiente |
+| 0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514 | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $28,700 | — | ⏳ Pendiente |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $513,453 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.13 (47¢) | $191,316 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.32 (76¢) | $37,969 | -$37,969 | ❌ Perdida |
 | sleepy-panda | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.33 (75¢) | $37,500 | -$37,500 | ❌ Perdida |
 | AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | -$30,000 | ❌ Perdida |
-| surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | -$35,892 | ❌ Perdida |
-| Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | -$29,347 | ❌ Perdida |

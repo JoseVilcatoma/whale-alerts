@@ -4268,5 +4268,35 @@
     "status": "pending",
     "ultimo_fill": 1786887104,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 578,
+    "timestamp": 1786887147,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "ecs-ars-mci-2026-08-16-total-2pt5",
+    "title": "Arsenal FC vs. Manchester City: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 64861.9366,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1786887147,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 579,
+    "timestamp": 1786887147,
+    "username": "0x21a22c9e1d5E3f92D680C49aFad87f40bc055f83-1768570519514",
+    "wallet": "0x21a22c9e1d5e3f92d680c49afad87f40bc055f83",
+    "slug": "ecs-ars-mci-2026-08-16-total-2pt5",
+    "title": "Arsenal FC vs. Manchester City: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1786887147,
+    "fills": 1
   }
 ]
