@@ -1,5 +1,5 @@
 {
-  "bankroll": 817.1623730137122,
+  "bankroll": 807.1623730137122,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1470,6 +1470,11 @@
       "timestamp": 1786896390.0605657,
       "bankroll": 817.16,
       "event": "lost: ChonkyChocolateCake \u2014 LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage"
+    },
+    {
+      "timestamp": 1786897647.3425884,
+      "bankroll": 807.16,
+      "event": "lost: RN1 \u2014 Will Degerfors IF win on 2026-08-16?"
     }
   ]
 }

@@ -6993,8 +6993,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8219,5 +8219,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786896365.9267826,
     "fills": 4
+  },
+  {
+    "timestamp": 1786897567,
+    "timestamp_added": 1786897567.3365076,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-mkoi-navi-2026-08-16-game2",
+    "title": "LoL: Movistar KOI vs Natus Vincere - Game 2 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "whale_usd": 1070.4986,
+    "whale_pct": 6.546,
+    "whale_value_at_open": 16353.9526,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ChonkyChocolateCake"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786897567.336514,
+    "fills": 1
   }
 ]
