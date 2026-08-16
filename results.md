@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 18:21:31 (hora de Perú)
+Actualizado: 2026-08-16 18:23:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **345**  ($17,845,626 en total)
-- Resueltas: **331** — 198 ganadas / 133 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **334** — 199 ganadas / 135 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,105,726** sobre $17,301,945 apostados (ROI **+6.4%**)
-- Copiando $100 fijo en cada una: **-$883** sobre $32,300 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$1,080,245** sobre $17,456,292 apostados (ROI **+6.2%**)
+- Copiando $100 fijo en cada una: **-$920** sobre $32,600 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 16 | 2 | 66% | $2,833,907 | +$199,027 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 18 | 0 | 63% | $2,833,907 | +$93,649 |
 | sainttroplay | 10 | 4 | 0 | 71% | $2,092,133 | +$1,815,515 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 12 | 2 | 61% | $1,439,581 | +$152,795 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -77,11 +77,11 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | — | ⏳ Pendiente |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | — | ⏳ Pendiente |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $42,567 | -$42,567 | ❌ Perdida |
 | winwin518168 | Spread: Chicago Sky (-2.5) | Seattle Storm | 1.92 (52¢) | $27,209 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $59,113 | — | ⏳ Pendiente |
-| Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $59,113 | -$59,113 | ❌ Perdida |
+| Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | +$79,897 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | +$2,421 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | +$42,704 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | — | ⏳ Pendiente |
