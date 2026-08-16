@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:48:58 (hora de Perú)
+Actualizado: 2026-08-16 04:51:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $901.48
-**Retorno acumulado:** -9.85%
+**Bankroll actual:** $904.47
+**Retorno acumulado:** -9.55%
 **Peor caída desde un máximo (drawdown):** 20.18%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 04:48:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $441.48)
+**Capital comprometido ahora mismo:** $450.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $454.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 10 | 5 | 7 | +33.24 USD |
 | bigspending | 1 | 0 | 1 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
+| Lakersfan111 | 7 | 6 | 8 | +4.62 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | HomeRunHazard | 5 | 2 | 7 | +2.79 USD |
-| Lakersfan111 | 6 | 6 | 9 | +1.63 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | SineNooneEI | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -42,12 +42,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 237
-- **Aciertos:** 124 (52.3%)
-- **Cuota promedio de entrada:** 53.1%
+- **Apuestas resueltas:** 238
+- **Aciertos:** 125 (52.5%)
+- **Cuota promedio de entrada:** 53.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,370.00
-- **ROI sobre lo apostado:** -5.61%
+- **Total apostado (suma de stakes):** $2,380.00
+- **ROI sobre lo apostado:** -5.46%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
 | 40-59% | 123 | 49.6% | 49.4% | +0.1 pp |
-| 60-79% | 54 | 68.5% | 68.1% | +0.4 pp |
+| 60-79% | 55 | 69.1% | 68.3% | +0.8 pp |
 | 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
 
@@ -121,7 +121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 64% | 10.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 5.0% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 55% | 10.00 | 23.7% | 💰 vendida anticipada | -5.64 |
 | bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 10.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 50% | 10.00 | 71.4% | ⏳ pendiente | — |
