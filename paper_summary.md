@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 23:51:41 (hora de Perú)
+Actualizado: 2026-08-15 23:53:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $958.28
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | SDTrading | 1 | 2 | 1 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
-| RN1 | 6 | 6 | 4 | -21.78 USD |
+| RN1 | 6 | 6 | 5 | -21.78 USD |
 | wr0ngw4yb3tt0r | 10 | 13 | 3 | -34.24 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
@@ -107,11 +107,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Tigres de la UANL win on 2026-08-15 | Yes (BUY) | 42% | 10.00 | 1.0% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 250.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under (BUY) | 49% | 10.00 | 53.4% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 40% | 10.00 | 2.8% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 40% | 10.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 75% | 10.00 | 1.7% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: MOUZ vs PARIVISION (BO3) | PARIVISION (BUY) | 35% | 10.00 | 10.3% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 77% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -123,7 +124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 36% | 10.00 | 10.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics | Texas Rangers (BUY) | 83% | 10.00 | 5.8% | ✅ ganada | +2.05 |
-| RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Will Atlas FC win on 2026-08-15? | No (BUY) | 77% | 10.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 8.5 | Under (BUY) | 51% | 10.00 | 0.3% | ✅ ganada | +9.61 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Cam | Alexander Zverev (BUY) | 65% | 10.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 9.5 | Under (BUY) | 74% | 10.00 | 0.9% | ✅ ganada | +3.51 |
@@ -136,4 +137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Vici Gaming (BUY) | 44% | 10.00 | 19.8% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 98% | 10.00 | 13.7% | ✅ ganada | +0.20 |
