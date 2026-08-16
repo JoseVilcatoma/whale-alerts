@@ -1,5 +1,5 @@
 {
-  "bankroll": 894.4685094065345,
+  "bankroll": 895.8741870622122,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1330,6 +1330,16 @@
       "timestamp": 1786875163.2481139,
       "bankroll": 894.47,
       "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Thasaporn Naklo"
+    },
+    {
+      "timestamp": 1786875662.5169342,
+      "bankroll": 894.89,
+      "event": "won: RN1 \u2014 Sion: Gerard Campana Lee vs Franco Ribero"
+    },
+    {
+      "timestamp": 1786875726.397307,
+      "bankroll": 895.87,
+      "event": "won: HomeRunHazard \u2014 Prague: Matyas Kozlovsky vs Javier Barranco Cosano"
     }
   ]
 }
