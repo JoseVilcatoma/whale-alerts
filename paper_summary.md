@@ -30,9 +30,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 3edmond.dantes | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 0 | -1.87 USD |
+| SDTrading | 2 | 2 | 11 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
@@ -105,12 +104,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-sr-dig-2026-08-15-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-sr-dig-2026-08-15-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
+| cs2-ast10-nip-2026-08-16 | 111111111115, Lakersfan111 |
 | mlb-tex-oak-2026-08-15 | HomeRunHazard, RN1, Sassy-Bucket |
 | atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 | cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
+| mlb-stl-chc-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-kc-laa-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-bal-tb-2026-08-16-total-7pt5 | HomeRunHazard, SDTrading |
+| mlb-tex-oak-2026-08-16-total-10pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
+| mlb-sd-cle-2026-08-16-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-mia-cin-2026-08-16-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-mia-cin-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-bos-pit-2026-08-16 | HomeRunHazard, SDTrading |
+| mlb-bos-pit-2026-08-16-total-8pt5 | HomeRunHazard, Sassy-Bucket |
+| lol-mkoi-navi-2026-08-16-game2 | ChonkyChocolateCake, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
