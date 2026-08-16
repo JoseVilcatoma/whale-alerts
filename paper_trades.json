@@ -7268,8 +7268,8 @@
     "title": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
     "outcome": "Weibo Gaming",
     "side": "BUY",
-    "whale_usd": 2955.3174,
-    "whale_pct": 13.444,
+    "whale_usd": 6036.545022,
+    "whale_pct": 27.46,
     "whale_value_at_open": 21982.6548,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7279,7 +7279,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786875709.3444157,
-    "fills": 3
+    "last_fill_at": 1786875790.6716115,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786875758,
+    "timestamp_added": 1786875759.1761718,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zhu-cigarra-2026-08-16",
+    "title": "Sion: Michael Zhu vs Thiago Cigarran",
+    "outcome": "Thiago Cigarran",
+    "side": "BUY",
+    "whale_usd": 3659.04,
+    "whale_pct": 4.218,
+    "whale_value_at_open": 86753.6179,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786875759.1761808,
+    "fills": 1
   }
 ]
