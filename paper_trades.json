@@ -7445,5 +7445,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786885336.2439017,
     "fills": 1
+  },
+  {
+    "timestamp": 1786885499,
+    "timestamp_added": 1786885499.976104,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tex-oak-2026-08-16-total-10pt5",
+    "title": "Texas Rangers vs. Athletics: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 511.06,
+    "whale_pct": 0.458,
+    "whale_value_at_open": 111554.9658,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786885499.976139,
+    "fills": 1
   }
 ]
