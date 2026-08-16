@@ -2778,7 +2778,7 @@
     "side": "BUY",
     "usd": 226925.69819999998,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786821712,
     "fills": 5
   },
@@ -2793,7 +2793,7 @@
     "side": "BUY",
     "usd": 63000.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786821522,
     "fills": 1
   },
@@ -2823,7 +2823,7 @@
     "side": "BUY",
     "usd": 25349.840799999998,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786821914,
     "fills": 1
   },
@@ -3663,10 +3663,10 @@
     "title": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
     "outcome": "Gillian Robertson",
     "side": "BUY",
-    "usd": 32400.0,
+    "usd": 88468.614,
     "odds_at_bet": 36,
     "status": "pending",
-    "ultimo_fill": 1786847480,
-    "fills": 1
+    "ultimo_fill": 1786847533,
+    "fills": 2
   }
 ]
