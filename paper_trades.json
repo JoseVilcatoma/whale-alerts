@@ -5585,8 +5585,8 @@
     "title": "Will Atlas FC win on 2026-08-15?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2489.3893,
-    "whale_pct": 3.237,
+    "whale_usd": 3057.6193,
+    "whale_pct": 3.976,
     "whale_value_at_open": 76894.5366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 77,
@@ -5595,8 +5595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786856023.7405288,
-    "fills": 4
+    "last_fill_at": 1786856128.1363866,
+    "fills": 5
   },
   {
     "timestamp": 1786852736,
@@ -5972,8 +5972,8 @@
     "title": "Will Tigres de la UANL win on 2026-08-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 613.1999999999999,
-    "whale_pct": 0.992,
+    "whale_usd": 1197.1999999999998,
+    "whale_pct": 1.937,
     "whale_value_at_open": 61800.884,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -5982,7 +5982,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786855965.1332781,
-    "fills": 1
+    "last_fill_at": 1786856127.9865677,
+    "fills": 2
   }
 ]
