@@ -1,5 +1,5 @@
 {
-  "bankroll": 875.5327212342006,
+  "bankroll": 878.2401958609929,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1202,184 +1202,94 @@
       "event": "won: Lakersfan111 \u2014 Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)"
     },
     {
-      "timestamp": 1786862852.6273835,
-      "bankroll": 962.14,
-      "event": "won: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
-    },
-    {
-      "timestamp": 1786862853.128249,
-      "bankroll": 968.27,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
-    },
-    {
-      "timestamp": 1786862853.2284095,
-      "bankroll": 958.27,
-      "event": "lost: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
-    },
-    {
-      "timestamp": 1786862855.3320417,
-      "bankroll": 948.27,
-      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
-    },
-    {
-      "timestamp": 1786863476.9648294,
-      "bankroll": 938.27,
-      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: KC (-1.5)"
-    },
-    {
-      "timestamp": 1786864734.5092869,
-      "bankroll": 941.61,
-      "event": "won: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 2.5"
-    },
-    {
-      "timestamp": 1786864736.438145,
-      "bankroll": 931.61,
-      "event": "lost: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
-    },
-    {
-      "timestamp": 1786864736.5383136,
-      "bankroll": 932.13,
-      "event": "won: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
-    },
-    {
-      "timestamp": 1786864736.9411962,
-      "bankroll": 922.13,
-      "event": "lost: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 3.5"
-    },
-    {
-      "timestamp": 1786865219.9424994,
-      "bankroll": 922.01,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming - Game 1 Winner (-0.12 USD)"
-    },
-    {
-      "timestamp": 1786865360.846641,
-      "bankroll": 931.62,
-      "event": "won: 111111111115 \u2014 Dota 2: Aurora vs BoomBoys - Game 2 Winner"
-    },
-    {
-      "timestamp": 1786865919.6490684,
-      "bankroll": 930.12,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming - Game 1 Winner (-1.50 USD)"
-    },
-    {
-      "timestamp": 1786867238.8548312,
-      "bankroll": 920.12,
-      "event": "lost: RN1 \u2014 Will Atlas FC win on 2026-08-15?"
-    },
-    {
-      "timestamp": 1786867865.6319854,
-      "bankroll": 910.12,
+      "timestamp": 1786878200.5372524,
+      "bankroll": 946.76,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: BUF (-3.5)"
     },
     {
-      "timestamp": 1786868373.1258788,
-      "bankroll": 911.67,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group (+1.55 USD)"
+      "timestamp": 1786878200.8349063,
+      "bankroll": 936.76,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: KC (-1.5)"
     },
     {
-      "timestamp": 1786869385.6059217,
-      "bankroll": 901.67,
-      "event": "lost: 111111111115 \u2014 Dota 2: Team Spirit vs Team Resilience - Game 2 Winner"
+      "timestamp": 1786878201.7433934,
+      "bankroll": 926.76,
+      "event": "lost: 111111111115 \u2014 Dota 2: Aurora vs BoomBoys - Game 1 Winner"
     },
     {
-      "timestamp": 1786870079.7435071,
-      "bankroll": 891.67,
-      "event": "lost: Lakersfan111 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
+      "timestamp": 1786878202.0443413,
+      "bankroll": 932.14,
+      "event": "won: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
     },
     {
-      "timestamp": 1786870081.641906,
-      "bankroll": 895.19,
-      "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
+      "timestamp": 1786878202.3814151,
+      "bankroll": 922.14,
+      "event": "lost: RN1 \u2014 Will Atlas FC win on 2026-08-15?"
     },
     {
-      "timestamp": 1786870912.4076374,
-      "bankroll": 892.04,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend (-3.15 USD)"
+      "timestamp": 1786878202.4815729,
+      "bankroll": 928.27,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
     },
     {
-      "timestamp": 1786870960.4912732,
-      "bankroll": 899.9,
-      "event": "won: RN1 \u2014 ITF M15 Tianjin 2 Men: Kosuke Ogura vs Omar Jasika"
+      "timestamp": 1786878202.5817025,
+      "bankroll": 918.27,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
     },
     {
-      "timestamp": 1786871030.4168353,
-      "bankroll": 901.29,
-      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend (+1.40 USD)"
-    },
-    {
-      "timestamp": 1786872286.1035423,
-      "bankroll": 905.58,
-      "event": "won: RN1 \u2014 ITF W15 Bucharest 3 Women: Maria Sara Popa vs Ida Wobker"
-    },
-    {
-      "timestamp": 1786872987.845908,
-      "bankroll": 907.12,
-      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: T1 vs Gen.G - Game 2 Winner (+1.54 USD)"
-    },
-    {
-      "timestamp": 1786873315.732115,
-      "bankroll": 901.48,
-      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: T1 vs Gen.G - Game 2 Winner (-5.64 USD)"
-    },
-    {
-      "timestamp": 1786873856.1207454,
-      "bankroll": 904.47,
+      "timestamp": 1786878203.5730278,
+      "bankroll": 921.26,
       "event": "won: Lakersfan111 \u2014 Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round"
     },
     {
-      "timestamp": 1786875163.2481139,
-      "bankroll": 894.47,
-      "event": "lost: RN1 \u2014 ITF W15 Tianjin 2 Women: Chengyiyi Yuan vs Thasaporn Naklo"
+      "timestamp": 1786878204.1649368,
+      "bankroll": 924.59,
+      "event": "won: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 2.5"
     },
     {
-      "timestamp": 1786875662.5169342,
-      "bankroll": 894.89,
-      "event": "won: RN1 \u2014 Sion: Gerard Campana Lee vs Franco Ribero"
+      "timestamp": 1786878204.2650678,
+      "bankroll": 914.59,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
     },
     {
-      "timestamp": 1786875726.397307,
-      "bankroll": 895.87,
-      "event": "won: HomeRunHazard \u2014 Prague: Matyas Kozlovsky vs Javier Barranco Cosano"
+      "timestamp": 1786878204.5823598,
+      "bankroll": 904.59,
+      "event": "lost: Lakersfan111 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
     },
     {
-      "timestamp": 1786876220.8520415,
-      "bankroll": 896.29,
-      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning"
+      "timestamp": 1786878205.4290938,
+      "bankroll": 914.2,
+      "event": "won: 111111111115 \u2014 Dota 2: Aurora vs BoomBoys - Game 2 Winner"
     },
     {
-      "timestamp": 1786876259.62256,
-      "bankroll": 894.18,
-      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner (-2.12 USD)"
+      "timestamp": 1786878205.7158659,
+      "bankroll": 904.2,
+      "event": "lost: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
     },
     {
-      "timestamp": 1786877583.7645097,
-      "bankroll": 903.78,
-      "event": "won: RN1 \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+      "timestamp": 1786878205.8160028,
+      "bankroll": 904.73,
+      "event": "won: RN1 \u2014 Will Tigres de la UANL win on 2026-08-15?"
     },
     {
-      "timestamp": 1786877584.265358,
-      "bankroll": 893.78,
-      "event": "lost: RN1 \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+      "timestamp": 1786878206.11296,
+      "bankroll": 894.73,
+      "event": "lost: RN1 \u2014 Atlas FC vs. Tigres de la UANL: O/U 3.5"
     },
     {
-      "timestamp": 1786877584.4657164,
-      "bankroll": 883.78,
-      "event": "lost: HomeRunHazard \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+      "timestamp": 1786878206.9741979,
+      "bankroll": 884.73,
+      "event": "lost: 111111111115 \u2014 Dota 2: Team Spirit vs Team Resilience - Game 2 Winner"
     },
     {
-      "timestamp": 1786877585.6133964,
-      "bankroll": 884.42,
-      "event": "won: HomeRunHazard \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
-    },
-    {
-      "timestamp": 1786878137.4045296,
-      "bankroll": 874.42,
+      "timestamp": 1786878207.6107697,
+      "bankroll": 874.73,
       "event": "lost: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex - Game 1 Winner"
     },
     {
-      "timestamp": 1786878141.4338846,
-      "bankroll": 875.53,
-      "event": "won: RN1 \u2014 ITF M15 Malm\u00f6 Men: Karl Friberg vs John Hallquist Lithen"
+      "timestamp": 1786878207.71089,
+      "bankroll": 878.24,
+      "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
     }
   ]
 }

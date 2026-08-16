@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 06:03:08 (hora de Perú)
+Actualizado: 2026-08-16 06:07:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $875.53
-**Retorno acumulado:** -12.45%
-**Peor caída desde un máximo (drawdown):** 21.73%
+**Bankroll actual:** $878.24
+**Retorno acumulado:** -12.18%
+**Peor caída desde un máximo (drawdown):** 21.70%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $375.53)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $678.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,34 +20,34 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 9 | 3 | +42.91 USD |
-| 111111111115 | 10 | 5 | 7 | +33.24 USD |
-| bigspending | 1 | 0 | 1 | +10.83 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 6 | 0 | +44.73 USD |
+| 111111111115 | 10 | 6 | 4 | +23.24 USD |
+| bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
+| HomeRunHazard | 5 | 2 | 2 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| SineNooneEI | 0 | 0 | 2 | +0.00 USD |
+| Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Lakersfan111 | 7 | 7 | 7 | -5.38 USD |
-| HomeRunHazard | 7 | 3 | 8 | -5.58 USD |
-| g42gh6524h5h5 | 9 | 7 | 5 | -7.06 USD |
+| Lakersfan111 | 7 | 7 | 6 | -5.38 USD |
+| g42gh6524h5h5 | 9 | 7 | 0 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| midwicket72 | 1 | 2 | 1 | -18.10 USD |
-| IMAREALPERSON | 5 | 5 | 2 | -24.78 USD |
+| midwicket72 | 1 | 2 | 0 | -18.10 USD |
+| IMAREALPERSON | 4 | 3 | 1 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 15 | 12 | 13 | -48.83 USD |
+| RN1 | 9 | 10 | 5 | -52.54 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 248
-- **Aciertos:** 131 (52.8%)
-- **Cuota promedio de entrada:** 54.2%
+- **Apuestas resueltas:** 238
+- **Aciertos:** 123 (51.7%)
+- **Cuota promedio de entrada:** 53.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,480.00
-- **ROI sobre lo apostado:** -6.32%
+- **Total apostado (suma de stakes):** $2,380.00
+- **ROI sobre lo apostado:** -6.81%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,10 +57,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
-| 40-59% | 125 | 49.6% | 49.4% | +0.2 pp |
-| 60-79% | 57 | 66.7% | 68.2% | -1.6 pp |
-| 80-94% | 18 | 94.4% | 86.0% | +8.4 pp |
-| 95-99% (casi seguro) | 5 | 100.0% | 97.0% | +3.0 pp |
+| 40-59% | 123 | 48.8% | 49.4% | -0.6 pp |
+| 60-79% | 55 | 67.3% | 68.2% | -0.9 pp |
+| 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
+| 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -108,47 +108,39 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-norrie-2026-08-15 | HomeRunHazard, RN1 |
 | cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
 | dota2-ironwi-gl-2026-08-16-game1 | 111111111115, Lakersfan111 |
-| dota2-lgd-ty-2026-08-16 | Lakersfan111, SineNooneEI |
-| lol-lgd-jdg-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
-| lol-t1-gen-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
-| lol-t1-gen-2026-08-16-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115, g42gh6524h5h5 |
-| atp-dougaz-matsuok-2026-08-16 | HomeRunHazard, RN1 |
-| lol-lgd-jdg-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
-| lol-t1-gen-2026-08-16-game2 | IMAREALPERSON, g42gh6524h5h5 |
-| lol-drx-bro2-2026-08-16-game1 | IMAREALPERSON, SineNooneEI |
-| atp-cizek-gombos-2026-08-16 | HomeRunHazard, RN1 |
+| dota2-lgd-ty-2026-08-16 | Dota2winner, IMAREALPERSON, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W50 Hamburg Women: Anna Siskova vs R | Anna Siskova (BUY) | 96% | 10.00 | 2.7% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Jiri Cizek vs Norbert Gombos | Norbert Gombos (BUY) | 97% | 10.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Michael Zhu (BUY) | 58% | 10.00 | 4.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Luca Staeheli (BUY) | 75% | 10.00 | 2.0% | ⏳ pendiente | — |
-| SineNooneEI | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 52% | 10.00 | 9.4% | ⏳ pendiente | — |
-| RN1 | Prague: Jiri Cizek vs Norbert Gombos | Norbert Gombos (BUY) | 86% | 10.00 | 2.9% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | Kiwoom DRX (BUY) | 49% | 10.00 | 23.5% | ⏳ pendiente | — |
-| RN1 | Sion: Nicolas Parizzia vs Theo Papamalam | Nicolas Parizzia (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | ADO Den Haag vs. FC Groningen: O/U 2.5 | Over (BUY) | 73% | 10.00 | 2.5% | ⏳ pendiente | — |
-| RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | 💰 vendida anticipada | -2.12 |
-| RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Yelyzaveta Kotliar (BUY) | 86% | 10.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Cincinnati Reds: O/U 9 | Under (BUY) | 55% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 94% | 10.00 | 5.9% | ✅ ganada | +0.64 |
-| HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | ITF M15 Malmö Men: Karl Friberg vs John  | Karl Friberg (BUY) | 90% | 10.00 | 4.2% | ✅ ganada | +1.11 |
-| RN1 | Will CA Barracas Central win on 2026-08- | No (BUY) | 64% | 10.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova Men: Dan Added vs  | Philip Henning (BUY) | 96% | 10.00 | 5.0% | ✅ ganada | +0.42 |
-| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 55% | 10.00 | 23.7% | 💰 vendida anticipada | -5.64 |
-| bigspending | Will Incheon United FC win on 2026-08-16 | Yes (BUY) | 46% | 10.00 | 90.8% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 50% | 10.00 | 71.4% | ⏳ pendiente | — |
-| RN1 | Sion: Gerard Campana Lee vs Franco Riber | Gerard Campana Lee (BUY) | 96% | 10.00 | 2.6% | ✅ ganada | +0.42 |
-| IMAREALPERSON | LoL: T1 vs Gen.G - Game 2 Winner | T1 (BUY) | 52% | 10.00 | 89.0% | 💰 vendida anticipada | +1.54 |
-| g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 2 Winner | Gen.G (BUY) | 58% | 10.00 | 112.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 52% | 10.00 | 6.3% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 41% | 10.00 | 38.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | LGD Gaming (BUY) | 43% | 10.00 | 62.9% | 💰 vendida anticipada | +1.40 |
-| HomeRunHazard | Astana: Aziz Dougaz vs Hayato Matsuoka | Aziz Dougaz (BUY) | 41% | 10.00 | 0.9% | ❌ perdida | -10.00 |
-| RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 61% | 10.00 | 3.5% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Matyas Kozlovsky vs Javier Barra | Javier Barranco Cosano (BUY) | 91% | 10.00 | 2.4% | ✅ ganada | +0.99 |
+| RN1 | ITF M25 Kursumlijska Banja 3 Men: Sean C | Stefan Horia Haita (BUY) | 57% | 10.00 | 1.4% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: LGD Gaming vs Team Yandex (BO3)  | LGD Gaming (BUY) | 47% | 10.00 | 2.7% | ⏳ pendiente | — |
+| Dota2winner | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 51% | 10.00 | 23.6% | ⏳ pendiente | — |
+| RN1 | ITF M25 Muttenz Men: Luca Staeheli vs Lo | Louis Wessels (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-16? | Yes (BUY) | 97% | 10.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF W35 Vigo Women: Sonja Zhiyenbayeva v | Sonja Zhiyenbayeva (BUY) | 92% | 10.00 | 11.1% | ⏳ pendiente | — |
+| HomeRunHazard | Milwaukee Brewers vs. Los Angeles Dodger | Los Angeles Dodgers (BUY) | 62% | 10.00 | 0.9% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 1.2% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game  | Iron Wing (BUY) | 74% | 10.00 | 25.7% | ✅ ganada | +3.51 |
+| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex - Game | Team Yandex (BUY) | 66% | 10.00 | 4.8% | ❌ perdida | -10.00 |
+| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
+| 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ❌ perdida | -10.00 |
+| Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
+| RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ❌ perdida | -10.00 |
+| RN1 | Will Tigres de la UANL win on 2026-08-15 | No (BUY) | 95% | 10.00 | 0.9% | ✅ ganada | +0.53 |
+| RN1 | Will Tigres de la UANL win on 2026-08-15 | Yes (BUY) | 42% | 10.00 | 1.9% | ❌ perdida | -10.00 |
+| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 276.3% | ✅ ganada | +9.61 |
+| wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under (BUY) | 49% | 10.00 | 53.4% | ⏳ pendiente | — |
+| HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 40% | 10.00 | 3.7% | ❌ perdida | -10.00 |
+| RN1 | Atlas FC vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 75% | 10.00 | 1.7% | ✅ ganada | +3.33 |
+| 111111111115 | Counter-Strike: MOUZ vs PARIVISION (BO3) | PARIVISION (BUY) | 35% | 10.00 | 10.3% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 77% | 10.00 | 2.4% | ✅ ganada | +2.99 |
+| Lakersfan111 | Counter-Strike: Astralis vs NIP - Map 1  | Astralis (BUY) | 47% | 10.00 | 6.4% | ⏳ pendiente | — |
+| 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 35.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | UFC 330: Islam Makhachev vs. Ian Machado | Islam Makhachev (BUY) | 69% | 10.00 | 1.8% | ✅ ganada | +4.49 |
+| Lakersfan111 | Map Handicap: VIT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 29% | 10.00 | 4.3% | ⏳ pendiente | — |
