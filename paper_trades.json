@@ -7731,5 +7731,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786907420.5971334,
     "fills": 1
+  },
+  {
+    "timestamp": 1786908158,
+    "timestamp_added": 1786908159.1264114,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-col-sf-2026-08-16-total-7pt5",
+    "title": "Colorado Rockies vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3567.1544,
+    "whale_pct": 2.202,
+    "whale_value_at_open": 162010.3259,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786908159.1264205,
+    "fills": 1
   }
 ]
