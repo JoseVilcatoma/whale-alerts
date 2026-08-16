@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.2170785368197,
+  "bankroll": 786.2170785368197,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1595,6 +1595,16 @@
       "timestamp": 1786914451.0225499,
       "bankroll": 806.22,
       "event": "won: IMAREALPERSON \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786914575.3524532,
+      "bankroll": 796.22,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786914575.4526424,
+      "bankroll": 786.22,
+      "event": "lost: SineNooneEI \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner"
     }
   ]
 }
