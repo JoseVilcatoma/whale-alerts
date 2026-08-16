@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 12:28:00 (hora de Perú)
+Actualizado: 2026-08-16 12:30:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **325**  ($17,093,260 en total)
-- Resueltas: **288** — 166 ganadas / 122 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Resueltas: **290** — 167 ganadas / 123 perdidas (**58%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 104
 
 ### Balance
 
-- **Resultado de los apostadores: -$518,529** sobre $13,914,657 apostados (ROI **-3.7%**)
-- Copiando $100 fijo en cada una: **-$2,291** sobre $28,100 (ROI **-8.2%**)
+- **Resultado de los apostadores: -$518,529** sobre $13,974,657 apostados (ROI **-3.7%**)
+- Copiando $100 fijo en cada una: **-$2,278** sobre $28,300 (ROI **-8.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 29 | 13 | 4 | 69% | $2,685,962 | +$301,917 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 29 | 14 | 3 | 67% | $2,685,962 | +$270,117 |
 | sainttroplay | 1 | 4 | 9 | ⚠️ 20% (5) | $2,092,133 | +$96,462 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 1 | 57% | $1,295,921 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
 | HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | — | ⏳ Pendiente |
-| Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
+| Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
 | ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | +$88,500 | ✅ Ganada |
