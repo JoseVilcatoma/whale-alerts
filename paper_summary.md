@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 06:58:36 (hora de Perú)
+Actualizado: 2026-08-16 07:00:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $878.24
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 06:58:36 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $528.24)
+**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $508.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 0 | -18.10 USD |
 | IMAREALPERSON | 4 | 3 | 2 | -18.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 9 | 10 | 15 | -52.54 USD |
+| RN1 | 9 | 10 | 17 | -52.54 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -114,6 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Real Racing Club vs. Villarreal CF: O/U  | Over (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ⏳ pendiente | — |
@@ -142,5 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 111111111115 | Counter-Strike: TheMongolz vs paiN - Map | paiN (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Spirit vs Team Resilience - | Team Spirit (BUY) | 72% | 10.00 | 3.3% | ❌ perdida | -10.00 |
-| Lakersfan111 | Game Handicap: TY (-1.5) vs LGD Gaming ( | Team Yandex (BUY) | 44% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Yellow-Red KV Mechelen vs. Standard Lieg | Over (BUY) | 47% | 10.00 | 3.3% | ⏳ pendiente | — |
