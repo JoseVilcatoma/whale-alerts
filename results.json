@@ -3743,5 +3743,20 @@
     "status": "pending",
     "ultimo_fill": 1786849061,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 506,
+    "timestamp": 1786849567,
+    "username": "007theone1",
+    "wallet": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+    "slug": "wta-boisson-bencic-2026-08-15",
+    "title": "Cincinnati Open: Lois Boisson vs Belinda Bencic",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "usd": 50818.3722,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1786849567,
+    "fills": 1
   }
 ]
