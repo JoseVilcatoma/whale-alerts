@@ -1,5 +1,5 @@
 {
-  "bankroll": 972.1804172849023,
+  "bankroll": 960.3622354667204,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1085,6 +1085,21 @@
       "timestamp": 1786846149.7133672,
       "bankroll": 972.18,
       "event": "won: 1winstreak1 \u2014 Spread: Washington Mystics (-6.5)"
+    },
+    {
+      "timestamp": 1786847024.8113964,
+      "bankroll": 962.18,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Rams vs. Chiefs"
+    },
+    {
+      "timestamp": 1786847088.995954,
+      "bankroll": 952.18,
+      "event": "lost: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786847089.0961394,
+      "bankroll": 960.36,
+      "event": "won: g42gh6524h5h5 \u2014 LoL: Shopify Rebellion vs Dignitas - Game 1 Winner"
     }
   ]
 }
