@@ -7754,5 +7754,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786910685.967091,
     "fills": 3
+  },
+  {
+    "timestamp": 1786911584,
+    "timestamp_added": 1786911584.8132527,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-fly-c9-2026-08-16-game1",
+    "title": "LoL: FlyQuest vs Cloud9 - Game 1 Winner",
+    "outcome": "FlyQuest",
+    "side": "BUY",
+    "whale_usd": 1779.5598,
+    "whale_pct": 2.426,
+    "whale_value_at_open": 73358.9094,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786911591.1733603,
+    "fills": 2
   }
 ]
