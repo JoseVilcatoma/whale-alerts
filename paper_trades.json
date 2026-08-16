@@ -7454,8 +7454,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 7632.695299999999,
-    "whale_pct": 8.921,
+    "whale_usd": 8657.6953,
+    "whale_pct": 10.119,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -7465,8 +7465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786902398.381454,
-    "fills": 2
+    "last_fill_at": 1786902460.512289,
+    "fills": 3
   },
   {
     "timestamp": 1786902389,
@@ -7503,8 +7503,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 23626.085767,
-    "whale_pct": 27.614,
+    "whale_usd": 30423.758467,
+    "whale_pct": 35.559,
     "whale_value_at_open": 85558.9612,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -7514,7 +7514,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786902413.5451903,
-    "fills": 4
+    "last_fill_at": 1786902514.877847,
+    "fills": 8
   }
 ]
