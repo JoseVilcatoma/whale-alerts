@@ -1,5 +1,5 @@
 {
-  "bankroll": 833.4485221271242,
+  "bankroll": 823.4485221271242,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1490,6 +1490,11 @@
       "timestamp": 1786905469.7160192,
       "bankroll": 833.45,
       "event": "won: Lakersfan111 \u2014 Counter-Strike: Astralis vs NIP - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786907352.1285036,
+      "bankroll": 823.45,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D"
     }
   ]
 }
