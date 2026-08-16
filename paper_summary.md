@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 20:35:00 (hora de Perú)
+Actualizado: 2026-08-15 20:37:03 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $967.28
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
 | 111111111115 | 8 | 3 | 2 | +40.12 USD |
-| Sassy-Bucket | 2 | 1 | 1 | +29.29 USD |
+| Sassy-Bucket | 2 | 1 | 2 | +29.29 USD |
 | Lakersfan111 | 5 | 4 | 2 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
@@ -103,6 +103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas Rangers vs. Athletics | Athletics (BUY) | 39% | 10.00 | 18.0% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Team Falcons (BUY) | 53% | 10.00 | 78.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: FLC (-1.5) vs Vici Gaming | Vici Gaming (BUY) | 44% | 10.00 | 19.8% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Edson Barboza vs. Esteban Ribov | Edson Barboza (BUY) | 14% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -132,4 +133,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 21% | 10.00 | 9.7% | ❌ perdida | -10.00 |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 15% | 10.00 | 3.6% | ❌ perdida | -10.00 |
 | 1winstreak1 | New York Yankees vs. Toronto Blue Jays:  | Over (BUY) | 46% | 10.00 | 20.0% | ❌ perdida | -10.00 |
-| wr0ngw4yb3tt0r | Spread: Chicago White Sox (-1.5) | Chicago White Sox (BUY) | 49% | 10.00 | 0.5% | ❌ perdida | -10.00 |
