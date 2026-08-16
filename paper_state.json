@@ -1,5 +1,5 @@
 {
-  "bankroll": 846.4280164225297,
+  "bankroll": 854.2851592796726,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1510,6 +1510,11 @@
       "timestamp": 1786909240.0509212,
       "bankroll": 846.43,
       "event": "won: midwicket72 \u2014 Metro Bank One Day Cup: Leicestershire vs Nottinghamshire"
+    },
+    {
+      "timestamp": 1786909552.6846802,
+      "bankroll": 854.29,
+      "event": "won: IMAREALPERSON \u2014 Counter-Strike: Astralis vs NIP - Map 2 Winner"
     }
   ]
 }
