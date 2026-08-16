@@ -1,5 +1,5 @@
 {
-  "bankroll": 840.7998502624487,
+  "bankroll": 830.7998502624487,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1535,6 +1535,11 @@
       "timestamp": 1786913193.1041605,
       "bankroll": 840.8,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: FlyQuest vs Cloud9 - Game 1 Winner (-4.76 USD)"
+    },
+    {
+      "timestamp": 1786913321.156525,
+      "bankroll": 830.8,
+      "event": "lost: 111111111115 \u2014 Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B"
     }
   ]
 }
