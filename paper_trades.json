@@ -6282,5 +6282,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786864535.942177,
     "fills": 1
+  },
+  {
+    "timestamp": 1786864656,
+    "timestamp_added": 1786864657.92,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ogura-jasika-2026-08-16",
+    "title": "ITF M15 Tianjin 2 Men: Kosuke Ogura vs Omar Jasika",
+    "outcome": "Omar Jasika",
+    "side": "BUY",
+    "whale_usd": 960.85,
+    "whale_pct": 1.93,
+    "whale_value_at_open": 49777.8451,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786864657.9200091,
+    "fills": 1
   }
 ]
