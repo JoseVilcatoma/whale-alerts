@@ -1,5 +1,5 @@
 {
-  "bankroll": 931.6220223016428,
+  "bankroll": 930.1220223016428,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1255,6 +1255,11 @@
       "timestamp": 1786865360.846641,
       "bankroll": 931.62,
       "event": "won: 111111111115 \u2014 Dota 2: Aurora vs BoomBoys - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786865919.6490684,
+      "bankroll": 930.12,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LGD Gaming vs JD Gaming - Game 1 Winner (-1.50 USD)"
     }
   ]
 }
