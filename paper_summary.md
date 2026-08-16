@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:18:39 (hora de Perú)
+Actualizado: 2026-08-15 21:20:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $972.18
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| SDTrading | 1 | 2 | 1 | -11.48 USD |
+| SDTrading | 1 | 2 | 2 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
 | wr0ngw4yb3tt0r | 7 | 11 | 5 | -30.69 USD |
@@ -107,10 +107,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 2.5% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 24.3% | ⏳ pendiente | — |
-| 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 247.0% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 259.3% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 78% | 10.00 | 15.2% | ⏳ pendiente | — |
@@ -136,4 +137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Shopify Rebellion (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 40% | 10.00 | 11.5% | 💰 vendida anticipada | -6.25 |
