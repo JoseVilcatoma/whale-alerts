@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 13:22:04 (hora de Perú)
+Actualizado: 2026-08-16 13:24:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **329**  ($17,219,692 en total)
+- Apuestas registradas: **330**  ($17,256,742 en total)
 - Resueltas: **295** — 172 ganadas / 123 perdidas (**58%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 105
+- Pendientes: 35
+- Apostadores distintos: 106
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
 
-_(mostrando los 40 de mayor monto, de 105 en total)_
+_(mostrando los 40 de mayor monto, de 106 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 105 en total)_
 | 111111111115 | Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D | magic | 2.86 (35¢) | $35,513 | — | ⏳ Pendiente |
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | +$8,829 | ✅ Ganada |
 | greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | +$29,476 | ✅ Ganada |
