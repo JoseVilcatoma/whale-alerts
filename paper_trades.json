@@ -5659,8 +5659,8 @@
     "title": "Counter-Strike: 9z vs magic - Map 2 Winner",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 1111.0586,
-    "whale_pct": 2.53,
+    "whale_usd": 1935.2308,
+    "whale_pct": 4.407,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -5669,8 +5669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846440.1480093,
-    "fills": 1
+    "last_fill_at": 1786847350.6867898,
+    "fills": 2
   },
   {
     "timestamp": 1786846444,
@@ -5681,8 +5681,8 @@
     "title": "Counter-Strike: 9z vs magic - Map 1 Winner",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 836.0825000000001,
-    "whale_pct": 1.904,
+    "whale_usd": 1458.0720000000001,
+    "whale_pct": 3.32,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -5691,8 +5691,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786846444.629382,
-    "fills": 1
+    "last_fill_at": 1786847351.6987796,
+    "fills": 2
   },
   {
     "timestamp": 1786846721,
