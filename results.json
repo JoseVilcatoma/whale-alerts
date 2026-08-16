@@ -4073,5 +4073,20 @@
     "status": "pending",
     "ultimo_fill": 1786877846,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 562,
+    "timestamp": 1786880713,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-drx-bro2-2026-08-16",
+    "title": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 25129.3858,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1786880713,
+    "fills": 1
   }
 ]
