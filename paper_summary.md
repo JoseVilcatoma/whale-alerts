@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:27:03 (hora de Perú)
+Actualizado: 2026-08-15 21:29:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $962.71
@@ -17,9 +17,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
-| 111111111115 | 8 | 3 | 3 | +40.12 USD |
+| 111111111115 | 8 | 3 | 4 | +40.12 USD |
 | Sassy-Bucket | 2 | 2 | 2 | +19.29 USD |
-| Lakersfan111 | 5 | 4 | 10 | +12.76 USD |
+| Lakersfan111 | 5 | 4 | 11 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -102,19 +102,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-aur1-boombo-2026-08-15-game-handicap-away-1pt5 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, Lakersfan111 |
 | dota2-aur1-boombo-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, Lakersfan111 |
 | dota2-flc-vg-2026-08-15-game1 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592, 111111111115 |
+| cs2-ast10-nip-2026-08-16-game1 | 111111111115, Lakersfan111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Astralis vs NIP - Map 1  | Astralis (BUY) | 47% | 10.00 | 11.7% | ⏳ pendiente | — |
+| 111111111115 | Counter-Strike: Astralis vs NIP - Map 1  | NIP (BUY) | 53% | 10.00 | 13.7% | ⏳ pendiente | — |
 | midwicket72 | Caribbean Premier League: Jamaica Kingsm | Jamaica Kingsmen (BUY) | 38% | 10.00 | 9.2% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 54% | 10.00 | 3.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 1 Winn | 9z (BUY) | 55% | 10.00 | 1.9% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: 9z vs magic - Map 2 Winn | 9z (BUY) | 62% | 10.00 | 2.5% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 24.3% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 27.4% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 346.2% | ⏳ pendiente | — |
-| Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 4.9% | ⏳ pendiente | — |
+| Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 8.0% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 78% | 10.00 | 15.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Ga | Team Falcons (BUY) | 74% | 10.00 | 9.0% | ⏳ pendiente | — |
@@ -135,5 +138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ❌ perdida | -10.00 |
 | 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
-| 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
-| 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ⏳ pendiente | — |
