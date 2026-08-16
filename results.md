@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 03:10:53 (hora de Perú)
+Actualizado: 2026-08-16 03:12:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **264**  ($12,722,501 en total)
+- Apuestas registradas: **265**  ($12,748,986 en total)
 - Resueltas: **258** — 142 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 87
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lIlIlIllllIIIII | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.41 (71¢) | $26,485 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | — | ⏳ Pendiente |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Tommy Paul vs Hubert Hurkacz | Tommy Paul | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
 | suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | +$19,051 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.67 (60¢) | $67,371 | +$44,914 | ✅ Ganada |
-| suntori | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $31,177 | +$10,954 | ✅ Ganada |
