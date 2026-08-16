@@ -1,5 +1,5 @@
 {
-  "bankroll": 816.704255321552,
+  "bankroll": 813.6534078639248,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1460,6 +1460,16 @@
       "timestamp": 1786899234.132534,
       "bankroll": 816.7,
       "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 Sion: Dimitris Sakellaridis vs Gian Luca Tanner"
+    },
+    {
+      "timestamp": 1786900776.686443,
+      "bankroll": 806.7,
+      "event": "lost: 111111111115 \u2014 Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C"
+    },
+    {
+      "timestamp": 1786900778.4642286,
+      "bankroll": 813.65,
+      "event": "won: RN1 \u2014 Real Racing Club vs. Villarreal CF: O/U 2.5"
     }
   ]
 }
