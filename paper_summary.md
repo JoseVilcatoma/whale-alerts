@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 04:57:22 (hora de Perú)
+Actualizado: 2026-08-16 04:59:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $904.47
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 73% | 10.00 | 38.3% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 66% | 10.00 | 34.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | 💰 vendida anticipada | -3.15 |
-| RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 51% | 10.00 | 26.7% | ⏳ pendiente | — |
+| RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 51% | 10.00 | 31.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 72% | 10.00 | 66.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Bucharest 3 Women: Maria Sara Po | Maria Sara Popa (BUY) | 70% | 10.00 | 7.4% | ✅ ganada | +4.29 |
 | 111111111115 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |

@@ -6646,8 +6646,8 @@
     "title": "Astana: Aziz Dougaz vs Hayato Matsuoka",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 9939.565900000001,
-    "whale_pct": 26.715,
+    "whale_usd": 11761.126769000002,
+    "whale_pct": 31.611,
     "whale_value_at_open": 37205.6975,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -6657,8 +6657,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786873544.4844687,
-    "fills": 4
+    "last_fill_at": 1786874261.0761604,
+    "fills": 5
   },
   {
     "timestamp": 1786868188,
