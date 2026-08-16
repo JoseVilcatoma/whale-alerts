@@ -5165,8 +5165,8 @@
     "whale_value_at_open": 11448.1608,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5455,8 +5455,8 @@
     "title": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
     "outcome": "Aurora",
     "side": "BUY",
-    "whale_usd": 1375.0,
-    "whale_pct": 6.338,
+    "whale_usd": 3300.0,
+    "whale_pct": 15.211,
     "whale_value_at_open": 21695.2066,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -5465,8 +5465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786844833.6265428,
-    "fills": 1
+    "last_fill_at": 1786845460.579238,
+    "fills": 2
   },
   {
     "timestamp": 1786845129,
@@ -5535,5 +5535,27 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786845134.5206494,
     "fills": 1
+  },
+  {
+    "timestamp": 1786845436,
+    "timestamp_added": 1786845437.4373891,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ts8-tr7-2026-08-16",
+    "title": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 4631.467689,
+    "whale_pct": 15.233,
+    "whale_value_at_open": 30404.6716,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786845460.364118,
+    "fills": 4
   }
 ]
