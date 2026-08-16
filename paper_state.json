@@ -1,5 +1,5 @@
 {
-  "bankroll": 807.1623730137122,
+  "bankroll": 810.6758865272258,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1475,6 +1475,11 @@
       "timestamp": 1786897647.3425884,
       "bankroll": 807.16,
       "event": "lost: RN1 \u2014 Will Degerfors IF win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786898084.192466,
+      "bankroll": 810.68,
+      "event": "won: RN1 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-16?"
     }
   ]
 }
