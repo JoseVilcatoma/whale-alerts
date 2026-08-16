@@ -1,5 +1,5 @@
 {
-  "bankroll": 878.2401958609929,
+  "bankroll": 879.1097610783842,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1290,6 +1290,11 @@
       "timestamp": 1786878207.71089,
       "bankroll": 878.24,
       "event": "won: 111111111115 \u2014 Dota 2: Iron Wing vs GamerLegion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786881760.523901,
+      "bankroll": 879.11,
+      "event": "won: RN1 \u2014 ITF W35 Vigo Women: Sonja Zhiyenbayeva vs Yufei Ren"
     }
   ]
 }
