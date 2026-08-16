@@ -8229,8 +8229,8 @@
     "title": "LoL: Movistar KOI vs Natus Vincere - Game 2 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 1070.4986,
-    "whale_pct": 6.546,
+    "whale_usd": 6303.0536,
+    "whale_pct": 38.541,
     "whale_value_at_open": 16353.9526,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -8242,7 +8242,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786897567.336514,
-    "fills": 1
+    "last_fill_at": 1786897748.9226696,
+    "fills": 3
   }
 ]
