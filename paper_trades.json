@@ -5541,8 +5541,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 19889.527321,
-    "whale_pct": 13.026,
+    "whale_usd": 20434.773721,
+    "whale_pct": 13.383,
     "whale_value_at_open": 152696.2455,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -5551,8 +5551,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786859300.6207526,
-    "fills": 9
+    "last_fill_at": 1786859584.452391,
+    "fills": 10
   },
   {
     "timestamp": 1786852436,
@@ -6118,6 +6118,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786859371.1851377,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786859636,
+    "timestamp_added": 1786859636.9265869,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-lgd-ty-2026-08-16",
+    "title": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 514.285714,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 132084.5567,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786859636.926598,
     "fills": 1
   }
 ]
