@@ -6328,5 +6328,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786864915.625978,
     "fills": 1
+  },
+  {
+    "timestamp": 1786865000,
+    "timestamp_added": 1786865000.7634728,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-lgd-jdg-2026-08-16-game1",
+    "title": "LoL: LGD Gaming vs JD Gaming - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 1660.0,
+    "whale_pct": 11.089,
+    "whale_value_at_open": 14969.7807,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786865000.7634811,
+    "fills": 1
   }
 ]
