@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 15:20:26 (hora de Perú)
+Actualizado: 2026-08-16 15:22:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **336**  ($17,508,395 en total)
-- Resueltas: **315** — 186 ganadas / 129 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **316** — 186 ganadas / 130 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 106
 
 ### Balance
 
-- **Resultado de los apostadores: +$88,781** sobre $16,307,319 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$1,751** sobre $30,700 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$51,998** sobre $16,344,101 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$1,851** sobre $30,800 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
-| xifutloong3 | 1 | 2 | 1 | ⚠️ 33% (3) | $125,494 | -$49,007 |
+| xifutloong3 | 1 | 3 | 0 | ⚠️ 25% (4) | $125,494 | -$85,789 |
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | swisstony | 2 | 0 | 0 | ⚠️ 100% (2) | $120,372 | +$13,471 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | — | ⏳ Pendiente |
 | WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | — | ⏳ Pendiente |
-| xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | — | ⏳ Pendiente |
+| xifutloong3 | Arizona Diamondbacks vs. Atlanta Braves | Arizona Diamondbacks | 2.13 (47¢) | $36,783 | -$36,783 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.61 (62¢) | $29,937 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B | Legacy | 1.59 (63¢) | $29,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $25,095 | — | ⏳ Pendiente |
