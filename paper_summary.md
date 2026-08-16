@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 21:52:13 (hora de Perú)
+Actualizado: 2026-08-15 21:54:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $962.71
-**Retorno acumulado:** -3.73%
+**Bankroll actual:** $981.55
+**Retorno acumulado:** -1.85%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -18,7 +18,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 20 | 6 | 1 | +44.53 USD |
 | 111111111115 | 8 | 3 | 4 | +40.12 USD |
-| Sassy-Bucket | 2 | 2 | 2 | +19.29 USD |
+| Sassy-Bucket | 3 | 2 | 1 | +28.52 USD |
 | Lakersfan111 | 5 | 4 | 11 | +12.76 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
@@ -31,17 +31,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 1 | 2 | 3 | -11.48 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| wr0ngw4yb3tt0r | 8 | 12 | 5 | -38.34 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 4 | -28.73 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 201
-- **Aciertos:** 104 (51.7%)
+- **Apuestas resueltas:** 203
+- **Aciertos:** 106 (52.2%)
 - **Cuota promedio de entrada:** 51.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,010.00
-- **ROI sobre lo apostado:** -3.86%
+- **Total apostado (suma de stakes):** $2,030.00
+- **ROI sobre lo apostado:** -2.89%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
-| 40-59% | 110 | 49.1% | 49.5% | -0.4 pp |
+| 40-59% | 112 | 50.0% | 49.5% | +0.5 pp |
 | 60-79% | 41 | 70.7% | 67.8% | +2.9 pp |
 | 80-94% | 11 | 100.0% | 84.6% | +15.4 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -120,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: 9z vs magic (BO3) - Espo | 9z (BUY) | 64% | 10.00 | 35.7% | ⏳ pendiente | — |
 | 111111111115 | Dota 2: Team Falcons vs Vici Gaming - Ga | Vici Gaming (BUY) | 30% | 10.00 | 346.2% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: 9z (-1.5) vs magic (+1.5) | 9z (BUY) | 35% | 10.00 | 10.6% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC 330: Jalin Turner vs. Kauê Fernandes | Jalin Turner (BUY) | 52% | 10.00 | 548.8% | ✅ ganada | +9.23 |
 | Lakersfan111 | Dota 2: Team Spirit vs Team Resilience ( | Team Spirit (BUY) | 78% | 10.00 | 15.2% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Falcons vs Vici Gaming - Ga | Team Falcons (BUY) | 74% | 10.00 | 9.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Aurora vs BoomBoys - Game 1 Winn | Aurora (BUY) | 58% | 10.00 | 89.9% | ⏳ pendiente | — |

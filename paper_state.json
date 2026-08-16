@@ -1,5 +1,5 @@
 {
-  "bankroll": 962.7079144790662,
+  "bankroll": 981.5465268470904,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1105,6 +1105,16 @@
       "timestamp": 1786847214.4558463,
       "bankroll": 962.71,
       "event": "won: wr0ngw4yb3tt0r \u2014 Panthers vs. Bills"
+    },
+    {
+      "timestamp": 1786848786.390518,
+      "bankroll": 972.32,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)"
+    },
+    {
+      "timestamp": 1786848789.5387254,
+      "bankroll": 981.55,
+      "event": "won: Sassy-Bucket \u2014 UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)"
     }
   ]
 }
