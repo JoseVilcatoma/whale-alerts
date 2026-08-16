@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:44:42 (hora de Perú)
+Actualizado: 2026-08-16 07:46:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $874.36
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:44:42 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $404.36)
+**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $384.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +3.89 USD |
-| HomeRunHazard | 5 | 2 | 7 | +2.79 USD |
+| HomeRunHazard | 5 | 2 | 9 | +2.79 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
@@ -115,6 +115,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | New York Yankees (BUY) | 78% | 10.00 | 4.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Pittsburgh Pirates (BUY) | 61% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 66% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Toronto Blue Jays:  | Under (BUY) | 44% | 10.00 | 0.7% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Sion: Dimitris Sakellaridis vs Gian Luca | Dimitris Sakellaridis (BUY) | 69% | 10.00 | 141.0% | ⏳ pendiente | — |
@@ -143,5 +145,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 99% | 10.00 | 31.0% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Seattle Storm: O/U 178.5 | Over (BUY) | 48% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Hamburg: Jan Kumstat vs Marvin Moeller | Jan Kumstat (BUY) | 51% | 10.00 | 4.3% | ⏳ pendiente | — |
-| RN1 | Will Hannover 96 win on 2026-08-16? | No (BUY) | 58% | 10.00 | 4.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Peter Makk vs Roan Jones | Peter Makk (BUY) | 99% | 10.00 | 2.3% | ✅ ganada | +0.10 |
