@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 21:46:04 (hora de Perú)
+Actualizado: 2026-08-15 21:48:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **245**  ($11,674,136 en total)
+- Apuestas registradas: **246**  ($11,709,136 en total)
 - Resueltas: **224** — 118 ganadas / 106 perdidas (**53%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 81
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 2 | 7 | 1 | 22% | $453,907 | -$161,530 |
+| BreakTheBank | 0 | 0 | 5 | — | $341,925 | — |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| BreakTheBank | 0 | 0 | 4 | — | $306,925 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 1 | 38% | $292,000 | -$90,212 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | Painfulvoid | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.54 (65¢) | $38,350 | — | ⏳ Pendiente |
 | BreakTheBank | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Gillian Robertson | 2.78 (36¢) | $88,469 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $51,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 81 en total)_
 | pleaseplease123 | Washington Nationals vs. New York Mets: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $32,160 | +$28,519 | ✅ Ganada |
 | matanovik | Will Sevilla FC win on 2026-08-15? | No | 1.61 (62¢) | $25,350 | -$25,350 | ❌ Perdida |
 | Bulls94 | Seattle Mariners vs. Houston Astros: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $29,846 | -$29,846 | ❌ Perdida |
-| sainttroplay | Will Sevilla FC win on 2026-08-15? | Yes | 2.63 (38¢) | $226,926 | +$370,247 | ✅ Ganada |
