@@ -4028,5 +4028,20 @@
     "status": "pending",
     "ultimo_fill": 1786874207,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 558,
+    "timestamp": 1786874366,
+    "username": "happywater",
+    "wallet": "0xc64f34987ed4f537fd86b4735284702fc81de677",
+    "slug": "cs2-mglz-pain-2026-08-16",
+    "title": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 25748.24,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1786874366,
+    "fills": 1
   }
 ]
