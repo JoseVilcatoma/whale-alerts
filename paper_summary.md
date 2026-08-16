@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 03:01:48 (hora de Perú)
+Actualizado: 2026-08-16 03:03:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $920.12
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 03:01:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $610.12)
+**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $600.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 8 | 1 | +43.11 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 8 | 2 | +43.11 USD |
 | 111111111115 | 9 | 4 | 7 | +39.73 USD |
 | Lakersfan111 | 6 | 5 | 10 | +11.63 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -114,6 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 L | Gen.G (BUY) | 58% | 10.00 | 106.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 64% | 10.00 | 41.0% | ⏳ pendiente | — |
 | RN1 | Prague: Marek Gengel vs Svyatoslav Gulin | Svyatoslav Gulin (BUY) | 51% | 10.00 | 1.9% | ⏳ pendiente | — |
 | SineNooneEI | Dota 2: LGD Gaming vs Team Yandex (BO3)  | Team Yandex (BUY) | 73% | 10.00 | 125.3% | ⏳ pendiente | — |
@@ -143,4 +144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Zverev vs Cam | Cameron Norrie (BUY) | 40% | 10.00 | 3.7% | ❌ perdida | -10.00 |
-| RN1 | Atlas FC vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 75% | 10.00 | 1.7% | ✅ ganada | +3.33 |
