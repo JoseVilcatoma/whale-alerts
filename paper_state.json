@@ -1,5 +1,5 @@
 {
-  "bankroll": 845.5617550243535,
+  "bankroll": 840.7998502624487,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1530,6 +1530,11 @@
       "timestamp": 1786913013.6158607,
       "bankroll": 845.56,
       "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1786913193.1041605,
+      "bankroll": 840.8,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: FlyQuest vs Cloud9 - Game 1 Winner (-4.76 USD)"
     }
   ]
 }
