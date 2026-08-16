@@ -5585,8 +5585,8 @@
     "title": "Will Atlas FC win on 2026-08-15?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 551.3893,
-    "whale_pct": 0.717,
+    "whale_usd": 1219.3293,
+    "whale_pct": 1.586,
     "whale_value_at_open": 76894.5366,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 77,
@@ -5595,8 +5595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786852466.7085834,
-    "fills": 1
+    "last_fill_at": 1786855835.5649765,
+    "fills": 2
   },
   {
     "timestamp": 1786852736,
@@ -5655,8 +5655,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Cameron Norrie",
     "outcome": "Cameron Norrie",
     "side": "BUY",
-    "whale_usd": 5498.920793,
-    "whale_pct": 9.397,
+    "whale_usd": 6088.959193000001,
+    "whale_pct": 10.405,
     "whale_value_at_open": 58518.3104,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 36,
@@ -5667,8 +5667,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786855292.3208275,
-    "fills": 5
+    "last_fill_at": 1786855832.9440036,
+    "fills": 6
   },
   {
     "timestamp": 1786853191,
