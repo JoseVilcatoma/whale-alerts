@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 07:59:12 (hora de Perú)
+Actualizado: 2026-08-16 08:01:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $880.49
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 07:59:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $310.49)
+**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $300.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 0 | 0 | 1 | +0.00 USD |
 | Lakersfan111 | 8 | 7 | 5 | -0.23 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 3 | -1.87 USD |
+| SDTrading | 2 | 2 | 4 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | g42gh6524h5h5 | 9 | 7 | 1 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
@@ -112,11 +112,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drx-bro2-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 111111111115 |
 | mlb-stl-chc-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-kc-laa-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
+| mlb-bal-tb-2026-08-16-total-7pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Baltimore Orioles vs. Tampa Bay Rays: O/ | Under (BUY) | 53% | 10.00 | 6.4% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Team Secret Whales vs CTBC Flying O | Team Secret Whales (BUY) | 51% | 10.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Tampa Bay Rays: O/ | Over (BUY) | 51% | 10.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 58% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -146,4 +148,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Fryderyk Lechno-Wasiutynski vs M | Matthew William Donald (BUY) | 98% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. Atlanta Dream | Atlanta Dream (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Rhys Lawlor vs Nicolas Tepma | Nicolas Tepmahc (BUY) | 80% | 10.00 | 3.5% | ⏳ pendiente | — |
-| 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) -  | HANJIN BRION (BUY) | 75% | 10.00 | 10.9% | ⏳ pendiente | — |
