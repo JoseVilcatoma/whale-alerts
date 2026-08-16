@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 03:04:44 (hora de Perú)
+Actualizado: 2026-08-16 03:06:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **262**  ($12,622,781 en total)
+- Apuestas registradas: **264**  ($12,722,501 en total)
 - Resueltas: **258** — 142 ganadas / 116 perdidas (**55%** de acierto)
-- Pendientes: 4
+- Pendientes: 6
 - Apostadores distintos: 87
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 24 | 13 | 0 | 65% | $2,291,364 | +$218,767 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 24 | 13 | 1 | 65% | $2,343,888 | +$218,767 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 12 | 0 | 57% | $1,270,826 | +$59,487 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 0 | 3 | 0 | ⚠️ 0% (3) | $81,210 | -$81,210 |
 | gransaaa | 0 | 0 | 1 | — | $77,414 | — |
 | Feromont | 2 | 1 | 0 | ⚠️ 67% (3) | $76,000 | +$4,000 |
+| Lakersfan111 | 1 | 0 | 1 | ⚠️ 100% (1) | $72,796 | +$14,400 |
 | ohehe | 1 | 1 | 0 | ⚠️ 50% (2) | $70,196 | -$23,912 |
 | Mamagovorila | 0 | 2 | 0 | ⚠️ 0% (2) | $59,891 | -$59,891 |
 | Dragua9 | 1 | 1 | 0 | ⚠️ 50% (2) | $59,881 | -$13,518 |
-| Bulls94 | 0 | 2 | 0 | ⚠️ 0% (2) | $59,846 | -$59,846 |
 
 _(mostrando los 40 de mayor monto, de 87 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round | Team Yandex | 1.43 (70¢) | $47,196 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | — | ⏳ Pendiente |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | — | ⏳ Pendiente |
 | Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | — | ⏳ Pendiente |
 | 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 87 en total)_
 | suntori | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.75 (57¢) | $25,254 | +$19,051 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Cincinnati Open: Quentin Halys vs Alex de Minaur | Alex de Minaur | 1.67 (60¢) | $67,371 | +$44,914 | ✅ Ganada |
 | suntori | UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card) | Islam Makhachev | 1.35 (74¢) | $31,177 | +$10,954 | ✅ Ganada |
-| Kosherlocks | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 1.85 (54¢) | $28,600 | +$24,363 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Mattia Bellucci vs Jakub Mensik | Jakub Mensik | 1.35 (74¢) | $31,570 | +$11,092 | ✅ Ganada |

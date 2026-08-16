@@ -3938,5 +3938,35 @@
     "status": "pending",
     "ultimo_fill": 1786867169,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 550,
+    "timestamp": 1786867284,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-lgd-ty-2026-08-16",
+    "title": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 47195.854999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1786867284,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 551,
+    "timestamp": 1786867269,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-t1-gen-2026-08-16",
+    "title": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 52523.710199999994,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1786867269,
+    "fills": 1
   }
 ]
