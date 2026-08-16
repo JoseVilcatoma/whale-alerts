@@ -8010,5 +8010,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786892224.1062613,
     "fills": 1
+  },
+  {
+    "timestamp": 1786892895,
+    "timestamp_added": 1786892896.6113083,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-tjen-golubic-2026-08-16",
+    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+    "outcome": "Janice Tjen",
+    "side": "BUY",
+    "whale_usd": 3215.6730000000002,
+    "whale_pct": 1.928,
+    "whale_value_at_open": 166754.7581,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786892896.6113195,
+    "fills": 1
   }
 ]
