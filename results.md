@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 11:58:52 (hora de Perú)
+Actualizado: 2026-08-16 12:00:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **319**  ($16,835,539 en total)
+- Apuestas registradas: **320**  ($16,919,791 en total)
 - Resueltas: **274** — 156 ganadas / 118 perdidas (**57%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 104
 
 ### Balance
@@ -44,6 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 007theone1 | 3 | 0 | 1 | ⚠️ 100% (3) | $172,600 | +$29,017 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| 3edmond.dantes | 1 | 0 | 2 | ⚠️ 100% (1) | $162,760 | +$46,780 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 0 | 0 | 2 | — | $153,500 | — |
 | Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 | xifutloong3 | 1 | 2 | 0 | ⚠️ 33% (3) | $88,711 | -$49,007 |
 | CORGI8 | 0 | 3 | 0 | ⚠️ 0% (3) | $87,381 | -$87,381 |
-| lIlIlIllllIIIII | 2 | 0 | 1 | ⚠️ 100% (2) | $87,061 | +$21,246 |
 
 _(mostrando los 40 de mayor monto, de 104 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | — | ⏳ Pendiente |
 | cryptojo | Cincinnati Open: Janice Tjen vs Viktorija Golubic | Janice Tjen | 1.12 (89¢) | $25,712 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | +$22,500 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 104 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.75 (57¢) | $52,524 | +$39,623 | ✅ Ganada |
 | casualbet2020 | Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs | Nova Esports | 1.59 (63¢) | $25,897 | +$15,209 | ✅ Ganada |
 | Zywoo123 | Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round | Team Spirit | 1.39 (72¢) | $30,240 | +$11,760 | ✅ Ganada |
-| 111111111115 | Dota 2: Iron Wing vs GamerLegion - Game 1 Winner | Iron Wing | 1.37 (73¢) | $57,547 | +$21,284 | ✅ Ganada |
