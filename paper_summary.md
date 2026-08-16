@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 11:25:31 (hora de Perú)
+Actualizado: 2026-08-16 11:27:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $817.16
-**Retorno acumulado:** -18.28%
-**Peor caída desde un máximo (drawdown):** 26.85%
+**Bankroll actual:** $807.16
+**Retorno acumulado:** -19.28%
+**Peor caída desde un máximo (drawdown):** 27.75%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $187.16)
+**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $177.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,19 +36,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 9 | 9 | 4 | -16.53 USD |
 | g42gh6524h5h5 | 9 | 8 | 2 | -17.06 USD |
 | midwicket72 | 1 | 2 | 2 | -18.10 USD |
-| IMAREALPERSON | 5 | 4 | 0 | -28.46 USD |
+| IMAREALPERSON | 5 | 4 | 1 | -28.46 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 2 | -54.24 USD |
-| RN1 | 22 | 17 | 6 | -73.99 USD |
+| RN1 | 22 | 18 | 5 | -83.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 273
-- **Aciertos:** 144 (52.7%)
-- **Cuota promedio de entrada:** 54.9%
+- **Apuestas resueltas:** 274
+- **Aciertos:** 144 (52.6%)
+- **Cuota promedio de entrada:** 54.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,730.00
-- **ROI sobre lo apostado:** -8.17%
+- **Total apostado (suma de stakes):** $2,740.00
+- **ROI sobre lo apostado:** -8.51%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
-| 40-59% | 137 | 46.0% | 49.6% | -3.6 pp |
+| 40-59% | 138 | 45.7% | 49.6% | -3.9 pp |
 | 60-79% | 66 | 69.7% | 68.3% | +1.4 pp |
 | 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
@@ -120,11 +120,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mia-cin-2026-08-16-total-8pt5 | HomeRunHazard, SDTrading |
 | mlb-mia-cin-2026-08-16-total-9pt5 | HomeRunHazard, SDTrading |
 | mlb-bos-pit-2026-08-16 | HomeRunHazard, SDTrading |
+| lol-mkoi-navi-2026-08-16-game2 | ChonkyChocolateCake, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 46% | 10.00 | 6.5% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Movistar KOI vs Natus Vincere - Gam | Movistar KOI (BUY) | 50% | 10.00 | 30.8% | ⏳ pendiente | — |
 | predictionlegend | RCD Espanyol de Barcelona vs. Levante UD | Over (BUY) | 45% | 10.00 | 32.8% | ⏳ pendiente | — |
 | predictionlegend | Will FC Arouca win on 2026-08-16? | Yes (BUY) | 52% | 10.00 | 104.7% | ⏳ pendiente | — |
@@ -154,4 +156,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Over (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Luciano Emanuel Ambrogi vs Vojte | Luciano Emanuel Ambrogi (BUY) | 94% | 10.00 | 1.8% | ✅ ganada | +0.64 |
