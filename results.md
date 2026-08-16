@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 18:43:49 (hora de Perú)
+Actualizado: 2026-08-16 18:45:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **345**  ($17,845,626 en total)
-- Resueltas: **334** — 199 ganadas / 135 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **335** — 200 ganadas / 135 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,080,245** sobre $17,456,292 apostados (ROI **+6.2%**)
-- Copiando $100 fijo en cada una: **-$920** sobre $32,600 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,105,361** sobre $17,483,501 apostados (ROI **+6.3%**)
+- Copiando $100 fijo en cada una: **-$828** sobre $32,700 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $42,567 | -$42,567 | ❌ Perdida |
-| winwin518168 | Spread: Chicago Sky (-2.5) | Seattle Storm | 1.92 (52¢) | $27,209 | — | ⏳ Pendiente |
+| winwin518168 | Spread: Chicago Sky (-2.5) | Seattle Storm | 1.92 (52¢) | $27,209 | +$25,116 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $59,113 | -$59,113 | ❌ Perdida |
 | Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | +$79,897 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | +$2,421 | ✅ Ganada |
