@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:38:43 (hora de Perú)
+Actualizado: 2026-08-16 05:40:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.18
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 05:38:43 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $414.18)
+**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $404.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 5 | 5 | 1 | -24.78 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 13 | 11 | 11 | -49.55 USD |
+| RN1 | 13 | 11 | 12 | -49.55 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -120,6 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sion: Nicolas Parizzia vs Theo Papamalam | Nicolas Parizzia (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ADO Den Haag vs. FC Groningen: O/U 2.5 | Over (BUY) | 73% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Sion: Michael Zhu vs Thiago Cigarran | Thiago Cigarran (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Weibo Gaming vs Invictus Gaming - G | Weibo Gaming (BUY) | 52% | 10.00 | 46.0% | 💰 vendida anticipada | -2.12 |
@@ -149,4 +150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 66% | 10.00 | 34.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | 💰 vendida anticipada | -3.15 |
 | RN1 | Astana: Aziz Dougaz vs Hayato Matsuoka | Hayato Matsuoka (BUY) | 51% | 10.00 | 51.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 72% | 10.00 | 66.7% | ⏳ pendiente | — |
