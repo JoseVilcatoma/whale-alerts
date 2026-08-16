@@ -1,5 +1,5 @@
 {
-  "bankroll": 895.8741870622122,
+  "bankroll": 896.2908537288788,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1340,6 +1340,11 @@
       "timestamp": 1786875726.397307,
       "bankroll": 895.87,
       "event": "won: HomeRunHazard \u2014 Prague: Matyas Kozlovsky vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1786876220.8520415,
+      "bankroll": 896.29,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning"
     }
   ]
 }
