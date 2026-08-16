@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 02:28:22 (hora de Perú)
+Actualizado: 2026-08-16 02:30:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $922.01
-**Retorno acumulado:** -7.80%
+**Bankroll actual:** $931.62
+**Retorno acumulado:** -6.84%
 **Peor caída desde un máximo (drawdown):** 17.47%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 02:28:22 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $642.01)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $661.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 7 | 0 | +44.61 USD |
-| 111111111115 | 8 | 4 | 8 | +30.12 USD |
+| 111111111115 | 9 | 4 | 7 | +39.73 USD |
 | Lakersfan111 | 6 | 5 | 10 | +11.63 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
@@ -41,12 +41,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 229
-- **Aciertos:** 120 (52.4%)
-- **Cuota promedio de entrada:** 52.9%
+- **Apuestas resueltas:** 230
+- **Aciertos:** 121 (52.6%)
+- **Cuota promedio de entrada:** 52.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,290.00
-- **ROI sobre lo apostado:** -5.16%
+- **Total apostado (suma de stakes):** $2,300.00
+- **ROI sobre lo apostado:** -4.72%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -56,7 +56,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 39 | 23.1% | 32.5% | -9.4 pp |
-| 40-59% | 120 | 49.2% | 49.4% | -0.2 pp |
+| 40-59% | 121 | 49.6% | 49.4% | +0.2 pp |
 | 60-79% | 50 | 70.0% | 67.7% | +2.3 pp |
 | 80-94% | 14 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 3 | 100.0% | 97.7% | +2.3 pp |
@@ -130,7 +130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Atlas FC vs. Tigres de la UANL: O/U 3.5 | Over (BUY) | 36% | 10.00 | 1.7% | ❌ perdida | -10.00 |
 | RN1 | Will Tigres de la UANL win on 2026-08-15 | No (BUY) | 95% | 10.00 | 0.9% | ✅ ganada | +0.53 |
 | RN1 | Will Tigres de la UANL win on 2026-08-15 | Yes (BUY) | 42% | 10.00 | 1.9% | ❌ perdida | -10.00 |
-| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 276.3% | ⏳ pendiente | — |
+| 111111111115 | Dota 2: Aurora vs BoomBoys - Game 2 Winn | BoomBoys (BUY) | 51% | 10.00 | 276.3% | ✅ ganada | +9.61 |
 | wr0ngw4yb3tt0r | Arsenal FC vs. Manchester City: O/U 2.5 | Under (BUY) | 49% | 10.00 | 53.4% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Under (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs GamerLegion - Game  | GamerLegion (BUY) | 25% | 10.00 | 2.0% | ⏳ pendiente | — |
