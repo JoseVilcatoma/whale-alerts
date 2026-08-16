@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 09:34:53 (hora de Perú)
+Actualizado: 2026-08-16 09:37:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $860.58
-**Retorno acumulado:** -13.94%
+**Bankroll actual:** $851.22
+**Retorno acumulado:** -14.88%
 **Peor caída desde un máximo (drawdown):** 24.02%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 09:34:53 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $200.58)
+**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $201.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,15 +26,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | Sassy-Bucket | 2 | 3 | 0 | +9.29 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
-| HomeRunHazard | 5 | 2 | 25 | +2.79 USD |
+| HomeRunHazard | 6 | 2 | 25 | +3.43 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 10 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Lakersfan111 | 9 | 8 | 3 | -6.53 USD |
 | g42gh6524h5h5 | 9 | 7 | 2 | -7.06 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| Lakersfan111 | 9 | 9 | 2 | -16.53 USD |
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 4 | 4 | 1 | -28.56 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
@@ -43,12 +43,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 256
-- **Aciertos:** 135 (52.7%)
+- **Apuestas resueltas:** 258
+- **Aciertos:** 136 (52.7%)
 - **Cuota promedio de entrada:** 54.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $2,560.00
-- **ROI sobre lo apostado:** -7.02%
+- **Total apostado (suma de stakes):** $2,580.00
+- **ROI sobre lo apostado:** -7.33%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,10 +57,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
-| 20-39% | 40 | 22.5% | 32.3% | -9.8 pp |
+| 20-39% | 41 | 22.0% | 32.2% | -10.2 pp |
 | 40-59% | 130 | 46.9% | 49.4% | -2.5 pp |
 | 60-79% | 60 | 70.0% | 68.1% | +1.9 pp |
-| 80-94% | 18 | 100.0% | 84.9% | +15.1 pp |
+| 80-94% | 19 | 100.0% | 85.4% | +14.6 pp |
 | 95-99% (casi seguro) | 5 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -123,6 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. Atlanta Dream: O/U 188 | Under (BUY) | 54% | 10.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3)  | Top Esports (BUY) | 96% | 10.00 | 276.3% | 💰 vendida anticipada | +0.00 |
 | HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Pittsburgh Pirates | Boston Red Sox (BUY) | 53% | 10.00 | 2.8% | ⏳ pendiente | — |
@@ -138,7 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | San Diego Padres vs. Cleveland Guardians | Under (BUY) | 54% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Kansas City Royals (-1.5) | Los Angeles Angels (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury: O/U 1 | Over (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Luciano Emanuel Ambrogi vs Vojte | Luciano Emanuel Ambrogi (BUY) | 94% | 10.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Prague: Luciano Emanuel Ambrogi vs Vojte | Luciano Emanuel Ambrogi (BUY) | 94% | 10.00 | 1.8% | ✅ ganada | +0.64 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 55% | 10.00 | 11.9% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Under (BUY) | 56% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -152,4 +153,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 44% | 10.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 57% | 10.00 | 7.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Los Angeles Angel | Under (BUY) | 45% | 10.00 | 1.0% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Chicago Cubs: O/ | Over (BUY) | 44% | 10.00 | 3.0% | ⏳ pendiente | — |
