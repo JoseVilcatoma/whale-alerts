@@ -3561,5 +3561,20 @@
     "status": "pending",
     "ultimo_fill": 1786845314,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 480,
+    "timestamp": 1786845829,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "ufc-isl-ian1-2026-08-15-machado-garry-win-by-ko-tko",
+    "title": "Will Ian Machado Garry win by KO or TKO?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 35155.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1786845829,
+    "fills": 1
   }
 ]
