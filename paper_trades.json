@@ -5591,8 +5591,8 @@
     "title": "Map Handicap: 9z (-1.5) vs magic (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 3492.236999999999,
-    "whale_pct": 7.952,
+    "whale_usd": 4636.7483999999995,
+    "whale_pct": 10.558,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 35,
@@ -5601,8 +5601,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786847340.308183,
-    "fills": 2
+    "last_fill_at": 1786848243.773435,
+    "fills": 3
   },
   {
     "timestamp": 1786846436,
@@ -5637,8 +5637,8 @@
     "title": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 12042.688000000002,
-    "whale_pct": 27.422,
+    "whale_usd": 15697.803100000003,
+    "whale_pct": 35.745,
     "whale_value_at_open": 43916.1373,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -5647,8 +5647,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786847347.7416642,
-    "fills": 4
+    "last_fill_at": 1786848245.7680502,
+    "fills": 5
   },
   {
     "timestamp": 1786846439,
@@ -5815,8 +5815,8 @@
     "title": "Kansas City Royals vs. Los Angeles Angels",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 692.892,
-    "whale_pct": 0.435,
+    "whale_usd": 1642.892,
+    "whale_pct": 1.032,
     "whale_value_at_open": 159179.7875,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -5825,7 +5825,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786848038.8359442,
-    "fills": 1
+    "last_fill_at": 1786848306.0279326,
+    "fills": 2
   }
 ]
