@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-15 19:26:00 (hora de Perú)
+Actualizado: 2026-08-15 19:28:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **226**  ($10,564,976 en total)
+- Apuestas registradas: **227**  ($10,594,976 en total)
 - Resueltas: **197** — 109 ganadas / 88 perdidas (**55%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 78
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 11 | 1 | 45% | $953,045 | -$74,202 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| AV23IUa | 2 | 6 | 0 | 25% | $377,907 | -$131,530 |
+| AV23IUa | 2 | 6 | 1 | 25% | $407,907 | -$131,530 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | noway8 | 0 | 0 | 1 | — | $290,000 | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 3 | 5 | 0 | 38% | $262,000 | -$90,212 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 78 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Rafael Jodar vs Denis Shapovalov | Denis Shapovalov | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
 | surfandturf | UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims) | Joel Álvarez | 1.35 (74¢) | $35,892 | — | ⏳ Pendiente |
 | Netrol | UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims) | Eduardo Chapolin | 2.13 (47¢) | $29,347 | — | ⏳ Pendiente |
 | Winnnnnnning | UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card) | Mackenzie Dern | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 78 en total)_
 | Paracellus | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.27 (44¢) | $27,559 | +$35,076 | ✅ Ganada |
 | sulumos | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $58,856 | -$58,856 | ❌ Perdida |
-| ChinesePro | Will Deportivo Alavés win on 2026-08-15? | No | 1.69 (59¢) | $33,229 | -$33,229 | ❌ Perdida |
