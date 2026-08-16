@@ -7056,8 +7056,8 @@
     "title": "Will Incheon United FC win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 9103.862045000002,
-    "whale_pct": 26.558,
+    "whale_usd": 14844.728045000002,
+    "whale_pct": 43.305,
     "whale_value_at_open": 34279.1388,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -7067,8 +7067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786874488.3628347,
-    "fills": 5
+    "last_fill_at": 1786874623.1586173,
+    "fills": 6
   },
   {
     "timestamp": 1786873068,
