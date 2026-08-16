@@ -3243,7 +3243,7 @@
     "side": "BUY",
     "usd": 55054.9868,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786834851,
     "fills": 1
   },
@@ -3258,7 +3258,7 @@
     "side": "BUY",
     "usd": 27867.251500000006,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786834993,
     "fills": 1
   },
@@ -3273,7 +3273,7 @@
     "side": "BUY",
     "usd": 57391.152500000004,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786835194,
     "fills": 1
   },
@@ -3303,7 +3303,7 @@
     "side": "BUY",
     "usd": 56489.463,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786835529,
     "fills": 1
   },
@@ -3318,7 +3318,7 @@
     "side": "BUY",
     "usd": 45000.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786835813,
     "fills": 1
   },
@@ -3333,7 +3333,7 @@
     "side": "BUY",
     "usd": 66527.31800000001,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786836349,
     "fills": 1
   },
@@ -3530,6 +3530,21 @@
     "odds_at_bet": 84,
     "status": "pending",
     "ultimo_fill": 1786845041,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 470,
+    "timestamp": 1786845243,
+    "username": "BreakTheBank",
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "slug": "ufc-isl-ian1-2026-08-15",
+    "title": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+    "outcome": "Ian Machado Garry",
+    "side": "BUY",
+    "usd": 39194.69783700001,
+    "odds_at_bet": 26,
+    "status": "pending",
+    "ultimo_fill": 1786845243,
     "fills": 1
   }
 ]
