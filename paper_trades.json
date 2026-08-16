@@ -6621,8 +6621,8 @@
     "title": "LoL: T1 vs Gen.G - Game 1 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 3053.0,
-    "whale_pct": 11.25,
+    "whale_usd": 17020.6889,
+    "whale_pct": 62.719,
     "whale_value_at_open": 27138.1867,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -6634,8 +6634,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786868022.0737429,
-    "fills": 1
+    "last_fill_at": 1786869202.4979467,
+    "fills": 5
   },
   {
     "timestamp": 1786868166,
