@@ -7657,5 +7657,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786922947.7072077,
     "fills": 1
+  },
+  {
+    "timestamp": 1786923731,
+    "timestamp_added": 1786923731.8051941,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ly-sen-2026-08-16-game2",
+    "title": "LoL: LYON vs Sentinels - Game 2 Winner",
+    "outcome": "LYON",
+    "side": "BUY",
+    "whale_usd": 2205.305185,
+    "whale_pct": 7.112,
+    "whale_value_at_open": 31006.114,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ChonkyChocolateCake"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786923745.1711793,
+    "fills": 2
   }
 ]
