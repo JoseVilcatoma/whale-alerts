@@ -7025,5 +7025,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786883887.0290325,
     "fills": 1
+  },
+  {
+    "timestamp": 1786884083,
+    "timestamp_added": 1786884083.6608458,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-sakell-tanner-2026-08-16",
+    "title": "Sion: Dimitris Sakellaridis vs Gian Luca Tanner",
+    "outcome": "Dimitris Sakellaridis",
+    "side": "BUY",
+    "whale_usd": 31015.264750000002,
+    "whale_pct": 141.021,
+    "whale_value_at_open": 21993.4254,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786884141.1965675,
+    "fills": 6
   }
 ]
