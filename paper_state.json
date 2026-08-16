@@ -1,5 +1,5 @@
 {
-  "bankroll": 956.7585294577245,
+  "bankroll": 948.2721771004044,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1200,6 +1200,26 @@
       "timestamp": 1786861275.0118933,
       "bankroll": 956.76,
       "event": "won: Lakersfan111 \u2014 Game Handicap: FLC (-1.5) vs Vici Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1786862852.6273835,
+      "bankroll": 962.14,
+      "event": "won: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
+    },
+    {
+      "timestamp": 1786862853.128249,
+      "bankroll": 968.27,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
+    },
+    {
+      "timestamp": 1786862853.2284095,
+      "bankroll": 958.27,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
+    },
+    {
+      "timestamp": 1786862855.3320417,
+      "bankroll": 948.27,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
     }
   ]
 }
