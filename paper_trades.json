@@ -7526,8 +7526,8 @@
     "title": "Prague: Luciano Emanuel Ambrogi vs Vojtech Mares",
     "outcome": "Luciano Emanuel Ambrogi",
     "side": "BUY",
-    "whale_usd": 1168.9971999999998,
-    "whale_pct": 0.959,
+    "whale_usd": 1725.9987999999998,
+    "whale_pct": 1.416,
     "whale_value_at_open": 121864.0887,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 94,
@@ -7537,8 +7537,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786886491.3625681,
-    "fills": 2
+    "last_fill_at": 1786887211.0098765,
+    "fills": 3
   },
   {
     "timestamp": 1786886112,
