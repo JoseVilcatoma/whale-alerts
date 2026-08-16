@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 08:19:29 (hora de Perú)
+Actualizado: 2026-08-16 08:21:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **277**  ($13,296,359 en total)
+- Apuestas registradas: **278**  ($13,369,622 en total)
 - Resueltas: **263** — 147 ganadas / 116 perdidas (**56%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 93
 
 ### Balance
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 1 | 0 | ⚠️ 80% (5) | $237,095 | +$72,530 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | sainttroplay | 1 | 0 | 0 | ⚠️ 100% (1) | $226,926 | +$370,247 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 1 | ⚠️ 75% (4) | $215,197 | +$9,899 |
 | Sassy-Bucket | 4 | 0 | 0 | ⚠️ 100% (4) | $212,537 | +$200,247 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | Winnnnnnning | 0 | 4 | 0 | ⚠️ 0% (4) | $147,771 | -$116,271 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 3 | 1 | 0 | ⚠️ 75% (4) | $141,934 | +$9,899 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.49 (67¢) | $73,263 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.54 (65¢) | $123,402 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $61,282 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros | 1.82 (55¢) | $28,852 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 93 en total)_
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | beachboy4 | Will CF Montréal win on 2026-08-15? | Yes | 2.22 (45¢) | $56,489 | -$56,489 | ❌ Perdida |
 | pleaseplease123 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.08 (48¢) | $35,000 | +$37,916 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will CF Montréal win on 2026-08-15? | No | 1.82 (55¢) | $57,391 | +$46,956 | ✅ Ganada |
