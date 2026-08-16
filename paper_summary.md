@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-15 20:59:56 (hora de Perú)
+Actualizado: 2026-08-15 21:02:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $947.28
-**Retorno acumulado:** -5.27%
+**Bankroll actual:** $962.57
+**Retorno acumulado:** -3.74%
 **Peor caída desde un máximo (drawdown):** 16.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -26,22 +26,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 3 | -0.36 USD |
 | midwicket72 | 1 | 1 | 1 | -8.10 USD |
 | g42gh6524h5h5 | 6 | 5 | 5 | -8.61 USD |
-| SDTrading | 0 | 1 | 3 | -10.00 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| SDTrading | 1 | 2 | 1 | -11.48 USD |
+| 1winstreak1 | 6 | 7 | 1 | -14.86 USD |
 | IMAREALPERSON | 4 | 3 | 0 | -18.56 USD |
 | RN1 | 5 | 6 | 0 | -23.02 USD |
-| 1winstreak1 | 5 | 7 | 2 | -24.09 USD |
-| wr0ngw4yb3tt0r | 6 | 11 | 6 | -38.23 USD |
+| wr0ngw4yb3tt0r | 7 | 11 | 5 | -30.69 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 192
-- **Aciertos:** 98 (51.0%)
+- **Apuestas resueltas:** 196
+- **Aciertos:** 101 (51.5%)
 - **Cuota promedio de entrada:** 51.7%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $1,920.00
-- **ROI sobre lo apostado:** -4.84%
+- **Total apostado (suma de stakes):** $1,960.00
+- **ROI sobre lo apostado:** -3.96%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -51,7 +51,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 35 | 25.7% | 32.3% | -6.6 pp |
-| 40-59% | 102 | 48.0% | 49.2% | -1.1 pp |
+| 40-59% | 106 | 49.1% | 49.3% | -0.3 pp |
 | 60-79% | 41 | 70.7% | 67.8% | +2.9 pp |
 | 80-94% | 10 | 100.0% | 85.0% | +15.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 100.0% | +0.0 pp |
@@ -123,7 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 51% | 10.00 | 10.6% | 💰 vendida anticipada | +8.43 |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas (BO3) | Shopify Rebellion (BUY) | 62% | 10.00 | 17.2% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Cincinnati Reds | Cincinnati Reds (BUY) | 44% | 10.00 | 13.3% | ❌ perdida | -10.00 |
-| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ⏳ pendiente | — |
+| 1winstreak1 | San Diego Padres vs. Cleveland Guardians | Cleveland Guardians (BUY) | 52% | 10.00 | 17.3% | ✅ ganada | +9.23 |
 | 111111111115 | Counter-Strike: Astralis vs NIP (BO3) -  | NIP (BUY) | 45% | 10.00 | 39.0% | ⏳ pendiente | — |
 | 111111111115 | Valorant: Team Envy vs Sentinels (BO3) - | Sentinels (BUY) | 65% | 10.00 | 748.5% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: Shopify Rebellion vs Dignitas - Gam | Dignitas (BUY) | 41% | 10.00 | 3.4% | ⏳ pendiente | — |
