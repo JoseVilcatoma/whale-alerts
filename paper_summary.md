@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 05:44:50 (hora de Perú)
+Actualizado: 2026-08-16 05:46:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $894.18
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 05:44:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $394.18)
+**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $374.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 0 | +3.89 USD |
 | HomeRunHazard | 6 | 2 | 9 | +3.78 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| SineNooneEI | 0 | 0 | 1 | +0.00 USD |
+| SineNooneEI | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 1 | 2 | 1 | -18.10 USD |
 | IMAREALPERSON | 5 | 5 | 2 | -24.78 USD |
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 13 | 11 | 12 | -49.55 USD |
+| RN1 | 13 | 11 | 13 | -49.55 USD |
 | wr0ngw4yb3tt0r | 10 | 15 | 1 | -54.24 USD |
 
 ## Análisis general
@@ -115,11 +115,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-dougaz-matsuok-2026-08-16 | HomeRunHazard, RN1 |
 | lol-lgd-jdg-2026-08-16 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, g42gh6524h5h5 |
 | lol-t1-gen-2026-08-16-game2 | IMAREALPERSON, g42gh6524h5h5 |
+| lol-drx-bro2-2026-08-16-game1 | IMAREALPERSON, SineNooneEI |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SineNooneEI | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | HANJIN BRION (BUY) | 52% | 10.00 | 9.4% | ⏳ pendiente | — |
+| RN1 | Prague: Jiri Cizek vs Norbert Gombos | Norbert Gombos (BUY) | 86% | 10.00 | 2.9% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Kiwoom DRX vs HANJIN BRION - Game 1 | Kiwoom DRX (BUY) | 49% | 10.00 | 23.5% | ⏳ pendiente | — |
 | RN1 | Sion: Nicolas Parizzia vs Theo Papamalam | Nicolas Parizzia (BUY) | 48% | 10.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ADO Den Haag vs. FC Groningen: O/U 2.5 | Over (BUY) | 73% | 10.00 | 1.8% | ⏳ pendiente | — |
@@ -148,5 +151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Bydgoszcz Women: Daria Kuczer vs | Daria Kuczer (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | T1 (BUY) | 69% | 10.00 | 220.6% | ⏳ pendiente | — |
 | g42gh6524h5h5 | LoL: T1 vs Gen.G - Game 1 Winner | Gen.G (BUY) | 73% | 10.00 | 38.3% | ⏳ pendiente | — |
-| g42gh6524h5h5 | LoL: LGD Gaming vs JD Gaming - Game 2 Wi | JD Gaming (BUY) | 66% | 10.00 | 34.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LGD Gaming vs JD Gaming (BO3) - LPL | JD Gaming (BUY) | 89% | 10.00 | 12.2% | 💰 vendida anticipada | -3.15 |
