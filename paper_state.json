@@ -1,5 +1,5 @@
 {
-  "bankroll": 884.4216101230895,
+  "bankroll": 875.5327212342006,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1370,6 +1370,16 @@
       "timestamp": 1786877585.6133964,
       "bankroll": 884.42,
       "event": "won: HomeRunHazard \u2014 Astana: Aziz Dougaz vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1786878137.4045296,
+      "bankroll": 874.42,
+      "event": "lost: Lakersfan111 \u2014 Dota 2: LGD Gaming vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786878141.4338846,
+      "bankroll": 875.53,
+      "event": "won: RN1 \u2014 ITF M15 Malm\u00f6 Men: Karl Friberg vs John Hallquist Lithen"
     }
   ]
 }
