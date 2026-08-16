@@ -4565,11 +4565,11 @@
     "title": "Will Villarreal CF win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 84000.0,
+    "usd": 115200.0,
     "odds_at_bet": 48,
     "status": "pending",
-    "ultimo_fill": 1786890539,
-    "fills": 2
+    "ultimo_fill": 1786890646,
+    "fills": 3
   },
   {
     "telegram_msg_id": 602,
@@ -4584,6 +4584,36 @@
     "odds_at_bet": 92,
     "status": "pending",
     "ultimo_fill": 1786890686,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 603,
+    "timestamp": 1786890754,
+    "username": "sainttroplay",
+    "wallet": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+    "slug": "lal-rrc-vil-2026-08-16-vil",
+    "title": "Will Villarreal CF win on 2026-08-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 73335.6344,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1786890754,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 604,
+    "timestamp": 1786890775,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ecs-ars-mci-2026-08-16-mci",
+    "title": "Will Manchester City win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 95128.2585,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1786890775,
     "fills": 1
   }
 ]
