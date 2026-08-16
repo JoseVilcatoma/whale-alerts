@@ -1,5 +1,5 @@
 {
-  "bankroll": 948.2721771004044,
+  "bankroll": 938.2721771004044,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1220,6 +1220,11 @@
       "timestamp": 1786862855.3320417,
       "bankroll": 948.27,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Cameron Norrie"
+    },
+    {
+      "timestamp": 1786863476.9648294,
+      "bankroll": 938.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: KC (-1.5)"
     }
   ]
 }
