@@ -1,5 +1,5 @@
 {
-  "bankroll": 810.7998502624487,
+  "bankroll": 827.2903967529951,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1550,6 +1550,21 @@
       "timestamp": 1786913637.3314369,
       "bankroll": 810.8,
       "event": "lost: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 6.5"
+    },
+    {
+      "timestamp": 1786913947.3063493,
+      "bankroll": 819.32,
+      "event": "won: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1786913947.8726435,
+      "bankroll": 824.47,
+      "event": "won: HomeRunHazard \u2014 New York Yankees vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1786913948.4250576,
+      "bankroll": 827.29,
+      "event": "won: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
     }
   ]
 }
