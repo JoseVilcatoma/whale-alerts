@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 09:44:04 (hora de Perú)
+Actualizado: 2026-08-16 09:46:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **307**  ($16,280,115 en total)
-- Resueltas: **268** — 152 ganadas / 116 perdidas (**57%** de acierto)
-- Pendientes: 39
+- Resueltas: **269** — 152 ganadas / 117 perdidas (**57%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 100
 
 ### Balance
 
-- **Resultado de los apostadores: -$569,856** sobre $12,887,460 apostados (ROI **-4.4%**)
-- Copiando $100 fijo en cada una: **-$2,311** sobre $26,200 (ROI **-8.8%**)
+- **Resultado de los apostadores: -$595,604** sobre $12,913,208 apostados (ROI **-4.6%**)
+- Copiando $100 fijo en cada una: **-$2,411** sobre $26,300 (ROI **-9.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 100 en total)_
 | 111111111115 | LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.35 (74¢) | $25,129 | — | ⏳ Pendiente |
 | greyoctober | Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C | Vitality | 1.09 (92¢) | $92,000 | +$8,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana | Invictus Gaming | 1.75 (57¢) | $39,073 | — | ⏳ Pendiente |
-| happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | — | ⏳ Pendiente |
+| happywater | Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D | paiN | 2.50 (40¢) | $25,748 | -$25,748 | ❌ Perdida |
 | us391 | Odense BK vs. AC Horsens: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $28,442 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Gen.G | 1.30 (77¢) | $27,026 | +$8,073 | ✅ Ganada |
 | bbb17367162806 | Will ADO Den Haag win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
