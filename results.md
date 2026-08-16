@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 14:22:26 (hora de Perú)
+Actualizado: 2026-08-16 14:24:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **334**  ($17,400,313 en total)
+- Apuestas registradas: **335**  ($17,449,282 en total)
 - Resueltas: **299** — 175 ganadas / 124 perdidas (**59%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 106
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 106 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.49 (67¢) | $73,263 | +$36,085 | ✅ Ganada |
 | dsasdaas | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.54 (65¢) | $123,402 | +$66,447 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.22 (82¢) | $61,282 | +$13,452 | ✅ Ganada |
-| SDTrading | Seattle Mariners vs. Houston Astros | Houston Astros | 1.82 (55¢) | $28,852 | — | ⏳ Pendiente |
