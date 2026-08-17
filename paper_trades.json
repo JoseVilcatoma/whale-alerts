@@ -9120,8 +9120,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 11441.779900000001,
-    "whale_pct": 7.598,
+    "whale_usd": 13927.274340000002,
+    "whale_pct": 9.249,
     "whale_value_at_open": 150586.0561,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -9131,8 +9131,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786985413.435564,
-    "fills": 3
+    "last_fill_at": 1786985975.3446944,
+    "fills": 4
   },
   {
     "timestamp": 1786983506,
@@ -9489,5 +9489,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786985498.4543166,
     "fills": 2
+  },
+  {
+    "timestamp": 1786985891,
+    "timestamp_added": 1786985891.8478582,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-pit-2026-08-17-total-7pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2933.384927,
+    "whale_pct": 1.644,
+    "whale_value_at_open": 178433.0161,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786985891.84787,
+    "fills": 1
   }
 ]
