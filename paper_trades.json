@@ -9988,8 +9988,8 @@
     "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 30510.333996999998,
-    "whale_pct": 11.75,
+    "whale_usd": 35366.373996999995,
+    "whale_pct": 13.62,
     "whale_value_at_open": 259657.1884,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
@@ -9999,8 +9999,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786996087.6177585,
-    "fills": 8
+    "last_fill_at": 1787000591.2762198,
+    "fills": 9
   },
   {
     "timestamp": 1786993838,
@@ -10822,8 +10822,8 @@
     "title": "Cincinnati Open: Magdalena Frech vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 18131.192338,
-    "whale_pct": 6.065,
+    "whale_usd": 20568.932338,
+    "whale_pct": 6.88,
     "whale_value_at_open": 298967.9796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10833,7 +10833,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787000537.250408,
-    "fills": 6
+    "last_fill_at": 1787000581.530845,
+    "fills": 7
+  },
+  {
+    "timestamp": 1787000582,
+    "timestamp_added": 1787000583.0999985,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itc-pal-lec-2026-08-17-total-2pt5",
+    "title": "Palermo FC vs. US Lecce: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 554.139,
+    "whale_pct": 0.175,
+    "whale_value_at_open": 317327.4237,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787000583.100009,
+    "fills": 1
   }
 ]
