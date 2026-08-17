@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 14206.537606,
-    "whale_pct": 6.016,
+    "whale_usd": 22428.437006,
+    "whale_pct": 9.497,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786932620.8448424,
-    "fills": 10
+    "last_fill_at": 1786932905.8146067,
+    "fills": 12
   },
   {
     "timestamp": 1786931539,
@@ -8164,8 +8164,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 1784.481428,
-    "whale_pct": 0.76,
+    "whale_usd": 2989.926959,
+    "whale_pct": 1.273,
     "whale_value_at_open": 234923.1093,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8175,8 +8175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786931595.264821,
-    "fills": 1
+    "last_fill_at": 1786932896.4162679,
+    "fills": 2
   },
   {
     "timestamp": 1786931708,
@@ -8342,5 +8342,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786932729.1024227,
     "fills": 2
+  },
+  {
+    "timestamp": 1786932863,
+    "timestamp_added": 1786932864.3881552,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "mex-tij-caz-2026-08-16-caz",
+    "title": "Will CF Cruz Azul win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 51945.09939999999,
+    "whale_pct": 11.492,
+    "whale_value_at_open": 452006.5422,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786932887.1193407,
+    "fills": 8
   }
 ]
