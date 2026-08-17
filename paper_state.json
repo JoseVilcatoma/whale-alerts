@@ -1,5 +1,5 @@
 {
-  "bankroll": 782.1729755271781,
+  "bankroll": 795.105746778915,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1870,6 +1870,26 @@
       "timestamp": 1786978764.3196576,
       "bankroll": 782.17,
       "event": "won: RN1 \u2014 ITF W35 Verbier Women: Anna Lena Ebster vs Ines Delaloye"
+    },
+    {
+      "timestamp": 1786978885.4450862,
+      "bankroll": 786.46,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Eduardo Ribeiro vs Sumit Nagal"
+    },
+    {
+      "timestamp": 1786978885.6453676,
+      "bankroll": 793.7,
+      "event": "won: RN1 \u2014 Prague 2: Eduardo Ribeiro vs Sumit Nagal"
+    },
+    {
+      "timestamp": 1786978887.1946461,
+      "bankroll": 794.12,
+      "event": "won: HomeRunHazard \u2014 Prague 2: Eduardo Ribeiro vs Sumit Nagal"
+    },
+    {
+      "timestamp": 1786978887.394936,
+      "bankroll": 795.11,
+      "event": "won: swisstony \u2014 Prague 2: Eduardo Ribeiro vs Sumit Nagal"
     }
   ]
 }

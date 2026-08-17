@@ -8724,8 +8724,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8866,8 +8866,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.24,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -9245,8 +9245,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -9294,8 +9294,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 91,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.99,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1",
