@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 23:45:14 (hora de Perú)
+Actualizado: 2026-08-16 23:47:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **348**  ($17,966,044 en total)
-- Resueltas: **346** — 205 ganadas / 141 perdidas (**59%** de acierto)
-- Pendientes: 2
+- Resueltas: **347** — 206 ganadas / 141 perdidas (**59%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,049,548** sobre $17,861,139 apostados (ROI **+5.9%**)
-- Copiando $100 fijo en cada una: **-$1,019** sobre $33,800 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$1,056,895** sobre $17,920,582 apostados (ROI **+5.9%**)
+- Copiando $100 fijo en cada una: **-$1,007** sobre $33,900 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 4 | 1 | 0 | ⚠️ 80% (5) | $245,037 | +$167,747 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Winnnnnnning | 0 | 4 | 1 | ⚠️ 0% (4) | $193,233 | -$116,271 |
-| swisstony | 2 | 0 | 1 | ⚠️ 100% (2) | $179,815 | +$13,471 |
+| swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | — | ⏳ Pendiente |
+| swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | +$7,347 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
 | tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
