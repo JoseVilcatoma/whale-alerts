@@ -8292,5 +8292,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786947898.8316092,
     "fills": 1
+  },
+  {
+    "timestamp": 1786948427,
+    "timestamp_added": 1786948428.499354,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-blockx-cobolli-2026-08-17",
+    "title": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 958.3299999999999,
+    "whale_pct": 0.612,
+    "whale_value_at_open": 156691.6474,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 48,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786948428.4993618,
+    "fills": 1
   }
 ]
