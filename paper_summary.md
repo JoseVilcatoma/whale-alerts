@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:02:48 (hora de Perú)
+Actualizado: 2026-08-17 11:04:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $767.25
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:02:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $137.25)
+**Capital comprometido ahora mismo:** $640.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $127.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 6 | 1 | 15 | +10.75 USD |
+| swisstony | 6 | 1 | 16 | +10.75 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
@@ -149,7 +149,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Maria Sakkari (BUY) | 49% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 75% | 10.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Maria Sakkari (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Spread: Pisa SC (-1.5) | Empoli FC (BUY) | 66% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 83% | 10.00 | 4.1% | ⏳ pendiente | — |
@@ -178,4 +179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.8% | ⏳ pendiente | — |
 | SDTrading | Spread: Atlanta Braves (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 16.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 3.0% | ⏳ pendiente | — |
