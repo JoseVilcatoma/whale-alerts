@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 15:12:49 (hora de Perú)
+Actualizado: 2026-08-17 15:14:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $805.69
-**Retorno acumulado:** -19.43%
+**Bankroll actual:** $811.31
+**Retorno acumulado:** -18.87%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 15:12:49 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $225.69)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $241.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 9 | 2 | 4 | +27.62 USD |
+| swisstony | 10 | 2 | 3 | +33.24 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 1 | +11.28 USD |
@@ -50,12 +50,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 383
-- **Aciertos:** 212 (55.4%)
+- **Apuestas resueltas:** 384
+- **Aciertos:** 213 (55.5%)
 - **Cuota promedio de entrada:** 57.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,830.00
-- **ROI sobre lo apostado:** -6.39%
+- **Total apostado (suma de stakes):** $3,840.00
+- **ROI sobre lo apostado:** -6.22%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,7 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 184 | 48.4% | 49.5% | -1.2 pp |
-| 60-79% | 110 | 66.4% | 68.9% | -2.5 pp |
+| 60-79% | 111 | 66.7% | 68.9% | -2.2 pp |
 | 80-94% | 34 | 91.2% | 87.0% | +4.2 pp |
 | 95-99% (casi seguro) | 10 | 100.0% | 97.9% | +2.1 pp |
 
