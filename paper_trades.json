@@ -9942,8 +9942,8 @@
     "title": "Will RC Deportivo A Coru\u00f1a win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 56444.08,
-    "whale_pct": 17.165,
+    "whale_usd": 75021.76000000001,
+    "whale_pct": 22.815,
     "whale_value_at_open": 328831.2634,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -9953,7 +9953,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786992860.9947205,
-    "fills": 1
+    "last_fill_at": 1786993012.164375,
+    "fills": 2
   }
 ]
