@@ -9258,8 +9258,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 558.8712,
-    "whale_pct": 0.167,
+    "whale_usd": 2137.5677,
+    "whale_pct": 0.639,
     "whale_value_at_open": 334271.2064,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -9271,7 +9271,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786984282.4152064,
-    "fills": 1
+    "last_fill_at": 1786984503.9128957,
+    "fills": 2
   }
 ]
