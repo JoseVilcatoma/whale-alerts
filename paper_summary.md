@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:13:06 (hora de Perú)
+Actualizado: 2026-08-17 11:14:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $767.56
@@ -162,7 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 74% | 10.00 | 1.3% | ⏳ pendiente | — |
 | GreenBerry1337 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 66% | 10.00 | 95.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 7.1% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 15.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
 | swisstony | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 99% | 10.00 | 0.5% | ✅ ganada | +0.10 |
 | HVAB | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 98% | 10.00 | 2542.2% | ✅ ganada | +0.20 |

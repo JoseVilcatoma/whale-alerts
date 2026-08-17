@@ -10215,8 +10215,8 @@
     "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
     "outcome": "Lois Boisson",
     "side": "BUY",
-    "whale_usd": 7603.653020999999,
-    "whale_pct": 7.111,
+    "whale_usd": 16724.655821,
+    "whale_pct": 15.641,
     "whale_value_at_open": 106926.5273,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -10229,8 +10229,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786982542.4763446,
-    "fills": 2
+    "last_fill_at": 1786983196.4350824,
+    "fills": 3
   },
   {
     "timestamp": 1786981214,
