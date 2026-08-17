@@ -8965,8 +8965,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10142,8 +10142,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10234,8 +10234,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.76,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -10542,8 +10542,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -11117,8 +11117,8 @@
     "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 1606.153844,
-    "whale_pct": 0.454,
+    "whale_usd": 4543.655844,
+    "whale_pct": 1.283,
     "whale_value_at_open": 354158.5182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11128,8 +11128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007986.488373,
-    "fills": 3
+    "last_fill_at": 1787008270.5200336,
+    "fills": 4
   },
   {
     "timestamp": 1787008023,
@@ -11177,6 +11177,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787008172.4661067,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787008367,
+    "timestamp_added": 1787008368.116128,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-int-cre-2026-08-17-int",
+    "title": "Will SC Internacional win on 2026-08-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 930.3498,
+    "whale_pct": 0.288,
+    "whale_value_at_open": 322796.4546,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 83,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787008368.1161354,
     "fills": 1
   }
 ]
