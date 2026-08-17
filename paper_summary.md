@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 06:40:20 (hora de Perú)
+Actualizado: 2026-08-17 06:42:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 06:40:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $581.65)
+**Capital comprometido ahora mismo:** $210.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $561.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,10 +40,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 15 | 12 | 6 | -41.35 USD |
+| HomeRunHazard | 15 | 12 | 7 | -41.35 USD |
 | RN1 | 30 | 18 | 7 | -43.69 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 5 | -64.40 USD |
+| ferrariChampions2026 | 37 | 35 | 6 | -64.40 USD |
 
 ## Análisis general
 
@@ -129,6 +129,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 70% | 10.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Lloyd Harris vs Abdullah Shelbay | Lloyd Harris (BUY) | 61% | 10.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Kiwoom DRX Challengers (BUY) | 71% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -157,5 +159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 68% | 10.00 | 0.9% | ❌ perdida | -10.00 |
 | swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 4.8% | ✅ ganada | +0.75 |
 | swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 76% | 10.00 | 0.3% | ✅ ganada | +3.16 |
-| ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 67% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ✅ ganada | +13.81 |
