@@ -10845,8 +10845,8 @@
     "title": "Palermo FC vs. US Lecce: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 554.139,
-    "whale_pct": 0.175,
+    "whale_usd": 2268.469,
+    "whale_pct": 0.715,
     "whale_value_at_open": 317327.4237,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -10856,7 +10856,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787000583.100009,
-    "fills": 1
+    "last_fill_at": 1787000780.2613862,
+    "fills": 2
   }
 ]
