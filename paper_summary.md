@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 21:10:58 (hora de Perú)
+Actualizado: 2026-08-16 21:13:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $748.87
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 21:10:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $468.87)
+**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $448.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,10 +38,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
 | IMAREALPERSON | 7 | 5 | 2 | -20.19 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
-| HomeRunHazard | 10 | 8 | 11 | -24.33 USD |
+| HomeRunHazard | 10 | 8 | 12 | -24.33 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
-| ferrariChampions2026 | 37 | 33 | 9 | -44.40 USD |
+| ferrariChampions2026 | 37 | 33 | 10 | -44.40 USD |
 | RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -128,6 +128,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 64% | 10.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Sonego vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 81% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 66% | 10.00 | 3.4% | ⏳ pendiente | — |
@@ -156,5 +158,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 43.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 34.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ⏳ pendiente | — |
-| Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ❌ perdida | -10.00 |
