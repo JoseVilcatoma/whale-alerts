@@ -1,5 +1,5 @@
 {
-  "bankroll": 826.7191560071216,
+  "bankroll": 835.9698548822337,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2120,6 +2120,21 @@
       "timestamp": 1787009364.511731,
       "bankroll": 826.72,
       "event": "won: HVAB \u2014 Cincinnati Open: Diana Shnaider vs Maja Chwalinska"
+    },
+    {
+      "timestamp": 1787010850.69329,
+      "bankroll": 830.8,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Rafael Jodar vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1787010850.993802,
+      "bankroll": 833.15,
+      "event": "won: swisstony \u2014 Cincinnati Open: Rafael Jodar vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1787010851.7101853,
+      "bankroll": 835.97,
+      "event": "won: RN1 \u2014 Cincinnati Open: Rafael Jodar vs Alejandro Tabilo"
     }
   ]
 }

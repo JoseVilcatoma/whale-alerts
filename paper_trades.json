@@ -10019,8 +10019,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10117,8 +10117,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
     "odds_ballena": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.35,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -10305,8 +10305,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.82,
     "overlaps_with": [
       "ferrariChampions2026",
       "swisstony"
@@ -10896,8 +10896,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 19387.563588,
-    "whale_pct": 5.543,
+    "whale_usd": 20744.230254000002,
+    "whale_pct": 5.93,
     "whale_value_at_open": 349793.9223,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10909,8 +10909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010526.5151434,
-    "fills": 7
+    "last_fill_at": 1787010795.4866753,
+    "fills": 9
   },
   {
     "timestamp": 1787007594,
