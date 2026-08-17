@@ -8453,5 +8453,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786953666.9620132,
     "fills": 1
+  },
+  {
+    "timestamp": 1786953872,
+    "timestamp_added": 1786953873.6001456,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mar-cosano-2026-08-17",
+    "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
+    "outcome": "Andrej Martin",
+    "side": "BUY",
+    "whale_usd": 1444.2956,
+    "whale_pct": 4.71,
+    "whale_value_at_open": 30662.1259,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786953873.6001558,
+    "fills": 1
   }
 ]
