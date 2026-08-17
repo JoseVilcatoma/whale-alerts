@@ -1,5 +1,5 @@
 {
-  "bankroll": 794.5614797630109,
+  "bankroll": 816.3185257723602,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2060,6 +2060,26 @@
       "timestamp": 1787007823.5081382,
       "bankroll": 794.56,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Elias Ymer vs Paul Jubb"
+    },
+    {
+      "timestamp": 1787008071.63506,
+      "bankroll": 804.56,
+      "event": "won: alaskabaked \u2014 Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya"
+    },
+    {
+      "timestamp": 1787008072.5541852,
+      "bankroll": 814.17,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya"
+    },
+    {
+      "timestamp": 1787008073.0355418,
+      "bankroll": 816.22,
+      "event": "won: swisstony \u2014 Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya"
+    },
+    {
+      "timestamp": 1787008074.8153644,
+      "bankroll": 816.32,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Alvaro Guillen Meza vs Igor Ribeiro Marcondes"
     }
   ]
 }
