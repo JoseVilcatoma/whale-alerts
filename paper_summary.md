@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 06:01:28 (hora de Perú)
+Actualizado: 2026-08-17 06:03:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -131,13 +131,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 61% | 10.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 73% | 10.00 | 5.4% | ⏳ pendiente | — |
-| RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 97% | 10.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 97% | 10.00 | 12.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Maria Michaela Fi | Cristina Pescucci (BUY) | 72% | 10.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 42% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 41% | 10.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
