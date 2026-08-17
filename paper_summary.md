@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:53:31 (hora de Perú)
+Actualizado: 2026-08-16 22:55:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $739.62
-**Retorno acumulado:** -26.04%
+**Bankroll actual:** $733.32
+**Retorno acumulado:** -26.67%
 **Peor caída desde un máximo (drawdown):** 37.04%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 22:53:31 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $369.62)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $383.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -20,7 +20,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 7 | 1 | +44.73 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 7 | 5 | 2 | -20.19 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
+| g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | ferrariChampions2026 | 40 | 34 | 13 | -37.65 USD |
 | RN1 | 27 | 18 | 0 | -50.57 USD |
 | HomeRunHazard | 15 | 13 | 6 | -51.35 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 327
-- **Aciertos:** 170 (52.0%)
-- **Cuota promedio de entrada:** 55.1%
+- **Apuestas resueltas:** 329
+- **Aciertos:** 171 (52.0%)
+- **Cuota promedio de entrada:** 55.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,270.00
-- **ROI sobre lo apostado:** -9.50%
+- **Total apostado (suma de stakes):** $3,290.00
+- **ROI sobre lo apostado:** -9.63%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 171 | 46.2% | 49.6% | -3.4 pp |
-| 60-79% | 84 | 65.5% | 68.4% | -2.9 pp |
+| 60-79% | 86 | 65.1% | 68.5% | -3.3 pp |
 | 80-94% | 20 | 100.0% | 85.6% | +14.4 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
