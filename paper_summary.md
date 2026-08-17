@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 07:48:28 (hora de Perú)
+Actualizado: 2026-08-17 07:50:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $769.45
@@ -134,7 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 40.6% | ⏳ pendiente | — |
+| MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -143,7 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 369.7% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 511.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 53% | 10.00 | 198.9% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Valeriya Strakhova | Petra Sedlackova (BUY) | 65% | 10.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 42.8% | ⏳ pendiente | — |
