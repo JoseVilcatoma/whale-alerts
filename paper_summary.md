@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:22:52 (hora de Perú)
+Actualizado: 2026-08-16 23:24:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $746.03
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 23:22:52 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $416.03)
+**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $386.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| swisstony | 1 | 0 | 9 | +0.10 USD |
+| swisstony | 1 | 0 | 10 | +0.10 USD |
 | WTSA | 0 | 0 | 2 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -42,8 +42,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| ferrariChampions2026 | 42 | 36 | 13 | -38.77 USD |
-| RN1 | 27 | 18 | 2 | -50.57 USD |
+| ferrariChampions2026 | 42 | 36 | 14 | -38.77 USD |
+| RN1 | 27 | 18 | 3 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 16 | 15 | 3 | -64.68 USD |
 
@@ -132,11 +132,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-sea-vwh-2026-08-16-total-1pt5 | MaoZeDonK, ferrariChampions2026 |
 | mex-tij-caz-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
 | mls-sea-vwh-2026-08-16-sea | ferrariChampions2026, swisstony |
+| mex-tij-caz-2026-08-16-draw | RN1, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 63% | 10.00 | 1.4% | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana win on 2026-08-16? | No (BUY) | 72% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Manish Sureshkumar v | Manish Sureshkumar (BUY) | 62% | 10.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -164,6 +168,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 9.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 60% | 10.00 | 10.3% | ✅ ganada | +6.67 |
-| HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 41% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 42% | 10.00 | 1.4% | ❌ perdida | -10.00 |
