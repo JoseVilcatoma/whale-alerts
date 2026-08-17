@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:21:23 (hora de Perú)
+Actualizado: 2026-08-17 18:23:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $823.88
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:21:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $620.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $203.88)
+**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $193.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 40 | 21 | 20 | -31.69 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 53 | 45 | 20 | -105.01 USD |
+| ferrariChampions2026 | 53 | 45 | 21 | -105.01 USD |
 
 ## Análisis general
 
@@ -151,6 +151,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 72% | 10.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Clara Tauson (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Guarani FC SP vs. Ypiranga FC RS: 1st Ha | Under (BUY) | 92% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -180,4 +181,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 99% | 10.00 | 188.7% | ✅ ganada | +0.10 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 5.4% | ⏳ pendiente | — |
