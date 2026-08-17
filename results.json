@@ -5594,5 +5594,20 @@
     "status": "pending",
     "ultimo_fill": 1787004192,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 766,
+    "timestamp": 1787004890,
+    "username": "Kulilun",
+    "wallet": "0xe76f0a36d05d215a69f1f84466c8922702a1d40c",
+    "slug": "wta-noskova-tauson-2026-08-17",
+    "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
+    "outcome": "Linda Noskova",
+    "side": "BUY",
+    "usd": 106960.189,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1787004937,
+    "fills": 2
   }
 ]
