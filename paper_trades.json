@@ -7983,5 +7983,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786930088.894448,
     "fills": 1
+  },
+  {
+    "timestamp": 1786930394,
+    "timestamp_added": 1786930395.2675357,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-c9-eg2-2026-08-16-game2",
+    "title": "Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner",
+    "outcome": "Evil Geniuses",
+    "side": "BUY",
+    "whale_usd": 1709.0212060000001,
+    "whale_pct": 3.448,
+    "whale_value_at_open": 49560.025,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786930395.2675462,
+    "fills": 1
   }
 ]
