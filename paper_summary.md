@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:11:04 (hora de Perú)
+Actualizado: 2026-08-17 18:13:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $816.32
-**Retorno acumulado:** -18.37%
+**Bankroll actual:** $820.37
+**Retorno acumulado:** -17.96%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:11:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $156.32)
+**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $190.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 13 | 2 | 7 | +40.93 USD |
+| swisstony | 14 | 2 | 6 | +41.35 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
+| HVAB | 1 | 0 | 1 | +0.10 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
-| HVAB | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -45,19 +45,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 21 | -33.45 USD |
+| RN1 | 40 | 21 | 20 | -31.69 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 51 | 45 | 21 | -110.28 USD |
+| ferrariChampions2026 | 52 | 45 | 21 | -108.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 395
-- **Aciertos:** 221 (55.9%)
-- **Cuota promedio de entrada:** 57.8%
+- **Apuestas resueltas:** 399
+- **Aciertos:** 225 (56.4%)
+- **Cuota promedio de entrada:** 58.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,950.00
-- **ROI sobre lo apostado:** -5.92%
+- **Total apostado (suma de stakes):** $3,990.00
+- **ROI sobre lo apostado:** -5.76%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,8 +69,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 188 | 48.4% | 49.5% | -1.1 pp |
 | 60-79% | 116 | 67.2% | 69.2% | -2.0 pp |
-| 80-94% | 35 | 91.4% | 86.5% | +4.9 pp |
-| 95-99% (casi seguro) | 11 | 100.0% | 98.0% | +2.0 pp |
+| 80-94% | 37 | 91.9% | 86.5% | +5.4 pp |
+| 95-99% (casi seguro) | 13 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -145,14 +145,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wta-noskova-tauson-2026-08-17 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-total-4pt5 | RN1, ferrariChampions2026 |
+| bra-int-cre-2026-08-17-int | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Clara Tauson (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Guarani FC SP vs. Ypiranga FC RS: 1st Ha | Under (BUY) | 92% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Emma Navarro vs Jessica | Jessica Pegula (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Emma Navarro vs Jessica | Jessica Pegula (BUY) | 89% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Clara  | Clara Tauson (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -176,7 +178,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
-| HVAB | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 99% | 10.00 | 188.7% | ⏳ pendiente | — |
+| HVAB | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 99% | 10.00 | 188.7% | ✅ ganada | +0.10 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 47% | 10.00 | 7.3% | ⏳ pendiente | — |
