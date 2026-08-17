@@ -8668,5 +8668,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786957963.6985266,
     "fills": 1
+  },
+  {
+    "timestamp": 1786957982,
+    "timestamp_added": 1786957982.5396502,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ferrei-alawadh-2026-08-17",
+    "title": "ITF M25 Idanha-a-Nova 2 Men: Dino Molokova Ferreira vs Mohammad Alawadhi",
+    "outcome": "Dino Molokova Ferreira",
+    "side": "BUY",
+    "whale_usd": 1394.6,
+    "whale_pct": 3.303,
+    "whale_value_at_open": 42221.6407,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786957982.539658,
+    "fills": 1
   }
 ]
