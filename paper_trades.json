@@ -10488,8 +10488,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 5870.638369,
-    "whale_pct": 1.572,
+    "whale_usd": 6720.5082090000005,
+    "whale_pct": 1.8,
     "whale_value_at_open": 373418.7134,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -10501,8 +10501,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006015.3360665,
-    "fills": 3
+    "last_fill_at": 1787006184.016892,
+    "fills": 4
   },
   {
     "timestamp": 1787006073,
@@ -10525,6 +10525,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787006074.4342844,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787006238,
+    "timestamp_added": 1787006238.9666717,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-fery-minaur-2026-08-17",
+    "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "whale_usd": 24840.9688,
+    "whale_pct": 188.748,
+    "whale_value_at_open": 13160.9507,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006242.6045477,
     "fills": 2
   }
 ]
