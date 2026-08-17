@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:40:07 (hora de Perú)
+Actualizado: 2026-08-17 10:42:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $787.05
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:40:07 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $207.05)
+**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $197.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 41 | 22 | 3 | -35.92 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 18 | 13 | 16 | -48.93 USD |
+| HomeRunHazard | 18 | 13 | 17 | -48.93 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-dnf-2026-08-17-game4 | MaoZeDonK, ferrariChampions2026 |
 | atp-langmo-boitan-2026-08-17 | HomeRunHazard, RN1 |
 | atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
-| atp-tirante-landalu-2026-08-17 | , ferrariChampions2026 |
+| atp-tirante-landalu-2026-08-17 | , HomeRunHazard, ferrariChampions2026 |
 | atp-filip-hardt-2026-08-17 | HomeRunHazard, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
@@ -148,6 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
 | swisstony | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 99% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -177,4 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Under (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 1.5 | Over (BUY) | 84% | 10.00 | 0.6% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 53% | 10.00 | 394.3% | ⏳ pendiente | — |
