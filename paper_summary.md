@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:32:54 (hora de Perú)
+Actualizado: 2026-08-17 05:34:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -128,7 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
