@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:29:15 (hora de Perú)
+Actualizado: 2026-08-17 09:31:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $758.30
-**Retorno acumulado:** -24.17%
+**Bankroll actual:** $759.85
+**Retorno acumulado:** -24.02%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:29:15 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $318.30)
+**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $339.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,10 +30,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 1 | +8.38 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
+| HVAB | 1 | 0 | 0 | +0.68 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 2 | +0.00 USD |
-| HVAB | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 2 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -45,18 +45,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 16 | 12 | 15 | -40.71 USD |
-| RN1 | 35 | 20 | 11 | -51.76 USD |
+| RN1 | 36 | 20 | 10 | -50.89 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 38 | 36 | 6 | -70.32 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 347
-- **Aciertos:** 185 (53.3%)
-- **Cuota promedio de entrada:** 56.1%
+- **Apuestas resueltas:** 348
+- **Aciertos:** 186 (53.4%)
+- **Cuota promedio de entrada:** 56.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,470.00
-- **ROI sobre lo apostado:** -8.41%
+- **Total apostado (suma de stakes):** $3,480.00
+- **ROI sobre lo apostado:** -8.37%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 175 | 46.9% | 49.5% | -2.7 pp |
 | 60-79% | 94 | 66.0% | 68.8% | -2.8 pp |
-| 80-94% | 25 | 96.0% | 86.4% | +9.6 pp |
+| 80-94% | 26 | 96.2% | 86.7% | +9.5 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -139,7 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | ⏳ pendiente | — |
+| HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | 💰 vendida anticipada | +0.68 |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 10.00 | 61.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ✅ ganada | +0.87 |
 | swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ⏳ pendiente | — |
