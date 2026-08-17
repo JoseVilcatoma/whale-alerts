@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:24:28 (hora de Perú)
+Actualizado: 2026-08-17 05:26:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $762.25
-**Retorno acumulado:** -23.77%
+**Bankroll actual:** $771.65
+**Retorno acumulado:** -22.84%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:24:28 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $432.25)
+**Capital comprometido ahora mismo:** $50.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $721.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,8 +30,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-|  | 0 | 0 | 1 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -42,19 +40,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -25.01 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 15 | 12 | 8 | -41.35 USD |
-| RN1 | 32 | 19 | 12 | -51.51 USD |
+| HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
+| RN1 | 30 | 18 | 0 | -43.69 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 8 | -64.40 USD |
+| ferrariChampions2026 | 37 | 35 | 0 | -64.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 340
-- **Aciertos:** 180 (52.9%)
-- **Cuota promedio de entrada:** 55.8%
+- **Apuestas resueltas:** 337
+- **Aciertos:** 178 (52.8%)
+- **Cuota promedio de entrada:** 55.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,400.00
-- **ROI sobre lo apostado:** -8.43%
+- **Total apostado (suma de stakes):** $3,370.00
+- **ROI sobre lo apostado:** -8.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,8 +64,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 174 | 47.1% | 49.5% | -2.4 pp |
 | 60-79% | 89 | 65.2% | 68.6% | -3.5 pp |
-| 80-94% | 24 | 95.8% | 85.8% | +10.0 pp |
-| 95-99% (casi seguro) | 8 | 100.0% | 97.8% | +2.2 pp |
+| 80-94% | 22 | 100.0% | 85.9% | +14.1 pp |
+| 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -137,33 +135,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 56% | 10.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 58% | 10.00 | 4.7% | ⏳ pendiente | — |
-| 111111111115 | Map Handicap: BW (-1.5) vs Inner Circle  | Bushido Wildcats (BUY) | 41% | 10.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF M15 Båstad Men: Oscar Moraing vs Eli | Oscar Moraing (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 95% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W50 Prague Women: Beatrise Zeltina v | Barbora Palicova (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 46% | 10.00 | 4.9% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 71% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Luciano Emanuel Ambrogi (BUY) | 42% | 10.00 | 4.8% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Naoko Eto vs Scar | Scarlet Kavanagh (BUY) | 97% | 10.00 | 4.2% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 86% | 10.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Alba Rey Garcia vs | Barbora Michalkova (BUY) | 59% | 10.00 | 5.2% | ⏳ pendiente | — |
-| RN1 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 83% | 10.00 | 6.4% | ⏳ pendiente | — |
-| 111111111115 | LoL: T1 vs DN SOOPers - Game 1 Winner | T1 (BUY) | 57% | 10.00 | 71.3% | 💰 vendida anticipada | -1.58 |
-| 111111111115 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 45% | 10.00 | 6.8% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Dino Moloko | Dino Molokova Ferreira (BUY) | 78% | 10.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Micol Salvadori v | Alexandra Biot (BUY) | 96% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Prague: Jakub Paul vs Rudolf Molleker | Rudolf Molleker (BUY) | 96% | 10.00 | 2.5% | ✅ ganada | +0.42 |
-| ferrariChampions2026 | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 70% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 78% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Emma Mazzoni (BUY) | 85% | 10.00 | 2.0% | ✅ ganada | +1.76 |
-| RN1 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 79% | 10.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | Sion: Luca Wiedenmann vs Thiago Cigarran | Luca Wiedenmann (BUY) | 87% | 10.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Luca Wiedenmann vs Thiago Cigarran | Luca Wiedenmann (BUY) | 90% | 10.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 45% | 10.00 | 4.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 76% | 10.00 | 31.8% | ⏳ pendiente | — |
-| HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 42% | 10.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 41% | 10.00 | 1.1% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague: Jakub Paul vs Rudolf Molleker | Jakub Paul (BUY) | 45% | 10.00 | 0.8% | ❌ perdida | -10.00 |
+| RN1 | ITF M25 Taipei Men: Nitin Kumar Sinha vs | Nitin Kumar Sinha (BUY) | 83% | 10.00 | 1.0% | ✅ ganada | +2.05 |
+| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Under (BUY) | 49% | 10.00 | 0.7% | ✅ ganada | +10.41 |
+| swisstony | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 3.5% | ✅ ganada | +4.08 |
+| RN1 | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 1.2% | ✅ ganada | +4.08 |
+| RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 6.8% | ✅ ganada | +0.75 |
+| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 68% | 10.00 | 0.9% | ❌ perdida | -10.00 |
+| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 4.8% | ✅ ganada | +0.75 |
+| swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 76% | 10.00 | 0.3% | ✅ ganada | +3.16 |
+| ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 67% | 10.00 | 0.4% | ❌ perdida | -10.00 |
+| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ✅ ganada | +13.81 |
+| IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 9.8% | ✅ ganada | +13.26 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ✅ ganada | +2.66 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 47% | 10.00 | 0.5% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Ben Shelton vs Jaime Fa | Ben Shelton (BUY) | 61% | 10.00 | 4.9% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Coco Gauff (BUY) | 74% | 10.00 | 3.6% | ✅ ganada | +3.51 |
+| HomeRunHazard | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 48% | 10.00 | 1.1% | ❌ perdida | -10.00 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 63% | 10.00 | 7.6% | ✅ ganada | +5.87 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 41% | 10.00 | 2.1% | ❌ perdida | -10.00 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 55% | 10.00 | 0.7% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Liudmila Samsonova (BUY) | 57% | 10.00 | 0.3% | ❌ perdida | -10.00 |
+| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Houston Astros (BUY) | 58% | 10.00 | 0.7% | ✅ ganada | +7.24 |
+| HomeRunHazard | Spread: Seattle Mariners (-2.5) | Houston Astros (BUY) | 73% | 10.00 | 1.8% | ✅ ganada | +3.70 |
+| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 43.3% | ✅ ganada | +7.86 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 34.2% | ✅ ganada | +3.70 |
