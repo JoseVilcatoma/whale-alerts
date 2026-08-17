@@ -8394,8 +8394,8 @@
     "title": "ITF W35 Verbier Women: Emma Mazzoni vs Danique Havermans",
     "outcome": "Danique Havermans",
     "side": "BUY",
-    "whale_usd": 1469.9299999999998,
-    "whale_pct": 5.427,
+    "whale_usd": 2621.08,
+    "whale_pct": 9.678,
     "whale_value_at_open": 27083.7718,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -8405,8 +8405,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786952124.481298,
-    "fills": 1
+    "last_fill_at": 1786953778.7946508,
+    "fills": 2
   },
   {
     "timestamp": 1786952998,
