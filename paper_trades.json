@@ -10264,8 +10264,8 @@
     "title": "Spread: Wrexham AFC (-1.5)",
     "outcome": "Cardiff City FC",
     "side": "BUY",
-    "whale_usd": 539.4712000000001,
-    "whale_pct": 0.18,
+    "whale_usd": 1053.2728000000002,
+    "whale_pct": 0.351,
     "whale_value_at_open": 300320.5796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -10275,8 +10275,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786994681.2760842,
-    "fills": 1
+    "last_fill_at": 1786997351.8973367,
+    "fills": 2
   },
   {
     "timestamp": 1786994705,
@@ -10427,8 +10427,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 20479.580438,
-    "whale_pct": 6.65,
+    "whale_usd": 21034.280438,
+    "whale_pct": 6.83,
     "whale_value_at_open": 307968.125,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
@@ -10440,8 +10440,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786996630.3237555,
-    "fills": 5
+    "last_fill_at": 1786997362.464824,
+    "fills": 6
   },
   {
     "timestamp": 1786995223,
@@ -10625,6 +10625,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786996750.6043622,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786997357,
+    "timestamp_added": 1786997358.275397,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mart-midon-2026-08-17",
+    "title": "Kingston: Dan Martin vs Lautaro Midon",
+    "outcome": "Lautaro Midon",
+    "side": "BUY",
+    "whale_usd": 2884.194444,
+    "whale_pct": 0.941,
+    "whale_value_at_open": 306446.5243,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786997358.2754083,
     "fills": 1
   }
 ]

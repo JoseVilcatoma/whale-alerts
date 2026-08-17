@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 15:08:37 (hora de Perú)
+Actualizado: 2026-08-17 15:10:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $805.69
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 15:08:37 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $245.69)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $235.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 42 | 36 | -95.10 USD |
+| ferrariChampions2026 | 48 | 42 | 37 | -95.10 USD |
 
 ## Análisis general
 
@@ -142,6 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kingston: Dan Martin vs Lautaro Midon | Lautaro Midon (BUY) | 93% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 4.5 | Under (BUY) | 94% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 121.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Samsunspor win on 2026-08-17? | No (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -150,14 +151,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 1.5 | Over (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cardiff City FC win on 2026-08-17? | No (BUY) | 88% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Dimitris Sakellaridis (BUY) | 53% | 10.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 70% | 10.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 70% | 10.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo A Coruña vs. Elche CF  | No (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | RC Deportivo A Coruña vs. Elche CF: O/U  | Over (BUY) | 81% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | No (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Elche CF (-1.5) | RC Deportivo A Coruña (BUY) | 99% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | James Watt (BUY) | 76% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Garrett Johns vs Timo Legout | Timo Legout (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -171,4 +172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Cardiff City FC (-1.5) | Wrexham AFC (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 70% | 10.00 | 11.8% | ⏳ pendiente | — |
 | alaskabaked | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 59% | 10.00 | 46.8% | ⏳ pendiente | — |
-| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 22.8% | ⏳ pendiente | — |
