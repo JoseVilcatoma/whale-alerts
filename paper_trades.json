@@ -8070,8 +8070,8 @@
     "title": "Will Vancouver Whitecaps FC win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3969.441211,
-    "whale_pct": 1.486,
+    "whale_usd": 4952.434211,
+    "whale_pct": 1.854,
     "whale_value_at_open": 267107.9666,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -8081,8 +8081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786935309.3612783,
-    "fills": 4
+    "last_fill_at": 1786936438.3012078,
+    "fills": 5
   },
   {
     "timestamp": 1786931325,
@@ -8423,8 +8423,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 16617.2261,
-    "whale_pct": 9.473,
+    "whale_usd": 18059.97202,
+    "whale_pct": 10.296,
     "whale_value_at_open": 175416.139,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -8436,8 +8436,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786935279.046901,
-    "fills": 7
+    "last_fill_at": 1786936447.1666903,
+    "fills": 9
   },
   {
     "timestamp": 1786933650,
@@ -8581,6 +8581,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786936388.055757,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786936445,
+    "timestamp_added": 1786936446.3746772,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 1319.0012,
+    "whale_pct": 1.615,
+    "whale_value_at_open": 81648.3381,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786936446.3746858,
     "fills": 1
   }
 ]
