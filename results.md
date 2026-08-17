@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 20:56:29 (hora de Perú)
+Actualizado: 2026-08-16 20:58:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **346**  ($17,876,601 en total)
+- Apuestas registradas: **347**  ($17,906,601 en total)
 - Resueltas: **338** — 202 ganadas / 136 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 108
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 18 | 0 | 63% | $2,833,907 | +$93,649 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 18 | 1 | 63% | $2,863,907 | +$93,649 |
 | sainttroplay | 10 | 4 | 0 | 71% | $2,092,133 | +$1,815,515 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 12 | 1 | 62% | $1,439,581 | +$180,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | — | ⏳ Pendiente |
 | tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | bigspending | Will West Ham United FC win on 2026-08-16? | No | 1.79 (56¢) | $30,830 | +$24,223 | ✅ Ganada |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $38,400 | +$21,600 | ✅ Ganada |
 | matanovik | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $37,050 | -$37,050 | ❌ Perdida |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $65,000 | -$65,000 | ❌ Perdida |
