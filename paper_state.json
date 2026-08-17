@@ -1,5 +1,5 @@
 {
-  "bankroll": 753.2527774861047,
+  "bankroll": 763.6609407514109,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2120,6 +2120,11 @@
       "timestamp": 1787002409.5828347,
       "bankroll": 753.25,
       "event": "lost: ferrariChampions2026 \u2014 Sion: Dimitris Sakellaridis vs Oleksandr Ovcharenko"
+    },
+    {
+      "timestamp": 1787002528.6176443,
+      "bankroll": 763.66,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Harold Mayot vs Gustavo Heide"
     }
   ]
 }
