@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 15:01:49 (hora de Perú)
+Actualizado: 2026-08-17 15:03:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **367**  ($18,828,254 en total)
+- Apuestas registradas: **368**  ($18,864,026 en total)
 - Resueltas: **350** — 208 ganadas / 142 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 113
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 3edmond.dantes | 3 | 0 | 3 | ⚠️ 100% (3) | $445,270 | +$199,684 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
-| pleaseplease123 | 5 | 2 | 1 | ⚠️ 71% (7) | $344,704 | +$64,948 |
+| pleaseplease123 | 5 | 2 | 2 | ⚠️ 71% (7) | $380,477 | +$64,948 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 4 | 1 | 1 | ⚠️ 80% (5) | $297,029 | +$167,747 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | — | ⏳ Pendiente |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
 | ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | +$88,500 | ✅ Ganada |
