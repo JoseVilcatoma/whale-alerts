@@ -1,5 +1,5 @@
 {
-  "bankroll": 771.6495999107618,
+  "bankroll": 772.5971761336177,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1790,6 +1790,16 @@
       "timestamp": 1786962284.2571867,
       "bankroll": 771.65,
       "event": "lost: ferrariChampions2026 \u2014 Prague: Jakub Paul vs Rudolf Molleker"
+    },
+    {
+      "timestamp": 1786967455.9760213,
+      "bankroll": 772.29,
+      "event": "won: HomeRunHazard \u2014 Prague: Radu Mihai Papoe vs Matyas Cerny"
+    },
+    {
+      "timestamp": 1786967456.7242112,
+      "bankroll": 772.6,
+      "event": "won: RN1 \u2014 Prague: Radu Mihai Papoe vs Matyas Cerny"
     }
   ]
 }

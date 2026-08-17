@@ -8377,8 +8377,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 94,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.64,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8515,8 +8515,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 97,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.31,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -8741,8 +8741,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Artem Alekseychuk",
     "side": "BUY",
-    "whale_usd": 13293.98826,
-    "whale_pct": 19.332,
+    "whale_usd": 15388.86106,
+    "whale_pct": 22.378,
     "whale_value_at_open": 68768.4715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -8752,8 +8752,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786967422.0931575,
-    "fills": 11
+    "last_fill_at": 1786967457.6124358,
+    "fills": 13
   },
   {
     "timestamp": 1786967315,
@@ -8776,6 +8776,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786967315.8880086,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786967456,
+    "timestamp_added": 1786967457.1729984,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-pit-2026-08-17",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 28888.600000000002,
+    "whale_pct": 198.87,
+    "whale_value_at_open": 14526.3714,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786967457.173005,
     "fills": 1
   }
 ]
