@@ -1,5 +1,5 @@
 {
-  "bankroll": 764.7342589675862,
+  "bankroll": 754.7342589675862,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2105,6 +2105,11 @@
       "timestamp": 1787001787.3937514,
       "bankroll": 764.73,
       "event": "lost: ferrariChampions2026 \u2014 Will RC Deportivo A Coru\u00f1a win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787002096.5319726,
+      "bankroll": 754.73,
+      "event": "lost: ferrariChampions2026 \u2014 Will Real Sporting de Gij\u00f3n vs. CE Sabadell FC end in a draw?"
     }
   ]
 }
