@@ -7914,5 +7914,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786929115.0050142,
     "fills": 2
+  },
+  {
+    "timestamp": 1786929455,
+    "timestamp_added": 1786929455.6782742,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sea-hou-2026-08-16-total-8pt5",
+    "title": "Seattle Mariners vs. Houston Astros: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 936.1425919999999,
+    "whale_pct": 0.451,
+    "whale_value_at_open": 207557.7158,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786929455.6782804,
+    "fills": 1
   }
 ]
