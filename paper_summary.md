@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:44:12 (hora de Perú)
+Actualizado: 2026-08-17 10:46:20 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $787.05
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:44:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $187.05)
+**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $177.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 41 | 22 | 3 | -35.92 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 18 | 13 | 17 | -48.93 USD |
+| HomeRunHazard | 18 | 13 | 18 | -48.93 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
@@ -128,7 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
-| atp-blockx-cobolli-2026-08-17 | ferrariChampions2026, swisstony |
+| atp-blockx-cobolli-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | mlb-atl-min-2026-08-17-spread-away-1pt5 | HomeRunHazard, SDTrading |
 | atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
@@ -149,7 +149,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GreenBerry1337 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 66% | 10.00 | 44.7% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 74% | 10.00 | 1.3% | ⏳ pendiente | — |
+| GreenBerry1337 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 66% | 10.00 | 60.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -178,4 +179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
-| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Under (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
