@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 58013.19052900001,
-    "whale_pct": 334.389,
+    "whale_usd": 64142.37392900001,
+    "whale_pct": 369.718,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786970741.7100563,
-    "fills": 33
+    "last_fill_at": 1786970901.8298016,
+    "fills": 36
   },
   {
     "timestamp": 1786968304,
@@ -9018,5 +9018,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786970583.3607042,
     "fills": 1
+  },
+  {
+    "timestamp": 1786970886,
+    "timestamp_added": 1786970886.7417676,
+    "username": "MaoZeDonK",
+    "wallet": "0x19ae9efef67c685a8581d631d99267b1ff10395c",
+    "slug": "lol-t1-dnf-2026-08-17-game4",
+    "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 2122.245,
+    "whale_pct": 40.568,
+    "whale_value_at_open": 5231.356,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786970897.626788,
+    "fills": 2
   }
 ]
