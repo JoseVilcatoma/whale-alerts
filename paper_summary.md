@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:21:40 (hora de Perú)
+Actualizado: 2026-08-17 13:23:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.57
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Kingston: Miguel Tobon vs Paulo Andre Sa | Paulo Andre Saraiva Dos Santos (BUY) | 62% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Under (BUY) | 76% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |

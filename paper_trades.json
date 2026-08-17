@@ -9729,8 +9729,8 @@
     "title": "Will Real Sporting de Gij\u00f3n vs. CE Sabadell FC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 558.9,
-    "whale_pct": 0.219,
+    "whale_usd": 1090.0488,
+    "whale_pct": 0.427,
     "whale_value_at_open": 255562.6513,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -9740,8 +9740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786990801.2494435,
-    "fills": 1
+    "last_fill_at": 1786991013.0454056,
+    "fills": 2
   },
   {
     "timestamp": 1786990805,
