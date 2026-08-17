@@ -9206,5 +9206,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786973382.3443134,
     "fills": 1
+  },
+  {
+    "timestamp": 1786973657,
+    "timestamp_added": 1786973658.5511682,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 7547.6556,
+    "whale_pct": 14.087,
+    "whale_value_at_open": 53580.6372,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786973658.5511756,
+    "fills": 1
   }
 ]
