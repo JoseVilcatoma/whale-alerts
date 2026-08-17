@@ -8570,5 +8570,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786955468.9681733,
     "fills": 1
+  },
+  {
+    "timestamp": 1786956059,
+    "timestamp_added": 1786956059.894156,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gerardc-papamal-2026-08-17",
+    "title": "Sion: Gerard Campana Lee vs Theo Papamalamis",
+    "outcome": "Gerard Campana Lee",
+    "side": "BUY",
+    "whale_usd": 1263.6596,
+    "whale_pct": 0.906,
+    "whale_value_at_open": 139484.0245,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786956059.894165,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 03:40:07 (hora de Perú)
+Actualizado: 2026-08-17 03:42:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $781.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 03:40:07 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $631.65)
+**Capital comprometido ahora mismo:** $160.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $621.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
 | RN1 | 30 | 18 | 6 | -43.69 USD |
-| ferrariChampions2026 | 37 | 34 | 2 | -54.40 USD |
+| ferrariChampions2026 | 37 | 34 | 3 | -54.40 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
 ## Análisis general
@@ -126,11 +126,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
 | atp-wiedenm-cigarra-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-gerardc-papamal-2026-08-17 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 78% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Emma Mazzoni (BUY) | 85% | 10.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 79% | 10.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | Sion: Luca Wiedenmann vs Thiago Cigarran | Luca Wiedenmann (BUY) | 87% | 10.00 | 9.4% | ⏳ pendiente | — |
@@ -160,4 +162,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ✅ ganada | +2.66 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 47% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | HomeRunHazard | Cincinnati Open: Ben Shelton vs Jaime Fa | Ben Shelton (BUY) | 61% | 10.00 | 4.9% | ❌ perdida | -10.00 |
-| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Coco Gauff (BUY) | 74% | 10.00 | 3.6% | ✅ ganada | +3.51 |
