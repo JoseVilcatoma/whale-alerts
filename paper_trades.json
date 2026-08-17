@@ -8519,8 +8519,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 20843.517282,
-    "whale_pct": 10.858,
+    "whale_usd": 21400.042882,
+    "whale_pct": 11.148,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8532,8 +8532,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937609.631268,
-    "fills": 13
+    "last_fill_at": 1786937803.2982361,
+    "fills": 14
   },
   {
     "timestamp": 1786934930,
@@ -8819,6 +8819,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786937581.213437,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786937821,
+    "timestamp_added": 1786937821.3627229,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mls-sea-vwh-2026-08-16-total-2pt5",
+    "title": "Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 872.0400000000001,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 323784.3134,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 80,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786937821.3627312,
     "fills": 1
   }
 ]
