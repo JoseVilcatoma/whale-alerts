@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:09:25 (hora de Perú)
+Actualizado: 2026-08-16 22:11:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $728.60
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 7.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 8.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 60% | 10.00 | 9.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 42% | 10.00 | 1.4% | ⏳ pendiente | — |
