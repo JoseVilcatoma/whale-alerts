@@ -1,5 +1,5 @@
 {
-  "bankroll": 773.4805858262547,
+  "bankroll": 781.6495999107618,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1775,6 +1775,16 @@
       "timestamp": 1786951246.7622597,
       "bankroll": 773.48,
       "event": "won: swisstony \u2014 Club Tijuana vs. CF Cruz Azul: O/U 3.5"
+    },
+    {
+      "timestamp": 1786953598.4078045,
+      "bankroll": 777.57,
+      "event": "won: RN1 \u2014 Will Club Tijuana win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786953598.5079339,
+      "bankroll": 781.65,
+      "event": "won: swisstony \u2014 Will Club Tijuana win on 2026-08-16?"
     }
   ]
 }
