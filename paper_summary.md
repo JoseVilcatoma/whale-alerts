@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:52:37 (hora de Perú)
+Actualizado: 2026-08-16 23:54:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $776.36
@@ -129,10 +129,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Under (BUY) | 49% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 6.8% | ⏳ pendiente | — |
-| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 68% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 68% | 10.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 4.8% | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 76% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
