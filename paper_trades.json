@@ -8400,8 +8400,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8563,8 +8563,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8691,5 +8691,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786957982.539658,
     "fills": 1
+  },
+  {
+    "timestamp": 1786958336,
+    "timestamp_added": 1786958337.1505086,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-t1-dnf-2026-08-17",
+    "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 4511.5796,
+    "whale_pct": 6.799,
+    "whale_value_at_open": 66354.1656,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786958342.3710012,
+    "fills": 2
   }
 ]
