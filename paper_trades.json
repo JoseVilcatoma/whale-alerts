@@ -8796,8 +8796,8 @@
     "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 557.655,
-    "whale_pct": 0.935,
+    "whale_usd": 1273.2394,
+    "whale_pct": 2.135,
     "whale_value_at_open": 59624.7055,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -8809,8 +8809,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786959394.2407284,
-    "fills": 1
+    "last_fill_at": 1786961149.4343226,
+    "fills": 2
   },
   {
     "timestamp": 1786959896,
@@ -8973,6 +8973,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786960805.0717578,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786961149,
+    "timestamp_added": 1786961149.6714964,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mar-cosano-2026-08-17",
+    "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
+    "outcome": "Javier Barranco Cosano",
+    "side": "BUY",
+    "whale_usd": 568.9527420000001,
+    "whale_pct": 0.347,
+    "whale_value_at_open": 164189.1162,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 95,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786961149.6715045,
     "fills": 1
   }
 ]
