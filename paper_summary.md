@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 21:08:52 (hora de Perú)
+Actualizado: 2026-08-16 21:10:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $748.87
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Austin FC vs. FC Dallas: O/U 2.5 | Over (BUY) | 48% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 73% | 10.00 | 0.8% | ⏳ pendiente | — |
 | WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Dallas (-1.5) | Austin FC (BUY) | 67% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
