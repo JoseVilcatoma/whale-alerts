@@ -1,5 +1,5 @@
 {
-  "bankroll": 768.8699138057179,
+  "bankroll": 758.8699138057179,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1640,6 +1640,21 @@
       "timestamp": 1786925548.6770918,
       "bankroll": 768.87,
       "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786931772.1729705,
+      "bankroll": 778.87,
+      "event": "won: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury: O/U 176.5"
+    },
+    {
+      "timestamp": 1786931772.7656796,
+      "bankroll": 768.87,
+      "event": "lost: Sassy-Bucket \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786931774.4934714,
+      "bankroll": 758.87,
+      "event": "lost: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury"
     }
   ]
 }
