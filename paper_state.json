@@ -1,5 +1,5 @@
 {
-  "bankroll": 812.9153999367112,
+  "bankroll": 809.0444321947757,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1985,6 +1985,16 @@
       "timestamp": 1786993608.0201795,
       "bankroll": 812.92,
       "event": "won: swisstony \u2014 Spread: FA Siauliai (-1.5)"
+    },
+    {
+      "timestamp": 1786995618.9607685,
+      "bankroll": 802.92,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston: Kenta Miyoshi vs Roger Pascual Ferra"
+    },
+    {
+      "timestamp": 1786995619.8080745,
+      "bankroll": 809.04,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Miguel Tobon vs Paulo Andre Saraiva Dos Santos"
     }
   ]
 }
