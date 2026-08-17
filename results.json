@@ -5474,5 +5474,20 @@
     "status": "pending",
     "ultimo_fill": 1786993968,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 751,
+    "timestamp": 1786995666,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-jodar-tabilo-2026-08-17",
+    "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 25966.447,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1786995666,
+    "fills": 1
   }
 ]
