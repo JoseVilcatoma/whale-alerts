@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:26:45 (hora de Perú)
+Actualizado: 2026-08-17 05:28:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:26:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $721.65)
+**Capital comprometido ahora mismo:** $80.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $691.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,13 +37,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
-| 111111111115 | 11 | 12 | 2 | -25.01 USD |
+| 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
+| HomeRunHazard | 15 | 12 | 5 | -41.35 USD |
 | RN1 | 30 | 18 | 0 | -43.69 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 0 | -64.40 USD |
+| ferrariChampions2026 | 37 | 35 | 2 | -64.40 USD |
 
 ## Análisis general
 
@@ -123,18 +123,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
-| atp-pau-molleke-2026-08-17 | RN1, ferrariChampions2026 |
-| lol-dkc-ktc-2026-08-17 | , ferrariChampions2026 |
-| lol-t1-dnf-2026-08-17 | 111111111115, TAIWANNUMBERONE, ferrariChampions2026 |
-| atp-mar-cosano-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
-| atp-wiedenm-cigarra-2026-08-17 | RN1, ferrariChampions2026 |
-| atp-gerardc-papamal-2026-08-17 | RN1, ferrariChampions2026 |
-| atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 42% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 41% | 10.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -162,6 +158,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 55% | 10.00 | 0.7% | ❌ perdida | -10.00 |
 | HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Liudmila Samsonova (BUY) | 57% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | Houston Astros (BUY) | 58% | 10.00 | 0.7% | ✅ ganada | +7.24 |
-| HomeRunHazard | Spread: Seattle Mariners (-2.5) | Houston Astros (BUY) | 73% | 10.00 | 1.8% | ✅ ganada | +3.70 |
-| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 43.3% | ✅ ganada | +7.86 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 34.2% | ✅ ganada | +3.70 |
