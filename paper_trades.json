@@ -9512,5 +9512,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786985891.84787,
     "fills": 1
+  },
+  {
+    "timestamp": 1786986326,
+    "timestamp_added": 1786986327.1928124,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-stl-cin-2026-05-24-total-9pt5",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 11360.9997,
+    "whale_pct": 17.453,
+    "whale_value_at_open": 65095.3072,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786986327.1928248,
+    "fills": 1
   }
 ]
