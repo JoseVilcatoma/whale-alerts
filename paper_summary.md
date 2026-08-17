@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
-| 111111111115 | 11 | 11 | 0 | -23.43 USD |
+| 111111111115 | 11 | 12 | 2 | -25.01 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
@@ -123,6 +123,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
+| atp-pau-molleke-2026-08-17 | RN1, ferrariChampions2026 |
+| lol-dkc-ktc-2026-08-17 | , ferrariChampions2026 |
+| lol-t1-dnf-2026-08-17 | 111111111115, TAIWANNUMBERONE, ferrariChampions2026 |
+| atp-mar-cosano-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-wiedenm-cigarra-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-gerardc-papamal-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
