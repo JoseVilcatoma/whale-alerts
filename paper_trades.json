@@ -7790,8 +7790,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8164,8 +8164,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 8524.728207,
-    "whale_pct": 3.629,
+    "whale_usd": 9101.338207,
+    "whale_pct": 3.874,
     "whale_value_at_open": 234923.1093,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8175,8 +8175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786933648.601304,
-    "fills": 8
+    "last_fill_at": 1786934041.5004616,
+    "fills": 9
   },
   {
     "timestamp": 1786931708,
@@ -8352,8 +8352,8 @@
     "title": "Will CF Cruz Azul win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 60052.89939999999,
-    "whale_pct": 13.286,
+    "whale_usd": 61035.099399999985,
+    "whale_pct": 13.503,
     "whale_value_at_open": 452006.5422,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -8363,8 +8363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786933914.9601018,
-    "fills": 11
+    "last_fill_at": 1786933953.8175364,
+    "fills": 12
   },
   {
     "timestamp": 1786932942,
