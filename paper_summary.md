@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:21:34 (hora de Perú)
+Actualizado: 2026-08-17 05:23:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $762.25
@@ -146,7 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W50 Prague Women: Beatrise Zeltina v | Barbora Palicova (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 46% | 10.00 | 3.1% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 46% | 10.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 71% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Luciano Emanuel Ambrogi (BUY) | 42% | 10.00 | 4.8% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Naoko Eto vs Scar | Scarlet Kavanagh (BUY) | 97% | 10.00 | 4.2% | ⏳ pendiente | — |
