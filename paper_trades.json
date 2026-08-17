@@ -10896,8 +10896,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 15898.141900000002,
-    "whale_pct": 4.545,
+    "whale_usd": 17819.0763,
+    "whale_pct": 5.094,
     "whale_value_at_open": 349793.9223,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10909,8 +10909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010122.229734,
-    "fills": 4
+    "last_fill_at": 1787010328.7518516,
+    "fills": 5
   },
   {
     "timestamp": 1787007594,
@@ -11389,5 +11389,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787010191.4681597,
     "fills": 1
+  },
+  {
+    "timestamp": 1787010302,
+    "timestamp_added": 1787010302.6093495,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hijikat-mensik-2026-08-17",
+    "title": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "whale_usd": 6799.3197,
+    "whale_pct": 1.568,
+    "whale_value_at_open": 433720.0403,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787010302.609356,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787010331,
+    "timestamp_added": 1787010331.3118358,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sd-nym-2026-08-17",
+    "title": "San Diego Padres vs. New York Mets",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 3921.4777999999997,
+    "whale_pct": 0.903,
+    "whale_value_at_open": 434272.5965,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787010331.827269,
+    "fills": 2
   }
 ]
