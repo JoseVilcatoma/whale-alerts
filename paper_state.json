@@ -1,5 +1,5 @@
 {
-  "bankroll": 766.295806270604,
+  "bankroll": 769.453701007446,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1810,6 +1810,11 @@
       "timestamp": 1786968027.7677407,
       "bankroll": 766.3,
       "event": "won: RN1 \u2014 Prague: Andrej Martin vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1786970775.545756,
+      "bankroll": 769.45,
+      "event": "won: RN1 \u2014 ITF W50 Prague Women: Gaeul Jang vs Brenda Fruhvirtova"
     }
   ]
 }
