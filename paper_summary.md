@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:04:55 (hora de Perú)
+Actualizado: 2026-08-17 18:06:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $794.56
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:04:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $164.56)
+**Capital comprometido ahora mismo:** $680.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $114.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,10 +45,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 16 | -33.45 USD |
+| RN1 | 39 | 21 | 20 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 49 | 45 | 21 | -119.99 USD |
+| ferrariChampions2026 | 49 | 45 | 22 | -119.99 USD |
 
 ## Análisis general
 
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
 | atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
-| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, AV23IUa, ferrariChampions2026 |
+| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, AV23IUa, RN1, ferrariChampions2026 |
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
@@ -150,11 +150,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Emma Navarro vs Jessica | Jessica Pegula (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Clara  | Clara Tauson (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 86% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Catolica del Ecuador | No (BUY) | 49% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 1.9% | ⏳ pendiente | — |
 | swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
 | alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
@@ -175,8 +180,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 47% | 10.00 | 7.3% | ⏳ pendiente | — |
 | RN1 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 95% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-1 | Yes (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 50% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Alvaro Guillen Meza vs Igor Ri | Igor Ribeiro Marcondes (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 69% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Jodar vs Tabilo | Jodar (BUY) | 74% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 1.5% | ⏳ pendiente | — |
