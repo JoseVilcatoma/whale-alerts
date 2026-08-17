@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 15:37:39 (hora de Perú)
+Actualizado: 2026-08-17 15:39:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $773.27
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 15:37:39 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $263.27)
+**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $253.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 50 | 47 | 34 | -138.78 USD |
+| ferrariChampions2026 | 50 | 47 | 35 | -138.78 USD |
 
 ## Análisis general
 
@@ -143,6 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Quebec City: Stefanos Sakellaridis vs Ka | Karl Poling (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ENJOY vs HAVU (BO3) - CC | ENJOY (BUY) | 87% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 74% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: RC Deportivo A Coruña (-1.5) | Elche CF (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -172,4 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Oleksandr Ovcharenko (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AA Estudiantes win on 2026-08-17? | No (BUY) | 92% | 10.00 | 0.5% | ✅ ganada | +0.87 |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 2.5 | Over (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Samsunspor vs. Göztepe SK: O/U 3.5 | Over (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
