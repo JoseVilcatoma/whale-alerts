@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 32392.626529,
-    "whale_pct": 13.717,
+    "whale_usd": 33607.497564,
+    "whale_pct": 14.231,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934062.0399585,
-    "fills": 15
+    "last_fill_at": 1786934339.4347634,
+    "fills": 16
   },
   {
     "timestamp": 1786931539,
@@ -8329,8 +8329,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 5047.0896920000005,
-    "whale_pct": 2.031,
+    "whale_usd": 5958.200803000001,
+    "whale_pct": 2.398,
     "whale_value_at_open": 248507.3939,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -8340,8 +8340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934291.922593,
-    "fills": 5
+    "last_fill_at": 1786934302.490798,
+    "fills": 6
   },
   {
     "timestamp": 1786932863,
@@ -8448,8 +8448,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Evil Geniuses",
     "side": "BUY",
-    "whale_usd": 6109.971541999999,
-    "whale_pct": 2.572,
+    "whale_usd": 12328.291218999997,
+    "whale_pct": 5.19,
     "whale_value_at_open": 237548.4908,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -8459,8 +8459,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934149.2486594,
-    "fills": 6
+    "last_fill_at": 1786934393.570325,
+    "fills": 11
   },
   {
     "timestamp": 1786933857,
