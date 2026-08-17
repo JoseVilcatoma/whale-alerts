@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 6945.100011,
-    "whale_pct": 40.032,
+    "whale_usd": 8047.370011000001,
+    "whale_pct": 46.385,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786969900.0555072,
-    "fills": 8
+    "last_fill_at": 1786969950.8560073,
+    "fills": 9
   },
   {
     "timestamp": 1786968304,
@@ -8835,8 +8835,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 2964.8013,
-    "whale_pct": 2.71,
+    "whale_usd": 3983.8613,
+    "whale_pct": 3.642,
     "whale_value_at_open": 109396.0418,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8848,8 +8848,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786968753.5457866,
-    "fills": 4
+    "last_fill_at": 1786969924.6928303,
+    "fills": 5
   },
   {
     "timestamp": 1786968431,
@@ -8948,6 +8948,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786969593.7538533,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786969953,
+    "timestamp_added": 1786969954.4727895,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "por-cas-ben-2026-08-16-cas",
+    "title": "Will Casa Pia AC win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 699.789987,
+    "whale_pct": 0.521,
+    "whale_value_at_open": 134440.8207,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786969954.472797,
     "fills": 1
   }
 ]
