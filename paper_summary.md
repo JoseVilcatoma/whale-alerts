@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:39:42 (hora de Perú)
+Actualizado: 2026-08-17 09:41:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $759.85
-**Retorno acumulado:** -24.02%
+**Bankroll actual:** $777.47
+**Retorno acumulado:** -22.25%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:39:42 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $339.85)
+**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $377.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,13 +21,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | swisstony | 4 | 1 | 4 | +8.40 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 1 | +8.38 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 1 | 0 | 0 | +0.68 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 2 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Sassy-Bucket | 4 | 7 | 0 | -9.88 USD |
+| Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
@@ -45,18 +45,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 16 | 12 | 15 | -40.71 USD |
-| RN1 | 36 | 20 | 10 | -50.89 USD |
+| RN1 | 37 | 21 | 8 | -47.08 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 38 | 36 | 6 | -70.32 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 348
-- **Aciertos:** 186 (53.4%)
+- **Apuestas resueltas:** 351
+- **Aciertos:** 188 (53.6%)
 - **Cuota promedio de entrada:** 56.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,480.00
-- **ROI sobre lo apostado:** -8.37%
+- **Total apostado (suma de stakes):** $3,510.00
+- **ROI sobre lo apostado:** -7.79%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,8 +66,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 175 | 46.9% | 49.5% | -2.7 pp |
-| 60-79% | 94 | 66.0% | 68.8% | -2.8 pp |
+| 40-59% | 177 | 47.5% | 49.4% | -2.0 pp |
+| 60-79% | 95 | 65.3% | 68.8% | -3.5 pp |
 | 80-94% | 26 | 96.2% | 86.7% | +9.5 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
 
@@ -139,6 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 53% | 10.00 | 394.3% | ⏳ pendiente | — |
 | HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | 💰 vendida anticipada | +0.68 |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 10.00 | 61.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -167,5 +168,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ✅ ganada | +0.87 |
 | RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 8.1% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 585.0% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ✅ ganada | +13.81 |
