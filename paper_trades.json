@@ -8662,5 +8662,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786965521.820629,
     "fills": 1
+  },
+  {
+    "timestamp": 1786966706,
+    "timestamp_added": 1786966707.1660216,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-harri-shelba-2026-08-17",
+    "title": "Cancun: Lloyd Harris vs Abdullah Shelbayh",
+    "outcome": "Lloyd Harris",
+    "side": "BUY",
+    "whale_usd": 1922.6819999999998,
+    "whale_pct": 0.99,
+    "whale_value_at_open": 194143.855,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786966766.7166429,
+    "fills": 2
   }
 ]
