@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:25:54 (hora de Perú)
+Actualizado: 2026-08-17 17:27:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:25:54 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $421.74)
+**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $391.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,10 +44,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 5 | -33.45 USD |
+| RN1 | 39 | 21 | 7 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 45 | 13 | -122.81 USD |
+| ferrariChampions2026 | 48 | 45 | 14 | -122.81 USD |
 
 ## Análisis general
 
@@ -144,6 +144,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CA Vélez Sarsfield win on 2026-08-1 | Yes (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Alvaro Guillen Meza vs Igor Ri | Igor Ribeiro Marcondes (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 69% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Jodar vs Tabilo | Jodar (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -171,6 +174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Miguel Tobon vs Paulo Andre Sa | Paulo Andre Saraiva Dos Santos (BUY) | 62% | 10.00 | 1.1% | ✅ ganada | +6.13 |
 | ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Under (BUY) | 76% | 10.00 | 1.1% | ✅ ganada | +3.16 |
 | ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ✅ ganada | +3.70 |
-| ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ✅ ganada | +1.76 |
