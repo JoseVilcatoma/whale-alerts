@@ -1,5 +1,5 @@
 {
-  "bankroll": 712.8436914766909,
+  "bankroll": 728.6023979443526,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1720,6 +1720,16 @@
       "timestamp": 1786934293.0292234,
       "bankroll": 712.84,
       "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. Houston Astros"
+    },
+    {
+      "timestamp": 1786935722.7766292,
+      "bankroll": 717.77,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FC Dallas (-1.5)"
+    },
+    {
+      "timestamp": 1786935786.7264307,
+      "bankroll": 728.6,
+      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. FC Dallas: O/U 2.5"
     }
   ]
 }
