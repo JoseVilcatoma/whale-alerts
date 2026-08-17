@@ -9265,8 +9265,8 @@
     "title": "Roehampton: Christian Langmo vs Gabi Boitan",
     "outcome": "Christian Langmo",
     "side": "BUY",
-    "whale_usd": 4872.26415,
-    "whale_pct": 4.324,
+    "whale_usd": 6507.9514039999995,
+    "whale_pct": 5.775,
     "whale_value_at_open": 112688.2415,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -9276,8 +9276,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786975278.9554515,
-    "fills": 2
+    "last_fill_at": 1786975340.695913,
+    "fills": 3
   },
   {
     "timestamp": 1786975006,
@@ -9375,6 +9375,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786975278.3673108,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786975353,
+    "timestamp_added": 1786975354.3455703,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-radulov-monday-2026-08-17",
+    "title": "Roehampton: Iliyan Radulov vs Johannus Monday",
+    "outcome": "Johannus Monday",
+    "side": "BUY",
+    "whale_usd": 998.0746,
+    "whale_pct": 1.24,
+    "whale_value_at_open": 80493.5457,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 56,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786975354.3455784,
     "fills": 1
   }
 ]

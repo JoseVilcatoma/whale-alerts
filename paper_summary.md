@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:02:02 (hora de Perú)
+Actualizado: 2026-08-17 09:04:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $760.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:02:02 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $350.32)
+**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $340.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 16 | 12 | 13 | -40.71 USD |
+| HomeRunHazard | 16 | 12 | 14 | -40.71 USD |
 | RN1 | 34 | 20 | 11 | -55.65 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 37 | 35 | 8 | -64.40 USD |
@@ -138,11 +138,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 50% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Iliyan Radulov (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Gi | Anna Kmiecik (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 91% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 48% | 10.00 | 4.3% | ⏳ pendiente | — |
+| RN1 | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 48% | 10.00 | 5.8% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 96% | 10.00 | 2.0% | ⏳ pendiente | — |
 |  | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 55% | 10.00 | 14.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-1.5) | Cincinnati Reds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -167,4 +168,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 42.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 70% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Lloyd Harris vs Abdullah Shelbay | Lloyd Harris (BUY) | 61% | 10.00 | 1.0% | ⏳ pendiente | — |
