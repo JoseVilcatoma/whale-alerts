@@ -8891,8 +8891,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 92,
     "odds_ballena": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9066,5 +9066,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786971291.5551734,
     "fills": 1
+  },
+  {
+    "timestamp": 1786971821,
+    "timestamp_added": 1786971821.5013065,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-dnf-2026-08-17-game4",
+    "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 8153.472032000001,
+    "whale_pct": 4.392,
+    "whale_value_at_open": 185635.1429,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "MaoZeDonK"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786971895.241544,
+    "fills": 9
   }
 ]

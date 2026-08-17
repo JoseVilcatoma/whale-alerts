@@ -1,5 +1,5 @@
 {
-  "bankroll": 759.453701007446,
+  "bankroll": 760.3232662248373,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1820,6 +1820,11 @@
       "timestamp": 1786971403.3868334,
       "bankroll": 759.45,
       "event": "lost: RN1 \u2014 ITF W50 Prague Women: Valeriya Strakhova vs Petra Sedlackova"
+    },
+    {
+      "timestamp": 1786971904.9928205,
+      "bankroll": 760.32,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Bader Alabdullah vs Tomas Quesada Perez"
     }
   ]
 }
