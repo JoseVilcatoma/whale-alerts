@@ -8499,5 +8499,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786962994.1057107,
     "fills": 2
+  },
+  {
+    "timestamp": 1786963293,
+    "timestamp_added": 1786963293.8620515,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-papoe-cerny-2026-08-17",
+    "title": "Prague: Radu Mihai Papoe vs Matyas Cerny",
+    "outcome": "Radu Mihai Papoe",
+    "side": "BUY",
+    "whale_usd": 1087.62066,
+    "whale_pct": 2.002,
+    "whale_value_at_open": 54331.4092,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786963293.8620615,
+    "fills": 1
   }
 ]
