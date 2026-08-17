@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 14:41:31 (hora de Perú)
+Actualizado: 2026-08-17 14:43:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $809.04
@@ -151,7 +151,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will RC Deportivo A Coruña vs. Elche CF  | No (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | RC Deportivo A Coruña vs. Elche CF: O/U  | Over (BUY) | 81% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 89% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | No (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
