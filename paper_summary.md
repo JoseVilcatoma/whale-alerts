@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:15:39 (hora de Perú)
+Actualizado: 2026-08-16 22:17:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $728.60
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 59% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 3.4% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 12.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
