@@ -1,5 +1,5 @@
 {
-  "bankroll": 769.453701007446,
+  "bankroll": 759.453701007446,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1815,6 +1815,11 @@
       "timestamp": 1786970775.545756,
       "bankroll": 769.45,
       "event": "won: RN1 \u2014 ITF W50 Prague Women: Gaeul Jang vs Brenda Fruhvirtova"
+    },
+    {
+      "timestamp": 1786971403.3868334,
+      "bankroll": 759.45,
+      "event": "lost: RN1 \u2014 ITF W50 Prague Women: Valeriya Strakhova vs Petra Sedlackova"
     }
   ]
 }

@@ -8770,8 +8770,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 98231.78458299999,
-    "whale_pct": 566.21,
+    "whale_usd": 101497.78458299999,
+    "whale_pct": 585.035,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786971161.6059873,
-    "fills": 53
+    "last_fill_at": 1786971319.316971,
+    "fills": 54
   },
   {
     "timestamp": 1786968304,
@@ -9041,5 +9041,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786970949.7171857,
     "fills": 3
+  },
+  {
+    "timestamp": 1786971290,
+    "timestamp_added": 1786971291.5551682,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-pit-2026-08-17",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1169.0,
+    "whale_pct": 1.635,
+    "whale_value_at_open": 71495.9313,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786971291.5551734,
+    "fills": 1
   }
 ]
