@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 07:31:45 (hora de Perú)
+Actualizado: 2026-08-17 07:33:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $766.30
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 07:31:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $506.30)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $496.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 4 | 1 | 2 | +8.40 USD |
+| swisstony | 4 | 1 | 3 | +8.40 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 1 | +8.38 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
@@ -133,12 +133,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 2.7% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 40.0% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 46.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 53% | 10.00 | 198.9% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Valeriya Strakhova | Petra Sedlackova (BUY) | 65% | 10.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 39.7% | ⏳ pendiente | — |
@@ -162,4 +163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 41% | 10.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
