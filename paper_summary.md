@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 02:39:06 (hora de Perú)
+Actualizado: 2026-08-17 02:41:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $773.48
@@ -131,7 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 5.4% | ⏳ pendiente | — |
 |  | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Micol Salvadori v | Micol Salvadori (BUY) | 42% | 10.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Micol Salvadori v | Micol Salvadori (BUY) | 42% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Over (BUY) | 49% | 10.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
