@@ -5354,5 +5354,20 @@
     "status": "pending",
     "ultimo_fill": 1786988897,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 741,
+    "timestamp": 1786989278,
+    "username": "paquitomillonario",
+    "wallet": "0x04e6840687847a98f9ecfbb512a8c8b98d073914",
+    "slug": "mlb-stl-cin-2026-05-24",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 28483.0758,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1786989278,
+    "fills": 1
   }
 ]
