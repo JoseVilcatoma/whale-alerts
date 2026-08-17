@@ -9126,8 +9126,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9264,8 +9264,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.7,
     "overlaps_with": [
       "HomeRunHazard"
     ],
