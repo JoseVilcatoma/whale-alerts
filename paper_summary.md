@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 14:22:47 (hora de Perú)
+Actualizado: 2026-08-17 14:26:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $812.92
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 14:22:47 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $372.92)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $302.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 43 | 40 | 25 | -87.87 USD |
+| ferrariChampions2026 | 43 | 40 | 32 | -87.87 USD |
 
 ## Análisis general
 
@@ -135,20 +135,28 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
+| wta-cirstea-kalinsk-2026-08-17 | alaskabaked, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | No (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Elche CF (-1.5) | RC Deportivo A Coruña (BUY) | 99% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | James Watt (BUY) | 76% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Garrett Johns vs Timo Legout | Timo Legout (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Cirstea vs Kalinskaya | Cirstea (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Elche CF win on 2026-08-17? | No (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Elche CF win on 2026-08-17? | No (BUY) | 73% | 10.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Oleksandr Ovcharenko (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AA Estudiantes win on 2026-08-17? | No (BUY) | 92% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 2.5 | Over (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Samsunspor vs. Göztepe SK: O/U 3.5 | Over (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Göztepe SK win on 2026-08-17? | No (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cardiff City FC (-1.5) | Wrexham AFC (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 70% | 10.00 | 6.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 70% | 10.00 | 6.6% | ⏳ pendiente | — |
 | alaskabaked | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 59% | 10.00 | 46.8% | ⏳ pendiente | — |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 22.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -163,10 +171,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Over (BUY) | 48% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 55% | 10.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA Tucumán (BUY) | 97% | 10.00 | 0.3% | ⏳ pendiente | — |
-| alaskabaked | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 50% | 10.00 | 26.5% | ⏳ pendiente | — |
-| SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 52% | 10.00 | 17.5% | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 43% | 10.00 | 1.6% | ⏳ pendiente | — |
