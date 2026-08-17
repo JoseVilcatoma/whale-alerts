@@ -10896,8 +10896,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 17819.0763,
-    "whale_pct": 5.094,
+    "whale_usd": 18684.707588,
+    "whale_pct": 5.342,
     "whale_value_at_open": 349793.9223,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10909,8 +10909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010328.7518516,
-    "fills": 5
+    "last_fill_at": 1787010423.0038872,
+    "fills": 6
   },
   {
     "timestamp": 1787007594,
@@ -11117,8 +11117,8 @@
     "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 10164.481147999999,
-    "whale_pct": 2.87,
+    "whale_usd": 11184.122847999999,
+    "whale_pct": 3.158,
     "whale_value_at_open": 354158.5182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11128,8 +11128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010189.8031874,
-    "fills": 7
+    "last_fill_at": 1787010391.3848855,
+    "fills": 8
   },
   {
     "timestamp": 1787008023,
