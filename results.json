@@ -5249,5 +5249,20 @@
     "status": "pending",
     "ultimo_fill": 1786967456,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 733,
+    "timestamp": 1786967734,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "lol-t1-dnf-2026-08-17-game3",
+    "title": "LoL: T1 vs DN SOOPers - Game 3 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 25937.3556,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1786967734,
+    "fills": 1
   }
 ]
