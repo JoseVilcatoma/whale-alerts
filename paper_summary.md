@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:04:51 (hora de Perú)
+Actualizado: 2026-08-17 11:06:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $767.25
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:04:51 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $640.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $127.25)
+**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $117.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | RN1 | 41 | 23 | 2 | -45.92 USD |
-| HomeRunHazard | 18 | 14 | 18 | -58.93 USD |
+| HomeRunHazard | 18 | 14 | 19 | -58.93 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
@@ -141,7 +141,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | atp-tirante-landalu-2026-08-17 | , HomeRunHazard, ferrariChampions2026 |
 | atp-filip-hardt-2026-08-17 | HomeRunHazard, swisstony |
-| wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
+| wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | itf-tikhon-olmo-2026-08-17 | HVAB, swisstony |
 
@@ -149,6 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 75% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Maria Sakkari (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -178,4 +179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.8% | ⏳ pendiente | — |
 | SDTrading | Spread: Atlanta Braves (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 16.3% | ⏳ pendiente | — |
-| IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
