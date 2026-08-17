@@ -1,5 +1,5 @@
 {
-  "bankroll": 815.6866117820216,
+  "bankroll": 805.6866117820216,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2015,6 +2015,11 @@
       "timestamp": 1786996931.0359864,
       "bankroll": 815.69,
       "event": "won: ferrariChampions2026 \u2014 Will AA Estudiantes win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1786997119.5942795,
+      "bankroll": 805.69,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tucum\u00e1n win on 2026-08-17?"
     }
   ]
 }
