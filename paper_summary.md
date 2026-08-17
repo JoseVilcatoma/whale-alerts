@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:43:58 (hora de Perú)
+Actualizado: 2026-08-17 18:46:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.72
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:43:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $670.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $156.72)
+**Capital comprometido ahora mismo:** $690.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $136.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 41 | 21 | 19 | -30.06 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 54 | 45 | 26 | -103.90 USD |
+| ferrariChampions2026 | 54 | 45 | 28 | -103.90 USD |
 
 ## Análisis general
 
@@ -140,6 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-cirstea-kalinsk-2026-08-17 | alaskabaked, ferrariChampions2026, swisstony |
 | atp-jodar-tabilo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
+| mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
@@ -152,6 +153,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 89% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Noskova vs Tauson | Noskova (BUY) | 72% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -172,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 4.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 5.1% | ⏳ pendiente | — |
 | swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
 | alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
@@ -180,5 +183,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HVAB | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 99% | 10.00 | 20.0% | ✅ ganada | +0.10 |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 87% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
