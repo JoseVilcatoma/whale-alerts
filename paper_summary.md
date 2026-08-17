@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:42:14 (hora de Perú)
+Actualizado: 2026-08-17 17:44:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:42:14 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $301.74)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $281.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 10 | -33.45 USD |
+| RN1 | 39 | 21 | 12 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 48 | 45 | 18 | -122.81 USD |
@@ -148,13 +148,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 99% | 10.00 | 188.7% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 47% | 10.00 | 7.3% | ⏳ pendiente | — |
 | RN1 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 95% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-1 | Yes (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -176,5 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 7.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Elias Ymer (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 2.5% | ⏳ pendiente | — |
