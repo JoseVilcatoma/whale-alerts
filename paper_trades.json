@@ -9683,8 +9683,8 @@
     "title": "Kingston: Kenta Miyoshi vs Roger Pascual Ferra",
     "outcome": "Roger Pascual Ferra",
     "side": "BUY",
-    "whale_usd": 2227.2187129999998,
-    "whale_pct": 0.893,
+    "whale_usd": 3083.9507129999997,
+    "whale_pct": 1.237,
     "whale_value_at_open": 249293.0919,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 87,
@@ -9694,8 +9694,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786990564.8739672,
-    "fills": 1
+    "last_fill_at": 1786990749.3520646,
+    "fills": 2
   },
   {
     "timestamp": 1786990581,
