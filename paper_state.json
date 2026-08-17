@@ -1,5 +1,5 @@
 {
-  "bankroll": 754.4077732670909,
+  "bankroll": 758.2966621559798,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1835,6 +1835,11 @@
       "timestamp": 1786975694.2402005,
       "bankroll": 754.41,
       "event": "won: ferrariChampions2026 \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786976196.1950748,
+      "bankroll": 758.3,
+      "event": "won: RN1 \u2014 ITF W35 Verbier Women: Maria Michaela Fiacan vs Cristina Pescucci"
     }
   ]
 }
