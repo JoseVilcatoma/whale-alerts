@@ -10136,8 +10136,8 @@
     "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 2275.843155,
-    "whale_pct": 0.708,
+    "whale_usd": 3101.8859350000002,
+    "whale_pct": 0.965,
     "whale_value_at_open": 321508.2207,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -10147,8 +10147,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787004952.1670325,
-    "fills": 1
+    "last_fill_at": 1787005120.5416334,
+    "fills": 2
   },
   {
     "timestamp": 1787004997,
@@ -10171,6 +10171,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787004997.432532,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787005138,
+    "timestamp_added": 1787005138.720656,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-gye-tal-2026-08-17-tal",
+    "title": "Will CA Talleres win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 606.969999,
+    "whale_pct": 0.151,
+    "whale_value_at_open": 401894.2484,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787005138.720667,
     "fills": 1
   }
 ]
