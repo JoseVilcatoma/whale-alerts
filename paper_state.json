@@ -1,5 +1,5 @@
 {
-  "bankroll": 797.5340940397116,
+  "bankroll": 804.6545891252595,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1890,6 +1890,16 @@
       "timestamp": 1786985548.9611883,
       "bankroll": 797.53,
       "event": "won: swisstony \u2014 Roehampton: Anton Shepp vs Mark Ceban"
+    },
+    {
+      "timestamp": 1786987691.914244,
+      "bankroll": 802.46,
+      "event": "won: HomeRunHazard \u2014 Prague 2: Cezar Cretu vs Thomas Faurel"
+    },
+    {
+      "timestamp": 1786987750.4161088,
+      "bankroll": 804.65,
+      "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Jana Kovackova vs Irene Burillo Escorihuela"
     }
   ]
 }
