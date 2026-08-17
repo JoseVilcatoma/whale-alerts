@@ -1,5 +1,5 @@
 {
-  "bankroll": 758.8699138057179,
+  "bankroll": 748.8699138057179,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1655,6 +1655,11 @@
       "timestamp": 1786931774.4934714,
       "bankroll": 758.87,
       "event": "lost: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786931898.7723958,
+      "bankroll": 748.87,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Ben Shelton vs Jaime Faria"
     }
   ]
 }
