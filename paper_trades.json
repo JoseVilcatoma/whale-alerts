@@ -8448,8 +8448,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Evil Geniuses",
     "side": "BUY",
-    "whale_usd": 12328.291218999997,
-    "whale_pct": 5.19,
+    "whale_usd": 13059.683702999997,
+    "whale_pct": 5.498,
     "whale_value_at_open": 237548.4908,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -8459,8 +8459,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934393.570325,
-    "fills": 11
+    "last_fill_at": 1786934602.4795141,
+    "fills": 12
   },
   {
     "timestamp": 1786933857,
@@ -8486,5 +8486,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786933858.2642078,
     "fills": 1
+  },
+  {
+    "timestamp": 1786934636,
+    "timestamp_added": 1786934637.3166668,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-alkaa-quin-2026-08-16",
+    "title": "Counter-Strike: ALKA vs QUINTESS\u00caNCIA (BO3) - CCT South America Challengers #2 Playoffs",
+    "outcome": "ALKA",
+    "side": "BUY",
+    "whale_usd": 1712.8069999999998,
+    "whale_pct": 0.92,
+    "whale_value_at_open": 186080.4899,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786934664.1419847,
+    "fills": 2
   }
 ]
