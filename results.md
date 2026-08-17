@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 21:37:37 (hora de Perú)
+Actualizado: 2026-08-16 21:39:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **347**  ($17,906,601 en total)
-- Resueltas: **339** — 202 ganadas / 137 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **343** — 204 ganadas / 139 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,096,756** sobre $17,613,972 apostados (ROI **+6.2%**)
-- Copiando $100 fijo en cada una: **-$860** sobre $33,100 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,113,888** sobre $17,746,799 apostados (ROI **+6.3%**)
+- Copiando $100 fijo en cada una: **-$886** sobre $33,500 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 31 | 18 | 1 | 63% | $2,863,907 | +$93,649 |
 | sainttroplay | 10 | 4 | 0 | 71% | $2,092,133 | +$1,815,515 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 12 | 1 | 62% | $1,439,581 | +$180,091 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 0 | 64% | $1,439,581 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -46,9 +46,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
-| SDTrading | 2 | 3 | 1 | ⚠️ 40% (5) | $161,562 | -$32,710 |
+| SDTrading | 2 | 4 | 0 | ⚠️ 33% (6) | $161,562 | -$61,562 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
-| xifutloong3 | 1 | 3 | 1 | ⚠️ 25% (4) | $156,469 | -$85,789 |
+| xifutloong3 | 2 | 3 | 0 | ⚠️ 40% (5) | $156,469 | -$66,805 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 0 | ⚠️ 100% (3) | $139,000 | +$61,772 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | — | ⏳ Pendiente |
-| tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
+| tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | -$31,351 | ❌ Perdida |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | — | ⏳ Pendiente |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | — | ⏳ Pendiente |
