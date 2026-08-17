@@ -10534,5 +10534,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786995376.6621902,
     "fills": 1
+  },
+  {
+    "timestamp": 1786995521,
+    "timestamp_added": 1786995521.896584,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fery-minaur-2026-08-17-first-set-winner-Fery-vs-Minaur",
+    "title": "Set 1 Winner: Fery vs Minaur",
+    "outcome": "Fery",
+    "side": "BUY",
+    "whale_usd": 578.36,
+    "whale_pct": 0.184,
+    "whale_value_at_open": 313538.3169,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786995521.8965938,
+    "fills": 1
   }
 ]
