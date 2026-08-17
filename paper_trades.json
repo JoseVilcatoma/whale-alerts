@@ -9051,8 +9051,8 @@
     "title": "Pisa SC vs. Empoli FC: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1302.697998,
-    "whale_pct": 0.541,
+    "whale_usd": 1885.9603980000002,
+    "whale_pct": 0.783,
     "whale_value_at_open": 240964.3546,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9062,8 +9062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786983994.316203,
-    "fills": 2
+    "last_fill_at": 1786984048.2866378,
+    "fills": 3
   },
   {
     "timestamp": 1786983329,
@@ -9201,6 +9201,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786983859.9982324,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786984115,
+    "timestamp_added": 1786984116.2616153,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "itc-pis-emp-2026-08-17-total-1pt5",
+    "title": "Pisa SC vs. Empoli FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 540.54,
+    "whale_pct": 0.211,
+    "whale_value_at_open": 256258.7155,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786984116.261627,
     "fills": 1
   }
 ]
