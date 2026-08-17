@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 07:50:33 (hora de Perú)
+Actualizado: 2026-08-17 11:17:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $769.45
-**Retorno acumulado:** -23.05%
+**Bankroll actual:** $797.43
+**Retorno acumulado:** -20.26%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 07:50:33 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $479.45)
+**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $617.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,13 +21,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| swisstony | 5 | 1 | 5 | +9.76 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 4 | 1 | 3 | +8.40 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 1 | +8.38 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
@@ -41,20 +41,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
+| RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 16 | 12 | 7 | -40.71 USD |
-| RN1 | 33 | 19 | 9 | -46.52 USD |
+| HomeRunHazard | 17 | 12 | 6 | -39.35 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 6 | -64.40 USD |
+| ferrariChampions2026 | 39 | 36 | 3 | -66.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 342
-- **Aciertos:** 182 (53.2%)
-- **Cuota promedio de entrada:** 55.8%
+- **Apuestas resueltas:** 356
+- **Aciertos:** 193 (54.2%)
+- **Cuota promedio de entrada:** 56.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,420.00
-- **ROI sobre lo apostado:** -8.21%
+- **Total apostado (suma de stakes):** $3,560.00
+- **ROI sobre lo apostado:** -7.10%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,9 +64,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 175 | 46.9% | 49.5% | -2.7 pp |
-| 60-79% | 91 | 65.9% | 68.8% | -2.8 pp |
-| 80-94% | 23 | 100.0% | 86.3% | +13.7 pp |
+| 40-59% | 178 | 47.8% | 49.5% | -1.7 pp |
+| 60-79% | 97 | 66.0% | 68.7% | -2.8 pp |
+| 80-94% | 28 | 96.4% | 86.8% | +9.7 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -134,33 +134,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Pisa SC vs. Empoli FC: O/U 3.5 | Under (BUY) | 78% | 10.00 | 0.3% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ✅ ganada | +0.87 |
 | swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 4.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 511.4% | ⏳ pendiente | — |
+| swisstony | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 1.3% | ✅ ganada | +1.36 |
+| HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ✅ ganada | +1.36 |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ✅ ganada | +0.87 |
+| RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 4.6% | ✅ ganada | +7.24 |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ✅ ganada | +13.81 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 511.4% | ✅ ganada | +13.81 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 53% | 10.00 | 198.9% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Valeriya Strakhova | Petra Sedlackova (BUY) | 65% | 10.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 42.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 70% | 10.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | ITF W50 Prague Women: Valeriya Strakhova | Petra Sedlackova (BUY) | 65% | 10.00 | 3.2% | ❌ perdida | -10.00 |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 42.8% | ❌ perdida | -10.00 |
+| ferrariChampions2026 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 70% | 10.00 | 0.8% | ✅ ganada | +4.29 |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Lloyd Harris vs Abdullah Shelbay | Lloyd Harris (BUY) | 61% | 10.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 49% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Kiwoom DRX Challengers (BUY) | 71% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Kiwoom DRX Challengers (BUY) | 71% | 10.00 | 0.3% | ✅ ganada | +4.08 |
 | RN1 | ITF W50 Prague Women: Gaeul Jang vs Bren | Brenda Fruhvirtova (BUY) | 76% | 10.00 | 2.6% | ✅ ganada | +3.16 |
 | RN1 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
-| RN1 | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 61% | 10.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 61% | 10.00 | 2.1% | ✅ ganada | +6.39 |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 73% | 10.00 | 5.4% | ✅ ganada | +3.70 |
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 97% | 10.00 | 12.4% | ✅ ganada | +0.31 |
-| RN1 | ITF W35 Verbier Women: Maria Michaela Fi | Cristina Pescucci (BUY) | 72% | 10.00 | 4.9% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Maria Michaela Fi | Cristina Pescucci (BUY) | 72% | 10.00 | 4.9% | ✅ ganada | +3.89 |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.3% | ✅ ganada | +0.64 |
-| HomeRunHazard | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 42% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ❌ perdida | -10.00 |
