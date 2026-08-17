@@ -8731,5 +8731,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786966925.8925583,
     "fills": 1
+  },
+  {
+    "timestamp": 1786967276,
+    "timestamp_added": 1786967277.2979383,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-aleksey-boschma-2026-08-17",
+    "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
+    "outcome": "Artem Alekseychuk",
+    "side": "BUY",
+    "whale_usd": 3810.21,
+    "whale_pct": 5.541,
+    "whale_value_at_open": 68768.4715,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786967303.9817464,
+    "fills": 3
   }
 ]
