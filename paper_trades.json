@@ -8534,8 +8534,8 @@
     "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 740.5272,
-    "whale_pct": 1.293,
+    "whale_usd": 1420.1178,
+    "whale_pct": 2.479,
     "whale_value_at_open": 57288.3686,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8545,7 +8545,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786963909.0709777,
-    "fills": 1
+    "last_fill_at": 1786964180.9693985,
+    "fills": 2
   }
 ]
