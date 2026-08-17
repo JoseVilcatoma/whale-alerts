@@ -10649,5 +10649,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786997358.2754083,
     "fills": 1
+  },
+  {
+    "timestamp": 1786997488,
+    "timestamp_added": 1786997488.9931166,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sakella-poling-2026-08-17",
+    "title": "Quebec City: Stefanos Sakellaridis vs Karl Poling",
+    "outcome": "Stefanos Sakellaridis",
+    "side": "BUY",
+    "whale_usd": 740.7003,
+    "whale_pct": 0.241,
+    "whale_value_at_open": 307395.8768,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786997488.9931295,
+    "fills": 1
   }
 ]
