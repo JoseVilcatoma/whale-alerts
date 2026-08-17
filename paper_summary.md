@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:24:59 (hora de Perú)
+Actualizado: 2026-08-16 23:27:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $746.03
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 68% | 10.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 95% | 10.00 | 4.8% | ⏳ pendiente | — |
 | swisstony | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 65% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: Club Tijuana (-1.5) | CF Cruz Azul (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 45% | 10.00 | 5.2% | ⏳ pendiente | — |
