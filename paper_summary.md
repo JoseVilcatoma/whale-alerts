@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 01:42:16 (hora de Perú)
+Actualizado: 2026-08-17 01:44:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $776.36
-**Retorno acumulado:** -22.36%
+**Bankroll actual:** $778.41
+**Retorno acumulado:** -22.16%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 01:42:16 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $646.36)
+**Capital comprometido ahora mismo:** $120.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $658.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,17 +42,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 2 | -41.35 USD |
 | ferrariChampions2026 | 37 | 33 | 2 | -44.40 USD |
-| RN1 | 27 | 18 | 3 | -50.57 USD |
+| RN1 | 28 | 18 | 2 | -48.52 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 327
-- **Aciertos:** 171 (52.3%)
-- **Cuota promedio de entrada:** 55.0%
+- **Apuestas resueltas:** 328
+- **Aciertos:** 172 (52.4%)
+- **Cuota promedio de entrada:** 55.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,270.00
-- **ROI sobre lo apostado:** -8.38%
+- **Total apostado (suma de stakes):** $3,280.00
+- **ROI sobre lo apostado:** -8.29%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 172 | 47.1% | 49.6% | -2.5 pp |
 | 60-79% | 84 | 65.5% | 68.5% | -3.0 pp |
-| 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
+| 80-94% | 20 | 100.0% | 85.2% | +14.8 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague: Jakub Paul vs Rudolf Molleker | Jakub Paul (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Nitin Kumar Sinha vs | Nitin Kumar Sinha (BUY) | 83% | 10.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Nitin Kumar Sinha vs | Nitin Kumar Sinha (BUY) | 83% | 10.00 | 1.0% | ✅ ganada | +2.05 |
 | swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Under (BUY) | 49% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 1.2% | ⏳ pendiente | — |

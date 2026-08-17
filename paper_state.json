@@ -1,5 +1,5 @@
 {
-  "bankroll": 776.3609587089361,
+  "bankroll": 778.4091514800205,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1740,6 +1740,11 @@
       "timestamp": 1786942195.664449,
       "bankroll": 776.36,
       "event": "won: IMAREALPERSON \u2014 LoL: LYON vs Sentinels (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1786949038.0654254,
+      "bankroll": 778.41,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Nitin Kumar Sinha vs Chun-Chien Hou"
     }
   ]
 }
