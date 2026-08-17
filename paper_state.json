@@ -1,5 +1,5 @@
 {
-  "bankroll": 768.8699138057179,
+  "bankroll": 763.6336859816633,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1640,6 +1640,101 @@
       "timestamp": 1786925548.6770918,
       "bankroll": 768.87,
       "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1786941263.5512497,
+      "bankroll": 778.87,
+      "event": "won: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury: O/U 176.5"
+    },
+    {
+      "timestamp": 1786941263.8835115,
+      "bankroll": 782.03,
+      "event": "won: RN1 \u2014 Will Liverpool FC vs. Como 1907 end in a draw?"
+    },
+    {
+      "timestamp": 1786941264.230431,
+      "bankroll": 772.03,
+      "event": "lost: Sassy-Bucket \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786941264.895517,
+      "bankroll": 762.03,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786941264.9956758,
+      "bankroll": 765.73,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786941265.3324182,
+      "bankroll": 773.58,
+      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786941265.6834533,
+      "bankroll": 777.28,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786941266.03528,
+      "bankroll": 784.52,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786941266.4119563,
+      "bankroll": 774.52,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1786941266.7440515,
+      "bankroll": 764.52,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 6.5"
+    },
+    {
+      "timestamp": 1786941267.1155941,
+      "bankroll": 754.52,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
+    },
+    {
+      "timestamp": 1786941267.215707,
+      "bankroll": 760.4,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
+    },
+    {
+      "timestamp": 1786941267.3158967,
+      "bankroll": 750.4,
+      "event": "lost: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786941267.4160292,
+      "bankroll": 753.91,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1786941267.7763996,
+      "bankroll": 743.91,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Ben Shelton vs Jaime Faria"
+    },
+    {
+      "timestamp": 1786941268.1396294,
+      "bankroll": 733.91,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1786941268.5414956,
+      "bankroll": 736.57,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
+    },
+    {
+      "timestamp": 1786941268.7062597,
+      "bankroll": 749.82,
+      "event": "won: IMAREALPERSON \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786941268.8064594,
+      "bankroll": 763.63,
+      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
     }
   ]
 }
