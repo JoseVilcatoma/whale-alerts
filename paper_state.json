@@ -1,5 +1,5 @@
 {
-  "bankroll": 778.4091514800205,
+  "bankroll": 773.4805858262547,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1745,6 +1745,36 @@
       "timestamp": 1786949038.0654254,
       "bankroll": 778.41,
       "event": "won: RN1 \u2014 ITF M25 Taipei Men: Nitin Kumar Sinha vs Chun-Chien Hou"
+    },
+    {
+      "timestamp": 1786951184.1308901,
+      "bankroll": 779.16,
+      "event": "won: swisstony \u2014 Will CF Cruz Azul win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786951184.3312097,
+      "bankroll": 779.91,
+      "event": "won: RN1 \u2014 Will CF Cruz Azul win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1786951246.0050197,
+      "bankroll": 769.91,
+      "event": "lost: ferrariChampions2026 \u2014 Club Tijuana vs. CF Cruz Azul: O/U 3.5"
+    },
+    {
+      "timestamp": 1786951246.3614516,
+      "bankroll": 773.07,
+      "event": "won: swisstony \u2014 Will Club Tijuana vs. CF Cruz Azul end in a draw?"
+    },
+    {
+      "timestamp": 1786951246.461639,
+      "bankroll": 763.07,
+      "event": "lost: swisstony \u2014 Club Tijuana vs. CF Cruz Azul: O/U 3.5"
+    },
+    {
+      "timestamp": 1786951246.7622597,
+      "bankroll": 773.48,
+      "event": "won: swisstony \u2014 Club Tijuana vs. CF Cruz Azul: O/U 3.5"
     }
   ]
 }
