@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 47821.432511000006,
-    "whale_pct": 275.644,
+    "whale_usd": 57236.31052900001,
+    "whale_pct": 329.911,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786970482.1640499,
-    "fills": 26
+    "last_fill_at": 1786970644.1878939,
+    "fills": 32
   },
   {
     "timestamp": 1786968304,
@@ -8994,6 +8994,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786970092.4630923,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786970582,
+    "timestamp_added": 1786970583.3606958,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-lad-col-2026-08-17-total-10pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 503.11560000000003,
+    "whale_pct": 0.943,
+    "whale_value_at_open": 53376.5036,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786970583.3607042,
     "fills": 1
   }
 ]
