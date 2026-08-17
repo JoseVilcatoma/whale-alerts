@@ -1,5 +1,5 @@
 {
-  "bankroll": 748.8699138057179,
+  "bankroll": 742.3834273192315,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1660,6 +1660,16 @@
       "timestamp": 1786931898.7723958,
       "bankroll": 748.87,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Ben Shelton vs Jaime Faria"
+    },
+    {
+      "timestamp": 1786933028.7854767,
+      "bankroll": 738.87,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1786933029.3855414,
+      "bankroll": 742.38,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
     }
   ]
 }
