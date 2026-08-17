@@ -10899,8 +10899,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.62,
     "overlaps_with": [
       "alaskabaked",
       "ferrariChampions2026"
@@ -10908,7 +10908,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787001825.8758225,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 60
   },
   {
     "timestamp": 1787002005,

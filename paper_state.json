@@ -1,5 +1,5 @@
 {
-  "bankroll": 763.6609407514109,
+  "bankroll": 763.0359407514109,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2125,6 +2125,11 @@
       "timestamp": 1787002528.6176443,
       "bankroll": 763.66,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Harold Mayot vs Gustavo Heide"
+    },
+    {
+      "timestamp": 1787003164.3680594,
+      "bankroll": 763.04,
+      "event": "venta anticipada: HVAB \u2014 Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya (-0.62 USD)"
     }
   ]
 }

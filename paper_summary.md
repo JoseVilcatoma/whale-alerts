@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 16:46:01 (hora de Perú)
+Actualizado: 2026-08-17 16:48:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $763.66
-**Retorno acumulado:** -23.63%
+**Bankroll actual:** $763.04
+**Retorno acumulado:** -23.70%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 16:46:01 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $243.66)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $253.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
 | alaskabaked | 0 | 0 | 2 | +0.00 USD |
-| HVAB | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
+| HVAB | 0 | 1 | 0 | -0.62 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 63% | 10.00 | 14.2% | ⏳ pendiente | — |
 | swisstony | CA Lanús vs. CA Independiente: O/U 3.5 | Under (BUY) | 51% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 65% | 10.00 | 1.5% | ⏳ pendiente | — |
-| HVAB | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 64% | 10.00 | 310.3% | ⏳ pendiente | — |
+| HVAB | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 64% | 10.00 | 310.3% | 💰 vendida anticipada | -0.62 |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 41% | 10.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Palermo FC vs. US Lecce: O/U 2.5 | Under (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Magdalena Frech vs Elen | Elena Rybakina (BUY) | 82% | 10.00 | 9.9% | ⏳ pendiente | — |
