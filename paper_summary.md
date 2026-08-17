@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 08:53:37 (hora de Perú)
+Actualizado: 2026-08-17 08:55:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $760.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 08:53:37 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $400.32)
+**Capital comprometido ahora mismo:** $370.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $390.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 16 | 12 | 11 | -40.71 USD |
-| RN1 | 34 | 20 | 9 | -55.65 USD |
+| RN1 | 34 | 20 | 10 | -55.65 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 37 | 35 | 8 | -64.40 USD |
 
@@ -137,6 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 48% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 96% | 10.00 | 2.0% | ⏳ pendiente | — |
 |  | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 55% | 10.00 | 14.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-1.5) | Cincinnati Reds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -166,4 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Kiwoom DRX Challengers (BUY) | 71% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Gaeul Jang vs Bren | Brenda Fruhvirtova (BUY) | 76% | 10.00 | 2.6% | ✅ ganada | +3.16 |
 | RN1 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
-| RN1 | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 61% | 10.00 | 2.1% | ⏳ pendiente | — |
