@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 22:53:52 (hora de Perú)
+Actualizado: 2026-08-16 22:55:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **347**  ($17,906,601 en total)
+- Apuestas registradas: **348**  ($17,966,044 en total)
 - Resueltas: **345** — 204 ganadas / 141 perdidas (**59%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 108
 
 ### Balance
@@ -43,6 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 4 | 1 | 0 | ⚠️ 80% (5) | $245,037 | +$167,747 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Winnnnnnning | 0 | 4 | 1 | ⚠️ 0% (4) | $193,233 | -$116,271 |
+| swisstony | 2 | 0 | 1 | ⚠️ 100% (2) | $179,815 | +$13,471 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
@@ -57,7 +58,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
-| swisstony | 2 | 0 | 0 | ⚠️ 100% (2) | $120,372 | +$13,471 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
 | tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | +$69,000 | ✅ Ganada |
 | bigspending | Will West Ham United FC win on 2026-08-16? | No | 1.79 (56¢) | $30,830 | +$24,223 | ✅ Ganada |
 | sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $38,400 | +$21,600 | ✅ Ganada |
-| matanovik | Will Arsenal FC win on 2026-08-16? | No | 1.54 (65¢) | $37,050 | -$37,050 | ❌ Perdida |
