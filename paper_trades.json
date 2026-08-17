@@ -8716,5 +8716,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786958342.3710012,
     "fills": 2
+  },
+  {
+    "timestamp": 1786958389,
+    "timestamp_added": 1786958389.2959547,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-t1-dnf-2026-08-17-game1",
+    "title": "LoL: T1 vs DN SOOPers - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 59779.866213,
+    "whale_pct": 71.307,
+    "whale_value_at_open": 83834.8406,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 57,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786958444.1191716,
+    "fills": 23
   }
 ]
