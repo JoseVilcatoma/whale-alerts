@@ -1,5 +1,5 @@
 {
-  "bankroll": 746.0298941595012,
+  "bankroll": 763.6336859816633,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1642,164 +1642,99 @@
       "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. Atlanta Dream"
     },
     {
-      "timestamp": 1786931772.1729705,
+      "timestamp": 1786941263.5512497,
       "bankroll": 778.87,
       "event": "won: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury: O/U 176.5"
     },
     {
-      "timestamp": 1786931772.7656796,
-      "bankroll": 768.87,
-      "event": "lost: Sassy-Bucket \u2014 Portland Fire vs. Phoenix Mercury"
-    },
-    {
-      "timestamp": 1786931774.4934714,
-      "bankroll": 758.87,
-      "event": "lost: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury"
-    },
-    {
-      "timestamp": 1786931898.7723958,
-      "bankroll": 748.87,
-      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Ben Shelton vs Jaime Faria"
-    },
-    {
-      "timestamp": 1786933028.7854767,
-      "bankroll": 738.87,
-      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
-    },
-    {
-      "timestamp": 1786933029.3855414,
-      "bankroll": 742.38,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
-    },
-    {
-      "timestamp": 1786934039.1677544,
-      "bankroll": 732.38,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 6.5"
-    },
-    {
-      "timestamp": 1786934102.836766,
-      "bankroll": 722.38,
-      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. Houston Astros: O/U 5.5"
-    },
-    {
-      "timestamp": 1786934164.8415556,
-      "bankroll": 726.08,
-      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-2.5)"
-    },
-    {
-      "timestamp": 1786934165.1303363,
-      "bankroll": 733.32,
-      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
-    },
-    {
-      "timestamp": 1786934165.6412065,
-      "bankroll": 723.32,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 8.5"
-    },
-    {
-      "timestamp": 1786934167.331329,
-      "bankroll": 713.32,
-      "event": "lost: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
-    },
-    {
-      "timestamp": 1786934291.531278,
-      "bankroll": 703.32,
-      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
-    },
-    {
-      "timestamp": 1786934291.6314578,
-      "bankroll": 709.2,
-      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
-    },
-    {
-      "timestamp": 1786934291.9267638,
-      "bankroll": 711.85,
-      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
-    },
-    {
-      "timestamp": 1786934293.0292234,
-      "bankroll": 712.84,
-      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. Houston Astros"
-    },
-    {
-      "timestamp": 1786935722.7766292,
-      "bankroll": 717.77,
-      "event": "won: ferrariChampions2026 \u2014 Spread: FC Dallas (-1.5)"
-    },
-    {
-      "timestamp": 1786935786.7264307,
-      "bankroll": 728.6,
-      "event": "won: ferrariChampions2026 \u2014 Austin FC vs. FC Dallas: O/U 2.5"
-    },
-    {
-      "timestamp": 1786937094.5022118,
-      "bankroll": 736.46,
-      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner"
-    },
-    {
-      "timestamp": 1786938044.1973078,
-      "bankroll": 739.62,
+      "timestamp": 1786941263.8835115,
+      "bankroll": 782.03,
       "event": "won: RN1 \u2014 Will Liverpool FC vs. Como 1907 end in a draw?"
     },
     {
-      "timestamp": 1786938929.6197937,
-      "bankroll": 729.62,
+      "timestamp": 1786941264.230431,
+      "bankroll": 772.03,
+      "event": "lost: Sassy-Bucket \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786941264.895517,
+      "bankroll": 762.03,
       "event": "lost: ChonkyChocolateCake \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
     },
     {
-      "timestamp": 1786938929.7199411,
-      "bankroll": 733.32,
+      "timestamp": 1786941264.9956758,
+      "bankroll": 765.73,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
     },
     {
-      "timestamp": 1786938993.0132678,
-      "bankroll": 723.32,
-      "event": "lost: HomeRunHazard \u2014 Sonego vs. Tiafoe: Match O/U 23.5"
+      "timestamp": 1786941265.3324182,
+      "bankroll": 773.58,
+      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner"
     },
     {
-      "timestamp": 1786939056.933221,
-      "bankroll": 728.94,
-      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+      "timestamp": 1786941265.6834533,
+      "bankroll": 777.28,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-2.5)"
     },
     {
-      "timestamp": 1786939057.1334755,
-      "bankroll": 718.94,
-      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+      "timestamp": 1786941266.03528,
+      "bankroll": 784.52,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
     },
     {
-      "timestamp": 1786939057.2336164,
-      "bankroll": 708.94,
-      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+      "timestamp": 1786941266.4119563,
+      "bankroll": 774.52,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
     },
     {
-      "timestamp": 1786939057.3336902,
-      "bankroll": 715.61,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+      "timestamp": 1786941266.7440515,
+      "bankroll": 764.52,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 6.5"
     },
     {
-      "timestamp": 1786939058.7236273,
-      "bankroll": 715.71,
-      "event": "won: swisstony \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+      "timestamp": 1786941267.1155941,
+      "bankroll": 754.52,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
     },
     {
-      "timestamp": 1786940437.5077465,
-      "bankroll": 728.96,
+      "timestamp": 1786941267.215707,
+      "bankroll": 760.4,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros"
+    },
+    {
+      "timestamp": 1786941267.3158967,
+      "bankroll": 750.4,
+      "event": "lost: HomeRunHazard \u2014 Portland Fire vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1786941267.4160292,
+      "bankroll": 753.91,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1786941267.7763996,
+      "bankroll": 743.91,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Ben Shelton vs Jaime Faria"
+    },
+    {
+      "timestamp": 1786941268.1396294,
+      "bankroll": 733.91,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1786941268.5414956,
+      "bankroll": 736.57,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 9.5"
+    },
+    {
+      "timestamp": 1786941268.7062597,
+      "bankroll": 749.82,
       "event": "won: IMAREALPERSON \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
     },
     {
-      "timestamp": 1786940437.6079369,
-      "bankroll": 742.77,
+      "timestamp": 1786941268.8064594,
+      "bankroll": 763.63,
       "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786940437.708167,
-      "bankroll": 756.03,
-      "event": "won: ferrariChampions2026 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
-    },
-    {
-      "timestamp": 1786940437.8083699,
-      "bankroll": 746.03,
-      "event": "lost: ferrariChampions2026 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
     }
   ]
 }

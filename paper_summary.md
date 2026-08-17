@@ -1,18 +1,18 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:34:09 (hora de Perú)
+Actualizado: 2026-08-16 23:36:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $746.03
-**Retorno acumulado:** -25.40%
-**Peor caída desde un máximo (drawdown):** 37.04%
+**Bankroll actual:** $763.63
+**Retorno acumulado:** -23.64%
+**Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $10.00 por apuesta
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $386.03)
+**Capital comprometido ahora mismo:** $10.00 en 1 posiciones abiertas (disponible para nuevas apuestas: $753.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,9 +28,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| swisstony | 1 | 0 | 10 | +0.10 USD |
-| WTSA | 0 | 0 | 2 | +0.00 USD |
-| MaoZeDonK | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -42,19 +39,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| ferrariChampions2026 | 42 | 36 | 14 | -38.77 USD |
-| RN1 | 27 | 18 | 3 | -50.57 USD |
+| HomeRunHazard | 15 | 12 | 0 | -41.35 USD |
+| ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
+| RN1 | 27 | 18 | 0 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 16 | 15 | 3 | -64.68 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 339
-- **Aciertos:** 177 (52.2%)
-- **Cuota promedio de entrada:** 55.2%
+- **Apuestas resueltas:** 326
+- **Aciertos:** 170 (52.1%)
+- **Cuota promedio de entrada:** 55.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,390.00
-- **ROI sobre lo apostado:** -8.97%
+- **Total apostado (suma de stakes):** $3,260.00
+- **ROI sobre lo apostado:** -8.79%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,10 +62,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 178 | 46.1% | 49.5% | -3.4 pp |
-| 60-79% | 88 | 65.9% | 68.3% | -2.4 pp |
-| 80-94% | 20 | 100.0% | 85.6% | +14.4 pp |
-| 95-99% (casi seguro) | 8 | 100.0% | 98.1% | +1.9 pp |
+| 40-59% | 171 | 46.8% | 49.6% | -2.8 pp |
+| 60-79% | 84 | 65.5% | 68.5% | -3.0 pp |
+| 80-94% | 19 | 100.0% | 85.3% | +14.7 pp |
+| 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -138,33 +136,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 63% | 10.00 | 1.4% | ⏳ pendiente | — |
-| swisstony | Will Club Tijuana win on 2026-08-16? | No (BUY) | 72% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Manish Sureshkumar v | Manish Sureshkumar (BUY) | 62% | 10.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 4.5 | Under (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 2.5 | Over (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 68% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 68% | 10.00 | 1.0% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 95% | 10.00 | 4.8% | ⏳ pendiente | — |
-| swisstony | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Spread: Club Tijuana (-1.5) | CF Cruz Azul (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
-| MaoZeDonK | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 45% | 10.00 | 5.2% | ⏳ pendiente | — |
-| MaoZeDonK | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 45% | 10.00 | 16.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 79% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Under (BUY) | 75% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 2.5 | Under (BUY) | 52% | 10.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 99% | 10.00 | 3.3% | ✅ ganada | +0.10 |
-| ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 60% | 10.00 | 2.3% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 94% | 10.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 59% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 34.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 16.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
-| MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 9.3% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ✅ ganada | +13.81 |
+| IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 9.8% | ✅ ganada | +13.26 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ✅ ganada | +2.66 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 47% | 10.00 | 0.5% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Ben Shelton vs Jaime Fa | Ben Shelton (BUY) | 61% | 10.00 | 4.9% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Coco Gauff (BUY) | 74% | 10.00 | 3.6% | ✅ ganada | +3.51 |
+| HomeRunHazard | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 48% | 10.00 | 1.1% | ❌ perdida | -10.00 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 63% | 10.00 | 7.6% | ✅ ganada | +5.87 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 41% | 10.00 | 2.1% | ❌ perdida | -10.00 |
+| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 55% | 10.00 | 0.7% | ❌ perdida | -10.00 |
+| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Liudmila Samsonova (BUY) | 57% | 10.00 | 0.3% | ❌ perdida | -10.00 |
+| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Houston Astros (BUY) | 58% | 10.00 | 0.7% | ✅ ganada | +7.24 |
+| HomeRunHazard | Spread: Seattle Mariners (-2.5) | Houston Astros (BUY) | 73% | 10.00 | 1.8% | ✅ ganada | +3.70 |
+| casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 43.3% | ✅ ganada | +7.86 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Sentinels - Game 2 Winner | LYON (BUY) | 73% | 10.00 | 34.2% | ✅ ganada | +3.70 |
+| ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ❌ perdida | -10.00 |
+| IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ❌ perdida | -10.00 |
+| SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ❌ perdida | -10.00 |
+| ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 72% | 10.00 | 113.4% | ❌ perdida | -10.00 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 100.6% | 💰 vendida anticipada | +10.00 |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 58.2% | ❌ perdida | -10.00 |
+| IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ✅ ganada | +10.41 |
+| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 10.1% | ❌ perdida | -10.00 |
+| IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ❌ perdida | -10.00 |
+| crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ✅ ganada | +9.61 |
+| midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ❌ perdida | -10.00 |
+| ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ❌ perdida | -10.00 |
+| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ✅ ganada | +0.87 |
+| SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ❌ perdida | -10.00 |
