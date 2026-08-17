@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 03:03:27 (hora de Perú)
+Actualizado: 2026-08-17 03:05:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $781.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 03:03:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $681.65)
+**Capital comprometido ahora mismo:** $110.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $671.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
-| RN1 | 30 | 18 | 2 | -43.69 USD |
+| RN1 | 30 | 18 | 3 | -43.69 USD |
 | ferrariChampions2026 | 37 | 34 | 1 | -54.40 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -130,6 +130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 45% | 10.00 | 4.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 76% | 10.00 | 31.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 9.7% | ⏳ pendiente | — |
@@ -159,4 +160,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 63% | 10.00 | 7.6% | ✅ ganada | +5.87 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 41% | 10.00 | 2.1% | ❌ perdida | -10.00 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 55% | 10.00 | 0.7% | ❌ perdida | -10.00 |
-| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Liudmila Samsonova (BUY) | 57% | 10.00 | 0.3% | ❌ perdida | -10.00 |
