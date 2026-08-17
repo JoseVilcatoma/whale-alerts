@@ -9932,5 +9932,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786992239.5665312,
     "fills": 1
+  },
+  {
+    "timestamp": 1786992860,
+    "timestamp_added": 1786992860.994709,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "lal-dep-elc-2026-08-17-dep",
+    "title": "Will RC Deportivo A Coru\u00f1a win on 2026-08-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 56444.08,
+    "whale_pct": 17.165,
+    "whale_value_at_open": 328831.2634,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786992860.9947205,
+    "fills": 1
   }
 ]
