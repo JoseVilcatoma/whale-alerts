@@ -8519,8 +8519,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 6392.420654,
-    "whale_pct": 3.33,
+    "whale_usd": 8997.993327,
+    "whale_pct": 4.687,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8532,8 +8532,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786936820.9097593,
-    "fills": 5
+    "last_fill_at": 1786937010.7139523,
+    "fills": 8
   },
   {
     "timestamp": 1786934930,
@@ -8664,8 +8664,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 6648.218662,
-    "whale_pct": 1.972,
+    "whale_usd": 7282.548634000001,
+    "whale_pct": 2.16,
     "whale_value_at_open": 337169.8199,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
@@ -8678,8 +8678,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786936881.8656406,
-    "fills": 4
+    "last_fill_at": 1786936969.4097316,
+    "fills": 5
   },
   {
     "timestamp": 1786936901,
@@ -8702,6 +8702,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786936901.8781822,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786936969,
+    "timestamp_added": 1786936969.7130685,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-tij-caz-2026-08-16-total-3pt5",
+    "title": "Club Tijuana vs. CF Cruz Azul: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 597.2984,
+    "whale_pct": 0.171,
+    "whale_value_at_open": 348941.6842,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786936969.7130797,
     "fills": 1
   }
 ]
