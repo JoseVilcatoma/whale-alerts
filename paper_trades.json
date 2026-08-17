@@ -9859,5 +9859,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786991638.9422538,
     "fills": 1
+  },
+  {
+    "timestamp": 1786992062,
+    "timestamp_added": 1786992063.3393798,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-aae-cat-2026-08-17-cat",
+    "title": "Will CA Tucum\u00e1n win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 511.91165,
+    "whale_pct": 0.203,
+    "whale_value_at_open": 252005.4525,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786992063.3393917,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786992155,
+    "timestamp_added": 1786992155.5966134,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-cin-2026-05-24-total-9pt5",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 8733.5753,
+    "whale_pct": 3.454,
+    "whale_value_at_open": 252847.4513,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 60,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786992156.031747,
+    "fills": 2
   }
 ]
