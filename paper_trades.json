@@ -10440,8 +10440,8 @@
     "title": "Will CSyD Defensa y Justicia win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 719.82,
-    "whale_pct": 0.217,
+    "whale_usd": 1398.5,
+    "whale_pct": 0.421,
     "whale_value_at_open": 331870.7965,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 95,
@@ -10451,8 +10451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005813.2981465,
-    "fills": 1
+    "last_fill_at": 1787007721.5167844,
+    "fills": 2
   },
   {
     "timestamp": 1787005933,
@@ -10934,5 +10934,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787007602.6376722,
     "fills": 2
+  },
+  {
+    "timestamp": 1787007754,
+    "timestamp_added": 1787007754.905785,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-int-cre-2026-08-17-total-4pt5",
+    "title": "SC Internacional vs. Clube do Remo: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 528.9602,
+    "whale_pct": 0.153,
+    "whale_value_at_open": 345787.9631,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787007754.9057956,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787007754,
+    "timestamp_added": 1787007755.4194639,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-int-cre-2026-08-17-total-4pt5",
+    "title": "SC Internacional vs. Clube do Remo: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 632.96,
+    "whale_pct": 0.222,
+    "whale_value_at_open": 285393.7645,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787007755.4194708,
+    "fills": 1
   }
 ]

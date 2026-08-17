@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:00:48 (hora de Perú)
+Actualizado: 2026-08-17 18:02:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:00:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $181.74)
+**Capital comprometido ahora mismo:** $630.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $161.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,10 +45,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 14 | -33.45 USD |
+| RN1 | 39 | 21 | 15 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 45 | 21 | -122.81 USD |
+| ferrariChampions2026 | 48 | 45 | 22 | -122.81 USD |
 
 ## Análisis general
 
@@ -144,11 +144,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wta-noskova-tauson-2026-08-17 | RN1, ferrariChampions2026 |
+| bra-int-cre-2026-08-17-total-4pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 1.8% | ⏳ pendiente | — |
 | swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -169,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 47% | 10.00 | 7.3% | ⏳ pendiente | — |
-| RN1 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 95% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 95% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CA Vélez Sarsfield win on 2026-08-1 | Yes (BUY) | 79% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 50% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Alvaro Guillen Meza vs Igor Ri | Igor Ribeiro Marcondes (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -177,5 +180,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Jodar vs Tabilo | Jodar (BUY) | 74% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Over (BUY) | 89% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 1.5% | ⏳ pendiente | — |
