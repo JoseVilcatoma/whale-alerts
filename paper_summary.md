@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 15:50:13 (hora de Perú)
+Actualizado: 2026-08-17 15:52:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $773.27
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 15:50:13 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $233.27)
+**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $223.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 50 | 47 | 37 | -138.78 USD |
+| ferrariChampions2026 | 50 | 47 | 38 | -138.78 USD |
 
 ## Análisis general
 
@@ -143,6 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Magdalena Frech vs Elen | Elena Rybakina (BUY) | 82% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Paul Jubb (BUY) | 49% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UD Almería vs. CD Eldense: O/U 4.5 | Under (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Stefanos Sakellaridis vs Ka | Karl Poling (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -172,4 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Garrett Johns vs Timo Legout | Timo Legout (BUY) | 66% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Set 1 Winner: Cirstea vs Kalinskaya | Cirstea (BUY) | 85% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Will Elche CF win on 2026-08-17? | No (BUY) | 73% | 10.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Oleksandr Ovcharenko (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
