@@ -10013,8 +10013,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 22648.1936,
-    "whale_pct": 7.086,
+    "whale_usd": 23748.1936,
+    "whale_pct": 7.43,
     "whale_value_at_open": 319605.4121,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10024,8 +10024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006064.8210106,
-    "fills": 5
+    "last_fill_at": 1787006400.6319983,
+    "fills": 7
   },
   {
     "timestamp": 1787004660,
@@ -10394,8 +10394,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 1839.115,
-    "whale_pct": 0.565,
+    "whale_usd": 2807.615,
+    "whale_pct": 0.862,
     "whale_value_at_open": 325549.3277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10405,8 +10405,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005929.9312613,
-    "fills": 2
+    "last_fill_at": 1787006382.9845312,
+    "fills": 3
   },
   {
     "timestamp": 1787005651,
@@ -10488,8 +10488,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 6720.5082090000005,
-    "whale_pct": 1.8,
+    "whale_usd": 9118.776063000001,
+    "whale_pct": 2.442,
     "whale_value_at_open": 373418.7134,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -10501,8 +10501,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006184.016892,
-    "fills": 4
+    "last_fill_at": 1787006383.174934,
+    "fills": 6
   },
   {
     "timestamp": 1787006073,
@@ -10552,5 +10552,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787006242.6045477,
     "fills": 2
+  },
+  {
+    "timestamp": 1787006387,
+    "timestamp_added": 1787006387.487262,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bal-tb-2026-08-17",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 762.0865269999999,
+    "whale_pct": 0.212,
+    "whale_value_at_open": 358651.4158,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006387.4872732,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006387,
+    "timestamp_added": 1787006387.9682648,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bal-tb-2026-08-17",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 829.8149999999999,
+    "whale_pct": 0.247,
+    "whale_value_at_open": 335497.9055,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006387.9682734,
+    "fills": 1
   }
 ]
