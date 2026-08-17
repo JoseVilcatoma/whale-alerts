@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 17:47:33 (hora de Perú)
+Actualizado: 2026-08-17 17:49:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **376**  ($19,391,446 en total)
-- Resueltas: **356** — 211 ganadas / 145 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **358** — 212 ganadas / 146 perdidas (**59%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$819,310** sobre $18,410,704 apostados (ROI **+4.5%**)
-- Copiando $100 fijo en cada una: **-$1,126** sobre $34,800 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$789,106** sobre $18,482,187 apostados (ROI **+4.3%**)
+- Copiando $100 fijo en cada una: **-$1,181** sobre $35,000 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 19 | 6 | 63% | $3,302,517 | +$71,649 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 20 | 5 | 62% | $3,302,517 | +$28,649 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -90,8 +90,8 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | -$154,885 | ❌ Perdida |
 | Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | +$27,051 | ✅ Ganada |
 | sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
-| paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | — | ⏳ Pendiente |
+| paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | +$12,797 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | — | ⏳ Pendiente |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
