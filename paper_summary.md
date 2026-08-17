@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:19:26 (hora de Perú)
+Actualizado: 2026-08-17 05:21:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $762.25
@@ -137,8 +137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 56% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 58% | 10.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 56% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 58% | 10.00 | 4.7% | ⏳ pendiente | — |
 | 111111111115 | Map Handicap: BW (-1.5) vs Inner Circle  | Bushido Wildcats (BUY) | 41% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Oscar Moraing vs Eli | Oscar Moraing (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |

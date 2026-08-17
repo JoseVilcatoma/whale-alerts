@@ -9082,8 +9082,8 @@
     "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 3903.0292999999997,
-    "whale_pct": 2.308,
+    "whale_usd": 8024.909299999999,
+    "whale_pct": 4.745,
     "whale_value_at_open": 169123.9132,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -9096,8 +9096,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786961936.7130306,
-    "fills": 6
+    "last_fill_at": 1786962061.0095186,
+    "fills": 11
   },
   {
     "timestamp": 1786961929,
@@ -9108,8 +9108,8 @@
     "title": "LoL: T1 vs DN SOOPers - Game 2 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 1611.1920000000002,
-    "whale_pct": 0.927,
+    "whale_usd": 2699.0769,
+    "whale_pct": 1.552,
     "whale_value_at_open": 173874.2442,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -9119,7 +9119,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786961939.3675108,
-    "fills": 3
+    "last_fill_at": 1786962074.6030385,
+    "fills": 5
   }
 ]
