@@ -9836,5 +9836,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786991409.7692745,
     "fills": 1
+  },
+  {
+    "timestamp": 1786991638,
+    "timestamp_added": 1786991638.9422414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-onclin-mccabe-2026-08-17",
+    "title": "Cancun: Gauthier Onclin vs James McCabe",
+    "outcome": "Gauthier Onclin",
+    "side": "BUY",
+    "whale_usd": 1575.6426,
+    "whale_pct": 0.629,
+    "whale_value_at_open": 250497.3579,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786991638.9422538,
+    "fills": 1
   }
 ]
