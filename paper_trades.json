@@ -10463,8 +10463,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 25503.658696000002,
-    "whale_pct": 7.328,
+    "whale_usd": 26432.401196000003,
+    "whale_pct": 7.595,
     "whale_value_at_open": 348013.9104,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -10476,8 +10476,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005934.317146,
-    "fills": 5
+    "last_fill_at": 1787009148.174553,
+    "fills": 6
   },
   {
     "timestamp": 1787006003,
@@ -10513,8 +10513,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 8480.493,
-    "whale_pct": 3.933,
+    "whale_usd": 10370.493,
+    "whale_pct": 4.81,
     "whale_value_at_open": 215612.0031,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -10524,8 +10524,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006074.4342844,
-    "fills": 2
+    "last_fill_at": 1787009135.036761,
+    "fills": 3
   },
   {
     "timestamp": 1787006238,
@@ -11188,8 +11188,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 930.3498,
-    "whale_pct": 0.288,
+    "whale_usd": 2080.5498,
+    "whale_pct": 0.645,
     "whale_value_at_open": 322796.4546,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -11201,8 +11201,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787008368.1161354,
-    "fills": 1
+    "last_fill_at": 1787009206.5240283,
+    "fills": 2
   },
   {
     "timestamp": 1787008985,
@@ -11282,8 +11282,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1217.6254999999999,
-    "whale_pct": 0.409,
+    "whale_usd": 4441.5658,
+    "whale_pct": 1.491,
     "whale_value_at_open": 297916.1887,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -11295,7 +11295,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009082.1901937,
-    "fills": 1
+    "last_fill_at": 1787009139.4882524,
+    "fills": 2
   }
 ]
