@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 03:01:26 (hora de Perú)
+Actualizado: 2026-08-17 03:03:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $781.65
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 76% | 10.00 | 31.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 5.4% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 9.7% | ⏳ pendiente | — |
 |  | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Micol Salvadori v | Micol Salvadori (BUY) | 42% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Over (BUY) | 49% | 10.00 | 1.2% | ⏳ pendiente | — |
