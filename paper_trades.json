@@ -7627,8 +7627,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 12.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8112,8 +8112,8 @@
     "title": "Will CF Cruz Azul win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7917.1900000000005,
-    "whale_pct": 6.266,
+    "whale_usd": 8628.77,
+    "whale_pct": 6.829,
     "whale_value_at_open": 126357.307,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 93,
@@ -8125,8 +8125,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786941736.438008,
-    "fills": 3
+    "last_fill_at": 1786942133.4634795,
+    "fills": 4
   },
   {
     "timestamp": 1786941813,
@@ -8160,8 +8160,8 @@
     "title": "Will Club Tijuana win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2136.559999,
-    "whale_pct": 0.858,
+    "whale_usd": 5103.653998,
+    "whale_pct": 2.049,
     "whale_value_at_open": 249064.9568,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -8173,7 +8173,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786942111.0990434,
-    "fills": 1
+    "last_fill_at": 1786942121.739435,
+    "fills": 3
   }
 ]
