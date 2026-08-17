@@ -10205,8 +10205,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 5180.533757,
-    "whale_pct": 1.613,
+    "whale_usd": 10804.723757,
+    "whale_pct": 3.364,
     "whale_value_at_open": 321168.4584,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -10216,8 +10216,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006533.3798504,
-    "fills": 4
+    "last_fill_at": 1787006710.5259366,
+    "fills": 5
   },
   {
     "timestamp": 1787005350,
@@ -10488,8 +10488,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 11072.831208000001,
-    "whale_pct": 2.965,
+    "whale_usd": 16294.609729000002,
+    "whale_pct": 4.364,
     "whale_value_at_open": 373418.7134,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -10501,8 +10501,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006653.1463628,
-    "fills": 7
+    "last_fill_at": 1787006710.5285456,
+    "fills": 8
   },
   {
     "timestamp": 1787006073,
@@ -10587,8 +10587,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 1798.315,
-    "whale_pct": 0.536,
+    "whale_usd": 2598.8005000000003,
+    "whale_pct": 0.775,
     "whale_value_at_open": 335497.9055,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10600,8 +10600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006605.6395543,
-    "fills": 2
+    "last_fill_at": 1787006738.797355,
+    "fills": 3
   },
   {
     "timestamp": 1787006426,
@@ -10695,6 +10695,52 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787006636.9195187,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006709,
+    "timestamp_added": 1787006710.0354125,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-pnga-nerd-2026-08-17-game2",
+    "title": "LoL: paiN Gaming Academy vs Ei Nerd Esports - Game 2 Winner",
+    "outcome": "Ei Nerd Esports",
+    "side": "BUY",
+    "whale_usd": 837.7004999999999,
+    "whale_pct": 0.252,
+    "whale_value_at_open": 332284.2662,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006710.0354183,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006714,
+    "timestamp_added": 1787006715.3596354,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-pnga-nerd-2026-08-17",
+    "title": "LoL: paiN Gaming Academy vs Ei Nerd Esports (BO3) - Circuito Desafiante Playoffs",
+    "outcome": "Ei Nerd Esports",
+    "side": "BUY",
+    "whale_usd": 670.8722220000001,
+    "whale_pct": 0.202,
+    "whale_value_at_open": 332284.2662,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006715.3596416,
     "fills": 1
   }
 ]
