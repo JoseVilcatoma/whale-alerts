@@ -8741,8 +8741,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Artem Alekseychuk",
     "side": "BUY",
-    "whale_usd": 26497.998867000002,
-    "whale_pct": 38.532,
+    "whale_usd": 27271.074467000002,
+    "whale_pct": 39.656,
     "whale_value_at_open": 68768.4715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -8752,8 +8752,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786968305.3675368,
-    "fills": 24
+    "last_fill_at": 1786969870.9146128,
+    "fills": 25
   },
   {
     "timestamp": 1786967315,
@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 4695.017611,
-    "whale_pct": 27.062,
+    "whale_usd": 6945.100011,
+    "whale_pct": 40.032,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786969727.381991,
-    "fills": 6
+    "last_fill_at": 1786969900.0555072,
+    "fills": 8
   },
   {
     "timestamp": 1786968304,
