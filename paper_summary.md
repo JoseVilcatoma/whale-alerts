@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:17:05 (hora de Perú)
+Actualizado: 2026-08-17 11:19:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $797.43
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:17:05 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $617.43)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $597.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,22 +24,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
-| swisstony | 7 | 1 | 17 | +10.85 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 5 | 1 | 5 | +9.76 USD |
+| swisstony | 5 | 1 | 6 | +9.76 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HVAB | 3 | 0 | 0 | +1.08 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
-|  | 0 | 0 | 4 | +0.00 USD |
-| GreenBerry1337 | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 3 | -1.87 USD |
+| SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
+| Sassy-Bucket | 4 | 7 | 0 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
@@ -47,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 17 | 12 | 6 | -39.35 USD |
+| HomeRunHazard | 17 | 12 | 7 | -39.35 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 3 | -66.03 USD |
 
@@ -129,27 +125,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
-| atp-blockx-cobolli-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
-| mlb-atl-min-2026-08-17-spread-away-1pt5 | HomeRunHazard, SDTrading |
 | atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
-| wnba-dal-gsv-2026-08-17-total-163pt5 | , HomeRunHazard |
-| atp-ribeiro-nagal-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026, swisstony |
+| atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
-| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, HomeRunHazard |
-| lol-t1-dnf-2026-08-17-game4 | MaoZeDonK, ferrariChampions2026 |
-| atp-langmo-boitan-2026-08-17 | HomeRunHazard, RN1 |
-| atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
-| atp-tirante-landalu-2026-08-17 | , HomeRunHazard, ferrariChampions2026 |
-| atp-filip-hardt-2026-08-17 | HomeRunHazard, swisstony |
-| wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
-| wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
-| itf-tikhon-olmo-2026-08-17 | HVAB, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: FA Siauliai (-1.5) | FK Panevezys (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 71% | 10.00 | 4.7% | ⏳ pendiente | — |
 | swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 3.5 | Under (BUY) | 78% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -178,5 +164,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 97% | 10.00 | 12.4% | ✅ ganada | +0.31 |
 | RN1 | ITF W35 Verbier Women: Maria Michaela Fi | Cristina Pescucci (BUY) | 72% | 10.00 | 4.9% | ✅ ganada | +3.89 |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
-| RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ❌ perdida | -10.00 |
