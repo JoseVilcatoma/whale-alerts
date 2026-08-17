@@ -10228,8 +10228,8 @@
     "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 607.58565,
-    "whale_pct": 0.188,
+    "whale_usd": 2444.6732570000004,
+    "whale_pct": 0.757,
     "whale_value_at_open": 322993.2192,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -10241,8 +10241,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005351.3078983,
-    "fills": 1
+    "last_fill_at": 1787005778.5206273,
+    "fills": 2
   },
   {
     "timestamp": 1787005379,
@@ -10348,8 +10348,8 @@
     "title": "Cancun: Felipe Meligeni Alves vs Luka Pavlovic",
     "outcome": "Felipe Meligeni Alves",
     "side": "BUY",
-    "whale_usd": 1010.4460000000001,
-    "whale_pct": 0.299,
+    "whale_usd": 2880.0924000000005,
+    "whale_pct": 0.852,
     "whale_value_at_open": 337932.1146,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -10359,8 +10359,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005519.2137823,
-    "fills": 1
+    "last_fill_at": 1787005789.4278262,
+    "fills": 3
   },
   {
     "timestamp": 1787005568,
