@@ -9235,8 +9235,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 3654.6965330000003,
-    "whale_pct": 2.377,
+    "whale_usd": 4454.6885330000005,
+    "whale_pct": 2.897,
     "whale_value_at_open": 153746.8149,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9246,8 +9246,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786984914.239879,
-    "fills": 3
+    "last_fill_at": 1786985693.024637,
+    "fills": 4
   },
   {
     "timestamp": 1786984282,
