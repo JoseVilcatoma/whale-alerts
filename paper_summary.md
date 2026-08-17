@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:21:20 (hora de Perú)
+Actualizado: 2026-08-17 10:23:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $785.11
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:21:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $225.11)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $215.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 17 | 12 | 14 | -40.29 USD |
+| HomeRunHazard | 17 | 12 | 15 | -40.29 USD |
 | RN1 | 39 | 22 | 5 | -45.13 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
@@ -146,6 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Golden State Valkyries (-7.5) | Golden State Valkyries (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Over (BUY) | 72% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -175,4 +176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ✅ ganada | +4.71 |
 |  | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 43% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 50% | 10.00 | 1.8% | ⏳ pendiente | — |
