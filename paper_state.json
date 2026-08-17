@@ -1,5 +1,5 @@
 {
-  "bankroll": 814.1321246025344,
+  "bankroll": 804.1321246025344,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2030,6 +2030,11 @@
       "timestamp": 1786997742.794918,
       "bankroll": 814.13,
       "event": "won: swisstony \u2014 Pisa SC vs. Empoli FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786998061.8155649,
+      "bankroll": 804.13,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Fery vs Minaur"
     }
   ]
 }
