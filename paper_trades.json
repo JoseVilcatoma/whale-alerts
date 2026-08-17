@@ -10659,8 +10659,8 @@
     "title": "Quebec City: Stefanos Sakellaridis vs Karl Poling",
     "outcome": "Stefanos Sakellaridis",
     "side": "BUY",
-    "whale_usd": 9554.636899000001,
-    "whale_pct": 3.108,
+    "whale_usd": 11269.946454,
+    "whale_pct": 3.666,
     "whale_value_at_open": 307395.8768,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -10670,8 +10670,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787002062.210061,
-    "fills": 4
+    "last_fill_at": 1787002200.9000638,
+    "fills": 5
   },
   {
     "timestamp": 1786997885,
