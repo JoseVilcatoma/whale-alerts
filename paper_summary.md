@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:07:21 (hora de Perú)
+Actualizado: 2026-08-16 22:09:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $728.60
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 61% | 10.00 | 14.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 64% | 10.00 | 3.6% | ⏳ pendiente | — |
 | HomeRunHazard | Sonego vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 81% | 10.00 | 3.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 81% | 10.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 91% | 10.00 | 0.3% | ✅ ganada | +0.99 |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 66% | 10.00 | 3.4% | ❌ perdida | -10.00 |
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 47% | 10.00 | 2.3% | ❌ perdida | -10.00 |
