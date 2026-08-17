@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 20:54:28 (hora de Perú)
+Actualizado: 2026-08-16 20:56:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **346**  ($17,876,601 en total)
-- Resueltas: **337** — 202 ganadas / 135 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **338** — 202 ganadas / 136 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,160,607** sobre $17,550,121 apostados (ROI **+6.6%**)
-- Copiando $100 fijo en cada una: **-$660** sobre $32,900 (ROI **-2.0%**)
+- **Resultado de los apostadores: +$1,129,256** sobre $17,581,472 apostados (ROI **+6.4%**)
+- Copiando $100 fijo en cada una: **-$760** sobre $33,000 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | — | ⏳ Pendiente |
+| huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | -$31,351 | ❌ Perdida |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | — | ⏳ Pendiente |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
