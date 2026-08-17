@@ -1,5 +1,5 @@
 {
-  "bankroll": 778.8699138057179,
+  "bankroll": 768.8699138057179,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1635,6 +1635,11 @@
       "timestamp": 1786923981.9762125,
       "bankroll": 778.87,
       "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Seattle Storm: O/U 178.5"
+    },
+    {
+      "timestamp": 1786925548.6770918,
+      "bankroll": 768.87,
+      "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. Atlanta Dream"
     }
   ]
 }
