@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-16 22:02:29 (hora de Perú)
+Actualizado: 2026-08-16 22:04:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **347**  ($17,906,601 en total)
-- Resueltas: **343** — 204 ganadas / 139 perdidas (**59%** de acierto)
-- Pendientes: 4
+- Resueltas: **345** — 204 ganadas / 141 perdidas (**59%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 108
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,113,888** sobre $17,746,799 apostados (ROI **+6.3%**)
-- Copiando $100 fijo en cada una: **-$886** sobre $33,500 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,029,548** sobre $17,831,139 apostados (ROI **+5.8%**)
+- Copiando $100 fijo en cada una: **-$1,086** sobre $33,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
-| WTSA | 1 | 0 | 2 | ⚠️ 100% (1) | $121,390 | +$27,950 |
+| WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 | swisstony | 2 | 0 | 0 | ⚠️ 100% (2) | $120,372 | +$13,471 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
@@ -77,8 +77,8 @@ _(mostrando los 40 de mayor monto, de 108 en total)_
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | -$31,351 | ❌ Perdida |
-| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | — | ⏳ Pendiente |
-| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | — | ⏳ Pendiente |
+| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | -$47,500 | ❌ Perdida |
+| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | -$36,840 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $42,567 | -$42,567 | ❌ Perdida |
 | winwin518168 | Spread: Chicago Sky (-2.5) | Seattle Storm | 1.92 (52¢) | $27,209 | +$25,116 | ✅ Ganada |
