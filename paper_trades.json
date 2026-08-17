@@ -8060,5 +8060,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786930687.5483055,
     "fills": 1
+  },
+  {
+    "timestamp": 1786931068,
+    "timestamp_added": 1786931069.7651358,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-sea-vwh-2026-08-16-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1156.73,
+    "whale_pct": 0.433,
+    "whale_value_at_open": 267107.9666,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786931069.7651439,
+    "fills": 1
   }
 ]
