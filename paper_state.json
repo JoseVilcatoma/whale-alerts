@@ -1,5 +1,5 @@
 {
-  "bankroll": 776.5695221235499,
+  "bankroll": 777.8054771797297,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1960,6 +1960,11 @@
       "timestamp": 1786991211.3391824,
       "bankroll": 776.57,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Diane Parry vs Lois Boisson"
+    },
+    {
+      "timestamp": 1786991401.1834652,
+      "bankroll": 777.81,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Viktor Durasovic vs Manoj Dhamne Manas"
     }
   ]
 }
