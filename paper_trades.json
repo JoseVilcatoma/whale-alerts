@@ -8519,8 +8519,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 4781.805499,
-    "whale_pct": 2.491,
+    "whale_usd": 5806.985054,
+    "whale_pct": 3.025,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8532,8 +8532,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786935120.8917954,
-    "fills": 3
+    "last_fill_at": 1786935495.1710572,
+    "fills": 4
   },
   {
     "timestamp": 1786934930,
@@ -8544,8 +8544,8 @@
     "title": "Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1358.4174000000003,
-    "whale_pct": 0.708,
+    "whale_usd": 2152.139,
+    "whale_pct": 1.121,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -8555,7 +8555,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786935213.7849257,
-    "fills": 2
+    "last_fill_at": 1786935499.5496788,
+    "fills": 3
   }
 ]
