@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:31:12 (hora de Perú)
+Actualizado: 2026-08-17 11:33:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $797.43
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:31:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $557.43)
+**Capital comprometido ahora mismo:** $250.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $547.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 17 | 12 | 8 | -39.35 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 39 | 36 | 3 | -66.03 USD |
+| ferrariChampions2026 | 39 | 36 | 4 | -66.03 USD |
 
 ## Análisis general
 
@@ -129,11 +129,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
 | atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
+| wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 73% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 78% | 10.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will FC Universitatea Cluj vs. FC UTA Ar | No (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -163,4 +165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Kiwoom DRX Challengers (BUY) | 71% | 10.00 | 0.3% | ✅ ganada | +4.08 |
 | RN1 | ITF W50 Prague Women: Gaeul Jang vs Bren | Brenda Fruhvirtova (BUY) | 76% | 10.00 | 2.6% | ✅ ganada | +3.16 |
 | RN1 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery (BUY) | 43% | 10.00 | 6.8% | ⏳ pendiente | — |
-| RN1 | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 61% | 10.00 | 2.1% | ✅ ganada | +6.39 |
