@@ -7976,8 +7976,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 13.26,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7999,8 +7999,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 13.81,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
@@ -8024,8 +8024,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 13.26,
     "overlaps_with": [
       "IMAREALPERSON",
       "casualbet2020"
@@ -8050,8 +8050,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "IMAREALPERSON",
       "casualbet2020"

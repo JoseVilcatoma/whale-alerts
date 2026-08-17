@@ -1,5 +1,5 @@
 {
-  "bankroll": 715.7087424430005,
+  "bankroll": 746.0298941595012,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1780,6 +1780,26 @@
       "timestamp": 1786939058.7236273,
       "bankroll": 715.71,
       "event": "won: swisstony \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1786940437.5077465,
+      "bankroll": 728.96,
+      "event": "won: IMAREALPERSON \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786940437.6079369,
+      "bankroll": 742.77,
+      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786940437.708167,
+      "bankroll": 756.03,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786940437.8083699,
+      "bankroll": 746.03,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
     }
   ]
 }
