@@ -8890,8 +8890,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1084.0004999999999,
-    "whale_pct": 1.727,
+    "whale_usd": 1961.4105,
+    "whale_pct": 3.125,
     "whale_value_at_open": 62757.6602,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -8901,8 +8901,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786960634.797253,
-    "fills": 1
+    "last_fill_at": 1786961247.958896,
+    "fills": 2
   },
   {
     "timestamp": 1786960748,
@@ -9000,5 +9000,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786961149.6715045,
     "fills": 1
+  },
+  {
+    "timestamp": 1786961217,
+    "timestamp_added": 1786961218.3022745,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-dnf-2026-08-17",
+    "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 1126.1745,
+    "whale_pct": 0.688,
+    "whale_value_at_open": 163609.8361,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "111111111115",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786961299.1111512,
+    "fills": 2
   }
 ]
