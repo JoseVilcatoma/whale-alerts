@@ -5234,5 +5234,20 @@
     "status": "won",
     "ultimo_fill": 1786938905,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 732,
+    "timestamp": 1786967456,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-pit-2026-08-17",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 28888.600000000002,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1786967456,
+    "fills": 1
   }
 ]
