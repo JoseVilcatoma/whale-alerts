@@ -8645,5 +8645,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786957627.5872233,
     "fills": 1
+  },
+  {
+    "timestamp": 1786957963,
+    "timestamp_added": 1786957963.6985173,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-salvado-biot-2026-08-17",
+    "title": "ITF W35 Verbier Women: Micol Salvadori vs Alexandra Biot",
+    "outcome": "Alexandra Biot",
+    "side": "BUY",
+    "whale_usd": 572.4599999999999,
+    "whale_pct": 1.356,
+    "whale_value_at_open": 42221.6407,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786957963.6985266,
+    "fills": 1
   }
 ]
