@@ -8200,5 +8200,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786942277.6933808,
     "fills": 3
+  },
+  {
+    "timestamp": 1786944080,
+    "timestamp_added": 1786944081.229399,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-sinha-ho-2026-08-17",
+    "title": "ITF M25 Taipei Men: Nitin Kumar Sinha vs Chun-Chien Hou",
+    "outcome": "Nitin Kumar Sinha",
+    "side": "BUY",
+    "whale_usd": 692.5500000000001,
+    "whale_pct": 1.018,
+    "whale_value_at_open": 68025.9414,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 83,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786944081.2294052,
+    "fills": 1
   }
 ]
