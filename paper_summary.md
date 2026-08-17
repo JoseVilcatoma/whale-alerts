@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:09:30 (hora de Perú)
+Actualizado: 2026-08-17 17:11:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:09:30 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $581.74)
+**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $551.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 0 | 1 | +0.00 USD |
+| AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -46,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 45 | 8 | -122.81 USD |
+| ferrariChampions2026 | 48 | 45 | 10 | -122.81 USD |
 
 ## Análisis general
 
@@ -131,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
 | atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
-| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
+| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, AV23IUa, ferrariChampions2026 |
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
@@ -141,6 +142,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Elias Ymer (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -168,6 +172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Roehampton: Viktor Durasovic vs Manoj Dh | Viktor Durasovic (BUY) | 89% | 10.00 | 0.4% | ✅ ganada | +1.24 |
 | ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 71% | 10.00 | 0.2% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 2.4% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | ITF W50 Prague Women: Jana Kovackova vs  | Jana Kovackova (BUY) | 82% | 10.00 | 0.6% | ✅ ganada | +2.20 |
-| HomeRunHazard | Roehampton: Lucas Poullain vs Max Basing | Lucas Poullain (BUY) | 50% | 10.00 | 0.3% | ✅ ganada | +10.00 |
-| ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 55% | 10.00 | 0.2% | ✅ ganada | +8.18 |
