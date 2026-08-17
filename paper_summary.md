@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:06:46 (hora de Perú)
+Actualizado: 2026-08-17 05:08:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:06:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $471.84)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $461.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 8 | -41.35 USD |
 | RN1 | 31 | 19 | 12 | -51.93 USD |
-| ferrariChampions2026 | 37 | 34 | 6 | -54.40 USD |
+| ferrariChampions2026 | 37 | 34 | 7 | -54.40 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
 ## Análisis general
@@ -127,7 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
 | atp-pau-molleke-2026-08-17 | RN1, ferrariChampions2026 |
 | lol-dkc-ktc-2026-08-17 | , ferrariChampions2026 |
-| lol-t1-dnf-2026-08-17 | 111111111115, TAIWANNUMBERONE |
+| lol-t1-dnf-2026-08-17 | 111111111115, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-mar-cosano-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-wiedenm-cigarra-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-gerardc-papamal-2026-08-17 | RN1, ferrariChampions2026 |
@@ -137,11 +137,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 95% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Beatrise Zeltina v | Barbora Palicova (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 46% | 10.00 | 1.7% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 46% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 71% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Luciano Emanuel Ambrogi (BUY) | 42% | 10.00 | 4.8% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Naoko Eto vs Scar | Scarlet Kavanagh (BUY) | 97% | 10.00 | 4.2% | ⏳ pendiente | — |
@@ -166,4 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Micol Salvadori v | Micol Salvadori (BUY) | 42% | 10.00 | 5.4% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Over (BUY) | 49% | 10.00 | 1.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
