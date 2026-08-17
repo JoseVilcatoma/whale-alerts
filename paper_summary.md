@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 08:07:18 (hora de Perú)
+Actualizado: 2026-08-17 08:09:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $760.32
@@ -136,7 +136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 78% | 10.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 78% | 10.00 | 6.2% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 10.00 | 0.9% | ⏳ pendiente | — |
