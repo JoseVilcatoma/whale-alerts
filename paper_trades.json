@@ -8857,5 +8857,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786959999.0374396,
     "fills": 1
+  },
+  {
+    "timestamp": 1786960466,
+    "timestamp_added": 1786960467.2164893,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-lad-col-2026-08-17",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 1617.0,
+    "whale_pct": 2.656,
+    "whale_value_at_open": 60883.9852,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 71,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786960467.2164965,
+    "fills": 1
   }
 ]
