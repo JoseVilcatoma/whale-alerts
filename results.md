@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 13:44:14 (hora de Perú)
+Actualizado: 2026-08-17 17:05:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **358**  ($18,313,050 en total)
-- Resueltas: **350** — 208 ganadas / 142 perdidas (**59%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 111
+- Apuestas registradas: **372**  ($19,179,486 en total)
+- Resueltas: **356** — 211 ganadas / 145 perdidas (**59%** de acierto)
+- Pendientes: 16
+- Apostadores distintos: 113
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,031,597** sobre $18,033,982 apostados (ROI **+5.7%**)
-- Copiando $100 fijo en cada una: **-$1,050** sobre $34,200 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$819,310** sobre $18,410,704 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$1,126** sobre $34,800 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,16 +24,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 19 | 1 | 63% | $2,948,907 | +$71,649 |
-| sainttroplay | 10 | 4 | 1 | 71% | $2,121,633 | +$1,815,515 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 19 | 6 | 63% | $3,302,517 | +$71,649 |
+| sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
+| 3edmond.dantes | 3 | 3 | 0 | ⚠️ 50% (6) | $445,270 | -$82,826 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
-| pleaseplease123 | 5 | 2 | 1 | ⚠️ 71% (7) | $344,704 | +$64,948 |
+| pleaseplease123 | 5 | 2 | 2 | ⚠️ 71% (7) | $380,477 | +$64,948 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 4 | 1 | 1 | ⚠️ 80% (5) | $297,029 | +$167,747 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -46,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
+| Eztennis | 2 | 0 | 2 | ⚠️ 100% (2) | $167,696 | +$111,697 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | xifutloong3 | 2 | 3 | 0 | ⚠️ 40% (5) | $156,469 | -$66,805 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
@@ -63,15 +64,28 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
-| Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 
-_(mostrando los 40 de mayor monto, de 111 en total)_
+_(mostrando los 40 de mayor monto, de 113 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | — | ⏳ Pendiente |
+| Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | — | ⏳ Pendiente |
+| Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | — | ⏳ Pendiente |
+| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | -$56,444 | ❌ Perdida |
+| olegio | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.79 (56¢) | $28,854 | +$22,671 | ✅ Ganada |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | -$71,181 | ❌ Perdida |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | -$154,885 | ❌ Perdida |
+| Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | +$27,051 | ✅ Ganada |
+| sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | — | ⏳ Pendiente |
@@ -117,17 +131,3 @@ _(mostrando los 40 de mayor monto, de 111 en total)_
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
 | HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | +$64,869 | ✅ Ganada |
-| Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
-| ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | +$88,500 | ✅ Ganada |
-| swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | +$7,160 | ✅ Ganada |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | -$73,336 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.09 (92¢) | $26,220 | +$2,280 | ✅ Ganada |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $115,200 | -$115,200 | ❌ Perdida |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.13 (47¢) | $35,250 | -$35,250 | ❌ Perdida |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.06 (94¢) | $83,889 | +$5,355 | ✅ Ganada |
-| swisstony | Will Manchester City win on 2026-08-16? | No | 1.25 (80¢) | $25,243 | +$6,311 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend | Top Esports | 1.09 (92¢) | $67,846 | +$5,900 | ✅ Ganada |
-| StasPanda | Valorant: Fire Flux Esports vs Joblife (BO3) - VCT EMEA Play-Ins | Joblife | 2.08 (48¢) | $34,413 | -$34,413 | ❌ Perdida |
