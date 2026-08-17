@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 12:39:45 (hora de Perú)
+Actualizado: 2026-08-17 12:41:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 12:39:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $474.65)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $464.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
-| SineNooneEI | 0 | 2 | 0 | -20.00 USD |
+| SineNooneEI | 0 | 2 | 1 | -20.00 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 39 | 21 | 1 | -33.45 USD |
@@ -137,6 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 52% | 10.00 | 17.5% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 43% | 10.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 67% | 10.00 | 1.7% | ✅ ganada | +4.93 |
@@ -166,4 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ✅ ganada | +1.36 |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Bader Alabd | Tomas Quesada Perez (BUY) | 92% | 10.00 | 1.4% | ✅ ganada | +0.87 |
 | RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 4.6% | ✅ ganada | +7.24 |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ✅ ganada | +13.81 |

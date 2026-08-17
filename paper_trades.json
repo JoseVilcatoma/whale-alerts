@@ -9535,5 +9535,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786986327.1928248,
     "fills": 1
+  },
+  {
+    "timestamp": 1786988399,
+    "timestamp_added": 1786988399.9603949,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-gx-kc-2026-08-17-game2",
+    "title": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "whale_usd": 19461.343200000003,
+    "whale_pct": 77.861,
+    "whale_value_at_open": 24995,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 80,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786988415.5062087,
+    "fills": 4
   }
 ]
