@@ -10013,8 +10013,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 54979.63360000001,
-    "whale_pct": 17.202,
+    "whale_usd": 65212.51280000001,
+    "whale_pct": 20.404,
     "whale_value_at_open": 319605.4121,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10024,8 +10024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007238.8095438,
-    "fills": 11
+    "last_fill_at": 1787008393.2449362,
+    "fills": 12
   },
   {
     "timestamp": 1787004660,
