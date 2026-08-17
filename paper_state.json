@@ -1,5 +1,5 @@
 {
-  "bankroll": 750.3232662248373,
+  "bankroll": 754.4077732670909,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1830,6 +1830,11 @@
       "timestamp": 1786975505.3490353,
       "bankroll": 750.32,
       "event": "lost: ferrariChampions2026 \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1786975694.2402005,
+      "bankroll": 754.41,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 2 Winner"
     }
   ]
 }
