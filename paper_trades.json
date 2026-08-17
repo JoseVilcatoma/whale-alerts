@@ -9076,8 +9076,8 @@
     "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 11584.176086000001,
-    "whale_pct": 6.24,
+    "whale_usd": 12214.062686000001,
+    "whale_pct": 6.58,
     "whale_value_at_open": 185635.1429,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9089,8 +9089,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786972156.3093095,
-    "fills": 13
+    "last_fill_at": 1786972388.7334116,
+    "fills": 14
   },
   {
     "timestamp": 1786972211,
@@ -9101,8 +9101,8 @@
     "title": "ITF M15 Lambermont Men: Henri Haupt vs Matthew Carroll",
     "outcome": "Matthew Carroll",
     "side": "BUY",
-    "whale_usd": 1234.8,
-    "whale_pct": 1.1,
+    "whale_usd": 3418.104677,
+    "whale_pct": 3.045,
     "whale_value_at_open": 112266.0696,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -9112,7 +9112,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786972211.5689316,
-    "fills": 1
+    "last_fill_at": 1786972309.8921928,
+    "fills": 3
   }
 ]
