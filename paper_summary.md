@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:34:04 (hora de Perú)
+Actualizado: 2026-08-17 17:36:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:34:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $361.74)
+**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $351.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | +0.00 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
 | alaskabaked | 0 | 0 | 1 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -146,6 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 90% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 47% | 10.00 | 7.3% | ⏳ pendiente | — |
 | RN1 | Will CSyD Defensa y Justicia win on 2026 | No (BUY) | 95% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -157,7 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Over (BUY) | 89% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 86% | 10.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Will CA Talleres win on 2026-08-17? | No (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 48% | 10.00 | 14.4% | ⏳ pendiente | — |
@@ -166,7 +167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 83% | 10.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 6.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Elias Ymer (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 2.5% | ⏳ pendiente | — |
@@ -175,4 +176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Cancun: Gauthier Onclin vs James McCabe | Gauthier Onclin (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | Tristan Boyer (BUY) | 75% | 10.00 | 0.3% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 47% | 10.00 | 0.9% | ⏳ pendiente | — |

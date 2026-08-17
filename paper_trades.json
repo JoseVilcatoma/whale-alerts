@@ -10013,8 +10013,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 19661.3616,
-    "whale_pct": 6.152,
+    "whale_usd": 22648.1936,
+    "whale_pct": 7.086,
     "whale_value_at_open": 319605.4121,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10024,8 +10024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787004845.668338,
-    "fills": 4
+    "last_fill_at": 1787006064.8210106,
+    "fills": 5
   },
   {
     "timestamp": 1787004660,
@@ -10228,8 +10228,8 @@
     "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 2444.6732570000004,
-    "whale_pct": 0.757,
+    "whale_usd": 4938.576332000001,
+    "whale_pct": 1.529,
     "whale_value_at_open": 322993.2192,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -10241,8 +10241,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005778.5206273,
-    "fills": 2
+    "last_fill_at": 1787006082.1182902,
+    "fills": 3
   },
   {
     "timestamp": 1787005379,
@@ -10503,5 +10503,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787006015.3360665,
     "fills": 3
+  },
+  {
+    "timestamp": 1787006073,
+    "timestamp_added": 1787006073.9388914,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-kc-2026-08-17",
+    "title": "Athletics vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 8480.493,
+    "whale_pct": 3.933,
+    "whale_value_at_open": 215612.0031,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006074.4342844,
+    "fills": 2
   }
 ]
