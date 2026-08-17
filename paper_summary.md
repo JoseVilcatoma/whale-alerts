@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 20:27:28 (hora de Perú)
+Actualizado: 2026-08-16 20:29:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $768.87
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 20:27:28 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $588.87)
+**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $578.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 9 | 6 | 12 | -14.33 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
-| IMAREALPERSON | 7 | 5 | 1 | -20.19 USD |
+| IMAREALPERSON | 7 | 5 | 2 | -20.19 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
@@ -123,6 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 47% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Ben Shelton vs Jaime Fa | Ben Shelton (BUY) | 61% | 10.00 | 4.9% | ⏳ pendiente | — |
@@ -152,4 +153,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ✅ ganada | +0.87 |
 | SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ❌ perdida | -10.00 |
 | midwicket72 | The Hundred: Trent Rockets vs Manchester | Manchester Super Giants (BUY) | 49% | 10.00 | 14.2% | ✅ ganada | +10.41 |
-| Sassy-Bucket | Miami Marlins vs. Cincinnati Reds: O/U 8 | Over (BUY) | 51% | 10.00 | 210.1% | ❌ perdida | -10.00 |
