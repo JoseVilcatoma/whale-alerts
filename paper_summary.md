@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:25:03 (hora de Perú)
+Actualizado: 2026-08-17 09:27:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $758.30
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:25:03 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $328.30)
+**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $318.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 2 | +0.00 USD |
+| HVAB | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 2 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -138,6 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | ⏳ pendiente | — |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 10.00 | 61.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -148,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Gi | Anna Kmiecik (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 91% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 48% | 10.00 | 5.8% | ⏳ pendiente | — |
-| HomeRunHazard | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 96% | 10.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 96% | 10.00 | 4.1% | ⏳ pendiente | — |
 |  | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 55% | 10.00 | 14.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: St. Louis Cardinals (-1.5) | Cincinnati Reds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Dallas Wings (BUY) | 48% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -167,4 +169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 58% | 10.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 3.6% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Tiago Boschmans (BUY) | 42% | 10.00 | 585.0% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 53% | 10.00 | 198.9% | ⏳ pendiente | — |
