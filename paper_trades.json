@@ -10205,5 +10205,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786980670.0084836,
     "fills": 1
+  },
+  {
+    "timestamp": 1786980936,
+    "timestamp_added": 1786980937.386591,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-parry-boisson-2026-08-17",
+    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "whale_usd": 6836.9974999999995,
+    "whale_pct": 6.394,
+    "whale_value_at_open": 106926.5273,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786980937.3865986,
+    "fills": 1
   }
 ]
