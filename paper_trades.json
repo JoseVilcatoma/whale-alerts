@@ -8519,8 +8519,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 8997.993327,
-    "whale_pct": 4.687,
+    "whale_usd": 9603.61863,
+    "whale_pct": 5.003,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8532,8 +8532,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937010.7139523,
-    "fills": 8
+    "last_fill_at": 1786937221.533679,
+    "fills": 9
   },
   {
     "timestamp": 1786934930,
@@ -8567,8 +8567,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 10061.0294,
-    "whale_pct": 12.322,
+    "whale_usd": 10893.397299999999,
+    "whale_pct": 13.342,
     "whale_value_at_open": 81648.3381,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -8580,8 +8580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786936618.2144454,
-    "fills": 3
+    "last_fill_at": 1786937280.2852936,
+    "fills": 4
   },
   {
     "timestamp": 1786936445,
@@ -8641,8 +8641,8 @@
     "title": "Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2499.6954,
-    "whale_pct": 1.543,
+    "whale_usd": 3708.7771430000003,
+    "whale_pct": 2.29,
     "whale_value_at_open": 161979.5843,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -8652,8 +8652,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937111.7463071,
-    "fills": 3
+    "last_fill_at": 1786937281.0401416,
+    "fills": 5
   },
   {
     "timestamp": 1786936863,
@@ -8713,8 +8713,8 @@
     "title": "Club Tijuana vs. CF Cruz Azul: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 597.2984,
-    "whale_pct": 0.171,
+    "whale_usd": 1182.4984,
+    "whale_pct": 0.339,
     "whale_value_at_open": 348941.6842,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -8724,8 +8724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786936969.7130797,
-    "fills": 1
+    "last_fill_at": 1786937210.6940196,
+    "fills": 2
   },
   {
     "timestamp": 1786937077,
@@ -8759,8 +8759,8 @@
     "title": "Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 999.999999,
-    "whale_pct": 7.983,
+    "whale_usd": 1999.999998,
+    "whale_pct": 15.967,
     "whale_value_at_open": 12525.8876,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -8772,7 +8772,30 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937111.8298445,
+    "last_fill_at": 1786937212.7016473,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786937167,
+    "timestamp_added": 1786937167.7575874,
+    "username": "MaoZeDonK",
+    "wallet": "0x19ae9efef67c685a8581d631d99267b1ff10395c",
+    "slug": "lol-dkc-ktc-2026-08-17-game1",
+    "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 645.219999,
+    "whale_pct": 5.151,
+    "whale_value_at_open": 12525.8876,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786937167.7575936,
     "fills": 1
   }
 ]
