@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:58:26 (hora de Perú)
+Actualizado: 2026-08-17 10:00:30 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $777.47
-**Retorno acumulado:** -22.25%
+**Bankroll actual:** $782.17
+**Retorno acumulado:** -21.78%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:58:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $337.47)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $352.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,18 +45,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 16 | 12 | 15 | -40.71 USD |
-| RN1 | 37 | 21 | 8 | -47.08 USD |
+| RN1 | 38 | 21 | 7 | -42.37 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 38 | 36 | 6 | -70.32 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 351
-- **Aciertos:** 188 (53.6%)
+- **Apuestas resueltas:** 352
+- **Aciertos:** 189 (53.7%)
 - **Cuota promedio de entrada:** 56.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,510.00
-- **ROI sobre lo apostado:** -7.79%
+- **Total apostado (suma de stakes):** $3,520.00
+- **ROI sobre lo apostado:** -7.64%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 177 | 47.5% | 49.4% | -2.0 pp |
-| 60-79% | 95 | 65.3% | 68.8% | -3.5 pp |
+| 60-79% | 96 | 65.6% | 68.8% | -3.2 pp |
 | 80-94% | 26 | 96.2% | 86.7% | +9.5 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | 💰 vendida anticipada | +0.68 |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 10.00 | 61.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ✅ ganada | +4.71 |
 |  | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 43% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 50% | 10.00 | 1.8% | ⏳ pendiente | — |
