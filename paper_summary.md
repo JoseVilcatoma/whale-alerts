@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:08:51 (hora de Perú)
+Actualizado: 2026-08-17 05:10:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $771.84
-**Retorno acumulado:** -22.82%
+**Bankroll actual:** $762.25
+**Retorno acumulado:** -23.77%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:08:51 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $461.84)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $452.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,22 +39,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
-| 111111111115 | 11 | 12 | 1 | -25.01 USD |
+| 111111111115 | 11 | 12 | 2 | -25.01 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 8 | -41.35 USD |
-| RN1 | 31 | 19 | 12 | -51.93 USD |
-| ferrariChampions2026 | 37 | 34 | 7 | -54.40 USD |
+| RN1 | 32 | 19 | 12 | -51.51 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
+| ferrariChampions2026 | 37 | 35 | 6 | -64.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 338
-- **Aciertos:** 179 (53.0%)
-- **Cuota promedio de entrada:** 55.7%
+- **Apuestas resueltas:** 340
+- **Aciertos:** 180 (52.9%)
+- **Cuota promedio de entrada:** 55.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,380.00
-- **ROI sobre lo apostado:** -8.19%
+- **Total apostado (suma de stakes):** $3,400.00
+- **ROI sobre lo apostado:** -8.43%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,10 +64,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 173 | 47.4% | 49.5% | -2.2 pp |
+| 40-59% | 174 | 47.1% | 49.5% | -2.4 pp |
 | 60-79% | 89 | 65.2% | 68.6% | -3.5 pp |
 | 80-94% | 24 | 95.8% | 85.8% | +10.0 pp |
-| 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
+| 95-99% (casi seguro) | 8 | 100.0% | 97.8% | +2.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -137,6 +137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | Map Handicap: BW (-1.5) vs Inner Circle  | Bushido Wildcats (BUY) | 41% | 10.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF M15 Båstad Men: Oscar Moraing vs Eli | Oscar Moraing (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 95% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Beatrise Zeltina v | Barbora Palicova (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -153,7 +155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 45% | 10.00 | 6.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Dino Moloko | Dino Molokova Ferreira (BUY) | 78% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Micol Salvadori v | Alexandra Biot (BUY) | 96% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Prague: Jakub Paul vs Rudolf Molleker | Rudolf Molleker (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Prague: Jakub Paul vs Rudolf Molleker | Rudolf Molleker (BUY) | 96% | 10.00 | 2.5% | ✅ ganada | +0.42 |
 | ferrariChampions2026 | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 70% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 78% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Emma Mazzoni (BUY) | 85% | 10.00 | 2.0% | ✅ ganada | +1.76 |
@@ -165,5 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 9.7% | ❌ perdida | -10.00 |
 |  | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Micol Salvadori v | Micol Salvadori (BUY) | 42% | 10.00 | 5.4% | ⏳ pendiente | — |
-| HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Over (BUY) | 49% | 10.00 | 1.2% | ⏳ pendiente | — |

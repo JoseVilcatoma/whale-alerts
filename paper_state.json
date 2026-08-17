@@ -1,5 +1,5 @@
 {
-  "bankroll": 771.8353584246937,
+  "bankroll": 762.2520250913603,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1800,6 +1800,16 @@
       "timestamp": 1786958573.8034582,
       "bankroll": 771.84,
       "event": "venta anticipada: 111111111115 \u2014 LoL: T1 vs DN SOOPers - Game 1 Winner (-1.58 USD)"
+    },
+    {
+      "timestamp": 1786961385.9892735,
+      "bankroll": 761.84,
+      "event": "lost: ferrariChampions2026 \u2014 Prague: Jakub Paul vs Rudolf Molleker"
+    },
+    {
+      "timestamp": 1786961387.958641,
+      "bankroll": 762.25,
+      "event": "won: RN1 \u2014 Prague: Jakub Paul vs Rudolf Molleker"
     }
   ]
 }
