@@ -7907,8 +7907,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 2970.999997,
-    "whale_pct": 1.258,
+    "whale_usd": 4467.712285,
+    "whale_pct": 1.892,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786931564.2795165,
-    "fills": 5
+    "last_fill_at": 1786931839.2990894,
+    "fills": 7
   },
   {
     "timestamp": 1786931539,
