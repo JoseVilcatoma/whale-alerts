@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 22428.437006,
-    "whale_pct": 9.497,
+    "whale_usd": 24285.579863,
+    "whale_pct": 10.284,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786932905.8146067,
-    "fills": 12
+    "last_fill_at": 1786933067.8619156,
+    "fills": 13
   },
   {
     "timestamp": 1786931539,
@@ -8139,8 +8139,8 @@
     "title": "Will Vancouver Whitecaps FC win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 8938.742400000003,
-    "whale_pct": 2.2,
+    "whale_usd": 16090.245200000003,
+    "whale_pct": 3.961,
     "whale_value_at_open": 406249.6096,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -8152,8 +8152,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786932166.2558556,
-    "fills": 4
+    "last_fill_at": 1786933151.116688,
+    "fills": 5
   },
   {
     "timestamp": 1786931594,
@@ -8164,8 +8164,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 5753.473837,
-    "whale_pct": 2.449,
+    "whale_usd": 6371.197407,
+    "whale_pct": 2.712,
     "whale_value_at_open": 234923.1093,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8175,8 +8175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786932981.1757066,
-    "fills": 5
+    "last_fill_at": 1786933044.5228152,
+    "fills": 6
   },
   {
     "timestamp": 1786931708,
