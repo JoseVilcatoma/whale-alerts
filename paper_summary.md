@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:13:35 (hora de Perú)
+Actualizado: 2026-08-17 17:15:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -147,10 +147,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 83% | 10.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 59% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Elias Ymer (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 60% | 10.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ❌ perdida | -10.00 |
