@@ -8371,8 +8371,8 @@
     "title": "Prague: Radu Mihai Papoe vs Matyas Cerny",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 576.0028000000001,
-    "whale_pct": 0.758,
+    "whale_usd": 1728.0021300000003,
+    "whale_pct": 2.273,
     "whale_value_at_open": 76009.9495,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 94,
@@ -8382,8 +8382,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786962425.7520988,
-    "fills": 1
+    "last_fill_at": 1786964609.0706596,
+    "fills": 3
   },
   {
     "timestamp": 1786962470,
@@ -8509,8 +8509,8 @@
     "title": "Prague: Radu Mihai Papoe vs Matyas Cerny",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 1087.62066,
-    "whale_pct": 2.002,
+    "whale_usd": 6723.484823,
+    "whale_pct": 12.375,
     "whale_value_at_open": 54331.4092,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 97,
@@ -8522,8 +8522,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786963293.8620615,
-    "fills": 1
+    "last_fill_at": 1786964609.119796,
+    "fills": 3
   },
   {
     "timestamp": 1786963908,
