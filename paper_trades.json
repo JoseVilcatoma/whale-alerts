@@ -8329,8 +8329,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 5958.200803000001,
-    "whale_pct": 2.398,
+    "whale_usd": 7439.661574000001,
+    "whale_pct": 2.994,
     "whale_value_at_open": 248507.3939,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -8340,8 +8340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934302.490798,
-    "fills": 6
+    "last_fill_at": 1786934705.927086,
+    "fills": 8
   },
   {
     "timestamp": 1786932863,
@@ -8423,8 +8423,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 1191.8,
-    "whale_pct": 0.679,
+    "whale_usd": 4782.2417000000005,
+    "whale_pct": 2.726,
     "whale_value_at_open": 175416.139,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -8436,8 +8436,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786933259.4989662,
-    "fills": 1
+    "last_fill_at": 1786934794.7825441,
+    "fills": 3
   },
   {
     "timestamp": 1786933650,
