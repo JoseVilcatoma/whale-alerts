@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 95655.05308299999,
-    "whale_pct": 551.358,
+    "whale_usd": 98231.78458299999,
+    "whale_pct": 566.21,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786971055.4813344,
-    "fills": 52
+    "last_fill_at": 1786971161.6059873,
+    "fills": 53
   },
   {
     "timestamp": 1786968304,
