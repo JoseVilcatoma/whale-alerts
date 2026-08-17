@@ -11203,5 +11203,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787008368.1161354,
     "fills": 1
+  },
+  {
+    "timestamp": 1787008985,
+    "timestamp_added": 1787008985.9617872,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sd-nym-2026-08-17-spread-home-2pt5",
+    "title": "Spread: New York Mets (-2.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 4611.45,
+    "whale_pct": 1.401,
+    "whale_value_at_open": 329234.5711,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787008985.9617977,
+    "fills": 1
   }
 ]
