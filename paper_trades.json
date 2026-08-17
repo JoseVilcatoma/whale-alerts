@@ -11025,5 +11025,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787003076.405687,
     "fills": 2
+  },
+  {
+    "timestamp": 1787003522,
+    "timestamp_added": 1787003522.8619983,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-alves-pavlovi-2026-08-17",
+    "title": "Cancun: Felipe Meligeni Alves vs Luka Pavlovic",
+    "outcome": "Felipe Meligeni Alves",
+    "side": "BUY",
+    "whale_usd": 1293.066327,
+    "whale_pct": 0.5,
+    "whale_value_at_open": 258612.8214,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 46,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787003522.8620086,
+    "fills": 1
   }
 ]
