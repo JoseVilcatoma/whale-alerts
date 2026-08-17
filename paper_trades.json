@@ -8593,5 +8593,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786964767.0036583,
     "fills": 3
+  },
+  {
+    "timestamp": 1786965118,
+    "timestamp_added": 1786965119.4060442,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-jang-fruhvir-2026-08-17",
+    "title": "ITF W50 Prague Women: Gaeul Jang vs Brenda Fruhvirtova",
+    "outcome": "Brenda Fruhvirtova",
+    "side": "BUY",
+    "whale_usd": 535.77,
+    "whale_pct": 0.685,
+    "whale_value_at_open": 78266.0112,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 76,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786965119.4060504,
+    "fills": 1
   }
 ]
