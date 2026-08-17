@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:17:20 (hora de Perú)
+Actualizado: 2026-08-17 05:19:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $762.25
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:17:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $452.25)
+**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $432.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 15 | 12 | 8 | -41.35 USD |
 | RN1 | 32 | 19 | 12 | -51.51 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 6 | -64.40 USD |
+| ferrariChampions2026 | 37 | 35 | 8 | -64.40 USD |
 
 ## Análisis general
 
@@ -137,6 +137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | DN SOOPers (BUY) | 56% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 58% | 10.00 | 2.3% | ⏳ pendiente | — |
 | 111111111115 | Map Handicap: BW (-1.5) vs Inner Circle  | Bushido Wildcats (BUY) | 41% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Oscar Moraing vs Eli | Oscar Moraing (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -165,5 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 45% | 10.00 | 4.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 76% | 10.00 | 31.8% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Emma Mazzoni vs D | Danique Havermans (BUY) | 85% | 10.00 | 9.7% | ❌ perdida | -10.00 |
-|  | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
