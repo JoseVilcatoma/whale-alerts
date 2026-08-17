@@ -1,5 +1,5 @@
 {
-  "bankroll": 733.3160656753238,
+  "bankroll": 715.7087424430005,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1750,6 +1750,36 @@
       "timestamp": 1786938929.7199411,
       "bankroll": 733.32,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786938993.0132678,
+      "bankroll": 723.32,
+      "event": "lost: HomeRunHazard \u2014 Sonego vs. Tiafoe: Match O/U 23.5"
+    },
+    {
+      "timestamp": 1786939056.933221,
+      "bankroll": 728.94,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1786939057.1334755,
+      "bankroll": 718.94,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1786939057.2336164,
+      "bankroll": 708.94,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1786939057.3336902,
+      "bankroll": 715.61,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1786939058.7236273,
+      "bankroll": 715.71,
+      "event": "won: swisstony \u2014 Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe"
     }
   ]
 }
