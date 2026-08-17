@@ -9076,8 +9076,8 @@
     "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 12214.062686000001,
-    "whale_pct": 6.58,
+    "whale_usd": 13559.502328,
+    "whale_pct": 7.304,
     "whale_value_at_open": 185635.1429,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9089,8 +9089,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786972388.7334116,
-    "fills": 14
+    "last_fill_at": 1786972539.5137882,
+    "fills": 16
   },
   {
     "timestamp": 1786972211,
@@ -9114,5 +9114,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786972309.8921928,
     "fills": 3
+  },
+  {
+    "timestamp": 1786972490,
+    "timestamp_added": 1786972490.6838725,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-dnf-2026-08-17",
+    "title": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 2554.0764,
+    "whale_pct": 1.205,
+    "whale_value_at_open": 211899.7482,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786972491.1089625,
+    "fills": 2
   }
 ]
