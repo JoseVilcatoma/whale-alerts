@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:38:46 (hora de Perú)
+Actualizado: 2026-08-16 22:40:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $736.46
-**Retorno acumulado:** -26.35%
+**Bankroll actual:** $739.62
+**Retorno acumulado:** -26.04%
 **Peor caída desde un máximo (drawdown):** 37.04%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 22:38:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $376.46)
+**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $379.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | WTSA | 0 | 0 | 2 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 3 | +0.00 USD |
-| swisstony | 0 | 0 | 6 | +0.00 USD |
+| swisstony | 0 | 0 | 7 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -43,18 +43,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
 | ferrariChampions2026 | 40 | 34 | 13 | -37.65 USD |
+| RN1 | 27 | 18 | 0 | -50.57 USD |
 | HomeRunHazard | 15 | 13 | 6 | -51.35 USD |
-| RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 326
-- **Aciertos:** 169 (51.8%)
+- **Apuestas resueltas:** 327
+- **Aciertos:** 170 (52.0%)
 - **Cuota promedio de entrada:** 55.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,260.00
-- **ROI sobre lo apostado:** -9.63%
+- **Total apostado (suma de stakes):** $3,270.00
+- **ROI sobre lo apostado:** -9.50%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 171 | 46.2% | 49.6% | -3.4 pp |
-| 60-79% | 83 | 65.1% | 68.3% | -3.3 pp |
+| 60-79% | 84 | 65.5% | 68.4% | -2.9 pp |
 | 80-94% | 20 | 100.0% | 85.6% | +14.4 pp |
 | 95-99% (casi seguro) | 7 | 100.0% | 98.0% | +2.0 pp |
 
@@ -127,6 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-valento-svitoli-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
 | val-c9-eg2-2026-08-16 | MaoZeDonK, ferrariChampions2026 |
 | atp-sonego-tiafoe-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
+| mex-tij-caz-2026-08-16-caz | WTSA, swisstony |
 | mls-sea-vwh-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
 | mls-sea-vwh-2026-08-16-total-1pt5 | MaoZeDonK, ferrariChampions2026 |
 
@@ -134,6 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: Club Tijuana (-1.5) | CF Cruz Azul (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 45% | 10.00 | 5.2% | ⏳ pendiente | — |
@@ -145,9 +147,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 60% | 10.00 | 2.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 94% | 10.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 59% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 22.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 33.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 11.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 9.3% | ⏳ pendiente | — |
@@ -163,4 +165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 47% | 10.00 | 2.3% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Austin FC vs. FC Dallas: O/U 2.5 | Over (BUY) | 48% | 10.00 | 0.3% | ✅ ganada | +10.83 |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 73% | 10.00 | 4.5% | ⏳ pendiente | — |
-| WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 4.0% | ⏳ pendiente | — |

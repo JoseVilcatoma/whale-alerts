@@ -6878,8 +6878,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.16,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8519,8 +8519,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 21400.042882,
-    "whale_pct": 11.148,
+    "whale_usd": 31694.913182000004,
+    "whale_pct": 16.51,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8532,8 +8532,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937803.2982361,
-    "fills": 14
+    "last_fill_at": 1786937978.8844707,
+    "fills": 15
   },
   {
     "timestamp": 1786934930,
@@ -8567,8 +8567,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 18091.690995999998,
-    "whale_pct": 22.158,
+    "whale_usd": 27418.840022999997,
+    "whale_pct": 33.582,
     "whale_value_at_open": 81648.3381,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -8580,8 +8580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786937530.4458077,
-    "fills": 6
+    "last_fill_at": 1786937983.494157,
+    "fills": 8
   },
   {
     "timestamp": 1786936445,
@@ -8844,6 +8844,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786937821.3627312,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786938005,
+    "timestamp_added": 1786938005.8504379,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-tij-caz-2026-08-16-caz",
+    "title": "Will CF Cruz Azul win on 2026-08-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 721.92,
+    "whale_pct": 0.222,
+    "whale_value_at_open": 324618.8701,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "WTSA"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786938005.8504448,
     "fills": 1
   }
 ]
