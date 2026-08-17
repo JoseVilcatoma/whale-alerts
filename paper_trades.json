@@ -10822,8 +10822,8 @@
     "title": "Cincinnati Open: Magdalena Frech vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 4724.36217,
-    "whale_pct": 1.58,
+    "whale_usd": 10947.35687,
+    "whale_pct": 3.662,
     "whale_value_at_open": 298967.9796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10833,7 +10833,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786999901.9109914,
-    "fills": 1
+    "last_fill_at": 1787000397.279651,
+    "fills": 4
   }
 ]
