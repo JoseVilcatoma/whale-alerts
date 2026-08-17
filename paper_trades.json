@@ -8595,5 +8595,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786956059.894165,
     "fills": 1
+  },
+  {
+    "timestamp": 1786956554,
+    "timestamp_added": 1786956555.7422814,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dkc-ktc-2026-08-17",
+    "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 1308.8435,
+    "whale_pct": 0.923,
+    "whale_value_at_open": 141736.1711,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786956556.291161,
+    "fills": 2
   }
 ]
