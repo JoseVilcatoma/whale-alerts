@@ -9137,5 +9137,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786972491.1089625,
     "fills": 2
+  },
+  {
+    "timestamp": 1786972932,
+    "timestamp_added": 1786972933.2916164,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-nestero-hemery-2026-08-17",
+    "title": "Sion: Petr Nesterov vs Calvin Hemery",
+    "outcome": "Petr Nesterov",
+    "side": "BUY",
+    "whale_usd": 1413.2,
+    "whale_pct": 1.353,
+    "whale_value_at_open": 104485.2602,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786972933.2916222,
+    "fills": 1
   }
 ]
