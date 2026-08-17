@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 04:10:52 (hora de Perú)
+Actualizado: 2026-08-17 04:12:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $781.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 04:10:52 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $601.65)
+**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $591.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
-| RN1 | 30 | 18 | 7 | -43.69 USD |
+| RN1 | 30 | 18 | 8 | -43.69 USD |
 | ferrariChampions2026 | 37 | 34 | 4 | -54.40 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -134,6 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Verbier Women: Micol Salvadori v | Alexandra Biot (BUY) | 96% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Prague: Jakub Paul vs Rudolf Molleker | Rudolf Molleker (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 70% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Gerard Campana Lee vs Theo Papamal | Gerard Campana Lee (BUY) | 78% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -163,4 +164,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 67% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ✅ ganada | +13.81 |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 9.8% | ✅ ganada | +13.26 |
-| HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ✅ ganada | +2.66 |
