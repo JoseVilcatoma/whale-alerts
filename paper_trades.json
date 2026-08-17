@@ -9120,8 +9120,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 7015.001,
-    "whale_pct": 4.658,
+    "whale_usd": 9740.7954,
+    "whale_pct": 6.469,
     "whale_value_at_open": 150586.0561,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -9131,8 +9131,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786983477.121114,
-    "fills": 1
+    "last_fill_at": 1786985213.9028702,
+    "fills": 2
   },
   {
     "timestamp": 1786983506,
@@ -9425,8 +9425,8 @@
     "title": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 962.2203000000001,
-    "whale_pct": 0.283,
+    "whale_usd": 3612.2203,
+    "whale_pct": 1.064,
     "whale_value_at_open": 339529.4681,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -9438,7 +9438,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786985134.9183826,
-    "fills": 1
+    "last_fill_at": 1786985146.419419,
+    "fills": 2
   }
 ]
