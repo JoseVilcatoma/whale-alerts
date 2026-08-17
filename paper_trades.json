@@ -10205,8 +10205,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 2175.4824,
-    "whale_pct": 0.677,
+    "whale_usd": 2879.862744,
+    "whale_pct": 0.897,
     "whale_value_at_open": 321168.4584,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -10216,8 +10216,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005304.8053062,
-    "fills": 1
+    "last_fill_at": 1787006010.9248636,
+    "fills": 2
   },
   {
     "timestamp": 1787005350,
@@ -10394,8 +10394,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 949.13,
-    "whale_pct": 0.292,
+    "whale_usd": 1839.115,
+    "whale_pct": 0.565,
     "whale_value_at_open": 325549.3277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10405,8 +10405,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005645.5296237,
-    "fills": 1
+    "last_fill_at": 1787005929.9312613,
+    "fills": 2
   },
   {
     "timestamp": 1787005651,
@@ -10453,5 +10453,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787005813.2981465,
     "fills": 1
+  },
+  {
+    "timestamp": 1787005933,
+    "timestamp_added": 1787005933.3647456,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bal-tb-2026-08-17",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 25503.658696000002,
+    "whale_pct": 7.328,
+    "whale_value_at_open": 348013.9104,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787005934.317146,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787006003,
+    "timestamp_added": 1787006003.682477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-chwalin-2026-08-17",
+    "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "whale_usd": 5870.638369,
+    "whale_pct": 1.572,
+    "whale_value_at_open": 373418.7134,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006015.3360665,
+    "fills": 3
   }
 ]
