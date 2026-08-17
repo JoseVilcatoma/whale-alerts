@@ -1,5 +1,5 @@
 {
-  "bankroll": 820.3656143047427,
+  "bankroll": 823.8791278182563,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2100,6 +2100,11 @@
       "timestamp": 1787008382.8629258,
       "bankroll": 820.37,
       "event": "won: HVAB \u2014 Cincinnati Open: Arthur Fery vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1787008868.3553813,
+      "bankroll": 823.88,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Jodar vs Tabilo"
     }
   ]
 }
