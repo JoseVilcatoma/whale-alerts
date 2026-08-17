@@ -11117,8 +11117,8 @@
     "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 4543.655844,
-    "whale_pct": 1.283,
+    "whale_usd": 8823.147619,
+    "whale_pct": 2.491,
     "whale_value_at_open": 354158.5182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11128,8 +11128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787008270.5200336,
-    "fills": 4
+    "last_fill_at": 1787009817.034805,
+    "fills": 6
   },
   {
     "timestamp": 1787008023,
