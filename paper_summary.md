@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 21:48:40 (hora de Perú)
+Actualizado: 2026-08-16 21:50:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $712.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 21:48:40 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $462.84)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $442.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
 | HomeRunHazard | 15 | 13 | 4 | -51.35 USD |
-| ferrariChampions2026 | 38 | 34 | 11 | -53.41 USD |
+| ferrariChampions2026 | 38 | 34 | 13 | -53.41 USD |
 | RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -131,9 +131,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 6.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 60% | 10.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 42% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -149,7 +151,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Dallas (-1.5) | Austin FC (BUY) | 67% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 0.8% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ⏳ pendiente | — |
@@ -159,5 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Ben Shelton vs Jaime Fa | Ben Shelton (BUY) | 61% | 10.00 | 4.9% | ❌ perdida | -10.00 |
 | HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Coco Gauff (BUY) | 74% | 10.00 | 3.6% | ✅ ganada | +3.51 |
 | HomeRunHazard | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 48% | 10.00 | 1.1% | ❌ perdida | -10.00 |
-| HomeRunHazard | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 63% | 10.00 | 7.6% | ✅ ganada | +5.87 |
-| HomeRunHazard | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 41% | 10.00 | 2.1% | ❌ perdida | -10.00 |
