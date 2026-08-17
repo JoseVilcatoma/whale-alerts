@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:12:56 (hora de Perú)
+Actualizado: 2026-08-17 10:15:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.11
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:12:56 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $295.11)
+**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $255.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 17 | 12 | 14 | -40.29 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 39 | 36 | 9 | -66.03 USD |
+| ferrariChampions2026 | 39 | 36 | 13 | -66.03 USD |
 
 ## Análisis general
 
@@ -127,6 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
+| atp-blockx-cobolli-2026-08-17 | ferrariChampions2026, swisstony |
 | mlb-atl-min-2026-08-17-spread-away-1pt5 | HomeRunHazard, SDTrading |
 | atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
@@ -138,23 +139,28 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-langmo-boitan-2026-08-17 | HomeRunHazard, RN1 |
 | atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
+| wta-parry-boisson-2026-08-17 | ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Stefano Napolitano (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Alexander Blockx (BUY) | 49% | 10.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics (BO3 | Natus Vincere (BUY) | 71% | 10.00 | 4.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.4% | ⏳ pendiente | — |
 | SDTrading | Spread: Atlanta Braves (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 16.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.1% | ⏳ pendiente | — |
 |  | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
-| swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Under (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 1.5 | Over (BUY) | 84% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -169,7 +175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Iliyan Radulov (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Gi | Anna Kmiecik (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 91% | 10.00 | 0.4% | ✅ ganada | +0.99 |
-| RN1 | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 48% | 10.00 | 5.8% | ⏳ pendiente | — |
-| HomeRunHazard | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 96% | 10.00 | 4.1% | ✅ ganada | +0.42 |
-|  | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 55% | 10.00 | 14.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: St. Louis Cardinals (-1.5) | Cincinnati Reds (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
