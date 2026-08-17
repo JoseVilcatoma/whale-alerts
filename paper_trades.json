@@ -10205,8 +10205,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 2879.862744,
-    "whale_pct": 0.897,
+    "whale_usd": 5180.533757,
+    "whale_pct": 1.613,
     "whale_value_at_open": 321168.4584,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -10216,8 +10216,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006010.9248636,
-    "fills": 2
+    "last_fill_at": 1787006533.3798504,
+    "fills": 4
   },
   {
     "timestamp": 1787005350,
@@ -10601,6 +10601,54 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787006387.9682734,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006426,
+    "timestamp_added": 1787006427.1379788,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 8130.898699999999,
+    "whale_pct": 2.289,
+    "whale_value_at_open": 355225.1223,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006427.1379855,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006426,
+    "timestamp_added": 1787006427.6227007,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bal-tb-2026-08-17-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 1370.3,
+    "whale_pct": 0.408,
+    "whale_value_at_open": 335497.9055,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006427.6227074,
     "fills": 1
   }
 ]
