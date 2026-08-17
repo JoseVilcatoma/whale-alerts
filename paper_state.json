@@ -1,5 +1,5 @@
 {
-  "bankroll": 728.6023979443526,
+  "bankroll": 736.4595408014955,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1730,6 +1730,11 @@
       "timestamp": 1786935786.7264307,
       "bankroll": 728.6,
       "event": "won: ferrariChampions2026 \u2014 Austin FC vs. FC Dallas: O/U 2.5"
+    },
+    {
+      "timestamp": 1786937094.5022118,
+      "bankroll": 736.46,
+      "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner"
     }
   ]
 }
