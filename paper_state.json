@@ -1,5 +1,5 @@
 {
-  "bankroll": 777.4670931742369,
+  "bankroll": 782.1729755271781,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1865,6 +1865,11 @@
       "timestamp": 1786977638.279317,
       "bankroll": 777.47,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans"
+    },
+    {
+      "timestamp": 1786978764.3196576,
+      "bankroll": 782.17,
+      "event": "won: RN1 \u2014 ITF W35 Verbier Women: Anna Lena Ebster vs Ines Delaloye"
     }
   ]
 }
