@@ -9581,5 +9581,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786989790.5713453,
     "fills": 1
+  },
+  {
+    "timestamp": 1786989993,
+    "timestamp_added": 1786989994.1630661,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-aae-cat-2026-08-17-spread-home-1pt5",
+    "title": "Spread: AA Estudiantes (-1.5)",
+    "outcome": "CA Tucum\u00e1n",
+    "side": "BUY",
+    "whale_usd": 703.9499999999999,
+    "whale_pct": 0.267,
+    "whale_value_at_open": 263647.8043,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786989994.1630764,
+    "fills": 1
   }
 ]
