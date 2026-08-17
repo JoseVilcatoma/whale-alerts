@@ -5279,5 +5279,20 @@
     "status": "pending",
     "ultimo_fill": 1786971290,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 735,
+    "timestamp": 1786976612,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bal-tb-2026-08-17",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 32934.672,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1786976612,
+    "fills": 1
   }
 ]
