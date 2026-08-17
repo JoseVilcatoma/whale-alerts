@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:46:20 (hora de Perú)
+Actualizado: 2026-08-17 10:48:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $787.05
-**Retorno acumulado:** -21.30%
+**Bankroll actual:** $787.25
+**Retorno acumulado:** -21.27%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:46:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $177.05)
+**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $187.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HVAB | 1 | 0 | 2 | +0.68 USD |
+| HVAB | 2 | 0 | 1 | +0.88 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
@@ -52,12 +52,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 362
-- **Aciertos:** 197 (54.4%)
-- **Cuota promedio de entrada:** 56.8%
+- **Apuestas resueltas:** 363
+- **Aciertos:** 198 (54.5%)
+- **Cuota promedio de entrada:** 56.9%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,620.00
-- **ROI sobre lo apostado:** -7.29%
+- **Total apostado (suma de stakes):** $3,630.00
+- **ROI sobre lo apostado:** -7.27%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 178 | 47.8% | 49.5% | -1.7 pp |
 | 60-79% | 101 | 65.3% | 69.0% | -3.6 pp |
 | 80-94% | 29 | 96.6% | 86.9% | +9.7 pp |
-| 95-99% (casi seguro) | 9 | 100.0% | 97.7% | +2.3 pp |
+| 95-99% (casi seguro) | 10 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -178,4 +178,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 2.4% | ⏳ pendiente | — |
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
-| HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
+| HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ✅ ganada | +0.20 |

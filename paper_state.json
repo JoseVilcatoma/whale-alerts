@@ -1,5 +1,5 @@
 {
-  "bankroll": 787.0469749496514,
+  "bankroll": 787.2510565823044,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1920,6 +1920,11 @@
       "timestamp": 1786980756.2276525,
       "bankroll": 787.05,
       "event": "lost: HomeRunHazard \u2014 Prague: Nerman Fatic vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786981631.8815665,
+      "bankroll": 787.25,
+      "event": "won: HVAB \u2014 ITF W35 Krakow Women: Gaia Maduzzi vs Sapfo Sakellaridi"
     }
   ]
 }
