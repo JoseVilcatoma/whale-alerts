@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:04:11 (hora de Perú)
+Actualizado: 2026-08-17 09:06:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $760.32
-**Retorno acumulado:** -23.97%
+**Bankroll actual:** $750.32
+**Retorno acumulado:** -24.97%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:04:11 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $340.32)
+**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $330.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
-|  | 0 | 0 | 1 | +0.00 USD |
+|  | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -46,16 +46,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 16 | 12 | 14 | -40.71 USD |
 | RN1 | 34 | 20 | 11 | -55.65 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 8 | -64.40 USD |
+| ferrariChampions2026 | 37 | 36 | 7 | -74.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 344
-- **Aciertos:** 183 (53.2%)
-- **Cuota promedio de entrada:** 55.9%
+- **Apuestas resueltas:** 345
+- **Aciertos:** 183 (53.0%)
+- **Cuota promedio de entrada:** 56.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,440.00
-- **ROI sobre lo apostado:** -8.43%
+- **Total apostado (suma de stakes):** $3,450.00
+- **ROI sobre lo apostado:** -8.69%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 175 | 46.9% | 49.5% | -2.7 pp |
 | 60-79% | 92 | 65.2% | 68.7% | -3.5 pp |
-| 80-94% | 24 | 100.0% | 86.5% | +13.5 pp |
+| 80-94% | 25 | 96.0% | 86.4% | +9.6 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -138,6 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 43% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 50% | 10.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Iliyan Radulov (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -167,4 +168,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W50 Prague Women: Valeriya Strakhova | Petra Sedlackova (BUY) | 65% | 10.00 | 3.2% | ❌ perdida | -10.00 |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Artem Aleks | Artem Alekseychuk (BUY) | 72% | 10.00 | 42.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Eduardo Ribeiro vs Sumit Nagal | Sumit Nagal (BUY) | 70% | 10.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 51% | 10.00 | 0.6% | ⏳ pendiente | — |

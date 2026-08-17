@@ -1,5 +1,5 @@
 {
-  "bankroll": 760.3232662248373,
+  "bankroll": 750.3232662248373,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1825,6 +1825,11 @@
       "timestamp": 1786971904.9928205,
       "bankroll": 760.32,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Bader Alabdullah vs Tomas Quesada Perez"
+    },
+    {
+      "timestamp": 1786975505.3490353,
+      "bankroll": 750.32,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner"
     }
   ]
 }
