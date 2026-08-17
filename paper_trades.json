@@ -8603,8 +8603,8 @@
     "title": "ITF W50 Prague Women: Gaeul Jang vs Brenda Fruhvirtova",
     "outcome": "Brenda Fruhvirtova",
     "side": "BUY",
-    "whale_usd": 535.77,
-    "whale_pct": 0.685,
+    "whale_usd": 2053.955,
+    "whale_pct": 2.624,
     "whale_value_at_open": 78266.0112,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
@@ -8614,8 +8614,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786965119.4060504,
-    "fills": 1
+    "last_fill_at": 1786968176.6187768,
+    "fills": 2
   },
   {
     "timestamp": 1786965329,
@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 720.37,
-    "whale_pct": 4.152,
+    "whale_usd": 1479.669,
+    "whale_pct": 8.529,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,7 +8823,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786967978.505825,
-    "fills": 1
+    "last_fill_at": 1786968226.3021774,
+    "fills": 2
   }
 ]
