@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:31:43 (hora de Perú)
+Actualizado: 2026-08-17 10:33:45 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $787.93
-**Retorno acumulado:** -21.21%
+**Bankroll actual:** $787.05
+**Retorno acumulado:** -21.30%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:31:43 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $177.93)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $217.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
+| swisstony | 6 | 1 | 11 | +10.75 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 5 | 1 | 12 | +9.39 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 1 | 0 | 2 | +0.68 USD |
@@ -43,20 +43,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
+| RN1 | 41 | 22 | 3 | -35.92 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 17 | 12 | 17 | -40.29 USD |
-| RN1 | 40 | 22 | 4 | -42.31 USD |
+| HomeRunHazard | 18 | 13 | 15 | -48.93 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 358
-- **Aciertos:** 194 (54.2%)
-- **Cuota promedio de entrada:** 56.6%
+- **Apuestas resueltas:** 362
+- **Aciertos:** 197 (54.4%)
+- **Cuota promedio de entrada:** 56.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,580.00
-- **ROI sobre lo apostado:** -7.35%
+- **Total apostado (suma de stakes):** $3,620.00
+- **ROI sobre lo apostado:** -7.29%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,8 +67,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 178 | 47.8% | 49.5% | -1.7 pp |
-| 60-79% | 99 | 65.7% | 68.9% | -3.3 pp |
-| 80-94% | 27 | 96.3% | 86.8% | +9.5 pp |
+| 60-79% | 101 | 65.3% | 69.0% | -3.6 pp |
+| 80-94% | 29 | 96.6% | 86.9% | +9.7 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.5% | ⏳ pendiente | — |
 |  | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
-| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 1.6% | ⏳ pendiente | — |
+| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 2.4% | ⏳ pendiente | — |
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |

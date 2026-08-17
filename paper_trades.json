@@ -8563,8 +8563,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.39,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8914,8 +8914,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 88,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "RN1"
     ],
@@ -8939,8 +8939,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 88,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -9461,8 +9461,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1",
       "swisstony"
@@ -9666,8 +9666,8 @@
     "title": "IF Gnistan vs. Tampereen Ilves: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2537.04,
-    "whale_pct": 1.618,
+    "whale_usd": 3813.33,
+    "whale_pct": 2.432,
     "whale_value_at_open": 156766.8636,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
@@ -9677,8 +9677,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786980621.5704014,
-    "fills": 2
+    "last_fill_at": 1786980770.8138072,
+    "fills": 3
   },
   {
     "timestamp": 1786979260,

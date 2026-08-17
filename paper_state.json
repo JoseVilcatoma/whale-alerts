@@ -1,5 +1,5 @@
 {
-  "bankroll": 787.9262595994278,
+  "bankroll": 787.0469749496514,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1900,6 +1900,26 @@
       "timestamp": 1786980387.7833908,
       "bankroll": 787.93,
       "event": "won: RN1 \u2014 ITF W35 Krakow Women: Anna Kmiecik vs Gina Marie Dittmann"
+    },
+    {
+      "timestamp": 1786980753.4138038,
+      "bankroll": 794.32,
+      "event": "won: RN1 \u2014 Prague: Nerman Fatic vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786980754.1660147,
+      "bankroll": 795.68,
+      "event": "won: HomeRunHazard \u2014 Prague: Nerman Fatic vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786980754.2662327,
+      "bankroll": 797.05,
+      "event": "won: swisstony \u2014 Prague: Nerman Fatic vs Matthew William Donald"
+    },
+    {
+      "timestamp": 1786980756.2276525,
+      "bankroll": 787.05,
+      "event": "lost: HomeRunHazard \u2014 Prague: Nerman Fatic vs Matthew William Donald"
     }
   ]
 }
