@@ -8741,8 +8741,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Artem Alekseychuk",
     "side": "BUY",
-    "whale_usd": 3810.21,
-    "whale_pct": 5.541,
+    "whale_usd": 13293.98826,
+    "whale_pct": 19.332,
     "whale_value_at_open": 68768.4715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -8752,7 +8752,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786967303.9817464,
-    "fills": 3
+    "last_fill_at": 1786967422.0931575,
+    "fills": 11
+  },
+  {
+    "timestamp": 1786967315,
+    "timestamp_added": 1786967315.8879979,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-strakho-sedlack-2026-08-17",
+    "title": "ITF W50 Prague Women: Valeriya Strakhova vs Petra Sedlackova",
+    "outcome": "Petra Sedlackova",
+    "side": "BUY",
+    "whale_usd": 2216.1000000000004,
+    "whale_pct": 3.223,
+    "whale_value_at_open": 68768.4715,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786967315.8880086,
+    "fills": 1
   }
 ]
