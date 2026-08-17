@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 07:49:49 (hora de Perú)
+Actualizado: 2026-08-17 11:16:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **350**  ($18,020,870 en total)
+- Apuestas registradas: **354**  ($18,184,024 en total)
 - Resueltas: **348** — 207 ganadas / 141 perdidas (**59%** de acierto)
-- Pendientes: 2
+- Pendientes: 6
 - Apostadores distintos: 109
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 18 | 0 | 64% | $2,863,907 | +$113,649 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 18 | 1 | 64% | $2,905,907 | +$113,649 |
 | sainttroplay | 10 | 4 | 0 | 71% | $2,092,133 | +$1,815,515 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -33,21 +33,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
+| pleaseplease123 | 5 | 2 | 1 | ⚠️ 71% (7) | $344,704 | +$64,948 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| pleaseplease123 | 5 | 2 | 0 | ⚠️ 71% (7) | $308,477 | +$64,948 |
+| Sassy-Bucket | 4 | 1 | 1 | ⚠️ 80% (5) | $297,029 | +$167,747 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
-| Sassy-Bucket | 4 | 1 | 0 | ⚠️ 80% (5) | $245,037 | +$167,747 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
+| SDTrading | 2 | 4 | 1 | ⚠️ 33% (6) | $194,497 | -$61,562 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 3edmond.dantes | 3 | 0 | 0 | ⚠️ 100% (3) | $162,760 | +$199,684 |
-| SDTrading | 2 | 4 | 0 | ⚠️ 33% (6) | $161,562 | -$61,562 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | xifutloong3 | 2 | 3 | 0 | ⚠️ 40% (5) | $156,469 | -$66,805 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 109 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
+| SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $32,935 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 2.00 (50¢) | $36,227 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: T1 vs DN SOOPers - Game 3 Winner | DN SOOPers | 1.47 (68¢) | $25,937 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
 | swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | +$7,347 | ✅ Ganada |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 109 en total)_
 | ratatatatatatatataaaa | Arsenal FC vs. Manchester City: O/U 2.5 | Under 2.5 | 2.22 (45¢) | $44,961 | -$44,961 | ❌ Perdida |
 | sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $105,903 | +$86,648 | ✅ Ganada |
 | sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.78 (36¢) | $58,448 | +$103,907 | ✅ Ganada |
-| lIlIlIllllIIIII | Counter-Strike: MOUZ vs PARIVISION - Map 2 Winner | MOUZ | 1.43 (70¢) | $29,290 | +$12,553 | ✅ Ganada |
-| sainttroplay | Will Arsenal FC win on 2026-08-16? | Yes | 2.86 (35¢) | $35,000 | +$65,000 | ✅ Ganada |
-| sainttroplay | Will Manchester City win on 2026-08-16? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
-| sainttroplay | Arsenal FC vs. Manchester City: O/U 2.5 | Over 2.5 | 1.85 (54¢) | $81,000 | +$69,000 | ✅ Ganada |

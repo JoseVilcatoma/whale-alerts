@@ -8557,8 +8557,8 @@
     "title": "Prague: Nerman Fatic vs Matthew William Donald",
     "outcome": "Nerman Fatic",
     "side": "BUY",
-    "whale_usd": 1290.6,
-    "whale_pct": 2.115,
+    "whale_usd": 2029.892964,
+    "whale_pct": 3.327,
     "whale_value_at_open": 61014.9594,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -8568,8 +8568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786964465.6180308,
-    "fills": 1
+    "last_fill_at": 1786976131.6734016,
+    "fills": 2
   },
   {
     "timestamp": 1786964766,
@@ -8649,8 +8649,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 162.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 648.9984,
-    "whale_pct": 0.831,
+    "whale_usd": 2001.9984,
+    "whale_pct": 2.564,
     "whale_value_at_open": 78089.9485,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -8660,8 +8660,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786965521.820629,
-    "fills": 1
+    "last_fill_at": 1786975784.248841,
+    "fills": 2
   },
   {
     "timestamp": 1786966706,
@@ -8695,8 +8695,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 163.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 506.245,
-    "whale_pct": 0.628,
+    "whale_usd": 1982.2473,
+    "whale_pct": 2.458,
     "whale_value_at_open": 80632.1959,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -8706,8 +8706,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786966824.1619904,
-    "fills": 1
+    "last_fill_at": 1786975764.1725986,
+    "fills": 2
   },
   {
     "timestamp": 1786966925,
@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 88724.669183,
-    "whale_pct": 511.411,
+    "whale_usd": 101497.78458299999,
+    "whale_pct": 585.035,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786971011.9124572,
-    "fills": 48
+    "last_fill_at": 1786971319.316971,
+    "fills": 54
   },
   {
     "timestamp": 1786968304,
@@ -8860,8 +8860,8 @@
     "title": "Prague 2: Eduardo Ribeiro vs Sumit Nagal",
     "outcome": "Sumit Nagal",
     "side": "BUY",
-    "whale_usd": 5247.515271999999,
-    "whale_pct": 4.568,
+    "whale_usd": 9339.265271999999,
+    "whale_pct": 8.131,
     "whale_value_at_open": 114866.0805,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -8873,8 +8873,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786968431.6259143,
-    "fills": 2
+    "last_fill_at": 1786974352.567497,
+    "fills": 4
   },
   {
     "timestamp": 1786968476,
@@ -8908,8 +8908,8 @@
     "title": "Prague: Nerman Fatic vs Matthew William Donald",
     "outcome": "Nerman Fatic",
     "side": "BUY",
-    "whale_usd": 696.22,
-    "whale_pct": 0.872,
+    "whale_usd": 1598.2815999999998,
+    "whale_pct": 2.002,
     "whale_value_at_open": 79820.4785,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 88,
@@ -8921,8 +8921,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786969593.2314188,
-    "fills": 1
+    "last_fill_at": 1786978621.0256574,
+    "fills": 2
   },
   {
     "timestamp": 1786969592,
