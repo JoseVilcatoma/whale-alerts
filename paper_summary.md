@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:30:55 (hora de Perú)
+Actualizado: 2026-08-17 05:32:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 05:30:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $691.65)
+**Capital comprometido ahora mismo:** $100.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $671.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,9 +41,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 5 | -41.35 USD |
-| RN1 | 30 | 18 | 0 | -43.69 USD |
+| RN1 | 30 | 18 | 1 | -43.69 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 37 | 35 | 2 | -64.40 USD |
+| ferrariChampions2026 | 37 | 35 | 3 | -64.40 USD |
 
 ## Análisis general
 
@@ -128,6 +128,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -156,5 +158,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 63% | 10.00 | 7.6% | ✅ ganada | +5.87 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros | Houston Astros (BUY) | 41% | 10.00 | 2.1% | ❌ perdida | -10.00 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 55% | 10.00 | 0.7% | ❌ perdida | -10.00 |
-| HomeRunHazard | Cincinnati Open: Coco Gauff vs Liudmila  | Liudmila Samsonova (BUY) | 57% | 10.00 | 0.3% | ❌ perdida | -10.00 |
-| HomeRunHazard | Spread: Seattle Mariners (-1.5) | Houston Astros (BUY) | 58% | 10.00 | 0.7% | ✅ ganada | +7.24 |
