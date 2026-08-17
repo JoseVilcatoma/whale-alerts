@@ -7891,5 +7891,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786929054.8442633,
     "fills": 2
+  },
+  {
+    "timestamp": 1786929113,
+    "timestamp_added": 1786929114.4882612,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-shelton-faria-2026-08-16",
+    "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "whale_usd": 9977.220000000001,
+    "whale_pct": 4.876,
+    "whale_value_at_open": 204601.8565,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786929115.0050142,
+    "fills": 2
   }
 ]
