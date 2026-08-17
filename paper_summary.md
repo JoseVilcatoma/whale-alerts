@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 15:23:10 (hora de Perú)
+Actualizado: 2026-08-17 15:25:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $804.13
-**Retorno acumulado:** -19.59%
+**Bankroll actual:** $790.11
+**Retorno acumulado:** -20.99%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 15:23:10 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $234.13)
+**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $260.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 11 | 2 | 2 | +36.06 USD |
+| swisstony | 12 | 2 | 1 | +38.88 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 1 | +11.28 USD |
@@ -46,16 +46,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 43 | 39 | -105.10 USD |
+| ferrariChampions2026 | 49 | 45 | 36 | -121.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 386
-- **Aciertos:** 214 (55.4%)
-- **Cuota promedio de entrada:** 57.6%
+- **Apuestas resueltas:** 390
+- **Aciertos:** 216 (55.4%)
+- **Cuota promedio de entrada:** 57.8%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,860.00
-- **ROI sobre lo apostado:** -6.38%
+- **Total apostado (suma de stakes):** $3,900.00
+- **ROI sobre lo apostado:** -6.67%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,8 +66,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 185 | 48.1% | 49.5% | -1.4 pp |
-| 60-79% | 112 | 67.0% | 68.9% | -2.0 pp |
-| 80-94% | 34 | 91.2% | 87.0% | +4.2 pp |
+| 60-79% | 115 | 67.0% | 69.1% | -2.2 pp |
+| 80-94% | 35 | 88.6% | 86.9% | +1.6 pp |
 | 95-99% (casi seguro) | 10 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -164,9 +164,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Elche CF (-1.5) | RC Deportivo A Coruña (BUY) | 99% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | James Watt (BUY) | 76% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | James Watt (BUY) | 76% | 10.00 | 0.4% | ✅ ganada | +3.16 |
 | ferrariChampions2026 | Kingston: Garrett Johns vs Timo Legout | Timo Legout (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Cirstea vs Kalinskaya | Cirstea (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Cirstea vs Kalinskaya | Cirstea (BUY) | 85% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Will Elche CF win on 2026-08-17? | No (BUY) | 73% | 10.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Oleksandr Ovcharenko (BUY) | 54% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AA Estudiantes win on 2026-08-17? | No (BUY) | 92% | 10.00 | 0.5% | ✅ ganada | +0.87 |
