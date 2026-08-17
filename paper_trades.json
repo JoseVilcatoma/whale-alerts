@@ -9942,8 +9942,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 4504.1912729999995,
-    "whale_pct": 1.454,
+    "whale_usd": 7636.619091,
+    "whale_pct": 2.465,
     "whale_value_at_open": 309806.0937,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -9955,8 +9955,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787004532.2249408,
-    "fills": 4
+    "last_fill_at": 1787004938.9301693,
+    "fills": 7
   },
   {
     "timestamp": 1787004432,
@@ -10013,8 +10013,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 10407.6016,
-    "whale_pct": 3.256,
+    "whale_usd": 19661.3616,
+    "whale_pct": 6.152,
     "whale_value_at_open": 319605.4121,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10024,8 +10024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787004648.0717747,
-    "fills": 2
+    "last_fill_at": 1787004845.668338,
+    "fills": 4
   },
   {
     "timestamp": 1787004660,
