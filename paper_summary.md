@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:08:58 (hora de Perú)
+Actualizado: 2026-08-17 11:11:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $767.25
-**Retorno acumulado:** -23.27%
+**Bankroll actual:** $767.56
+**Retorno acumulado:** -23.24%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:08:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $670.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $97.25)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $107.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,13 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
+| swisstony | 7 | 1 | 17 | +10.85 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 6 | 1 | 17 | +10.75 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HVAB | 2 | 0 | 1 | +0.88 USD |
+| HVAB | 3 | 0 | 0 | +1.08 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 4 | +0.00 USD |
@@ -52,12 +52,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 365
-- **Aciertos:** 198 (54.2%)
-- **Cuota promedio de entrada:** 56.9%
+- **Apuestas resueltas:** 367
+- **Aciertos:** 200 (54.5%)
+- **Cuota promedio de entrada:** 57.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,650.00
-- **ROI sobre lo apostado:** -7.77%
+- **Total apostado (suma de stakes):** $3,670.00
+- **ROI sobre lo apostado:** -7.72%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 180 | 47.2% | 49.5% | -2.3 pp |
 | 60-79% | 101 | 65.3% | 69.0% | -3.6 pp |
 | 80-94% | 29 | 96.6% | 86.9% | +9.7 pp |
-| 95-99% (casi seguro) | 10 | 100.0% | 97.7% | +2.3 pp |
+| 95-99% (casi seguro) | 12 | 100.0% | 97.8% | +2.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -149,9 +149,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 5.5 | Under (BUY) | 58% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: BK Hacken (-1.5) | BK Hacken (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Maria Sakkari (BUY) | 50% | 10.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 54% | 10.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 54% | 10.00 | 2.0% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 75% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Maria Sakkari (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 48% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -163,8 +164,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 7.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
-| swisstony | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 99% | 10.00 | 0.5% | ⏳ pendiente | — |
-| HVAB | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 98% | 10.00 | 2542.2% | ⏳ pendiente | — |
+| swisstony | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 99% | 10.00 | 0.5% | ✅ ganada | +0.10 |
+| HVAB | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 98% | 10.00 | 2542.2% | ✅ ganada | +0.20 |
 | swisstony | Will IF Gnistan win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 98% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-7.5) | Golden State Valkyries (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -178,4 +179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics (BO3 | Natus Vincere (BUY) | 71% | 10.00 | 4.3% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
