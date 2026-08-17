@@ -10488,8 +10488,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 16294.609729000002,
-    "whale_pct": 4.364,
+    "whale_usd": 20219.570528000004,
+    "whale_pct": 5.415,
     "whale_value_at_open": 373418.7134,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -10501,8 +10501,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006710.5285456,
-    "fills": 8
+    "last_fill_at": 1787006837.6658978,
+    "fills": 10
   },
   {
     "timestamp": 1787006073,
