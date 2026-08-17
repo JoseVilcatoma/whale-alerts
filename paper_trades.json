@@ -10955,5 +10955,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787002861.2013924,
     "fills": 4
+  },
+  {
+    "timestamp": 1787002956,
+    "timestamp_added": 1787002957.568454,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-lad-col-2026-08-17-spread-away-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 1433.3842,
+    "whale_pct": 0.9,
+    "whale_value_at_open": 159259.0094,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 63,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787002957.5684643,
+    "fills": 1
   }
 ]
