@@ -1,5 +1,5 @@
 {
-  "bankroll": 732.3834273192315,
+  "bankroll": 713.3234367665626,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1675,6 +1675,31 @@
       "timestamp": 1786934039.1677544,
       "bankroll": 732.38,
       "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 6.5"
+    },
+    {
+      "timestamp": 1786934102.836766,
+      "bankroll": 722.38,
+      "event": "lost: ferrariChampions2026 \u2014 Seattle Mariners vs. Houston Astros: O/U 5.5"
+    },
+    {
+      "timestamp": 1786934164.8415556,
+      "bankroll": 726.08,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1786934165.1303363,
+      "bankroll": 733.32,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1786934165.6412065,
+      "bankroll": 723.32,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1786934167.331329,
+      "bankroll": 713.32,
+      "event": "lost: HomeRunHazard \u2014 Spread: Seattle Mariners (-1.5)"
     }
   ]
 }
