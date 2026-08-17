@@ -9051,8 +9051,8 @@
     "title": "Pisa SC vs. Empoli FC: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 724.519998,
-    "whale_pct": 0.301,
+    "whale_usd": 1302.697998,
+    "whale_pct": 0.541,
     "whale_value_at_open": 240964.3546,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9062,8 +9062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786983302.909344,
-    "fills": 1
+    "last_fill_at": 1786983994.316203,
+    "fills": 2
   },
   {
     "timestamp": 1786983329,
