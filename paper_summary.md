@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 09:56:18 (hora de Perú)
+Actualizado: 2026-08-17 09:58:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $777.47
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 09:56:18 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $347.47)
+**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $337.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 4 | 1 | 6 | +8.40 USD |
+| swisstony | 4 | 1 | 7 | +8.40 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 1 | 0 | 1 | +0.68 USD |
@@ -139,6 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Under (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 1.5 | Over (BUY) | 84% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -168,4 +169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ✅ ganada | +0.87 |
 | swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Nerman Fatic (BUY) | 88% | 10.00 | 0.9% | ⏳ pendiente | — |
