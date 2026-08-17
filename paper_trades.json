@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 64142.37392900001,
-    "whale_pct": 369.718,
+    "whale_usd": 88724.669183,
+    "whale_pct": 511.411,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786970901.8298016,
-    "fills": 36
+    "last_fill_at": 1786971011.9124572,
+    "fills": 48
   },
   {
     "timestamp": 1786968304,
@@ -9028,8 +9028,8 @@
     "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 2122.245,
-    "whale_pct": 40.568,
+    "whale_usd": 3572.505,
+    "whale_pct": 68.29,
     "whale_value_at_open": 5231.356,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -9039,7 +9039,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786970897.626788,
-    "fills": 2
+    "last_fill_at": 1786970949.7171857,
+    "fills": 3
   }
 ]
