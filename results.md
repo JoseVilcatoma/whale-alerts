@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 18:13:47 (hora de Perú)
+Actualizado: 2026-08-17 18:15:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **376**  ($19,391,446 en total)
-- Resueltas: **360** — 213 ganadas / 147 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **361** — 214 ganadas / 147 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$777,347** sobre $18,565,265 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,212** sobre $35,200 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$813,347** sobre $18,629,265 apostados (ROI **+4.4%**)
+- Copiando $100 fijo en cada una: **-$1,156** sobre $35,300 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 33 | 20 | 4 | 62% | $3,302,517 | +$57,890 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 34 | 20 | 3 | 63% | $3,302,517 | +$93,890 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | — | ⏳ Pendiente |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | -$56,444 | ❌ Perdida |
 | olegio | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.79 (56¢) | $28,854 | +$22,671 | ✅ Ganada |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | -$71,181 | ❌ Perdida |
