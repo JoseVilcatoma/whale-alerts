@@ -10215,8 +10215,8 @@
     "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
     "outcome": "Lois Boisson",
     "side": "BUY",
-    "whale_usd": 6836.9974999999995,
-    "whale_pct": 6.394,
+    "whale_usd": 7603.653020999999,
+    "whale_pct": 7.111,
     "whale_value_at_open": 106926.5273,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -10229,8 +10229,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786980937.3865986,
-    "fills": 1
+    "last_fill_at": 1786982542.4763446,
+    "fills": 2
   },
   {
     "timestamp": 1786981214,
@@ -10316,8 +10316,8 @@
     "title": "IF Gnistan vs. Tampereen Ilves: O/U 4.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2570.3628,
-    "whale_pct": 1.282,
+    "whale_usd": 5991.8028,
+    "whale_pct": 2.988,
     "whale_value_at_open": 200502.4035,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10327,8 +10327,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786982222.960311,
-    "fills": 3
+    "last_fill_at": 1786982526.312594,
+    "fills": 7
   },
   {
     "timestamp": 1786982129,
@@ -10400,6 +10400,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786982333.2761288,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786982465,
+    "timestamp_added": 1786982466.2313983,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-swiatek-sakkari-2026-08-17",
+    "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+    "outcome": "Maria Sakkari",
+    "side": "BUY",
+    "whale_usd": 979.68,
+    "whale_pct": 0.454,
+    "whale_value_at_open": 215942.3941,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786982466.2314107,
     "fills": 1
   }
 ]
