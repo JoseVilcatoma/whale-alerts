@@ -1,5 +1,5 @@
 {
-  "bankroll": 763.6336859816633,
+  "bankroll": 776.3609587089361,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1735,6 +1735,11 @@
       "timestamp": 1786941268.8064594,
       "bankroll": 763.63,
       "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1786942195.664449,
+      "bankroll": 776.36,
+      "event": "won: IMAREALPERSON \u2014 LoL: LYON vs Sentinels (BO3) - LCS Regular Season"
     }
   ]
 }
