@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:30:19 (hora de Perú)
+Actualizado: 2026-08-16 22:32:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $736.46
@@ -142,9 +142,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 60% | 10.00 | 2.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 94% | 10.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 59% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 13.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 22.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 9.3% | ⏳ pendiente | — |
