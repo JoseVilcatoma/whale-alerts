@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:10:59 (hora de Perú)
+Actualizado: 2026-08-17 05:13:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $762.25
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | Map Handicap: BW (-1.5) vs Inner Circle  | Bushido Wildcats (BUY) | 41% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Oscar Moraing vs Eli | Oscar Moraing (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | DN SOOPers (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 95% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 95% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Beatrise Zeltina v | Barbora Palicova (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 94% | 10.00 | 0.9% | ⏳ pendiente | — |
