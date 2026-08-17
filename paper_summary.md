@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:08:09 (hora de Perú)
+Actualizado: 2026-08-16 23:10:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $715.71
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 23:08:09 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $365.71)
+**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $355.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | ferrariChampions2026 | 41 | 35 | 15 | -42.03 USD |
-| RN1 | 27 | 18 | 1 | -50.57 USD |
+| RN1 | 27 | 18 | 2 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 16 | 15 | 3 | -64.68 USD |
 
@@ -137,6 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Taipei Men: Manish Sureshkumar v | Manish Sureshkumar (BUY) | 62% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 66% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 4.5 | Under (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 2.5 | Over (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -166,4 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 41% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 42% | 10.00 | 1.4% | ❌ perdida | -10.00 |
 | WTSA | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 61% | 10.00 | 14.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 64% | 10.00 | 3.6% | ✅ ganada | +5.62 |

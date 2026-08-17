@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 53439.52777299999,
-    "whale_pct": 22.629,
+    "whale_usd": 54444.84221699999,
+    "whale_pct": 23.055,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786939689.1355023,
-    "fills": 26
+    "last_fill_at": 1786939693.5154448,
+    "fills": 27
   },
   {
     "timestamp": 1786931539,
@@ -9042,6 +9042,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786939639.5649874,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786939757,
+    "timestamp_added": 1786939757.7196386,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-sureshk-koyam-2026-08-17",
+    "title": "ITF M25 Taipei Men: Manish Sureshkumar vs Hiromasa Koyama",
+    "outcome": "Manish Sureshkumar",
+    "side": "BUY",
+    "whale_usd": 1047.98,
+    "whale_pct": 0.767,
+    "whale_value_at_open": 136608.7203,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786939757.7196498,
     "fills": 1
   }
 ]
