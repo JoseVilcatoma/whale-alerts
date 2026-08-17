@@ -8492,8 +8492,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.89,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8557,8 +8557,8 @@
     "title": "Prague: Nerman Fatic vs Matthew William Donald",
     "outcome": "Nerman Fatic",
     "side": "BUY",
-    "whale_usd": 1290.6,
-    "whale_pct": 2.115,
+    "whale_usd": 2029.892964,
+    "whale_pct": 3.327,
     "whale_value_at_open": 61014.9594,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -8568,8 +8568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786964465.6180308,
-    "fills": 1
+    "last_fill_at": 1786976131.6734016,
+    "fills": 2
   },
   {
     "timestamp": 1786964766,
