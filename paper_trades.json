@@ -10587,8 +10587,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 3392.9705000000004,
-    "whale_pct": 1.011,
+    "whale_usd": 3899.9952820000003,
+    "whale_pct": 1.162,
     "whale_value_at_open": 335497.9055,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10600,8 +10600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007225.9061697,
-    "fills": 4
+    "last_fill_at": 1787007605.9647462,
+    "fills": 5
   },
   {
     "timestamp": 1787006426,
@@ -10911,5 +10911,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787007514.2119617,
     "fills": 1
+  },
+  {
+    "timestamp": 1787007594,
+    "timestamp_added": 1787007594.5935392,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-int-cre-2026-08-17-total-2pt5",
+    "title": "SC Internacional vs. Clube do Remo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1703.91,
+    "whale_pct": 0.496,
+    "whale_value_at_open": 343534.6258,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787007602.6376722,
+    "fills": 2
   }
 ]
