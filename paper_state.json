@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.5695221235499,
+  "bankroll": 776.5695221235499,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1945,6 +1945,21 @@
       "timestamp": 1786990522.4315746,
       "bankroll": 806.57,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Blockx vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1786991210.387357,
+      "bankroll": 796.57,
+      "event": "lost: swisstony \u2014 Cincinnati Open: Diane Parry vs Lois Boisson"
+    },
+    {
+      "timestamp": 1786991211.138904,
+      "bankroll": 786.57,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Diane Parry vs Lois Boisson"
+    },
+    {
+      "timestamp": 1786991211.3391824,
+      "bankroll": 776.57,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Diane Parry vs Lois Boisson"
     }
   ]
 }
