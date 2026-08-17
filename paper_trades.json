@@ -9321,8 +9321,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10085,6 +10085,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786980088.6115298,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786980413,
+    "timestamp_added": 1786980414.3243465,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-filip-hardt-2026-08-17",
+    "title": "Prague 2: Jakub Filip vs Nick Hardt",
+    "outcome": "Nick Hardt",
+    "side": "BUY",
+    "whale_usd": 1310.9962,
+    "whale_pct": 1.231,
+    "whale_value_at_open": 106496.6506,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786980414.3243544,
     "fills": 1
   }
 ]

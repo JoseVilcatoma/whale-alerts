@@ -1,5 +1,5 @@
 {
-  "bankroll": 785.105746778915,
+  "bankroll": 787.9262595994278,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1895,6 +1895,11 @@
       "timestamp": 1786979755.8750014,
       "bankroll": 785.11,
       "event": "lost: RN1 \u2014 ITF M15 Lambermont Men: Henri Haupt vs Matthew Carroll"
+    },
+    {
+      "timestamp": 1786980387.7833908,
+      "bankroll": 787.93,
+      "event": "won: RN1 \u2014 ITF W35 Krakow Women: Anna Kmiecik vs Gina Marie Dittmann"
     }
   ]
 }

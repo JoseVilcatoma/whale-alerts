@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:25:32 (hora de Perú)
+Actualizado: 2026-08-17 10:27:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $785.11
-**Retorno acumulado:** -21.49%
+**Bankroll actual:** $787.93
+**Retorno acumulado:** -21.21%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:25:32 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $215.11)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $217.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,19 +44,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 17 | 12 | 15 | -40.29 USD |
-| RN1 | 39 | 22 | 5 | -45.13 USD |
+| HomeRunHazard | 17 | 12 | 16 | -40.29 USD |
+| RN1 | 40 | 22 | 4 | -42.31 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 357
-- **Aciertos:** 193 (54.1%)
-- **Cuota promedio de entrada:** 56.5%
+- **Apuestas resueltas:** 358
+- **Aciertos:** 194 (54.2%)
+- **Cuota promedio de entrada:** 56.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,570.00
-- **ROI sobre lo apostado:** -7.45%
+- **Total apostado (suma de stakes):** $3,580.00
+- **ROI sobre lo apostado:** -7.35%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 178 | 47.8% | 49.5% | -1.7 pp |
-| 60-79% | 98 | 65.3% | 68.9% | -3.6 pp |
+| 60-79% | 99 | 65.7% | 68.9% | -3.3 pp |
 | 80-94% | 27 | 96.3% | 86.8% | +9.5 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 97.7% | +2.3 pp |
 
@@ -139,6 +139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-langmo-boitan-2026-08-17 | HomeRunHazard, RN1 |
 | atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | atp-tirante-landalu-2026-08-17 | , ferrariChampions2026 |
+| atp-filip-hardt-2026-08-17 | HomeRunHazard, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
 | wta-parry-boisson-2026-08-17 | ferrariChampions2026, swisstony |
 
@@ -146,6 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 98% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-7.5) | Golden State Valkyries (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -175,4 +177,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anna Lena Ebster  | Ines Delaloye (BUY) | 68% | 10.00 | 0.7% | ✅ ganada | +4.71 |
 |  | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 43% | 10.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
