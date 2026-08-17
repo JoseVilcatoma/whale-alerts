@@ -8741,8 +8741,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Artem Alekseychuk",
     "side": "BUY",
-    "whale_usd": 27271.074467000002,
-    "whale_pct": 39.656,
+    "whale_usd": 29429.414467000002,
+    "whale_pct": 42.795,
     "whale_value_at_open": 68768.4715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -8752,8 +8752,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786969870.9146128,
-    "fills": 25
+    "last_fill_at": 1786970053.8919902,
+    "fills": 28
   },
   {
     "timestamp": 1786967315,
@@ -8810,8 +8810,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Tiago Boschmans",
     "side": "BUY",
-    "whale_usd": 8047.370011000001,
-    "whale_pct": 46.385,
+    "whale_usd": 14174.880011000001,
+    "whale_pct": 81.704,
     "whale_value_at_open": 17349.0032,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8823,8 +8823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786969950.8560073,
-    "fills": 9
+    "last_fill_at": 1786970103.4218981,
+    "fills": 12
   },
   {
     "timestamp": 1786968304,
@@ -8971,6 +8971,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786969954.472797,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786970091,
+    "timestamp_added": 1786970092.4630861,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ambrogi-krutykh-2026-08-17",
+    "title": "Prague: Luciano Emanuel Ambrogi vs Oleksii Krutykh",
+    "outcome": "Oleksii Krutykh",
+    "side": "BUY",
+    "whale_usd": 522.0,
+    "whale_pct": 0.409,
+    "whale_value_at_open": 127488.5536,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 92,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786970092.4630923,
     "fills": 1
   }
 ]
