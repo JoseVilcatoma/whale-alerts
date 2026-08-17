@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:51:43 (hora de Perú)
+Actualizado: 2026-08-17 11:53:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $797.43
-**Retorno acumulado:** -20.26%
+**Bankroll actual:** $797.53
+**Retorno acumulado:** -20.25%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 11:51:43 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $457.43)
+**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $467.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 5 | 1 | 9 | +9.76 USD |
+| swisstony | 6 | 1 | 8 | +9.86 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -49,12 +49,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 356
-- **Aciertos:** 193 (54.2%)
-- **Cuota promedio de entrada:** 56.4%
+- **Apuestas resueltas:** 357
+- **Aciertos:** 194 (54.3%)
+- **Cuota promedio de entrada:** 56.5%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,560.00
-- **ROI sobre lo apostado:** -7.10%
+- **Total apostado (suma de stakes):** $3,570.00
+- **ROI sobre lo apostado:** -7.08%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 178 | 47.8% | 49.5% | -1.7 pp |
 | 60-79% | 97 | 66.0% | 68.7% | -2.8 pp |
 | 80-94% | 28 | 96.4% | 86.8% | +9.7 pp |
-| 95-99% (casi seguro) | 8 | 100.0% | 97.9% | +2.1 pp |
+| 95-99% (casi seguro) | 9 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -153,7 +153,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 5.5 | Under (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: FA Siauliai (-1.5) | FK Panevezys (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 71% | 10.00 | 7.6% | ⏳ pendiente | — |
-| swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ⏳ pendiente | — |
+| swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ✅ ganada | +0.10 |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 3.5 | Under (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
