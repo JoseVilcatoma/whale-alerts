@@ -1,5 +1,5 @@
 {
-  "bankroll": 736.4595408014955,
+  "bankroll": 739.6174355383375,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1735,6 +1735,11 @@
       "timestamp": 1786937094.5022118,
       "bankroll": 736.46,
       "event": "won: casualbet2020 \u2014 Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner"
+    },
+    {
+      "timestamp": 1786938044.1973078,
+      "bankroll": 739.62,
+      "event": "won: RN1 \u2014 Will Liverpool FC vs. Como 1907 end in a draw?"
     }
   ]
 }
