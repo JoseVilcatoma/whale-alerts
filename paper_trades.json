@@ -10287,8 +10287,8 @@
     "title": "Kingston: Harold Mayot vs Gustavo Heide",
     "outcome": "Harold Mayot",
     "side": "BUY",
-    "whale_usd": 4408.569141,
-    "whale_pct": 1.468,
+    "whale_usd": 6356.209140999999,
+    "whale_pct": 2.116,
     "whale_value_at_open": 300320.5796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -10298,8 +10298,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786996949.954675,
-    "fills": 4
+    "last_fill_at": 1786997898.2123864,
+    "fills": 5
   },
   {
     "timestamp": 1786994720,
@@ -10381,8 +10381,8 @@
     "title": "RC Deportivo A Coru\u00f1a vs. Elche CF: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4069.1495000000004,
-    "whale_pct": 1.346,
+    "whale_usd": 4701.5805,
+    "whale_pct": 1.556,
     "whale_value_at_open": 302242.7743,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -10392,8 +10392,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786995589.295978,
-    "fills": 2
+    "last_fill_at": 1786997885.5912786,
+    "fills": 3
   },
   {
     "timestamp": 1786995189,
@@ -10671,6 +10671,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786997488.9931295,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786997885,
+    "timestamp_added": 1786997886.2231343,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-dep-elc-2026-08-17-spread-home-1pt5",
+    "title": "Spread: RC Deportivo A Coru\u00f1a (-1.5)",
+    "outcome": "Elche CF",
+    "side": "BUY",
+    "whale_usd": 688.1800000000001,
+    "whale_pct": 0.228,
+    "whale_value_at_open": 301987.797,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786997886.2231445,
     "fills": 1
   }
 ]
