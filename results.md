@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 16:23:52 (hora de Perú)
+Actualizado: 2026-08-17 16:25:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **370**  ($18,947,104 en total)
-- Resueltas: **351** — 209 ganadas / 142 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **356** — 211 ganadas / 145 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 113
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,052,097** sobre $18,063,482 apostados (ROI **+5.8%**)
-- Copiando $100 fijo en cada una: **-$980** sobre $34,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$819,310** sobre $18,410,704 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$1,126** sobre $34,800 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| 3edmond.dantes | 3 | 0 | 3 | ⚠️ 100% (3) | $445,270 | +$199,684 |
+| 3edmond.dantes | 3 | 3 | 0 | ⚠️ 50% (6) | $445,270 | -$82,826 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | pleaseplease123 | 5 | 2 | 2 | ⚠️ 71% (7) | $380,477 | +$64,948 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | — | ⏳ Pendiente |
-| olegio | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.79 (56¢) | $28,854 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | — | ⏳ Pendiente |
-| Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | -$56,444 | ❌ Perdida |
+| olegio | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.79 (56¢) | $28,854 | +$22,671 | ✅ Ganada |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | -$71,181 | ❌ Perdida |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | -$154,885 | ❌ Perdida |
+| Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | +$27,051 | ✅ Ganada |
 | sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | — | ⏳ Pendiente |
