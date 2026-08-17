@@ -9917,8 +9917,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 4210.71,
-    "whale_pct": 1.605,
+    "whale_usd": 7501.37,
+    "whale_pct": 2.859,
     "whale_value_at_open": 262418.2344,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -9930,8 +9930,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786992239.5665312,
-    "fills": 1
+    "last_fill_at": 1787001418.0877056,
+    "fills": 2
   },
   {
     "timestamp": 1786992860,
@@ -10247,8 +10247,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10822,8 +10822,8 @@
     "title": "Cincinnati Open: Magdalena Frech vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 26974.627711999998,
-    "whale_pct": 9.023,
+    "whale_usd": 29632.587044,
+    "whale_pct": 9.912,
     "whale_value_at_open": 298967.9796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10833,8 +10833,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001365.8188958,
-    "fills": 11
+    "last_fill_at": 1787001478.554164,
+    "fills": 13
   },
   {
     "timestamp": 1787000582,

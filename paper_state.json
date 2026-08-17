@@ -1,5 +1,5 @@
 {
-  "bankroll": 775.7684268967314,
+  "bankroll": 775.8694369977414,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2075,6 +2075,11 @@
       "timestamp": 1787000974.7501125,
       "bankroll": 775.77,
       "event": "won: SineNooneEI \u2014 LoL: GIANTX vs Karmine Corp - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787001534.5141594,
+      "bankroll": 775.87,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Elche CF (-1.5)"
     }
   ]
 }
