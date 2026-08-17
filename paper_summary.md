@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 05:55:10 (hora de Perú)
+Actualizado: 2026-08-17 05:57:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.65
@@ -129,7 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 73% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 73% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Prague: Radu Mihai Papoe vs Matyas Cerny | Radu Mihai Papoe (BUY) | 97% | 10.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Maria Michaela Fi | Cristina Pescucci (BUY) | 72% | 10.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
