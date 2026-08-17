@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 17:18:06 (hora de Perú)
+Actualizado: 2026-08-17 17:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **373**  ($19,286,446 en total)
+- Apuestas registradas: **374**  ($19,323,446 en total)
 - Resueltas: **356** — 211 ganadas / 145 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 114
 
 ### Balance
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | xifutloong3 | 2 | 3 | 0 | ⚠️ 40% (5) | $156,469 | -$66,805 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
+| Kulilun | 0 | 0 | 2 | — | $143,960 | — |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 0 | ⚠️ 100% (3) | $139,000 | +$61,772 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -61,7 +62,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
-| Kulilun | 0 | 0 | 1 | — | $106,960 | — |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.33 (75¢) | $106,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | — | ⏳ Pendiente |
 | Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 1.67 (60¢) | $50,000 | +$22,500 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Ugo Humbert vs Michael Zheng | Michael Zheng | 1.19 (84¢) | $25,427 | +$4,843 | ✅ Ganada |
 | 007theone1 | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.41 (71¢) | $68,921 | +$28,151 | ✅ Ganada |
-| HVAB | Cincinnati Open: Christopher O'Connell vs Casper Ruud | Christopher O'Connell | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
