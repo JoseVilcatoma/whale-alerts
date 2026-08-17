@@ -8747,8 +8747,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8816,8 +8816,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 13.81,
     "overlaps_with": [
       "RN1"
     ],
@@ -8841,8 +8841,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 13.81,
     "overlaps_with": [
       "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000"
     ],
@@ -9518,5 +9518,28 @@
     "last_fill_at": 1786976753.8162916,
     "fills": 1,
     "closed_price": 94
+  },
+  {
+    "timestamp": 1786977640,
+    "timestamp_added": 1786977640.6831868,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-stl-cin-2026-05-24-total-9pt5",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 51992.122,
+    "whale_pct": 394.299,
+    "whale_value_at_open": 13185.9591,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786977640.683195,
+    "fills": 1
   }
 ]

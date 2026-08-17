@@ -1,5 +1,5 @@
 {
-  "bankroll": 759.8480455551892,
+  "bankroll": 777.4670931742369,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1850,6 +1850,21 @@
       "timestamp": 1786977040.6979346,
       "bankroll": 759.85,
       "event": "venta anticipada: HVAB \u2014 ITF W35 Verbier Women: Madhurima Sawant vs Luisa Hrda (+0.68 USD)"
+    },
+    {
+      "timestamp": 1786977637.9788408,
+      "bankroll": 749.85,
+      "event": "lost: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans"
+    },
+    {
+      "timestamp": 1786977638.179162,
+      "bankroll": 763.66,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans"
+    },
+    {
+      "timestamp": 1786977638.279317,
+      "bankroll": 777.47,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans"
     }
   ]
 }
