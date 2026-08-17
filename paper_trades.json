@@ -9714,8 +9714,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 2393.2308000000003,
-    "whale_pct": 1.497,
+    "whale_usd": 3638.2408000000005,
+    "whale_pct": 2.276,
     "whale_value_at_open": 159829.9423,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -9725,8 +9725,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786979817.2043116,
-    "fills": 2
+    "last_fill_at": 1786982009.1982648,
+    "fills": 3
   },
   {
     "timestamp": 1786979409,
@@ -10267,8 +10267,8 @@
     "title": "LoL: Natus Vincere vs Team Heretics - Game 2 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 2401.805714,
-    "whale_pct": 60.761,
+    "whale_usd": 3765.805714,
+    "whale_pct": 95.268,
     "whale_value_at_open": 3952.8416,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -10278,8 +10278,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786981493.3665874,
-    "fills": 2
+    "last_fill_at": 1786982054.317868,
+    "fills": 3
   },
   {
     "timestamp": 1786981518,
@@ -10305,6 +10305,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786981519.2831495,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786982012,
+    "timestamp_added": 1786982013.0902057,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "fin1-gni-ilv-2026-08-17-total-4pt5",
+    "title": "IF Gnistan vs. Tampereen Ilves: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1033.6000000000001,
+    "whale_pct": 0.516,
+    "whale_value_at_open": 200502.4035,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786982013.0902128,
     "fills": 1
   }
 ]
