@@ -10440,8 +10440,8 @@
     "title": "Will CSyD Defensa y Justicia win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1398.5,
-    "whale_pct": 0.421,
+    "whale_usd": 2030.25,
+    "whale_pct": 0.612,
     "whale_value_at_open": 331870.7965,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 95,
@@ -10451,8 +10451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007721.5167844,
-    "fills": 2
+    "last_fill_at": 1787011097.7335253,
+    "fills": 3
   },
   {
     "timestamp": 1787005933,
