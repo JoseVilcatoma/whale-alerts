@@ -9955,5 +9955,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786993012.164375,
     "fills": 2
+  },
+  {
+    "timestamp": 1786993058,
+    "timestamp_added": 1786993058.98096,
+    "username": "alaskabaked",
+    "wallet": "0xaa7789219c17e180dcb5933099c90d885f1d15a5",
+    "slug": "mlb-stl-cin-2026-05-24",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 4999.999999,
+    "whale_pct": 46.763,
+    "whale_value_at_open": 10692.1475,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786993058.9809704,
+    "fills": 1
   }
 ]
