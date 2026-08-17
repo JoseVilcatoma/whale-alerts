@@ -8476,5 +8476,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786962815.8220308,
     "fills": 5
+  },
+  {
+    "timestamp": 1786962990,
+    "timestamp_added": 1786962991.2520602,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-fiacan-pescucc-2026-08-17",
+    "title": "ITF W35 Verbier Women: Maria Michaela Fiacan vs Cristina Pescucci",
+    "outcome": "Cristina Pescucci",
+    "side": "BUY",
+    "whale_usd": 2440.5,
+    "whale_pct": 4.878,
+    "whale_value_at_open": 50029.235,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786962994.1057107,
+    "fills": 2
   }
 ]
