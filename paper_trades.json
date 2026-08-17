@@ -8620,5 +8620,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786956556.291161,
     "fills": 2
+  },
+  {
+    "timestamp": 1786957627,
+    "timestamp_added": 1786957627.5872133,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-pau-molleke-2026-08-17",
+    "title": "Prague: Jakub Paul vs Rudolf Molleker",
+    "outcome": "Rudolf Molleker",
+    "side": "BUY",
+    "whale_usd": 984.9037999999999,
+    "whale_pct": 2.45,
+    "whale_value_at_open": 40192.2449,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786957627.5872233,
+    "fills": 1
   }
 ]
