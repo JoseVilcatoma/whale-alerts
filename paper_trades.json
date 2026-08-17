@@ -8446,8 +8446,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8540,8 +8540,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.7,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8741,8 +8741,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
     "outcome": "Artem Alekseychuk",
     "side": "BUY",
-    "whale_usd": 17702.86106,
-    "whale_pct": 25.743,
+    "whale_usd": 25626.987567000004,
+    "whale_pct": 37.266,
     "whale_value_at_open": 68768.4715,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
@@ -8752,8 +8752,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786967579.8457892,
-    "fills": 15
+    "last_fill_at": 1786967978.4312184,
+    "fills": 23
   },
   {
     "timestamp": 1786967315,
@@ -8799,6 +8799,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786967457.173005,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786967978,
+    "timestamp_added": 1786967978.505818,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "itf-aleksey-boschma-2026-08-17",
+    "title": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
+    "outcome": "Tiago Boschmans",
+    "side": "BUY",
+    "whale_usd": 720.37,
+    "whale_pct": 4.152,
+    "whale_value_at_open": 17349.0032,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786967978.505825,
     "fills": 1
   }
 ]

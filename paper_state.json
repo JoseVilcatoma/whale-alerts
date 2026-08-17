@@ -1,5 +1,5 @@
 {
-  "bankroll": 772.5971761336177,
+  "bankroll": 766.295806270604,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1800,6 +1800,16 @@
       "timestamp": 1786967456.7242112,
       "bankroll": 772.6,
       "event": "won: RN1 \u2014 Prague: Radu Mihai Papoe vs Matyas Cerny"
+    },
+    {
+      "timestamp": 1786968027.162663,
+      "bankroll": 762.6,
+      "event": "lost: RN1 \u2014 Prague: Andrej Martin vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1786968027.7677407,
+      "bankroll": 766.3,
+      "event": "won: RN1 \u2014 Prague: Andrej Martin vs Javier Barranco Cosano"
     }
   ]
 }
