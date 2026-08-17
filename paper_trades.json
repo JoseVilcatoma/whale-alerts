@@ -10257,5 +10257,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786981214.6465478,
     "fills": 1
+  },
+  {
+    "timestamp": 1786981447,
+    "timestamp_added": 1786981447.629978,
+    "username": "GreenBerry1337",
+    "wallet": "0x91667e40b80c447050904b042f3b85d22fc6b479",
+    "slug": "lol-navi-th-2026-08-17-game2",
+    "title": "LoL: Natus Vincere vs Team Heretics - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 1768.705714,
+    "whale_pct": 44.745,
+    "whale_value_at_open": 3952.8416,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786981447.6299858,
+    "fills": 1
   }
 ]
