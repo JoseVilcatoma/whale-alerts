@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.105746778915,
+  "bankroll": 785.105746778915,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1890,6 +1890,11 @@
       "timestamp": 1786978887.394936,
       "bankroll": 795.11,
       "event": "won: swisstony \u2014 Prague 2: Eduardo Ribeiro vs Sumit Nagal"
+    },
+    {
+      "timestamp": 1786979755.8750014,
+      "bankroll": 785.11,
+      "event": "lost: RN1 \u2014 ITF M15 Lambermont Men: Henri Haupt vs Matthew Carroll"
     }
   ]
 }
