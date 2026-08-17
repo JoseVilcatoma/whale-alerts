@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:06:40 (hora de Perú)
+Actualizado: 2026-08-17 10:08:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.11
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:06:40 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $395.11)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $365.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,13 +27,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 5 | 1 | 6 | +9.39 USD |
+| swisstony | 5 | 1 | 8 | +9.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 1 | 0 | 1 | +0.68 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 1 | +0.00 USD |
-|  | 0 | 0 | 3 | +0.00 USD |
+|  | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 2 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -129,6 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
 | atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
+| wnba-dal-gsv-2026-08-17-total-163pt5 | , HomeRunHazard |
 | atp-ribeiro-nagal-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026, swisstony |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
 | mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, HomeRunHazard |
@@ -139,7 +140,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 1.9% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.1% | ⏳ pendiente | — |
+|  | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
+| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
+|  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Under (BUY) | 63% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -166,6 +170,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 78% | 10.00 | 7.3% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
-| SDTrading | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Oleksii Krutykh (BUY) | 92% | 10.00 | 0.4% | ✅ ganada | +0.87 |
-| swisstony | Will Casa Pia AC win on 2026-08-16? | No (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
