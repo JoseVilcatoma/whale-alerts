@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:44:50 (hora de Perú)
+Actualizado: 2026-08-17 17:07:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $795.99
-**Retorno acumulado:** -20.40%
+**Bankroll actual:** $791.74
+**Retorno acumulado:** -20.83%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 13:44:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $445.99)
+**Capital comprometido ahora mismo:** $210.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $581.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,11 +21,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
+| swisstony | 12 | 2 | 1 | +38.88 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 7 | 2 | 6 | +10.69 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
@@ -39,23 +39,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
-| SineNooneEI | 0 | 2 | 1 | -20.00 USD |
+| SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 43 | 40 | 16 | -87.87 USD |
+| ferrariChampions2026 | 48 | 45 | 8 | -122.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 374
-- **Aciertos:** 205 (54.8%)
-- **Cuota promedio de entrada:** 57.1%
+- **Apuestas resueltas:** 390
+- **Aciertos:** 216 (55.4%)
+- **Cuota promedio de entrada:** 57.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,740.00
-- **ROI sobre lo apostado:** -6.80%
+- **Total apostado (suma de stakes):** $3,900.00
+- **ROI sobre lo apostado:** -6.63%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,10 +65,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 183 | 48.1% | 49.6% | -1.5 pp |
-| 60-79% | 106 | 66.0% | 68.9% | -2.9 pp |
-| 80-94% | 31 | 93.5% | 86.9% | +6.6 pp |
-| 95-99% (casi seguro) | 9 | 100.0% | 98.0% | +2.0 pp |
+| 40-59% | 186 | 47.8% | 49.5% | -1.7 pp |
+| 60-79% | 115 | 67.0% | 69.1% | -2.2 pp |
+| 80-94% | 34 | 91.2% | 86.6% | +4.5 pp |
+| 95-99% (casi seguro) | 10 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -135,28 +135,31 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
+| wta-cirstea-kalinsk-2026-08-17 | alaskabaked, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Elias Ymer (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 51% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 60% | 10.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Cancun: Gauthier Onclin vs James McCabe | Gauthier Onclin (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | Tristan Boyer (BUY) | 75% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | Tristan Boyer (BUY) | 75% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 47% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Miguel Tobon vs Paulo Andre Sa | Paulo Andre Saraiva Dos Santos (BUY) | 62% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Under (BUY) | 76% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Over (BUY) | 48% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Miguel Tobon vs Paulo Andre Sa | Paulo Andre Saraiva Dos Santos (BUY) | 62% | 10.00 | 1.1% | ✅ ganada | +6.13 |
+| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Under (BUY) | 76% | 10.00 | 1.1% | ✅ ganada | +3.16 |
+| ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.4% | ❌ perdida | -10.00 |
+| ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ✅ ganada | +3.70 |
+| ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ❌ perdida | -10.00 |
+| ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ✅ ganada | +1.76 |
+| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Over (BUY) | 48% | 10.00 | 0.3% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 55% | 10.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA Tucumán (BUY) | 97% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA Tucumán (BUY) | 97% | 10.00 | 0.3% | ✅ ganada | +0.31 |
 | alaskabaked | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 50% | 10.00 | 26.5% | ⏳ pendiente | — |
-| SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ⏳ pendiente | — |
+| SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ✅ ganada | +2.50 |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 52% | 10.00 | 17.5% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 43% | 10.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 67% | 10.00 | 1.7% | ✅ ganada | +4.93 |
@@ -168,5 +171,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W50 Prague Women: Jana Kovackova vs  | Jana Kovackova (BUY) | 82% | 10.00 | 0.6% | ✅ ganada | +2.20 |
 | HomeRunHazard | Roehampton: Lucas Poullain vs Max Basing | Lucas Poullain (BUY) | 50% | 10.00 | 0.3% | ✅ ganada | +10.00 |
 | ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 55% | 10.00 | 0.2% | ✅ ganada | +8.18 |
-| ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 73% | 10.00 | 0.9% | ✅ ganada | +3.70 |
-| HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 78% | 10.00 | 2.9% | ✅ ganada | +2.82 |

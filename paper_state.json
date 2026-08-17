@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.9872953615478,
+  "bankroll": 791.7409669424981,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1975,6 +1975,86 @@
       "timestamp": 1786992283.3112507,
       "bankroll": 795.99,
       "event": "won: HomeRunHazard \u2014 Roehampton: Lucas Poullain vs Max Basing"
+    },
+    {
+      "timestamp": 1787004322.387729,
+      "bankroll": 798.81,
+      "event": "won: swisstony \u2014 Pisa SC vs. Empoli FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787004322.7164512,
+      "bankroll": 811.03,
+      "event": "won: swisstony \u2014 Spread: FA Siauliai (-1.5)"
+    },
+    {
+      "timestamp": 1787004323.0343993,
+      "bankroll": 815.74,
+      "event": "won: swisstony \u2014 IF Gnistan vs. Tampereen Ilves: O/U 5.5"
+    },
+    {
+      "timestamp": 1787004323.3281026,
+      "bankroll": 818.56,
+      "event": "won: swisstony \u2014 Will FC Universitatea Cluj vs. FC UTA Arad end in a draw?"
+    },
+    {
+      "timestamp": 1787004323.6223688,
+      "bankroll": 824.18,
+      "event": "won: swisstony \u2014 Pisa SC vs. Empoli FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787004324.197064,
+      "bankroll": 826.68,
+      "event": "won: SineNooneEI \u2014 LoL: GIANTX vs Karmine Corp - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787004324.598095,
+      "bankroll": 826.99,
+      "event": "won: ferrariChampions2026 \u2014 Spread: AA Estudiantes (-1.5)"
+    },
+    {
+      "timestamp": 1787004325.086292,
+      "bankroll": 816.99,
+      "event": "lost: ferrariChampions2026 \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787004325.3965015,
+      "bankroll": 818.76,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Benjamin Hassan vs Leo Raquillet"
+    },
+    {
+      "timestamp": 1787004325.7015128,
+      "bankroll": 808.76,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston: Kenta Miyoshi vs Roger Pascual Ferra"
+    },
+    {
+      "timestamp": 1787004326.0227795,
+      "bankroll": 812.45,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Nicolas Arseneault vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1787004326.3129203,
+      "bankroll": 802.45,
+      "event": "lost: ferrariChampions2026 \u2014 Will Real Sporting de Gij\u00f3n vs. CE Sabadell FC end in a draw?"
+    },
+    {
+      "timestamp": 1787004326.413065,
+      "bankroll": 805.61,
+      "event": "won: ferrariChampions2026 \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787004326.7223854,
+      "bankroll": 811.74,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Miguel Tobon vs Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "timestamp": 1787004327.1280353,
+      "bankroll": 801.74,
+      "event": "lost: ferrariChampions2026 \u2014 Quebec City: Tristan Boyer vs James Watt"
+    },
+    {
+      "timestamp": 1787004327.6330802,
+      "bankroll": 791.74,
+      "event": "lost: ferrariChampions2026 \u2014 Will CA Tucum\u00e1n win on 2026-08-17?"
     }
   ]
 }
