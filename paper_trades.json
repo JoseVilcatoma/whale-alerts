@@ -10333,8 +10333,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Anna Kalinskaya",
     "side": "BUY",
-    "whale_usd": 6602.979046999999,
-    "whale_pct": 2.175,
+    "whale_usd": 7690.463364999999,
+    "whale_pct": 2.533,
     "whale_value_at_open": 303630.7694,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10346,8 +10346,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787000891.154329,
-    "fills": 6
+    "last_fill_at": 1787001304.6372435,
+    "fills": 7
   },
   {
     "timestamp": 1786994956,
@@ -10822,8 +10822,8 @@
     "title": "Cincinnati Open: Magdalena Frech vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 26245.304352,
-    "whale_pct": 8.779,
+    "whale_usd": 26974.627711999998,
+    "whale_pct": 9.023,
     "whale_value_at_open": 298967.9796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10833,8 +10833,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001242.7165527,
-    "fills": 10
+    "last_fill_at": 1787001365.8188958,
+    "fills": 11
   },
   {
     "timestamp": 1787000582,

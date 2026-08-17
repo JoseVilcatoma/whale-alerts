@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 16:14:52 (hora de Perú)
+Actualizado: 2026-08-17 16:16:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $775.77
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 41% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Palermo FC vs. US Lecce: O/U 2.5 | Under (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Magdalena Frech vs Elen | Elena Rybakina (BUY) | 82% | 10.00 | 8.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Magdalena Frech vs Elen | Elena Rybakina (BUY) | 82% | 10.00 | 9.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Paul Jubb (BUY) | 49% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UD Almería vs. CD Eldense: O/U 4.5 | Under (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Stefanos Sakellaridis vs Ka | Karl Poling (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -166,7 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will RC Deportivo A Coruña vs. Elche CF  | No (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | RC Deportivo A Coruña vs. Elche CF: O/U  | Over (BUY) | 81% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 89% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | No (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
