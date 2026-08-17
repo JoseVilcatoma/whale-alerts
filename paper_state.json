@@ -1,5 +1,5 @@
 {
-  "bankroll": 812.4377263044993,
+  "bankroll": 805.2582391250121,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1910,6 +1910,16 @@
       "timestamp": 1786988697.1771746,
       "bankroll": 812.44,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Iga Swiatek vs Maria Sakkari"
+    },
+    {
+      "timestamp": 1786989826.25763,
+      "bankroll": 815.26,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce"
+    },
+    {
+      "timestamp": 1786989889.2700021,
+      "bankroll": 805.26,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs DN SOOPers - Game 2 Winner"
     }
   ]
 }
