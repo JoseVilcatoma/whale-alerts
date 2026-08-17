@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 16:23:13 (hora de Perú)
+Actualizado: 2026-08-17 16:25:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $764.73
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 16:23:13 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $264.73)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $254.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | +0.00 USD |
 | alaskabaked | 0 | 0 | 2 | +0.00 USD |
+| HVAB | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -135,7 +136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
-| wta-cirstea-kalinsk-2026-08-17 | alaskabaked, ferrariChampions2026 |
+| wta-cirstea-kalinsk-2026-08-17 | HVAB, alaskabaked, ferrariChampions2026 |
 | lal-dep-elc-2026-08-17-dep | 3edmond.dantes, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24 | alaskabaked, ferrariChampions2026 |
 
@@ -143,7 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 41% | 10.00 | 5.2% | ⏳ pendiente | — |
+| HVAB | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 64% | 10.00 | 310.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 41% | 10.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Palermo FC vs. US Lecce: O/U 2.5 | Under (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Magdalena Frech vs Elen | Elena Rybakina (BUY) | 82% | 10.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Elias Ymer vs Paul Jubb | Paul Jubb (BUY) | 49% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -172,4 +174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Elche CF (-1.5) | RC Deportivo A Coruña (BUY) | 99% | 10.00 | 0.6% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Quebec City: Tristan Boyer vs James Watt | James Watt (BUY) | 76% | 10.00 | 0.4% | ✅ ganada | +3.16 |
-| ferrariChampions2026 | Kingston: Garrett Johns vs Timo Legout | Timo Legout (BUY) | 66% | 10.00 | 0.2% | ❌ perdida | -10.00 |

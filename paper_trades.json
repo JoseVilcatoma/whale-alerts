@@ -10868,8 +10868,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 13637.4647,
-    "whale_pct": 5.208,
+    "whale_usd": 17086.816371,
+    "whale_pct": 6.526,
     "whale_value_at_open": 261846.8047,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10881,7 +10881,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001683.853312,
-    "fills": 6
+    "last_fill_at": 1787001898.1521003,
+    "fills": 8
+  },
+  {
+    "timestamp": 1787001824,
+    "timestamp_added": 1787001825.4473453,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-cirstea-kalinsk-2026-08-17",
+    "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+    "outcome": "Sorana Cirstea",
+    "side": "BUY",
+    "whale_usd": 9999.99,
+    "whale_pct": 310.277,
+    "whale_value_at_open": 3222.9186,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 64,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787001825.8758225,
+    "fills": 2
   }
 ]
