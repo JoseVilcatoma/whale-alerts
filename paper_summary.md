@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 11:45:35 (hora de Perú)
+Actualizado: 2026-08-17 11:47:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $797.43
@@ -137,7 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Alexander Blockx (BUY) | 54% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Alexander Blockx (BUY) | 54% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Viktor Durasovic vs Manoj Dh | Viktor Durasovic (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will FC Universitatea Cluj vs. FC UTA Ar | No (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 5.5 | Under (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: FA Siauliai (-1.5) | FK Panevezys (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 71% | 10.00 | 4.7% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 71% | 10.00 | 6.5% | ⏳ pendiente | — |
 | swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Pisa SC vs. Empoli FC: O/U 3.5 | Under (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
