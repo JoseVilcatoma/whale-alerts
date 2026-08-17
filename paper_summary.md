@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:19:37 (hora de Perú)
+Actualizado: 2026-08-17 13:21:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.57
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 13:19:37 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $486.57)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $456.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 42 | 39 | 9 | -86.05 USD |
+| ferrariChampions2026 | 42 | 39 | 12 | -86.05 USD |
 
 ## Análisis general
 
@@ -138,6 +138,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kingston: Miguel Tobon vs Paulo Andre Sa | Paulo Andre Saraiva Dos Santos (BUY) | 62% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Under (BUY) | 76% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Real Sporting de Gijón vs. CE Sabad | No (BUY) | 46% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Nicolas Arseneault vs Trist | Tristan Schoolkate (BUY) | 73% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -165,6 +168,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Spread: FA Siauliai (-1.5) | FK Panevezys (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 71% | 10.00 | 9.2% | ✅ ganada | +4.08 |
 | swisstony | Roehampton: Anton Shepp vs Mark Ceban | Mark Ceban (BUY) | 99% | 10.00 | 4.6% | ✅ ganada | +0.10 |
-| swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Pisa SC vs. Empoli FC: O/U 3.5 | Under (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
-| MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ✅ ganada | +6.39 |
