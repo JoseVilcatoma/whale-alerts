@@ -8348,8 +8348,8 @@
     "title": "ITF W35 Verbier Women: Micol Salvadori vs Alexandra Biot",
     "outcome": "Micol Salvadori",
     "side": "BUY",
-    "whale_usd": 1340.3727,
-    "whale_pct": 2.812,
+    "whale_usd": 2574.3527,
+    "whale_pct": 5.402,
     "whale_value_at_open": 47659.8039,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -8359,8 +8359,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786952460.178601,
-    "fills": 2
+    "last_fill_at": 1786954494.0155897,
+    "fills": 3
   },
   {
     "timestamp": 1786951481,
