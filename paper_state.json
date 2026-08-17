@@ -1,5 +1,5 @@
 {
-  "bankroll": 763.0359407514109,
+  "bankroll": 765.2310627026304,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2130,6 +2130,11 @@
       "timestamp": 1787003164.3680594,
       "bankroll": 763.04,
       "event": "venta anticipada: HVAB \u2014 Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya (-0.62 USD)"
+    },
+    {
+      "timestamp": 1787003659.7308705,
+      "bankroll": 765.23,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Magdalena Frech vs Elena Rybakina"
     }
   ]
 }
