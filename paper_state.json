@@ -1,5 +1,5 @@
 {
-  "bankroll": 742.3834273192315,
+  "bankroll": 732.3834273192315,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1670,6 +1670,11 @@
       "timestamp": 1786933029.3855414,
       "bankroll": 742.38,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Coco Gauff vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1786934039.1677544,
+      "bankroll": 732.38,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Houston Astros: O/U 6.5"
     }
   ]
 }
