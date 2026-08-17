@@ -9273,5 +9273,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786984503.9128957,
     "fills": 2
+  },
+  {
+    "timestamp": 1786984613,
+    "timestamp_added": 1786984613.8504863,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-napolit-blanche-2026-08-17",
+    "title": "Quebec City: Stefano Napolitano vs Ugo Blanchet",
+    "outcome": "Ugo Blanchet",
+    "side": "BUY",
+    "whale_usd": 551.229999,
+    "whale_pct": 0.158,
+    "whale_value_at_open": 348456.0793,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786984613.850522,
+    "fills": 1
   }
 ]
