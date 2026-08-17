@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 20:52:10 (hora de Perú)
+Actualizado: 2026-08-16 20:54:15 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $768.87
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 20:52:10 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $518.87)
+**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $498.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | Sassy-Bucket | 4 | 6 | 1 | +0.12 USD |
 | casualbet2020 | 0 | 0 | 2 | +0.00 USD |
+| WTSA | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -40,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 9 | 1 | -27.06 USD |
-| ferrariChampions2026 | 37 | 33 | 5 | -44.40 USD |
+| ferrariChampions2026 | 37 | 33 | 6 | -44.40 USD |
 | RN1 | 26 | 18 | 1 | -53.73 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -119,12 +120,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-por-phx-2026-08-16 | HomeRunHazard, Sassy-Bucket |
 | lol-ly-sen-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake |
 | val-c9-eg2-2026-08-16-game2 | IMAREALPERSON, casualbet2020, ferrariChampions2026 |
+| mls-sea-vwh-2026-08-16-vwh | WTSA, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 73% | 10.00 | 0.8% | ⏳ pendiente | — |
+| WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Dallas (-1.5) | Austin FC (BUY) | 67% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -152,5 +156,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: G2 Esports vs Fnatic (BO3) - LEC Re | Fnatic (BUY) | 47% | 10.00 | 100.6% | 💰 vendida anticipada | +10.00 |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 52% | 10.00 | 58.2% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ✅ ganada | +10.41 |
-| Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 10.1% | ❌ perdida | -10.00 |
-| IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ❌ perdida | -10.00 |
