@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 21:46:35 (hora de Perú)
+Actualizado: 2026-08-16 21:48:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $712.84
@@ -133,12 +133,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 5.5% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 60% | 10.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 5.9% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 60% | 10.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Lorenzo Sonego (BUY) | 42% | 10.00 | 1.4% | ⏳ pendiente | — |
 | WTSA | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 61% | 10.00 | 14.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 64% | 10.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Lorenzo Sonego vs Franc | Frances Tiafoe (BUY) | 64% | 10.00 | 3.6% | ⏳ pendiente | — |
 | HomeRunHazard | Sonego vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 81% | 10.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 91% | 10.00 | 0.3% | ✅ ganada | +0.99 |
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Dallas (-1.5) | Austin FC (BUY) | 67% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Vancouver Whitecaps FC win on 2026- | No (BUY) | 51% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Cloud9 (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 0.8% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ⏳ pendiente | — |

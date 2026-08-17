@@ -8070,8 +8070,8 @@
     "title": "Will Vancouver Whitecaps FC win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1156.73,
-    "whale_pct": 0.433,
+    "whale_usd": 2010.23,
+    "whale_pct": 0.753,
     "whale_value_at_open": 267107.9666,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -8081,8 +8081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786931069.7651439,
-    "fills": 1
+    "last_fill_at": 1786934823.0553136,
+    "fills": 2
   },
   {
     "timestamp": 1786931325,
@@ -8329,8 +8329,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 7439.661574000001,
-    "whale_pct": 2.994,
+    "whale_usd": 8951.416431000001,
+    "whale_pct": 3.602,
     "whale_value_at_open": 248507.3939,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -8340,8 +8340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934705.927086,
-    "fills": 8
+    "last_fill_at": 1786934807.7070527,
+    "fills": 9
   },
   {
     "timestamp": 1786932863,
@@ -8423,8 +8423,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 4782.2417000000005,
-    "whale_pct": 2.726,
+    "whale_usd": 8787.844700000001,
+    "whale_pct": 5.01,
     "whale_value_at_open": 175416.139,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -8436,8 +8436,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934794.7825441,
-    "fills": 3
+    "last_fill_at": 1786934807.823155,
+    "fills": 5
   },
   {
     "timestamp": 1786933650,
@@ -8448,8 +8448,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Evil Geniuses",
     "side": "BUY",
-    "whale_usd": 13059.683702999997,
-    "whale_pct": 5.498,
+    "whale_usd": 13956.683702999997,
+    "whale_pct": 5.875,
     "whale_value_at_open": 237548.4908,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -8459,8 +8459,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934602.4795141,
-    "fills": 12
+    "last_fill_at": 1786934877.4976118,
+    "fills": 13
   },
   {
     "timestamp": 1786933857,
