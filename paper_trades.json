@@ -8499,5 +8499,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786955089.8262994,
     "fills": 1
+  },
+  {
+    "timestamp": 1786955224,
+    "timestamp_added": 1786955224.5229237,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-wiedenm-cigarra-2026-08-17",
+    "title": "Sion: Luca Wiedenmann vs Thiago Cigarran",
+    "outcome": "Luca Wiedenmann",
+    "side": "BUY",
+    "whale_usd": 3370.25,
+    "whale_pct": 9.419,
+    "whale_value_at_open": 35781.6729,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786955224.5229318,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786955259,
+    "timestamp_added": 1786955259.6612742,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gerardc-papamal-2026-08-17",
+    "title": "Sion: Gerard Campana Lee vs Theo Papamalamis",
+    "outcome": "Gerard Campana Lee",
+    "side": "BUY",
+    "whale_usd": 1460.994652,
+    "whale_pct": 4.083,
+    "whale_value_at_open": 35781.6729,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 79,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786955259.6612833,
+    "fills": 1
   }
 ]
