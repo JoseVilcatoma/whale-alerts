@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 04:21:12 (hora de Perú)
+Actualizado: 2026-08-17 04:23:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $773.41
-**Retorno acumulado:** -22.66%
+**Bankroll actual:** $771.84
+**Retorno acumulado:** -22.82%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 04:21:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $573.41)
+**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $581.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 0 | -20.00 USD |
-| 111111111115 | 11 | 11 | 2 | -23.43 USD |
+| 111111111115 | 11 | 12 | 1 | -25.01 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 4 | -41.35 USD |
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | LoL: T1 vs DN SOOPers - Game 1 Winner | T1 (BUY) | 57% | 10.00 | 71.3% | ⏳ pendiente | — |
+| 111111111115 | LoL: T1 vs DN SOOPers - Game 1 Winner | T1 (BUY) | 57% | 10.00 | 71.3% | 💰 vendida anticipada | -1.58 |
 | 111111111115 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 45% | 10.00 | 6.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Dino Moloko | Dino Molokova Ferreira (BUY) | 78% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Micol Salvadori v | Alexandra Biot (BUY) | 96% | 10.00 | 1.4% | ⏳ pendiente | — |
