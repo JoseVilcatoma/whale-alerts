@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 16:33:36 (hora de Perú)
+Actualizado: 2026-08-17 16:35:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $753.25
-**Retorno acumulado:** -24.67%
+**Bankroll actual:** $763.66
+**Retorno acumulado:** -23.63%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 16:33:36 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $263.25)
+**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $273.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 12 | 2 | 1 | +38.88 USD |
+| swisstony | 12 | 2 | 2 | +38.88 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -47,16 +47,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 55 | 50 | 33 | -151.29 USD |
+| ferrariChampions2026 | 56 | 50 | 32 | -140.88 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 403
-- **Aciertos:** 223 (55.3%)
+- **Apuestas resueltas:** 404
+- **Aciertos:** 224 (55.4%)
 - **Cuota promedio de entrada:** 58.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,030.00
-- **ROI sobre lo apostado:** -7.37%
+- **Total apostado (suma de stakes):** $4,040.00
+- **ROI sobre lo apostado:** -7.09%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,7 +66,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 190 | 47.4% | 49.5% | -2.2 pp |
+| 40-59% | 191 | 47.6% | 49.5% | -1.9 pp |
 | 60-79% | 120 | 66.7% | 69.3% | -2.6 pp |
 | 80-94% | 37 | 89.2% | 86.6% | +2.6 pp |
 | 95-99% (casi seguro) | 11 | 100.0% | 98.0% | +2.0 pp |
@@ -144,6 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | CA Lanús vs. CA Independiente: O/U 3.5 | Under (BUY) | 51% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 65% | 10.00 | 1.5% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 64% | 10.00 | 310.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 41% | 10.00 | 10.4% | ⏳ pendiente | — |
@@ -155,7 +156,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: ENJOY vs HAVU (BO3) - CC | ENJOY (BUY) | 87% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 74% | 10.00 | 1.7% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Spread: RC Deportivo A Coruña (-1.5) | Elche CF (BUY) | 78% | 10.00 | 0.2% | ✅ ganada | +2.82 |
-| ferrariChampions2026 | Quebec City: Stefanos Sakellaridis vs Ka | Stefanos Sakellaridis (BUY) | 85% | 10.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Stefanos Sakellaridis vs Ka | Stefanos Sakellaridis (BUY) | 85% | 10.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Dan Martin vs Lautaro Midon | Lautaro Midon (BUY) | 93% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 4.5 | Under (BUY) | 94% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 121.4% | ⏳ pendiente | — |
@@ -171,6 +172,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 89% | 10.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sorana Cirstea vs Anna  | Anna Kalinskaya (BUY) | 41% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | No (BUY) | 43% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Harold Mayot vs Gustavo Heide | Harold Mayot (BUY) | 49% | 10.00 | 2.1% | ✅ ganada | +10.41 |
 | ferrariChampions2026 | Spread: Wrexham AFC (-1.5) | Cardiff City FC (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Elche CF (-1.5) | RC Deportivo A Coruña (BUY) | 99% | 10.00 | 0.6% | ✅ ganada | +0.10 |
