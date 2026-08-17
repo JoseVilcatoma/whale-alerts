@@ -7692,8 +7692,8 @@
     "title": "Valorant: Cloud9 vs Evil Geniuses - Map 1 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 4834.5,
-    "whale_pct": 20.219,
+    "whale_usd": 10353.748,
+    "whale_pct": 43.302,
     "whale_value_at_open": 23910.7303,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -7703,7 +7703,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786925891.8965828,
-    "fills": 1
+    "last_fill_at": 1786926104.7576587,
+    "fills": 2
   }
 ]
