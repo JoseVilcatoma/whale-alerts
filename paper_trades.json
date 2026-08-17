@@ -8750,8 +8750,8 @@
     "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 1599.75,
-    "whale_pct": 4.396,
+    "whale_usd": 2328.73,
+    "whale_pct": 6.4,
     "whale_value_at_open": 36387.4826,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -8761,7 +8761,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786959117.7810075,
-    "fills": 1
+    "last_fill_at": 1786959261.2351785,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786959292,
+    "timestamp_added": 1786959292.8985496,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-garci-michalk-2026-08-17",
+    "title": "ITF W50 Prague Women: Alba Rey Garcia vs Barbora Michalkova",
+    "outcome": "Barbora Michalkova",
+    "side": "BUY",
+    "whale_usd": 1990.4799999999998,
+    "whale_pct": 5.244,
+    "whale_value_at_open": 37953.8603,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786959293.480287,
+    "fills": 2
   }
 ]
