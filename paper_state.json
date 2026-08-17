@@ -1,5 +1,5 @@
 {
-  "bankroll": 812.743062331762,
+  "bankroll": 814.5077682141149,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2000,6 +2000,11 @@
       "timestamp": 1786996553.1008701,
       "bankroll": 812.74,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Nicolas Arseneault vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1786996742.3476248,
+      "bankroll": 814.51,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Benjamin Hassan vs Leo Raquillet"
     }
   ]
 }

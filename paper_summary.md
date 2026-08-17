@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 14:58:06 (hora de Perú)
+Actualizado: 2026-08-17 15:00:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $812.74
-**Retorno acumulado:** -18.73%
+**Bankroll actual:** $814.51
+**Retorno acumulado:** -18.55%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 14:58:06 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $222.74)
+**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $224.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,16 +46,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 45 | 41 | 39 | -88.04 USD |
+| ferrariChampions2026 | 46 | 41 | 39 | -86.28 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 379
-- **Aciertos:** 209 (55.1%)
-- **Cuota promedio de entrada:** 57.2%
+- **Apuestas resueltas:** 380
+- **Aciertos:** 210 (55.3%)
+- **Cuota promedio de entrada:** 57.3%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,790.00
-- **ROI sobre lo apostado:** -6.27%
+- **Total apostado (suma de stakes):** $3,800.00
+- **ROI sobre lo apostado:** -6.20%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 184 | 48.4% | 49.5% | -1.2 pp |
 | 60-79% | 109 | 67.0% | 68.9% | -1.9 pp |
-| 80-94% | 32 | 90.6% | 86.9% | +3.7 pp |
+| 80-94% | 33 | 90.9% | 86.8% | +4.1 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -142,13 +142,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 4.5 | Under (BUY) | 94% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 121.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Samsunspor win on 2026-08-17? | No (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Fery vs Minaur | Fery (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | Yes (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 1.5 | Over (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Cardiff City FC win on 2026-08-17? | No (BUY) | 88% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Dimitris Sakellaridis (BUY) | 53% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Dimitris Sakellaridis vs Oleksandr | Dimitris Sakellaridis (BUY) | 53% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 70% | 10.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will RC Deportivo A Coruña vs. Elche CF  | No (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | RC Deportivo A Coruña vs. Elche CF: O/U  | Over (BUY) | 81% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -171,4 +172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 70% | 10.00 | 11.8% | ⏳ pendiente | — |
 | alaskabaked | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 59% | 10.00 | 46.8% | ⏳ pendiente | — |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 22.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
