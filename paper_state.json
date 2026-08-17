@@ -1,5 +1,5 @@
 {
-  "bankroll": 777.8054771797297,
+  "bankroll": 785.9872953615478,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1965,6 +1965,11 @@
       "timestamp": 1786991401.1834652,
       "bankroll": 777.81,
       "event": "won: HomeRunHazard \u2014 Roehampton: Viktor Durasovic vs Manoj Dhamne Manas"
+    },
+    {
+      "timestamp": 1786991841.5839643,
+      "bankroll": 785.99,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Stefano Napolitano vs Ugo Blanchet"
     }
   ]
 }

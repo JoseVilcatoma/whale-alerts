@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:36:26 (hora de Perú)
+Actualizado: 2026-08-17 13:38:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $777.81
-**Retorno acumulado:** -22.22%
+**Bankroll actual:** $785.99
+**Retorno acumulado:** -21.40%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 13:36:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $437.81)
+**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $455.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,16 +46,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 21 | 13 | 8 | -36.28 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 42 | 40 | 14 | -96.05 USD |
+| ferrariChampions2026 | 43 | 40 | 13 | -87.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 372
-- **Aciertos:** 203 (54.6%)
+- **Apuestas resueltas:** 373
+- **Aciertos:** 204 (54.7%)
 - **Cuota promedio de entrada:** 57.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,720.00
-- **ROI sobre lo apostado:** -7.32%
+- **Total apostado (suma de stakes):** $3,730.00
+- **ROI sobre lo apostado:** -7.09%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 181 | 47.5% | 49.5% | -2.0 pp |
+| 40-59% | 182 | 47.8% | 49.6% | -1.8 pp |
 | 60-79% | 106 | 66.0% | 68.9% | -2.9 pp |
 | 80-94% | 31 | 93.5% | 86.9% | +6.6 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.0% | +2.0 pp |
@@ -163,7 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 2.4% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | ITF W50 Prague Women: Jana Kovackova vs  | Jana Kovackova (BUY) | 82% | 10.00 | 0.6% | ✅ ganada | +2.20 |
 | HomeRunHazard | Roehampton: Lucas Poullain vs Max Basing | Lucas Poullain (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 55% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 55% | 10.00 | 0.2% | ✅ ganada | +8.18 |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 73% | 10.00 | 0.9% | ✅ ganada | +3.70 |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 78% | 10.00 | 2.9% | ✅ ganada | +2.82 |
 | swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
