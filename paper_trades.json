@@ -7650,8 +7650,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7673,8 +7673,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.7,
     "overlaps_with": [
       "ChonkyChocolateCake"
     ],
@@ -8116,8 +8116,8 @@
     "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
     "outcome": "Elina Svitolina",
     "side": "BUY",
-    "whale_usd": 37364.43540599999,
-    "whale_pct": 15.822,
+    "whale_usd": 49084.31580599999,
+    "whale_pct": 20.785,
     "whale_value_at_open": 236151.809,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -8127,8 +8127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786938692.8880165,
-    "fills": 19
+    "last_fill_at": 1786938910.344134,
+    "fills": 23
   },
   {
     "timestamp": 1786931539,

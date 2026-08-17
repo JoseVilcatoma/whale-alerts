@@ -1,5 +1,5 @@
 {
-  "bankroll": 739.6174355383375,
+  "bankroll": 733.3160656753238,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1740,6 +1740,16 @@
       "timestamp": 1786938044.1973078,
       "bankroll": 739.62,
       "event": "won: RN1 \u2014 Will Liverpool FC vs. Como 1907 end in a draw?"
+    },
+    {
+      "timestamp": 1786938929.6197937,
+      "bankroll": 729.62,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
+    },
+    {
+      "timestamp": 1786938929.7199411,
+      "bankroll": 733.32,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Sentinels - Game 2 Winner"
     }
   ]
 }
