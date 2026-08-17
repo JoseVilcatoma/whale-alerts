@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:19:46 (hora de Perú)
+Actualizado: 2026-08-17 17:21:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:19:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $491.74)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $481.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 1 | -33.45 USD |
+| RN1 | 39 | 21 | 2 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 48 | 45 | 11 | -122.81 USD |
@@ -143,6 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 86% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Will CA Talleres win on 2026-08-17? | No (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 48% | 10.00 | 14.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -172,4 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | alaskabaked | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 50% | 10.00 | 26.5% | ⏳ pendiente | — |
 | SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ✅ ganada | +2.50 |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 52% | 10.00 | 17.5% | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 43% | 10.00 | 1.6% | ⏳ pendiente | — |
