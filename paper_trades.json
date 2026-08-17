@@ -8860,8 +8860,8 @@
     "title": "Prague 2: Eduardo Ribeiro vs Sumit Nagal",
     "outcome": "Sumit Nagal",
     "side": "BUY",
-    "whale_usd": 5247.515271999999,
-    "whale_pct": 4.568,
+    "whale_usd": 7447.515271999999,
+    "whale_pct": 6.484,
     "whale_value_at_open": 114866.0805,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -8873,8 +8873,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786968431.6259143,
-    "fills": 2
+    "last_fill_at": 1786974156.3575928,
+    "fills": 3
   },
   {
     "timestamp": 1786968476,
