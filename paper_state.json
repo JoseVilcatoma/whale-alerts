@@ -1,5 +1,5 @@
 {
-  "bankroll": 758.2966621559798,
+  "bankroll": 759.8480455551892,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1840,6 +1840,16 @@
       "timestamp": 1786976196.1950748,
       "bankroll": 758.3,
       "event": "won: RN1 \u2014 ITF W35 Verbier Women: Maria Michaela Fiacan vs Cristina Pescucci"
+    },
+    {
+      "timestamp": 1786977012.0099676,
+      "bankroll": 759.17,
+      "event": "won: RN1 \u2014 Prague: Luciano Emanuel Ambrogi vs Oleksii Krutykh"
+    },
+    {
+      "timestamp": 1786977040.6979346,
+      "bankroll": 759.85,
+      "event": "venta anticipada: HVAB \u2014 ITF W35 Verbier Women: Madhurima Sawant vs Luisa Hrda (+0.68 USD)"
     }
   ]
 }
