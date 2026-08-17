@@ -8969,5 +8969,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786939394.7658017,
     "fills": 1
+  },
+  {
+    "timestamp": 1786939518,
+    "timestamp_added": 1786939519.0997047,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-tij-caz-2026-08-16-total-2pt5",
+    "title": "Club Tijuana vs. CF Cruz Azul: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 559.3516,
+    "whale_pct": 0.309,
+    "whale_value_at_open": 180988.4047,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 81,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786939519.0997136,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786939541,
+    "timestamp_added": 1786939541.6239753,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-tij-caz-2026-08-16-total-4pt5",
+    "title": "Club Tijuana vs. CF Cruz Azul: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 856.06066,
+    "whale_pct": 0.473,
+    "whale_value_at_open": 180988.4047,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 83,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786939541.623983,
+    "fills": 1
   }
 ]
