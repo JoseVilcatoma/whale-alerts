@@ -9170,8 +9170,8 @@
     "title": "Spread: Golden State Valkyries (-5.5)",
     "outcome": "Dallas Wings",
     "side": "BUY",
-    "whale_usd": 981.0874,
-    "whale_pct": 1.309,
+    "whale_usd": 1500.196885,
+    "whale_pct": 2.002,
     "whale_value_at_open": 74923.216,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -9181,8 +9181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786973125.9905396,
-    "fills": 1
+    "last_fill_at": 1786982937.1542192,
+    "fills": 2
   },
   {
     "timestamp": 1786973381,
@@ -10436,8 +10436,8 @@
     "title": "Pisa SC vs. Empoli FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 593.1988,
-    "whale_pct": 0.255,
+    "whale_usd": 1162.428797,
+    "whale_pct": 0.5,
     "whale_value_at_open": 232646.575,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -10447,8 +10447,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786982677.5011945,
-    "fills": 1
+    "last_fill_at": 1786982896.3135095,
+    "fills": 2
   },
   {
     "timestamp": 1786982718,
@@ -10474,6 +10474,55 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786982719.1456115,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786982819,
+    "timestamp_added": 1786982819.902483,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-swiatek-sakkari-2026-08-17",
+    "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+    "outcome": "Maria Sakkari",
+    "side": "BUY",
+    "whale_usd": 1781.4587,
+    "whale_pct": 1.259,
+    "whale_value_at_open": 141494.747,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786982819.90249,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786982844,
+    "timestamp_added": 1786982845.2817326,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "swe-hac-hal-2026-08-17-spread-home-1pt5",
+    "title": "Spread: BK Hacken (-1.5)",
+    "outcome": "BK Hacken",
+    "side": "BUY",
+    "whale_usd": 525.0,
+    "whale_pct": 0.233,
+    "whale_value_at_open": 225783.7686,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786982845.2817419,
     "fills": 1
   }
 ]
