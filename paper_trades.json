@@ -8860,8 +8860,8 @@
     "title": "Prague 2: Eduardo Ribeiro vs Sumit Nagal",
     "outcome": "Sumit Nagal",
     "side": "BUY",
-    "whale_usd": 7447.515271999999,
-    "whale_pct": 6.484,
+    "whale_usd": 9339.265271999999,
+    "whale_pct": 8.131,
     "whale_value_at_open": 114866.0805,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -8873,8 +8873,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786974156.3575928,
-    "fills": 3
+    "last_fill_at": 1786974352.567497,
+    "fills": 4
   },
   {
     "timestamp": 1786968476,
@@ -9228,6 +9228,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786973658.5511756,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786974380,
+    "timestamp_added": 1786974380.6008573,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-ribeiro-nagal-2026-08-17",
+    "title": "Prague 2: Eduardo Ribeiro vs Sumit Nagal",
+    "outcome": "Sumit Nagal",
+    "side": "BUY",
+    "whale_usd": 1524.9995999999999,
+    "whale_pct": 1.975,
+    "whale_value_at_open": 77209.3231,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786974380.6008656,
     "fills": 1
   }
 ]
