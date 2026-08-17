@@ -9785,8 +9785,8 @@
     "title": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 11279.091393,
-    "whale_pct": 5.389,
+    "whale_usd": 12197.366793000001,
+    "whale_pct": 5.828,
     "whale_value_at_open": 209301.2998,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -9796,8 +9796,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786979700.3234305,
-    "fills": 6
+    "last_fill_at": 1786979934.2674334,
+    "fills": 7
   },
   {
     "timestamp": 1786979441,
@@ -10012,6 +10012,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786979714.3488343,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786979945,
+    "timestamp_added": 1786979945.8824344,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blockx-cobolli-2026-08-17",
+    "title": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 895.0829529999999,
+    "whale_pct": 0.331,
+    "whale_value_at_open": 270438.9583,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786979945.882443,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786979948,
+    "timestamp_added": 1786979948.570737,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tirante-landalu-2026-08-17",
+    "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
+    "outcome": "Martin Landaluce",
+    "side": "BUY",
+    "whale_usd": 610.0,
+    "whale_pct": 0.226,
+    "whale_value_at_open": 270438.9583,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786979948.5707462,
     "fills": 1
   }
 ]

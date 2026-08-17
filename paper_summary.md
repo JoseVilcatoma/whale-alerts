@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:17:07 (hora de Perú)
+Actualizado: 2026-08-17 10:19:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $785.11
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:17:07 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $245.11)
+**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $225.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 17 | 12 | 14 | -40.29 USD |
 | RN1 | 39 | 22 | 5 | -45.13 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 39 | 36 | 13 | -66.03 USD |
+| ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
 
 ## Análisis general
 
@@ -138,6 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-dnf-2026-08-17-game4 | MaoZeDonK, ferrariChampions2026 |
 | atp-langmo-boitan-2026-08-17 | HomeRunHazard, RN1 |
 | atp-radulov-monday-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
+| atp-tirante-landalu-2026-08-17 | , ferrariChampions2026 |
 | wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
 | wta-parry-boisson-2026-08-17 | ferrariChampions2026, swisstony |
 
@@ -145,6 +146,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 62% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 3.5 | Over (BUY) | 72% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 47% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -154,7 +157,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 65% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics (BO3 | Natus Vincere (BUY) | 71% | 10.00 | 4.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Diane Parry vs Lois Boi | Diane Parry (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.8% | ⏳ pendiente | — |
 | SDTrading | Spread: Atlanta Braves (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 16.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.5% | ⏳ pendiente | — |
@@ -173,5 +176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Cincinnati Open: Thiago Agustin Tirante  | Martin Landaluce (BUY) | 43% | 10.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Johannus Monday (BUY) | 56% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Christian Langmo vs Gabi Boi | Christian Langmo (BUY) | 50% | 10.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Iliyan Radulov vs Johannus M | Iliyan Radulov (BUY) | 42% | 10.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Gi | Anna Kmiecik (BUY) | 78% | 10.00 | 0.8% | ⏳ pendiente | — |
