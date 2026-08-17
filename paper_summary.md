@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:52:29 (hora de Perú)
+Actualizado: 2026-08-17 10:54:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $787.25
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:52:29 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $187.25)
+**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $177.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
-| swisstony | 6 | 1 | 11 | +10.75 USD |
+| swisstony | 6 | 1 | 12 | +10.75 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
@@ -149,8 +149,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 4.5 | Over (BUY) | 82% | 10.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 74% | 10.00 | 1.3% | ⏳ pendiente | — |
-| GreenBerry1337 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 66% | 10.00 | 60.8% | ⏳ pendiente | — |
+| GreenBerry1337 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 66% | 10.00 | 95.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -173,9 +174,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Natus Vincere vs Team Heretics - Ga | Natus Vincere (BUY) | 65% | 10.00 | 5.8% | ⏳ pendiente | — |
 | SDTrading | Spread: Atlanta Braves (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 16.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.5% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 2.3% | ⏳ pendiente | — |
 |  | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 2.4% | ⏳ pendiente | — |
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
-| HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ✅ ganada | +0.20 |
