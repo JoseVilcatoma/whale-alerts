@@ -10868,8 +10868,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 17086.816371,
-    "whale_pct": 6.526,
+    "whale_usd": 27230.494171,
+    "whale_pct": 10.399,
     "whale_value_at_open": 261846.8047,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10881,8 +10881,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001898.1521003,
-    "fills": 8
+    "last_fill_at": 1787001945.8768613,
+    "fills": 10
   },
   {
     "timestamp": 1787001824,
@@ -10909,5 +10909,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787001825.8758225,
     "fills": 2
+  },
+  {
+    "timestamp": 1787002005,
+    "timestamp_added": 1787002006.359375,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sd-nym-2026-08-17-spread-home-1pt5",
+    "title": "Spread: New York Mets (-1.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 3887.3100000000004,
+    "whale_pct": 1.483,
+    "whale_value_at_open": 262206.2731,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787002006.3593853,
+    "fills": 1
   }
 ]
