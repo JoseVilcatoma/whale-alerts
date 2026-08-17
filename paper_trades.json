@@ -9239,8 +9239,8 @@
     "title": "Prague 2: Eduardo Ribeiro vs Sumit Nagal",
     "outcome": "Sumit Nagal",
     "side": "BUY",
-    "whale_usd": 1524.9995999999999,
-    "whale_pct": 1.975,
+    "whale_usd": 3144.9956,
+    "whale_pct": 4.073,
     "whale_value_at_open": 77209.3231,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -9253,8 +9253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786974380.6008656,
-    "fills": 1
+    "last_fill_at": 1786976719.0524921,
+    "fills": 2
   },
   {
     "timestamp": 1786974902,
@@ -9493,6 +9493,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786976613.0642684,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786976753,
+    "timestamp_added": 1786976753.8162808,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "itf-sawant-hrda-2026-08-17",
+    "title": "ITF W35 Verbier Women: Madhurima Sawant vs Luisa Hrda",
+    "outcome": "Luisa Hrda",
+    "side": "BUY",
+    "whale_usd": 2979.04,
+    "whale_pct": 47.76,
+    "whale_value_at_open": 6237.5347,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786976753.8162916,
     "fills": 1
   }
 ]
