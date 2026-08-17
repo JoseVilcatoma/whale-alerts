@@ -8112,8 +8112,8 @@
     "title": "Will CF Cruz Azul win on 2026-08-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7189.0,
-    "whale_pct": 5.689,
+    "whale_usd": 7917.1900000000005,
+    "whale_pct": 6.266,
     "whale_value_at_open": 126357.307,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 93,
@@ -8125,7 +8125,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786941466.3748336,
-    "fills": 2
+    "last_fill_at": 1786941736.438008,
+    "fills": 3
   }
 ]
