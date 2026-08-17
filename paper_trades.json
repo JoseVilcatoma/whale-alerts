@@ -8087,8 +8087,8 @@
     "title": "Club Tijuana vs. CF Cruz Azul: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1116.7927,
-    "whale_pct": 0.348,
+    "whale_usd": 1721.4526999999998,
+    "whale_pct": 0.536,
     "whale_value_at_open": 320916.2819,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -8100,8 +8100,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786941922.0197868,
-    "fills": 2
+    "last_fill_at": 1786942320.8164759,
+    "fills": 3
   },
   {
     "timestamp": 1786941461,
@@ -8160,8 +8160,8 @@
     "title": "Will Club Tijuana win on 2026-08-16?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5103.653998,
-    "whale_pct": 2.049,
+    "whale_usd": 5974.133997999999,
+    "whale_pct": 2.399,
     "whale_value_at_open": 249064.9568,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -8173,7 +8173,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786942121.739435,
+    "last_fill_at": 1786942250.7001948,
+    "fills": 4
+  },
+  {
+    "timestamp": 1786942262,
+    "timestamp_added": 1786942262.3920448,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-tij-caz-2026-08-16-total-3pt5",
+    "title": "Club Tijuana vs. CF Cruz Azul: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1759.1999999999998,
+    "whale_pct": 0.69,
+    "whale_value_at_open": 254860.283,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786942277.6933808,
     "fills": 3
   }
 ]
