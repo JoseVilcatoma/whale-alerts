@@ -1,5 +1,5 @@
 {
-  "bankroll": 767.2510565823044,
+  "bankroll": 767.5561483159674,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1935,6 +1935,16 @@
       "timestamp": 1786982122.3825405,
       "bankroll": 767.25,
       "event": "lost: HomeRunHazard \u2014 Roehampton: Christian Langmo vs Gabi Boitan"
+    },
+    {
+      "timestamp": 1786983055.6395304,
+      "bankroll": 767.46,
+      "event": "won: HVAB \u2014 ITF W50 Prague Women: Anastasia Tikhonova vs Ane Mintegi Del Olmo"
+    },
+    {
+      "timestamp": 1786983055.7396684,
+      "bankroll": 767.56,
+      "event": "won: swisstony \u2014 ITF W50 Prague Women: Anastasia Tikhonova vs Ane Mintegi Del Olmo"
     }
   ]
 }
