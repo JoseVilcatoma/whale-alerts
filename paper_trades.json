@@ -9057,8 +9057,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10149,8 +10149,8 @@
     "title": "Will Elche CF win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7787.324700000001,
-    "whale_pct": 2.713,
+    "whale_usd": 9500.3847,
+    "whale_pct": 3.31,
     "whale_value_at_open": 287032.5718,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -10160,8 +10160,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786997313.059821,
-    "fills": 3
+    "last_fill_at": 1786997734.4677553,
+    "fills": 4
   },
   {
     "timestamp": 1786994484,
@@ -10427,8 +10427,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 21034.280438,
-    "whale_pct": 6.83,
+    "whale_usd": 21703.130438,
+    "whale_pct": 7.047,
     "whale_value_at_open": 307968.125,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
@@ -10440,8 +10440,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786997362.464824,
-    "fills": 6
+    "last_fill_at": 1786997788.4614463,
+    "fills": 7
   },
   {
     "timestamp": 1786995223,

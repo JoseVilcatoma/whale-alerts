@@ -1,5 +1,5 @@
 {
-  "bankroll": 811.3116117820216,
+  "bankroll": 814.1321246025344,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2025,6 +2025,11 @@
       "timestamp": 1786997619.254149,
       "bankroll": 811.31,
       "event": "won: swisstony \u2014 Pisa SC vs. Empoli FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1786997742.794918,
+      "bankroll": 814.13,
+      "event": "won: swisstony \u2014 Pisa SC vs. Empoli FC: O/U 3.5"
     }
   ]
 }
