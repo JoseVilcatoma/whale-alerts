@@ -5459,5 +5459,20 @@
     "status": "pending",
     "ultimo_fill": 1786992860,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 750,
+    "timestamp": 1786993968,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-fery-minaur-2026-08-17",
+    "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "usd": 64000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1786993968,
+    "fills": 1
   }
 ]
