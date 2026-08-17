@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:52:14 (hora de Perú)
+Actualizado: 2026-08-17 18:54:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $826.72
-**Retorno acumulado:** -17.33%
+**Bankroll actual:** $835.97
+**Retorno acumulado:** -16.40%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:52:14 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $690.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $136.72)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $175.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 14 | 2 | 6 | +41.35 USD |
+| swisstony | 15 | 2 | 5 | +43.70 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -45,19 +45,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 41 | 21 | 19 | -30.06 USD |
+| RN1 | 42 | 21 | 18 | -27.24 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 54 | 45 | 28 | -103.90 USD |
+| ferrariChampions2026 | 55 | 45 | 27 | -99.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 403
-- **Aciertos:** 229 (56.8%)
-- **Cuota promedio de entrada:** 58.5%
+- **Apuestas resueltas:** 406
+- **Aciertos:** 232 (57.1%)
+- **Cuota promedio de entrada:** 58.6%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,030.00
-- **ROI sobre lo apostado:** -5.55%
+- **Total apostado (suma de stakes):** $4,060.00
+- **ROI sobre lo apostado:** -5.28%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,8 +68,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 188 | 48.4% | 49.5% | -1.1 pp |
-| 60-79% | 117 | 67.5% | 69.2% | -1.7 pp |
-| 80-94% | 39 | 92.3% | 86.5% | +5.8 pp |
+| 60-79% | 119 | 68.1% | 69.3% | -1.3 pp |
+| 80-94% | 40 | 92.5% | 86.4% | +6.1 pp |
 | 95-99% (casi seguro) | 14 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -175,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 5.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 5.9% | ⏳ pendiente | — |
 | swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
 | alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
