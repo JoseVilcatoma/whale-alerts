@@ -1,5 +1,5 @@
 {
-  "bankroll": 787.2510565823044,
+  "bankroll": 767.2510565823044,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1925,6 +1925,16 @@
       "timestamp": 1786981631.8815665,
       "bankroll": 787.25,
       "event": "won: HVAB \u2014 ITF W35 Krakow Women: Gaia Maduzzi vs Sapfo Sakellaridi"
+    },
+    {
+      "timestamp": 1786982122.1822426,
+      "bankroll": 777.25,
+      "event": "lost: RN1 \u2014 Roehampton: Christian Langmo vs Gabi Boitan"
+    },
+    {
+      "timestamp": 1786982122.3825405,
+      "bankroll": 767.25,
+      "event": "lost: HomeRunHazard \u2014 Roehampton: Christian Langmo vs Gabi Boitan"
     }
   ]
 }
