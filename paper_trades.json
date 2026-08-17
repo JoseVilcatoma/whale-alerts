@@ -8423,8 +8423,8 @@
     "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 11023.969100000002,
-    "whale_pct": 6.284,
+    "whale_usd": 16617.2261,
+    "whale_pct": 9.473,
     "whale_value_at_open": 175416.139,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -8436,8 +8436,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786935080.6834033,
-    "fills": 6
+    "last_fill_at": 1786935279.046901,
+    "fills": 7
   },
   {
     "timestamp": 1786933650,
@@ -8544,8 +8544,8 @@
     "title": "Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 699.8530000000001,
-    "whale_pct": 0.365,
+    "whale_usd": 1358.4174000000003,
+    "whale_pct": 0.708,
     "whale_value_at_open": 191970.5036,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -8555,7 +8555,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786934931.2024055,
-    "fills": 1
+    "last_fill_at": 1786935213.7849257,
+    "fills": 2
   }
 ]
