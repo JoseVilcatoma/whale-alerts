@@ -1,5 +1,5 @@
 {
-  "bankroll": 814.5077682141149,
+  "bankroll": 815.6866117820216,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2005,6 +2005,16 @@
       "timestamp": 1786996742.3476248,
       "bankroll": 814.51,
       "event": "won: ferrariChampions2026 \u2014 Sion: Benjamin Hassan vs Leo Raquillet"
+    },
+    {
+      "timestamp": 1786996929.0323136,
+      "bankroll": 814.82,
+      "event": "won: ferrariChampions2026 \u2014 Spread: AA Estudiantes (-1.5)"
+    },
+    {
+      "timestamp": 1786996931.0359864,
+      "bankroll": 815.69,
+      "event": "won: ferrariChampions2026 \u2014 Will AA Estudiantes win on 2026-08-17?"
     }
   ]
 }
