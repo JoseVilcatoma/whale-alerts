@@ -10136,8 +10136,8 @@
     "title": "Cincinnati Open: Arthur Fery vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 6153.211333000001,
-    "whale_pct": 1.914,
+    "whale_usd": 12846.043093,
+    "whale_pct": 3.996,
     "whale_value_at_open": 321508.2207,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -10147,8 +10147,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005383.3437219,
-    "fills": 4
+    "last_fill_at": 1787005819.2354121,
+    "fills": 5
   },
   {
     "timestamp": 1787004997,
@@ -10325,8 +10325,8 @@
     "title": "Set 1 Winner: Jodar vs Tabilo",
     "outcome": "Jodar",
     "side": "BUY",
-    "whale_usd": 720.2983,
-    "whale_pct": 0.213,
+    "whale_usd": 1250.3983,
+    "whale_pct": 0.369,
     "whale_value_at_open": 338868.9294,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
@@ -10336,8 +10336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005450.2830155,
-    "fills": 1
+    "last_fill_at": 1787005843.6395538,
+    "fills": 2
   },
   {
     "timestamp": 1787005518,
@@ -10429,6 +10429,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787005651.9138994,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787005812,
+    "timestamp_added": 1787005813.298138,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-vel-def-2026-08-17-def",
+    "title": "Will CSyD Defensa y Justicia win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 719.82,
+    "whale_pct": 0.217,
+    "whale_value_at_open": 331870.7965,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 95,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787005813.2981465,
     "fills": 1
   }
 ]
