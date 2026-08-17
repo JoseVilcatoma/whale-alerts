@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 10:29:41 (hora de Perú)
+Actualizado: 2026-08-17 10:31:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $787.93
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 10:29:41 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $197.93)
+**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $177.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| swisstony | 5 | 1 | 11 | +9.39 USD |
+| swisstony | 5 | 1 | 12 | +9.39 USD |
 | IMAREALPERSON | 9 | 5 | 1 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 1 | 0 | 2 | +0.68 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 17 | 12 | 16 | -40.29 USD |
+| HomeRunHazard | 17 | 12 | 17 | -40.29 USD |
 | RN1 | 40 | 22 | 4 | -42.31 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 39 | 36 | 15 | -66.03 USD |
@@ -142,12 +142,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-filip-hardt-2026-08-17 | HomeRunHazard, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | ferrariChampions2026, swisstony |
 | wta-parry-boisson-2026-08-17 | ferrariChampions2026, swisstony |
+| itf-tikhon-olmo-2026-08-17 | HVAB, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HVAB | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 98% | 10.00 | 83.0% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Golden State Valkyries (-5.5) | Golden State Valkyries (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
+| swisstony | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 99% | 10.00 | 0.5% | ⏳ pendiente | — |
+| HVAB | ITF W50 Prague Women: Anastasia Tikhonov | Anastasia Tikhonova (BUY) | 98% | 10.00 | 2542.2% | ⏳ pendiente | — |
 | swisstony | Will IF Gnistan win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 98% | 10.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-7.5) | Golden State Valkyries (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -167,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Game Handicap: Navi (-1.5) vs Team Heret | Team Heretics (BUY) | 57% | 10.00 | 14.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 89% | 10.00 | 1.5% | ⏳ pendiente | — |
 |  | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 54% | 10.00 | 2.2% | ⏳ pendiente | — |
-| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
+| swisstony | IF Gnistan vs. Tampereen Ilves: O/U 2.5 | Over (BUY) | 80% | 10.00 | 1.6% | ⏳ pendiente | — |
 |  | Will Pisa SC win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 20.2% | ⏳ pendiente | — |
 | swisstony | Prague 2: Jakub Filip vs Nick Hardt | Nick Hardt (BUY) | 94% | 10.00 | 0.8% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Gaia Maduzzi vs Sa | Gaia Maduzzi (BUY) | 98% | 10.00 | 74.7% | ⏳ pendiente | — |
@@ -175,5 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | IF Gnistan vs. Tampereen Ilves: O/U 1.5 | Over (BUY) | 84% | 10.00 | 0.6% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 53% | 10.00 | 394.3% | ⏳ pendiente | — |
 | HVAB | ITF W35 Verbier Women: Madhurima Sawant  | Luisa Hrda (BUY) | 88% | 10.00 | 47.8% | 💰 vendida anticipada | +0.68 |
-| SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 10.00 | 61.1% | ⏳ pendiente | — |
-| HomeRunHazard | Prague: Nerman Fatic vs Matthew William  | Matthew William Donald (BUY) | 78% | 10.00 | 0.6% | ⏳ pendiente | — |
