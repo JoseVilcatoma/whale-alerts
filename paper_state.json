@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.9872953615478,
+  "bankroll": 800.693177714489,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1975,6 +1975,11 @@
       "timestamp": 1786992283.3112507,
       "bankroll": 795.99,
       "event": "won: HomeRunHazard \u2014 Roehampton: Lucas Poullain vs Max Basing"
+    },
+    {
+      "timestamp": 1786993294.6799734,
+      "bankroll": 800.69,
+      "event": "won: swisstony \u2014 IF Gnistan vs. Tampereen Ilves: O/U 5.5"
     }
   ]
 }
