@@ -9091,5 +9091,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786972156.3093095,
     "fills": 13
+  },
+  {
+    "timestamp": 1786972211,
+    "timestamp_added": 1786972211.5689251,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-haupt-carrol-2026-08-17",
+    "title": "ITF M15 Lambermont Men: Henri Haupt vs Matthew Carroll",
+    "outcome": "Matthew Carroll",
+    "side": "BUY",
+    "whale_usd": 1234.8,
+    "whale_pct": 1.1,
+    "whale_value_at_open": 112266.0696,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786972211.5689316,
+    "fills": 1
   }
 ]

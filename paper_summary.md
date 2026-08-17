@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 08:09:23 (hora de Perú)
+Actualizado: 2026-08-17 08:11:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $760.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 08:09:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $470.32)
+**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $460.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 16 | 12 | 8 | -40.71 USD |
-| RN1 | 34 | 20 | 7 | -55.65 USD |
+| RN1 | 34 | 20 | 8 | -55.65 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 37 | 35 | 7 | -64.40 USD |
 
@@ -136,6 +136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Lambermont Men: Henri Haupt vs M | Matthew Carroll (BUY) | 73% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 78% | 10.00 | 6.2% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: T1 vs DN SOOPers - Game 4 Winner | DN SOOPers (BUY) | 61% | 10.00 | 68.3% | ⏳ pendiente | — |
@@ -165,4 +166,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup  | T1 (BUY) | 73% | 10.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | Prague: Andrej Martin vs Javier Barranco | Andrej Martin (BUY) | 49% | 10.00 | 1.8% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | LoL: Kiwoom DRX Challengers vs Hanwha Li | Hanwha Life Esports Challengers (BUY) | 85% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs DN SOOPers - Game 2 Winner | T1 (BUY) | 54% | 10.00 | 1.2% | ⏳ pendiente | — |
