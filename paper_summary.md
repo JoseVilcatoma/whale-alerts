@@ -43,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
 | RN1 | 27 | 18 | 0 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
+| HomeRunHazard | 16 | 15 | 3 | -64.68 USD |
 
 ## Análisis general
 
@@ -118,7 +119,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
 | wnba-por-phx-2026-08-16 | HomeRunHazard, Sassy-Bucket |
 | lol-ly-sen-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake |
-| val-c9-eg2-2026-08-16-game2 | IMAREALPERSON, casualbet2020 |
+| mlb-sea-hou-2026-08-16 | HomeRunHazard, ferrariChampions2026 |
+| val-c9-eg2-2026-08-16-game2 | IMAREALPERSON, casualbet2020, ferrariChampions2026 |
+| mls-sea-vwh-2026-08-16-vwh | WTSA, ferrariChampions2026 |
+| wta-valento-svitoli-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
+| val-c9-eg2-2026-08-16 | MaoZeDonK, ferrariChampions2026 |
+| atp-sonego-tiafoe-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
+| mex-tij-caz-2026-08-16-caz | RN1, WTSA, swisstony |
+| mls-sea-vwh-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
+| mls-sea-vwh-2026-08-16-total-1pt5 | MaoZeDonK, ferrariChampions2026 |
+| mex-tij-caz-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
+| mls-sea-vwh-2026-08-16-sea | ferrariChampions2026, swisstony |
+| mex-tij-caz-2026-08-16-draw | RN1, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
