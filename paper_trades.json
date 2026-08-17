@@ -8534,8 +8534,8 @@
     "title": "Prague: Andrej Martin vs Javier Barranco Cosano",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 1420.1178,
-    "whale_pct": 2.479,
+    "whale_usd": 3094.0308430000005,
+    "whale_pct": 5.401,
     "whale_value_at_open": 57288.3686,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -8545,7 +8545,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786964180.9693985,
-    "fills": 2
+    "last_fill_at": 1786964411.8591282,
+    "fills": 3
+  },
+  {
+    "timestamp": 1786964465,
+    "timestamp_added": 1786964465.618022,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fatic-donald-2026-08-17",
+    "title": "Prague: Nerman Fatic vs Matthew William Donald",
+    "outcome": "Nerman Fatic",
+    "side": "BUY",
+    "whale_usd": 1290.6,
+    "whale_pct": 2.115,
+    "whale_value_at_open": 61014.9594,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786964465.6180308,
+    "fills": 1
   }
 ]
