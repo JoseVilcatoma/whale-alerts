@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:59:50 (hora de Perú)
+Actualizado: 2026-08-16 23:01:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $715.71
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 22:59:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $425.71)
+**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $415.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | casualbet2020 | 1 | 0 | 1 | +7.86 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| swisstony | 1 | 0 | 7 | +0.10 USD |
+| swisstony | 1 | 0 | 8 | +0.10 USD |
 | WTSA | 0 | 0 | 2 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -136,6 +136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 95% | 10.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -165,4 +166,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros | Seattle Mariners (BUY) | 91% | 10.00 | 0.3% | ✅ ganada | +0.99 |
 | ferrariChampions2026 | Seattle Mariners vs. Houston Astros: O/U | Over (BUY) | 66% | 10.00 | 3.4% | ❌ perdida | -10.00 |
 | HomeRunHazard | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 47% | 10.00 | 2.3% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Austin FC vs. FC Dallas: O/U 2.5 | Over (BUY) | 48% | 10.00 | 0.3% | ✅ ganada | +10.83 |
