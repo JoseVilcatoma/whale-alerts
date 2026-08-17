@@ -8269,5 +8269,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786947702.579056,
     "fills": 1
+  },
+  {
+    "timestamp": 1786947898,
+    "timestamp_added": 1786947898.8316,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mia-phi-2026-08-17-total-9pt5",
+    "title": "Miami Marlins vs. Philadelphia Phillies: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 546.878178,
+    "whale_pct": 1.011,
+    "whale_value_at_open": 54101.8849,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 63,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786947898.8316092,
+    "fills": 1
   }
 ]

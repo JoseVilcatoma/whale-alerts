@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 01:23:58 (hora de Perú)
+Actualizado: 2026-08-17 01:26:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $776.36
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 01:23:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $666.36)
+**Capital comprometido ahora mismo:** $120.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $656.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 15 | 12 | 1 | -41.35 USD |
+| HomeRunHazard | 15 | 12 | 2 | -41.35 USD |
 | ferrariChampions2026 | 37 | 33 | 2 | -44.40 USD |
 | RN1 | 27 | 18 | 3 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
@@ -128,6 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 63% | 10.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague: Jakub Paul vs Rudolf Molleker | Jakub Paul (BUY) | 45% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Nitin Kumar Sinha vs | Nitin Kumar Sinha (BUY) | 83% | 10.00 | 1.0% | ⏳ pendiente | — |
@@ -157,4 +158,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ChonkyChocolateCake | LoL: LYON vs Sentinels - Game 2 Winner | Sentinels (BUY) | 68% | 10.00 | 4.0% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: LYON vs Sentinels (BO3) - LCS Regul | Sentinels (BUY) | 44% | 10.00 | 37.3% | ✅ ganada | +12.73 |
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury (BUY) | 66% | 10.00 | 20.3% | ❌ perdida | -10.00 |
-| SineNooneEI | LoL: G2 Esports vs Fnatic - Game 2 Winne | G2 Esports (BUY) | 73% | 10.00 | 42.3% | ❌ perdida | -10.00 |
