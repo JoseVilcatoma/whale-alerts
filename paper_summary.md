@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:52:31 (hora de Perú)
+Actualizado: 2026-08-17 17:54:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:52:31 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $241.74)
+**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $211.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 12 | 2 | 5 | +38.88 USD |
+| swisstony | 12 | 2 | 6 | +38.88 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
-| alaskabaked | 0 | 0 | 1 | +0.00 USD |
+| alaskabaked | 0 | 0 | 2 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | HVAB | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 13 | -33.45 USD |
+| RN1 | 39 | 21 | 14 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 48 | 45 | 20 | -122.81 USD |
@@ -141,13 +141,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jodar-tabilo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
-| mlb-bal-tb-2026-08-17 | RN1, ferrariChampions2026 |
+| mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
+| alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 71% | 10.00 | 2.5% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 99% | 10.00 | 20.0% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -156,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles (BUY) | 50% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 99% | 10.00 | 188.7% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 3.9% | ⏳ pendiente | — |
@@ -175,6 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 86% | 10.00 | 3.7% | ⏳ pendiente | — |
 | swisstony | Will CA Talleres win on 2026-08-17? | No (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 111111111115 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 48% | 10.00 | 34.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 4.0% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 81% | 10.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
