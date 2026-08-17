@@ -1,5 +1,5 @@
 {
-  "bankroll": 783.2684268967314,
+  "bankroll": 773.2684268967314,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2065,6 +2065,11 @@
       "timestamp": 1786998680.8826363,
       "bankroll": 783.27,
       "event": "won: ferrariChampions2026 \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786998924.0851889,
+      "bankroll": 773.27,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston: Garrett Johns vs Timo Legout"
     }
   ]
 }
