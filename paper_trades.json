@@ -9948,8 +9948,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10155,8 +10155,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.7,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10358,8 +10358,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 3952.153844,
-    "whale_pct": 1.335,
+    "whale_usd": 10899.478844000001,
+    "whale_pct": 3.683,
     "whale_value_at_open": 295979.7941,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -10369,8 +10369,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787000264.7292132,
-    "fills": 5
+    "last_fill_at": 1787001719.8977077,
+    "fills": 6
   },
   {
     "timestamp": 1786995025,
@@ -10711,8 +10711,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 74,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "3edmond.dantes"
     ],
@@ -10868,8 +10868,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 6812.8226,
-    "whale_pct": 2.602,
+    "whale_usd": 13637.4647,
+    "whale_pct": 5.208,
     "whale_value_at_open": 261846.8047,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10881,7 +10881,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001644.8739543,
-    "fills": 5
+    "last_fill_at": 1787001683.853312,
+    "fills": 6
   }
 ]
