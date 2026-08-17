@@ -9392,5 +9392,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786985006.3803082,
     "fills": 1
+  },
+  {
+    "timestamp": 1786985117,
+    "timestamp_added": 1786985118.3267887,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-durasov-manas-2026-08-17",
+    "title": "Roehampton: Viktor Durasovic vs Manoj Dhamne Manas",
+    "outcome": "Viktor Durasovic",
+    "side": "BUY",
+    "whale_usd": 646.41,
+    "whale_pct": 0.4,
+    "whale_value_at_open": 161701.1674,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786985118.3267996,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786985134,
+    "timestamp_added": 1786985134.9183679,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blockx-cobolli-2026-08-17",
+    "title": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+    "outcome": "Alexander Blockx",
+    "side": "BUY",
+    "whale_usd": 962.2203000000001,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 339529.4681,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786985134.9183826,
+    "fills": 1
   }
 ]
