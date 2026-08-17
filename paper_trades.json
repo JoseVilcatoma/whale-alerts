@@ -8384,5 +8384,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786951482.1117094,
     "fills": 1
+  },
+  {
+    "timestamp": 1786952123,
+    "timestamp_added": 1786952124.4812884,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mazzoni-haverma-2026-08-17",
+    "title": "ITF W35 Verbier Women: Emma Mazzoni vs Danique Havermans",
+    "outcome": "Danique Havermans",
+    "side": "BUY",
+    "whale_usd": 1469.9299999999998,
+    "whale_pct": 5.427,
+    "whale_value_at_open": 27083.7718,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786952124.481298,
+    "fills": 1
   }
 ]
