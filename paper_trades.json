@@ -10211,8 +10211,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10494,8 +10494,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.11,
     "overlaps_with": [
       "RN1"
     ],
@@ -10781,8 +10781,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -11163,8 +11163,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Clara Tauson",
     "side": "BUY",
-    "whale_usd": 2358.4500000000003,
-    "whale_pct": 0.728,
+    "whale_usd": 3205.7700000000004,
+    "whale_pct": 0.99,
     "whale_value_at_open": 323812.078,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -11176,8 +11176,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787008172.4661067,
-    "fills": 1
+    "last_fill_at": 1787009350.4893873,
+    "fills": 2
   },
   {
     "timestamp": 1787008367,
@@ -11297,5 +11297,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787009139.4882524,
     "fills": 2
+  },
+  {
+    "timestamp": 1787009267,
+    "timestamp_added": 1787009268.131396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bra-int-cre-2026-08-17-total-1pt5",
+    "title": "SC Internacional vs. Clube do Remo: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 667.48,
+    "whale_pct": 0.201,
+    "whale_value_at_open": 332600.9867,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787009268.131405,
+    "fills": 1
   }
 ]
