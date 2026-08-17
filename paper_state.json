@@ -1,5 +1,5 @@
 {
-  "bankroll": 785.9872953615478,
+  "bankroll": 795.9872953615478,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -1970,6 +1970,11 @@
       "timestamp": 1786991841.5839643,
       "bankroll": 785.99,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Stefano Napolitano vs Ugo Blanchet"
+    },
+    {
+      "timestamp": 1786992283.3112507,
+      "bankroll": 795.99,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Lucas Poullain vs Max Basing"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:42:43 (hora de Perú)
+Actualizado: 2026-08-17 13:44:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $785.99
-**Retorno acumulado:** -21.40%
+**Bankroll actual:** $795.99
+**Retorno acumulado:** -20.40%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 13:42:43 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $435.99)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $445.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,21 +41,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 0 | 2 | 1 | -20.00 USD |
 | 111111111115 | 11 | 11 | 0 | -23.43 USD |
+| HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 39 | 21 | 1 | -33.45 USD |
-| HomeRunHazard | 21 | 13 | 8 | -36.28 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 43 | 40 | 15 | -87.87 USD |
+| ferrariChampions2026 | 43 | 40 | 16 | -87.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 373
-- **Aciertos:** 204 (54.7%)
+- **Apuestas resueltas:** 374
+- **Aciertos:** 205 (54.8%)
 - **Cuota promedio de entrada:** 57.1%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $3,730.00
-- **ROI sobre lo apostado:** -7.09%
+- **Total apostado (suma de stakes):** $3,740.00
+- **ROI sobre lo apostado:** -6.80%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 182 | 47.8% | 49.6% | -1.8 pp |
+| 40-59% | 183 | 48.1% | 49.6% | -1.5 pp |
 | 60-79% | 106 | 66.0% | 68.9% | -2.9 pp |
 | 80-94% | 31 | 93.5% | 86.9% | +6.6 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.0% | +2.0 pp |
@@ -131,6 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
 | atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
+| mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | wta-parry-boisson-2026-08-17 | HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-swiatek-sakkari-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mlb-stl-cin-2026-05-24-total-9pt5 | Sassy-Bucket, ferrariChampions2026 |
@@ -139,6 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 60% | 10.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Gauthier Onclin vs James McCabe | Gauthier Onclin (BUY) | 64% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -164,8 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Flavio Cobolli (BUY) | 71% | 10.00 | 0.2% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 74% | 10.00 | 2.4% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | ITF W50 Prague Women: Jana Kovackova vs  | Jana Kovackova (BUY) | 82% | 10.00 | 0.6% | ✅ ganada | +2.20 |
-| HomeRunHazard | Roehampton: Lucas Poullain vs Max Basing | Lucas Poullain (BUY) | 50% | 10.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Roehampton: Lucas Poullain vs Max Basing | Lucas Poullain (BUY) | 50% | 10.00 | 0.3% | ✅ ganada | +10.00 |
 | ferrariChampions2026 | Quebec City: Stefano Napolitano vs Ugo B | Ugo Blanchet (BUY) | 55% | 10.00 | 0.2% | ✅ ganada | +8.18 |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Maria Sa | Iga Swiatek (BUY) | 73% | 10.00 | 0.9% | ✅ ganada | +3.70 |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 78% | 10.00 | 2.9% | ✅ ganada | +2.82 |
-| swisstony | Pisa SC vs. Empoli FC: O/U 1.5 | Over (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
