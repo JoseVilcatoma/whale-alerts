@@ -8486,8 +8486,8 @@
     "title": "Sion: Luca Wiedenmann vs Thiago Cigarran",
     "outcome": "Luca Wiedenmann",
     "side": "BUY",
-    "whale_usd": 3609.6866659999996,
-    "whale_pct": 2.61,
+    "whale_usd": 4290.174975,
+    "whale_pct": 3.102,
     "whale_value_at_open": 138316.8391,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -8497,8 +8497,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786955089.8262994,
-    "fills": 1
+    "last_fill_at": 1786955413.6243062,
+    "fills": 2
   },
   {
     "timestamp": 1786955224,
@@ -8546,6 +8546,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786955259.6612833,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786955468,
+    "timestamp_added": 1786955468.9681664,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mazzoni-haverma-2026-08-17",
+    "title": "ITF W35 Verbier Women: Emma Mazzoni vs Danique Havermans",
+    "outcome": "Emma Mazzoni",
+    "side": "BUY",
+    "whale_usd": 786.24,
+    "whale_pct": 1.992,
+    "whale_value_at_open": 39478.3938,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786955468.9681733,
     "fills": 1
   }
 ]
