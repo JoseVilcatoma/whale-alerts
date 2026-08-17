@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 04:46:00 (hora de Perú)
+Actualizado: 2026-08-17 04:48:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $771.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 04:46:00 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $541.84)
+**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $531.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 5 | -41.35 USD |
-| RN1 | 31 | 19 | 10 | -51.93 USD |
+| RN1 | 31 | 19 | 11 | -51.93 USD |
 | ferrariChampions2026 | 37 | 34 | 4 | -54.40 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 
@@ -136,6 +136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague: Luciano Emanuel Ambrogi vs Oleks | Luciano Emanuel Ambrogi (BUY) | 42% | 10.00 | 4.8% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Naoko Eto vs Scar | Scarlet Kavanagh (BUY) | 97% | 10.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague: Andrej Martin vs Javier Barranco | Javier Barranco Cosano (BUY) | 86% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Alba Rey Garcia vs | Barbora Michalkova (BUY) | 59% | 10.00 | 5.2% | ⏳ pendiente | — |
@@ -165,4 +166,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Taipei Men: Nitin Kumar Sinha vs | Nitin Kumar Sinha (BUY) | 83% | 10.00 | 1.0% | ✅ ganada | +2.05 |
 | swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Under (BUY) | 49% | 10.00 | 0.7% | ✅ ganada | +10.41 |
 | swisstony | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 3.5% | ✅ ganada | +4.08 |
-| RN1 | Will Club Tijuana win on 2026-08-16? | Yes (BUY) | 71% | 10.00 | 1.2% | ✅ ganada | +4.08 |
