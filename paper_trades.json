@@ -10896,8 +10896,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 7222.7419,
-    "whale_pct": 2.065,
+    "whale_usd": 15898.141900000002,
+    "whale_pct": 4.545,
     "whale_value_at_open": 349793.9223,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10909,8 +10909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009966.3728688,
-    "fills": 3
+    "last_fill_at": 1787010122.229734,
+    "fills": 4
   },
   {
     "timestamp": 1787007594,
@@ -11117,8 +11117,8 @@
     "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 8823.147619,
-    "whale_pct": 2.491,
+    "whale_usd": 10164.481147999999,
+    "whale_pct": 2.87,
     "whale_value_at_open": 354158.5182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11128,8 +11128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009817.034805,
-    "fills": 6
+    "last_fill_at": 1787010189.8031874,
+    "fills": 7
   },
   {
     "timestamp": 1787008023,
@@ -11365,6 +11365,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787010007.1065772,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787010191,
+    "timestamp_added": 1787010191.4681506,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-noskova-tauson-2026-08-17-first-set-winner-Noskova-vs-Tauson",
+    "title": "Set 1 Winner: Noskova vs Tauson",
+    "outcome": "Noskova",
+    "side": "BUY",
+    "whale_usd": 582.689655,
+    "whale_pct": 0.132,
+    "whale_value_at_open": 442516.1783,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787010191.4681597,
     "fills": 1
   }
 ]
