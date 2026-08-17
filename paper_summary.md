@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:15:39 (hora de Perú)
+Actualizado: 2026-08-17 17:17:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:15:39 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $521.74)
+**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $501.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,13 +41,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| 111111111115 | 11 | 11 | 0 | -23.43 USD |
+| 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 48 | 45 | 10 | -122.81 USD |
+| ferrariChampions2026 | 48 | 45 | 11 | -122.81 USD |
 
 ## Análisis general
 
@@ -143,8 +143,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 111111111115 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 48% | 10.00 | 14.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 81% | 10.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 83% | 10.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 71% | 10.00 | 6.2% | ⏳ pendiente | — |
@@ -164,12 +166,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Kenta Miyoshi vs Roger Pascual | Roger Pascual Ferra (BUY) | 87% | 10.00 | 1.2% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Leo Raquillet | Benjamin Hassan (BUY) | 85% | 10.00 | 0.2% | ✅ ganada | +1.76 |
 | ferrariChampions2026 | US Sassuolo Calcio vs. Cesena FC: O/U 3. | Over (BUY) | 48% | 10.00 | 0.3% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 55% | 10.00 | 3.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 55% | 10.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA Tucumán (BUY) | 97% | 10.00 | 0.3% | ✅ ganada | +0.31 |
 | alaskabaked | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 50% | 10.00 | 26.5% | ⏳ pendiente | — |
 | SineNooneEI | LoL: GIANTX vs Karmine Corp - Game 2 Win | Karmine Corp (BUY) | 80% | 10.00 | 77.9% | ✅ ganada | +2.50 |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 52% | 10.00 | 17.5% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 43% | 10.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Cezar Cretu vs Thomas Faurel | Cezar Cretu (BUY) | 67% | 10.00 | 1.7% | ✅ ganada | +4.93 |
-| HomeRunHazard | Cincinnati Open: Diane Parry vs Lois Boi | Lois Boisson (BUY) | 71% | 10.00 | 4.4% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Cincinnati Open: Alexander Blockx vs Fla | Alexander Blockx (BUY) | 54% | 10.00 | 1.1% | ❌ perdida | -10.00 |
