@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 14:49:53 (hora de Perú)
+Actualizado: 2026-08-17 14:51:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $809.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 14:49:53 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $229.04)
+**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $209.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | +0.00 USD |
 | alaskabaked | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 39 | 21 | 1 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 44 | 41 | 39 | -91.74 USD |
+| ferrariChampions2026 | 44 | 41 | 40 | -91.74 USD |
 
 ## Análisis general
 
@@ -142,6 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 64% | 10.00 | 121.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Samsunspor win on 2026-08-17? | No (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Fery vs Minaur | Fery (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Wrexham AFC win on 2026-08-17? | Yes (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cardiff City FC vs. Wrexham AFC: O/U 1.5 | Over (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -170,5 +172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | alaskabaked | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 59% | 10.00 | 46.8% | ⏳ pendiente | — |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 22.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 60% | 10.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
