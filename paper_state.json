@@ -1,5 +1,5 @@
 {
-  "bankroll": 791.7409669424981,
+  "bankroll": 794.5614797630109,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2055,6 +2055,11 @@
       "timestamp": 1787004327.6330802,
       "bankroll": 791.74,
       "event": "lost: ferrariChampions2026 \u2014 Will CA Tucum\u00e1n win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787007823.5081382,
+      "bankroll": 794.56,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Elias Ymer vs Paul Jubb"
     }
   ]
 }
