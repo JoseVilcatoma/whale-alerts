@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:48:22 (hora de Perú)
+Actualizado: 2026-08-17 17:50:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:48:22 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $261.74)
+**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $241.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
 | alaskabaked | 0 | 0 | 1 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
-| HVAB | 0 | 0 | 1 | +0.00 USD |
+| HVAB | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 39 | 21 | 12 | -33.45 USD |
+| RN1 | 39 | 21 | 13 | -33.45 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 48 | 45 | 20 | -122.81 USD |
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-cirstea-kalinsk-2026-08-17 | alaskabaked, ferrariChampions2026, swisstony |
 | atp-jodar-tabilo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
-| wta-shnaide-chwalin-2026-08-17 | RN1, ferrariChampions2026 |
+| wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 
@@ -148,6 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HVAB | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 99% | 10.00 | 20.0% | ⏳ pendiente | — |
+| RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 87% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -166,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Alvaro Guillen Meza vs Igor Ri | Igor Ribeiro Marcondes (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 69% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Jodar vs Tabilo | Jodar (BUY) | 74% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 78% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Over (BUY) | 89% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 70% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 1.5% | ⏳ pendiente | — |
@@ -176,5 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 4.0% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Rafael Jodar vs Alejand | Rafael Jodar (BUY) | 81% | 10.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 80% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Sorana Cirstea vs Anna  | Sorana Cirstea (BUY) | 83% | 10.00 | 0.4% | ⏳ pendiente | — |
-| AV23IUa | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 55.9% | ⏳ pendiente | — |

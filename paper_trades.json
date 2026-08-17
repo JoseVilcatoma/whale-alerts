@@ -10013,8 +10013,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 23748.1936,
-    "whale_pct": 7.43,
+    "whale_usd": 44569.153600000005,
+    "whale_pct": 13.945,
     "whale_value_at_open": 319605.4121,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10024,8 +10024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006400.6319983,
-    "fills": 7
+    "last_fill_at": 1787007013.2232502,
+    "fills": 10
   },
   {
     "timestamp": 1787004660,
@@ -10299,8 +10299,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 588.5934000000001,
-    "whale_pct": 0.182,
+    "whale_usd": 4892.393400000001,
+    "whale_pct": 1.512,
     "whale_value_at_open": 323623.7519,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -10313,8 +10313,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787005443.7224302,
-    "fills": 1
+    "last_fill_at": 1787006992.7882402,
+    "fills": 3
   },
   {
     "timestamp": 1787005449,
@@ -10741,6 +10741,55 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787006715.3596416,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006961,
+    "timestamp_added": 1787006962.1369612,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-vel-def-2026-08-17-first-half-total-1pt5",
+    "title": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 509.90999999999997,
+    "whale_pct": 0.191,
+    "whale_value_at_open": 267164.4272,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006962.1369703,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787006986,
+    "timestamp_added": 1787006986.4102101,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-shnaide-chwalin-2026-08-17",
+    "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+    "outcome": "Diana Shnaider",
+    "side": "BUY",
+    "whale_usd": 6944.7896,
+    "whale_pct": 20.033,
+    "whale_value_at_open": 34666.6216,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787006986.4102182,
     "fills": 1
   }
 ]
