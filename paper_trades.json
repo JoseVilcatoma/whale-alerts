@@ -9076,8 +9076,8 @@
     "title": "LoL: T1 vs DN SOOPers - Game 4 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 8153.472032000001,
-    "whale_pct": 4.392,
+    "whale_usd": 9615.603032,
+    "whale_pct": 5.18,
     "whale_value_at_open": 185635.1429,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9089,7 +9089,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786971895.241544,
-    "fills": 9
+    "last_fill_at": 1786971925.1520777,
+    "fills": 11
   }
 ]
