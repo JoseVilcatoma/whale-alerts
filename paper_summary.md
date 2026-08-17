@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 13:55:23 (hora de Perú)
+Actualizado: 2026-08-17 13:57:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.99
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 17.2% | ⏳ pendiente | — |
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-0 | Yes (BUY) | 45% | 10.00 | 22.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 51% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 60% | 10.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Tucumán win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
