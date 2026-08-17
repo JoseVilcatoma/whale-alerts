@@ -1,5 +1,5 @@
 {
-  "bankroll": 790.1105321598893,
+  "bankroll": 783.2684268967314,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2055,6 +2055,16 @@
       "timestamp": 1786998304.1499724,
       "bankroll": 790.11,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Tristan Boyer vs James Watt"
+    },
+    {
+      "timestamp": 1786998680.525645,
+      "bankroll": 780.11,
+      "event": "lost: ferrariChampions2026 \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1786998680.8826363,
+      "bankroll": 783.27,
+      "event": "won: ferrariChampions2026 \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 3.5"
     }
   ]
 }
