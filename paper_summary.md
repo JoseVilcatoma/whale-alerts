@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 22:32:25 (hora de Perú)
+Actualizado: 2026-08-16 22:34:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $736.46
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 22:32:25 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $396.46)
+**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $386.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | WTSA | 0 | 0 | 2 | +0.00 USD |
 | MaoZeDonK | 0 | 0 | 3 | +0.00 USD |
-| swisstony | 0 | 0 | 4 | +0.00 USD |
+| swisstony | 0 | 0 | 5 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -133,6 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: Club Tijuana (-1.5) | CF Cruz Azul (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | MaoZeDonK | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 45% | 10.00 | 5.2% | ⏳ pendiente | — |
 | MaoZeDonK | Seattle Sounders FC vs. Vancouver Whitec | Under (BUY) | 45% | 10.00 | 16.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Seattle Sounders FC win on 2026-08- | No (BUY) | 79% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -144,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 59% | 10.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 65% | 10.00 | 22.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Sounders FC vs. Vancouver Whitec | Over (BUY) | 56% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Tereza Valentova (BUY) | 73% | 10.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: ALKA vs QUINTESSÊNCIA (B | ALKA (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | MaoZeDonK | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 44% | 10.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Evil Geniuses (BUY) | 56% | 10.00 | 9.3% | ⏳ pendiente | — |
@@ -162,4 +163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Valorant: Cloud9 vs Evil Geniuses (BO3)  | Cloud9 (BUY) | 73% | 10.00 | 4.5% | ⏳ pendiente | — |
 | WTSA | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 54% | 10.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tereza Valentova vs Eli | Elina Svitolina (BUY) | 82% | 10.00 | 14.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Dallas (-1.5) | Austin FC (BUY) | 67% | 10.00 | 0.3% | ✅ ganada | +4.93 |
