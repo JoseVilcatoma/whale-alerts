@@ -9471,5 +9471,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786976363.3614154,
     "fills": 1
+  },
+  {
+    "timestamp": 1786976612,
+    "timestamp_added": 1786976613.0642629,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bal-tb-2026-08-17",
+    "title": "Baltimore Orioles vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 32934.672,
+    "whale_pct": 61.108,
+    "whale_value_at_open": 53896.0765,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786976613.0642684,
+    "fills": 1
   }
 ]
