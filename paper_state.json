@@ -1,5 +1,5 @@
 {
-  "bankroll": 775.8694369977414,
+  "bankroll": 781.0356288306,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2080,6 +2080,16 @@
       "timestamp": 1787001534.5141594,
       "bankroll": 775.87,
       "event": "won: ferrariChampions2026 \u2014 Spread: Elche CF (-1.5)"
+    },
+    {
+      "timestamp": 1787001600.2784524,
+      "bankroll": 778.22,
+      "event": "won: ferrariChampions2026 \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787001663.318735,
+      "bankroll": 781.04,
+      "event": "won: ferrariChampions2026 \u2014 Spread: RC Deportivo A Coru\u00f1a (-1.5)"
     }
   ]
 }

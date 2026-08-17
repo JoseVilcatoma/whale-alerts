@@ -10387,8 +10387,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
     "odds_ballena": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.35,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10688,8 +10688,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10868,8 +10868,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 3979.9674000000005,
-    "whale_pct": 1.52,
+    "whale_usd": 6812.8226,
+    "whale_pct": 2.602,
     "whale_value_at_open": 261846.8047,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10881,7 +10881,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787001255.1541271,
-    "fills": 3
+    "last_fill_at": 1787001644.8739543,
+    "fills": 5
   }
 ]
