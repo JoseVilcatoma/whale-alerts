@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 18:39:48 (hora de Perú)
+Actualizado: 2026-08-17 18:41:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.72
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 18:39:48 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $640.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $186.72)
+**Capital comprometido ahora mismo:** $660.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $166.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 41 | 21 | 19 | -30.06 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 54 | 45 | 23 | -103.90 USD |
+| ferrariChampions2026 | 54 | 45 | 25 | -103.90 USD |
 
 ## Análisis general
 
@@ -152,6 +152,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 90% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 50% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 53% | 10.00 | 3.2% | ⏳ pendiente | — |
@@ -180,5 +182,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 87% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 58% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 46% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Tampa Bay Rays (-1.5) | Baltimore Orioles (BUY) | 72% | 10.00 | 2.3% | ⏳ pendiente | — |
