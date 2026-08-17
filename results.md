@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 16:19:44 (hora de Perú)
+Actualizado: 2026-08-17 16:21:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **368**  ($18,864,026 en total)
-- Resueltas: **350** — 208 ganadas / 142 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **370**  ($18,947,104 en total)
+- Resueltas: **351** — 209 ganadas / 142 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 113
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,031,597** sobre $18,033,982 apostados (ROI **+5.7%**)
-- Copiando $100 fijo en cada una: **-$1,050** sobre $34,200 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$1,052,097** sobre $18,063,482 apostados (ROI **+5.8%**)
+- Copiando $100 fijo en cada una: **-$980** sobre $34,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 19 | 4 | 63% | $3,077,584 | +$71,649 |
-| sainttroplay | 10 | 4 | 1 | 71% | $2,121,633 | +$1,815,515 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 32 | 19 | 5 | 63% | $3,119,663 | +$71,649 |
+| sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
+| Eztennis | 2 | 0 | 1 | ⚠️ 100% (2) | $118,169 | +$111,697 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
 | sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
-| Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 
 _(mostrando los 40 de mayor monto, de 113 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | — | ⏳ Pendiente |
+| Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | — | ⏳ Pendiente |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
@@ -81,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | — | ⏳ Pendiente |
 | Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | — | ⏳ Pendiente |
-| sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 113 en total)_
 | pleaseplease123 | Chicago White Sox vs. Detroit Tigers | Chicago White Sox | 2.04 (49¢) | $62,325 | +$64,869 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Sara Bejlek | 2.13 (47¢) | $28,200 | +$31,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Barbora Krejcikova vs Sara Bejlek | Barbora Krejcikova | 1.89 (53¢) | $31,800 | -$31,800 | ❌ Perdida |
-| ndb1 | Will Villarreal CF win on 2026-08-16? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
