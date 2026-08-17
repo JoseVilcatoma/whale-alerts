@@ -10449,5 +10449,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786982677.5011945,
     "fills": 1
+  },
+  {
+    "timestamp": 1786982718,
+    "timestamp_added": 1786982719.1456013,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-swiatek-sakkari-2026-08-17",
+    "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 1061.4469000000001,
+    "whale_pct": 0.767,
+    "whale_value_at_open": 138436.8271,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786982719.1456115,
+    "fills": 1
   }
 ]
