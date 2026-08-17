@@ -9225,5 +9225,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786984116.261627,
     "fills": 1
+  },
+  {
+    "timestamp": 1786984176,
+    "timestamp_added": 1786984177.112489,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-tirante-landalu-2026-08-17",
+    "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "whale_usd": 1554.696533,
+    "whale_pct": 1.011,
+    "whale_value_at_open": 153746.8149,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786984195.2172365,
+    "fills": 2
   }
 ]
