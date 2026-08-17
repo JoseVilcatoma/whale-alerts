@@ -9156,5 +9156,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786983507.2505841,
     "fills": 1
+  },
+  {
+    "timestamp": 1786983551,
+    "timestamp_added": 1786983552.4177058,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "fin1-gni-ilv-2026-08-17-total-5pt5",
+    "title": "IF Gnistan vs. Tampereen Ilves: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 670.0,
+    "whale_pct": 0.263,
+    "whale_value_at_open": 254756.0892,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786983552.417716,
+    "fills": 1
   }
 ]
