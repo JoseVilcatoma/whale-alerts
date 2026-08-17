@@ -10801,8 +10801,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 6960.469999999999,
-    "whale_pct": 2.541,
+    "whale_usd": 7800.469999999999,
+    "whale_pct": 2.848,
     "whale_value_at_open": 273897.1153,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -10812,8 +10812,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007207.6861963,
-    "fills": 2
+    "last_fill_at": 1787007322.0609565,
+    "fills": 3
   },
   {
     "timestamp": 1787007225,
@@ -10862,6 +10862,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787007256.7259173,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787007304,
+    "timestamp_added": 1787007304.775534,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "arg-vel-def-2026-08-17-spread-away-1pt5",
+    "title": "Spread: CSyD Defensa y Justicia (-1.5)",
+    "outcome": "CA V\u00e9lez Sarsfield",
+    "side": "BUY",
+    "whale_usd": 984.9899529999999,
+    "whale_pct": 0.289,
+    "whale_value_at_open": 340280.951,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787007304.7755418,
     "fills": 1
   }
 ]

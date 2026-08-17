@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 17:54:32 (hora de Perú)
+Actualizado: 2026-08-17 17:56:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $791.74
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 17:54:32 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $211.74)
+**Capital comprometido ahora mismo:** $590.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $201.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 12 | 2 | 6 | +38.88 USD |
+| swisstony | 12 | 2 | 7 | +38.88 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -148,9 +148,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
 | alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 71% | 10.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 71% | 10.00 | 2.8% | ⏳ pendiente | — |
 | HVAB | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 99% | 10.00 | 20.0% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: paiN Gaming Academy vs Ei Nerd Espo | Ei Nerd Esports (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -177,4 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Arthur Fery vs Alex de  | Alex de Minaur (BUY) | 85% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 86% | 10.00 | 3.7% | ⏳ pendiente | — |
 | swisstony | Will CA Talleres win on 2026-08-17? | No (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
-| 111111111115 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 48% | 10.00 | 34.1% | ⏳ pendiente | — |
