@@ -10126,8 +10126,8 @@
     "title": "Sion: Dimitris Sakellaridis vs Oleksandr Ovcharenko",
     "outcome": "Oleksandr Ovcharenko",
     "side": "BUY",
-    "whale_usd": 1519.292361,
-    "whale_pct": 0.529,
+    "whale_usd": 2788.8723600000003,
+    "whale_pct": 0.972,
     "whale_value_at_open": 287032.5718,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10137,8 +10137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786994280.0365589,
-    "fills": 1
+    "last_fill_at": 1786994476.7322721,
+    "fills": 2
   },
   {
     "timestamp": 1786994294,
@@ -10161,6 +10161,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786994295.203456,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786994484,
+    "timestamp_added": 1786994485.2055357,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cirstea-kalinsk-2026-08-17-first-set-winner-Cirstea-vs-Kalinskaya",
+    "title": "Set 1 Winner: Cirstea vs Kalinskaya",
+    "outcome": "Cirstea",
+    "side": "BUY",
+    "whale_usd": 936.044705,
+    "whale_pct": 0.321,
+    "whale_value_at_open": 291159.2344,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786994485.2055483,
     "fills": 1
   }
 ]
