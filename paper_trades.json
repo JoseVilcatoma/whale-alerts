@@ -10333,8 +10333,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
     "outcome": "Anna Kalinskaya",
     "side": "BUY",
-    "whale_usd": 3499.1660469999997,
-    "whale_pct": 1.152,
+    "whale_usd": 6602.979046999999,
+    "whale_pct": 2.175,
     "whale_value_at_open": 303630.7694,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 41,
@@ -10346,8 +10346,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786996161.2153816,
-    "fills": 5
+    "last_fill_at": 1787000891.154329,
+    "fills": 6
   },
   {
     "timestamp": 1786994956,
@@ -10822,8 +10822,8 @@
     "title": "Cincinnati Open: Magdalena Frech vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 20568.932338,
-    "whale_pct": 6.88,
+    "whale_usd": 21300.604932,
+    "whale_pct": 7.125,
     "whale_value_at_open": 298967.9796,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -10833,8 +10833,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787000581.530845,
-    "fills": 7
+    "last_fill_at": 1787000882.325235,
+    "fills": 8
   },
   {
     "timestamp": 1787000582,
@@ -10857,6 +10857,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787000780.2613862,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787000917,
+    "timestamp_added": 1787000917.2463148,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-cirstea-kalinsk-2026-08-17",
+    "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+    "outcome": "Sorana Cirstea",
+    "side": "BUY",
+    "whale_usd": 2776.572,
+    "whale_pct": 1.06,
+    "whale_value_at_open": 261846.8047,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787000922.2071142,
     "fills": 2
   }
 ]
