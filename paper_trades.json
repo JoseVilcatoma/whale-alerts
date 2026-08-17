@@ -10159,8 +10159,8 @@
     "title": "San Diego Padres vs. New York Mets",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 1053.509433,
-    "whale_pct": 14.394,
+    "whale_usd": 2494.103772,
+    "whale_pct": 34.076,
     "whale_value_at_open": 7319.271,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -10170,8 +10170,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787004997.432532,
-    "fills": 1
+    "last_fill_at": 1787007062.7093577,
+    "fills": 3
   },
   {
     "timestamp": 1787005138,
@@ -10205,8 +10205,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
     "outcome": "Diana Shnaider",
     "side": "BUY",
-    "whale_usd": 10804.723757,
-    "whale_pct": 3.364,
+    "whale_usd": 11886.670397,
+    "whale_pct": 3.701,
     "whale_value_at_open": 321168.4584,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -10216,8 +10216,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006710.5259366,
-    "fills": 5
+    "last_fill_at": 1787007051.9621105,
+    "fills": 6
   },
   {
     "timestamp": 1787005350,
