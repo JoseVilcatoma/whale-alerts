@@ -9235,8 +9235,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 1554.696533,
-    "whale_pct": 1.011,
+    "whale_usd": 3654.6965330000003,
+    "whale_pct": 2.377,
     "whale_value_at_open": 153746.8149,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -9246,8 +9246,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786984195.2172365,
-    "fills": 2
+    "last_fill_at": 1786984914.239879,
+    "fills": 3
   },
   {
     "timestamp": 1786984282,
@@ -9258,8 +9258,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 2137.5677,
-    "whale_pct": 0.639,
+    "whale_usd": 3155.0398,
+    "whale_pct": 0.944,
     "whale_value_at_open": 334271.2064,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -9271,8 +9271,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786984503.9128957,
-    "fills": 2
+    "last_fill_at": 1786984986.063084,
+    "fills": 3
   },
   {
     "timestamp": 1786984613,
@@ -9318,6 +9318,79 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1786984701.692567,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786984929,
+    "timestamp_added": 1786984930.1549337,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-kovacko-escorih-2026-08-17",
+    "title": "ITF W50 Prague Women: Jana Kovackova vs Irene Burillo Escorihuela",
+    "outcome": "Jana Kovackova",
+    "side": "BUY",
+    "whale_usd": 1995.25,
+    "whale_pct": 0.57,
+    "whale_value_at_open": 349744.5361,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786984990.1298203,
+    "fills": 2
+  },
+  {
+    "timestamp": 1786985000,
+    "timestamp_added": 1786985000.9999278,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-parry-boisson-2026-08-17",
+    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "whale_usd": 8444.0414,
+    "whale_pct": 2.383,
+    "whale_value_at_open": 354283.2531,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786985000.9999387,
+    "fills": 1
+  },
+  {
+    "timestamp": 1786985006,
+    "timestamp_added": 1786985006.3802972,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blockx-cobolli-2026-08-17",
+    "title": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 770.0,
+    "whale_pct": 0.217,
+    "whale_value_at_open": 354283.2531,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 71,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786985006.3803082,
     "fills": 1
   }
 ]
