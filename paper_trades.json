@@ -10896,8 +10896,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 18684.707588,
-    "whale_pct": 5.342,
+    "whale_usd": 19387.563588,
+    "whale_pct": 5.543,
     "whale_value_at_open": 349793.9223,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -10909,8 +10909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010423.0038872,
-    "fills": 6
+    "last_fill_at": 1787010526.5151434,
+    "fills": 7
   },
   {
     "timestamp": 1787007594,
