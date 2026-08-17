@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-16 23:36:24 (hora de Perú)
+Actualizado: 2026-08-16 23:38:25 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $763.63
@@ -12,7 +12,7 @@ Actualizado: 2026-08-16 23:36:24 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $10.00 en 1 posiciones abiertas (disponible para nuevas apuestas: $753.63)
+**Capital comprometido ahora mismo:** $60.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $703.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,6 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +8.38 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
+| swisstony | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | SDTrading | 2 | 2 | 0 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -40,10 +41,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 15 | 12 | 0 | -41.35 USD |
-| ferrariChampions2026 | 37 | 33 | 0 | -44.40 USD |
-| RN1 | 27 | 18 | 0 | -50.57 USD |
+| ferrariChampions2026 | 37 | 33 | 1 | -44.40 USD |
+| RN1 | 27 | 18 | 1 | -50.57 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| HomeRunHazard | 16 | 15 | 3 | -64.68 USD |
 
 ## Análisis general
 
@@ -119,23 +119,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-g2-fnc-2026-08-16-game2 | ChonkyChocolateCake, SineNooneEI |
 | wnba-por-phx-2026-08-16 | HomeRunHazard, Sassy-Bucket |
 | lol-ly-sen-2026-08-16-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake |
-| mlb-sea-hou-2026-08-16 | HomeRunHazard, ferrariChampions2026 |
-| val-c9-eg2-2026-08-16-game2 | IMAREALPERSON, casualbet2020, ferrariChampions2026 |
-| mls-sea-vwh-2026-08-16-vwh | WTSA, ferrariChampions2026 |
-| wta-valento-svitoli-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
-| val-c9-eg2-2026-08-16 | MaoZeDonK, ferrariChampions2026 |
-| atp-sonego-tiafoe-2026-08-16 | HomeRunHazard, ferrariChampions2026, swisstony |
-| mex-tij-caz-2026-08-16-caz | RN1, WTSA, swisstony |
-| mls-sea-vwh-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
-| mls-sea-vwh-2026-08-16-total-1pt5 | MaoZeDonK, ferrariChampions2026 |
-| mex-tij-caz-2026-08-16-total-2pt5 | ferrariChampions2026, swisstony |
-| mls-sea-vwh-2026-08-16-sea | ferrariChampions2026, swisstony |
-| mex-tij-caz-2026-08-16-draw | RN1, ferrariChampions2026, swisstony |
+| val-c9-eg2-2026-08-16-game2 | IMAREALPERSON, casualbet2020 |
+| mex-tij-caz-2026-08-16-total-3pt5 | ferrariChampions2026, swisstony |
+| mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 5.7% | ⏳ pendiente | — |
+| swisstony | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 68% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will CF Cruz Azul win on 2026-08-16? | No (BUY) | 93% | 10.00 | 4.8% | ⏳ pendiente | — |
+| swisstony | Will Club Tijuana vs. CF Cruz Azul end i | No (BUY) | 76% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Club Tijuana vs. CF Cruz Azul: O/U 3.5 | Over (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 42% | 10.00 | 3.4% | ✅ ganada | +13.81 |
 | IMAREALPERSON | Valorant: Cloud9 vs Evil Geniuses - Map  | Evil Geniuses (BUY) | 43% | 10.00 | 9.8% | ✅ ganada | +13.26 |
 | HomeRunHazard | Seattle Mariners vs. Houston Astros: O/U | Under (BUY) | 79% | 10.00 | 0.4% | ✅ ganada | +2.66 |
@@ -161,8 +157,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | Fnatic (BUY) | 49% | 10.00 | 13.9% | ✅ ganada | +10.41 |
 | Sassy-Bucket | Kansas City Royals vs. Los Angeles Angel | Over (BUY) | 42% | 10.00 | 10.1% | ❌ perdida | -10.00 |
 | IMAREALPERSON | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 49% | 10.00 | 27.2% | ❌ perdida | -10.00 |
-| crisp1973 | Will SK Slavia Praha win on 2026-08-16? | No (BUY) | 51% | 10.00 | 366.9% | ✅ ganada | +9.61 |
-| midwicket72 | The Hundred: Trent Rockets vs Manchester | Trent Rockets (BUY) | 55% | 10.00 | 19.5% | ❌ perdida | -10.00 |
-| ChonkyChocolateCake | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 63% | 10.00 | 29.1% | ❌ perdida | -10.00 |
-| midwicket72 | Metro Bank One Day Cup: Leicestershire v | Leicestershire (BUY) | 92% | 10.00 | 5.4% | ✅ ganada | +0.87 |
-| SineNooneEI | LoL: G2 Esports vs Fnatic - Game 1 Winne | G2 Esports (BUY) | 76% | 10.00 | 9.5% | ❌ perdida | -10.00 |
