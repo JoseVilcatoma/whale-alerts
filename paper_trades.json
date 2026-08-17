@@ -8834,5 +8834,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1786959896.9396923,
     "fills": 1
+  },
+  {
+    "timestamp": 1786959998,
+    "timestamp_added": 1786959999.037432,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ambrogi-krutykh-2026-08-17",
+    "title": "Prague: Luciano Emanuel Ambrogi vs Oleksii Krutykh",
+    "outcome": "Luciano Emanuel Ambrogi",
+    "side": "BUY",
+    "whale_usd": 2140.6099999999997,
+    "whale_pct": 4.823,
+    "whale_value_at_open": 44384.0291,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1786959999.0374396,
+    "fills": 1
   }
 ]
