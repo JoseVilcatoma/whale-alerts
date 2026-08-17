@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 13:52:23 (hora de Perú)
+Actualizado: 2026-08-17 13:54:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **362**  ($18,603,829 en total)
+- Apuestas registradas: **363**  ($18,660,273 en total)
 - Resueltas: **350** — 208 ganadas / 142 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 112
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| 3edmond.dantes | 3 | 0 | 2 | ⚠️ 100% (3) | $388,826 | +$199,684 |
+| 3edmond.dantes | 3 | 0 | 3 | ⚠️ 100% (3) | $445,270 | +$199,684 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | pleaseplease123 | 5 | 2 | 1 | ⚠️ 71% (7) | $344,704 | +$64,948 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | — | ⏳ Pendiente |
 | olegio | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.79 (56¢) | $28,854 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | -$73,336 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C | MOUZ | 1.09 (92¢) | $26,220 | +$2,280 | ✅ Ganada |
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.08 (48¢) | $115,200 | -$115,200 | ❌ Perdida |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.13 (47¢) | $35,250 | -$35,250 | ❌ Perdida |
