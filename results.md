@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 14:49:31 (hora de Perú)
+Actualizado: 2026-08-17 14:51:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **365**  ($18,750,239 en total)
+- Apuestas registradas: **366**  ($18,789,543 en total)
 - Resueltas: **350** — 208 ganadas / 142 perdidas (**59%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 112
+- Pendientes: 16
+- Apostadores distintos: 113
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | greyoctober | 1 | 0 | 0 | ⚠️ 100% (1) | $92,000 | +$8,000 |
 | Marcoli | 1 | 1 | 0 | ⚠️ 50% (2) | $89,838 | -$17,609 |
 
-_(mostrando los 40 de mayor monto, de 112 en total)_
+_(mostrando los 40 de mayor monto, de 113 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 112 en total)_
 | sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Villarreal CF win on 2026-08-16? | No | 2.00 (50¢) | $88,500 | +$88,500 | ✅ Ganada |
 | swisstony | Will Manchester City win on 2026-08-16? | No | 1.08 (93¢) | $95,128 | +$7,160 | ✅ Ganada |
-| sainttroplay | Will Villarreal CF win on 2026-08-16? | Yes | 2.04 (49¢) | $73,336 | -$73,336 | ❌ Perdida |
