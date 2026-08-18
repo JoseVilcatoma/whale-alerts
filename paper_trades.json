@@ -14009,8 +14009,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1593.9984,
-    "whale_pct": 8.493,
+    "whale_usd": 3235.9968,
+    "whale_pct": 17.242,
     "whale_value_at_open": 18768.5694,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 85,
@@ -14020,8 +14020,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787052364.3793273,
-    "fills": 1
+    "last_fill_at": 1787057622.9309413,
+    "fills": 2
   },
   {
     "timestamp": 1787052776,
@@ -14419,5 +14419,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787057438.3838854,
     "fills": 2
+  },
+  {
+    "timestamp": 1787057595,
+    "timestamp_added": 1787057595.7775908,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-havlick-bervid-2026-08-18",
+    "title": "ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid",
+    "outcome": "Lucie Havlickova",
+    "side": "BUY",
+    "whale_usd": 950.3308,
+    "whale_pct": 0.517,
+    "whale_value_at_open": 183847.4589,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 84,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787057595.7775972,
+    "fills": 1
   }
 ]
