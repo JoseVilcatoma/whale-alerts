@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:53:59 (hora de Perú)
+Actualizado: 2026-08-17 21:56:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $827.42
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:53:59 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $674.68 en 78 posiciones abiertas (disponible para nuevas apuestas: $152.74)
+**Capital comprometido ahora mismo:** $684.68 en 79 posiciones abiertas (disponible para nuevas apuestas: $142.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 61 | 26 | 25 | -11.66 USD |
+| RN1 | 61 | 26 | 26 | -11.66 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -177,6 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Club Necaxa vs. Club León FC: O/U 3.5 | Under (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
 | TennisLove | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -206,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 53% | 10.00 | 60.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Twins (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
