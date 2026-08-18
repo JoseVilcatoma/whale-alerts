@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.0540364711735,
+  "bankroll": 806.4621997364796,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2640,6 +2640,16 @@
       "timestamp": 1787025652.9135768,
       "bankroll": 806.05,
       "event": "lost: swisstony \u2014 Will SC Internacional vs. Clube do Remo end in a draw?"
+    },
+    {
+      "timestamp": 1787026280.0060108,
+      "bankroll": 816.46,
+      "event": "won: RN1 \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787026280.1062684,
+      "bankroll": 806.46,
+      "event": "lost: RN1 \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-17?"
     }
   ]
 }
