@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 22:50:20 (hora de Perú)
+Actualizado: 2026-08-17 22:52:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **384**  ($19,660,050 en total)
-- Resueltas: **381** — 228 ganadas / 153 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **382** — 229 ganadas / 153 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$949,282** sobre $19,552,299 apostados (ROI **+4.9%**)
-- Copiando $100 fijo en cada una: **-$1,077** sobre $37,200 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$951,054** sobre $19,580,061 apostados (ROI **+4.9%**)
+- Copiando $100 fijo en cada una: **-$1,070** sobre $37,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $54,488 | — | ⏳ Pendiente |
 | IlIIIIlIl | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 1.92 (52¢) | $30,898 | -$30,898 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jiri Lehecka vs Arthur Fils | Arthur Fils | 1.28 (78¢) | $45,955 | +$12,962 | ✅ Ganada |
-| 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | — | ⏳ Pendiente |
+| 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | +$1,772 | ✅ Ganada |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$4,386 | 💰 Vendida antes |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$7,085 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | +$9,169 | ✅ Ganada |
