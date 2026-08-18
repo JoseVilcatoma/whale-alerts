@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:05:23 (hora de Perú)
+Actualizado: 2026-08-17 20:07:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $836.43
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:05:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $836.43 en 88 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $836.43 en 90 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
-| alaskabaked | 1 | 1 | 0 | +3.67 USD |
+| alaskabaked | 1 | 1 | 1 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 2 | 0 | 1 | +0.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | +0.00 USD |
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 47 | 23 | 25 | -32.39 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 58 | 46 | 37 | -90.46 USD |
+| ferrariChampions2026 | 58 | 46 | 38 | -90.46 USD |
 
 ## Análisis general
 
@@ -156,7 +156,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-hijikat-mensik-2026-08-17 | RN1, ferrariChampions2026 |
-| mlb-cws-chc-2026-08-17 | RN1, ferrariChampions2026 |
+| mlb-cws-chc-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
 
@@ -164,10 +164,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club León FC win on 2026-08-17? | No (BUY) | 62% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 78% | 0.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 1.4% | ⏳ pendiente | — |
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ⏳ pendiente | — |
@@ -189,8 +191,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 49% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-2.5) | Athletics (BUY) | 43% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Luka Pavlovic (BUY) | 64% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.9% | ⏳ pendiente | — |
