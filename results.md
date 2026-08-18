@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 22:46:16 (hora de Perú)
+Actualizado: 2026-08-17 22:48:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **384**  ($19,660,050 en total)
-- Resueltas: **379** — 228 ganadas / 151 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **381** — 228 ganadas / 153 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,015,952** sobre $19,485,628 apostados (ROI **+5.2%**)
-- Copiando $100 fijo en cada una: **-$877** sobre $37,000 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$949,282** sobre $19,552,299 apostados (ROI **+4.9%**)
+- Copiando $100 fijo en cada una: **-$1,077** sobre $37,200 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 3edmond.dantes | 3 | 3 | 0 | ⚠️ 50% (6) | $445,270 | -$82,826 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
-| pleaseplease123 | 5 | 3 | 1 | 62% | $380,477 | +$28,721 |
+| pleaseplease123 | 5 | 4 | 0 | 56% | $380,477 | -$7,052 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 0 | ⚠️ 83% (6) | $297,029 | +$215,740 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 4 | 0 | 0 | ⚠️ 100% (4) | $115,304 | +$18,393 |
-| Mylifeisover | 1 | 1 | 1 | ⚠️ 50% (2) | $113,539 | -$2,641 |
+| Mylifeisover | 1 | 2 | 0 | ⚠️ 33% (3) | $113,539 | -$33,539 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $54,488 | — | ⏳ Pendiente |
-| IlIIIIlIl | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 1.92 (52¢) | $30,898 | — | ⏳ Pendiente |
+| IlIIIIlIl | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 1.92 (52¢) | $30,898 | -$30,898 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jiri Lehecka vs Arthur Fils | Arthur Fils | 1.28 (78¢) | $45,955 | +$12,962 | ✅ Ganada |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$4,386 | 💰 Vendida antes |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | -$49,527 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | +$29,241 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
-| pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | -$35,773 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | -$39,304 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | +$13,982 | ✅ Ganada |
