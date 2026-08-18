@@ -15727,8 +15727,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 7794.21998,
-    "whale_pct": 2.973,
+    "whale_usd": 11015.29498,
+    "whale_pct": 4.202,
     "whale_value_at_open": 262125.398,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15740,8 +15740,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075684.3637104,
-    "fills": 6
+    "last_fill_at": 1787075756.2085295,
+    "fills": 7
   },
   {
     "timestamp": 1787074548,
@@ -15826,8 +15826,8 @@
     "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
     "outcome": "Lorenzo Musetti",
     "side": "BUY",
-    "whale_usd": 1592.68949,
-    "whale_pct": 0.722,
+    "whale_usd": 3167.114183,
+    "whale_pct": 1.436,
     "whale_value_at_open": 220511.7524,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -15841,8 +15841,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075343.1282756,
-    "fills": 2
+    "last_fill_at": 1787075847.0377433,
+    "fills": 3
   },
   {
     "timestamp": 1787074892,
@@ -16049,8 +16049,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Alessandra Mazzola",
     "side": "BUY",
-    "whale_usd": 1083.76,
-    "whale_pct": 0.459,
+    "whale_usd": 2383.55,
+    "whale_pct": 1.01,
     "whale_value_at_open": 236048.5254,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -16062,8 +16062,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075402.3494875,
-    "fills": 1
+    "last_fill_at": 1787075735.9988787,
+    "fills": 3
   },
   {
     "timestamp": 1787075666,
