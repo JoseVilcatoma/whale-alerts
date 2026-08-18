@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.193416010698,
+  "bankroll": 802.5868586336488,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2900,6 +2900,16 @@
       "timestamp": 1787056457.2485013,
       "bankroll": 806.19,
       "event": "won: ferrariChampions2026 \u2014 Prague 2: Gilles Arnaud Bailly vs Norbert Gombos"
+    },
+    {
+      "timestamp": 1787056646.326042,
+      "bankroll": 796.19,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton: Matteo Martineau vs Lui Maxted"
+    },
+    {
+      "timestamp": 1787056646.7264676,
+      "bankroll": 802.59,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Matteo Martineau vs Lui Maxted"
     }
   ]
 }
