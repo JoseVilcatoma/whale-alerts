@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:29:43 (hora de Perú)
+Actualizado: 2026-08-17 22:31:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $787.85
-**Retorno acumulado:** -21.22%
+**Bankroll actual:** $794.79
+**Retorno acumulado:** -20.52%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:29:43 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $624.68 en 72 posiciones abiertas (disponible para nuevas apuestas: $163.17)
+**Capital comprometido ahora mismo:** $614.68 en 71 posiciones abiertas (disponible para nuevas apuestas: $180.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,16 +50,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 22 | 17 | 9 | -66.28 USD |
-| ferrariChampions2026 | 81 | 58 | 20 | -103.61 USD |
+| ferrariChampions2026 | 82 | 58 | 19 | -96.66 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 499
-- **Aciertos:** 294 (58.9%)
+- **Apuestas resueltas:** 500
+- **Aciertos:** 295 (59.0%)
 - **Cuota promedio de entrada:** 60.6%
 - **Stake promedio:** $9.93
-- **Total apostado (suma de stakes):** $4,953.83
-- **ROI sobre lo apostado:** -5.17%
+- **Total apostado (suma de stakes):** $4,963.83
+- **ROI sobre lo apostado:** -5.02%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 224 | 47.8% | 49.6% | -1.9 pp |
+| 40-59% | 225 | 48.0% | 49.7% | -1.7 pp |
 | 60-79% | 142 | 68.3% | 69.2% | -0.9 pp |
 | 80-94% | 63 | 88.9% | 86.4% | +2.5 pp |
 | 95-99% (casi seguro) | 25 | 100.0% | 98.0% | +2.0 pp |
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Tai Leonard Sach vs  | Tai Leonard Sach (BUY) | 69% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Tai Leonard Sach vs  | Tai Leonard Sach (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 2.5 | Over (BUY) | 73% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Golden State Valkyries (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 90% | 10.00 | 0.3% | ⏳ pendiente | — |
