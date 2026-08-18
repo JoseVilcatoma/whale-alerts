@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:57:34 (hora de Perú)
+Actualizado: 2026-08-17 20:59:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.23
@@ -171,10 +171,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 71% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 48% | 10.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 48% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 96% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
 | RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ⏳ pendiente | — |
@@ -182,7 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ✅ ganada | +13.26 |
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ⏳ pendiente | — |
 | alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ⏳ pendiente | — |

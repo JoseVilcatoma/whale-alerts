@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 24913.469996000003,
-    "whale_pct": 5.584,
+    "whale_usd": 27103.235560000005,
+    "whale_pct": 6.075,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787015608.7310987,
-    "fills": 3
+    "last_fill_at": 1787018290.4701967,
+    "fills": 5
   },
   {
     "timestamp": 1787015430,
@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 4836.915079,
-    "whale_pct": 2.061,
+    "whale_usd": 5390.419979,
+    "whale_pct": 2.297,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787017912.2759008,
-    "fills": 4
+    "last_fill_at": 1787018335.2816672,
+    "fills": 5
   },
   {
     "timestamp": 1787017391,
@@ -12667,8 +12667,8 @@
     "title": "Will CA Talleres win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 783.642,
-    "whale_pct": 0.31,
+    "whale_usd": 1563.354,
+    "whale_pct": 0.618,
     "whale_value_at_open": 253013.3407,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
@@ -12681,8 +12681,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787017472.5479474,
-    "fills": 1
+    "last_fill_at": 1787018295.0159895,
+    "fills": 2
   },
   {
     "timestamp": 1787017515,
