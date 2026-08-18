@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 21:34:12 (hora de Perú)
+Actualizado: 2026-08-17 21:36:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **381**  ($19,549,163 en total)
-- Resueltas: **373** — 224 ganadas / 149 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **375** — 226 ganadas / 149 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,035,601** sobre $19,277,906 apostados (ROI **+5.4%**)
-- Copiando $100 fijo en cada una: **-$854** sobre $36,400 (ROI **-2.3%**)
+- **Resultado de los apostadores: +$1,051,855** sobre $19,335,254 apostados (ROI **+5.4%**)
+- Copiando $100 fijo en cada una: **-$797** sobre $36,600 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 37 | 20 | 2 | 65% | $3,379,168 | +$248,842 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 38 | 20 | 1 | 66% | $3,379,168 | +$258,011 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
-| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 3 | 0 | 1 | ⚠️ 100% (3) | $115,304 | +$11,308 |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 4 | 0 | 0 | ⚠️ 100% (4) | $115,304 | +$18,393 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jiri Lehecka vs Arthur Fils | Arthur Fils | 1.28 (78¢) | $45,955 | — | ⏳ Pendiente |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$4,386 | 💰 Vendida antes |
-| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | — | ⏳ Pendiente |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$7,085 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | +$9,169 | ✅ Ganada |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
 | xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | -$36,000 | ❌ Perdida |
 | Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
