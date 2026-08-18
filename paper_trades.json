@@ -11039,8 +11039,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 2361.7290000000003,
-    "whale_pct": 1.136,
+    "whale_usd": 3815.1768,
+    "whale_pct": 1.835,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -11054,8 +11054,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018247.084628,
-    "fills": 2
+    "last_fill_at": 1787019788.8431976,
+    "fills": 3
   },
   {
     "timestamp": 1787007936,
@@ -11354,8 +11354,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 6299.808551999999,
-    "whale_pct": 1.608,
+    "whale_usd": 6902.152551999999,
+    "whale_pct": 1.761,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -11365,8 +11365,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019572.8792758,
-    "fills": 5
+    "last_fill_at": 1787019851.793954,
+    "fills": 6
   },
   {
     "timestamp": 1787010191,
@@ -12308,8 +12308,8 @@
     "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2156.7239,
-    "whale_pct": 0.494,
+    "whale_usd": 2704.0539,
+    "whale_pct": 0.619,
     "whale_value_at_open": 436647.7591,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
@@ -12319,8 +12319,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787015330.3629022,
-    "fills": 3
+    "last_fill_at": 1787019821.9061859,
+    "fills": 4
   },
   {
     "timestamp": 1787015240,
@@ -12382,8 +12382,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 17358.273937,
-    "whale_pct": 7.401,
+    "whale_usd": 18186.496737,
+    "whale_pct": 7.754,
     "whale_value_at_open": 234532.2614,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12393,8 +12393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018992.0342178,
-    "fills": 12
+    "last_fill_at": 1787019840.9014058,
+    "fills": 13
   },
   {
     "timestamp": 1787015395,
@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 40410.037560000004,
-    "whale_pct": 9.057,
+    "whale_usd": 50971.788445,
+    "whale_pct": 11.425,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018692.7062879,
-    "fills": 7
+    "last_fill_at": 1787019862.5923638,
+    "fills": 10
   },
   {
     "timestamp": 1787015430,
@@ -12978,8 +12978,8 @@
     "title": "Spread: Club Le\u00f3n FC (-1.5)",
     "outcome": "Club Necaxa",
     "side": "BUY",
-    "whale_usd": 809.25,
-    "whale_pct": 0.225,
+    "whale_usd": 1462.6588000000002,
+    "whale_pct": 0.407,
     "whale_value_at_open": 359476.3273,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
@@ -12989,8 +12989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019473.9614823,
-    "fills": 1
+    "last_fill_at": 1787019787.2015371,
+    "fills": 2
   },
   {
     "timestamp": 1787019539,
@@ -13229,6 +13229,84 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787019757.4133568,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787019776,
+    "timestamp_added": 1787019776.452332,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "whale_usd": 2012.4863010000001,
+    "whale_pct": 0.561,
+    "whale_value_at_open": 358972.3736,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "alaskabaked",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787019776.4523413,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787019821,
+    "timestamp_added": 1787019821.407779,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-nec-leo-2026-08-17-leo",
+    "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 569.67,
+    "whale_pct": 0.157,
+    "whale_value_at_open": 363283.8799,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787019821.4077861,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787019836,
+    "timestamp_added": 1787019836.6484325,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-dal-gsv-2026-08-17",
+    "title": "Dallas Wings vs. Golden State Valkyries",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 1425.5044,
+    "whale_pct": 0.515,
+    "whale_value_at_open": 276767.8059,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787019836.6484401,
     "fills": 1
   }
 ]
