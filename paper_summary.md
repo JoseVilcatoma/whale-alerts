@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 00:32:23 (hora de Perú)
+Actualizado: 2026-08-18 00:34:27 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.95
@@ -175,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 7.5% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Alisa Vasileva (BUY) | 59% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
