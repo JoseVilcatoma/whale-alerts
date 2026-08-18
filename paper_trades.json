@@ -14569,8 +14569,8 @@
     "title": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
     "outcome": "HANJIN BRION Challengers",
     "side": "BUY",
-    "whale_usd": 557.44,
-    "whale_pct": 0.276,
+    "whale_usd": 1169.92,
+    "whale_pct": 0.58,
     "whale_value_at_open": 201679.9246,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -14580,7 +14580,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787058763.2581077,
-    "fills": 1
+    "last_fill_at": 1787058821.5903068,
+    "fills": 2
   }
 ]
