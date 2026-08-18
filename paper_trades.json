@@ -10400,8 +10400,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10469,8 +10469,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 11.28,
     "overlaps_with": [
       "RN1"
     ],
@@ -10568,8 +10568,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1"
     ],
@@ -10593,8 +10593,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -11266,8 +11266,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11289,8 +11289,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -12538,5 +12538,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787015729.217265,
     "fills": 3
+  },
+  {
+    "timestamp": 1787016250,
+    "timestamp_added": 1787016250.6177907,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-nym-2026-08-17-spread-home-2pt5",
+    "title": "Spread: New York Mets (-2.5)",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 9240.785,
+    "whale_pct": 4.078,
+    "whale_value_at_open": 226591.8412,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 84,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787016250.6177995,
+    "fills": 1
   }
 ]
