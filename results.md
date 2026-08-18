@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 21:03:44 (hora de Perú)
+Actualizado: 2026-08-17 21:05:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **380**  ($19,503,208 en total)
+- Apuestas registradas: **381**  ($19,549,163 en total)
 - Resueltas: **373** — 224 ganadas / 149 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 114
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 37 | 20 | 1 | 65% | $3,333,213 | +$248,842 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 37 | 20 | 2 | 65% | $3,379,168 | +$248,842 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jiri Lehecka vs Arthur Fils | Arthur Fils | 1.28 (78¢) | $45,955 | — | ⏳ Pendiente |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$4,386 | 💰 Vendida antes |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.92 (52¢) | $49,000 | +$23,558 | 💰 Vendida antes |
 | SDTrading | Miami Marlins vs. Cincinnati Reds | Miami Marlins | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.82 (55¢) | $47,874 | -$47,874 | ❌ Perdida |
