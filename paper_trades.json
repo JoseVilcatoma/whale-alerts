@@ -15121,8 +15121,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -15399,8 +15399,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 76,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.16,
     "overlaps_with": [
       "sentrio"
     ],
@@ -16373,6 +16373,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787076427.4083104,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787076668,
+    "timestamp_added": 1787076668.8478208,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ff-wraith-2026-08-18",
+    "title": "Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC (BO3) - ESL Challenger League Europe Cup #4 Group A",
+    "outcome": "WRAITH PCIFIC",
+    "side": "BUY",
+    "whale_usd": 1452.9847,
+    "whale_pct": 0.772,
+    "whale_value_at_open": 188199.3172,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787076668.8478303,
     "fills": 1
   }
 ]

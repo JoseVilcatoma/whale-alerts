@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 13:10:08 (hora de Perú)
+Actualizado: 2026-08-18 13:12:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $823.58
-**Retorno acumulado:** -17.64%
+**Bankroll actual:** $832.12
+**Retorno acumulado:** -16.79%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 13:10:08 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $760.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $63.58)
+**Capital comprometido ahora mismo:** $750.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $82.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,11 +23,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | +28.32 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
+| sentrio | 2 | 0 | 5 | +14.61 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 2 | +8.78 USD |
 | swisstony | 27 | 9 | 20 | +8.14 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
@@ -52,16 +52,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 119 | 74 | 25 | -77.94 USD |
+| ferrariChampions2026 | 120 | 74 | 25 | -74.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 602
-- **Aciertos:** 363 (60.3%)
-- **Cuota promedio de entrada:** 61.3%
+- **Apuestas resueltas:** 604
+- **Aciertos:** 365 (60.4%)
+- **Cuota promedio de entrada:** 61.4%
 - **Stake promedio:** $9.80
-- **Total apostado (suma de stakes):** $5,897.67
-- **ROI sobre lo apostado:** -3.60%
+- **Total apostado (suma de stakes):** $5,917.67
+- **ROI sobre lo apostado:** -3.44%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 270 | 49.3% | 49.8% | -0.5 pp |
-| 60-79% | 175 | 69.1% | 68.7% | +0.4 pp |
+| 60-79% | 177 | 69.5% | 68.7% | +0.8 pp |
 | 80-94% | 79 | 84.8% | 86.5% | -1.7 pp |
 | 95-99% (casi seguro) | 33 | 100.0% | 97.5% | +2.5 pp |
 
@@ -196,6 +196,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Fire Flux Esports vs WRA | WRAITH PCIFIC (BUY) | 74% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Galions vs Karmine Corp Blue - Game | Galions (BUY) | 88% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: AEK (-2.5) | PFK Levski Sofia (BUY) | 96% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -225,4 +226,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Will 1. FC Heidenheim vs. Bayern Munich  | No (BUY) | 94% | 10.00 | 2.6% | ⏳ pendiente | — |
