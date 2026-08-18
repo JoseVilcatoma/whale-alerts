@@ -79,6 +79,19 @@ PRECIO_MAX = float(os.environ.get("PRECIO_MAX", "95"))   # en centavos
 PRECIO_MIN = float(os.environ.get("PRECIO_MIN", "3"))    # el extremo opuesto
 TOP_N = int(os.environ.get("TOP_N", "20"))
 LB_CATEGORY = os.environ.get("LB_CATEGORY", "OVERALL")
+
+# Ballenas que NO queremos seguir. Se ponen nombres o wallets separados por
+# coma en la variable EXCLUIDOS del workflow. Comparamos por las dos cosas
+# porque el nombre se puede cambiar en Polymarket, la wallet no.
+EXCLUIDOS = {e.strip().lower() for e in os.environ.get("EXCLUIDOS", "").split(",") if e.strip()}
+
+
+def esta_excluido(username, wallet):
+    if not EXCLUIDOS:
+        return False
+    return ((username or "").lower() in EXCLUIDOS
+            or (wallet or "").lower() in EXCLUIDOS)
+
 LB_PERIODS = ["WEEK", "MONTH"]
 
 LEADERBOARD_REFRESH_SECONDS = int(os.environ.get("LEADERBOARD_REFRESH_SECONDS", "900"))
@@ -580,6 +593,9 @@ def procesar_trade(trade, origen="stream"):
 
     username = (trade.get("name") or trade.get("pseudonym")
                 or trade.get("userName") or f"{wallet[:6]}…{wallet[-4:]}")
+
+    if esta_excluido(username, wallet):
+        return False
 
     if not trade.get("slug") or not trade.get("outcome"):
         print(f"[omitida] {username}: ${usd:,.0f} — el feed mandó el trade sin "
