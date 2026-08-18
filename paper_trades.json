@@ -14170,8 +14170,8 @@
     "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
     "outcome": "Andrey Rublev",
     "side": "BUY",
-    "whale_usd": 16550.73,
-    "whale_pct": 113.021,
+    "whale_usd": 17072.37,
+    "whale_pct": 116.583,
     "whale_value_at_open": 14643.9382,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -14181,7 +14181,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787055637.6291378,
-    "fills": 2
+    "last_fill_at": 1787055661.5453727,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787055770,
+    "timestamp_added": 1787055770.7144063,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shimizu-matusev-2026-08-17",
+    "title": "Roehampton: Yuta Shimizu vs Anton Matusevich",
+    "outcome": "Anton Matusevich",
+    "side": "BUY",
+    "whale_usd": 2006.2173909999997,
+    "whale_pct": 1.21,
+    "whale_value_at_open": 165796.7378,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787055770.714415,
+    "fills": 1
   }
 ]
