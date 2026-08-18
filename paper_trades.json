@@ -15816,5 +15816,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787074651.856379,
     "fills": 5
+  },
+  {
+    "timestamp": 1787074772,
+    "timestamp_added": 1787074773.2728162,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zheng-musetti-2026-08-18",
+    "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "whale_usd": 1004.64,
+    "whale_pct": 0.456,
+    "whale_value_at_open": 220511.7524,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6",
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074773.2728229,
+    "fills": 1
   }
 ]
