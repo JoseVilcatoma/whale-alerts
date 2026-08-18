@@ -14130,8 +14130,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 9820.461812999998,
-    "whale_pct": 5.109,
+    "whale_usd": 10872.962612999998,
+    "whale_pct": 5.657,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787067044.9113562,
-    "fills": 13
+    "last_fill_at": 1787067189.4415686,
+    "fills": 15
   },
   {
     "timestamp": 1787060387,
@@ -15441,5 +15441,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787066696.569621,
     "fills": 1
+  },
+  {
+    "timestamp": 1787067173,
+    "timestamp_added": 1787067173.756501,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-rublev-borges-2026-08-18-first-set-winner-Rublev-vs-Borges",
+    "title": "Set 1 Winner: Rublev vs Borges",
+    "outcome": "Borges",
+    "side": "BUY",
+    "whale_usd": 1448.0,
+    "whale_pct": 0.508,
+    "whale_value_at_open": 285012.6476,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 91,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787067194.8645637,
+    "fills": 2
   }
 ]

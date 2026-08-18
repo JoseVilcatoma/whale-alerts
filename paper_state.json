@@ -1,5 +1,5 @@
 {
-  "bankroll": 824.0507987731618,
+  "bankroll": 828.5435523963502,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3025,6 +3025,11 @@
       "timestamp": 1787065613.9542563,
       "bankroll": 824.05,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic"
+    },
+    {
+      "timestamp": 1787067165.9181604,
+      "bankroll": 828.54,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Kia Tigers vs. Hanwha Eagles"
     }
   ]
 }
