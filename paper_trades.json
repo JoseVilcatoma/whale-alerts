@@ -14058,5 +14058,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787043127.2309475,
     "fills": 2
+  },
+  {
+    "timestamp": 1787043221,
+    "timestamp_added": 1787043221.552577,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-wa-zhu-2026-08-18",
+    "title": "ITF W15 Tianjin 3 Women: Meiling Wang vs Chenting Zhu",
+    "outcome": "Chenting Zhu",
+    "side": "BUY",
+    "whale_usd": 799.7669999999998,
+    "whale_pct": 0.816,
+    "whale_value_at_open": 98007.6876,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787043221.552589,
+    "fills": 1
   }
 ]

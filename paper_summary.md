@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:53:25 (hora de Perú)
+Actualizado: 2026-08-18 03:55:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:53:25 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $426.32)
+**Capital comprometido ahora mismo:** $390.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $416.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 20 | -26.84 USD |
+| RN1 | 79 | 36 | 21 | -26.84 USD |
 | HomeRunHazard | 25 | 17 | 8 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -177,6 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W15 Tianjin 3 Women: Meiling Wang vs | Chenting Zhu (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 72% | 10.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Gaeul Jang (BUY) | 59% | 10.00 | 2.2% | ⏳ pendiente | — |
@@ -206,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Gokberk Saritas (BUY) | 52% | 10.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Prague 2: Florian Broska vs Sean Cuenin | Florian Broska (BUY) | 43% | 10.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 2.9% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 3.2% | ⏳ pendiente | — |
