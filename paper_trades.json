@@ -15092,8 +15092,8 @@
     "title": "Quebec City: James Watt vs Ugo Blanchet",
     "outcome": "Ugo Blanchet",
     "side": "BUY",
-    "whale_usd": 13965.162998,
-    "whale_pct": 5.463,
+    "whale_usd": 14723.701098,
+    "whale_pct": 5.76,
     "whale_value_at_open": 255638.3689,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -15103,8 +15103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072836.3835976,
-    "fills": 5
+    "last_fill_at": 1787073519.9662344,
+    "fills": 6
   },
   {
     "timestamp": 1787072016,
@@ -15324,8 +15324,8 @@
     "title": "Spread: Bayern Munich (-3.5)",
     "outcome": "1. FC Heidenheim",
     "side": "BUY",
-    "whale_usd": 839.76,
-    "whale_pct": 0.358,
+    "whale_usd": 1499.249971,
+    "whale_pct": 0.64,
     "whale_value_at_open": 234244.5406,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -15335,8 +15335,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072879.6751642,
-    "fills": 1
+    "last_fill_at": 1787073607.5910718,
+    "fills": 2
   },
   {
     "timestamp": 1787072966,
@@ -15347,8 +15347,8 @@
     "title": "LoL: Bushido Wildcats vs Team Phoenix - Game 3 Winner",
     "outcome": "Bushido Wildcats",
     "side": "BUY",
-    "whale_usd": 1090.6959579999998,
-    "whale_pct": 0.366,
+    "whale_usd": 1618.986058,
+    "whale_pct": 0.543,
     "whale_value_at_open": 297885.0956,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
@@ -15358,8 +15358,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787073231.019195,
-    "fills": 2
+    "last_fill_at": 1787073519.1346369,
+    "fills": 3
   },
   {
     "timestamp": 1787073043,
@@ -15407,6 +15407,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787073437.9242532,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787073503,
+    "timestamp_added": 1787073504.356755,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-royer-miguel-2026-08-17",
+    "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
+    "outcome": "Valentin Royer",
+    "side": "BUY",
+    "whale_usd": 1292.689994,
+    "whale_pct": 0.536,
+    "whale_value_at_open": 241110.2474,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787073504.3567665,
     "fills": 1
   }
 ]
