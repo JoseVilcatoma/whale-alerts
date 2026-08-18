@@ -11118,8 +11118,8 @@
     "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 11184.122847999999,
-    "whale_pct": 3.158,
+    "whale_usd": 12854.023383,
+    "whale_pct": 3.629,
     "whale_value_at_open": 354158.5182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11129,8 +11129,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010391.3848855,
-    "fills": 8
+    "last_fill_at": 1787012925.0241401,
+    "fills": 9
   },
   {
     "timestamp": 1787008023,
@@ -11735,8 +11735,8 @@
     "title": "Will Clube do Remo win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1309.115,
-    "whale_pct": 0.633,
+    "whale_usd": 2055.656,
+    "whale_pct": 0.995,
     "whale_value_at_open": 206686.9667,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -11748,8 +11748,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012217.3345366,
-    "fills": 2
+    "last_fill_at": 1787012941.0527906,
+    "fills": 3
   },
   {
     "timestamp": 1787011862,
