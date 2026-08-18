@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.4184841999836,
+  "bankroll": 829.6654252455899,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2500,6 +2500,16 @@
       "timestamp": 1787021879.4607809,
       "bankroll": 827.42,
       "event": "won: swisstony \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787022324.354812,
+      "bankroll": 828.91,
+      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787022324.6570563,
+      "bankroll": 829.67,
+      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports (BO3) - Circuito Desafiante Playoffs"
     }
   ]
 }
