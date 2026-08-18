@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:42:55 (hora de Perú)
+Actualizado: 2026-08-18 12:44:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:42:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $237.04)
+**Capital comprometido ahora mismo:** $600.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $217.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 27 | 9 | 14 | +8.14 USD |
+| swisstony | 27 | 9 | 15 | +8.14 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 3 | 0 | -4.53 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
-| RN1 | 84 | 38 | 9 | -6.99 USD |
+| RN1 | 84 | 38 | 10 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Kulilun | 0 | 1 | 0 | -10.00 USD |
@@ -181,6 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zheng-musetti-2026-08-18 | RN1, danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
+| ucl-fen-lyo-2026-08-18-total-2pt5 | RN1, swisstony |
 | atp-lajovic-daniel-2026-08-18 | RN1, ferrariChampions2026 |
 | clf-fch-bmu-2026-08-18-total-5pt5 | RN1, ferrariChampions2026 |
 | atp-royer-miguel-2026-08-17 | ferrariChampions2026, swisstony |
@@ -193,6 +194,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 53% | 10.00 | 2.5% | ⏳ pendiente | — |
 | swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 94% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -221,5 +224,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 7.1% | ⏳ pendiente | — |
 | swisstony | Will Al Okhdood SC win on 2026-08-18? | Yes (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 92% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 2 Winn | Solary (BUY) | 66% | 10.00 | 1.4% | ⏳ pendiente | — |
-| swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
