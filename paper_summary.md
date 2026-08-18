@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:48:27 (hora de Perú)
+Actualizado: 2026-08-17 22:50:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $831.17
-**Retorno acumulado:** -16.88%
+**Bankroll actual:** $832.02
+**Retorno acumulado:** -16.80%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:48:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $492.08 en 54 posiciones abiertas (disponible para nuevas apuestas: $339.09)
+**Capital comprometido ahora mismo:** $472.08 en 52 posiciones abiertas (disponible para nuevas apuestas: $359.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 2 | 0 | -1.22 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| RN1 | 72 | 30 | 22 | -6.73 USD |
+| RN1 | 73 | 30 | 21 | -5.98 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
@@ -48,18 +48,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| ferrariChampions2026 | 89 | 60 | 10 | -56.10 USD |
+| ferrariChampions2026 | 90 | 60 | 9 | -56.00 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 25 | 19 | 4 | -66.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 523
-- **Aciertos:** 310 (59.3%)
-- **Cuota promedio de entrada:** 60.5%
+- **Apuestas resueltas:** 525
+- **Aciertos:** 312 (59.4%)
+- **Cuota promedio de entrada:** 60.6%
 - **Stake promedio:** $9.84
-- **Total apostado (suma de stakes):** $5,146.43
-- **ROI sobre lo apostado:** -4.14%
+- **Total apostado (suma de stakes):** $5,166.43
+- **ROI sobre lo apostado:** -4.10%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,8 +71,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 240 | 48.3% | 49.8% | -1.5 pp |
 | 60-79% | 148 | 69.6% | 69.1% | +0.5 pp |
-| 80-94% | 65 | 87.7% | 86.2% | +1.5 pp |
-| 95-99% (casi seguro) | 25 | 100.0% | 98.0% | +2.0 pp |
+| 80-94% | 66 | 87.9% | 86.3% | +1.6 pp |
+| 95-99% (casi seguro) | 26 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
