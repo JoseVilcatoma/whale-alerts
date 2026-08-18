@@ -14694,8 +14694,8 @@
     "title": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
     "outcome": "Geoffrey Blancaneaux",
     "side": "BUY",
-    "whale_usd": 4224.39,
-    "whale_pct": 1.675,
+    "whale_usd": 18791.0554,
+    "whale_pct": 7.449,
     "whale_value_at_open": 252261.9675,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -14705,8 +14705,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787071741.2926638,
-    "fills": 2
+    "last_fill_at": 1787071958.301222,
+    "fills": 4
   },
   {
     "timestamp": 1787069494,
@@ -15081,6 +15081,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787071813.7582269,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787071958,
+    "timestamp_added": 1787071958.5043194,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-watt-blanche-2026-08-18",
+    "title": "Quebec City: James Watt vs Ugo Blanchet",
+    "outcome": "Ugo Blanchet",
+    "side": "BUY",
+    "whale_usd": 564.0600000000001,
+    "whale_pct": 0.221,
+    "whale_value_at_open": 255638.3689,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787071958.5043302,
     "fills": 1
   }
 ]
