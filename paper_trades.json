@@ -13143,5 +13143,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787029045.1592972,
     "fills": 1
+  },
+  {
+    "timestamp": 1787029236,
+    "timestamp_added": 1787029236.9052818,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mats-chenhui-2026-08-18",
+    "title": "ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "whale_usd": 3169.4,
+    "whale_pct": 1.175,
+    "whale_value_at_open": 269646.9317,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 94,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787029237.4346416,
+    "fills": 2
   }
 ]
