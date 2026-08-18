@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:23:28 (hora de Perú)
+Actualizado: 2026-08-17 22:25:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $781.72
-**Retorno acumulado:** -21.83%
+**Bankroll actual:** $787.85
+**Retorno acumulado:** -21.22%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:23:28 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $604.68 en 70 posiciones abiertas (disponible para nuevas apuestas: $177.04)
+**Capital comprometido ahora mismo:** $604.68 en 70 posiciones abiertas (disponible para nuevas apuestas: $183.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
+| swisstony | 20 | 6 | 13 | +23.77 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
-| swisstony | 19 | 6 | 14 | +17.64 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 67 | 28 | 22 | -12.30 USD |
+| RN1 | 67 | 28 | 23 | -12.30 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -54,12 +54,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 498
-- **Aciertos:** 293 (58.8%)
+- **Apuestas resueltas:** 499
+- **Aciertos:** 294 (58.9%)
 - **Cuota promedio de entrada:** 60.6%
 - **Stake promedio:** $9.93
-- **Total apostado (suma de stakes):** $4,943.83
-- **ROI sobre lo apostado:** -5.30%
+- **Total apostado (suma de stakes):** $4,953.83
+- **ROI sobre lo apostado:** -5.17%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 224 | 47.8% | 49.6% | -1.9 pp |
-| 60-79% | 141 | 68.1% | 69.2% | -1.1 pp |
+| 60-79% | 142 | 68.3% | 69.2% | -0.9 pp |
 | 80-94% | 63 | 88.9% | 86.4% | +2.5 pp |
 | 95-99% (casi seguro) | 25 | 100.0% | 98.0% | +2.0 pp |
 
@@ -173,21 +173,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-eala-anisimo-2026-08-17 | HomeRunHazard, RN1, alaskabaked, ferrariChampions2026, swisstony |
 | mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
 | wnba-dal-gsv-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
+| mex-pac-pue-2026-08-17-total-2pt5 | RN1, kekasaur |
 | atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | CF Pachuca vs. Club Puebla: O/U 2.5 | Over (BUY) | 73% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Golden State Valkyries (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 90% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 3.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 24.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -208,4 +210,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals: O/U 14 | Over (BUY) | 46% | 10.00 | 0.1% | ❌ perdida | -10.00 |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |

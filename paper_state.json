@@ -1,5 +1,5 @@
 {
-  "bankroll": 781.7162861548182,
+  "bankroll": 787.8453184128828,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2600,6 +2600,11 @@
       "timestamp": 1787023396.4953902,
       "bankroll": 781.72,
       "event": "lost: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787023520.592377,
+      "bankroll": 787.85,
+      "event": "won: swisstony \u2014 Spread: SC Internacional (-1.5)"
     }
   ]
 }
