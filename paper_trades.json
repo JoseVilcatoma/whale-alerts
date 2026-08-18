@@ -15138,8 +15138,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 18904.17809,
-    "whale_pct": 7.679,
+    "whale_usd": 29968.74569,
+    "whale_pct": 12.173,
     "whale_value_at_open": 246187.7543,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
@@ -15149,8 +15149,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072431.2336717,
-    "fills": 3
+    "last_fill_at": 1787075225.9527304,
+    "fills": 4
   },
   {
     "timestamp": 1787072212,
@@ -15606,8 +15606,8 @@
     "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
     "outcome": "Lorenzo Musetti",
     "side": "BUY",
-    "whale_usd": 1874.1699930000002,
-    "whale_pct": 0.727,
+    "whale_usd": 3797.215293,
+    "whale_pct": 1.473,
     "whale_value_at_open": 257778.361,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 91,
@@ -15619,8 +15619,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074354.18503,
-    "fills": 1
+    "last_fill_at": 1787075225.9454107,
+    "fills": 2
   },
   {
     "timestamp": 1787074438,
@@ -15826,8 +15826,8 @@
     "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
     "outcome": "Lorenzo Musetti",
     "side": "BUY",
-    "whale_usd": 1004.64,
-    "whale_pct": 0.456,
+    "whale_usd": 1592.68949,
+    "whale_pct": 0.722,
     "whale_value_at_open": 220511.7524,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -15841,8 +15841,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074773.2728229,
-    "fills": 1
+    "last_fill_at": 1787075343.1282756,
+    "fills": 2
   },
   {
     "timestamp": 1787074892,
@@ -15878,8 +15878,8 @@
     "title": "Will Olympique Lyonnais win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1183.26,
-    "whale_pct": 0.442,
+    "whale_usd": 1702.559997,
+    "whale_pct": 0.636,
     "whale_value_at_open": 267883.2592,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -15889,8 +15889,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074962.4157488,
-    "fills": 1
+    "last_fill_at": 1787075338.5377612,
+    "fills": 2
   },
   {
     "timestamp": 1787074981,
@@ -15964,6 +15964,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787075187.5658975,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787075311,
+    "timestamp_added": 1787075311.5203192,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tjen-andreev-2026-08-18",
+    "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "whale_usd": 1799.47904,
+    "whale_pct": 0.644,
+    "whale_value_at_open": 279456.857,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075311.520327,
     "fills": 1
   }
 ]
