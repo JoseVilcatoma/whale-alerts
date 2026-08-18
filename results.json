@@ -5746,5 +5746,20 @@
     "status": "pending",
     "ultimo_fill": 1787022869,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 799,
+    "timestamp": 1787022997,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "usd": 54488.3976,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1787022997,
+    "fills": 1
   }
 ]
