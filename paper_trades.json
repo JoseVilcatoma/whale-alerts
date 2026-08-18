@@ -13431,8 +13431,8 @@
     "title": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos",
     "outcome": "Norbert Gombos",
     "side": "BUY",
-    "whale_usd": 5953.045657000001,
-    "whale_pct": 3.28,
+    "whale_usd": 6850.099657000001,
+    "whale_pct": 3.774,
     "whale_value_at_open": 181488.7453,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -13442,8 +13442,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787047285.522216,
-    "fills": 4
+    "last_fill_at": 1787051161.314336,
+    "fills": 5
   },
   {
     "timestamp": 1787046932,
