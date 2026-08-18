@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 14:55:10 (hora de Perú)
+Actualizado: 2026-08-18 14:57:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **397**  ($20,236,632 en total)
+- Apuestas registradas: **398**  ($20,292,722 en total)
 - Resueltas: **391** — 235 ganadas / 156 perdidas (**60%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 120
+- Pendientes: 7
+- Apostadores distintos: 121
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 1 | 2 | 0 | ⚠️ 33% (3) | $113,539 | -$33,539 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 
-_(mostrando los 40 de mayor monto, de 120 en total)_
+_(mostrando los 40 de mayor monto, de 121 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | -$47,500 | ❌ Perdida |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | -$36,840 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $42,567 | -$42,567 | ❌ Perdida |

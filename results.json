@@ -5975,5 +5975,20 @@
     "status": "pending",
     "ultimo_fill": 1787081691,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 832,
+    "timestamp": 1787082922,
+    "username": "0x84c10C9a413E3b1E2bD2",
+    "wallet": "0xcd583b681658a4a7d243f39729d4612bef7f5b2f",
+    "slug": "cs2-forzer-300fps-2026-08-18-game2",
+    "title": "Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner",
+    "outcome": "FORZE Reload",
+    "side": "BUY",
+    "usd": 56089.375099000004,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1787082922,
+    "fills": 1
   }
 ]
