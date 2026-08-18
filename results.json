@@ -6050,5 +6050,20 @@
     "status": "pending",
     "ultimo_fill": 1787088954,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 841,
+    "timestamp": 1787090756,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "wta-sabalen-wa-2026-08-18",
+    "title": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "usd": 41007.0388,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1787090756,
+    "fills": 1
   }
 ]
