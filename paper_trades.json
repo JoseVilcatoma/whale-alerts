@@ -12430,8 +12430,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 10278.083288,
-    "whale_pct": 2.256,
+    "whale_usd": 15077.603287999998,
+    "whale_pct": 3.309,
     "whale_value_at_open": 455626.8622,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
@@ -12444,8 +12444,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020243.6855252,
-    "fills": 2
+    "last_fill_at": 1787020513.0022926,
+    "fills": 3
   },
   {
     "timestamp": 1787015473,
