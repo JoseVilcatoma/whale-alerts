@@ -14620,8 +14620,8 @@
     "title": "ITF W35 Krakow Women: Sandra Samir vs Polina Leykina",
     "outcome": "Polina Leykina",
     "side": "BUY",
-    "whale_usd": 678.879998,
-    "whale_pct": 0.217,
+    "whale_usd": 3205.1099959999997,
+    "whale_pct": 1.026,
     "whale_value_at_open": 312247.9878,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -14631,8 +14631,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787068730.9549186,
-    "fills": 1
+    "last_fill_at": 1787069161.6353073,
+    "fills": 3
   },
   {
     "timestamp": 1787069000,
@@ -14682,6 +14682,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787069043.160001,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787069198,
+    "timestamp_added": 1787069199.3861225,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blancan-estevez-2026-08-17",
+    "title": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
+    "outcome": "Geoffrey Blancaneaux",
+    "side": "BUY",
+    "whale_usd": 3115.78,
+    "whale_pct": 1.235,
+    "whale_value_at_open": 252261.9675,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787069199.386133,
     "fills": 1
   }
 ]
