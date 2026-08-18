@@ -14406,8 +14406,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Oriol Roca Batalla",
     "side": "BUY",
-    "whale_usd": 25995.611601999997,
-    "whale_pct": 14.746,
+    "whale_usd": 26997.726602,
+    "whale_pct": 15.314,
     "whale_value_at_open": 176289.0555,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -14417,8 +14417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787062598.887123,
-    "fills": 10
+    "last_fill_at": 1787066323.4078174,
+    "fills": 11
   },
   {
     "timestamp": 1787057595,
@@ -15311,8 +15311,8 @@
     "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
     "outcome": "Nuno Borges",
     "side": "BUY",
-    "whale_usd": 3708.146266,
-    "whale_pct": 1.421,
+    "whale_usd": 4803.196266000001,
+    "whale_pct": 1.84,
     "whale_value_at_open": 260994.94,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -15324,8 +15324,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787066114.674642,
-    "fills": 2
+    "last_fill_at": 1787066248.236951,
+    "fills": 3
   },
   {
     "timestamp": 1787066208,
@@ -15372,5 +15372,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787066211.9027307,
     "fills": 1
+  },
+  {
+    "timestamp": 1787066330,
+    "timestamp_added": 1787066330.6359663,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-watt-blanche-2026-08-18",
+    "title": "Quebec City: James Watt vs Ugo Blanchet",
+    "outcome": "Ugo Blanchet",
+    "side": "BUY",
+    "whale_usd": 1379.885,
+    "whale_pct": 0.482,
+    "whale_value_at_open": 286528.369,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787066331.063228,
+    "fills": 2
   }
 ]
