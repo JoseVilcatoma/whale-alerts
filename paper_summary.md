@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:26:12 (hora de Perú)
+Actualizado: 2026-08-18 03:28:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:26:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $586.32)
+**Capital comprometido ahora mismo:** $230.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $576.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 12 | -26.84 USD |
+| RN1 | 79 | 36 | 13 | -26.84 USD |
 | HomeRunHazard | 25 | 17 | 5 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -175,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 73% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Laura Mair vs Yely | Yelyzaveta Kotliar (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Nino Ehrenschneider vs Kai Wehnelt | Nino Ehrenschneider (BUY) | 55% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -204,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ❌ perdida | -10.00 |
 | swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.7% | ✅ ganada | +4.49 |
-| swisstony | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 89% | 10.00 | 2.9% | ✅ ganada | +1.24 |
