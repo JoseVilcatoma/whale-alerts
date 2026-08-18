@@ -1,5 +1,5 @@
 {
-  "bankroll": 832.0202287183786,
+  "bankroll": 816.0540364711735,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2277,464 +2277,364 @@
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5"
     },
     {
-      "timestamp": 1787016490.2175508,
+      "timestamp": 1787025338.0119424,
       "bankroll": 831.62,
       "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5"
     },
     {
-      "timestamp": 1787016493.2357264,
+      "timestamp": 1787025338.3273094,
       "bankroll": 821.62,
-      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
-    },
-    {
-      "timestamp": 1787016493.6361704,
-      "bankroll": 830.86,
-      "event": "won: Sassy-Bucket \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
-    },
-    {
-      "timestamp": 1787016494.0157561,
-      "bankroll": 820.86,
-      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
-    },
-    {
-      "timestamp": 1787016494.216052,
-      "bankroll": 827.52,
-      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
-    },
-    {
-      "timestamp": 1787016804.440773,
-      "bankroll": 829.87,
-      "event": "won: ferrariChampions2026 \u2014 Kingston: Blaise Bicknell vs Max Purcell"
-    },
-    {
-      "timestamp": 1787016866.5900292,
-      "bankroll": 840.28,
-      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
-    },
-    {
-      "timestamp": 1787017118.82341,
-      "bankroll": 830.28,
-      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
-    },
-    {
-      "timestamp": 1787017625.7755742,
-      "bankroll": 820.28,
-      "event": "lost: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
-    },
-    {
-      "timestamp": 1787017626.0771534,
-      "bankroll": 814.26,
-      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 7.5"
-    },
-    {
-      "timestamp": 1787017752.6115704,
-      "bankroll": 827.51,
-      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 12.5"
-    },
-    {
-      "timestamp": 1787017935.3841395,
-      "bankroll": 835.06,
-      "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
-    },
-    {
-      "timestamp": 1787018057.303227,
-      "bankroll": 838.94,
-      "event": "won: ferrariChampions2026 \u2014 Spread: New York Mets (-2.5)"
-    },
-    {
-      "timestamp": 1787018062.8872576,
-      "bankroll": 840.85,
-      "event": "won: RN1 \u2014 Spread: New York Mets (-2.5)"
-    },
-    {
-      "timestamp": 1787018115.3533194,
-      "bankroll": 830.85,
-      "event": "lost: 111111111115 \u2014 San Diego Padres vs. New York Mets"
-    },
-    {
-      "timestamp": 1787018117.6473389,
-      "bankroll": 820.85,
-      "event": "lost: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
-    },
-    {
-      "timestamp": 1787018117.847615,
-      "bankroll": 826.23,
-      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
-    },
-    {
-      "timestamp": 1787018684.1256623,
-      "bankroll": 816.23,
       "event": "lost: HomeRunHazard \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 9.5"
     },
     {
-      "timestamp": 1787019001.2973228,
-      "bankroll": 820.52,
-      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies"
-    },
-    {
-      "timestamp": 1787019008.5733113,
-      "bankroll": 820.94,
-      "event": "won: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies"
-    },
-    {
-      "timestamp": 1787019198.923944,
-      "bankroll": 825.02,
-      "event": "won: RN1 \u2014 Spread: Philadelphia Phillies (-2.5)"
-    },
-    {
-      "timestamp": 1787019699.01971,
-      "bankroll": 826.01,
-      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
-    },
-    {
-      "timestamp": 1787020380.334829,
-      "bankroll": 827.98,
-      "event": "won: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Terence Atmane"
-    },
-    {
-      "timestamp": 1787020380.435086,
-      "bankroll": 828.96,
-      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Zverev vs Terence Atmane"
-    },
-    {
-      "timestamp": 1787021060.4350674,
-      "bankroll": 834.58,
-      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Athletics vs. Kansas City Royals"
-    },
-    {
-      "timestamp": 1787021063.1300952,
-      "bankroll": 836.78,
-      "event": "won: RN1 \u2014 Athletics vs. Kansas City Royals"
-    },
-    {
-      "timestamp": 1787021063.3304687,
-      "bankroll": 838.97,
-      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
-    },
-    {
-      "timestamp": 1787021128.4061282,
-      "bankroll": 839.07,
-      "event": "won: RN1 \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 5.5"
-    },
-    {
-      "timestamp": 1787021189.5328085,
-      "bankroll": 829.07,
-      "event": "lost: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-2.5)"
-    },
-    {
-      "timestamp": 1787021190.851278,
-      "bankroll": 839.91,
-      "event": "won: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-4.5)"
-    },
-    {
-      "timestamp": 1787021195.9148245,
-      "bankroll": 829.91,
-      "event": "lost: HomeRunHazard \u2014 Athletics vs. Kansas City Royals: O/U 14.5"
-    },
-    {
-      "timestamp": 1787021251.61936,
-      "bankroll": 838.42,
-      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 7.5"
-    },
-    {
-      "timestamp": 1787021315.4934535,
-      "bankroll": 828.42,
-      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 8.5"
-    },
-    {
-      "timestamp": 1787021321.3259833,
-      "bankroll": 828.63,
-      "event": "won: RN1 \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 4.5"
-    },
-    {
-      "timestamp": 1787021373.834552,
-      "bankroll": 834.25,
-      "event": "won: swisstony \u2014 Will CA Talleres win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787021377.413734,
-      "bankroll": 829.97,
-      "event": "lost: swisstony \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 2.5"
-    },
-    {
-      "timestamp": 1787021378.9102018,
-      "bankroll": 829.97,
-      "event": "won: ferrariChampions2026 \u2014 Will CA Talleres win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787021379.9138863,
-      "bankroll": 830.07,
-      "event": "won: RN1 \u2014 Will CA Talleres win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787021502.1532028,
-      "bankroll": 838.94,
-      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
-    },
-    {
-      "timestamp": 1787021502.4734602,
-      "bankroll": 847.81,
-      "event": "won: SDTrading \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5"
-    },
-    {
-      "timestamp": 1787021502.6739676,
-      "bankroll": 837.81,
-      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
-    },
-    {
-      "timestamp": 1787021502.7742083,
-      "bankroll": 827.81,
-      "event": "lost: AV23IUa \u2014 Detroit Tigers vs. Pittsburgh Pirates"
-    },
-    {
-      "timestamp": 1787021504.081507,
-      "bankroll": 837.42,
-      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
-    },
-    {
-      "timestamp": 1787021504.1817415,
-      "bankroll": 827.42,
-      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
-    },
-    {
-      "timestamp": 1787021879.4607809,
-      "bankroll": 827.42,
-      "event": "won: swisstony \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787022324.354812,
-      "bankroll": 828.91,
-      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports - Game 2 Winner"
-    },
-    {
-      "timestamp": 1787022324.6570563,
-      "bankroll": 829.67,
-      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports (BO3) - Circuito Desafiante Playoffs"
-    },
-    {
-      "timestamp": 1787023143.7647865,
-      "bankroll": 841.4,
-      "event": "won: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
-    },
-    {
-      "timestamp": 1787023143.8649516,
-      "bankroll": 831.4,
-      "event": "lost: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
-    },
-    {
-      "timestamp": 1787023146.368682,
-      "bankroll": 821.4,
-      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
-    },
-    {
-      "timestamp": 1787023148.2652302,
-      "bankroll": 831.4,
-      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5"
-    },
-    {
-      "timestamp": 1787023208.0490265,
-      "bankroll": 831.61,
-      "event": "won: ferrariChampions2026 \u2014 Will Clube do Remo win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787023208.7354355,
-      "bankroll": 831.81,
-      "event": "won: RN1 \u2014 Will Clube do Remo win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787023266.9539087,
-      "bankroll": 821.81,
-      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: O/U 2.5"
-    },
-    {
-      "timestamp": 1787023267.5560002,
-      "bankroll": 811.81,
-      "event": "lost: RN1 \u2014 Will SC Internacional win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787023267.7563396,
-      "bankroll": 801.81,
-      "event": "lost: ferrariChampions2026 \u2014 Will SC Internacional win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787023268.8581307,
-      "bankroll": 791.81,
-      "event": "lost: swisstony \u2014 Will SC Internacional win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787023330.9253669,
-      "bankroll": 781.81,
-      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score"
-    },
-    {
-      "timestamp": 1787023394.5638294,
-      "bankroll": 783.18,
-      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
-    },
-    {
-      "timestamp": 1787023394.6639836,
-      "bankroll": 784.54,
-      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
-    },
-    {
-      "timestamp": 1787023395.0498016,
-      "bankroll": 785.41,
-      "event": "won: RN1 \u2014 Guarani FC SP vs. Ypiranga FC RS: 1st Half O/U 2.5"
-    },
-    {
-      "timestamp": 1787023395.3563159,
-      "bankroll": 786.52,
-      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
-    },
-    {
-      "timestamp": 1787023395.7940075,
-      "bankroll": 787.63,
-      "event": "won: RN1 \u2014 Spread: Cincinnati Reds (-1.5)"
-    },
-    {
-      "timestamp": 1787023396.1948442,
-      "bankroll": 791.72,
-      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
-    },
-    {
-      "timestamp": 1787023396.4953902,
-      "bankroll": 781.72,
-      "event": "lost: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
-    },
-    {
-      "timestamp": 1787023520.592377,
-      "bankroll": 787.85,
-      "event": "won: swisstony \u2014 Spread: SC Internacional (-1.5)"
-    },
-    {
-      "timestamp": 1787023836.1944745,
-      "bankroll": 794.79,
-      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Twins (-1.5)"
-    },
-    {
-      "timestamp": 1787024020.6761277,
-      "bankroll": 784.79,
-      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Braves (-1.5)"
-    },
-    {
-      "timestamp": 1787024146.5417047,
-      "bankroll": 797.02,
-      "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. Minnesota Twins"
-    },
-    {
-      "timestamp": 1787024147.2399626,
-      "bankroll": 787.02,
-      "event": "lost: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
-    },
-    {
-      "timestamp": 1787024148.9367385,
-      "bankroll": 796.62,
-      "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins: O/U 8.5"
-    },
-    {
-      "timestamp": 1787024149.0369823,
-      "bankroll": 800.71,
-      "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
-    },
-    {
-      "timestamp": 1787024335.0889733,
-      "bankroll": 807.1,
-      "event": "won: ferrariChampions2026 \u2014 Cancun: Lloyd Harris vs Abdullah Shelbayh"
-    },
-    {
-      "timestamp": 1787024463.968992,
-      "bankroll": 810.62,
-      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 14.5"
-    },
-    {
-      "timestamp": 1787024524.068355,
-      "bankroll": 810.62,
-      "event": "won: RN1 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
-    },
-    {
-      "timestamp": 1787024524.168535,
-      "bankroll": 810.62,
-      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
-    },
-    {
-      "timestamp": 1787024524.9699419,
-      "bankroll": 812.96,
-      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
-    },
-    {
-      "timestamp": 1787024585.6749592,
-      "bankroll": 822.57,
-      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5"
-    },
-    {
-      "timestamp": 1787024585.7752337,
-      "bankroll": 812.57,
-      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5"
-    },
-    {
-      "timestamp": 1787024645.569428,
-      "bankroll": 826.96,
+      "timestamp": 1787025338.6245449,
+      "bankroll": 836.01,
       "event": "won: HomeRunHazard \u2014 Spread: Chicago Cubs (-1.5)"
     },
     {
-      "timestamp": 1787024649.9840364,
-      "bankroll": 816.96,
-      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Cubs (-1.5)"
+      "timestamp": 1787025338.9119868,
+      "bankroll": 826.01,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Braves (-1.5)"
     },
     {
-      "timestamp": 1787024650.084293,
-      "bankroll": 830.22,
-      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
+      "timestamp": 1787025339.5251493,
+      "bankroll": 832.41,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Lloyd Harris vs Abdullah Shelbayh"
     },
     {
-      "timestamp": 1787024708.0191004,
-      "bankroll": 837.16,
+      "timestamp": 1787025339.9804268,
+      "bankroll": 841.28,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787025340.3010192,
+      "bankroll": 850.14,
+      "event": "won: SDTrading \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1787025340.5879061,
+      "bankroll": 840.14,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1787025340.8801627,
+      "bankroll": 849.37,
+      "event": "won: Sassy-Bucket \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787025341.1705887,
+      "bankroll": 839.37,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787025341.270741,
+      "bankroll": 829.37,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787025341.6622584,
+      "bankroll": 836.04,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787025341.762401,
+      "bankroll": 826.04,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787025341.8625104,
+      "bankroll": 816.04,
+      "event": "lost: AV23IUa \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787025342.1587315,
+      "bankroll": 806.04,
+      "event": "lost: 111111111115 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787025342.4754493,
+      "bankroll": 811.67,
+      "event": "won: swisstony \u2014 Will CA Talleres win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025342.765568,
+      "bankroll": 815.95,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787025343.0666528,
+      "bankroll": 821.58,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787025343.3564966,
+      "bankroll": 833.32,
+      "event": "won: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787025343.4566102,
+      "bankroll": 823.32,
+      "event": "lost: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787025343.7392864,
+      "bankroll": 824.81,
+      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787025344.0284064,
+      "bankroll": 825.56,
+      "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports (BO3) - Circuito Desafiante Playoffs"
+    },
+    {
+      "timestamp": 1787025344.356261,
+      "bankroll": 831.69,
+      "event": "won: swisstony \u2014 Spread: SC Internacional (-1.5)"
+    },
+    {
+      "timestamp": 1787025344.6641781,
+      "bankroll": 821.69,
+      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: O/U 2.5"
+    },
+    {
+      "timestamp": 1787025344.9599125,
+      "bankroll": 823.06,
+      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
+    },
+    {
+      "timestamp": 1787025345.060087,
+      "bankroll": 824.42,
+      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
+    },
+    {
+      "timestamp": 1787025345.5526376,
+      "bankroll": 814.42,
+      "event": "lost: RN1 \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025345.6528344,
+      "bankroll": 824.03,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787025345.7530885,
+      "bankroll": 814.03,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787025346.0497947,
+      "bankroll": 814.9,
+      "event": "won: RN1 \u2014 Guarani FC SP vs. Ypiranga FC RS: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1787025346.1499326,
+      "bankroll": 804.9,
+      "event": "lost: ferrariChampions2026 \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025346.4436564,
+      "bankroll": 808.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Mets (-2.5)"
+    },
+    {
+      "timestamp": 1787025346.7380886,
+      "bankroll": 811.13,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Blaise Bicknell vs Max Purcell"
+    },
+    {
+      "timestamp": 1787025347.0348132,
+      "bankroll": 812.24,
+      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787025347.3427722,
+      "bankroll": 812.45,
+      "event": "won: ferrariChampions2026 \u2014 Will Clube do Remo win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025347.6489227,
+      "bankroll": 824.67,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787025347.7491193,
+      "bankroll": 814.67,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787025348.0523694,
+      "bankroll": 815.78,
+      "event": "won: RN1 \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1787025348.1525161,
+      "bankroll": 821.16,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787025348.2526581,
+      "bankroll": 823.36,
+      "event": "won: RN1 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787025348.653433,
+      "bankroll": 830.9,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1787025348.7537127,
+      "bankroll": 833.1,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787025349.0498939,
+      "bankroll": 823.1,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1787025349.1500807,
+      "bankroll": 830.05,
       "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
     },
     {
-      "timestamp": 1787024708.1193433,
-      "bankroll": 844.11,
+      "timestamp": 1787025349.250278,
+      "bankroll": 837.0,
       "event": "won: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs"
     },
     {
-      "timestamp": 1787024708.709552,
-      "bankroll": 846.24,
+      "timestamp": 1787025349.5571487,
+      "bankroll": 827.0,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1787025349.6572835,
+      "bankroll": 827.2,
+      "event": "won: RN1 \u2014 Will Clube do Remo win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025349.9595423,
+      "bankroll": 837.61,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787025350.2606928,
+      "bankroll": 846.13,
+      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 7.5"
+    },
+    {
+      "timestamp": 1787025350.3608327,
+      "bankroll": 850.21,
+      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787025350.6561065,
+      "bankroll": 851.2,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787025350.9538941,
+      "bankroll": 853.18,
+      "event": "won: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Terence Atmane"
+    },
+    {
+      "timestamp": 1787025351.0540953,
+      "bankroll": 854.15,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Zverev vs Terence Atmane"
+    },
+    {
+      "timestamp": 1787025351.5285165,
+      "bankroll": 849.87,
+      "event": "lost: swisstony \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 2.5"
+    },
+    {
+      "timestamp": 1787025351.8353674,
+      "bankroll": 839.87,
+      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787025351.9355679,
+      "bankroll": 829.87,
+      "event": "lost: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787025352.2253714,
+      "bankroll": 840.7,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-4.5)"
+    },
+    {
+      "timestamp": 1787025352.3256278,
+      "bankroll": 830.7,
+      "event": "lost: swisstony \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025352.4257467,
+      "bankroll": 820.7,
+      "event": "lost: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787025352.7238002,
+      "bankroll": 810.7,
+      "event": "lost: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787025353.0326934,
+      "bankroll": 804.68,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1787025353.3982618,
+      "bankroll": 794.68,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787025353.691739,
+      "bankroll": 796.81,
       "event": "won: ferrariChampions2026 \u2014 Cancun: David Jorda Sanchis vs Alan Magadan"
     },
     {
-      "timestamp": 1787024709.0108132,
-      "bankroll": 846.24,
+      "timestamp": 1787025353.993828,
+      "bankroll": 796.81,
+      "event": "won: swisstony \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025354.4323215,
+      "bankroll": 796.81,
       "event": "lost: alaskabaked \u2014 Chicago White Sox vs. Chicago Cubs"
     },
     {
-      "timestamp": 1787024709.1111367,
-      "bankroll": 846.24,
+      "timestamp": 1787025354.532533,
+      "bankroll": 796.81,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Talleres win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787025354.8216817,
+      "bankroll": 796.81,
+      "event": "won: RN1 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787025354.9218433,
+      "bankroll": 796.81,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787025355.022065,
+      "bankroll": 796.81,
       "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs"
     },
     {
-      "timestamp": 1787024712.1396828,
-      "bankroll": 851.17,
-      "event": "won: RN1 \u2014 Cancun: David Jorda Sanchis vs Alan Magadan"
+      "timestamp": 1787025355.4845126,
+      "bankroll": 810.06,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 12.5"
     },
     {
-      "timestamp": 1787024712.3399858,
-      "bankroll": 841.17,
-      "event": "lost: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
+      "timestamp": 1787025355.9355717,
+      "bankroll": 814.15,
+      "event": "won: RN1 \u2014 Spread: Philadelphia Phillies (-2.5)"
     },
     {
-      "timestamp": 1787024712.941146,
-      "bankroll": 831.17,
-      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Chicago White Sox vs. Chicago Cubs"
-    },
-    {
-      "timestamp": 1787024963.5580437,
-      "bankroll": 831.92,
-      "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
-    },
-    {
-      "timestamp": 1787024964.0547216,
-      "bankroll": 832.02,
-      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+      "timestamp": 1787025356.035765,
+      "bankroll": 816.05,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-2.5)"
     }
   ]
 }
