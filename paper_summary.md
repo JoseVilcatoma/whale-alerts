@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 08:30:01 (hora de Perú)
+Actualizado: 2026-08-18 08:32:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $812.19
-**Retorno acumulado:** -18.78%
+**Bankroll actual:** $802.19
+**Retorno acumulado:** -19.78%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 08:30:01 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $382.19)
+**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $382.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 101 | 68 | 20 | -101.79 USD |
+| ferrariChampions2026 | 101 | 69 | 19 | -111.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 565
-- **Aciertos:** 337 (59.6%)
-- **Cuota promedio de entrada:** 61.0%
+- **Apuestas resueltas:** 566
+- **Aciertos:** 337 (59.5%)
+- **Cuota promedio de entrada:** 61.1%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,527.67
-- **ROI sobre lo apostado:** -4.19%
+- **Total apostado (suma de stakes):** $5,537.67
+- **ROI sobre lo apostado:** -4.37%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 253 | 48.2% | 49.7% | -1.5 pp |
 | 60-79% | 165 | 69.7% | 68.9% | +0.8 pp |
-| 80-94% | 75 | 85.3% | 86.6% | -1.3 pp |
+| 80-94% | 76 | 84.2% | 86.6% | -2.4 pp |
 | 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
