@@ -13986,8 +13986,8 @@
     "title": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 5555.743472,
-    "whale_pct": 2.781,
+    "whale_usd": 6064.783472,
+    "whale_pct": 3.035,
     "whale_value_at_open": 199800.5799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -13997,8 +13997,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787052194.792584,
-    "fills": 1
+    "last_fill_at": 1787053310.6358829,
+    "fills": 2
   },
   {
     "timestamp": 1787052363,
@@ -14055,8 +14055,8 @@
     "title": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage",
     "outcome": "MASONIC",
     "side": "BUY",
-    "whale_usd": 1771.2,
-    "whale_pct": 0.918,
+    "whale_usd": 2568.4209,
+    "whale_pct": 1.331,
     "whale_value_at_open": 193020.2483,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14066,7 +14066,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787053250.1202831,
-    "fills": 2
+    "last_fill_at": 1787053299.101473,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787053379,
+    "timestamp_added": 1787053380.2751548,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-milic-ratti-2026-08-17",
+    "title": "Sion: Ognjen Milic vs Lucio Ratti",
+    "outcome": "Lucio Ratti",
+    "side": "BUY",
+    "whale_usd": 707.902915,
+    "whale_pct": 0.353,
+    "whale_value_at_open": 200521.4465,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787053380.2751634,
+    "fills": 1
   }
 ]
