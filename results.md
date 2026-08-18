@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 08:19:38 (hora de Perú)
+Actualizado: 2026-08-18 08:23:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **389**  ($19,817,051 en total)
-- Resueltas: **385** — 231 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **386** — 232 ganadas / 154 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 117
 
 ### Balance
 
-- **Resultado de los apostadores: +$952,038** sobre $19,702,888 apostados (ROI **+4.8%**)
+- **Resultado de los apostadores: +$962,672** sobre $19,731,888 apostados (ROI **+4.9%**)
 - Copiando $100 fijo en cada una: **-$1,119** sobre $37,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 2 | 4 | 0 | ⚠️ 33% (6) | $192,469 | -$102,805 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 1 | ⚠️ 100% (3) | $168,000 | +$61,772 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 0 | 0 | ⚠️ 100% (4) | $168,000 | +$72,405 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
 | xabidaking | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.75 (57¢) | $25,724 | — | ⏳ Pendiente |
