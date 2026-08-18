@@ -1,5 +1,5 @@
 {
-  "bankroll": 820.9361185545711,
+  "bankroll": 825.0206255968246,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2375,6 +2375,11 @@
       "timestamp": 1787019008.5733113,
       "bankroll": 820.94,
       "event": "won: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787019198.923944,
+      "bankroll": 825.02,
+      "event": "won: RN1 \u2014 Spread: Philadelphia Phillies (-2.5)"
     }
   ]
 }
