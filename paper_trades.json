@@ -13467,5 +13467,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787039146.6065705,
     "fills": 1
+  },
+  {
+    "timestamp": 1787039563,
+    "timestamp_added": 1787039563.6111026,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-atl-las-2026-08-18-total-178pt5",
+    "title": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1297.3919,
+    "whale_pct": 2.646,
+    "whale_value_at_open": 49025.7778,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787039564.1422408,
+    "fills": 2
   }
 ]
