@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 18:32:36 (hora de Perú)
+Actualizado: 2026-08-18 18:34:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **410**  ($20,769,922 en total)
+- Apuestas registradas: **411**  ($20,798,359 en total)
 - Resueltas: **395** — 238 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 122
+- Pendientes: 16
+- Apostadores distintos: 123
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 4 | 0 | 0 | ⚠️ 100% (4) | $115,304 | +$18,393 |
 | Mylifeisover | 1 | 2 | 0 | ⚠️ 33% (3) | $113,539 | -$33,539 |
 
-_(mostrando los 40 de mayor monto, de 122 en total)_
+_(mostrando los 40 de mayor monto, de 123 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kamloic | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.28 (78¢) | $28,437 | — | ⏳ Pendiente |
 | xifutloong3 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 1.89 (53¢) | $26,062 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $29,194 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $54,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | +$47,993 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $32,935 | +$21,956 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 2.00 (50¢) | $36,227 | -$36,227 | ❌ Perdida |
