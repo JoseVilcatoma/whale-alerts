@@ -14022,5 +14022,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787052364.3793273,
     "fills": 1
+  },
+  {
+    "timestamp": 1787052776,
+    "timestamp_added": 1787052776.8331838,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kuzmano-moelle-2026-08-17",
+    "title": "Sion: Dimitar Kuzmanov vs Marvin Moeller",
+    "outcome": "Dimitar Kuzmanov",
+    "side": "BUY",
+    "whale_usd": 7533.162,
+    "whale_pct": 3.755,
+    "whale_value_at_open": 200591.6595,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787052776.8331907,
+    "fills": 1
   }
 ]
