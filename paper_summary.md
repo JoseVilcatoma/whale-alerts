@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:10:15 (hora de Perú)
+Actualizado: 2026-08-17 21:12:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $820.94
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:10:15 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $661.65 en 78 posiciones abiertas (disponible para nuevas apuestas: $159.29)
+**Capital comprometido ahora mismo:** $671.65 en 79 posiciones abiertas (disponible para nuevas apuestas: $149.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 22 | 16 | 5 | -56.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 70 | 52 | 29 | -73.51 USD |
+| ferrariChampions2026 | 70 | 52 | 30 | -73.51 USD |
 
 ## Análisis general
 
@@ -170,6 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 99% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
@@ -199,4 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ⏳ pendiente | — |
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
