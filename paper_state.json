@@ -1,5 +1,5 @@
 {
-  "bankroll": 804.5341202969349,
+  "bankroll": 807.0341202969349,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2925,6 +2925,11 @@
       "timestamp": 1787058735.7863548,
       "bankroll": 804.53,
       "event": "won: ferrariChampions2026 \u2014 Sion: Ognjen Milic vs Lucio Ratti"
+    },
+    {
+      "timestamp": 1787059169.1341803,
+      "bankroll": 807.03,
+      "event": "won: ferrariChampions2026 \u2014 ITF W15 Logrono Women: Victoria Gomez O'Hayon vs Min Liu"
     }
   ]
 }
