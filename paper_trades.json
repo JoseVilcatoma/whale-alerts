@@ -14239,8 +14239,8 @@
     "title": "Prague 2: Petr Brunclik vs Jan Kumstat",
     "outcome": "Jan Kumstat",
     "side": "BUY",
-    "whale_usd": 2781.191111,
-    "whale_pct": 1.68,
+    "whale_usd": 3361.964689,
+    "whale_pct": 2.031,
     "whale_value_at_open": 165560.7586,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -14250,8 +14250,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787056617.962815,
-    "fills": 1
+    "last_fill_at": 1787057857.1902747,
+    "fills": 2
   },
   {
     "timestamp": 1787056617,
@@ -14443,6 +14443,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787057595.7775972,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787057888,
+    "timestamp_added": 1787057888.738872,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-det-pit-2026-08-18",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 21000.0,
+    "whale_pct": 39.576,
+    "whale_value_at_open": 53062.7056,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787057888.7388797,
     "fills": 1
   }
 ]
