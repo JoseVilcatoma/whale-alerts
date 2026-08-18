@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:18:42 (hora de Perú)
+Actualizado: 2026-08-18 07:20:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $811.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:18:42 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $511.04)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $501.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 4 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
+| Kulilun | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -176,6 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Kulilun | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 64% | 10.00 | 113.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ⏳ pendiente | — |
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -205,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 1.4% | ✅ ganada | +1.63 |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 49% | 10.00 | 49.5% | ⏳ pendiente | — |
-| 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 51% | 10.00 | 2.9% | ⏳ pendiente | — |
