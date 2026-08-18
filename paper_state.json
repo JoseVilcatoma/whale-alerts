@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.5219555436607,
+  "bankroll": 840.2757978213126,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2300,6 +2300,16 @@
       "timestamp": 1787016494.216052,
       "bankroll": 827.52,
       "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787016804.440773,
+      "bankroll": 829.87,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Blaise Bicknell vs Max Purcell"
+    },
+    {
+      "timestamp": 1787016866.5900292,
+      "bankroll": 840.28,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
     }
   ]
 }
