@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 08:11:18 (hora de Perú)
+Actualizado: 2026-08-18 08:13:22 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $799.83
-**Retorno acumulado:** -20.02%
+**Bankroll actual:** $804.53
+**Retorno acumulado:** -19.55%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 08:11:18 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $399.83)
+**Capital comprometido ahora mismo:** $410.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $394.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 4 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 5 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 98 | 68 | 18 | -114.15 USD |
+| ferrariChampions2026 | 99 | 68 | 18 | -109.44 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 562
-- **Aciertos:** 334 (59.4%)
+- **Apuestas resueltas:** 563
+- **Aciertos:** 335 (59.5%)
 - **Cuota promedio de entrada:** 61.0%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,497.67
-- **ROI sobre lo apostado:** -4.44%
+- **Total apostado (suma de stakes):** $5,507.67
+- **ROI sobre lo apostado:** -4.35%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 253 | 48.2% | 49.7% | -1.5 pp |
-| 60-79% | 163 | 69.3% | 68.9% | +0.4 pp |
+| 60-79% | 164 | 69.5% | 68.9% | +0.6 pp |
 | 80-94% | 74 | 85.1% | 86.7% | -1.6 pp |
 | 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
 
@@ -179,6 +179,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G Global Academy vs HANJIN BRIO | HANJIN BRION Challengers (BUY) | 66% | 10.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will Bayern Munich win on 2026-08-18? | Yes (BUY) | 86% | 10.00 | 2.2% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 55% | 10.00 | 3.2% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 6.2% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
@@ -198,7 +200,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 2.7% | ⏳ pendiente | — |
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dimitar Kuzmanov vs Marvin Moeller | Dimitar Kuzmanov (BUY) | 66% | 10.00 | 4.5% | ⏳ pendiente | — |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 85% | 10.00 | 17.2% | ⏳ pendiente | — |
@@ -207,5 +209,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier Women: Cristina Pescucci | Franziska Sziedat (BUY) | 97% | 10.00 | 0.3% | ✅ ganada | +0.31 |
-| ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ✅ ganada | +0.42 |
