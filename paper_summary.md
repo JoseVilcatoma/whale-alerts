@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:51:10 (hora de Perú)
+Actualizado: 2026-08-18 12:53:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -196,7 +196,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 74% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 74% | 10.00 | 3.1% | ⏳ pendiente | — |
 | swisstony | Al Jabalain Saudi Club vs. Al Ettifaq Sa | Under (BUY) | 80% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 97% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 99% | 10.00 | 2.1% | ⏳ pendiente | — |
