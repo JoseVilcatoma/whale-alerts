@@ -15013,5 +15013,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787071451.5498343,
     "fills": 1
+  },
+  {
+    "timestamp": 1787071604,
+    "timestamp_added": 1787071604.9431577,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "ucl-pls-aek1-2026-08-18-btts",
+    "title": "PFK Levski Sofia vs. AEK: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2591.445,
+    "whale_pct": 2.665,
+    "whale_value_at_open": 97239.232,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787071645.2587578,
+    "fills": 3
   }
 ]
