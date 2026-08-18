@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 15:34:42 (hora de Perú)
+Actualizado: 2026-08-18 15:36:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **400**  ($20,381,438 en total)
+- Apuestas registradas: **401**  ($20,416,595 en total)
 - Resueltas: **391** — 235 ganadas / 156 perdidas (**60%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 121
+- Pendientes: 10
+- Apostadores distintos: 122
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mylifeisover | 1 | 2 | 0 | ⚠️ 33% (3) | $113,539 | -$33,539 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 
-_(mostrando los 40 de mayor monto, de 121 en total)_
+_(mostrando los 40 de mayor monto, de 122 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ic4cream | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $35,158 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | — | ⏳ Pendiente |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | — | ⏳ Pendiente |
 | 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 | Sassy-Bucket | Portland Fire vs. Phoenix Mercury | Phoenix Mercury | 1.54 (65¢) | $32,500 | -$32,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | -$31,351 | ❌ Perdida |
-| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | -$47,500 | ❌ Perdida |
