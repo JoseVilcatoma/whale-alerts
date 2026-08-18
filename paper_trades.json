@@ -10394,8 +10394,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 5772.165648,
-    "whale_pct": 1.773,
+    "whale_usd": 6365.514893,
+    "whale_pct": 1.955,
     "whale_value_at_open": 325549.3277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10405,8 +10405,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013573.137236,
-    "fills": 6
+    "last_fill_at": 1787014051.9828687,
+    "fills": 7
   },
   {
     "timestamp": 1787005651,
@@ -10851,8 +10851,8 @@
     "title": "Spread: SC Internacional (-1.5)",
     "outcome": "Clube do Remo",
     "side": "BUY",
-    "whale_usd": 1307.96,
-    "whale_pct": 0.386,
+    "whale_usd": 2189.859996,
+    "whale_pct": 0.646,
     "whale_value_at_open": 339145.4262,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -10862,8 +10862,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013487.051108,
-    "fills": 2
+    "last_fill_at": 1787014077.2915308,
+    "fills": 3
   },
   {
     "timestamp": 1787007304,
@@ -12044,8 +12044,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2807.8959990000003,
-    "whale_pct": 1.067,
+    "whale_usd": 5129.220399,
+    "whale_pct": 1.948,
     "whale_value_at_open": 263266.236,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -12058,8 +12058,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013957.7628467,
-    "fills": 2
+    "last_fill_at": 1787014065.9246655,
+    "fills": 4
   },
   {
     "timestamp": 1787013428,
