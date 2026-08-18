@@ -11016,8 +11016,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2410.3199999999997,
-    "whale_pct": 1.159,
+    "whale_usd": 3020.16,
+    "whale_pct": 1.453,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -11027,8 +11027,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012640.5941367,
-    "fills": 4
+    "last_fill_at": 1787012792.04493,
+    "fills": 5
   },
   {
     "timestamp": 1787007903,
@@ -11331,8 +11331,8 @@
     "title": "Will Clube do Remo win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2419.91905,
-    "whale_pct": 0.618,
+    "whale_usd": 5740.22914,
+    "whale_pct": 1.465,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -11342,8 +11342,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011733.8291085,
-    "fills": 2
+    "last_fill_at": 1787012819.592524,
+    "fills": 4
   },
   {
     "timestamp": 1787010006,
@@ -11383,8 +11383,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.89,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11400,8 +11400,8 @@
     "title": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
     "outcome": "Jakub Mensik",
     "side": "BUY",
-    "whale_usd": 6799.3197,
-    "whale_pct": 1.568,
+    "whale_usd": 17948.38984,
+    "whale_pct": 4.138,
     "whale_value_at_open": 433720.0403,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11411,8 +11411,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010302.609356,
-    "fills": 1
+    "last_fill_at": 1787012815.5133471,
+    "fills": 2
   },
   {
     "timestamp": 1787010331,
@@ -11867,5 +11867,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787012247.8792753,
     "fills": 2
+  },
+  {
+    "timestamp": 1787012814,
+    "timestamp_added": 1787012815.011176,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-hijikat-mensik-2026-08-17",
+    "title": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "whale_usd": 14286.98,
+    "whale_pct": 5.921,
+    "whale_value_at_open": 241306.7195,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787012815.5162401,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787012841,
+    "timestamp_added": 1787012841.9794447,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zverev-atmane-2026-08-17",
+    "title": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 1246.085454,
+    "whale_pct": 0.345,
+    "whale_value_at_open": 360849.2234,
+    "paper_stake_usd": 3.89,
+    "odds_at_bet": 80,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787012841.9794533,
+    "fills": 1
   }
 ]
