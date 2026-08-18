@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:01:58 (hora de Perú)
+Actualizado: 2026-08-18 07:04:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $811.22
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:01:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $481.22)
+**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $471.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 3 | +0.00 USD |
+| sentrio | 0 | 0 | 4 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
@@ -176,11 +176,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dimitar Kuzmanov vs Marvin Moeller | Dimitar Kuzmanov (BUY) | 66% | 10.00 | 3.8% | ⏳ pendiente | — |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 85% | 10.00 | 8.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Javier Barranco Cosano (BUY) | 58% | 10.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Javier Barranco Cosano (BUY) | 58% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -205,4 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 51% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 1.2% | ✅ ganada | +13.81 |
 | ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Norbert Gombos (BUY) | 66% | 10.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 65% | 10.00 | 0.6% | ❌ perdida | -10.00 |

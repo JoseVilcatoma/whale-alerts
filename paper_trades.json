@@ -13986,8 +13986,8 @@
     "title": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 6664.783472,
-    "whale_pct": 3.336,
+    "whale_usd": 7494.783472,
+    "whale_pct": 3.751,
     "whale_value_at_open": 199800.5799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -13997,8 +13997,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787054347.1497447,
-    "fills": 3
+    "last_fill_at": 1787054533.7322109,
+    "fills": 4
   },
   {
     "timestamp": 1787052363,
@@ -14090,6 +14090,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787053380.2751634,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787054555,
+    "timestamp_added": 1787054556.211989,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "ucl-fen-lyo-2026-08-18-fen",
+    "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 680.1819,
+    "whale_pct": 1.252,
+    "whale_value_at_open": 54320.0975,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787054556.2119977,
     "fills": 1
   }
 ]
