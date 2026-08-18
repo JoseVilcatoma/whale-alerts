@@ -1,5 +1,5 @@
 {
-  "bankroll": 828.6444216635678,
+  "bankroll": 832.3129893381921,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2775,6 +2775,31 @@
       "timestamp": 1787036299.435517,
       "bankroll": 828.64,
       "event": "won: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
+    },
+    {
+      "timestamp": 1787037220.8748605,
+      "bankroll": 830.55,
+      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1787037221.6587796,
+      "bankroll": 832.89,
+      "event": "won: RN1 \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787037221.9422987,
+      "bankroll": 837.82,
+      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787037222.1426458,
+      "bankroll": 842.31,
+      "event": "won: swisstony \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787037222.2429793,
+      "bankroll": 832.31,
+      "event": "lost: swisstony \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
     }
   ]
 }
