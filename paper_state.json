@@ -1,5 +1,5 @@
 {
-  "bankroll": 794.7944709552556,
+  "bankroll": 784.7944709552556,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2610,6 +2610,11 @@
       "timestamp": 1787023836.1944745,
       "bankroll": 794.79,
       "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Twins (-1.5)"
+    },
+    {
+      "timestamp": 1787024020.6761277,
+      "bankroll": 784.79,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Braves (-1.5)"
     }
   ]
 }
