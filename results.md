@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 19:43:18 (hora de Perú)
+Actualizado: 2026-08-17 19:45:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **377**  ($19,422,142 en total)
+- Apuestas registradas: **378**  ($19,448,794 en total)
 - Resueltas: **364** — 217 ganadas / 147 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 114
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
 | xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.82 (55¢) | $47,874 | -$47,874 | ❌ Perdida |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | +$98,904 | ✅ Ganada |
 | cryptojo | Cincinnati Open: Janice Tjen vs Viktorija Golubic | Janice Tjen | 1.12 (89¢) | $25,712 | +$3,178 | ✅ Ganada |
-| 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
