@@ -15510,8 +15510,8 @@
     "title": "Will 1. FC Heidenheim win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1370.288571,
-    "whale_pct": 0.698,
+    "whale_usd": 4286.828571,
+    "whale_pct": 2.184,
     "whale_value_at_open": 196286.7577,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 95,
@@ -15521,8 +15521,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074075.4400826,
-    "fills": 1
+    "last_fill_at": 1787074452.812834,
+    "fills": 3
   },
   {
     "timestamp": 1787074096,
@@ -15533,8 +15533,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Alessandra Mazzola",
     "side": "BUY",
-    "whale_usd": 3315.33,
-    "whale_pct": 1.119,
+    "whale_usd": 4136.42,
+    "whale_pct": 1.396,
     "whale_value_at_open": 296225.1295,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -15544,8 +15544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074151.605377,
-    "fills": 4
+    "last_fill_at": 1787074472.5954063,
+    "fills": 5
   },
   {
     "timestamp": 1787074096,
@@ -15556,8 +15556,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Iva Ivanova",
     "side": "BUY",
-    "whale_usd": 3686.17,
-    "whale_pct": 1.878,
+    "whale_usd": 4612.08,
+    "whale_pct": 2.35,
     "whale_value_at_open": 196286.7577,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -15569,8 +15569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074151.5762815,
-    "fills": 4
+    "last_fill_at": 1787074472.5848553,
+    "fills": 5
   },
   {
     "timestamp": 1787074150,
@@ -15596,5 +15596,78 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787074150.4881227,
     "fills": 1
+  },
+  {
+    "timestamp": 1787074353,
+    "timestamp_added": 1787074354.1850202,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-zheng-musetti-2026-08-18",
+    "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "whale_usd": 1874.1699930000002,
+    "whale_pct": 0.727,
+    "whale_value_at_open": 257778.361,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 91,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074354.18503,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787074438,
+    "timestamp_added": 1787074438.739681,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "clf-fch-bmu-2026-08-18-fch",
+    "title": "Will 1. FC Heidenheim win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 8240.049972,
+    "whale_pct": 3.156,
+    "whale_value_at_open": 261092.0655,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074438.7396884,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787074454,
+    "timestamp_added": 1787074454.8049746,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-fch-bmu-2026-08-18-draw",
+    "title": "Will 1. FC Heidenheim vs. Bayern Munich end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4191.8529,
+    "whale_pct": 1.943,
+    "whale_value_at_open": 215769.7753,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 94,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074468.6510727,
+    "fills": 3
   }
 ]
