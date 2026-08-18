@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.0585475683714,
+  "bankroll": 814.8394163442123,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2760,6 +2760,76 @@
       "timestamp": 1787032998.633843,
       "bankroll": 827.06,
       "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin"
+    },
+    {
+      "timestamp": 1787046369.2902794,
+      "bankroll": 828.96,
+      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 3.5"
+    },
+    {
+      "timestamp": 1787046369.827572,
+      "bankroll": 818.96,
+      "event": "lost: RN1 \u2014 Will Club Puebla win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046370.0839293,
+      "bankroll": 821.31,
+      "event": "won: RN1 \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046370.3662307,
+      "bankroll": 826.23,
+      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787046370.6268988,
+      "bankroll": 829.93,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787046370.727065,
+      "bankroll": 834.43,
+      "event": "won: swisstony \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046370.8272471,
+      "bankroll": 824.43,
+      "event": "lost: swisstony \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787046370.9274302,
+      "bankroll": 814.43,
+      "event": "lost: swisstony \u2014 Will Club Puebla win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046371.1805623,
+      "bankroll": 804.43,
+      "event": "lost: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
+    },
+    {
+      "timestamp": 1787046371.5180361,
+      "bankroll": 794.43,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787046371.7992191,
+      "bankroll": 794.74,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong"
+    },
+    {
+      "timestamp": 1787046371.899376,
+      "bankroll": 806.01,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
+    },
+    {
+      "timestamp": 1787046372.2889404,
+      "bankroll": 806.32,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang"
+    },
+    {
+      "timestamp": 1787046372.7228904,
+      "bankroll": 814.84,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
     }
   ]
 }
