@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6132.647000000001,
-    "whale_pct": 2.99,
+    "whale_usd": 6791.833200000001,
+    "whale_pct": 3.311,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022448.133867,
-    "fills": 5
+    "last_fill_at": 1787022596.6749063,
+    "fills": 6
   },
   {
     "timestamp": 1787011505,
@@ -13564,8 +13564,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 529.9291,
-    "whale_pct": 0.151,
+    "whale_usd": 7980.3974,
+    "whale_pct": 2.277,
     "whale_value_at_open": 350495.2341,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13580,8 +13580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787021957.331219,
-    "fills": 1
+    "last_fill_at": 1787022644.7732356,
+    "fills": 3
   },
   {
     "timestamp": 1787022017,
