@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 11:55:08 (hora de Perú)
+Actualizado: 2026-08-18 11:57:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $831.63
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 11:55:08 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $431.63)
+**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $411.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 25 | 9 | 2 | +7.41 USD |
+| swisstony | 25 | 9 | 3 | +7.41 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 110 | 72 | 20 | -99.15 USD |
+| ferrariChampions2026 | 110 | 72 | 21 | -99.15 USD |
 
 ## Análisis general
 
@@ -183,6 +183,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Cincinnati Open: Xiyu Wang vs Elina Svit | Elina Svitolina (BUY) | 75% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 80% | 10.00 | 3.7% | ⏳ pendiente | — |
 | sentrio | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: James Watt vs Ugo Blanchet | Ugo Blanchet (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
 | sentrio | Spread: Indiana Fever (-10.5) | Toronto Tempo (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -211,5 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 58% | 10.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Peter Makk (BUY) | 69% | 10.00 | 3.5% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 44% | 10.00 | 12.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
