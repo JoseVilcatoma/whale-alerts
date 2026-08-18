@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 00:24:25 (hora de Perú)
+Actualizado: 2026-08-18 00:26:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **384**  ($19,660,050 en total)
-- Resueltas: **382** — 229 ganadas / 153 perdidas (**60%** de acierto)
-- Pendientes: 2
+- Resueltas: **384** — 230 ganadas / 154 perdidas (**60%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$951,054** sobre $19,580,061 apostados (ROI **+4.9%**)
-- Copiando $100 fijo en cada una: **-$1,070** sobre $37,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$946,744** sobre $19,660,050 apostados (ROI **+4.8%**)
+- Copiando $100 fijo en cada una: **-$1,131** sobre $37,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 39 | 20 | 2 | 66% | $3,459,157 | +$270,972 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 40 | 21 | 0 | 66% | $3,459,157 | +$266,662 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 0 | 65% | $1,468,470 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $54,488 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $54,488 | +$21,190 | ✅ Ganada |
 | IlIIIIlIl | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 1.92 (52¢) | $30,898 | -$30,898 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jiri Lehecka vs Arthur Fils | Arthur Fils | 1.28 (78¢) | $45,955 | +$12,962 | ✅ Ganada |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.06 (94¢) | $27,762 | +$1,772 | ✅ Ganada |
