@@ -8,7 +8,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786928689.2786043,
-    "roi_pct": 1025.45,
+    "roi_pct": 628.7,
     "short_term_pct": 70.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -26,7 +26,7 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1787025377.304819,
-    "roi_pct": 349.2,
+    "roi_pct": 322.4,
     "short_term_pct": 100.0
   },
   "0xaa7789219c17e180dcb5933099c90d885f1d15a5": {
@@ -38,7 +38,7 @@
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "111111111115",
     "added_at": 1787046396.3082237,
-    "roi_pct": 371.94,
+    "roi_pct": 375.78,
     "short_term_pct": 100.0
   },
   "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
@@ -50,13 +50,13 @@
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1787055668.4902768,
-    "roi_pct": 227.04,
-    "short_term_pct": 80.0
+    "roi_pct": 211.31,
+    "short_term_pct": 100.0
   },
-  "0xe76f0a36d05d215a69f1f84466c8922702a1d40c": {
-    "username": "Kulilun",
-    "added_at": 1787057522.3424518,
-    "roi_pct": 193.14,
+  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
+    "username": "HVAB",
+    "added_at": 1787058448.9350686,
+    "roi_pct": 3323.12,
     "short_term_pct": 100.0
   }
 }
