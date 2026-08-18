@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:33:54 (hora de Perú)
+Actualizado: 2026-08-17 22:35:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $784.79
-**Retorno acumulado:** -21.52%
+**Bankroll actual:** $800.71
+**Retorno acumulado:** -19.93%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:33:54 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $614.68 en 71 posiciones abiertas (disponible para nuevas apuestas: $170.11)
+**Capital comprometido ahora mismo:** $584.68 en 68 posiciones abiertas (disponible para nuevas apuestas: $216.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 20 | 6 | 14 | +23.77 USD |
+| swisstony | 20 | 6 | 15 | +23.77 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| RN1 | 69 | 29 | 22 | -8.61 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 67 | 28 | 25 | -12.30 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -50,16 +50,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 22 | 18 | 8 | -76.28 USD |
-| ferrariChampions2026 | 82 | 58 | 19 | -96.66 USD |
+| ferrariChampions2026 | 83 | 58 | 18 | -84.44 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 501
-- **Aciertos:** 295 (58.9%)
+- **Apuestas resueltas:** 505
+- **Aciertos:** 298 (59.0%)
 - **Cuota promedio de entrada:** 60.5%
 - **Stake promedio:** $9.93
-- **Total apostado (suma de stakes):** $4,973.83
-- **ROI sobre lo apostado:** -5.21%
+- **Total apostado (suma de stakes):** $5,013.83
+- **ROI sobre lo apostado:** -4.85%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,8 +69,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 226 | 47.8% | 49.6% | -1.9 pp |
-| 60-79% | 142 | 68.3% | 69.2% | -0.9 pp |
+| 40-59% | 229 | 48.0% | 49.7% | -1.6 pp |
+| 60-79% | 143 | 68.5% | 69.2% | -0.7 pp |
 | 80-94% | 63 | 88.9% | 86.4% | +2.5 pp |
 | 95-99% (casi seguro) | 25 | 100.0% | 98.0% | +2.0 pp |
 
@@ -180,6 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: Club Puebla (-2.5) | CF Pachuca (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Tai Leonard Sach vs  | Tai Leonard Sach (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -192,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 24.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 7.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 9.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.4% | ⏳ pendiente | — |
@@ -209,4 +210,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Club Necaxa vs. Club León FC end in | No (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 98% | 10.00 | 0.3% | ✅ ganada | +0.20 |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Club León FC win on 2026-08-17? | No (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |

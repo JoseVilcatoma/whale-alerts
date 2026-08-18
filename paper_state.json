@@ -1,5 +1,5 @@
 {
-  "bankroll": 784.7944709552556,
+  "bankroll": 800.7090433569863,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2615,6 +2615,26 @@
       "timestamp": 1787024020.6761277,
       "bankroll": 784.79,
       "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1787024146.5417047,
+      "bankroll": 797.02,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787024147.2399626,
+      "bankroll": 787.02,
+      "event": "lost: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787024148.9367385,
+      "bankroll": 796.62,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1787024149.0369823,
+      "bankroll": 800.71,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
     }
   ]
 }
