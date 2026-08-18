@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:27:47 (hora de Perú)
+Actualizado: 2026-08-17 19:29:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $833.53
@@ -167,7 +167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 54% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 49% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
