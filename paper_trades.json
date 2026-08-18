@@ -8672,8 +8672,8 @@
     "title": "Cancun: Lloyd Harris vs Abdullah Shelbayh",
     "outcome": "Lloyd Harris",
     "side": "BUY",
-    "whale_usd": 1922.6819999999998,
-    "whale_pct": 0.99,
+    "whale_usd": 5893.722,
+    "whale_pct": 3.036,
     "whale_value_at_open": 194143.855,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -8683,8 +8683,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786966766.7166429,
-    "fills": 2
+    "last_fill_at": 1787021877.966227,
+    "fills": 3
   },
   {
     "timestamp": 1786966823,
@@ -12268,7 +12268,7 @@
     "paper_stake_usd": 0.0,
     "odds_at_bet": 86,
     "odds_ballena": 84,
-    "status": "pending",
+    "status": "won",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
@@ -13474,6 +13474,60 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787021697.6545732,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787021812,
+    "timestamp_added": 1787021812.8046665,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-chc-2026-08-17",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 1636.0,
+    "whale_pct": 0.68,
+    "whale_value_at_open": 240639.79,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021812.8046763,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787021886,
+    "timestamp_added": 1787021887.2510908,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 3836.1911999999998,
+    "whale_pct": 1.083,
+    "whale_value_at_open": 354341.0328,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "RN1",
+      "alaskabaked",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021887.2510989,
     "fills": 1
   }
 ]
