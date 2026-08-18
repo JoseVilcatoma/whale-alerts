@@ -1,5 +1,5 @@
 {
-  "bankroll": 812.9616785057964,
+  "bankroll": 830.2155794989787,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2660,6 +2660,31 @@
       "timestamp": 1787024524.9699419,
       "bankroll": 812.96,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787024585.6749592,
+      "bankroll": 822.57,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5"
+    },
+    {
+      "timestamp": 1787024585.7752337,
+      "bankroll": 812.57,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5"
+    },
+    {
+      "timestamp": 1787024645.569428,
+      "bankroll": 826.96,
+      "event": "won: HomeRunHazard \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1787024649.9840364,
+      "bankroll": 816.96,
+      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1787024650.084293,
+      "bankroll": 830.22,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
     }
   ]
 }
