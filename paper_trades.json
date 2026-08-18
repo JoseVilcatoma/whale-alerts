@@ -8285,8 +8285,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 63,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12382,8 +12382,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 10842.666666000001,
-    "whale_pct": 4.623,
+    "whale_usd": 14761.066666,
+    "whale_pct": 6.294,
     "whale_value_at_open": 234532.2614,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12393,8 +12393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016989.2669826,
-    "fills": 8
+    "last_fill_at": 1787018692.0295782,
+    "fills": 9
   },
   {
     "timestamp": 1787015395,
@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 31370.227560000007,
-    "whale_pct": 7.031,
+    "whale_usd": 40410.037560000004,
+    "whale_pct": 9.057,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018425.3930361,
-    "fills": 6
+    "last_fill_at": 1787018692.7062879,
+    "fills": 7
   },
   {
     "timestamp": 1787015430,
@@ -12776,6 +12776,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787018493.1678195,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787018637,
+    "timestamp_added": 1787018638.0560029,
+    "username": "alaskabaked",
+    "wallet": "0xaa7789219c17e180dcb5933099c90d885f1d15a5",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 12759.051499000001,
+    "whale_pct": 50.943,
+    "whale_value_at_open": 25045.5315,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 53,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018750.7010455,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787018691,
+    "timestamp_added": 1787018692.0319047,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-lehecka-fils-2026-08-17",
+    "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "whale_usd": 7663.0,
+    "whale_pct": 1.791,
+    "whale_value_at_open": 427908.5382,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 81,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018692.0319128,
     "fills": 1
   }
 ]
