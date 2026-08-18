@@ -1,5 +1,5 @@
 {
-  "bankroll": 831.4045556803725,
+  "bankroll": 791.8127189456785,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2530,6 +2530,36 @@
       "timestamp": 1787023148.2652302,
       "bankroll": 831.4,
       "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5"
+    },
+    {
+      "timestamp": 1787023208.0490265,
+      "bankroll": 831.61,
+      "event": "won: ferrariChampions2026 \u2014 Will Clube do Remo win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787023208.7354355,
+      "bankroll": 831.81,
+      "event": "won: RN1 \u2014 Will Clube do Remo win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787023266.9539087,
+      "bankroll": 821.81,
+      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: O/U 2.5"
+    },
+    {
+      "timestamp": 1787023267.5560002,
+      "bankroll": 811.81,
+      "event": "lost: RN1 \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787023267.7563396,
+      "bankroll": 801.81,
+      "event": "lost: ferrariChampions2026 \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787023268.8581307,
+      "bankroll": 791.81,
+      "event": "lost: swisstony \u2014 Will SC Internacional win on 2026-08-17?"
     }
   ]
 }

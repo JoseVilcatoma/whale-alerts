@@ -10928,8 +10928,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11022,8 +11022,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11195,8 +11195,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1"
     ],
@@ -11337,8 +11337,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
     "odds_ballena": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11741,8 +11741,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
     "odds_ballena": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -12050,8 +12050,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -13511,8 +13511,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 8248.7688,
-    "whale_pct": 2.328,
+    "whale_usd": 13804.9201,
+    "whale_pct": 3.896,
     "whale_value_at_open": 354341.0328,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -13527,8 +13527,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022969.2625744,
-    "fills": 2
+    "last_fill_at": 1787023241.9345517,
+    "fills": 7
   },
   {
     "timestamp": 1787021889,
@@ -13615,8 +13615,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 754.1015530000001,
-    "whale_pct": 0.223,
+    "whale_usd": 6201.166553000001,
+    "whale_pct": 1.831,
     "whale_value_at_open": 338683.4859,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -13626,8 +13626,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022669.1106696,
-    "fills": 1
+    "last_fill_at": 1787023178.497978,
+    "fills": 3
   },
   {
     "timestamp": 1787022860,
@@ -13727,6 +13727,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787023154.8590727,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787023258,
+    "timestamp_added": 1787023258.8861701,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-dal-gsv-2026-08-17-total-163pt5",
+    "title": "Dallas Wings vs. Golden State Valkyries: O/U 163.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 880.0,
+    "whale_pct": 0.314,
+    "whale_value_at_open": 280007.4583,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787023258.8861787,
     "fills": 1
   }
 ]
