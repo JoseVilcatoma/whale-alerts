@@ -13362,8 +13362,8 @@
     "title": "ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim",
     "outcome": "Dabin Kim",
     "side": "BUY",
-    "whale_usd": 2810.3900000000003,
-    "whale_pct": 1.968,
+    "whale_usd": 4512.7300000000005,
+    "whale_pct": 3.161,
     "whale_value_at_open": 142775.7216,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -13373,8 +13373,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787036057.6512988,
-    "fills": 3
+    "last_fill_at": 1787037991.181871,
+    "fills": 4
   },
   {
     "timestamp": 1787036411,
