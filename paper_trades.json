@@ -14638,8 +14638,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 13009.854900000002,
-    "whale_pct": 6.52,
+    "whale_usd": 19531.2373,
+    "whale_pct": 9.788,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -14649,8 +14649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063822.790617,
-    "fills": 2
+    "last_fill_at": 1787064018.195535,
+    "fills": 3
   },
   {
     "timestamp": 1787059377,
@@ -14960,8 +14960,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT - Map 2 Winner",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 1083.78,
-    "whale_pct": 0.48,
+    "whale_usd": 1705.4955,
+    "whale_pct": 0.756,
     "whale_value_at_open": 225599.8814,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -14971,8 +14971,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063008.6599844,
-    "fills": 2
+    "last_fill_at": 1787063951.952369,
+    "fills": 3
   },
   {
     "timestamp": 1787063024,
@@ -15006,8 +15006,8 @@
     "title": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A",
     "outcome": "Fire Flux Esports",
     "side": "BUY",
-    "whale_usd": 1242.9604,
-    "whale_pct": 0.549,
+    "whale_usd": 1751.859,
+    "whale_pct": 0.773,
     "whale_value_at_open": 226592.3114,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -15017,8 +15017,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063831.7573118,
-    "fills": 2
+    "last_fill_at": 1787063908.2039685,
+    "fills": 3
   },
   {
     "timestamp": 1787063175,
