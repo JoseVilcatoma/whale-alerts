@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:54:50 (hora de Perú)
+Actualizado: 2026-08-17 19:57:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $843.83
-**Retorno acumulado:** -15.62%
+**Bankroll actual:** $836.43
+**Retorno acumulado:** -16.36%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:54:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $843.83 en 86 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $813.83 en 83 posiciones abiertas (disponible para nuevas apuestas: $22.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,20 +44,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
-| RN1 | 46 | 22 | 26 | -26.47 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
+| RN1 | 47 | 23 | 25 | -32.39 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 57 | 45 | 37 | -88.98 USD |
+| ferrariChampions2026 | 58 | 46 | 35 | -90.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 415
-- **Aciertos:** 240 (57.8%)
+- **Apuestas resueltas:** 419
+- **Aciertos:** 242 (57.8%)
 - **Cuota promedio de entrada:** 59.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,150.00
-- **ROI sobre lo apostado:** -4.82%
+- **Total apostado (suma de stakes):** $4,190.00
+- **ROI sobre lo apostado:** -4.95%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,8 +67,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 189 | 48.7% | 49.6% | -0.9 pp |
-| 60-79% | 123 | 68.3% | 69.4% | -1.1 pp |
+| 40-59% | 192 | 48.4% | 49.6% | -1.1 pp |
+| 60-79% | 124 | 68.5% | 69.4% | -0.9 pp |
 | 80-94% | 42 | 92.9% | 86.3% | +6.5 pp |
 | 95-99% (casi seguro) | 16 | 100.0% | 97.9% | +2.1 pp |
 
@@ -162,6 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -191,4 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 90% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 68% | 10.00 | 2.9% | ✅ ganada | +4.71 |
