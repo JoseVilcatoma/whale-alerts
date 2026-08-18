@@ -11521,8 +11521,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 2922.252,
-    "whale_pct": 1.461,
+    "whale_usd": 3741.405604,
+    "whale_pct": 1.871,
     "whale_value_at_open": 199981.8102,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -11534,8 +11534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016998.812906,
-    "fills": 2
+    "last_fill_at": 1787017226.7012448,
+    "fills": 3
   },
   {
     "timestamp": 1787011327,
