@@ -1,5 +1,5 @@
 {
-  "bankroll": 791.8127189456785,
+  "bankroll": 781.7162861548182,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2560,6 +2560,46 @@
       "timestamp": 1787023268.8581307,
       "bankroll": 791.81,
       "event": "lost: swisstony \u2014 Will SC Internacional win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787023330.9253669,
+      "bankroll": 781.81,
+      "event": "lost: swisstony \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787023394.5638294,
+      "bankroll": 783.18,
+      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
+    },
+    {
+      "timestamp": 1787023394.6639836,
+      "bankroll": 784.54,
+      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 4.5"
+    },
+    {
+      "timestamp": 1787023395.0498016,
+      "bankroll": 785.41,
+      "event": "won: RN1 \u2014 Guarani FC SP vs. Ypiranga FC RS: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1787023395.3563159,
+      "bankroll": 786.52,
+      "event": "won: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787023395.7940075,
+      "bankroll": 787.63,
+      "event": "won: RN1 \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1787023396.1948442,
+      "bankroll": 791.72,
+      "event": "won: RN1 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
+    },
+    {
+      "timestamp": 1787023396.4953902,
+      "bankroll": 781.72,
+      "event": "lost: ferrariChampions2026 \u2014 SC Internacional vs. Clube do Remo: O/U 1.5"
     }
   ]
 }
