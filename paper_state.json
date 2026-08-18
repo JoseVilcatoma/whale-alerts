@@ -1,5 +1,5 @@
 {
-  "bankroll": 810.7326225086674,
+  "bankroll": 811.0419008591829,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2885,6 +2885,11 @@
       "timestamp": 1787054828.398796,
       "bankroll": 810.73,
       "event": "won: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Samira De Stefano vs Antonia Vergara Rivera"
+    },
+    {
+      "timestamp": 1787054948.6487896,
+      "bankroll": 811.04,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Cristina Pescucci vs Franziska Sziedat"
     }
   ]
 }

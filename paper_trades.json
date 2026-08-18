@@ -13877,8 +13877,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 97,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -13986,8 +13986,8 @@
     "title": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 7494.783472,
-    "whale_pct": 3.751,
+    "whale_usd": 8158.928272,
+    "whale_pct": 4.084,
     "whale_value_at_open": 199800.5799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -13997,8 +13997,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787054533.7322109,
-    "fills": 4
+    "last_fill_at": 1787054976.293588,
+    "fills": 5
   },
   {
     "timestamp": 1787052363,
@@ -14147,8 +14147,8 @@
     "title": "Roehampton: Michael Geerts vs Billy Blaydes",
     "outcome": "Michael Geerts",
     "side": "BUY",
-    "whale_usd": 2117.348,
-    "whale_pct": 1.245,
+    "whale_usd": 3088.206,
+    "whale_pct": 1.816,
     "whale_value_at_open": 170098.3786,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -14158,7 +14158,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787054727.0364609,
-    "fills": 1
+    "last_fill_at": 1787054950.516251,
+    "fills": 2
   }
 ]
