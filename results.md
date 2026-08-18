@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 20:24:16 (hora de Perú)
+Actualizado: 2026-08-17 20:26:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **379**  ($19,475,446 en total)
-- Resueltas: **367** — 220 ganadas / 147 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **371** — 222 ganadas / 149 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$903,390** sobre $18,896,555 apostados (ROI **+4.8%**)
-- Copiando $100 fijo en cada una: **-$972** sobre $35,800 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$961,722** sobre $19,197,871 apostados (ROI **+5.0%**)
+- Copiando $100 fijo en cada una: **-$1,038** sobre $36,200 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 36 | 20 | 2 | 64% | $3,333,213 | +$126,939 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 37 | 20 | 1 | 65% | $3,333,213 | +$248,842 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -43,12 +43,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| SDTrading | 2 | 4 | 1 | ⚠️ 33% (6) | $194,497 | -$61,562 |
+| SDTrading | 3 | 4 | 0 | ⚠️ 43% (7) | $194,497 | -$39,606 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
-| xifutloong3 | 2 | 3 | 1 | ⚠️ 40% (5) | $192,469 | -$66,805 |
+| xifutloong3 | 2 | 4 | 0 | ⚠️ 33% (6) | $192,469 | -$102,805 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
-| Eztennis | 2 | 1 | 1 | ⚠️ 67% (3) | $167,696 | +$70,697 |
+| Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
@@ -75,11 +75,11 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
-| xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | — | ⏳ Pendiente |
+| xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | -$36,000 | ❌ Perdida |
 | Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
 | Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.33 (75¢) | $106,960 | +$35,653 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | — | ⏳ Pendiente |
-| Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | +$121,903 | ✅ Ganada |
+| Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | -$49,527 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | +$29,241 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | — | ⏳ Pendiente |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
-| SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $32,935 | — | ⏳ Pendiente |
+| SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $32,935 | +$21,956 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 2.00 (50¢) | $36,227 | — | ⏳ Pendiente |
 | Sunshine.Smile | LoL: T1 vs DN SOOPers - Game 3 Winner | DN SOOPers | 1.47 (68¢) | $25,937 | +$12,206 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
