@@ -13546,8 +13546,8 @@
     "title": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
     "outcome": "Nastasja Schunk",
     "side": "BUY",
-    "whale_usd": 2860.92,
-    "whale_pct": 4.903,
+    "whale_usd": 5704.5,
+    "whale_pct": 9.777,
     "whale_value_at_open": 58347.6197,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -13557,7 +13557,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787040072.1716404,
-    "fills": 2
+    "last_fill_at": 1787040094.4112499,
+    "fills": 4
   }
 ]
