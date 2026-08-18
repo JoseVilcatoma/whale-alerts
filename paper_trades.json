@@ -13884,5 +13884,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787050559.8850396,
     "fills": 1
+  },
+  {
+    "timestamp": 1787051585,
+    "timestamp_added": 1787051586.3017478,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ns-dnf-2026-08-18-game3",
+    "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 562.32,
+    "whale_pct": 0.273,
+    "whale_value_at_open": 206236.6631,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 67,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787051586.3017583,
+    "fills": 1
   }
 ]
