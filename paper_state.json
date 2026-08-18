@@ -1,5 +1,5 @@
 {
-  "bankroll": 822.314815429157,
+  "bankroll": 824.3630082002413,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3000,6 +3000,11 @@
       "timestamp": 1787063825.1594224,
       "bankroll": 822.31,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage"
+    },
+    {
+      "timestamp": 1787064381.7631283,
+      "bankroll": 824.36,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Sandro Kopp vs Luca Wiedenmann"
     }
   ]
 }
