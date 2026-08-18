@@ -12619,8 +12619,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 10222.338029000002,
-    "whale_pct": 6.497,
+    "whale_usd": 10779.768029000003,
+    "whale_pct": 6.852,
     "whale_value_at_open": 157333.7724,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -12630,8 +12630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027517.9117322,
-    "fills": 8
+    "last_fill_at": 1787027645.7097497,
+    "fills": 9
   },
   {
     "timestamp": 1787025970,
@@ -12713,8 +12713,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 6792.645200000001,
-    "whale_pct": 3.16,
+    "whale_usd": 7855.9061,
+    "whale_pct": 3.655,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -12726,8 +12726,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027364.4526455,
-    "fills": 3
+    "last_fill_at": 1787027602.4195826,
+    "fills": 4
   },
   {
     "timestamp": 1787026503,
@@ -12788,8 +12788,8 @@
     "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
     "outcome": "Hanlei Lu",
     "side": "BUY",
-    "whale_usd": 47916.385039,
-    "whale_pct": 12899.501,
+    "whale_usd": 52803.283039,
+    "whale_pct": 14215.096,
     "whale_value_at_open": 371.4592,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -12799,8 +12799,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027433.3557696,
-    "fills": 11
+    "last_fill_at": 1787027591.7268088,
+    "fills": 18
   },
   {
     "timestamp": 1787026793,
@@ -12811,8 +12811,8 @@
     "title": "Will Club Puebla win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2490.84,
-    "whale_pct": 1.089,
+    "whale_usd": 4824.6236,
+    "whale_pct": 2.109,
     "whale_value_at_open": 228733.5795,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -12822,8 +12822,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026794.4569783,
-    "fills": 2
+    "last_fill_at": 1787027652.987828,
+    "fills": 4
   },
   {
     "timestamp": 1787026806,
