@@ -14597,8 +14597,8 @@
     "title": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
     "outcome": "Madison Keys",
     "side": "BUY",
-    "whale_usd": 7939.43516,
-    "whale_pct": 2.559,
+    "whale_usd": 13373.2652,
+    "whale_pct": 4.31,
     "whale_value_at_open": 310306.8922,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
@@ -14608,8 +14608,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787069530.387772,
-    "fills": 2
+    "last_fill_at": 1787070123.9906328,
+    "fills": 3
   },
   {
     "timestamp": 1787068730,
