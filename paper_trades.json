@@ -13454,8 +13454,8 @@
     "title": "Sion: Murkel Dellien vs Ryan Nijboer",
     "outcome": "Ryan Nijboer",
     "side": "BUY",
-    "whale_usd": 540.810152,
-    "whale_pct": 0.29,
+    "whale_usd": 1461.297833,
+    "whale_pct": 0.783,
     "whale_value_at_open": 186707.2096,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13465,8 +13465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787046933.1049361,
-    "fills": 1
+    "last_fill_at": 1787047476.6723013,
+    "fills": 2
   },
   {
     "timestamp": 1787047328,
@@ -13500,8 +13500,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 40686.98692100001,
-    "whale_pct": 37.334,
+    "whale_usd": 53918.41092100001,
+    "whale_pct": 49.475,
     "whale_value_at_open": 108981.2761,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -13511,7 +13511,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787047459.8530831,
-    "fills": 22
+    "last_fill_at": 1787047487.5982068,
+    "fills": 24
+  },
+  {
+    "timestamp": 1787047538,
+    "timestamp_added": 1787047539.2304056,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-aikawa-michalk-2026-08-18",
+    "title": "ITF W50 Prague Women: Mayuka Aikawa vs Barbora Michalkova",
+    "outcome": "Mayuka Aikawa",
+    "side": "BUY",
+    "whale_usd": 966.0,
+    "whale_pct": 0.52,
+    "whale_value_at_open": 185872.7063,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 86,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787047539.2304163,
+    "fills": 1
   }
 ]
