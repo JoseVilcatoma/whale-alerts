@@ -14406,8 +14406,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Oriol Roca Batalla",
     "side": "BUY",
-    "whale_usd": 6762.2614,
-    "whale_pct": 3.836,
+    "whale_usd": 8319.276538,
+    "whale_pct": 4.719,
     "whale_value_at_open": 176289.0555,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -14417,8 +14417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787057438.3838854,
-    "fills": 2
+    "last_fill_at": 1787059033.9421852,
+    "fills": 4
   },
   {
     "timestamp": 1787057595,
@@ -14569,8 +14569,8 @@
     "title": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
     "outcome": "HANJIN BRION Challengers",
     "side": "BUY",
-    "whale_usd": 1169.92,
-    "whale_pct": 0.58,
+    "whale_usd": 1751.5900000000001,
+    "whale_pct": 0.868,
     "whale_value_at_open": 201679.9246,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -14580,7 +14580,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787058821.5903068,
-    "fills": 2
+    "last_fill_at": 1787059027.2934442,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787059032,
+    "timestamp_added": 1787059033.463952,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-zolota-serb-2026-08-18",
+    "title": "ITF W50 Prague Women: Anastasia Zolotareva vs Raluka Serban",
+    "outcome": "Anastasia Zolotareva",
+    "side": "BUY",
+    "whale_usd": 603.75,
+    "whale_pct": 0.309,
+    "whale_value_at_open": 195115.4631,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 86,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787059033.463961,
+    "fills": 1
   }
 ]
