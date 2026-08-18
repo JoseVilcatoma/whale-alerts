@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:31:55 (hora de Perú)
+Actualizado: 2026-08-18 10:33:58 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $824.05
-**Retorno acumulado:** -17.59%
+**Bankroll actual:** $828.54
+**Retorno acumulado:** -17.15%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:31:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $244.05)
+**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $248.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,16 +52,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 111 | 72 | 36 | -96.87 USD |
+| ferrariChampions2026 | 112 | 72 | 36 | -92.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 583
-- **Aciertos:** 350 (60.0%)
+- **Apuestas resueltas:** 584
+- **Aciertos:** 351 (60.1%)
 - **Cuota promedio de entrada:** 61.2%
 - **Stake promedio:** $9.79
-- **Total apostado (suma de stakes):** $5,707.67
-- **ROI sobre lo apostado:** -3.85%
+- **Total apostado (suma de stakes):** $5,717.67
+- **ROI sobre lo apostado:** -3.77%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 260 | 48.8% | 49.8% | -0.9 pp |
-| 60-79% | 169 | 69.2% | 68.7% | +0.5 pp |
+| 60-79% | 170 | 69.4% | 68.7% | +0.7 pp |
 | 80-94% | 81 | 85.2% | 86.5% | -1.3 pp |
 | 95-99% (casi seguro) | 28 | 100.0% | 97.5% | +2.5 pp |
 
@@ -183,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Set 1 Winner: Rublev vs Borges | Borges (BUY) | 91% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 92% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: James Watt vs Ugo Blanchet | Ugo Blanchet (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -212,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Omega (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | MOUZ NXT (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Radu Albot vs Constantin Bit | Radu Albot (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier Women: Angella Okutoyi v | Angella Okutoyi (BUY) | 82% | 10.00 | 0.5% | ✅ ganada | +2.20 |
