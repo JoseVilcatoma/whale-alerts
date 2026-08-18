@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:06:11 (hora de Perú)
+Actualizado: 2026-08-18 07:08:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $811.22
-**Retorno acumulado:** -18.88%
+**Bankroll actual:** $810.73
+**Retorno acumulado:** -18.93%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:06:11 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $451.22)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $500.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,24 +42,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
+| RN1 | 81 | 37 | 1 | -13.93 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| RN1 | 80 | 36 | 3 | -18.32 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 1 | -31.87 USD |
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 92 | 64 | 21 | -98.37 USD |
+| ferrariChampions2026 | 94 | 65 | 18 | -103.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 550
-- **Aciertos:** 327 (59.5%)
+- **Apuestas resueltas:** 555
+- **Aciertos:** 330 (59.5%)
 - **Cuota promedio de entrada:** 60.9%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,377.67
-- **ROI sobre lo apostado:** -4.33%
+- **Total apostado (suma de stakes):** $5,427.67
+- **ROI sobre lo apostado:** -4.30%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,10 +69,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 248 | 48.4% | 49.7% | -1.4 pp |
-| 60-79% | 159 | 69.2% | 69.0% | +0.2 pp |
+| 40-59% | 251 | 48.2% | 49.7% | -1.5 pp |
+| 60-79% | 160 | 69.4% | 69.0% | +0.3 pp |
 | 80-94% | 73 | 86.3% | 86.6% | -0.3 pp |
-| 95-99% (casi seguro) | 25 | 100.0% | 97.7% | +2.3 pp |
+| 95-99% (casi seguro) | 26 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -186,10 +186,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Javier Barranco Cosano (BUY) | 58% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Cristina Pescucci | Franziska Sziedat (BUY) | 97% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ✅ ganada | +0.42 |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 86% | 10.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 67% | 10.00 | 6.9% | ⏳ pendiente | — |
 | sentrio | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -197,7 +197,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Lui Maxted (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Martin Krumich (BUY) | 93% | 10.00 | 3.2% | ⏳ pendiente | — |
 | sentrio | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 85% | 10.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Antonia Vergara Rivera (BUY) | 41% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Antonia Vergara Rivera (BUY) | 41% | 10.00 | 0.7% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Chun-Hsin Tseng (BUY) | 95% | 10.00 | 1.7% | ✅ ganada | +0.53 |
 | GoalLineGhost | Spread: CS Independiente Rivadavia (-1.5 | Fluminense FC (BUY) | 87% | 10.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Matteo Martineau (BUY) | 62% | 10.00 | 3.1% | ⏳ pendiente | — |
