@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:38:40 (hora de Perú)
+Actualizado: 2026-08-17 23:40:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.46
@@ -174,9 +174,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.0% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.3% | ⏳ pendiente | — |
 | RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 2.1% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 16836.8% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 24313.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 10.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 3.7% | ⏳ pendiente | — |
