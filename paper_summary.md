@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:13:17 (hora de Perú)
+Actualizado: 2026-08-18 10:15:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $824.05
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:13:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $304.05)
+**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $294.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 111 | 72 | 30 | -96.87 USD |
+| ferrariChampions2026 | 111 | 72 | 31 | -96.87 USD |
 
 ## Análisis general
 
@@ -173,6 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
+| atp-rublev-borges-2026-08-18 | Kulilun, ferrariChampions2026 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-havlick-bervid-2026-08-18 | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-18 | SDTrading, ferrariChampions2026 |
@@ -182,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Andrey Rublev vs Nuno B | Nuno Borges (BUY) | 42% | 10.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: 1. FC Heidenheim (-1.5) | Bayern Munich (BUY) | 98% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Georgii Kravchenko vs Jeffrey von  | Jeffrey von der Schulenburg (BUY) | 67% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Elmer Moeller vs Ivan Ivanov | Elmer Moeller (BUY) | 98% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -211,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W35 Krakow Women: Barbara Straszewsk | Radka Zelnickova (BUY) | 88% | 10.00 | 0.6% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Luca Wiedenmann | Sandro Kopp (BUY) | 83% | 10.00 | 1.2% | ✅ ganada | +2.05 |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Radu Mihai Papoe (BUY) | 57% | 10.00 | 16.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier Women: Angella Okutoyi v | Laia Petretic (BUY) | 65% | 10.00 | 0.6% | ❌ perdida | -10.00 |

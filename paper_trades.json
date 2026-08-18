@@ -15301,5 +15301,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787065815.8384538,
     "fills": 1
+  },
+  {
+    "timestamp": 1787066087,
+    "timestamp_added": 1787066087.8221736,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-rublev-borges-2026-08-18",
+    "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+    "outcome": "Nuno Borges",
+    "side": "BUY",
+    "whale_usd": 3708.146266,
+    "whale_pct": 1.421,
+    "whale_value_at_open": 260994.94,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Kulilun"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787066114.674642,
+    "fills": 2
   }
 ]
