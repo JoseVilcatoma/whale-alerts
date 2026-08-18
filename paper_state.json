@@ -1,5 +1,5 @@
 {
-  "bankroll": 832.2621849066314,
+  "bankroll": 833.7022215954643,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2225,6 +2225,16 @@
       "timestamp": 1787015620.3943908,
       "bankroll": 832.26,
       "event": "won: HVAB \u2014 Cancun: Felipe Meligeni Alves vs Luka Pavlovic"
+    },
+    {
+      "timestamp": 1787015933.7024307,
+      "bankroll": 833.5,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Rinky Hijikata vs Jakub Mensik"
+    },
+    {
+      "timestamp": 1787015936.2260532,
+      "bankroll": 833.7,
+      "event": "won: RN1 \u2014 Cincinnati Open: Rinky Hijikata vs Jakub Mensik"
     }
   ]
 }
