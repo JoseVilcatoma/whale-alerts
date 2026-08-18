@@ -12508,8 +12508,8 @@
     "paper_stake_usd": 1.24,
     "odds_at_bet": 72,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.48,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -13166,5 +13166,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787029237.4346416,
     "fills": 2
+  },
+  {
+    "timestamp": 1787029500,
+    "timestamp_added": 1787029500.838413,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "lol-ns-dnf-2026-08-18",
+    "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 832.6530610000001,
+    "whale_pct": 2.659,
+    "whale_value_at_open": 31313.38,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787029500.838424,
+    "fills": 1
   }
 ]

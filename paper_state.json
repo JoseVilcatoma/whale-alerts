@@ -1,5 +1,5 @@
 {
-  "bankroll": 829.0777975588569,
+  "bankroll": 829.5600197810792,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2680,6 +2680,11 @@
       "timestamp": 1787029135.8952627,
       "bankroll": 829.08,
       "event": "won: swisstony \u2014 Club Necaxa vs. Club Le\u00f3n FC: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1787029448.8843155,
+      "bankroll": 829.56,
+      "event": "won: ferrariChampions2026 \u2014 Club Necaxa vs. Club Le\u00f3n FC: O/U 1.5"
     }
   ]
 }

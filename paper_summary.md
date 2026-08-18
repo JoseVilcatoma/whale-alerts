@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 00:03:19 (hora de Perú)
+Actualizado: 2026-08-18 00:05:21 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $829.08
-**Retorno acumulado:** -17.09%
+**Bankroll actual:** $829.56
+**Retorno acumulado:** -17.04%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 00:03:19 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $271.24 en 29 posiciones abiertas (disponible para nuevas apuestas: $557.84)
+**Capital comprometido ahora mismo:** $280.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $549.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
+| sentrio | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -48,16 +49,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 85 | 59 | 8 | -85.92 USD |
+| ferrariChampions2026 | 86 | 59 | 7 | -85.44 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 514
-- **Aciertos:** 304 (59.1%)
+- **Apuestas resueltas:** 515
+- **Aciertos:** 305 (59.2%)
 - **Cuota promedio de entrada:** 60.3%
-- **Stake promedio:** $9.80
-- **Total apostado (suma de stakes):** $5,036.43
-- **ROI sobre lo apostado:** -4.27%
+- **Stake promedio:** $9.78
+- **Total apostado (suma de stakes):** $5,037.67
+- **ROI sobre lo apostado:** -4.26%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 235 | 48.5% | 49.7% | -1.2 pp |
-| 60-79% | 147 | 69.4% | 69.1% | +0.3 pp |
+| 60-79% | 148 | 69.6% | 69.1% | +0.5 pp |
 | 80-94% | 66 | 87.9% | 86.5% | +1.4 pp |
 | 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
 
@@ -162,6 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
 | atp-lehecka-fils-2026-08-17 | RN1, ferrariChampions2026 |
+| lol-ns-dnf-2026-08-18 | Lakersfan111, sentrio |
 | wta-eala-anisimo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | itf-hanleil-osminki-2026-08-18 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
@@ -173,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -200,6 +203,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
 | RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ✅ ganada | +4.08 |
-| ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ✅ ganada | +0.48 |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ✅ ganada | +13.26 |
-| RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ✅ ganada | +0.00 |
