@@ -15278,5 +15278,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787065503.9015894,
     "fills": 1
+  },
+  {
+    "timestamp": 1787065815,
+    "timestamp_added": 1787065815.8384447,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-fch-bmu-2026-08-18-spread-home-1pt5",
+    "title": "Spread: 1. FC Heidenheim (-1.5)",
+    "outcome": "Bayern Munich",
+    "side": "BUY",
+    "whale_usd": 649.68,
+    "whale_pct": 1.311,
+    "whale_value_at_open": 49547.0774,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787065815.8384538,
+    "fills": 1
   }
 ]
