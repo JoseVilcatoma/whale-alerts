@@ -15347,8 +15347,8 @@
     "title": "LoL: Bushido Wildcats vs Team Phoenix - Game 3 Winner",
     "outcome": "Bushido Wildcats",
     "side": "BUY",
-    "whale_usd": 578.090888,
-    "whale_pct": 0.194,
+    "whale_usd": 1090.6959579999998,
+    "whale_pct": 0.366,
     "whale_value_at_open": 297885.0956,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
@@ -15358,8 +15358,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072967.1711557,
-    "fills": 1
+    "last_fill_at": 1787073231.019195,
+    "fills": 2
   },
   {
     "timestamp": 1787073043,
@@ -15370,8 +15370,8 @@
     "title": "1. FC Heidenheim vs. Bayern Munich: O/U 5.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 610.1595000000001,
-    "whale_pct": 0.212,
+    "whale_usd": 1935.7981,
+    "whale_pct": 0.674,
     "whale_value_at_open": 287256.1951,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -15381,7 +15381,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787073043.947956,
-    "fills": 1
+    "last_fill_at": 1787073197.5405028,
+    "fills": 3
   }
 ]
