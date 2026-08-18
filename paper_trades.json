@@ -13270,8 +13270,8 @@
     "title": "ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho",
     "outcome": "Chen Hui Ho",
     "side": "BUY",
-    "whale_usd": 3901.67,
-    "whale_pct": 2.846,
+    "whale_usd": 4414.23,
+    "whale_pct": 3.22,
     "whale_value_at_open": 137087.0777,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -13281,7 +13281,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787031697.8559928,
-    "fills": 3
+    "last_fill_at": 1787032253.7848666,
+    "fills": 4
   }
 ]
