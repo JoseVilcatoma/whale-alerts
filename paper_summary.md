@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:06:47 (hora de Perú)
+Actualizado: 2026-08-17 19:08:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $835.97
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:06:47 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $780.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $55.97)
+**Capital comprometido ahora mismo:** $790.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $45.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 42 | 21 | 24 | -27.24 USD |
+| RN1 | 42 | 21 | 25 | -27.24 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 55 | 45 | 33 | -99.82 USD |
@@ -150,17 +150,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-int-cre-2026-08-17-total-4pt5 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-int | RN1, ferrariChampions2026 |
 | mlb-ari-bos-2026-08-17-total-7pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
+| bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
 | mlb-cws-chc-2026-08-17 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 53% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 59% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-2.5) | Athletics (BUY) | 43% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Luka Pavlovic (BUY) | 64% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Luka Pavlovic (BUY) | 64% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 57% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -172,7 +174,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 89% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Noskova vs Tauson | Noskova (BUY) | 72% | 10.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 90% | 10.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 50% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 53% | 10.00 | 3.2% | ⏳ pendiente | — |
@@ -185,4 +187,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Linda Noskova vs Clara  | Clara Tauson (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 50% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 86% | 10.00 | 0.3% | ⏳ pendiente | — |

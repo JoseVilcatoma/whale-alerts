@@ -11015,8 +11015,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 609.84,
-    "whale_pct": 0.293,
+    "whale_usd": 1205.1599999999999,
+    "whale_pct": 0.58,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -11026,8 +11026,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007897.3379533,
-    "fills": 1
+    "last_fill_at": 1787011642.551501,
+    "fills": 2
   },
   {
     "timestamp": 1787007903,
@@ -11330,8 +11330,8 @@
     "title": "Will Clube do Remo win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1345.4784,
-    "whale_pct": 0.343,
+    "whale_usd": 2419.91905,
+    "whale_pct": 0.618,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 98,
@@ -11341,8 +11341,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009995.6470668,
-    "fills": 1
+    "last_fill_at": 1787011733.8291085,
+    "fills": 2
   },
   {
     "timestamp": 1787010006,
@@ -11617,8 +11617,8 @@
     "title": "Cancun: Felipe Meligeni Alves vs Luka Pavlovic",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 1210.46,
-    "whale_pct": 0.363,
+    "whale_usd": 1713.43,
+    "whale_pct": 0.514,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -11628,8 +11628,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011604.536122,
-    "fills": 2
+    "last_fill_at": 1787011609.002452,
+    "fills": 3
   },
   {
     "timestamp": 1787011480,
@@ -11723,6 +11723,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787011570.5241537,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787011733,
+    "timestamp_added": 1787011733.3445272,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-int-cre-2026-08-17-cre",
+    "title": "Will Clube do Remo win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 734.365,
+    "whale_pct": 0.355,
+    "whale_value_at_open": 206686.9667,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787011733.3445406,
     "fills": 1
   }
 ]
