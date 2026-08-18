@@ -1,5 +1,5 @@
 {
-  "bankroll": 819.488059567734,
+  "bankroll": 817.0387172285944,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3100,6 +3100,21 @@
       "timestamp": 1787073909.9771264,
       "bankroll": 819.49,
       "event": "lost: ferrariChampions2026 \u2014 Sion: Geoffrey Blancaneaux vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787074029.7752423,
+      "bankroll": 826.73,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Juan Carlos Prado vs Juan Pablo Ficovich"
+    },
+    {
+      "timestamp": 1787074029.8753905,
+      "bankroll": 816.73,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Kingston: Juan Carlos Prado vs Juan Pablo Ficovich"
+    },
+    {
+      "timestamp": 1787074030.6949093,
+      "bankroll": 817.04,
+      "event": "won: swisstony \u2014 Kingston: Juan Carlos Prado vs Juan Pablo Ficovich"
     }
   ]
 }
