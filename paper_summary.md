@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:13:46 (hora de Perú)
+Actualizado: 2026-08-18 03:15:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:13:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $636.32)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $606.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,12 +44,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 10 | -26.84 USD |
-| HomeRunHazard | 25 | 17 | 3 | -31.87 USD |
+| RN1 | 79 | 36 | 11 | -26.84 USD |
+| HomeRunHazard | 25 | 17 | 4 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 2 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 3 | -94.76 USD |
 
 ## Análisis general
 
@@ -175,6 +175,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | ITF W15 Wanfercée-Baulet Women: Maja Mic | Galatea Ferro (BUY) | 66% | 10.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Facundo Mena vs Juan Manuel La Ser | Facundo Mena (BUY) | 46% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 83% | 10.00 | 10.8% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Maria Kalyakina (BUY) | 45% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -202,6 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 89% | 10.00 | 2.9% | ✅ ganada | +1.24 |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Maiko Uchijima (BUY) | 73% | 10.00 | 1.5% | ✅ ganada | +3.70 |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ✅ ganada | +4.93 |
-| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ❌ perdida | -10.00 |
-| RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ✅ ganada | +2.35 |
