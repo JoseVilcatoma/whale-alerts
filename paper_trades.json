@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 15209.899679000002,
-    "whale_pct": 6.482,
+    "whale_usd": 15909.899679000002,
+    "whale_pct": 6.78,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023491.784475,
-    "fills": 8
+    "last_fill_at": 1787024279.7434247,
+    "fills": 9
   },
   {
     "timestamp": 1787017391,
@@ -13564,8 +13564,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 34318.802333,
-    "whale_pct": 9.792,
+    "whale_usd": 35007.849833,
+    "whale_pct": 9.988,
     "whale_value_at_open": 350495.2341,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13580,8 +13580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024036.87495,
-    "fills": 10
+    "last_fill_at": 1787024195.1753063,
+    "fills": 11
   },
   {
     "timestamp": 1787022017,
@@ -13665,8 +13665,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 24491.810417,
-    "whale_pct": 7.646,
+    "whale_usd": 28906.594417,
+    "whale_pct": 9.024,
     "whale_value_at_open": 320336.6742,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13676,8 +13676,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024016.9937344,
-    "fills": 8
+    "last_fill_at": 1787024190.758442,
+    "fills": 9
   },
   {
     "timestamp": 1787023134,
@@ -13688,8 +13688,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 4447.9564439999995,
-    "whale_pct": 1.979,
+    "whale_usd": 8377.347443999999,
+    "whale_pct": 3.727,
     "whale_value_at_open": 224802.0587,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13701,8 +13701,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023464.1332734,
-    "fills": 2
+    "last_fill_at": 1787024190.7371566,
+    "fills": 3
   },
   {
     "timestamp": 1787023154,

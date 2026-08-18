@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:35:59 (hora de Perú)
+Actualizado: 2026-08-17 22:38:02 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $800.71
@@ -188,12 +188,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Spread: Golden State Valkyries (-6.5) | Golden State Valkyries (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 90% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 7.6% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 9.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 24.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 9.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 10.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.4% | ⏳ pendiente | — |
