@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:16:04 (hora de Perú)
+Actualizado: 2026-08-18 12:18:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $819.88
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:16:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $399.88)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $389.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 115 | 73 | 20 | -91.33 USD |
+| ferrariChampions2026 | 115 | 73 | 21 | -91.33 USD |
 
 ## Análisis general
 
@@ -178,12 +178,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
+| atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 76% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -213,4 +215,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 1.1% | ✅ ganada | +0.42 |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Geoffrey Blancaneaux (BUY) | 51% | 10.00 | 7.4% | ⏳ pendiente | — |
