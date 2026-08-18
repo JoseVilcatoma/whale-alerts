@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 8484.149932999999,
-    "whale_pct": 4.414,
+    "whale_usd": 9295.261043999999,
+    "whale_pct": 4.836,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787066711.3925042,
-    "fills": 11
+    "last_fill_at": 1787066787.5905259,
+    "fills": 12
   },
   {
     "timestamp": 1787060387,
