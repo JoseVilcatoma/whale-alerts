@@ -8695,8 +8695,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 163.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 506.245,
-    "whale_pct": 0.628,
+    "whale_usd": 1059.3493130000002,
+    "whale_pct": 1.314,
     "whale_value_at_open": 80632.1959,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -8706,8 +8706,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1786966824.1619904,
-    "fills": 1
+    "last_fill_at": 1787018904.1291242,
+    "fills": 2
   },
   {
     "timestamp": 1786966925,
@@ -10259,8 +10259,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12382,8 +12382,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 16143.793937,
-    "whale_pct": 6.883,
+    "whale_usd": 17358.273937,
+    "whale_pct": 7.401,
     "whale_value_at_open": 234532.2614,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12393,8 +12393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018820.8331563,
-    "fills": 11
+    "last_fill_at": 1787018992.0342178,
+    "fills": 12
   },
   {
     "timestamp": 1787015395,
@@ -12579,8 +12579,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
     ],
@@ -12787,8 +12787,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 14580.174699000001,
-    "whale_pct": 58.215,
+    "whale_usd": 15099.763032,
+    "whale_pct": 60.289,
     "whale_value_at_open": 25045.5315,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -12800,8 +12800,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018800.1285782,
-    "fills": 4
+    "last_fill_at": 1787018892.0629432,
+    "fills": 5
   },
   {
     "timestamp": 1787018691,
@@ -12852,6 +12852,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787018807.5849767,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787018927,
+    "timestamp_added": 1787018928.5769587,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-col-2026-08-17-total-13pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1388.49,
+    "whale_pct": 0.472,
+    "whale_value_at_open": 294202.9074,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018928.576967,
     "fills": 1
   }
 ]
