@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 3207.668,
-    "whale_pct": 1.669,
+    "whale_usd": 3715.175,
+    "whale_pct": 1.933,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787065127.4161675,
-    "fills": 4
+    "last_fill_at": 1787065192.4419498,
+    "fills": 5
   },
   {
     "timestamp": 1787060387,
@@ -15006,8 +15006,8 @@
     "title": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A",
     "outcome": "Fire Flux Esports",
     "side": "BUY",
-    "whale_usd": 2297.6261999999997,
-    "whale_pct": 1.014,
+    "whale_usd": 5386.797981,
+    "whale_pct": 2.377,
     "whale_value_at_open": 226592.3114,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -15017,8 +15017,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064513.1712499,
-    "fills": 4
+    "last_fill_at": 1787065221.5619571,
+    "fills": 8
   },
   {
     "timestamp": 1787063175,

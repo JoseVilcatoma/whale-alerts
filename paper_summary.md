@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:58:50 (hora de Perú)
+Actualizado: 2026-08-18 10:00:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $831.86
@@ -192,7 +192,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Gerard Campana Lee vs Alex Marti P | Alex Marti Pujolras (BUY) | 68% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 62% | 10.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 62% | 10.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 60% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | SPARTA (BUY) | 55% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | MOUZ NXT (BUY) | 62% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -205,7 +205,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Radu Albot vs Constantin Bit | Radu Albot (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Angella Okutoyi v | Angella Okutoyi (BUY) | 82% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Kai Wehnelt vs Calvin Hemery | Calvin Hemery (BUY) | 62% | 10.00 | 5.1% | ✅ ganada | +6.13 |
-| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 61% | 10.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 61% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Barbara Straszewsk | Radka Zelnickova (BUY) | 88% | 10.00 | 0.6% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Luca Wiedenmann | Sandro Kopp (BUY) | 83% | 10.00 | 1.2% | ✅ ganada | +2.05 |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Radu Mihai Papoe (BUY) | 57% | 10.00 | 16.5% | ⏳ pendiente | — |
