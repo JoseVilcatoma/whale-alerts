@@ -1,5 +1,5 @@
 {
-  "bankroll": 830.2155794989787,
+  "bankroll": 831.1665304453255,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2685,6 +2685,46 @@
       "timestamp": 1787024650.084293,
       "bankroll": 830.22,
       "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1787024708.0191004,
+      "bankroll": 837.16,
+      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787024708.1193433,
+      "bankroll": 844.11,
+      "event": "won: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787024708.709552,
+      "bankroll": 846.24,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: David Jorda Sanchis vs Alan Magadan"
+    },
+    {
+      "timestamp": 1787024709.0108132,
+      "bankroll": 846.24,
+      "event": "lost: alaskabaked \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787024709.1111367,
+      "bankroll": 846.24,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787024712.1396828,
+      "bankroll": 851.17,
+      "event": "won: RN1 \u2014 Cancun: David Jorda Sanchis vs Alan Magadan"
+    },
+    {
+      "timestamp": 1787024712.3399858,
+      "bankroll": 841.17,
+      "event": "lost: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787024712.941146,
+      "bankroll": 831.17,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Chicago White Sox vs. Chicago Cubs"
     }
   ]
 }
