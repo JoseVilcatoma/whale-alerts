@@ -12713,8 +12713,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 7855.9061,
-    "whale_pct": 3.655,
+    "whale_usd": 15383.1061,
+    "whale_pct": 7.156,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -12726,8 +12726,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027602.4195826,
-    "fills": 4
+    "last_fill_at": 1787028342.5621412,
+    "fills": 5
   },
   {
     "timestamp": 1787026503,
@@ -12738,8 +12738,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 16474.541175,
-    "whale_pct": 10.643,
+    "whale_usd": 24784.207841,
+    "whale_pct": 16.011,
     "whale_value_at_open": 154796.9048,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -12751,8 +12751,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787028106.0747566,
-    "fills": 6
+    "last_fill_at": 1787028316.5564003,
+    "fills": 7
   },
   {
     "timestamp": 1787026529,
@@ -12993,6 +12993,82 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787028194.8044407,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787028370,
+    "timestamp_added": 1787028370.441379,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-pac-pue-2026-08-17-pac",
+    "title": "Will CF Pachuca win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 614.72,
+    "whale_pct": 0.209,
+    "whale_value_at_open": 293801.2069,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 69,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787028370.4413967,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787028383,
+    "timestamp_added": 1787028384.4149716,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-pac-pue-2026-08-17-total-4pt5",
+    "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 508.07,
+    "whale_pct": 0.195,
+    "whale_value_at_open": 260099.2782,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787028384.4149873,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787028406,
+    "timestamp_added": 1787028406.4662144,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-paul-vallejo-2026-08-17",
+    "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "whale_usd": 1126.511,
+    "whale_pct": 0.433,
+    "whale_value_at_open": 260099.2782,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 60,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787028406.466228,
     "fills": 1
   }
 ]
