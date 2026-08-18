@@ -1,5 +1,5 @@
 {
-  "bankroll": 816.2337376021901,
+  "bankroll": 820.9361185545711,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2365,6 +2365,16 @@
       "timestamp": 1787018684.1256623,
       "bankroll": 816.23,
       "event": "lost: HomeRunHazard \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1787019001.2973228,
+      "bankroll": 820.52,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787019008.5733113,
+      "bankroll": 820.94,
+      "event": "won: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies"
     }
   ]
 }
