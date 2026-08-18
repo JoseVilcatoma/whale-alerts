@@ -8354,8 +8354,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -13001,8 +13001,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 161.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 540.0,
-    "whale_pct": 0.15,
+    "whale_usd": 1608.0,
+    "whale_pct": 0.447,
     "whale_value_at_open": 360081.863,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -13012,8 +13012,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019539.6816766,
-    "fills": 1
+    "last_fill_at": 1787023915.104955,
+    "fills": 2
   },
   {
     "timestamp": 1787019556,
@@ -13072,8 +13072,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 162.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 620.0,
-    "whale_pct": 0.172,
+    "whale_usd": 2481.0297,
+    "whale_pct": 0.689,
     "whale_value_at_open": 360081.863,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 63,
@@ -13085,8 +13085,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019565.551911,
-    "fills": 1
+    "last_fill_at": 1787023939.5221553,
+    "fills": 3
   },
   {
     "timestamp": 1787019620,
@@ -13665,8 +13665,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 10936.682588,
-    "whale_pct": 3.414,
+    "whale_usd": 24491.810417,
+    "whale_pct": 7.646,
     "whale_value_at_open": 320336.6742,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13676,8 +13676,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023428.1991177,
-    "fills": 3
+    "last_fill_at": 1787024016.9937344,
+    "fills": 8
   },
   {
     "timestamp": 1787023134,
@@ -13738,8 +13738,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 163.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 880.0,
-    "whale_pct": 0.314,
+    "whale_usd": 2736.989989,
+    "whale_pct": 0.977,
     "whale_value_at_open": 280007.4583,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -13751,8 +13751,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023258.8861787,
-    "fills": 1
+    "last_fill_at": 1787023939.3003623,
+    "fills": 3
   },
   {
     "timestamp": 1787023355,
@@ -13846,6 +13846,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787023747.5018754,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787023928,
+    "timestamp_added": 1787023929.0613663,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-pac-pue-2026-08-17-total-4pt5",
+    "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 622.38,
+    "whale_pct": 0.222,
+    "whale_value_at_open": 280375.4955,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 84,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787023929.0613787,
     "fills": 1
   }
 ]
