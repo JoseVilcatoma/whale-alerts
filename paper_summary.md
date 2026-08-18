@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:42:50 (hora de Perú)
+Actualizado: 2026-08-18 03:44:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:42:50 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $516.32)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $496.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 14 | -26.84 USD |
+| RN1 | 79 | 36 | 16 | -26.84 USD |
 | HomeRunHazard | 25 | 17 | 7 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -177,6 +177,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Santander Men: Pedro Rodenas vs  | Pedro Rodenas (BUY) | 82% | 10.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | ITF M15 Båstad Men: Oren Vasser vs Chris | Oren Vasser (BUY) | 87% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Luca Staeheli vs Andrey Chepelev | Luca Staeheli (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -205,5 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 9.7% | ✅ ganada | +0.31 |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Alisa Vasileva (BUY) | 59% | 10.00 | 5.5% | ❌ perdida | -10.00 |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
-| sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.6% | ❌ perdida | -10.00 |
