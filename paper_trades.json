@@ -10830,8 +10830,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -6.33,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -10839,7 +10839,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787007226.1618705,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 22
   },
   {
     "timestamp": 1787007256,
@@ -11188,8 +11189,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2080.5498,
-    "whale_pct": 0.645,
+    "whale_usd": 3442.5697999999998,
+    "whale_pct": 1.066,
     "whale_value_at_open": 322796.4546,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -11201,8 +11202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009206.5240283,
-    "fills": 2
+    "last_fill_at": 1787011969.4366639,
+    "fills": 3
   },
   {
     "timestamp": 1787008985,
@@ -11307,8 +11308,8 @@
     "title": "SC Internacional vs. Clube do Remo: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 667.48,
-    "whale_pct": 0.201,
+    "whale_usd": 1253.19,
+    "whale_pct": 0.377,
     "whale_value_at_open": 332600.9867,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
@@ -11318,8 +11319,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009268.131405,
-    "fills": 1
+    "last_fill_at": 1787011954.0553055,
+    "fills": 2
   },
   {
     "timestamp": 1787009995,
@@ -11748,6 +11749,52 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787011733.3445406,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787011862,
+    "timestamp_added": 1787011863.3125584,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-bos-2026-08-17-total-8pt5",
+    "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4436.3664,
+    "whale_pct": 1.333,
+    "whale_value_at_open": 332759.6799,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787011863.312566,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787011912,
+    "timestamp_added": 1787011912.8721285,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-chc-2026-08-17-total-7pt5",
+    "title": "Chicago White Sox vs. Chicago Cubs: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4134.0,
+    "whale_pct": 1.981,
+    "whale_value_at_open": 208643.2576,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787011912.8721359,
     "fills": 1
   }
 ]
