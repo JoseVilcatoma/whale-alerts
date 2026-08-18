@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:32:06 (hora de Perú)
+Actualizado: 2026-08-18 09:34:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.92
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:32:06 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $305.92)
+**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $295.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 4 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 5 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 6 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
 | bigoon | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -182,6 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Thailand vs. Singapore: O/U 3.5 | Under (BUY) | 42% | 10.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: John Echeverria vs Oliver Ta | Oliver Tarvet (BUY) | 97% | 10.00 | 1.4% | ⏳ pendiente | — |
 | bigoon | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 56% | 10.00 | 80.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 55% | 10.00 | 3.2% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 6.2% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
-| SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 43% | 10.00 | 39.6% | ⏳ pendiente | — |
