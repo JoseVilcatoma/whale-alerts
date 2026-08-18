@@ -1,5 +1,5 @@
 {
-  "bankroll": 823.5796636228671,
+  "bankroll": 832.1221737443245,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3125,6 +3125,16 @@
       "timestamp": 1787075712.3757107,
       "bankroll": 823.58,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: James Watt vs Ugo Blanchet"
+    },
+    {
+      "timestamp": 1787076726.1437273,
+      "bankroll": 828.96,
+      "event": "won: sentrio \u2014 Kingston: Daniil Glinka vs Florent Bax"
+    },
+    {
+      "timestamp": 1787076727.565783,
+      "bankroll": 832.12,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Daniil Glinka vs Florent Bax"
     }
   ]
 }
