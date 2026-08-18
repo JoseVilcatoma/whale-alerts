@@ -13454,8 +13454,8 @@
     "title": "Sion: Murkel Dellien vs Ryan Nijboer",
     "outcome": "Ryan Nijboer",
     "side": "BUY",
-    "whale_usd": 1461.297833,
-    "whale_pct": 0.783,
+    "whale_usd": 2271.297833,
+    "whale_pct": 1.217,
     "whale_value_at_open": 186707.2096,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13465,8 +13465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787047476.6723013,
-    "fills": 2
+    "last_fill_at": 1787048519.6493998,
+    "fills": 3
   },
   {
     "timestamp": 1787047328,
