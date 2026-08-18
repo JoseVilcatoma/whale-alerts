@@ -14222,8 +14222,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.9,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14730,8 +14730,8 @@
     "title": "Sion: Kai Wehnelt vs Calvin Hemery",
     "outcome": "Calvin Hemery",
     "side": "BUY",
-    "whale_usd": 9163.470328,
-    "whale_pct": 4.768,
+    "whale_usd": 9755.626209999999,
+    "whale_pct": 5.076,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -14741,8 +14741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787061524.442365,
-    "fills": 2
+    "last_fill_at": 1787061551.6030872,
+    "fills": 3
   },
   {
     "timestamp": 1787061156,
@@ -14812,5 +14812,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787061529.2019644,
     "fills": 2
+  },
+  {
+    "timestamp": 1787061655,
+    "timestamp_added": 1787061655.7336388,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-omega1-ff-2026-08-18-game1",
+    "title": "Counter-Strike: Omega vs Fire Flux Esports - Map 1 Winner",
+    "outcome": "Omega",
+    "side": "BUY",
+    "whale_usd": 632.72,
+    "whale_pct": 0.305,
+    "whale_value_at_open": 207628.9752,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787061655.7336478,
+    "fills": 1
   }
 ]
