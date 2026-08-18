@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:28:23 (hora de Perú)
+Actualizado: 2026-08-18 12:30:24 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:28:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $367.04)
+**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $357.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 3 | 0 | -4.53 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
-| RN1 | 84 | 38 | 3 | -6.99 USD |
+| RN1 | 84 | 38 | 4 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Kulilun | 0 | 1 | 0 | -10.00 USD |
@@ -180,14 +180,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
 | atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
+| clf-fch-bmu-2026-08-18-spread-away-1pt5 | RN1, swisstony |
 | itf-iva-mazzola-2026-08-18 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 95% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-18? | No (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -215,4 +217,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Learner Tien vs Frances | Learner Tien (BUY) | 55% | 10.00 | 18.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 67% | 10.00 | 22.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |

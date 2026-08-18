@@ -15533,8 +15533,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Alessandra Mazzola",
     "side": "BUY",
-    "whale_usd": 799.65,
-    "whale_pct": 0.27,
+    "whale_usd": 3315.33,
+    "whale_pct": 1.119,
     "whale_value_at_open": 296225.1295,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -15544,8 +15544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074096.4290104,
-    "fills": 1
+    "last_fill_at": 1787074151.605377,
+    "fills": 4
   },
   {
     "timestamp": 1787074096,
@@ -15556,8 +15556,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Iva Ivanova",
     "side": "BUY",
-    "whale_usd": 960.85,
-    "whale_pct": 0.49,
+    "whale_usd": 3686.17,
+    "whale_pct": 1.878,
     "whale_value_at_open": 196286.7577,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -15569,7 +15569,32 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074096.9001205,
+    "last_fill_at": 1787074151.5762815,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787074150,
+    "timestamp_added": 1787074150.4881127,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-fch-bmu-2026-08-18-spread-away-1pt5",
+    "title": "Spread: Bayern Munich (-1.5)",
+    "outcome": "1. FC Heidenheim",
+    "side": "BUY",
+    "whale_usd": 623.1087,
+    "whale_pct": 0.311,
+    "whale_value_at_open": 200109.2761,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 83,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074150.4881227,
     "fills": 1
   }
 ]
