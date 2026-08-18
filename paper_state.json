@@ -1,5 +1,5 @@
 {
-  "bankroll": 804.090397353212,
+  "bankroll": 811.0395498955849,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2945,6 +2945,11 @@
       "timestamp": 1787061651.0277543,
       "bankroll": 804.09,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Alec Deckers vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787062279.3923295,
+      "bankroll": 811.04,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Michael Geerts vs Billy Blaydes"
     }
   ]
 }

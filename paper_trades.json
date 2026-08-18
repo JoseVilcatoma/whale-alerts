@@ -14153,8 +14153,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.95,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14406,8 +14406,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Oriol Roca Batalla",
     "side": "BUY",
-    "whale_usd": 20951.821338,
-    "whale_pct": 11.885,
+    "whale_usd": 24203.9835,
+    "whale_pct": 13.73,
     "whale_value_at_open": 176289.0555,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -14417,8 +14417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787060937.2143042,
-    "fills": 6
+    "last_fill_at": 1787062211.1141222,
+    "fills": 8
   },
   {
     "timestamp": 1787057595,
@@ -14903,6 +14903,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787061882.020857,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787062265,
+    "timestamp_added": 1787062265.9088361,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-mzp-don-2026-08-18",
+    "title": "Counter-Strike: Metizport vs Donstu Esports (BO3) - ESL Challenger League Europe Cup #4 Group C",
+    "outcome": "Metizport",
+    "side": "BUY",
+    "whale_usd": 976.3288880000001,
+    "whale_pct": 0.458,
+    "whale_value_at_open": 213040.2611,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 93,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787062265.908846,
     "fills": 1
   }
 ]
