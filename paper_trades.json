@@ -14638,8 +14638,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 32288.355469000002,
-    "whale_pct": 16.181,
+    "whale_usd": 32923.135469,
+    "whale_pct": 16.499,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -14649,8 +14649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064655.858261,
-    "fills": 7
+    "last_fill_at": 1787064799.4767404,
+    "fills": 8
   },
   {
     "timestamp": 1787059377,
@@ -15219,8 +15219,8 @@
     "title": "Counter-Strike: Omega vs Fire Flux Esports - Map 2 Winner",
     "outcome": "Omega",
     "side": "BUY",
-    "whale_usd": 1414.0146,
-    "whale_pct": 0.614,
+    "whale_usd": 2095.9546,
+    "whale_pct": 0.91,
     "whale_value_at_open": 230286.9648,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 70,
@@ -15230,7 +15230,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064520.4152288,
-    "fills": 2
+    "last_fill_at": 1787064825.045332,
+    "fills": 3
   }
 ]
