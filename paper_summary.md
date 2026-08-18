@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:33:58 (hora de Perú)
+Actualizado: 2026-08-18 10:36:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $828.54
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:33:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $248.54)
+**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $218.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 4 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 7 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 10 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
 | bigoon | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -183,6 +183,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Al Okhdood SC vs. Al Khaleej Saudi Club: | Under (BUY) | 84% | 10.00 | 1.0% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Al Khaleej Saudi Club (-1.5) | Al Okhdood SC (BUY) | 79% | 10.00 | 0.9% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Al Khaleej Saudi Club (-2.5) | Al Okhdood SC (BUY) | 92% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Rublev vs Borges | Borges (BUY) | 91% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 92% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -210,6 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Maxim Mrva vs Nerman Fatic | Maxim Mrva (BUY) | 56% | 10.00 | 12.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Radu Albot vs Constantin Bit | Constantin Bittoun Kouzmine (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Omega (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | MOUZ NXT (BUY) | 48% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Radu Albot vs Constantin Bit | Radu Albot (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
