@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:45:35 (hora de Perú)
+Actualizado: 2026-08-17 21:47:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $839.07
-**Retorno acumulado:** -16.09%
+**Bankroll actual:** $838.42
+**Retorno acumulado:** -16.16%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:45:35 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $798.96 en 92 posiciones abiertas (disponible para nuevas apuestas: $40.11)
+**Capital comprometido ahora mismo:** $758.96 en 88 posiciones abiertas (disponible para nuevas apuestas: $79.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,24 +41,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
+| RN1 | 58 | 25 | 28 | -11.57 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| RN1 | 57 | 25 | 29 | -20.09 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 22 | 16 | 10 | -56.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 73 | 52 | 29 | -69.35 USD |
+| HomeRunHazard | 22 | 17 | 9 | -66.28 USD |
+| ferrariChampions2026 | 74 | 53 | 27 | -68.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 461
-- **Aciertos:** 271 (58.8%)
-- **Cuota promedio de entrada:** 59.7%
+- **Apuestas resueltas:** 465
+- **Aciertos:** 273 (58.7%)
+- **Cuota promedio de entrada:** 59.6%
 - **Stake promedio:** $9.98
-- **Total apostado (suma de stakes):** $4,599.55
-- **ROI sobre lo apostado:** -4.45%
+- **Total apostado (suma de stakes):** $4,639.55
+- **ROI sobre lo apostado:** -4.43%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 209 | 47.8% | 49.6% | -1.7 pp |
+| 40-59% | 213 | 47.9% | 49.5% | -1.6 pp |
 | 60-79% | 136 | 69.1% | 69.2% | -0.1 pp |
 | 80-94% | 51 | 94.1% | 86.0% | +8.1 pp |
 | 95-99% (casi seguro) | 20 | 100.0% | 97.9% | +2.1 pp |
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Club León FC win on 2026-08-17? | No (BUY) | 51% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 49% | 10.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Kansas City Royals: O/U 14 | Over (BUY) | 46% | 10.00 | 0.1% | ⏳ pendiente | — |
+| HomeRunHazard | Athletics vs. Kansas City Royals: O/U 14 | Over (BUY) | 46% | 10.00 | 0.1% | ❌ perdida | -10.00 |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 63% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 2.1% | ⏳ pendiente | — |
