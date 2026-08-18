@@ -13398,5 +13398,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787036443.7479367,
     "fills": 2
+  },
+  {
+    "timestamp": 1787038468,
+    "timestamp_added": 1787038468.702744,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-broska-cuenin-2026-08-17",
+    "title": "Prague 2: Florian Broska vs Sean Cuenin",
+    "outcome": "Florian Broska",
+    "side": "BUY",
+    "whale_usd": 2100.0,
+    "whale_pct": 3.304,
+    "whale_value_at_open": 63553.3121,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 43,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787038468.702756,
+    "fills": 1
   }
 ]
