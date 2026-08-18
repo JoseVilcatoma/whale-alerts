@@ -13940,8 +13940,8 @@
     "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 661.0016,
-    "whale_pct": 3.659,
+    "whale_usd": 1407.0000000000002,
+    "whale_pct": 7.788,
     "whale_value_at_open": 18065.2676,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -13951,8 +13951,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787051945.7365036,
-    "fills": 1
+    "last_fill_at": 1787052475.022658,
+    "fills": 2
   },
   {
     "timestamp": 1787051953,
