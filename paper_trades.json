@@ -10857,8 +10857,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11687,8 +11687,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 20342.402664,
-    "whale_pct": 6.1,
+    "whale_usd": 25872.082664,
+    "whale_pct": 7.758,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11700,8 +11700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022851.7183838,
-    "fills": 7
+    "last_fill_at": 1787023477.5851486,
+    "fills": 9
   },
   {
     "timestamp": 1787011570,
@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 7454.759679000001,
-    "whale_pct": 3.177,
+    "whale_usd": 15209.899679000002,
+    "whale_pct": 6.482,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787021657.875073,
-    "fills": 6
+    "last_fill_at": 1787023491.784475,
+    "fills": 8
   },
   {
     "timestamp": 1787017391,
@@ -13564,8 +13564,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 13079.777399999999,
-    "whale_pct": 3.732,
+    "whale_usd": 23537.910799999998,
+    "whale_pct": 6.716,
     "whale_value_at_open": 350495.2341,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13580,8 +13580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022723.9290633,
-    "fills": 4
+    "last_fill_at": 1787023491.764126,
+    "fills": 8
   },
   {
     "timestamp": 1787022017,
@@ -13665,8 +13665,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 4660.2530879999995,
-    "whale_pct": 1.455,
+    "whale_usd": 10936.682588,
+    "whale_pct": 3.414,
     "whale_value_at_open": 320336.6742,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13676,8 +13676,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023135.142087,
-    "fills": 2
+    "last_fill_at": 1787023428.1991177,
+    "fills": 3
   },
   {
     "timestamp": 1787023134,
@@ -13688,8 +13688,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 2441.18,
-    "whale_pct": 1.086,
+    "whale_usd": 4447.9564439999995,
+    "whale_pct": 1.979,
     "whale_value_at_open": 224802.0587,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13701,8 +13701,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023135.1472592,
-    "fills": 1
+    "last_fill_at": 1787023464.1332734,
+    "fills": 2
   },
   {
     "timestamp": 1787023154,
@@ -13775,6 +13775,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787023356.0438833,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787023497,
+    "timestamp_added": 1787023498.333961,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-pac-pue-2026-08-17-total-2pt5",
+    "title": "CF Pachuca vs. Club Puebla: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 550.62,
+    "whale_pct": 0.25,
+    "whale_value_at_open": 220601.1003,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 73,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "kekasaur"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787023498.3339736,
     "fills": 1
   }
 ]
