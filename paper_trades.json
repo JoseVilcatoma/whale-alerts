@@ -13753,8 +13753,8 @@
     "title": "Sion: Tommaso Compagnucci vs Max Dahlin",
     "outcome": "Tommaso Compagnucci",
     "side": "BUY",
-    "whale_usd": 2299.6602000000003,
-    "whale_pct": 1.81,
+    "whale_usd": 10468.2031,
+    "whale_pct": 8.239,
     "whale_value_at_open": 127052.3055,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -13764,8 +13764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787042234.5985112,
-    "fills": 1
+    "last_fill_at": 1787043147.0875838,
+    "fills": 3
   },
   {
     "timestamp": 1787042234,
@@ -13801,8 +13801,8 @@
     "title": "Prague 2: Florian Broska vs Sean Cuenin",
     "outcome": "Sean Cuenin",
     "side": "BUY",
-    "whale_usd": 1449.0,
-    "whale_pct": 2.628,
+    "whale_usd": 2836.0035,
+    "whale_pct": 5.143,
     "whale_value_at_open": 55144.3282,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -13814,8 +13814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787042264.3294911,
-    "fills": 1
+    "last_fill_at": 1787043118.3567712,
+    "fills": 2
   },
   {
     "timestamp": 1787042561,
@@ -14032,5 +14032,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787043068.8521132,
     "fills": 1
+  },
+  {
+    "timestamp": 1787043119,
+    "timestamp_added": 1787043119.9064176,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-compagn-dahlin-2026-08-17",
+    "title": "Sion: Tommaso Compagnucci vs Max Dahlin",
+    "outcome": "Tommaso Compagnucci",
+    "side": "BUY",
+    "whale_usd": 3379.616158,
+    "whale_pct": 3.559,
+    "whale_value_at_open": 94948.2241,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 72,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787043127.2309475,
+    "fills": 2
   }
 ]
