@@ -13364,8 +13364,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 7512.468653,
-    "whale_pct": 3.206,
+    "whale_usd": 10245.441053,
+    "whale_pct": 4.373,
     "whale_value_at_open": 234295.5744,
     "paper_stake_usd": 6.48,
     "odds_at_bet": 50,
@@ -13379,8 +13379,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787021625.3128994,
-    "fills": 4
+    "last_fill_at": 1787022007.6437616,
+    "fills": 5
   },
   {
     "timestamp": 1787021065,
@@ -13528,6 +13528,59 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787021887.2510989,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787021889,
+    "timestamp_added": 1787021890.0413089,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-dal-gsv-2026-08-17",
+    "title": "Dallas Wings vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 1066.28,
+    "whale_pct": 0.301,
+    "whale_value_at_open": 354341.0328,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 94,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021890.0413187,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787021957,
+    "timestamp_added": 1787021957.331211,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "whale_usd": 529.9291,
+    "whale_pct": 0.151,
+    "whale_value_at_open": 350495.2341,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 42,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "RN1",
+      "alaskabaked",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021957.331219,
     "fills": 1
   }
 ]

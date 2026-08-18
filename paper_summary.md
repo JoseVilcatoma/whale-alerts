@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:58:09 (hora de Perú)
+Actualizado: 2026-08-17 22:00:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $827.42
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:58:09 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $704.68 en 80 posiciones abiertas (disponible para nuevas apuestas: $122.74)
+**Capital comprometido ahora mismo:** $724.68 en 82 posiciones abiertas (disponible para nuevas apuestas: $102.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 22 | 17 | 9 | -66.28 USD |
-| ferrariChampions2026 | 75 | 55 | 25 | -88.52 USD |
+| ferrariChampions2026 | 75 | 55 | 27 | -88.52 USD |
 
 ## Análisis general
 
@@ -177,13 +177,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: O/U 3.5 | Under (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
 | TennisLove | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 3.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 4.4% | ⏳ pendiente | — |
 | RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -205,5 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 99% | 10.00 | 0.3% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 99% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
