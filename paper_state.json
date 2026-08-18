@@ -1,5 +1,5 @@
 {
-  "bankroll": 832.6222676887076,
+  "bankroll": 826.3208978256938,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2805,6 +2805,16 @@
       "timestamp": 1787037663.4129622,
       "bankroll": 832.62,
       "event": "won: RN1 \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang"
+    },
+    {
+      "timestamp": 1787038719.7344043,
+      "bankroll": 836.32,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787038720.336658,
+      "bankroll": 826.32,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
     }
   ]
 }
