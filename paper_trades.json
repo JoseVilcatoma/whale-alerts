@@ -12308,8 +12308,8 @@
     "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 805.5233,
-    "whale_pct": 0.184,
+    "whale_usd": 2156.7239,
+    "whale_pct": 0.494,
     "whale_value_at_open": 436647.7591,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
@@ -12319,8 +12319,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787015197.0951273,
-    "fills": 1
+    "last_fill_at": 1787015330.3629022,
+    "fills": 3
   },
   {
     "timestamp": 1787015240,
@@ -12346,6 +12346,31 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1787015241.1394384,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787015318,
+    "timestamp_added": 1787015318.7714145,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-gye-tal-2026-08-17-tal",
+    "title": "Will CA Talleres win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1321.7802000000001,
+    "whale_pct": 0.298,
+    "whale_value_at_open": 443718.5619,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787015318.7714221,
     "fills": 1
   }
 ]
