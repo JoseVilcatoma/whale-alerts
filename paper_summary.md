@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:37:34 (hora de Perú)
+Actualizado: 2026-08-18 07:39:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $802.59
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:37:34 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $482.59)
+**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $472.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 81 | 37 | 3 | -13.93 USD |
+| RN1 | 81 | 37 | 4 | -13.93 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -178,8 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 56% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Alec Deckers vs Patrick Brad | Patrick Brady (BUY) | 84% | 10.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -207,4 +208,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 85% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Antonia Vergara Rivera (BUY) | 41% | 10.00 | 0.7% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Chun-Hsin Tseng (BUY) | 95% | 10.00 | 1.7% | ✅ ganada | +0.53 |
-| GoalLineGhost | Spread: CS Independiente Rivadavia (-1.5 | Fluminense FC (BUY) | 87% | 10.00 | 4.3% | ⏳ pendiente | — |
