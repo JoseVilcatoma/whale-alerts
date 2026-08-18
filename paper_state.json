@@ -1,5 +1,5 @@
 {
-  "bankroll": 807.0341202969349,
+  "bankroll": 812.1856354484501,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2930,6 +2930,11 @@
       "timestamp": 1787059169.1341803,
       "bankroll": 807.03,
       "event": "won: ferrariChampions2026 \u2014 ITF W15 Logrono Women: Victoria Gomez O'Hayon vs Min Liu"
+    },
+    {
+      "timestamp": 1787059416.0158513,
+      "bankroll": 812.19,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Dimitar Kuzmanov vs Marvin Moeller"
     }
   ]
 }
