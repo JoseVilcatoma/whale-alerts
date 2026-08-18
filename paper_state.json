@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.3678259188869,
+  "bankroll": 828.6444216635678,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2765,6 +2765,16 @@
       "timestamp": 1787036052.1012826,
       "bankroll": 827.37,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong"
+    },
+    {
+      "timestamp": 1787036299.034717,
+      "bankroll": 817.37,
+      "event": "lost: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
+    },
+    {
+      "timestamp": 1787036299.435517,
+      "bankroll": 828.64,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
     }
   ]
 }
