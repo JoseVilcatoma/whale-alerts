@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 05:14:30 (hora de Perú)
+Actualizado: 2026-08-18 05:16:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $814.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 05:14:30 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $644.84)
+**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $634.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 9 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 10 | -94.76 USD |
 
 ## Análisis general
 
@@ -175,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Matteo Martineau (BUY) | 62% | 10.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Denisa Zoldakova v | Denisa Zoldakova (BUY) | 96% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -183,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Norbert Gombos (BUY) | 66% | 10.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 65% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Gilles Arnaud Bailly (BUY) | 44% | 10.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Gilles Arnaud Bailly (BUY) | 44% | 10.00 | 10.7% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 1.3% | ✅ ganada | +8.52 |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ✅ ganada | +0.31 |
@@ -204,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Maiko Uchijima (BUY) | 73% | 10.00 | 1.5% | ✅ ganada | +3.70 |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ✅ ganada | +4.93 |
-| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ❌ perdida | -10.00 |
