@@ -1,5 +1,5 @@
 {
-  "bankroll": 824.3630082002413,
+  "bankroll": 825.7266445638777,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3005,6 +3005,11 @@
       "timestamp": 1787064381.7631283,
       "bankroll": 824.36,
       "event": "won: ferrariChampions2026 \u2014 Sion: Sandro Kopp vs Luca Wiedenmann"
+    },
+    {
+      "timestamp": 1787064630.7085998,
+      "bankroll": 825.73,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Barbara Straszewska vs Radka Zelnickova"
     }
   ]
 }
