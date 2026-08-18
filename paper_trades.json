@@ -15299,8 +15299,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 1784.2482,
-    "whale_pct": 0.74,
+    "whale_usd": 2552.438198,
+    "whale_pct": 1.059,
     "whale_value_at_open": 241033.0384,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -15312,8 +15312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072831.9419808,
-    "fills": 1
+    "last_fill_at": 1787074330.6100473,
+    "fills": 2
   },
   {
     "timestamp": 1787072879,
