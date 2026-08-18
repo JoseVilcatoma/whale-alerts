@@ -1,5 +1,5 @@
 {
-  "bankroll": 838.4247002724619,
+  "bankroll": 830.074792006125,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2435,6 +2435,36 @@
       "timestamp": 1787021251.61936,
       "bankroll": 838.42,
       "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 7.5"
+    },
+    {
+      "timestamp": 1787021315.4934535,
+      "bankroll": 828.42,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1787021321.3259833,
+      "bankroll": 828.63,
+      "event": "won: RN1 \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 4.5"
+    },
+    {
+      "timestamp": 1787021373.834552,
+      "bankroll": 834.25,
+      "event": "won: swisstony \u2014 Will CA Talleres win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787021377.413734,
+      "bankroll": 829.97,
+      "event": "lost: swisstony \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 2.5"
+    },
+    {
+      "timestamp": 1787021378.9102018,
+      "bankroll": 829.97,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Talleres win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787021379.9138863,
+      "bankroll": 830.07,
+      "event": "won: RN1 \u2014 Will CA Talleres win on 2026-08-17?"
     }
   ]
 }
