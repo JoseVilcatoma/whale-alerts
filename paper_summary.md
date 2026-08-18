@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:27:59 (hora de Perú)
+Actualizado: 2026-08-18 09:30:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.92
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:27:59 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $325.92)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $315.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,6 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 0 | 0 | 4 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 5 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
+| bigoon | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -175,11 +176,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-havlick-bervid-2026-08-18 | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-18 | SDTrading, ferrariChampions2026 |
+| atp-mrva-fatic-2026-08-18 | bigoon, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| bigoon | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 56% | 10.00 | 20.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Gerard Campana Lee vs Alex Marti P | Alex Marti Pujolras (BUY) | 68% | 10.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -209,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 43% | 10.00 | 39.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 84% | 10.00 | 1.1% | ✅ ganada | +1.90 |
-| ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 14.7% | ⏳ pendiente | — |
