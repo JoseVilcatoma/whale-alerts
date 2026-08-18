@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:15:05 (hora de Perú)
+Actualizado: 2026-08-17 22:17:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $829.67
@@ -177,18 +177,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 16.9% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 24.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: O/U 3.5 | Under (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
 | TennisLove | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 4.4% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 6.5% | ⏳ pendiente | — |
 | RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
