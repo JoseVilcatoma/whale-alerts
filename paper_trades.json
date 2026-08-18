@@ -13816,5 +13816,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787042264.3294911,
     "fills": 1
+  },
+  {
+    "timestamp": 1787042561,
+    "timestamp_added": 1787042562.0897954,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-staehel-chepele-2026-08-17",
+    "title": "Sion: Luca Staeheli vs Andrey Chepelev",
+    "outcome": "Luca Staeheli",
+    "side": "BUY",
+    "whale_usd": 556.7842129999999,
+    "whale_pct": 0.438,
+    "whale_value_at_open": 127238.5163,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787042562.0898082,
+    "fills": 1
   }
 ]
