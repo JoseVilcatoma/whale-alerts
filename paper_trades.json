@@ -13674,5 +13674,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787048871.2590647,
     "fills": 1
+  },
+  {
+    "timestamp": 1787048931,
+    "timestamp_added": 1787048932.4099472,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "lol-sly-tlnpir-2026-08-18",
+    "title": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs",
+    "outcome": "Solary",
+    "side": "BUY",
+    "whale_usd": 837.7687999999999,
+    "whale_pct": 1.857,
+    "whale_value_at_open": 45123.9216,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787048932.4099545,
+    "fills": 1
   }
 ]
