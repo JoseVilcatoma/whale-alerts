@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:22:55 (hora de Perú)
+Actualizado: 2026-08-17 21:25:00 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.01
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:22:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $791.65 en 91 posiciones abiertas (disponible para nuevas apuestas: $34.36)
+**Capital comprometido ahora mismo:** $821.65 en 94 posiciones abiertas (disponible para nuevas apuestas: $4.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 17 | 2 | 16 | +46.30 USD |
+| swisstony | 17 | 2 | 17 | +46.30 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 22 | 16 | 9 | -56.28 USD |
+| HomeRunHazard | 22 | 16 | 10 | -56.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 71 | 52 | 30 | -72.52 USD |
+| ferrariChampions2026 | 71 | 52 | 31 | -72.52 USD |
 
 ## Análisis general
 
@@ -164,15 +164,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-chc-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
-| mex-nec-leo-2026-08-17-leo | RN1, ferrariChampions2026 |
+| mex-nec-leo-2026-08-17-leo | RN1, ferrariChampions2026, swisstony |
 | atp-lehecka-fils-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
-| wta-eala-anisimo-2026-08-17 | RN1, alaskabaked, swisstony |
+| wta-eala-anisimo-2026-08-17 | HomeRunHazard, RN1, alaskabaked, swisstony |
 | mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
+| wnba-dal-gsv-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Will Club León FC win on 2026-08-17? | Yes (BUY) | 52% | 10.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Will Club Necaxa vs. Club León FC end in | No (BUY) | 69% | 10.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 74% | 10.00 | 0.2% | ⏳ pendiente | — |
@@ -183,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 43% | 10.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 10.00 | 2.1% | ⏳ pendiente | — |
 | swisstony | Dallas Wings vs. Golden State Valkyries: | Under (BUY) | 55% | 10.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Spread: Club León FC (-1.5) | Club Necaxa (BUY) | 76% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Spread: Club León FC (-1.5) | Club Necaxa (BUY) | 76% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Club Necaxa vs. Club León FC: O/U 2.5 | Under (BUY) | 64% | 10.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -200,6 +204,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 48% | 10.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 96% | 10.00 | 1.1% | ✅ ganada | +0.42 |
-| RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
-| RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ✅ ganada | +4.08 |
