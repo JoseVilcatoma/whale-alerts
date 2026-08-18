@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:32:31 (hora de Perú)
+Actualizado: 2026-08-18 12:34:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:32:31 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $357.04)
+**Capital comprometido ahora mismo:** $490.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $327.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 27 | 9 | 9 | +8.14 USD |
+| swisstony | 27 | 9 | 11 | +8.14 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 3 | 0 | -4.53 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
-| RN1 | 84 | 38 | 4 | -6.99 USD |
+| RN1 | 84 | 38 | 5 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Kulilun | 0 | 1 | 0 | -10.00 USD |
@@ -178,19 +178,24 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
+| atp-zheng-musetti-2026-08-18 | danielwolfmorales3pddb6dl6, swisstony |
 | atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
 | clf-fch-bmu-2026-08-18-spread-away-1pt5 | RN1, swisstony |
+| clf-fch-bmu-2026-08-18-fch | RN1, swisstony |
 | itf-iva-mazzola-2026-08-18 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will 1. FC Heidenheim vs. Bayern Munich  | No (BUY) | 94% | 10.00 | 1.9% | ⏳ pendiente | — |
+| swisstony | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 99% | 10.00 | 3.2% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 91% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 95% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 95% | 10.00 | 2.2% | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-18? | No (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-2.5) | 1. FC Heidenheim (BUY) | 95% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -214,6 +219,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | PFK Levski Sofia vs. AEK: Both Teams to  | No (BUY) | 51% | 10.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Over (BUY) | 68% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Liam Draxl vs Andres Andrade | Andres Andrade (BUY) | 98% | 10.00 | 1.1% | ✅ ganada | +0.20 |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Learner Tien vs Frances | Learner Tien (BUY) | 55% | 10.00 | 18.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 67% | 10.00 | 22.3% | ⏳ pendiente | — |
