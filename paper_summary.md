@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 02:33:04 (hora de Perú)
+Actualizado: 2026-08-18 02:35:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $832.62
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 02:33:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $692.62)
+**Capital comprometido ahora mismo:** $150.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $682.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 78 | 34 | 7 | -10.54 USD |
+| RN1 | 78 | 34 | 8 | -10.54 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -175,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague 2: Florian Broska vs Sean Cuenin | Florian Broska (BUY) | 43% | 10.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -204,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 8.0% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 16.0% | ✅ ganada | +7.86 |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 10.7% | ✅ ganada | +7.54 |
-| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 18.7% | ✅ ganada | +2.82 |
