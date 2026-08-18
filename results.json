@@ -5898,5 +5898,20 @@
     "status": "pending",
     "ultimo_fill": 1787071937,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 823,
+    "timestamp": 1787072273,
+    "username": "Vanchalkenstein",
+    "wallet": "0x9c16127eccf031df45461ef1e04b52ea286a09cb",
+    "slug": "atp-nestero-hemery-2026-08-17",
+    "title": "Sion: Petr Nesterov vs Calvin Hemery",
+    "outcome": "Calvin Hemery",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787072273,
+    "fills": 1
   }
 ]
