@@ -36,4 +36,5 @@ jobs:
           PRECIO_MAX: "95"
           WHALE_THRESHOLD: "25000"
           PUBLICAR_RESULTADOS: "1"
+          EXCLUIDOS: "Djdjdjekekek,0x6d20c35f65d9899b6d6b74f8466e824580f9a165,BreakTheBank,0xf0318c32136c2db7fec88b84869aee6a1106c80c"
         run: python -u whale_alert_bot.py
