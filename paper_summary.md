@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 05:41:06 (hora de Perú)
+Actualizado: 2026-08-18 05:43:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 05:41:06 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $574.84)
+**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $564.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 63 | 13 | -104.76 USD |
+| ferrariChampions2026 | 88 | 63 | 14 | -104.76 USD |
 
 ## Análisis general
 
@@ -176,6 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Lui Maxted (BUY) | 61% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Martin Krumich (BUY) | 93% | 10.00 | 0.4% | ⏳ pendiente | — |
 | sentrio | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 85% | 10.00 | 1.9% | ⏳ pendiente | — |
@@ -183,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Chun-Hsin Tseng (BUY) | 95% | 10.00 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CS Independiente Rivadavia (-1.5 | Fluminense FC (BUY) | 87% | 10.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Matteo Martineau (BUY) | 62% | 10.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W50 Prague Women: Denisa Zoldakova v | Denisa Zoldakova (BUY) | 96% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W50 Prague Women: Denisa Zoldakova v | Denisa Zoldakova (BUY) | 96% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 0.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 49% | 10.00 | 49.5% | ⏳ pendiente | — |
@@ -205,4 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ✅ ganada | +10.41 |
 | RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ✅ ganada | +0.75 |
 | swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ❌ perdida | -10.00 |
-| swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
