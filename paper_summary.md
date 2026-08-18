@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:48:08 (hora de Perú)
+Actualizado: 2026-08-18 04:50:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $814.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:48:08 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $724.84)
+**Capital comprometido ahora mismo:** $100.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $714.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 4 | +0.00 USD |
+| sentrio | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -45,12 +45,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | RN1 | 80 | 36 | 3 | -18.32 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| HomeRunHazard | 25 | 17 | 14 | -31.87 USD |
-| 111111111115 | 11 | 12 | 1 | -33.43 USD |
-| RN1 | 82 | 38 | 19 | -36.34 USD |
+| HomeRunHazard | 25 | 17 | 1 | -31.87 USD |
+| 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 3 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 4 | -94.76 USD |
 
 ## Análisis general
 
@@ -171,21 +170,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
-| atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
-| itf-schunk-jang-2026-08-18 | RN1, sentrio |
-| atp-soto-molleke-2026-08-18 | HomeRunHazard, RN1, ferrariChampions2026 |
-| atp-ehrensc-wehnelt-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
-| atp-compagn-dahlin-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
-| mlb-sf-cle-2026-08-18-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
-| mlb-nyy-bal-2026-08-18-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
-| atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
-| mlb-lad-col-2026-08-18-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
-| itf-adams-gao-2026-08-18 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 65% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Gilles Arnaud Bailly (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 1.3% | ✅ ganada | +8.52 |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -215,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 8.0% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 16.0% | ✅ ganada | +7.86 |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 10.7% | ✅ ganada | +7.54 |
-| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 18.7% | ✅ ganada | +2.82 |
