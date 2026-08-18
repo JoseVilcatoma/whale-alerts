@@ -2495,6 +2495,11 @@
       "timestamp": 1787021504.1817415,
       "bankroll": 827.42,
       "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787021879.4607809,
+      "bankroll": 827.42,
+      "event": "won: swisstony \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-17?"
     }
   ]
 }

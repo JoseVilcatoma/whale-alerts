@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:56:05 (hora de Perú)
+Actualizado: 2026-08-17 21:58:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $827.42
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:56:05 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $684.68 en 79 posiciones abiertas (disponible para nuevas apuestas: $142.74)
+**Capital comprometido ahora mismo:** $704.68 en 80 posiciones abiertas (disponible para nuevas apuestas: $122.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 18 | 3 | 16 | +47.64 USD |
+| swisstony | 19 | 3 | 15 | +47.64 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 61 | 26 | 26 | -11.66 USD |
+| RN1 | 61 | 26 | 27 | -11.66 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -50,14 +50,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 22 | 17 | 9 | -66.28 USD |
-| ferrariChampions2026 | 75 | 55 | 24 | -88.52 USD |
+| ferrariChampions2026 | 75 | 55 | 25 | -88.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 477
-- **Aciertos:** 280 (58.7%)
+- **Apuestas resueltas:** 478
+- **Aciertos:** 281 (58.8%)
 - **Cuota promedio de entrada:** 59.8%
-- **Stake promedio:** $9.95
+- **Stake promedio:** $9.92
 - **Total apostado (suma de stakes):** $4,743.83
 - **ROI sobre lo apostado:** -4.56%
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 220 | 47.7% | 49.6% | -1.9 pp |
 | 60-79% | 138 | 68.8% | 69.2% | -0.4 pp |
-| 80-94% | 51 | 94.1% | 86.0% | +8.1 pp |
+| 80-94% | 52 | 94.2% | 86.0% | +8.2 pp |
 | 95-99% (casi seguro) | 23 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-sanchis-magadan-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-leo | RN1, ferrariChampions2026, swisstony |
 | atp-lehecka-fils-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
-| wta-eala-anisimo-2026-08-17 | HomeRunHazard, RN1, alaskabaked, swisstony |
+| wta-eala-anisimo-2026-08-17 | HomeRunHazard, RN1, alaskabaked, ferrariChampions2026, swisstony |
 | mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
 | wnba-dal-gsv-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 
@@ -177,6 +177,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: O/U 3.5 | Under (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
@@ -205,5 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 99% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
-| alaskabaked | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 53% | 10.00 | 60.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Minnesota Twins (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 0.5% | ⏳ pendiente | — |
