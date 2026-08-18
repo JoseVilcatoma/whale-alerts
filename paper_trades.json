@@ -10519,8 +10519,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.62,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11527,8 +11527,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.2,
     "overlaps_with": [
       "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
     ],
@@ -11598,8 +11598,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.2,
     "overlaps_with": [
       "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
       "RN1"
@@ -12915,8 +12915,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -13381,5 +13381,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787021014.502405,
     "fills": 2
+  },
+  {
+    "timestamp": 1787021065,
+    "timestamp_added": 1787021065.9974658,
+    "username": "TennisLove",
+    "wallet": "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2",
+    "slug": "atp-nakashi-medvede-2026-08-18",
+    "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "whale_usd": 999.999998,
+    "whale_pct": 1.358,
+    "whale_value_at_open": 73634.755,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021065.9974735,
+    "fills": 1
   }
 ]
