@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:42:57 (hora de Perú)
+Actualizado: 2026-08-17 20:45:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $830.28
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:42:57 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $667.67 en 79 posiciones abiertas (disponible para nuevas apuestas: $162.61)
+**Capital comprometido ahora mismo:** $697.67 en 82 posiciones abiertas (disponible para nuevas apuestas: $132.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 50 | 24 | 27 | -28.30 USD |
+| RN1 | 50 | 24 | 30 | -28.30 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 22 | 15 | 5 | -46.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jodar-tabilo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
-| arg-gye-tal-2026-08-17-tal | ferrariChampions2026, swisstony |
+| arg-gye-tal-2026-08-17-tal | RN1, ferrariChampions2026, swisstony |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-mia-phi-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1 |
 | atp-alves-pavlovi-2026-08-17 | HVAB, ferrariChampions2026 |
@@ -168,6 +168,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 48% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 96% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ⏳ pendiente | — |
@@ -195,6 +198,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ⏳ pendiente | — |
-| swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
