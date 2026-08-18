@@ -15299,8 +15299,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 2552.438198,
-    "whale_pct": 1.059,
+    "whale_usd": 4620.103697999999,
+    "whale_pct": 1.917,
     "whale_value_at_open": 241033.0384,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -15312,8 +15312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074330.6100473,
-    "fills": 2
+    "last_fill_at": 1787074951.6264057,
+    "fills": 3
   },
   {
     "timestamp": 1787072879,
@@ -15842,6 +15842,54 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787074773.2728229,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787074892,
+    "timestamp_added": 1787074893.0418413,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-royer-miguel-2026-08-17",
+    "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
+    "outcome": "Valentin Royer",
+    "side": "BUY",
+    "whale_usd": 6329.244416,
+    "whale_pct": 2.491,
+    "whale_value_at_open": 254072.8691,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 94,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074893.0418468,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787074961,
+    "timestamp_added": 1787074962.4157405,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-fen-lyo-2026-08-18-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1183.26,
+    "whale_pct": 0.442,
+    "whale_value_at_open": 267883.2592,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074962.4157488,
     "fills": 1
   }
 ]
