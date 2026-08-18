@@ -14638,8 +14638,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 19531.2373,
-    "whale_pct": 9.788,
+    "whale_usd": 20427.1349,
+    "whale_pct": 10.237,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -14649,8 +14649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064018.195535,
-    "fills": 3
+    "last_fill_at": 1787064058.645736,
+    "fills": 4
   },
   {
     "timestamp": 1787059377,
@@ -15185,6 +15185,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787063749.9056494,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787064061,
+    "timestamp_added": 1787064061.5029883,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-cin-2026-08-18-total-9pt5",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 723.9399990000001,
+    "whale_pct": 0.313,
+    "whale_value_at_open": 231264.5424,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 44,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787064061.502999,
     "fills": 1
   }
 ]
