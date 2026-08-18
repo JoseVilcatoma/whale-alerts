@@ -1,5 +1,5 @@
 {
-  "bankroll": 828.9565944171609,
+  "bankroll": 839.0728484206101,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2395,6 +2395,26 @@
       "timestamp": 1787020380.435086,
       "bankroll": 828.96,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Zverev vs Terence Atmane"
+    },
+    {
+      "timestamp": 1787021060.4350674,
+      "bankroll": 834.58,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787021063.1300952,
+      "bankroll": 836.78,
+      "event": "won: RN1 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787021063.3304687,
+      "bankroll": 838.97,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787021128.4061282,
+      "bankroll": 839.07,
+      "event": "won: RN1 \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 5.5"
     }
   ]
 }
