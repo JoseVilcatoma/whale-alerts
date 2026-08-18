@@ -1,5 +1,5 @@
 {
-  "bankroll": 819.8802164304791,
+  "bankroll": 819.488059567734,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3090,6 +3090,16 @@
       "timestamp": 1787073294.3441494,
       "bankroll": 819.88,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Peter Makk"
+    },
+    {
+      "timestamp": 1787073909.6767447,
+      "bankroll": 829.49,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Geoffrey Blancaneaux vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787073909.9771264,
+      "bankroll": 819.49,
+      "event": "lost: ferrariChampions2026 \u2014 Sion: Geoffrey Blancaneaux vs Juan Estevez"
     }
   ]
 }
