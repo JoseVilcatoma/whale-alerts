@@ -11016,8 +11016,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3020.16,
-    "whale_pct": 1.453,
+    "whale_usd": 3724.38,
+    "whale_pct": 1.792,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -11027,8 +11027,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012792.04493,
-    "fills": 5
+    "last_fill_at": 1787014279.5865266,
+    "fills": 6
   },
   {
     "timestamp": 1787007903,
