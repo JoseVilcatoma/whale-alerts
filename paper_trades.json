@@ -13270,8 +13270,8 @@
     "title": "ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho",
     "outcome": "Chen Hui Ho",
     "side": "BUY",
-    "whale_usd": 4414.23,
-    "whale_pct": 3.22,
+    "whale_usd": 5238.6312,
+    "whale_pct": 3.821,
     "whale_value_at_open": 137087.0777,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 47,
@@ -13281,7 +13281,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787032253.7848666,
-    "fills": 4
+    "last_fill_at": 1787034100.8312593,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787034176,
+    "timestamp_added": 1787034176.6681678,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-jin-zhou-2026-08-18",
+    "title": "ITF M15 Maanshan 7 Men: Yuquan Jin vs Xin Zhou",
+    "outcome": "Yuquan Jin",
+    "side": "BUY",
+    "whale_usd": 862.5,
+    "whale_pct": 0.675,
+    "whale_value_at_open": 127716.865,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 51,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787034176.6681764,
+    "fills": 1
   }
 ]
