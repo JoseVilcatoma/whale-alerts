@@ -1,5 +1,5 @@
 {
-  "bankroll": 800.7090433569863,
+  "bankroll": 807.1024859799371,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2635,6 +2635,11 @@
       "timestamp": 1787024149.0369823,
       "bankroll": 800.71,
       "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787024335.0889733,
+      "bankroll": 807.1,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Lloyd Harris vs Abdullah Shelbayh"
     }
   ]
 }
