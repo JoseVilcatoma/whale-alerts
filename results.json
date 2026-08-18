@@ -5776,5 +5776,20 @@
     "status": "lost",
     "ultimo_fill": 1787023491,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 810,
+    "timestamp": 1787043557,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "atp-bruncli-kumstat-2026-08-17",
+    "title": "Prague 2: Petr Brunclik vs Jan Kumstat",
+    "outcome": "Jan Kumstat",
+    "side": "BUY",
+    "usd": 25723.821500000002,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787043557,
+    "fills": 1
   }
 ]
