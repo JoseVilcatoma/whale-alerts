@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 08:40:23 (hora de Perú)
+Actualizado: 2026-08-18 08:42:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $802.19
@@ -180,9 +180,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Sion: Kai Wehnelt vs Calvin Hemery | Calvin Hemery (BUY) | 62% | 10.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 61% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 61% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Barbara Straszewsk | Radka Zelnickova (BUY) | 88% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Sandro Kopp vs Luca Wiedenmann | Sandro Kopp (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Sandro Kopp vs Luca Wiedenmann | Sandro Kopp (BUY) | 83% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Radu Mihai Papoe (BUY) | 57% | 10.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Angella Okutoyi v | Laia Petretic (BUY) | 65% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Anastasia Zolotare | Anastasia Zolotareva (BUY) | 86% | 10.00 | 0.3% | ⏳ pendiente | — |

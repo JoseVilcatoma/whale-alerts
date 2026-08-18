@@ -14661,8 +14661,8 @@
     "title": "Sion: Sandro Kopp vs Luca Wiedenmann",
     "outcome": "Sandro Kopp",
     "side": "BUY",
-    "whale_usd": 592.578947,
-    "whale_pct": 0.297,
+    "whale_usd": 2366.028947,
+    "whale_pct": 1.186,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -14672,8 +14672,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787059378.3635433,
-    "fills": 1
+    "last_fill_at": 1787060541.8819034,
+    "fills": 2
   },
   {
     "timestamp": 1787059965,
@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 882.0,
-    "whale_pct": 0.459,
+    "whale_usd": 2256.12,
+    "whale_pct": 1.174,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787060352.0878246,
-    "fills": 1
+    "last_fill_at": 1787060485.690449,
+    "fills": 3
   },
   {
     "timestamp": 1787060387,
