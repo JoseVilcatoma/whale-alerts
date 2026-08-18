@@ -13247,8 +13247,8 @@
     "title": "ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong",
     "outcome": "Sunam Jeong",
     "side": "BUY",
-    "whale_usd": 10855.158600000002,
-    "whale_pct": 7.536,
+    "whale_usd": 13998.668600000003,
+    "whale_pct": 9.718,
     "whale_value_at_open": 144046.5725,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 97,
@@ -13258,7 +13258,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787031090.1203513,
-    "fills": 7
+    "last_fill_at": 1787031144.9543004,
+    "fills": 9
   }
 ]
