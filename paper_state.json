@@ -1,5 +1,5 @@
 {
-  "bankroll": 802.5868586336488,
+  "bankroll": 799.8282379439937,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2910,6 +2910,16 @@
       "timestamp": 1787056646.7264676,
       "bankroll": 802.59,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Matteo Martineau vs Lui Maxted"
+    },
+    {
+      "timestamp": 1787057027.0641038,
+      "bankroll": 792.59,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Javier Barranco Cosano vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787057028.0545597,
+      "bankroll": 799.83,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Javier Barranco Cosano vs Martin Krumich"
     }
   ]
 }
