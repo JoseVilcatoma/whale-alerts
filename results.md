@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 17:34:39 (hora de Perú)
+Actualizado: 2026-08-18 17:36:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **404**  ($20,533,800 en total)
+- Apuestas registradas: **405**  ($20,577,000 en total)
 - Resueltas: **395** — 238 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 122
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| pleaseplease123 | 5 | 4 | 1 | 56% | $409,477 | -$7,052 |
+| pleaseplease123 | 5 | 4 | 2 | 56% | $452,677 | -$7,052 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 0 | ⚠️ 83% (6) | $297,029 | +$215,740 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | +$7,347 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
-| tikstt | Seattle Mariners vs. Houston Astros: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
