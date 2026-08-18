@@ -1,5 +1,5 @@
 {
-  "bankroll": 787.8453184128828,
+  "bankroll": 794.7944709552556,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2605,6 +2605,11 @@
       "timestamp": 1787023520.592377,
       "bankroll": 787.85,
       "event": "won: swisstony \u2014 Spread: SC Internacional (-1.5)"
+    },
+    {
+      "timestamp": 1787023836.1944745,
+      "bankroll": 794.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Minnesota Twins (-1.5)"
     }
   ]
 }
