@@ -13753,8 +13753,8 @@
     "title": "Sion: Tommaso Compagnucci vs Max Dahlin",
     "outcome": "Tommaso Compagnucci",
     "side": "BUY",
-    "whale_usd": 34334.022154000006,
-    "whale_pct": 27.024,
+    "whale_usd": 35244.022154000006,
+    "whale_pct": 27.74,
     "whale_value_at_open": 127052.3055,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -13764,8 +13764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787044297.979642,
-    "fills": 7
+    "last_fill_at": 1787044414.0538752,
+    "fills": 8
   },
   {
     "timestamp": 1787042234,
@@ -14463,6 +14463,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787043735.00023,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787044394,
+    "timestamp_added": 1787044395.3642118,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-dnsc-nsea-2026-08-18-game2",
+    "title": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 2 Winner",
+    "outcome": "Nongshim Esports Academy",
+    "side": "BUY",
+    "whale_usd": 506.25,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 178836.2634,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 76,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787044395.364222,
     "fills": 1
   }
 ]
