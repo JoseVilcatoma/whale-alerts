@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:34:07 (hora de Perú)
+Actualizado: 2026-08-18 09:36:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.92
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:34:07 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $295.92)
+**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $285.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 106 | 70 | 32 | -95.00 USD |
+| ferrariChampions2026 | 106 | 70 | 33 | -95.00 USD |
 
 ## Análisis general
 
@@ -182,6 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | Thailand vs. Singapore: O/U 3.5 | Under (BUY) | 42% | 10.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: John Echeverria vs Oliver Ta | Oliver Tarvet (BUY) | 97% | 10.00 | 1.4% | ⏳ pendiente | — |
 | bigoon | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 56% | 10.00 | 80.8% | ⏳ pendiente | — |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Bayern Munich win on 2026-08-18? | Yes (BUY) | 86% | 10.00 | 2.2% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 55% | 10.00 | 3.2% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 6.2% | ⏳ pendiente | — |
-| SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
