@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:36:34 (hora de Perú)
+Actualizado: 2026-08-18 03:38:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:36:34 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $556.32)
+**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $526.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,11 +45,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 79 | 36 | 14 | -26.84 USD |
-| HomeRunHazard | 25 | 17 | 5 | -31.87 USD |
+| HomeRunHazard | 25 | 17 | 7 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 4 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 5 | -94.76 USD |
 
 ## Análisis general
 
@@ -170,14 +170,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
+| atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
+| atp-compagn-dahlin-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: WRAITH PCIFIC vs Just Pl | Just Players (BUY) | 91% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Nathan Walters vs | Imanol Lopez Morillo (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 73% | 10.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 73% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Laura Mair vs Yely | Yelyzaveta Kotliar (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Nino Ehrenschneider vs Kai Wehnelt | Nino Ehrenschneider (BUY) | 55% | 10.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -202,6 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.6% | ❌ perdida | -10.00 |
 | RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ✅ ganada | +10.41 |
-| RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ✅ ganada | +0.75 |
-| swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ❌ perdida | -10.00 |
-| swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
