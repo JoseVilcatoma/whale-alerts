@@ -59,14 +59,6 @@
     "username": "boyau",
     "added_at": 1786433642.4851158
   },
-  "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2": {
-    "username": "TennisLove",
-    "added_at": 1786484635.228609
-  },
-  "0x5dab5ed9691fab220535891d9c7f5c28eed322e1": {
-    "username": "Weaseloftheweek",
-    "added_at": 1786484635.228609
-  },
   "0x56acab44cfca2e88bb9b3406890aea7bfa0cd77e": {
     "username": "dv-pm",
     "added_at": 1786504608.4218545
@@ -406,5 +398,9 @@
   "0x43372356634781eea88d61bbdd7824cdce958882": {
     "username": "Anjun",
     "added_at": 1787083848.5853443
+  },
+  "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "added_at": 1787089593.4127555
   }
 }
