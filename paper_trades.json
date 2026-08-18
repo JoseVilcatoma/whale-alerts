@@ -15606,8 +15606,8 @@
     "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
     "outcome": "Lorenzo Musetti",
     "side": "BUY",
-    "whale_usd": 3797.215293,
-    "whale_pct": 1.473,
+    "whale_usd": 5344.405284,
+    "whale_pct": 2.073,
     "whale_value_at_open": 257778.361,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 91,
@@ -15619,8 +15619,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075225.9454107,
-    "fills": 2
+    "last_fill_at": 1787076085.2187471,
+    "fills": 3
   },
   {
     "timestamp": 1787074438,
@@ -15704,8 +15704,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 9302.395744,
-    "whale_pct": 4.128,
+    "whale_usd": 17066.943742,
+    "whale_pct": 7.573,
     "whale_value_at_open": 225368.6785,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15715,8 +15715,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074701.5147636,
-    "fills": 3
+    "last_fill_at": 1787076085.1436288,
+    "fills": 5
   },
   {
     "timestamp": 1787074547,
@@ -15727,8 +15727,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 11015.29498,
-    "whale_pct": 4.202,
+    "whale_usd": 14653.994980000001,
+    "whale_pct": 5.59,
     "whale_value_at_open": 262125.398,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15740,8 +15740,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075756.2085295,
-    "fills": 7
+    "last_fill_at": 1787076001.2078636,
+    "fills": 8
   },
   {
     "timestamp": 1787074548,
@@ -16183,6 +16183,54 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787075969.7042892,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787075990,
+    "timestamp_added": 1787075990.6050842,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-lajovic-daniel-2026-08-18",
+    "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
+    "outcome": "Taro Daniel",
+    "side": "BUY",
+    "whale_usd": 1479.3955549999998,
+    "whale_pct": 0.759,
+    "whale_value_at_open": 194861.9792,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075990.6050916,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787076097,
+    "timestamp_added": 1787076098.3875682,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-laa-hou-2026-08-18",
+    "title": "Los Angeles Angels vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 16220.985799999999,
+    "whale_pct": 403.303,
+    "whale_value_at_open": 4022.0306,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787076098.3875802,
     "fills": 1
   }
 ]
