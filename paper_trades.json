@@ -13191,5 +13191,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787029500.838424,
     "fills": 1
+  },
+  {
+    "timestamp": 1787030299,
+    "timestamp_added": 1787030299.8195362,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-jin-zhou-2026-08-18",
+    "title": "ITF M15 Maanshan 7 Men: Yuquan Jin vs Xin Zhou",
+    "outcome": "Xin Zhou",
+    "side": "BUY",
+    "whale_usd": 1408.0,
+    "whale_pct": 0.519,
+    "whale_value_at_open": 271171.134,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787030300.2986708,
+    "fills": 2
   }
 ]
