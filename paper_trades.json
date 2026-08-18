@@ -13615,8 +13615,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 7185.561953000001,
-    "whale_pct": 2.122,
+    "whale_usd": 7711.251953000001,
+    "whale_pct": 2.277,
     "whale_value_at_open": 338683.4859,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -13626,8 +13626,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024647.2693498,
-    "fills": 4
+    "last_fill_at": 1787025286.2956479,
+    "fills": 5
   },
   {
     "timestamp": 1787022860,
@@ -13834,8 +13834,8 @@
     "title": "Will CF Pachuca win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 510.25,
-    "whale_pct": 0.225,
+    "whale_usd": 1091.15,
+    "whale_pct": 0.481,
     "whale_value_at_open": 226967.9529,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -13845,8 +13845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023747.5018754,
-    "fills": 1
+    "last_fill_at": 1787025247.386228,
+    "fills": 2
   },
   {
     "timestamp": 1787023928,
@@ -14034,5 +14034,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787025109.3959,
     "fills": 1
+  },
+  {
+    "timestamp": 1787025163,
+    "timestamp_added": 1787025163.5230358,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-mair-kotliar-2026-08-18",
+    "title": "ITF W50 Prague Women: Laura Mair vs Yelyzaveta Kotliar",
+    "outcome": "Yelyzaveta Kotliar",
+    "side": "BUY",
+    "whale_usd": 3556.724,
+    "whale_pct": 2.072,
+    "whale_value_at_open": 171617.3336,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787025172.3815298,
+    "fills": 2
   }
 ]

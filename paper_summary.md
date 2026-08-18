@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:52:40 (hora de Perú)
+Actualizado: 2026-08-17 22:54:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $832.02
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:52:40 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $492.08 en 54 posiciones abiertas (disponible para nuevas apuestas: $339.94)
+**Capital comprometido ahora mismo:** $502.08 en 55 posiciones abiertas (disponible para nuevas apuestas: $329.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| ferrariChampions2026 | 90 | 60 | 9 | -56.00 USD |
+| ferrariChampions2026 | 90 | 60 | 10 | -56.00 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | HomeRunHazard | 25 | 19 | 4 | -66.03 USD |
 
@@ -180,6 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF W50 Prague Women: Laura Mair vs Yely | Yelyzaveta Kotliar (BUY) | 78% | 10.00 | 2.1% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 62% | 10.00 | 10.8% | ⏳ pendiente | — |
 | RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: 1st Half O/U | Under (BUY) | 67% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -188,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Club Puebla win on 2026-08-17? | Yes (BUY) | 68% | 10.00 | 2.5% | ⏳ pendiente | — |
 | swisstony | Spread: Club Puebla (-2.5) | CF Pachuca (BUY) | 98% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 66% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 66% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Tai Leonard Sach vs  | Tai Leonard Sach (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 2.5 | Over (BUY) | 73% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Golden State Valkyries (BUY) | 79% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -197,7 +198,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 50% | 10.00 | 9.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 24.9% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -209,4 +210,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TennisLove | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 6.5% | ⏳ pendiente | — |
 | RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
-| swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
