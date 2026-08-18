@@ -10394,8 +10394,8 @@
     "title": "Baltimore Orioles vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 3441.339,
-    "whale_pct": 1.057,
+    "whale_usd": 4497.267,
+    "whale_pct": 1.381,
     "whale_value_at_open": 325549.3277,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -10405,8 +10405,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012284.612538,
-    "fills": 4
+    "last_fill_at": 1787013046.8938465,
+    "fills": 5
   },
   {
     "timestamp": 1787005651,
@@ -10423,8 +10423,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 79,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11400,8 +11400,8 @@
     "title": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
     "outcome": "Jakub Mensik",
     "side": "BUY",
-    "whale_usd": 17948.38984,
-    "whale_pct": 4.138,
+    "whale_usd": 23061.47129,
+    "whale_pct": 5.317,
     "whale_value_at_open": 433720.0403,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -11411,8 +11411,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012815.5133471,
-    "fills": 2
+    "last_fill_at": 1787013087.002502,
+    "fills": 3
   },
   {
     "timestamp": 1787010331,

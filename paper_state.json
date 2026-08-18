@@ -1,5 +1,5 @@
 {
-  "bankroll": 833.5254104377892,
+  "bankroll": 823.5254104377892,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2145,6 +2145,11 @@
       "timestamp": 1787012795.061175,
       "bankroll": 833.53,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Noskova vs Tauson"
+    },
+    {
+      "timestamp": 1787013099.9519527,
+      "bankroll": 823.53,
+      "event": "lost: RN1 \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-17?"
     }
   ]
 }
