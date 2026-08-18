@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:52:40 (hora de Perú)
+Actualizado: 2026-08-18 09:54:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.73
@@ -182,7 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Omega (BUY) | 70% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Omega (BUY) | 70% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 44% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 54% | 10.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | Thailand vs. Singapore: O/U 3.5 | Under (BUY) | 42% | 10.00 | 2.4% | ⏳ pendiente | — |
@@ -207,7 +207,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 61% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Barbara Straszewsk | Radka Zelnickova (BUY) | 88% | 10.00 | 0.6% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Luca Wiedenmann | Sandro Kopp (BUY) | 83% | 10.00 | 1.2% | ✅ ganada | +2.05 |
-| ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Radu Mihai Papoe (BUY) | 57% | 10.00 | 16.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Radu Mihai Papoe (BUY) | 57% | 10.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Angella Okutoyi v | Laia Petretic (BUY) | 65% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Anastasia Zolotare | Anastasia Zolotareva (BUY) | 86% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G Global Academy vs HANJIN BRIO | HANJIN BRION Challengers (BUY) | 66% | 10.00 | 1.4% | ⏳ pendiente | — |
