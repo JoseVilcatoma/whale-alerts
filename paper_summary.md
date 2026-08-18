@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:24:15 (hora de Perú)
+Actualizado: 2026-08-17 22:57:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $841.62
-**Retorno acumulado:** -15.84%
+**Bankroll actual:** $816.05
+**Retorno acumulado:** -18.39%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:24:15 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $727.67 en 85 posiciones abiertas (disponible para nuevas apuestas: $113.95)
+**Capital comprometido ahora mismo:** $101.24 en 14 posiciones abiertas (disponible para nuevas apuestas: $714.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,43 +21,43 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 17 | 2 | 10 | +46.30 USD |
+| swisstony | 20 | 6 | 3 | +23.77 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
+| SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
-| alaskabaked | 1 | 1 | 1 | +3.67 USD |
+| alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
-| SDTrading | 2 | 2 | 1 | -1.87 USD |
+| Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 1 | 3 | -10.00 USD |
+| AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
+| RN1 | 65 | 29 | 6 | -16.17 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| 111111111115 | 11 | 11 | 1 | -23.43 USD |
-| HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 50 | 24 | 25 | -28.30 USD |
+| 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
+| HomeRunHazard | 23 | 17 | 2 | -51.89 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 64 | 48 | 35 | -79.45 USD |
+| ferrariChampions2026 | 85 | 59 | 3 | -85.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 433
-- **Aciertos:** 252 (58.2%)
-- **Cuota promedio de entrada:** 59.3%
-- **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,330.00
-- **ROI sobre lo apostado:** -4.67%
+- **Apuestas resueltas:** 505
+- **Aciertos:** 297 (58.8%)
+- **Cuota promedio de entrada:** 60.2%
+- **Stake promedio:** $9.83
+- **Total apostado (suma de stakes):** $4,966.43
+- **ROI sobre lo apostado:** -4.59%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,10 +67,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 198 | 48.5% | 49.6% | -1.1 pp |
-| 60-79% | 128 | 68.8% | 69.4% | -0.7 pp |
-| 80-94% | 44 | 93.2% | 86.4% | +6.7 pp |
-| 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
+| 40-59% | 231 | 48.1% | 49.7% | -1.7 pp |
+| 60-79% | 145 | 69.0% | 69.0% | -0.1 pp |
+| 80-94% | 63 | 88.9% | 86.4% | +2.5 pp |
+| 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -167,33 +167,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
+| RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ✅ ganada | +13.26 |
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ⏳ pendiente | — |
-| alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ❌ perdida | -0.00 |
+| ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ✅ ganada | +0.00 |
+| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ✅ ganada | +0.00 |
+| alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Will Club León FC win on 2026-08-17? | No (BUY) | 62% | 0.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 78% | 0.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 86% | 0.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ⏳ pendiente | — |
+| swisstony | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 86% | 0.00 | 0.2% | ✅ ganada | +0.00 |
+| ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ✅ ganada | +2.13 |
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ❌ perdida | -10.00 |
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ⏳ pendiente | — |
-| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ❌ perdida | -6.02 |
+| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ❌ perdida | -10.00 |
+| ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ✅ ganada | +0.10 |
-| swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ⏳ pendiente | — |
+| swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 1.9% | ❌ perdida | -10.00 |
+| ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ✅ ganada | +10.83 |
+| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ❌ perdida | -10.00 |
+| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ❌ perdida | -10.00 |
+| swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ❌ perdida | -4.28 |
 | swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ✅ ganada | +0.97 |
 | RN1 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 98% | 10.00 | 5.9% | ✅ ganada | +0.20 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 9.2% | ⏳ pendiente | — |
