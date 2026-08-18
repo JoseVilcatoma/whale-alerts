@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:34:35 (hora de Perú)
+Actualizado: 2026-08-17 20:36:44 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $840.28
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ⏳ pendiente | — |
 | alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club León FC win on 2026-08-17? | No (BUY) | 62% | 0.00 | 0.5% | ⏳ pendiente | — |
