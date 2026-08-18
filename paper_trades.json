@@ -14522,8 +14522,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 6632.412894,
-    "whale_pct": 29.673,
+    "whale_usd": 25583.900393999997,
+    "whale_pct": 114.461,
     "whale_value_at_open": 22351.6485,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -14533,7 +14533,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787045090.532235,
-    "fills": 6
+    "last_fill_at": 1787045308.270589,
+    "fills": 12
   }
 ]
