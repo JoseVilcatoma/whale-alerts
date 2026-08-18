@@ -15105,5 +15105,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787071958.5043302,
     "fills": 1
+  },
+  {
+    "timestamp": 1787072016,
+    "timestamp_added": 1787072016.8880775,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "atp-glinka-bax-2026-08-17",
+    "title": "Kingston: Daniil Glinka vs Florent Bax",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "whale_usd": 718.2528,
+    "whale_pct": 0.69,
+    "whale_value_at_open": 104124.5796,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787072016.888087,
+    "fills": 1
   }
 ]
