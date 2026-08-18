@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:56:55 (hora de Perú)
+Actualizado: 2026-08-18 10:58:56 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $849.53
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:56:55 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $649.53)
+**Capital comprometido ahora mismo:** $220.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $629.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 109 | 71 | 8 | -89.46 USD |
+| ferrariChampions2026 | 109 | 71 | 10 | -89.46 USD |
 
 ## Análisis general
 
@@ -181,6 +181,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF W35 Krakow Women: Sandra Samir vs Po | Polina Leykina (BUY) | 58% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Andrey Rublev vs Nuno B | Nuno Borges (BUY) | 61% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Oleksandr Ovcha | Benjamin Hassan (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
@@ -209,5 +211,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Javier Barranco Cosano (BUY) | 58% | 10.00 | 4.1% | ✅ ganada | +7.24 |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ✅ ganada | +4.93 |
