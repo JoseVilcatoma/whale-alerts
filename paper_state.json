@@ -1,5 +1,5 @@
 {
-  "bankroll": 802.1856354484501,
+  "bankroll": 804.090397353212,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2940,6 +2940,11 @@
       "timestamp": 1787059852.6554766,
       "bankroll": 802.19,
       "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1787061651.0277543,
+      "bankroll": 804.09,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Alec Deckers vs Patrick Brady"
     }
   ]
 }
