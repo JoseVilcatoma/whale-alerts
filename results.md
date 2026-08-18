@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 17:47:06 (hora de Perú)
+Actualizado: 2026-08-18 17:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **405**  ($20,577,000 en total)
+- Apuestas registradas: **406**  ($20,605,766 en total)
 - Resueltas: **395** — 238 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 122
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 41 | 21 | 0 | 66% | $3,494,354 | +$272,874 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 1 | 65% | $1,527,621 | +$259,757 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 2 | 65% | $1,556,388 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.22 (45¢) | $28,767 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers | 1.92 (52¢) | $28,889 | +$26,666 | ✅ Ganada |
 | swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | +$7,347 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
-| xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
