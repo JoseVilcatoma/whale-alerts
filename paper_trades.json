@@ -13477,8 +13477,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 1803.41,
-    "whale_pct": 1.703,
+    "whale_usd": 3077.41,
+    "whale_pct": 2.906,
     "whale_value_at_open": 105895.3084,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -13488,7 +13488,30 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787047328.932859,
-    "fills": 1
+    "last_fill_at": 1787047360.5525115,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787047382,
+    "timestamp_added": 1787047383.258442,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-ns-dnf-2026-08-18-game2",
+    "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 40686.98692100001,
+    "whale_pct": 37.334,
+    "whale_value_at_open": 108981.2761,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787047459.8530831,
+    "fills": 22
   }
 ]
