@@ -129,8 +129,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tij-caz-2026-08-16-caz | RN1, swisstony |
 | mex-tij-caz-2026-08-16-tij | RN1, swisstony |
 | atp-blockx-cobolli-2026-08-17 | ferrariChampions2026, swisstony |
+| mlb-cws-chc-2026-08-17-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
 | atp-papoe-cerny-2026-08-17 | HomeRunHazard, RN1 |
 | atp-fatic-donald-2026-08-17 | HomeRunHazard, RN1, swisstony |
+| wnba-dal-gsv-2026-08-17-total-162pt5 | HomeRunHazard, swisstony |
+| wnba-dal-gsv-2026-08-17-total-163pt5 | HomeRunHazard, swisstony |
 | atp-ribeiro-nagal-2026-08-17 | RN1, ferrariChampions2026 |
 | itf-aleksey-boschma-2026-08-17 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
 | mlb-det-pit-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, AV23IUa, RN1, ferrariChampions2026 |
@@ -142,8 +145,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jodar-tabilo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
-| arg-gye-tal-2026-08-17-tal | ferrariChampions2026, swisstony |
+| arg-gye-tal-2026-08-17-tal | RN1, ferrariChampions2026, swisstony |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
+| mlb-mia-phi-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1 |
 | atp-alves-pavlovi-2026-08-17 | HVAB, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-oak-kc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, ferrariChampions2026 |
@@ -158,10 +162,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-hijikat-mensik-2026-08-17 | RN1, ferrariChampions2026 |
-| mlb-cws-chc-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
+| mlb-cws-chc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, alaskabaked, ferrariChampions2026 |
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
-| atp-lehecka-fils-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-sanchis-magadan-2026-08-17 | RN1, ferrariChampions2026 |
+| mex-nec-leo-2026-08-17-leo | RN1, ferrariChampions2026, swisstony |
+| atp-lehecka-fils-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
+| wta-eala-anisimo-2026-08-17 | HomeRunHazard, RN1, alaskabaked, ferrariChampions2026, swisstony |
+| mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
+| wnba-dal-gsv-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
+| mex-pac-pue-2026-08-17-total-2pt5 | RN1, kekasaur |
+| atp-paul-vallejo-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 

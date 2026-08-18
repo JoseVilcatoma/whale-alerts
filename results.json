@@ -5246,7 +5246,7 @@
     "side": "BUY",
     "usd": 28888.600000000002,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786967456,
     "fills": 1
   },
@@ -5276,7 +5276,7 @@
     "side": "BUY",
     "usd": 36226.9108,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786971290,
     "fills": 1
   },
@@ -5291,7 +5291,7 @@
     "side": "BUY",
     "usd": 32934.672,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786976612,
     "fills": 1
   },
@@ -5321,7 +5321,7 @@
     "side": "BUY",
     "usd": 51992.122,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786977640,
     "fills": 1
   },
@@ -5336,7 +5336,7 @@
     "side": "BUY",
     "usd": 28043.2048,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1786986774,
     "fills": 1
   },
@@ -5501,7 +5501,7 @@
     "side": "BUY",
     "usd": 39303.5053,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786996293,
     "fills": 1
   },
@@ -5531,7 +5531,7 @@
     "side": "BUY",
     "usd": 35772.7624,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1786997018,
     "fills": 1
   },
@@ -5576,7 +5576,7 @@
     "side": "BUY",
     "usd": 49526.904,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787003637,
     "fills": 1
   },
@@ -5591,7 +5591,7 @@
     "side": "BUY",
     "usd": 182854.8,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787004192,
     "fills": 2
   },
@@ -5636,7 +5636,7 @@
     "side": "BUY",
     "usd": 36000.0018,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787005933,
     "fills": 1
   },
@@ -5666,7 +5666,7 @@
     "side": "BUY",
     "usd": 30695.645581999994,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787012746,
     "fills": 1
   },
@@ -5698,8 +5698,83 @@
     "side": "BUY",
     "usd": 26651.86999891933,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787013805,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 791,
+    "timestamp": 1787016814,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "mlb-lad-col-2026-08-17",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 27762.1668,
+    "odds_at_bet": 94,
+    "status": "won",
+    "ultimo_fill": 1787016814,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 792,
+    "timestamp": 1787018691,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-lehecka-fils-2026-08-17",
+    "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "usd": 45955.219227,
+    "odds_at_bet": 78,
+    "status": "won",
+    "ultimo_fill": 1787018691,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 798,
+    "timestamp": 1787022869,
+    "username": "IlIIIIlIl",
+    "wallet": "0x7542fa229f63a7bd8a9ca4584638004a39317a20",
+    "slug": "mlb-cws-chc-2026-08-17",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 30898.010000000002,
+    "odds_at_bet": 52,
+    "status": "lost",
+    "ultimo_fill": 1787022869,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 799,
+    "timestamp": 1787022997,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "usd": 54488.3976,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1787022997,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 800,
+    "timestamp": 1787023491,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787023491,
     "fills": 1
   }
 ]
