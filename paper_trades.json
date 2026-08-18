@@ -15161,5 +15161,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787063609.7679482,
     "fills": 1
+  },
+  {
+    "timestamp": 1787063749,
+    "timestamp_added": 1787063749.9056416,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mrva-fatic-2026-08-18",
+    "title": "Prague 2: Maxim Mrva vs Nerman Fatic",
+    "outcome": "Nerman Fatic",
+    "side": "BUY",
+    "whale_usd": 3405.0698,
+    "whale_pct": 1.39,
+    "whale_value_at_open": 245002.049,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "bigoon"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787063749.9056494,
+    "fills": 1
   }
 ]
