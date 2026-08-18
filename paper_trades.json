@@ -14638,8 +14638,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 32923.135469,
-    "whale_pct": 16.499,
+    "whale_usd": 33577.175469,
+    "whale_pct": 16.827,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -14649,8 +14649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064799.4767404,
-    "fills": 8
+    "last_fill_at": 1787067074.9117124,
+    "fills": 9
   },
   {
     "timestamp": 1787059377,
@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 9295.261043999999,
-    "whale_pct": 4.836,
+    "whale_usd": 9820.461812999998,
+    "whale_pct": 5.109,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787066787.5905259,
-    "fills": 12
+    "last_fill_at": 1787067044.9113562,
+    "fills": 13
   },
   {
     "timestamp": 1787060387,
