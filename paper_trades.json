@@ -12619,8 +12619,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 10779.768029000003,
-    "whale_pct": 6.852,
+    "whale_usd": 11470.661695000003,
+    "whale_pct": 7.291,
     "whale_value_at_open": 157333.7724,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -12630,8 +12630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027645.7097497,
-    "fills": 9
+    "last_fill_at": 1787027706.8660884,
+    "fills": 10
   },
   {
     "timestamp": 1787025970,
@@ -12738,8 +12738,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 13073.967175,
-    "whale_pct": 8.446,
+    "whale_usd": 15572.676375,
+    "whale_pct": 10.06,
     "whale_value_at_open": 154796.9048,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -12751,8 +12751,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027512.649656,
-    "fills": 4
+    "last_fill_at": 1787027690.7115517,
+    "fills": 5
   },
   {
     "timestamp": 1787026529,
@@ -12919,6 +12919,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787027527.3902643,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787027719,
+    "timestamp_added": 1787027719.4247613,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-paul-vallejo-2026-08-17",
+    "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+    "outcome": "Adolfo Vallejo",
+    "side": "BUY",
+    "whale_usd": 800.0,
+    "whale_pct": 0.532,
+    "whale_value_at_open": 150393.365,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 41,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787027719.4247744,
     "fills": 1
   }
 ]
