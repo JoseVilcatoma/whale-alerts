@@ -1,5 +1,5 @@
 {
-  "bankroll": 805.7089815616035,
+  "bankroll": 796.8200926727146,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2840,6 +2840,16 @@
       "timestamp": 1787044311.3383534,
       "bankroll": 805.71,
       "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
+    },
+    {
+      "timestamp": 1787045177.2965486,
+      "bankroll": 795.71,
+      "event": "lost: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Gokberk Saritas vs Egor Khotchenkov"
+    },
+    {
+      "timestamp": 1787045180.5890572,
+      "bankroll": 796.82,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Gokberk Saritas vs Egor Khotchenkov"
     }
   ]
 }

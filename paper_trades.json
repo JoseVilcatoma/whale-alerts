@@ -13437,8 +13437,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14025,8 +14025,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 90,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14522,8 +14522,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 2506.0345,
-    "whale_pct": 11.212,
+    "whale_usd": 6632.412894,
+    "whale_pct": 29.673,
     "whale_value_at_open": 22351.6485,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -14533,7 +14533,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787045049.3010457,
-    "fills": 3
+    "last_fill_at": 1787045090.532235,
+    "fills": 6
   }
 ]
