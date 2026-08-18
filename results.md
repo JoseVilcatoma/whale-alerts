@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 16:07:40 (hora de Perú)
+Actualizado: 2026-08-18 16:09:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **401**  ($20,416,595 en total)
-- Resueltas: **391** — 235 ganadas / 156 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Resueltas: **392** — 236 ganadas / 156 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 122
 
 ### Balance
 
-- **Resultado de los apostadores: +$961,461** sobre $19,918,028 apostados (ROI **+4.8%**)
-- Copiando $100 fijo en cada una: **-$1,121** sobre $38,000 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$964,170** sobre $19,960,462 apostados (ROI **+4.8%**)
+- Copiando $100 fijo en cada una: **-$1,115** sobre $38,100 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | — | ⏳ Pendiente |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
