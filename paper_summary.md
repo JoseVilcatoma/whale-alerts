@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:49:06 (hora de Perú)
+Actualizado: 2026-08-18 12:51:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:49:06 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $620.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $197.04)
+**Capital comprometido ahora mismo:** $650.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $167.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 27 | 9 | 15 | +8.14 USD |
+| swisstony | 27 | 9 | 16 | +8.14 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 3 | 0 | -4.53 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
-| RN1 | 84 | 38 | 11 | -6.99 USD |
+| RN1 | 84 | 38 | 13 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Kulilun | 0 | 1 | 0 | -10.00 USD |
@@ -189,16 +189,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | clf-fch-bmu-2026-08-18-fch | RN1, swisstony |
 | itf-iva-mazzola-2026-08-18 | RN1, ferrariChampions2026 |
 | wta-tjen-andreev-2026-08-18 | RN1, ferrariChampions2026, swisstony |
+| ucl-fen-lyo-2026-08-18-lyo | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 78% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 74% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Al Jabalain Saudi Club vs. Al Ettifaq Sa | Under (BUY) | 80% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 97% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 99% | 10.00 | 2.1% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 53% | 10.00 | 2.5% | ⏳ pendiente | — |
-| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 94% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
@@ -221,6 +225,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 76% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 46% | 10.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 1.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 7.1% | ⏳ pendiente | — |
