@@ -12713,8 +12713,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 6246.591200000001,
-    "whale_pct": 2.906,
+    "whale_usd": 6792.645200000001,
+    "whale_pct": 3.16,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -12726,8 +12726,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026660.752057,
-    "fills": 2
+    "last_fill_at": 1787027364.4526455,
+    "fills": 3
   },
   {
     "timestamp": 1787026503,
@@ -12871,6 +12871,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787026931.9003053,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787027333,
+    "timestamp_added": 1787027334.1099882,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-paul-vallejo-2026-08-17",
+    "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+    "outcome": "Adolfo Vallejo",
+    "side": "BUY",
+    "whale_usd": 616.548387,
+    "whale_pct": 0.237,
+    "whale_value_at_open": 260429.4628,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 70,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787027334.1100075,
     "fills": 1
   }
 ]
