@@ -14674,5 +14674,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787059378.3635433,
     "fills": 1
+  },
+  {
+    "timestamp": 1787059965,
+    "timestamp_added": 1787059965.401511,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-strasze-zelnick-2026-08-18",
+    "title": "ITF W35 Krakow Women: Barbara Straszewska vs Radka Zelnickova",
+    "outcome": "Radka Zelnickova",
+    "side": "BUY",
+    "whale_usd": 991.3,
+    "whale_pct": 0.555,
+    "whale_value_at_open": 178606.7058,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787059965.401519,
+    "fills": 1
   }
 ]
