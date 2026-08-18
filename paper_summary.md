@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:18:09 (hora de Perú)
+Actualizado: 2026-08-17 23:20:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.46
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 23:18:09 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $151.24 en 17 posiciones abiertas (disponible para nuevas apuestas: $655.22)
+**Capital comprometido ahora mismo:** $181.24 en 20 posiciones abiertas (disponible para nuevas apuestas: $625.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 1 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | swisstony | 21 | 7 | 1 | +13.77 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| RN1 | 67 | 30 | 6 | -15.76 USD |
+| RN1 | 67 | 30 | 8 | -15.76 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
@@ -164,18 +164,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-lehecka-fils-2026-08-17 | RN1, ferrariChampions2026 |
 | wta-eala-anisimo-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026 |
+| itf-hanleil-osminki-2026-08-18 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 1.1% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 3715.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Tianjin 3 Women: Jiangxue Han vs | Jiangxue Han (BUY) | 68% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 46% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 4.8% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
@@ -196,6 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ❌ perdida | -6.02 |
-| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ❌ perdida | -10.00 |
-| ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ❌ perdida | -10.00 |
-| HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ✅ ganada | +0.10 |
