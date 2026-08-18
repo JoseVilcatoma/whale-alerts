@@ -14672,8 +14672,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -8.2,
     "overlaps_with": [
       "Kulilun",
       "danielwolfmorales3pddb6dl6",
@@ -14682,7 +14682,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787069043.160001,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 9
   },
   {
     "timestamp": 1787069198,

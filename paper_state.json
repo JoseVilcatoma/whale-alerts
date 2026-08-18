@@ -1,5 +1,5 @@
 {
-  "bankroll": 839.5254688574494,
+  "bankroll": 831.3254688574493,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3035,6 +3035,11 @@
       "timestamp": 1787069261.858541,
       "bankroll": 839.53,
       "event": "lost: ferrariChampions2026 \u2014 Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe"
+    },
+    {
+      "timestamp": 1787070080.1861393,
+      "bankroll": 831.33,
+      "event": "venta anticipada: alaskabaked \u2014 Cincinnati Open: Andrey Rublev vs Nuno Borges (-8.20 USD)"
     }
   ]
 }
