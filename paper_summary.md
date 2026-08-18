@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:00:32 (hora de Perú)
+Actualizado: 2026-08-17 19:02:37 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $835.97
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:00:32 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $680.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $155.97)
+**Capital comprometido ahora mismo:** $730.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $105.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,10 +45,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 42 | 21 | 20 | -27.24 USD |
+| RN1 | 42 | 21 | 23 | -27.24 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 55 | 45 | 27 | -99.82 USD |
+| ferrariChampions2026 | 55 | 45 | 29 | -99.82 USD |
 
 ## Análisis general
 
@@ -144,6 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
+| mlb-oak-kc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wta-noskova-tauson-2026-08-17 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-total-4pt5 | RN1, ferrariChampions2026 |
@@ -154,6 +155,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 57% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 90% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 68% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
@@ -179,8 +185,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 5.9% | ⏳ pendiente | — |
-| swisstony | Spread: CSyD Defensa y Justicia (-1.5) | CA Vélez Sarsfield (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Spread: SC Internacional (-1.5) | Clube do Remo (BUY) | 62% | 10.00 | 0.1% | ⏳ pendiente | — |
-| alaskabaked | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 60% | 10.00 | 12.5% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 71% | 10.00 | 2.8% | ⏳ pendiente | — |
-| HVAB | Cincinnati Open: Diana Shnaider vs Maja  | Diana Shnaider (BUY) | 99% | 10.00 | 20.0% | ✅ ganada | +0.10 |
