@@ -13306,5 +13306,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787034176.6681764,
     "fills": 1
+  },
+  {
+    "timestamp": 1787034215,
+    "timestamp_added": 1787034215.9900649,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-hs-kaiiwan-2026-08-18",
+    "title": "ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang",
+    "outcome": "Yu Hsiou Hsu",
+    "side": "BUY",
+    "whale_usd": 1560.763207,
+    "whale_pct": 1.222,
+    "whale_value_at_open": 127716.865,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787034215.9900773,
+    "fills": 1
   }
 ]
