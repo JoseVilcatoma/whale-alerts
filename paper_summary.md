@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:12:01 (hora de Perú)
+Actualizado: 2026-08-17 23:14:04 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.46
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 23:12:01 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $111.24 en 15 posiciones abiertas (disponible para nuevas apuestas: $695.22)
+**Capital comprometido ahora mismo:** $111.24 en 13 posiciones abiertas (disponible para nuevas apuestas: $695.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
-| swisstony | 20 | 7 | 2 | +13.77 USD |
+| swisstony | 21 | 7 | 1 | +13.77 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| RN1 | 66 | 30 | 5 | -15.76 USD |
+| RN1 | 67 | 30 | 4 | -15.76 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
@@ -52,10 +52,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 508
-- **Aciertos:** 298 (58.7%)
-- **Cuota promedio de entrada:** 60.2%
-- **Stake promedio:** $9.84
+- **Apuestas resueltas:** 510
+- **Aciertos:** 300 (58.8%)
+- **Cuota promedio de entrada:** 60.3%
+- **Stake promedio:** $9.80
 - **Total apostado (suma de stakes):** $4,996.43
 - **ROI sobre lo apostado:** -4.75%
 
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 233 | 48.1% | 49.7% | -1.7 pp |
-| 60-79% | 145 | 69.0% | 69.0% | -0.1 pp |
+| 60-79% | 147 | 69.4% | 69.1% | +0.3 pp |
 | 80-94% | 64 | 87.5% | 86.4% | +1.1 pp |
 | 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
 
@@ -170,21 +170,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | ITF W15 Tianjin 3 Women: Jiangxue Han vs | Jiangxue Han (BUY) | 68% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 46% | 10.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 2.6% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
 | RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ✅ ganada | +13.26 |
-| RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ✅ ganada | +0.00 |
 | RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ✅ ganada | +0.00 |
 | alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Will Club León FC win on 2026-08-17? | No (BUY) | 62% | 0.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 78% | 0.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 78% | 0.00 | 0.2% | ✅ ganada | +0.00 |
 | swisstony | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 86% | 0.00 | 0.2% | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ✅ ganada | +2.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ❌ perdida | -10.00 |

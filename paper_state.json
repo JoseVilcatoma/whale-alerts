@@ -2650,6 +2650,16 @@
       "timestamp": 1787026280.1062684,
       "bankroll": 806.46,
       "event": "lost: RN1 \u2014 Will CD Universidad Catolica del Ecuador win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787026340.8841558,
+      "bankroll": 806.46,
+      "event": "won: swisstony \u2014 CSD Macara vs. CD Universidad Catolica del Ecuador: O/U 0.5"
+    },
+    {
+      "timestamp": 1787026341.518768,
+      "bankroll": 806.46,
+      "event": "won: RN1 \u2014 CSD Macara vs. CD Universidad Catolica del Ecuador: O/U 1.5"
     }
   ]
 }
