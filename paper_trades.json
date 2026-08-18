@@ -14078,8 +14078,8 @@
     "title": "Sion: Ognjen Milic vs Lucio Ratti",
     "outcome": "Lucio Ratti",
     "side": "BUY",
-    "whale_usd": 707.902915,
-    "whale_pct": 0.353,
+    "whale_usd": 1228.561915,
+    "whale_pct": 0.613,
     "whale_value_at_open": 200521.4465,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -14089,8 +14089,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787053380.2751634,
-    "fills": 1
+    "last_fill_at": 1787056038.1012127,
+    "fills": 2
   },
   {
     "timestamp": 1787054555,
