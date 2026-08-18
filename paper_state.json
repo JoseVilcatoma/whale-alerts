@@ -1,5 +1,5 @@
 {
-  "bankroll": 811.0395498955849,
+  "bankroll": 819.9074744238867,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2950,6 +2950,11 @@
       "timestamp": 1787062279.3923295,
       "bankroll": 811.04,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Michael Geerts vs Billy Blaydes"
+    },
+    {
+      "timestamp": 1787062401.4274063,
+      "bankroll": 819.91,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Denis Klok"
     }
   ]
 }

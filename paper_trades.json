@@ -14318,8 +14318,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14868,8 +14868,8 @@
     "title": "Prague 2: Maxim Mrva vs Nerman Fatic",
     "outcome": "Maxim Mrva",
     "side": "BUY",
-    "whale_usd": 6374.230500000001,
-    "whale_pct": 3.03,
+    "whale_usd": 10155.6954,
+    "whale_pct": 4.828,
     "whale_value_at_open": 210356.2001,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -14879,8 +14879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787061765.9588537,
-    "fills": 1
+    "last_fill_at": 1787062361.8864748,
+    "fills": 2
   },
   {
     "timestamp": 1787061881,
@@ -14926,6 +14926,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787062265.908846,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787062406,
+    "timestamp_added": 1787062407.187077,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-sparta-mouzn-2026-08-18-game2",
+    "title": "Counter-Strike: SPARTA vs MOUZ NXT - Map 2 Winner",
+    "outcome": "MOUZ NXT",
+    "side": "BUY",
+    "whale_usd": 689.0011,
+    "whale_pct": 0.315,
+    "whale_value_at_open": 219016.1615,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787062407.1870866,
     "fills": 1
   }
 ]
