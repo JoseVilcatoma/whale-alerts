@@ -13986,8 +13986,8 @@
     "title": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
     "outcome": "Javier Barranco Cosano",
     "side": "BUY",
-    "whale_usd": 6064.783472,
-    "whale_pct": 3.035,
+    "whale_usd": 6664.783472,
+    "whale_pct": 3.336,
     "whale_value_at_open": 199800.5799,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -13997,8 +13997,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787053310.6358829,
-    "fills": 2
+    "last_fill_at": 1787054347.1497447,
+    "fills": 3
   },
   {
     "timestamp": 1787052363,
