@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 05:53:29 (hora de Perú)
+Actualizado: 2026-08-18 05:55:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 05:53:29 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $544.84)
+**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $524.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 63 | 14 | -104.76 USD |
+| ferrariChampions2026 | 88 | 63 | 16 | -104.76 USD |
 
 ## Análisis general
 
@@ -164,7 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
 | atp-lehecka-fils-2026-08-17 | RN1, ferrariChampions2026 |
-| lol-ns-dnf-2026-08-18 | Lakersfan111, sentrio |
+| lol-ns-dnf-2026-08-18 | Lakersfan111, ferrariChampions2026, sentrio |
 | wta-eala-anisimo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | itf-hanleil-osminki-2026-08-18 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
@@ -176,6 +176,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 86% | 10.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 67% | 10.00 | 6.9% | ⏳ pendiente | — |
 | sentrio | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -204,5 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Alisa Vasileva (BUY) | 59% | 10.00 | 5.5% | ❌ perdida | -10.00 |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.6% | ❌ perdida | -10.00 |
-| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ✅ ganada | +10.41 |
