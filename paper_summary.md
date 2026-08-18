@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:45:54 (hora de Perú)
+Actualizado: 2026-08-18 04:48:08 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $796.82
-**Retorno acumulado:** -20.32%
+**Bankroll actual:** $814.84
+**Retorno acumulado:** -18.52%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:45:54 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $226.82)
+**Capital comprometido ahora mismo:** $90.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $724.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,22 +43,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
+| RN1 | 80 | 36 | 3 | -18.32 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 14 | -31.87 USD |
 | 111111111115 | 11 | 12 | 1 | -33.43 USD |
 | RN1 | 82 | 38 | 19 | -36.34 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 18 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 3 | -94.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 548
-- **Aciertos:** 325 (59.3%)
-- **Cuota promedio de entrada:** 60.8%
+- **Apuestas resueltas:** 544
+- **Aciertos:** 323 (59.4%)
+- **Cuota promedio de entrada:** 60.7%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,357.67
-- **ROI sobre lo apostado:** -4.61%
+- **Total apostado (suma de stakes):** $5,317.67
+- **ROI sobre lo apostado:** -4.31%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,9 +69,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 249 | 47.8% | 49.8% | -2.0 pp |
+| 40-59% | 247 | 48.2% | 49.8% | -1.6 pp |
 | 60-79% | 157 | 70.1% | 69.1% | +1.0 pp |
-| 80-94% | 74 | 86.5% | 86.7% | -0.2 pp |
+| 80-94% | 72 | 86.1% | 86.6% | -0.5 pp |
 | 95-99% (casi seguro) | 23 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -185,33 +186,33 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
-| sentrio | Counter-Strike: Color vs Misa Esports (B | Color (BUY) | 75% | 10.00 | 19.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Nino Ehrenschneider vs Kai Wehnelt | Kai Wehnelt (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
-| sentrio | Prague 2: Oleksii Krutykh vs Daniel Sini | Oleksii Krutykh (BUY) | 98% | 10.00 | 4.0% | ⏳ pendiente | — |
-| 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 68% | 10.00 | 152.8% | ⏳ pendiente | — |
-| sentrio | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 88% | 10.00 | 9.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 76% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Julia Adams vs Xin | Xinyu Gao (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W50 Prague Women: Julia Adams vs Xin | Xinyu Gao (BUY) | 87% | 10.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 51% | 10.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 44% | 10.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 42% | 10.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 50% | 10.00 | 3.5% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 42% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 10.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Ksen | Ksenia Zaytseva (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | San Francisco Giants vs. Cleveland Guard | Cleveland Guardians (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Meiling Wang vs | Chenting Zhu (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 72% | 10.00 | 3.6% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ✅ ganada | +1.11 |
-| RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Gaeul Jang (BUY) | 59% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 4.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Gilles Arnaud Bailly (BUY) | 44% | 10.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 1.3% | ✅ ganada | +8.52 |
+| HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ✅ ganada | +0.31 |
+| RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Yuquan Jin (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Chen Hui Ho (BUY) | 47% | 10.00 | 3.8% | ✅ ganada | +11.28 |
+| RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 9.7% | ✅ ganada | +0.31 |
+| RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Alisa Vasileva (BUY) | 59% | 10.00 | 5.5% | ❌ perdida | -10.00 |
+| RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
+| sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.6% | ❌ perdida | -10.00 |
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ✅ ganada | +10.41 |
+| RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ✅ ganada | +0.75 |
+| swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ❌ perdida | -10.00 |
+| swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
+| swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ❌ perdida | -10.00 |
+| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.7% | ✅ ganada | +4.49 |
+| swisstony | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 89% | 10.00 | 2.9% | ✅ ganada | +1.24 |
+| RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Maiko Uchijima (BUY) | 73% | 10.00 | 1.5% | ✅ ganada | +3.70 |
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ❌ perdida | -10.00 |
+| RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ✅ ganada | +4.93 |
+| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ❌ perdida | -10.00 |
+| RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ✅ ganada | +2.35 |
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.3% | ❌ perdida | -10.00 |
+| RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 2.1% | ❌ perdida | -10.00 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 31959.3% | ✅ ganada | +6.13 |
+| RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 8.0% | ✅ ganada | +4.08 |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 16.0% | ✅ ganada | +7.86 |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 10.7% | ✅ ganada | +7.54 |
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 18.7% | ✅ ganada | +2.82 |

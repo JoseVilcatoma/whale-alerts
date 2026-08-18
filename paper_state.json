@@ -1,5 +1,5 @@
 {
-  "bankroll": 796.8200926727146,
+  "bankroll": 814.8394163442123,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2762,94 +2762,74 @@
       "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin"
     },
     {
-      "timestamp": 1787036052.1012826,
-      "bankroll": 827.37,
-      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong"
-    },
-    {
-      "timestamp": 1787036299.034717,
-      "bankroll": 817.37,
-      "event": "lost: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
-    },
-    {
-      "timestamp": 1787036299.435517,
-      "bankroll": 828.64,
-      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
-    },
-    {
-      "timestamp": 1787037220.8748605,
-      "bankroll": 830.55,
+      "timestamp": 1787046369.2902794,
+      "bankroll": 828.96,
       "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 3.5"
     },
     {
-      "timestamp": 1787037221.6587796,
-      "bankroll": 832.89,
-      "event": "won: RN1 \u2014 Will CF Pachuca win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787037221.9422987,
-      "bankroll": 837.82,
-      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
-    },
-    {
-      "timestamp": 1787037222.1426458,
-      "bankroll": 842.31,
-      "event": "won: swisstony \u2014 Will CF Pachuca win on 2026-08-17?"
-    },
-    {
-      "timestamp": 1787037222.2429793,
-      "bankroll": 832.31,
-      "event": "lost: swisstony \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
-    },
-    {
-      "timestamp": 1787037663.4129622,
-      "bankroll": 832.62,
-      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang"
-    },
-    {
-      "timestamp": 1787038719.7344043,
-      "bankroll": 836.32,
-      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
-    },
-    {
-      "timestamp": 1787038720.336658,
-      "bankroll": 826.32,
-      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
-    },
-    {
-      "timestamp": 1787038968.5244112,
-      "bankroll": 816.32,
+      "timestamp": 1787046369.827572,
+      "bankroll": 818.96,
       "event": "lost: RN1 \u2014 Will Club Puebla win on 2026-08-17?"
     },
     {
-      "timestamp": 1787038968.6246457,
-      "bankroll": 806.32,
+      "timestamp": 1787046370.0839293,
+      "bankroll": 821.31,
+      "event": "won: RN1 \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046370.3662307,
+      "bankroll": 826.23,
+      "event": "won: RN1 \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787046370.6268988,
+      "bankroll": 829.93,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787046370.727065,
+      "bankroll": 834.43,
+      "event": "won: swisstony \u2014 Will CF Pachuca win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787046370.8272471,
+      "bankroll": 824.43,
+      "event": "lost: swisstony \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787046370.9274302,
+      "bankroll": 814.43,
       "event": "lost: swisstony \u2014 Will Club Puebla win on 2026-08-17?"
     },
     {
-      "timestamp": 1787044067.048693,
-      "bankroll": 807.19,
-      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Kamonwan Yodpetch vs Tiana Tian Deng"
+      "timestamp": 1787046371.1805623,
+      "bankroll": 804.43,
+      "event": "lost: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
     },
     {
-      "timestamp": 1787044310.737171,
-      "bankroll": 815.71,
+      "timestamp": 1787046371.5180361,
+      "bankroll": 794.43,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787046371.7992191,
+      "bankroll": 794.74,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong"
+    },
+    {
+      "timestamp": 1787046371.899376,
+      "bankroll": 806.01,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho"
+    },
+    {
+      "timestamp": 1787046372.2889404,
+      "bankroll": 806.32,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang"
+    },
+    {
+      "timestamp": 1787046372.7228904,
+      "bankroll": 814.84,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
-    },
-    {
-      "timestamp": 1787044311.3383534,
-      "bankroll": 805.71,
-      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
-    },
-    {
-      "timestamp": 1787045177.2965486,
-      "bankroll": 795.71,
-      "event": "lost: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Gokberk Saritas vs Egor Khotchenkov"
-    },
-    {
-      "timestamp": 1787045180.5890572,
-      "bankroll": 796.82,
-      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Gokberk Saritas vs Egor Khotchenkov"
     }
   ]
 }
