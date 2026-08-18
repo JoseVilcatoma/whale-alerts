@@ -11670,8 +11670,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.95,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11693,8 +11693,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.95,
     "overlaps_with": [
       "RN1"
     ],
@@ -12245,8 +12245,8 @@
     "paper_stake_usd": 2.6,
     "odds_at_bet": 55,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.13,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -12337,8 +12337,8 @@
     "paper_stake_usd": 0.0,
     "odds_at_bet": 54,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -12436,8 +12436,8 @@
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -0.0,
     "overlaps_with": [
       "RN1",
       "alaskabaked"
@@ -13443,8 +13443,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 67,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.93,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -13491,8 +13491,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "alaskabaked",
       "ferrariChampions2026"
@@ -13564,8 +13564,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 38699.131884,
-    "whale_pct": 11.041,
+    "whale_usd": 47015.131284,
+    "whale_pct": 13.414,
     "whale_value_at_open": 350495.2341,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13580,8 +13580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024449.1272242,
-    "fills": 13
+    "last_fill_at": 1787024771.841162,
+    "fills": 15
   },
   {
     "timestamp": 1787022017,
@@ -13644,8 +13644,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1",
       "alaskabaked",
@@ -13665,8 +13665,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 28906.594417,
-    "whale_pct": 9.024,
+    "whale_usd": 30081.016717,
+    "whale_pct": 9.39,
     "whale_value_at_open": 320336.6742,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13676,8 +13676,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024190.758442,
-    "fills": 9
+    "last_fill_at": 1787024666.4037867,
+    "fills": 10
   },
   {
     "timestamp": 1787023134,
@@ -13688,8 +13688,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 8377.347443999999,
-    "whale_pct": 3.727,
+    "whale_usd": 11980.887443999998,
+    "whale_pct": 5.33,
     "whale_value_at_open": 224802.0587,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13701,8 +13701,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787024190.7371566,
-    "fills": 3
+    "last_fill_at": 1787024780.9515548,
+    "fills": 5
   },
   {
     "timestamp": 1787023154,
