@@ -1,5 +1,5 @@
 {
-  "bankroll": 825.7872459089372,
+  "bankroll": 825.9913275415902,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3075,6 +3075,11 @@
       "timestamp": 1787072538.8580992,
       "bankroll": 825.79,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Sandra Samir vs Polina Leykina"
+    },
+    {
+      "timestamp": 1787072799.6179528,
+      "bankroll": 825.99,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Liam Draxl vs Andres Andrade"
     }
   ]
 }
