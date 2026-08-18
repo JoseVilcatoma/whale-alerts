@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:18:08 (hora de Perú)
+Actualizado: 2026-08-18 12:20:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $819.88
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:18:08 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $389.88)
+**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $379.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 26 | 9 | 6 | +7.83 USD |
+| swisstony | 26 | 9 | 7 | +7.83 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -185,10 +185,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 93% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 76% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 46% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 89% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 7.1% | ⏳ pendiente | — |
 | swisstony | Will Al Okhdood SC win on 2026-08-18? | Yes (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -198,7 +199,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Xiyu Wang vs Elina Svit | Elina Svitolina (BUY) | 75% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 80% | 10.00 | 7.7% | ⏳ pendiente | — |
 | sentrio | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: James Watt vs Ugo Blanchet | Ugo Blanchet (BUY) | 69% | 10.00 | 5.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: James Watt vs Ugo Blanchet | Ugo Blanchet (BUY) | 69% | 10.00 | 5.8% | ⏳ pendiente | — |
 | sentrio | Spread: Indiana Fever (-10.5) | Toronto Tempo (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will AEK win on 2026-08-18? | Yes (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | sentrio | PFK Levski Sofia vs. AEK: Both Teams to  | No (BUY) | 51% | 10.00 | 3.6% | ⏳ pendiente | — |
@@ -214,4 +215,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Juan Estevez (BUY) | 65% | 10.00 | 9.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 1.1% | ✅ ganada | +0.42 |
-| ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
