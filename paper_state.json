@@ -1,5 +1,5 @@
 {
-  "bankroll": 811.2198295866206,
+  "bankroll": 810.7326225086674,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2860,6 +2860,31 @@
       "timestamp": 1787054445.4426541,
       "bankroll": 811.22,
       "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Mayuka Aikawa vs Barbora Michalkova"
+    },
+    {
+      "timestamp": 1787054825.1370673,
+      "bankroll": 825.61,
+      "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Yuquan Jin vs Xin Zhou"
+    },
+    {
+      "timestamp": 1787054825.237174,
+      "bankroll": 815.61,
+      "event": "lost: RN1 \u2014 ITF M15 Maanshan 7 Men: Yuquan Jin vs Xin Zhou"
+    },
+    {
+      "timestamp": 1787054826.8188004,
+      "bankroll": 805.61,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Samira De Stefano vs Antonia Vergara Rivera"
+    },
+    {
+      "timestamp": 1787054828.098464,
+      "bankroll": 806.03,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Dominic Stephan Stricker vs Raphael Perot"
+    },
+    {
+      "timestamp": 1787054828.398796,
+      "bankroll": 810.73,
+      "event": "won: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Samira De Stefano vs Antonia Vergara Rivera"
     }
   ]
 }
