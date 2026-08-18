@@ -14429,8 +14429,8 @@
     "title": "ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid",
     "outcome": "Lucie Havlickova",
     "side": "BUY",
-    "whale_usd": 950.3308,
-    "whale_pct": 0.517,
+    "whale_usd": 1935.4213,
+    "whale_pct": 1.053,
     "whale_value_at_open": 183847.4589,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
@@ -14442,8 +14442,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787057595.7775972,
-    "fills": 1
+    "last_fill_at": 1787058046.1134086,
+    "fills": 2
   },
   {
     "timestamp": 1787057888,
@@ -14466,6 +14466,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787057888.7388797,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787057924,
+    "timestamp_added": 1787057924.8764524,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-det-pit-2026-08-18-total-7pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4600.3032,
+    "whale_pct": 8.67,
+    "whale_value_at_open": 53062.7056,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787057924.8764606,
     "fills": 1
   }
 ]
