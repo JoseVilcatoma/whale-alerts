@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 05:34:56 (hora de Perú)
+Actualizado: 2026-08-18 05:36:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.84
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 05:34:56 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $594.84)
+**Capital comprometido ahora mismo:** $220.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $584.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 63 | 11 | -104.76 USD |
+| ferrariChampions2026 | 88 | 63 | 12 | -104.76 USD |
 
 ## Análisis general
 
@@ -176,6 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Martin Krumich (BUY) | 93% | 10.00 | 0.4% | ⏳ pendiente | — |
 | sentrio | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 85% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Antonia Vergara Rivera (BUY) | 41% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Chun-Hsin Tseng (BUY) | 95% | 10.00 | 1.7% | ⏳ pendiente | — |
@@ -205,4 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ❌ perdida | -10.00 |
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ❌ perdida | -10.00 |
-| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.7% | ✅ ganada | +4.49 |
