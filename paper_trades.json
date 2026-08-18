@@ -12642,8 +12642,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 4118.165,
-    "whale_pct": 1.955,
+    "whale_usd": 6379.316,
+    "whale_pct": 3.029,
     "whale_value_at_open": 210641.5285,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -12655,8 +12655,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026020.7077146,
-    "fills": 2
+    "last_fill_at": 1787026958.6109235,
+    "fills": 3
   },
   {
     "timestamp": 1787026076,
@@ -12788,8 +12788,8 @@
     "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
     "outcome": "Hanlei Lu",
     "side": "BUY",
-    "whale_usd": 15240.24,
-    "whale_pct": 4102.803,
+    "whale_usd": 27732.099038999997,
+    "whale_pct": 7465.719,
     "whale_value_at_open": 371.4592,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -12799,8 +12799,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026813.430766,
-    "fills": 6
+    "last_fill_at": 1787026951.4263527,
+    "fills": 10
   },
   {
     "timestamp": 1787026793,
@@ -12834,8 +12834,8 @@
     "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
     "outcome": "Vladimir Osminkin",
     "side": "BUY",
-    "whale_usd": 3001.2,
-    "whale_pct": 1.312,
+    "whale_usd": 7888.4,
+    "whale_pct": 3.449,
     "whale_value_at_open": 228733.5795,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -12847,8 +12847,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026813.453266,
-    "fills": 3
+    "last_fill_at": 1787026951.425308,
+    "fills": 6
   },
   {
     "timestamp": 1787026931,
