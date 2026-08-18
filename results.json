@@ -6200,5 +6200,20 @@
     "status": "pending",
     "ultimo_fill": 1787096283,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 852,
+    "timestamp": 1787096943,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-atl-las-2026-08-18-spread-home-3pt5",
+    "title": "Spread: Las Vegas Aces (-3.5)",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "usd": 30361.780000000002,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787096943,
+    "fills": 1
   }
 ]

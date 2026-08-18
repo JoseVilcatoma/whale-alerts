@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 18:47:01 (hora de Perú)
+Actualizado: 2026-08-18 18:49:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **412**  ($20,857,358 en total)
+- Apuestas registradas: **413**  ($20,887,720 en total)
 - Resueltas: **395** — 238 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 123
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winwin518168 | Spread: Las Vegas Aces (-3.5) | Las Vegas Aces | 1.96 (51¢) | $30,362 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
 | kamloic | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.28 (78¢) | $28,437 | — | ⏳ Pendiente |
 | xifutloong3 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 1.89 (53¢) | $26,062 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | +$25,886 | ✅ Ganada |
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | +$47,993 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
