@@ -14477,8 +14477,8 @@
     "title": "Roehampton: Matheus Pucinelli de Almeida vs Peter Makk",
     "outcome": "Peter Makk",
     "side": "BUY",
-    "whale_usd": 5221.5486169999995,
-    "whale_pct": 1.72,
+    "whale_usd": 10688.734217,
+    "whale_pct": 3.522,
     "whale_value_at_open": 303502.7372,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -14488,8 +14488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787067736.511887,
-    "fills": 3
+    "last_fill_at": 1787068484.927965,
+    "fills": 4
   },
   {
     "timestamp": 1787067668,
