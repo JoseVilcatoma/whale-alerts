@@ -15727,8 +15727,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 18058.224967000002,
-    "whale_pct": 6.889,
+    "whale_usd": 19450.762280000003,
+    "whale_pct": 7.42,
     "whale_value_at_open": 262125.398,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15740,8 +15740,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787076193.1478357,
-    "fills": 9
+    "last_fill_at": 1787076253.7134843,
+    "fills": 10
   },
   {
     "timestamp": 1787074548,
@@ -15752,8 +15752,8 @@
     "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 568.845454,
-    "whale_pct": 0.252,
+    "whale_usd": 1070.471054,
+    "whale_pct": 0.475,
     "whale_value_at_open": 225368.6785,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -15765,8 +15765,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074549.1407127,
-    "fills": 1
+    "last_fill_at": 1787076350.6214418,
+    "fills": 2
   },
   {
     "timestamp": 1787074566,
@@ -16277,6 +16277,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787076146.4174688,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787076239,
+    "timestamp_added": 1787076240.0732257,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-johns-santos-2026-08-18",
+    "title": "Kingston: Garrett Johns vs Paulo Dos Santos",
+    "outcome": "Paulo Dos Santos",
+    "side": "BUY",
+    "whale_usd": 12235.989998000001,
+    "whale_pct": 3.937,
+    "whale_value_at_open": 310790.7575,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787076240.0732355,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787076338,
+    "timestamp_added": 1787076339.0861328,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-fen-lyo-2026-08-18-fen",
+    "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 529.0,
+    "whale_pct": 0.172,
+    "whale_value_at_open": 306930.4347,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 47,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026",
+      "sentrio"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787076339.086142,
     "fills": 1
   }
 ]
