@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:07:01 (hora de Perú)
+Actualizado: 2026-08-18 10:09:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $824.05
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: John Echeverria vs Oliver Ta | Oliver Tarvet (BUY) | 97% | 10.00 | 1.4% | ⏳ pendiente | — |
 | bigoon | Prague 2: Maxim Mrva vs Nerman Fatic | Nerman Fatic (BUY) | 56% | 10.00 | 80.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Gerard Campana Lee vs Alex Marti P | Alex Marti Pujolras (BUY) | 68% | 10.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Gerard Campana Lee vs Alex Marti P | Alex Marti Pujolras (BUY) | 68% | 10.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 62% | 10.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 60% | 10.00 | 0.7% | ⏳ pendiente | — |
