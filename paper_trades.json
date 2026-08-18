@@ -11575,8 +11575,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.54,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 3755.9150790000003,
-    "whale_pct": 1.601,
+    "whale_usd": 4836.915079,
+    "whale_pct": 2.061,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787017787.6862068,
-    "fills": 3
+    "last_fill_at": 1787017912.2759008,
+    "fills": 4
   },
   {
     "timestamp": 1787017391,
