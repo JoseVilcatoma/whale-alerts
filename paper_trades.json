@@ -14967,5 +14967,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787070389.6958048,
     "fills": 1
+  },
+  {
+    "timestamp": 1787070536,
+    "timestamp_added": 1787070536.669115,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-draxl-andrade-2026-08-17",
+    "title": "Kingston: Liam Draxl vs Andres Andrade",
+    "outcome": "Andres Andrade",
+    "side": "BUY",
+    "whale_usd": 2880.0,
+    "whale_pct": 1.141,
+    "whale_value_at_open": 252492.421,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 98,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787070536.6691217,
+    "fills": 1
   }
 ]
