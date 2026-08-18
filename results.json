@@ -6065,5 +6065,20 @@
     "status": "pending",
     "ultimo_fill": 1787090756,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 842,
+    "timestamp": 1787090927,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "atp-cerund-augeral-2026-08-18",
+    "title": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
+    "outcome": "Felix Auger-Aliassime",
+    "side": "BUY",
+    "usd": 41000.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1787090927,
+    "fills": 1
   }
 ]
