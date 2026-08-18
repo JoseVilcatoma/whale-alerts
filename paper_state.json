@@ -1,5 +1,5 @@
 {
-  "bankroll": 835.9698548822337,
+  "bankroll": 829.6365215489003,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2135,6 +2135,11 @@
       "timestamp": 1787010851.7101853,
       "bankroll": 835.97,
       "event": "won: RN1 \u2014 Cincinnati Open: Rafael Jodar vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1787011910.9178236,
+      "bankroll": 829.64,
+      "event": "venta anticipada: alaskabaked \u2014 Baltimore Orioles vs. Tampa Bay Rays (-6.33 USD)"
     }
   ]
 }
