@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 73495.82388699999,
-    "whale_pct": 16.473,
+    "whale_usd": 81464.57588699998,
+    "whale_pct": 18.259,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022112.569673,
-    "fills": 18
+    "last_fill_at": 1787022247.4368327,
+    "fills": 19
   },
   {
     "timestamp": 1787015430,
@@ -12430,8 +12430,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 15077.603287999998,
-    "whale_pct": 3.309,
+    "whale_usd": 15979.613764999998,
+    "whale_pct": 3.507,
     "whale_value_at_open": 455626.8622,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
@@ -12444,8 +12444,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020513.0022926,
-    "fills": 3
+    "last_fill_at": 1787022270.589128,
+    "fills": 4
   },
   {
     "timestamp": 1787015473,
@@ -12716,8 +12716,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 4547.25,
-    "whale_pct": 1.774,
+    "whale_usd": 5373.659591,
+    "whale_pct": 2.096,
     "whale_value_at_open": 256384.9831,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -12729,8 +12729,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020875.9370346,
-    "fills": 3
+    "last_fill_at": 1787022239.3471074,
+    "fills": 4
   },
   {
     "timestamp": 1787018128,
