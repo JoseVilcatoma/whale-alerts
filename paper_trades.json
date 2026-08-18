@@ -15939,5 +15939,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787074983.205007,
     "fills": 1
+  },
+  {
+    "timestamp": 1787075187,
+    "timestamp_added": 1787075187.5658896,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-aguilar-2026-08-18",
+    "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "whale_usd": 4798.08,
+    "whale_pct": 2.108,
+    "whale_value_at_open": 227591.9841,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075187.5658975,
+    "fills": 1
   }
 ]
