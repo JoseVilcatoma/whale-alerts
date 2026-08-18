@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:13:47 (hora de Perú)
+Actualizado: 2026-08-17 20:15:52 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $832.26
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:13:47 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $807.67 en 93 posiciones abiertas (disponible para nuevas apuestas: $24.59)
+**Capital comprometido ahora mismo:** $817.67 en 94 posiciones abiertas (disponible para nuevas apuestas: $14.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 47 | 23 | 27 | -32.39 USD |
+| RN1 | 47 | 23 | 28 | -32.39 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 60 | 47 | 40 | -94.73 USD |
@@ -166,6 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
@@ -195,4 +196,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 98% | 10.00 | 5.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 9.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 91% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
