@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:26:17 (hora de Perú)
+Actualizado: 2026-08-17 20:28:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $841.62
-**Retorno acumulado:** -15.84%
+**Bankroll actual:** $827.52
+**Retorno acumulado:** -17.25%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:26:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $727.67 en 85 posiciones abiertas (disponible para nuevas apuestas: $113.95)
+**Capital comprometido ahora mismo:** $687.67 en 81 posiciones abiertas (disponible para nuevas apuestas: $139.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,29 +35,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
+| Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | SDTrading | 2 | 2 | 1 | -1.87 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| Sassy-Bucket | 4 | 7 | 1 | -9.88 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 1 | 3 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
-| HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 50 | 24 | 25 | -28.30 USD |
+| RN1 | 50 | 24 | 26 | -28.30 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
+| HomeRunHazard | 22 | 15 | 5 | -46.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 64 | 48 | 35 | -79.45 USD |
+| ferrariChampions2026 | 65 | 49 | 33 | -82.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 433
-- **Aciertos:** 252 (58.2%)
-- **Cuota promedio de entrada:** 59.3%
+- **Apuestas resueltas:** 438
+- **Aciertos:** 254 (58.0%)
+- **Cuota promedio de entrada:** 59.2%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,330.00
-- **ROI sobre lo apostado:** -4.67%
+- **Total apostado (suma de stakes):** $4,380.00
+- **ROI sobre lo apostado:** -4.94%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,8 +67,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 198 | 48.5% | 49.6% | -1.1 pp |
-| 60-79% | 128 | 68.8% | 69.4% | -0.7 pp |
+| 40-59% | 202 | 48.0% | 49.6% | -1.5 pp |
+| 60-79% | 129 | 69.0% | 69.4% | -0.4 pp |
 | 80-94% | 44 | 93.2% | 86.4% | +6.7 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
 
@@ -144,6 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
 | arg-gye-tal-2026-08-17-tal | ferrariChampions2026, swisstony |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
+| mlb-mia-phi-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1 |
 | atp-alves-pavlovi-2026-08-17 | HVAB, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-oak-kc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, ferrariChampions2026 |
@@ -167,6 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 96% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
@@ -196,4 +198,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 98% | 10.00 | 5.9% | ✅ ganada | +0.20 |
-| RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 9.2% | ⏳ pendiente | — |
