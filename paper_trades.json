@@ -13431,8 +13431,8 @@
     "title": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos",
     "outcome": "Norbert Gombos",
     "side": "BUY",
-    "whale_usd": 7600.467457000001,
-    "whale_pct": 4.188,
+    "whale_usd": 8101.175993000001,
+    "whale_pct": 4.464,
     "whale_value_at_open": 181488.7453,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -13442,8 +13442,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787051872.3364956,
-    "fills": 6
+    "last_fill_at": 1787052260.5045452,
+    "fills": 7
   },
   {
     "timestamp": 1787046932,
@@ -13998,6 +13998,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787052194.792584,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787052363,
+    "timestamp_added": 1787052364.3793156,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ucl-fen-lyo-2026-08-18-total-4pt5",
+    "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1593.9984,
+    "whale_pct": 8.493,
+    "whale_value_at_open": 18768.5694,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 85,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787052364.3793273,
     "fills": 1
   }
 ]
