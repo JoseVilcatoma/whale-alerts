@@ -1,5 +1,5 @@
 {
-  "bankroll": 833.7022215954643,
+  "bankroll": 841.6245196462248,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2235,6 +2235,46 @@
       "timestamp": 1787015936.2260532,
       "bankroll": 833.7,
       "event": "won: RN1 \u2014 Cincinnati Open: Rinky Hijikata vs Jakub Mensik"
+    },
+    {
+      "timestamp": 1787016115.391143,
+      "bankroll": 837.59,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1787016115.491303,
+      "bankroll": 841.48,
+      "event": "won: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1787016242.007474,
+      "bankroll": 851.48,
+      "event": "won: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787016242.1076376,
+      "bankroll": 862.76,
+      "event": "won: ferrariChampions2026 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787016242.3079774,
+      "bankroll": 852.76,
+      "event": "lost: ferrariChampions2026 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787016242.4081585,
+      "bankroll": 842.76,
+      "event": "lost: RN1 \u2014 Baltimore Orioles vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787016244.5024724,
+      "bankroll": 851.62,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1787016244.6026042,
+      "bankroll": 841.62,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5"
     }
   ]
 }
