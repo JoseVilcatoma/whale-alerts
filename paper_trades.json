@@ -13352,5 +13352,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787034446.8065104,
     "fills": 1
+  },
+  {
+    "timestamp": 1787035567,
+    "timestamp_added": 1787035567.722343,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kalyaki-dabinki-2026-08-18",
+    "title": "ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim",
+    "outcome": "Dabin Kim",
+    "side": "BUY",
+    "whale_usd": 1910.39,
+    "whale_pct": 1.338,
+    "whale_value_at_open": 142775.7216,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787035568.2133117,
+    "fills": 2
   }
 ]
