@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 02:00:27 (hora de Perú)
+Actualizado: 2026-08-18 02:02:31 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $828.64
@@ -175,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ⏳ pendiente | — |

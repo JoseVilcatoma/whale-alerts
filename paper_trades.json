@@ -13385,8 +13385,8 @@
     "title": "Los Angeles Sparks vs. Connecticut Sun: O/U 172.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 690.9987,
-    "whale_pct": 1.5,
+    "whale_usd": 1347.9976,
+    "whale_pct": 2.926,
     "whale_value_at_open": 46075.7488,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -13396,7 +13396,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787036411.7654564,
-    "fills": 1
+    "last_fill_at": 1787036443.7479367,
+    "fills": 2
   }
 ]
