@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:03:52 (hora de Perú)
+Actualizado: 2026-08-18 04:05:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -211,5 +211,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Båstad Men: Oren Vasser vs Chris | Oren Vasser (BUY) | 87% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Luca Staeheli vs Andrey Chepelev | Luca Staeheli (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 5.1% | ⏳ pendiente | — |
-| HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 3.5% | ⏳ pendiente | — |
+| HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 8.8% | ⏳ pendiente | — |
