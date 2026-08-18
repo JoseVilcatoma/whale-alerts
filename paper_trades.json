@@ -12602,8 +12602,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -13182,8 +13182,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 9.23,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -13828,8 +13828,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.63,
     "overlaps_with": [
       "Lakersfan111",
       "sentrio"
@@ -13900,8 +13900,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 67,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.93,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

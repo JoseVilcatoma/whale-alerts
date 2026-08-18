@@ -1,5 +1,5 @@
 {
-  "bankroll": 824.5106502848383,
+  "bankroll": 849.5254688574494,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3010,6 +3010,26 @@
       "timestamp": 1787067707.2801483,
       "bankroll": 824.51,
       "event": "lost: 111111111115 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787068324.048662,
+      "bankroll": 833.74,
+      "event": "won: Lakersfan111 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1787068324.1488178,
+      "bankroll": 842.97,
+      "event": "won: sentrio \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1787068325.6157954,
+      "bankroll": 844.6,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs"
+    },
+    {
+      "timestamp": 1787068325.919984,
+      "bankroll": 849.53,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner"
     }
   ]
 }
