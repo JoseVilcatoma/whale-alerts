@@ -1,5 +1,5 @@
 {
-  "bankroll": 831.3254688574493,
+  "bankroll": 831.6347472079648,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3040,6 +3040,11 @@
       "timestamp": 1787070080.1861393,
       "bankroll": 831.33,
       "event": "venta anticipada: alaskabaked \u2014 Cincinnati Open: Andrey Rublev vs Nuno Borges (-8.20 USD)"
+    },
+    {
+      "timestamp": 1787070961.4890208,
+      "bankroll": 831.63,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Benjamin Hassan vs Oleksandr Ovcharenko"
     }
   ]
 }
