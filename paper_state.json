@@ -1,5 +1,5 @@
 {
-  "bankroll": 832.3129893381921,
+  "bankroll": 832.6222676887076,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2800,6 +2800,11 @@
       "timestamp": 1787037222.2429793,
       "bankroll": 832.31,
       "event": "lost: swisstony \u2014 CF Pachuca vs. Club Puebla: O/U 4.5"
+    },
+    {
+      "timestamp": 1787037663.4129622,
+      "bankroll": 832.62,
+      "event": "won: RN1 \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang"
     }
   ]
 }
