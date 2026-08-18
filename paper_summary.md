@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 11:23:27 (hora de Perú)
+Actualizado: 2026-08-18 11:25:32 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $831.33
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 11:23:27 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $551.33)
+**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $541.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 3 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 25 | 9 | 1 | +7.41 USD |
+| swisstony | 25 | 9 | 2 | +7.41 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -175,17 +175,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
 | atp-rublev-borges-2026-08-18 | Kulilun, alaskabaked, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
-| atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026 |
+| atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 97% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 1 Winn | Solary (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Juan Estevez (BUY) | 65% | 10.00 | 9.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Geoffrey Blancaneaux (BUY) | 51% | 10.00 | 1.2% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 50% | 10.00 | 15.5% | 💰 vendida anticipada | -8.20 |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 1.2% | ✅ ganada | +8.18 |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 64% | 10.00 | 116.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ✅ ganada | +6.95 |
-| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ✅ ganada | +4.49 |

@@ -14740,8 +14740,8 @@
     "title": "Cincinnati Open: Katerina Siniakova vs Madison Keys",
     "outcome": "Madison Keys",
     "side": "BUY",
-    "whale_usd": 606.9449999999999,
-    "whale_pct": 0.235,
+    "whale_usd": 2973.8349830000006,
+    "whale_pct": 1.15,
     "whale_value_at_open": 258695.6702,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -14753,8 +14753,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787069557.5535135,
-    "fills": 1
+    "last_fill_at": 1787070275.9362714,
+    "fills": 2
   },
   {
     "timestamp": 1787069612,
@@ -14824,5 +14824,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787069835.6080115,
     "fills": 1
+  },
+  {
+    "timestamp": 1787070262,
+    "timestamp_added": 1787070262.8796277,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "atp-prado-ficovic-2026-08-17",
+    "title": "Kingston: Juan Carlos Prado vs Juan Pablo Ficovich",
+    "outcome": "Juan Carlos Prado",
+    "side": "BUY",
+    "whale_usd": 4756.8906,
+    "whale_pct": 1.923,
+    "whale_value_at_open": 247406.0091,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787070290.559724,
+    "fills": 2
   }
 ]
