@@ -12763,8 +12763,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 5106.538866,
-    "whale_pct": 2.376,
+    "whale_usd": 8045.918866,
+    "whale_pct": 3.743,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -12776,8 +12776,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027226.918514,
-    "fills": 2
+    "last_fill_at": 1787028215.7065034,
+    "fills": 3
   },
   {
     "timestamp": 1787026770,
@@ -12955,8 +12955,8 @@
     "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
     "outcome": "Maiko Uchijima",
     "side": "BUY",
-    "whale_usd": 2461.0699999999997,
-    "whale_pct": 0.888,
+    "whale_usd": 3703.0699999999997,
+    "whale_pct": 1.337,
     "whale_value_at_open": 277064.2368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -12966,7 +12966,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787028141.095346,
-    "fills": 2
+    "last_fill_at": 1787028186.1633673,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787028194,
+    "timestamp_added": 1787028194.804428,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-eala-anisimo-2026-08-17",
+    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 8470.399999,
+    "whale_pct": 2.923,
+    "whale_value_at_open": 289798.6458,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787028194.8044407,
+    "fills": 1
   }
 ]
