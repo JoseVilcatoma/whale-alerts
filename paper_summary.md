@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 13:05:53 (hora de Perú)
+Actualizado: 2026-08-18 13:08:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $823.58
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 13:05:53 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $740.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $83.58)
+**Capital comprometido ahora mismo:** $760.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $63.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 2 | +8.78 USD |
-| swisstony | 27 | 9 | 19 | +8.14 USD |
+| swisstony | 27 | 9 | 20 | +8.14 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 119 | 74 | 24 | -77.94 USD |
+| ferrariChampions2026 | 119 | 74 | 25 | -77.94 USD |
 
 ## Análisis general
 
@@ -196,6 +196,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Galions vs Karmine Corp Blue - Game | Galions (BUY) | 88% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Spread: AEK (-2.5) | PFK Levski Sofia (BUY) | 96% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 47% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Kingston: Garrett Johns vs Paulo Dos San | Paulo Dos Santos (BUY) | 97% | 10.00 | 3.9% | ⏳ pendiente | — |
 | HVAB | ITF W35 Bistrita Women: Jessica Pieri vs | Jessica Pieri (BUY) | 99% | 10.00 | 29.2% | ⏳ pendiente | — |
@@ -214,7 +216,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 99% | 10.00 | 2.1% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 53% | 10.00 | 2.5% | ⏳ pendiente | — |
-| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.9% | ⏳ pendiente | — |
+| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 94% | 10.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
@@ -224,5 +226,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim vs. Bayern Munich  | No (BUY) | 94% | 10.00 | 2.6% | ⏳ pendiente | — |
-| swisstony | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 99% | 10.00 | 3.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 91% | 10.00 | 3.2% | ⏳ pendiente | — |
