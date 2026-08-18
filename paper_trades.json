@@ -13776,8 +13776,8 @@
     "title": "Sion: Tommaso Compagnucci vs Max Dahlin",
     "outcome": "Tommaso Compagnucci",
     "side": "BUY",
-    "whale_usd": 1947.0058999999997,
-    "whale_pct": 3.531,
+    "whale_usd": 2582.7059,
+    "whale_pct": 4.684,
     "whale_value_at_open": 55144.3282,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -13789,8 +13789,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787043029.9728742,
-    "fills": 2
+    "last_fill_at": 1787043844.3226032,
+    "fills": 3
   },
   {
     "timestamp": 1787042264,
