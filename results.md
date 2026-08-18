@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 19:55:34 (hora de Perú)
+Actualizado: 2026-08-17 19:57:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **378**  ($19,448,794 en total)
+- Apuestas registradas: **379**  ($19,475,446 en total)
 - Resueltas: **365** — 218 ganadas / 147 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 114
 
 ### Balance
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 3 | 0 | 1 | ⚠️ 100% (3) | $115,304 | +$11,308 |
 | 0x77Da7F9C062Fa3D1a0F8c13c25e1DE38245C024a-1772652981363 | 2 | 0 | 0 | ⚠️ 100% (2) | $110,111 | +$32,890 |
 | TAIWANNUMBERONE | 4 | 0 | 0 | ⚠️ 100% (4) | $109,036 | +$35,677 |
 | suntori | 2 | 1 | 0 | ⚠️ 67% (3) | $105,133 | -$18,697 |
-| sleepy-panda | 0 | 3 | 0 | ⚠️ 0% (3) | $100,978 | -$100,978 |
 
 _(mostrando los 40 de mayor monto, de 114 en total)_
 
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | +$4,386 | 💰 Vendida antes |
+| 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.27 (79¢) | $26,652 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
 | xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | SDTrading | Miami Marlins vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.82 (55¢) | $47,874 | -$47,874 | ❌ Perdida |
 | 3edmond.dantes | Will RCD Espanyol de Barcelona win on 2026-08-16? | Yes | 2.17 (46¢) | $84,252 | +$98,904 | ✅ Ganada |
-| cryptojo | Cincinnati Open: Janice Tjen vs Viktorija Golubic | Janice Tjen | 1.12 (89¢) | $25,712 | +$3,178 | ✅ Ganada |
