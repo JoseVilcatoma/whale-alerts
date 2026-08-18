@@ -14396,5 +14396,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787056951.5598032,
     "fills": 1
+  },
+  {
+    "timestamp": 1787057416,
+    "timestamp_added": 1787057416.8276963,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-batalla-papoe-2026-08-18",
+    "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
+    "outcome": "Oriol Roca Batalla",
+    "side": "BUY",
+    "whale_usd": 6762.2614,
+    "whale_pct": 3.836,
+    "whale_value_at_open": 176289.0555,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787057438.3838854,
+    "fills": 2
   }
 ]
