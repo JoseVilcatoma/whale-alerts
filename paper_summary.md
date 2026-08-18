@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:51:57 (hora de Perú)
+Actualizado: 2026-08-17 21:53:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $827.42
@@ -178,9 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
-| kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 57.2% | ⏳ pendiente | — |
+| kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
 | TennisLove | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 3.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 3.2% | ⏳ pendiente | — |
 | RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
