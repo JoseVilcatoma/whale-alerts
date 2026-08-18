@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.3208978256938,
+  "bankroll": 807.1904630430851,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2825,6 +2825,11 @@
       "timestamp": 1787038968.6246457,
       "bankroll": 806.32,
       "event": "lost: swisstony \u2014 Will Club Puebla win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787044067.048693,
+      "bankroll": 807.19,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Kamonwan Yodpetch vs Tiana Tian Deng"
     }
   ]
 }
