@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 09:21:29 (hora de Perú)
+Actualizado: 2026-08-18 09:23:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **390**  ($19,845,456 en total)
-- Resueltas: **386** — 232 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **387** — 233 ganadas / 154 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 117
 
 ### Balance
 
-- **Resultado de los apostadores: +$962,672** sobre $19,731,888 apostados (ROI **+4.9%**)
-- Copiando $100 fijo en cada una: **-$1,119** sobre $37,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$982,077** sobre $19,757,612 apostados (ROI **+5.0%**)
+- Copiando $100 fijo en cada una: **-$1,044** sobre $37,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
-| xabidaking | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.75 (57¢) | $25,724 | — | ⏳ Pendiente |
+| xabidaking | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.75 (57¢) | $25,724 | +$19,406 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $54,488 | +$21,190 | ✅ Ganada |
 | IlIIIIlIl | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 1.92 (52¢) | $30,898 | -$30,898 | ❌ Perdida |
