@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:52:20 (hora de Perú)
+Actualizado: 2026-08-18 10:38:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $799.83
-**Retorno acumulado:** -20.02%
+**Bankroll actual:** $824.90
+**Retorno acumulado:** -17.51%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:52:20 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $449.83)
+**Capital comprometido ahora mismo:** $190.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $634.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,9 +41,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| RN1 | 84 | 38 | 1 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 81 | 37 | 5 | -13.93 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 98 | 68 | 17 | -114.15 USD |
+| ferrariChampions2026 | 107 | 71 | 5 | -96.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 562
-- **Aciertos:** 334 (59.4%)
-- **Cuota promedio de entrada:** 61.0%
-- **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,497.67
-- **ROI sobre lo apostado:** -4.44%
+- **Apuestas resueltas:** 578
+- **Aciertos:** 346 (59.9%)
+- **Cuota promedio de entrada:** 61.1%
+- **Stake promedio:** $9.79
+- **Total apostado (suma de stakes):** $5,657.67
+- **ROI sobre lo apostado:** -3.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,10 +70,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 253 | 48.2% | 49.7% | -1.5 pp |
-| 60-79% | 163 | 69.3% | 68.9% | +0.4 pp |
-| 80-94% | 74 | 85.1% | 86.7% | -1.6 pp |
-| 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
+| 40-59% | 260 | 48.8% | 49.8% | -0.9 pp |
+| 60-79% | 168 | 69.6% | 68.8% | +0.9 pp |
+| 80-94% | 77 | 84.4% | 86.6% | -2.2 pp |
+| 95-99% (casi seguro) | 28 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -180,24 +180,24 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 6.7% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 56% | 10.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Alec Deckers vs Patrick Brad | Patrick Brady (BUY) | 84% | 10.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ✅ ganada | +0.53 |
+| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 6.7% | ❌ perdida | -10.00 |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ✅ ganada | +8.87 |
+| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 41% | 10.00 | 0.9% | ❌ perdida | -10.00 |
+| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 5.5% | ✅ ganada | +7.54 |
+| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 56% | 10.00 | 1.7% | ✅ ganada | +7.86 |
+| ferrariChampions2026 | Roehampton: Alec Deckers vs Patrick Brad | Patrick Brady (BUY) | 84% | 10.00 | 2.6% | ✅ ganada | +1.90 |
+| ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 1.2% | ✅ ganada | +8.18 |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 64% | 10.00 | 116.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ✅ ganada | +6.95 |
+| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ✅ ganada | +4.49 |
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Dimitar Kuzmanov vs Marvin Moeller | Dimitar Kuzmanov (BUY) | 66% | 10.00 | 4.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ✅ ganada | +4.71 |
+| ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ✅ ganada | +6.39 |
+| ferrariChampions2026 | Sion: Dimitar Kuzmanov vs Marvin Moeller | Dimitar Kuzmanov (BUY) | 66% | 10.00 | 4.5% | ✅ ganada | +5.15 |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 85% | 10.00 | 8.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Javier Barranco Cosano (BUY) | 58% | 10.00 | 4.1% | ✅ ganada | +7.24 |
-| ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -206,5 +206,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 86% | 10.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 67% | 10.00 | 6.9% | ⏳ pendiente | — |
 | sentrio | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.9% | ✅ ganada | +2.50 |
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Lui Maxted (BUY) | 61% | 10.00 | 0.9% | ✅ ganada | +6.39 |

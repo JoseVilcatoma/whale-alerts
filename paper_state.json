@@ -1,5 +1,5 @@
 {
-  "bankroll": 799.8282379439937,
+  "bankroll": 824.9028071475834,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2920,6 +2920,86 @@
       "timestamp": 1787057028.0545597,
       "bankroll": 799.83,
       "event": "won: ferrariChampions2026 \u2014 Prague 2: Javier Barranco Cosano vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787067389.976903,
+      "bankroll": 789.83,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1787067390.6777132,
+      "bankroll": 792.33,
+      "event": "won: ferrariChampions2026 \u2014 ITF W15 Logrono Women: Victoria Gomez O'Hayon vs Min Liu"
+    },
+    {
+      "timestamp": 1787067391.84174,
+      "bankroll": 782.33,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage"
+    },
+    {
+      "timestamp": 1787067392.3644123,
+      "bankroll": 787.48,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Dimitar Kuzmanov vs Marvin Moeller"
+    },
+    {
+      "timestamp": 1787067392.4645307,
+      "bankroll": 793.87,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage"
+    },
+    {
+      "timestamp": 1787067392.7807586,
+      "bankroll": 798.58,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Ognjen Milic vs Lucio Ratti"
+    },
+    {
+      "timestamp": 1787067393.1901577,
+      "bankroll": 803.07,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Kia Tigers vs. Hanwha Eagles"
+    },
+    {
+      "timestamp": 1787067393.4977472,
+      "bankroll": 810.02,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Michael Geerts vs Billy Blaydes"
+    },
+    {
+      "timestamp": 1787067393.9087834,
+      "bankroll": 818.2,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Yuta Shimizu vs Anton Matusevich"
+    },
+    {
+      "timestamp": 1787067394.2118957,
+      "bankroll": 820.11,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Alec Deckers vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787067394.5457332,
+      "bankroll": 827.96,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787067394.6458328,
+      "bankroll": 835.51,
+      "event": "won: RN1 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787067394.745963,
+      "bankroll": 825.51,
+      "event": "lost: RN1 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787067395.066329,
+      "bankroll": 834.38,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Denis Klok"
+    },
+    {
+      "timestamp": 1787067395.1664386,
+      "bankroll": 824.38,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787067395.4754984,
+      "bankroll": 824.9,
+      "event": "won: RN1 \u2014 ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid"
     }
   ]
 }
