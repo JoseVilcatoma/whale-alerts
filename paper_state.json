@@ -1,5 +1,5 @@
 {
-  "bankroll": 849.5254688574494,
+  "bankroll": 839.5254688574494,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3030,6 +3030,11 @@
       "timestamp": 1787068325.919984,
       "bankroll": 849.53,
       "event": "won: ferrariChampions2026 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787069261.858541,
+      "bankroll": 839.53,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe"
     }
   ]
 }
