@@ -1,5 +1,5 @@
 {
-  "bankroll": 814.8394163442123,
+  "bankroll": 804.8394163442123,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2830,6 +2830,11 @@
       "timestamp": 1787046372.7228904,
       "bankroll": 814.84,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
+    },
+    {
+      "timestamp": 1787048890.126141,
+      "bankroll": 804.84,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W15 Tianjin 3 Women: Jiangxue Han vs Meng Yi Chen"
     }
   ]
 }
