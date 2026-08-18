@@ -1,5 +1,5 @@
 {
-  "bankroll": 807.1904630430851,
+  "bankroll": 805.7089815616035,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2830,6 +2830,16 @@
       "timestamp": 1787044067.048693,
       "bankroll": 807.19,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Kamonwan Yodpetch vs Tiana Tian Deng"
+    },
+    {
+      "timestamp": 1787044310.737171,
+      "bankroll": 815.71,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
+    },
+    {
+      "timestamp": 1787044311.3383534,
+      "bankroll": 805.71,
+      "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:09:58 (hora de Perú)
+Actualizado: 2026-08-18 04:12:01 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $807.19
-**Retorno acumulado:** -19.28%
+**Bankroll actual:** $805.71
+**Retorno acumulado:** -19.43%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:09:58 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $267.19)
+**Capital comprometido ahora mismo:** $520.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $285.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,8 +43,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| RN1 | 80 | 36 | 23 | -25.97 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
+| RN1 | 81 | 37 | 21 | -27.45 USD |
 | HomeRunHazard | 25 | 17 | 14 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -53,12 +53,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 544
-- **Aciertos:** 323 (59.4%)
-- **Cuota promedio de entrada:** 60.8%
+- **Apuestas resueltas:** 546
+- **Aciertos:** 324 (59.3%)
+- **Cuota promedio de entrada:** 60.7%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,317.67
-- **ROI sobre lo apostado:** -4.45%
+- **Total apostado (suma de stakes):** $5,337.67
+- **ROI sobre lo apostado:** -4.46%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 246 | 48.0% | 49.8% | -1.8 pp |
+| 40-59% | 248 | 48.0% | 49.8% | -1.8 pp |
 | 60-79% | 157 | 70.1% | 69.1% | +1.0 pp |
 | 80-94% | 73 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 23 | 100.0% | 97.9% | +2.1 pp |
@@ -212,4 +212,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Luca Staeheli vs Andrey Chepelev | Luca Staeheli (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 4.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 15.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 27.0% | ⏳ pendiente | — |
