@@ -1,5 +1,5 @@
 {
-  "bankroll": 836.4324661262532,
+  "bankroll": 837.668421182433,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2205,6 +2205,11 @@
       "timestamp": 1787014610.1221795,
       "bankroll": 836.43,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Linda Noskova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787015488.3227665,
+      "bankroll": 837.67,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Emma Navarro vs Jessica Pegula"
     }
   ]
 }
