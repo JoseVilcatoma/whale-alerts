@@ -1,5 +1,5 @@
 {
-  "bankroll": 835.0554714239239,
+  "bankroll": 826.2337376021901,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2335,6 +2335,31 @@
       "timestamp": 1787017935.3841395,
       "bankroll": 835.06,
       "event": "won: RN1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1787018057.303227,
+      "bankroll": 838.94,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Mets (-2.5)"
+    },
+    {
+      "timestamp": 1787018062.8872576,
+      "bankroll": 840.85,
+      "event": "won: RN1 \u2014 Spread: New York Mets (-2.5)"
+    },
+    {
+      "timestamp": 1787018115.3533194,
+      "bankroll": 830.85,
+      "event": "lost: 111111111115 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787018117.6473389,
+      "bankroll": 820.85,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787018117.847615,
+      "bankroll": 826.23,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. New York Mets"
     }
   ]
 }
