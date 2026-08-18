@@ -1,5 +1,5 @@
 {
-  "bankroll": 816.0540364711735,
+  "bankroll": 806.0540364711735,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2635,6 +2635,11 @@
       "timestamp": 1787025356.035765,
       "bankroll": 816.05,
       "event": "won: RN1 \u2014 Spread: New York Mets (-2.5)"
+    },
+    {
+      "timestamp": 1787025652.9135768,
+      "bankroll": 806.05,
+      "event": "lost: swisstony \u2014 Will SC Internacional vs. Clube do Remo end in a draw?"
     }
   ]
 }
