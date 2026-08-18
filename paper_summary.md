@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:12:57 (hora de Perú)
+Actualizado: 2026-08-17 22:15:05 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $829.67
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:12:57 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $724.68 en 82 posiciones abiertas (disponible para nuevas apuestas: $104.99)
+**Capital comprometido ahora mismo:** $734.68 en 83 posiciones abiertas (disponible para nuevas apuestas: $94.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 1 | +8.78 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -163,7 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-hijikat-mensik-2026-08-17 | RN1, ferrariChampions2026 |
-| mlb-cws-chc-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
+| mlb-cws-chc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, alaskabaked, ferrariChampions2026 |
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
 | atp-sanchis-magadan-2026-08-17 | RN1, ferrariChampions2026 |
@@ -177,6 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 10.00 | 16.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 75% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 3.7% | ⏳ pendiente | — |
@@ -206,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Spread: Club León FC (-1.5) | Club Necaxa (BUY) | 76% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Club Necaxa vs. Club León FC: O/U 2.5 | Under (BUY) | 64% | 10.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 99% | 10.00 | 0.3% | ✅ ganada | +0.10 |

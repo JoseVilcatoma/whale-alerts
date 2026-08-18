@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 7853.430000000001,
-    "whale_pct": 3.829,
+    "whale_usd": 9939.330000000002,
+    "whale_pct": 4.846,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022693.478357,
-    "fills": 7
+    "last_fill_at": 1787022851.6702015,
+    "fills": 9
   },
   {
     "timestamp": 1787011505,
@@ -11687,8 +11687,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6591.501864,
-    "whale_pct": 1.976,
+    "whale_usd": 20342.402664,
+    "whale_pct": 6.1,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11700,8 +11700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022737.2858887,
-    "fills": 3
+    "last_fill_at": 1787022851.7183838,
+    "fills": 7
   },
   {
     "timestamp": 1787011570,
@@ -13628,5 +13628,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787022669.1106696,
     "fills": 1
+  },
+  {
+    "timestamp": 1787022860,
+    "timestamp_added": 1787022860.791481,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cws-chc-2026-08-17",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 18200.131100000002,
+    "whale_pct": 16.894,
+    "whale_value_at_open": 107734.18,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "alaskabaked",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787022869.7684042,
+    "fills": 3
   }
 ]
