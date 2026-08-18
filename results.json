@@ -5990,5 +5990,20 @@
     "status": "pending",
     "ultimo_fill": 1787082922,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 833,
+    "timestamp": 1787083800,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-atl-min-2026-08-18",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 29564.941499999997,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1787083800,
+    "fills": 1
   }
 ]
