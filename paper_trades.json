@@ -13362,8 +13362,8 @@
     "title": "ITF W15 Tianjin 3 Women: Maria Kalyakina vs Dabin Kim",
     "outcome": "Dabin Kim",
     "side": "BUY",
-    "whale_usd": 4512.7300000000005,
-    "whale_pct": 3.161,
+    "whale_usd": 1910.39,
+    "whale_pct": 1.338,
     "whale_value_at_open": 142775.7216,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
@@ -13373,7 +13373,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787036443.7479367,
+    "last_fill_at": 1787035568.2133117,
     "fills": 2
   },
   {
@@ -13397,6 +13397,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787046408.3335743,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787046495,
+    "timestamp_added": 1787046496.1693604,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tseng-barton-2026-08-17",
+    "title": "Prague 2: Chun-Hsin Tseng vs Hynek Barton",
+    "outcome": "Hynek Barton",
+    "side": "BUY",
+    "whale_usd": 1230.222222,
+    "whale_pct": 0.621,
+    "whale_value_at_open": 197966.2362,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787046496.1693685,
     "fills": 1
   }
 ]
