@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:40:33 (hora de Perú)
+Actualizado: 2026-08-18 10:42:36 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $824.90
-**Retorno acumulado:** -17.51%
+**Bankroll actual:** $824.51
+**Retorno acumulado:** -17.55%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:40:33 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $624.90)
+**Capital comprometido ahora mismo:** $220.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $604.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,6 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 0 | 0 | 4 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
+| danielwolfmorales3pddb6dl6 | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -48,18 +49,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 1 | -31.87 USD |
-| 111111111115 | 11 | 12 | 2 | -33.43 USD |
+| 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 107 | 71 | 6 | -96.02 USD |
+| ferrariChampions2026 | 107 | 71 | 8 | -96.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 578
-- **Aciertos:** 346 (59.9%)
-- **Cuota promedio de entrada:** 61.1%
+- **Apuestas resueltas:** 580
+- **Aciertos:** 347 (59.8%)
+- **Cuota promedio de entrada:** 61.0%
 - **Stake promedio:** $9.79
-- **Total apostado (suma de stakes):** $5,657.67
+- **Total apostado (suma de stakes):** $5,677.67
 - **ROI sobre lo apostado:** -3.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -70,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 260 | 48.8% | 49.8% | -0.9 pp |
+| 40-59% | 262 | 48.9% | 49.8% | -0.9 pp |
 | 60-79% | 168 | 69.6% | 68.8% | +0.9 pp |
 | 80-94% | 77 | 84.4% | 86.6% | -2.2 pp |
 | 95-99% (casi seguro) | 28 | 100.0% | 97.5% | +2.5 pp |
@@ -172,12 +173,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
+| atp-rublev-borges-2026-08-18 | Kulilun, danielwolfmorales3pddb6dl6 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Peter Makk (BUY) | 69% | 10.00 | 1.7% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 44% | 10.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
@@ -204,7 +211,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Cristina Pescucci | Franziska Sziedat (BUY) | 97% | 10.00 | 0.3% | ✅ ganada | +0.31 |
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ✅ ganada | +0.42 |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 86% | 10.00 | 1.3% | ⏳ pendiente | — |
-| GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 67% | 10.00 | 6.9% | ⏳ pendiente | — |
-| sentrio | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.9% | ✅ ganada | +2.50 |

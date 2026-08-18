@@ -1,5 +1,5 @@
 {
-  "bankroll": 824.9028071475834,
+  "bankroll": 824.5106502848383,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3000,6 +3000,16 @@
       "timestamp": 1787067395.4754984,
       "bankroll": 824.9,
       "event": "won: RN1 \u2014 ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid"
+    },
+    {
+      "timestamp": 1787067707.1799972,
+      "bankroll": 834.51,
+      "event": "won: 111111111115 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787067707.2801483,
+      "bankroll": 824.51,
+      "event": "lost: 111111111115 \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner"
     }
   ]
 }
