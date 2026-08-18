@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 06:28:28 (hora de Perú)
+Actualizado: 2026-08-18 06:30:35 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $795.78
-**Retorno acumulado:** -20.42%
+**Bankroll actual:** $809.59
+**Retorno acumulado:** -19.04%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 06:28:28 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $475.78)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $499.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,16 +50,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 90 | 64 | 18 | -113.81 USD |
+| ferrariChampions2026 | 91 | 64 | 17 | -100.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 548
-- **Aciertos:** 325 (59.3%)
-- **Cuota promedio de entrada:** 60.9%
+- **Apuestas resueltas:** 549
+- **Aciertos:** 326 (59.4%)
+- **Cuota promedio de entrada:** 60.8%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,357.67
-- **ROI sobre lo apostado:** -4.63%
+- **Total apostado (suma de stakes):** $5,367.67
+- **ROI sobre lo apostado:** -4.37%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 247 | 48.2% | 49.8% | -1.6 pp |
+| 40-59% | 248 | 48.4% | 49.7% | -1.4 pp |
 | 60-79% | 159 | 69.2% | 69.0% | +0.2 pp |
 | 80-94% | 72 | 86.1% | 86.6% | -0.5 pp |
 | 95-99% (casi seguro) | 25 | 100.0% | 97.7% | +2.3 pp |
@@ -200,7 +200,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 49% | 10.00 | 49.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 51% | 10.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 1.2% | ✅ ganada | +13.81 |
 | ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Norbert Gombos (BUY) | 66% | 10.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 65% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Gilles Arnaud Bailly (BUY) | 44% | 10.00 | 13.0% | ⏳ pendiente | — |

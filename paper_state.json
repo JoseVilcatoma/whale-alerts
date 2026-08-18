@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.7823988003526,
+  "bankroll": 809.5919226098764,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2850,6 +2850,11 @@
       "timestamp": 1787052124.961532,
       "bankroll": 795.78,
       "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Denisa Zoldakova vs Aran Teixido Garcia"
+    },
+    {
+      "timestamp": 1787052562.8583198,
+      "bankroll": 809.59,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Murkel Dellien vs Ryan Nijboer"
     }
   ]
 }
