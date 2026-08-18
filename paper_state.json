@@ -1,5 +1,5 @@
 {
-  "bankroll": 826.9496655155677,
+  "bankroll": 820.5213520450008,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2715,6 +2715,36 @@
       "timestamp": 1787030769.682092,
       "bankroll": 826.95,
       "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: James van Herzeele vs Yua Taka"
+    },
+    {
+      "timestamp": 1787031325.8571453,
+      "bankroll": 826.95,
+      "event": "lost: ferrariChampions2026 \u2014 Will Club Le\u00f3n FC win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787031326.7535932,
+      "bankroll": 829.77,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787031326.8540235,
+      "bankroll": 833.85,
+      "event": "won: RN1 \u2014 Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787031327.5556989,
+      "bankroll": 823.85,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787031327.9478962,
+      "bankroll": 813.85,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787031328.348693,
+      "bankroll": 820.52,
+      "event": "won: swisstony \u2014 Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
     }
   ]
 }
