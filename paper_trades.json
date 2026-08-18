@@ -10683,8 +10683,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 1147.9799999999998,
-    "whale_pct": 0.388,
+    "whale_usd": 2516.1499999999996,
+    "whale_pct": 0.85,
     "whale_value_at_open": 295893.2378,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -10694,8 +10694,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787006636.9195187,
-    "fills": 1
+    "last_fill_at": 1787014455.8712869,
+    "fills": 2
   },
   {
     "timestamp": 1787006709,
@@ -11237,8 +11237,8 @@
     "title": "Kingston: Blaise Bicknell vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 4203.582127,
-    "whale_pct": 1.277,
+    "whale_usd": 7546.387412,
+    "whale_pct": 2.292,
     "whale_value_at_open": 329234.5711,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -11248,8 +11248,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787014132.8838956,
-    "fills": 4
+    "last_fill_at": 1787014382.764982,
+    "fills": 5
   },
   {
     "timestamp": 1787009015,
@@ -11854,8 +11854,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 1383.401557,
-    "whale_pct": 0.618,
+    "whale_usd": 20532.131557,
+    "whale_pct": 9.176,
     "whale_value_at_open": 223748.9936,
     "paper_stake_usd": 9.64,
     "odds_at_bet": 83,
@@ -11865,8 +11865,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012247.8792753,
-    "fills": 2
+    "last_fill_at": 1787014390.0929654,
+    "fills": 6
   },
   {
     "timestamp": 1787012814,
