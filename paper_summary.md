@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:46:52 (hora de Perú)
+Actualizado: 2026-08-17 23:48:53 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $806.46
-**Retorno acumulado:** -19.35%
+**Bankroll actual:** $826.48
+**Retorno acumulado:** -17.35%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 23:46:52 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $271.24 en 29 posiciones abiertas (disponible para nuevas apuestas: $535.22)
+**Capital comprometido ahora mismo:** $261.24 en 28 posiciones abiertas (disponible para nuevas apuestas: $565.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 1 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
-| swisstony | 21 | 7 | 5 | +13.77 USD |
+| swisstony | 21 | 7 | 6 | +13.77 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
@@ -44,20 +44,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 67 | 30 | 12 | -15.76 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
+| HomeRunHazard | 25 | 17 | 0 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
-| HomeRunHazard | 23 | 17 | 2 | -51.89 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 85 | 59 | 8 | -85.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 510
-- **Aciertos:** 300 (58.8%)
-- **Cuota promedio de entrada:** 60.3%
+- **Apuestas resueltas:** 512
+- **Aciertos:** 302 (59.0%)
+- **Cuota promedio de entrada:** 60.2%
 - **Stake promedio:** $9.80
-- **Total apostado (suma de stakes):** $4,996.43
-- **ROI sobre lo apostado:** -4.75%
+- **Total apostado (suma de stakes):** $5,016.43
+- **ROI sobre lo apostado:** -4.34%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 233 | 48.1% | 49.7% | -1.7 pp |
+| 40-59% | 235 | 48.5% | 49.7% | -1.2 pp |
 | 60-79% | 147 | 69.4% | 69.1% | +0.3 pp |
 | 80-94% | 64 | 87.5% | 86.4% | +1.1 pp |
 | 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
@@ -165,6 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-eala-anisimo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026, swisstony |
 | itf-hanleil-osminki-2026-08-18 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
+| mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
 
@@ -172,9 +173,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 89% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Maiko Uchijima (BUY) | 73% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -186,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 31959.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 16.0% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 7.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 10.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Tianjin 3 Women: Jiangxue Han vs | Jiangxue Han (BUY) | 68% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 46% | 10.00 | 3.0% | ⏳ pendiente | — |
@@ -201,4 +203,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ✅ ganada | +0.00 |
 | RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ✅ ganada | +0.00 |
-| ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ✅ ganada | +0.00 |

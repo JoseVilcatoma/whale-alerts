@@ -1,5 +1,5 @@
 {
-  "bankroll": 806.4621997364796,
+  "bankroll": 826.4782061390407,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2660,6 +2660,16 @@
       "timestamp": 1787026341.518768,
       "bankroll": 806.46,
       "event": "won: RN1 \u2014 CSD Macara vs. CD Universidad Catolica del Ecuador: O/U 1.5"
+    },
+    {
+      "timestamp": 1787028446.1622107,
+      "bankroll": 816.87,
+      "event": "won: HomeRunHazard \u2014 Dallas Wings vs. Golden State Valkyries: O/U 162.5"
+    },
+    {
+      "timestamp": 1787028446.4569833,
+      "bankroll": 826.48,
+      "event": "won: HomeRunHazard \u2014 Dallas Wings vs. Golden State Valkyries: O/U 163.5"
     }
   ]
 }
