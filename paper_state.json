@@ -1,5 +1,5 @@
 {
-  "bankroll": 837.668421182433,
+  "bankroll": 832.2621849066314,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2210,6 +2210,21 @@
       "timestamp": 1787015488.3227665,
       "bankroll": 837.67,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Emma Navarro vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787015613.7225041,
+      "bankroll": 842.16,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Felipe Meligeni Alves vs Luka Pavlovic"
+    },
+    {
+      "timestamp": 1787015618.0157604,
+      "bankroll": 832.16,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Felipe Meligeni Alves vs Luka Pavlovic"
+    },
+    {
+      "timestamp": 1787015620.3943908,
+      "bankroll": 832.26,
+      "event": "won: HVAB \u2014 Cancun: Felipe Meligeni Alves vs Luka Pavlovic"
     }
   ]
 }
