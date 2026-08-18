@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 5390.419979,
-    "whale_pct": 2.297,
+    "whale_usd": 7454.759679000001,
+    "whale_pct": 3.177,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018335.2816672,
-    "fills": 5
+    "last_fill_at": 1787021657.875073,
+    "fills": 6
   },
   {
     "timestamp": 1787017391,
@@ -13451,6 +13451,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787021409.211843,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787021697,
+    "timestamp_added": 1787021697.654562,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-nec-leo-2026-08-17-total-3pt5",
+    "title": "Club Necaxa vs. Club Le\u00f3n FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2634.8520000000003,
+    "whale_pct": 1.136,
+    "whale_value_at_open": 231939.8767,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787021697.6545732,
     "fills": 1
   }
 ]
