@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 11:11:14 (hora de Perú)
+Actualizado: 2026-08-18 11:13:16 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $839.53
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 11:11:14 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $599.53)
+**Capital comprometido ahora mismo:** $260.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $579.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 3 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 25 | 9 | 0 | +7.41 USD |
+| swisstony | 25 | 9 | 1 | +7.41 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 109 | 72 | 11 | -99.46 USD |
+| ferrariChampions2026 | 109 | 72 | 12 | -99.46 USD |
 
 ## Análisis general
 
@@ -176,16 +176,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-rublev-borges-2026-08-18 | Kulilun, alaskabaked, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026 |
+| wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Geoffrey Blancaneaux (BUY) | 51% | 10.00 | 1.2% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 50% | 10.00 | 15.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Matheus Pucinelli de Almeida (BUY) | 72% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Sandra Samir vs Po | Polina Leykina (BUY) | 58% | 10.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 99% | 10.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 99% | 10.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Andrey Rublev vs Nuno B | Nuno Borges (BUY) | 61% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Oleksandr Ovcha | Benjamin Hassan (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
@@ -209,5 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ✅ ganada | +6.39 |
-| ferrariChampions2026 | Sion: Dimitar Kuzmanov vs Marvin Moeller | Dimitar Kuzmanov (BUY) | 66% | 10.00 | 4.5% | ✅ ganada | +5.15 |
-| GoalLineGhost | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 85% | 10.00 | 8.5% | ⏳ pendiente | — |
