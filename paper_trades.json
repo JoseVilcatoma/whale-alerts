@@ -8649,8 +8649,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 162.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1148.9984,
-    "whale_pct": 1.471,
+    "whale_usd": 648.9984,
+    "whale_pct": 0.831,
     "whale_value_at_open": 78089.9485,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -8660,8 +8660,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019397.340998,
-    "fills": 2
+    "last_fill_at": 1786965521.820629,
+    "fills": 1
   },
   {
     "timestamp": 1786966706,
@@ -8672,8 +8672,8 @@
     "title": "Cancun: Lloyd Harris vs Abdullah Shelbayh",
     "outcome": "Lloyd Harris",
     "side": "BUY",
-    "whale_usd": 5893.722,
-    "whale_pct": 3.036,
+    "whale_usd": 1922.6819999999998,
+    "whale_pct": 0.99,
     "whale_value_at_open": 194143.855,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -8683,8 +8683,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787021877.966227,
-    "fills": 3
+    "last_fill_at": 1786966766.7166429,
+    "fills": 2
   },
   {
     "timestamp": 1786966823,
@@ -8695,8 +8695,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries: O/U 163.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1059.3493130000002,
-    "whale_pct": 1.314,
+    "whale_usd": 506.245,
+    "whale_pct": 0.628,
     "whale_value_at_open": 80632.1959,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -8706,8 +8706,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018904.1291242,
-    "fills": 2
+    "last_fill_at": 1786966824.1619904,
+    "fills": 1
   },
   {
     "timestamp": 1786966925,
@@ -10660,8 +10660,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 7014.9059050000005,
-    "whale_pct": 2.271,
+    "whale_usd": 4203.274775,
+    "whale_pct": 1.36,
     "whale_value_at_open": 308952.6007,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -10671,8 +10671,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016873.7062817,
-    "fills": 7
+    "last_fill_at": 1787013490.6464658,
+    "fills": 5
   },
   {
     "timestamp": 1787006636,
@@ -11039,8 +11039,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 3815.1768,
-    "whale_pct": 1.835,
+    "whale_usd": 600.385,
+    "whale_pct": 0.289,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -11054,8 +11054,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019788.8431976,
-    "fills": 3
+    "last_fill_at": 1787007904.1696618,
+    "fills": 1
   },
   {
     "timestamp": 1787007936,
@@ -11354,8 +11354,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 25137.699217999998,
-    "whale_pct": 6.415,
+    "whale_usd": 5547.427599999999,
+    "whale_pct": 1.416,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -11365,8 +11365,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020924.4802701,
-    "fills": 9
+    "last_fill_at": 1787014180.2445753,
+    "fills": 4
   },
   {
     "timestamp": 1787010191,
@@ -11521,8 +11521,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 7112.344410000001,
-    "whale_pct": 3.556,
+    "whale_usd": 1279.28,
+    "whale_pct": 0.64,
     "whale_value_at_open": 199981.8102,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -11534,8 +11534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018599.17474,
-    "fills": 6
+    "last_fill_at": 1787011311.4725084,
+    "fills": 1
   },
   {
     "timestamp": 1787011327,
@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 12229.730000000003,
-    "whale_pct": 5.963,
+    "whale_usd": 2080.25,
+    "whale_pct": 1.014,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023010.932554,
-    "fills": 11
+    "last_fill_at": 1787014985.600827,
+    "fills": 2
   },
   {
     "timestamp": 1787011505,
@@ -11687,8 +11687,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 25872.082664,
-    "whale_pct": 7.758,
+    "whale_usd": 3984.279264,
+    "whale_pct": 1.195,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11700,8 +11700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787023477.5851486,
-    "fills": 9
+    "last_fill_at": 1787015241.0009058,
+    "fills": 2
   },
   {
     "timestamp": 1787011570,
@@ -11902,8 +11902,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 7774.931954,
-    "whale_pct": 2.155,
+    "whale_usd": 1246.085454,
+    "whale_pct": 0.345,
     "whale_value_at_open": 360849.2234,
     "paper_stake_usd": 3.89,
     "odds_at_bet": 80,
@@ -11915,8 +11915,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018179.7134485,
-    "fills": 3
+    "last_fill_at": 1787012841.9794533,
+    "fills": 1
   },
   {
     "timestamp": 1787013164,
@@ -12308,8 +12308,8 @@
     "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3869.6547,
-    "whale_pct": 0.886,
+    "whale_usd": 2156.7239,
+    "whale_pct": 0.494,
     "whale_value_at_open": 436647.7591,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 62,
@@ -12319,8 +12319,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020190.3567114,
-    "fills": 5
+    "last_fill_at": 1787015330.3629022,
+    "fills": 3
   },
   {
     "timestamp": 1787015240,
@@ -12382,8 +12382,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 20314.272737000003,
-    "whale_pct": 8.662,
+    "whale_usd": 9486.0,
+    "whale_pct": 4.045,
     "whale_value_at_open": 234532.2614,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12393,8 +12393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020918.091932,
-    "fills": 14
+    "last_fill_at": 1787015611.2690806,
+    "fills": 6
   },
   {
     "timestamp": 1787015395,
@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 81464.57588699998,
-    "whale_pct": 18.259,
+    "whale_usd": 24913.469996000003,
+    "whale_pct": 5.584,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022247.4368327,
-    "fills": 19
+    "last_fill_at": 1787015608.7310987,
+    "fills": 3
   },
   {
     "timestamp": 1787015430,
@@ -12430,8 +12430,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 15979.613764999998,
-    "whale_pct": 3.507,
+    "whale_usd": 629.622888,
+    "whale_pct": 0.138,
     "whale_value_at_open": 455626.8622,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 56,
@@ -12444,8 +12444,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022270.589128,
-    "fills": 4
+    "last_fill_at": 1787015430.8284245,
+    "fills": 1
   },
   {
     "timestamp": 1787015473,
@@ -12502,8 +12502,8 @@
     "title": "Club Necaxa vs. Club Le\u00f3n FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1161.2726,
-    "whale_pct": 0.243,
+    "whale_usd": 549.4406,
+    "whale_pct": 0.115,
     "whale_value_at_open": 478107.3255,
     "paper_stake_usd": 1.24,
     "odds_at_bet": 72,
@@ -12513,8 +12513,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019164.806892,
-    "fills": 2
+    "last_fill_at": 1787015577.2544446,
+    "fills": 1
   },
   {
     "timestamp": 1787015719,
