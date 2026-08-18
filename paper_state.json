@@ -1,5 +1,5 @@
 {
-  "bankroll": 807.1024859799371,
+  "bankroll": 812.9616785057964,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2640,6 +2640,26 @@
       "timestamp": 1787024335.0889733,
       "bankroll": 807.1,
       "event": "won: ferrariChampions2026 \u2014 Cancun: Lloyd Harris vs Abdullah Shelbayh"
+    },
+    {
+      "timestamp": 1787024463.968992,
+      "bankroll": 810.62,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 14.5"
+    },
+    {
+      "timestamp": 1787024524.068355,
+      "bankroll": 810.62,
+      "event": "won: RN1 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787024524.168535,
+      "bankroll": 810.62,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787024524.9699419,
+      "bankroll": 812.96,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Jiri Lehecka vs Arthur Fils"
     }
   ]
 }
