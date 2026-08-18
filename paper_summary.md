@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 02:59:26 (hora de Perú)
+Actualizado: 2026-08-18 03:01:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 02:59:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $666.32)
+**Capital comprometido ahora mismo:** $170.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $636.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 7 | -26.84 USD |
+| RN1 | 79 | 36 | 10 | -26.84 USD |
 | HomeRunHazard | 25 | 17 | 3 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -175,6 +175,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 83% | 10.00 | 4.9% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Maria Kalyakina (BUY) | 45% | 10.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Over (BUY) | 49% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Haru | Sakura Hosogi (BUY) | 45% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Gokberk Saritas (BUY) | 52% | 10.00 | 5.5% | ⏳ pendiente | — |
@@ -202,6 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ✅ ganada | +4.93 |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ✅ ganada | +2.35 |
-| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.3% | ❌ perdida | -10.00 |
-| RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 2.1% | ❌ perdida | -10.00 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 31959.3% | ✅ ganada | +6.13 |
