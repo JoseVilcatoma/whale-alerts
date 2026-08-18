@@ -11687,8 +11687,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 675.7695999999999,
-    "whale_pct": 0.203,
+    "whale_usd": 3984.279264,
+    "whale_pct": 1.195,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11700,8 +11700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011505.675987,
-    "fills": 1
+    "last_fill_at": 1787015241.0009058,
+    "fills": 2
   },
   {
     "timestamp": 1787011570,
@@ -12214,8 +12214,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 4859.7857,
-    "whale_pct": 1.212,
+    "whale_usd": 5416.0357,
+    "whale_pct": 1.351,
     "whale_value_at_open": 400934.4026,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 79,
@@ -12227,8 +12227,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787014644.3332324,
-    "fills": 1
+    "last_fill_at": 1787015177.1954331,
+    "fills": 2
   },
   {
     "timestamp": 1787014655,
@@ -12297,6 +12297,55 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1787014686.0528142,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787015196,
+    "timestamp_added": 1787015197.0951161,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-nec-leo-2026-08-17-leo",
+    "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 805.5233,
+    "whale_pct": 0.184,
+    "whale_value_at_open": 436647.7591,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787015197.0951273,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787015240,
+    "timestamp_added": 1787015241.139432,
+    "username": "alaskabaked",
+    "wallet": "0xaa7789219c17e180dcb5933099c90d885f1d15a5",
+    "slug": "mlb-cws-chc-2026-08-17",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 4999.999999,
+    "whale_pct": 11.418,
+    "whale_value_at_open": 43789.5899,
+    "paper_stake_usd": 0.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787015241.1394384,
     "fills": 1
   }
 ]
