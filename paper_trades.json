@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6791.833200000001,
-    "whale_pct": 3.311,
+    "whale_usd": 7853.430000000001,
+    "whale_pct": 3.829,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022596.6749063,
-    "fills": 6
+    "last_fill_at": 1787022693.478357,
+    "fills": 7
   },
   {
     "timestamp": 1787011505,
@@ -11687,8 +11687,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 3984.279264,
-    "whale_pct": 1.195,
+    "whale_usd": 6591.501864,
+    "whale_pct": 1.976,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11700,8 +11700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787015241.0009058,
-    "fills": 2
+    "last_fill_at": 1787022737.2858887,
+    "fills": 3
   },
   {
     "timestamp": 1787011570,
@@ -13564,8 +13564,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 7980.3974,
-    "whale_pct": 2.277,
+    "whale_usd": 13079.777399999999,
+    "whale_pct": 3.732,
     "whale_value_at_open": 350495.2341,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13580,8 +13580,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787022644.7732356,
-    "fills": 3
+    "last_fill_at": 1787022723.9290633,
+    "fills": 4
   },
   {
     "timestamp": 1787022017,
@@ -13604,6 +13604,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787022018.3074472,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787022668,
+    "timestamp_added": 1787022669.1106586,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-paul-vallejo-2026-08-17",
+    "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "whale_usd": 754.1015530000001,
+    "whale_pct": 0.223,
+    "whale_value_at_open": 338683.4859,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787022669.1106696,
     "fills": 1
   }
 ]
