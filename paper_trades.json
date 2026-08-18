@@ -14707,8 +14707,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 6082.7065999999995,
-    "whale_pct": 3.165,
+    "whale_usd": 7796.6666,
+    "whale_pct": 4.056,
     "whale_value_at_open": 192205.0258,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
@@ -14718,8 +14718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787066148.2733848,
-    "fills": 8
+    "last_fill_at": 1787066527.2197316,
+    "fills": 10
   },
   {
     "timestamp": 1787060387,
@@ -15395,5 +15395,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787066331.063228,
     "fills": 2
+  },
+  {
+    "timestamp": 1787066535,
+    "timestamp_added": 1787066535.6959655,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-omega1-ff-2026-08-18-game2",
+    "title": "Counter-Strike: Omega vs Fire Flux Esports - Map 2 Winner",
+    "outcome": "Fire Flux Esports",
+    "side": "BUY",
+    "whale_usd": 1516.4551999999999,
+    "whale_pct": 0.528,
+    "whale_value_at_open": 287263.1903,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787066535.6959743,
+    "fills": 1
   }
 ]
