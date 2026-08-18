@@ -13753,8 +13753,8 @@
     "title": "ITF W15 Logrono Women: Victoria Gomez O'Hayon vs Min Liu",
     "outcome": "Victoria Gomez O'Hayon",
     "side": "BUY",
-    "whale_usd": 3006.4008000000003,
-    "whale_pct": 1.596,
+    "whale_usd": 3608.5608,
+    "whale_pct": 1.915,
     "whale_value_at_open": 188422.4927,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
@@ -13764,8 +13764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787049745.3375816,
-    "fills": 2
+    "last_fill_at": 1787050648.691333,
+    "fills": 3
   },
   {
     "timestamp": 1787050200,
@@ -13822,8 +13822,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 715.7325,
-    "whale_pct": 0.344,
+    "whale_usd": 2731.7325,
+    "whale_pct": 1.312,
     "whale_value_at_open": 208259.3508,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 86,
@@ -13836,8 +13836,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787050411.1280308,
-    "fills": 1
+    "last_fill_at": 1787050611.022971,
+    "fills": 2
   },
   {
     "timestamp": 1787050412,
@@ -13860,6 +13860,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787050412.9035327,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787050559,
+    "timestamp_added": 1787050559.8850305,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-pescucc-sziedat-2026-08-18",
+    "title": "ITF W35 Verbier Women: Cristina Pescucci vs Franziska Sziedat",
+    "outcome": "Franziska Sziedat",
+    "side": "BUY",
+    "whale_usd": 617.5,
+    "whale_pct": 0.303,
+    "whale_value_at_open": 203467.8165,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787050559.8850396,
     "fills": 1
   }
 ]
