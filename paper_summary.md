@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:04:04 (hora de Perú)
+Actualizado: 2026-08-18 07:06:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $811.22
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:04:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $471.22)
+**Capital comprometido ahora mismo:** $360.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $451.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 92 | 64 | 19 | -98.37 USD |
+| ferrariChampions2026 | 92 | 64 | 21 | -98.37 USD |
 
 ## Análisis general
 
@@ -176,6 +176,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ⏳ pendiente | — |
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ⏳ pendiente | — |
@@ -204,5 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 1.4% | ✅ ganada | +1.63 |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 49% | 10.00 | 49.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 51% | 10.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 1.2% | ✅ ganada | +13.81 |
-| ferrariChampions2026 | Prague 2: Gilles Arnaud Bailly vs Norber | Norbert Gombos (BUY) | 66% | 10.00 | 4.5% | ⏳ pendiente | — |
