@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 06:18:05 (hora de Perú)
+Actualizado: 2026-08-18 06:20:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $795.37
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 06:18:05 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $505.37)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $485.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 3 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 2 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 3 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 89 | 64 | 17 | -114.23 USD |
+| ferrariChampions2026 | 89 | 64 | 18 | -114.23 USD |
 
 ## Análisis general
 
@@ -176,7 +176,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Cristina Pescucci | Franziska Sziedat (BUY) | 97% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Raphae | Dominic Stephan Stricker (BUY) | 96% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -185,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Logrono Women: Victoria Gomez O' | Victoria Gomez O'Hayon (BUY) | 80% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Lui Maxted (BUY) | 61% | 10.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Martin Krumich (BUY) | 93% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Javier Barranco Cosano vs Mart | Martin Krumich (BUY) | 93% | 10.00 | 3.2% | ⏳ pendiente | — |
 | sentrio | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 85% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Antonia Vergara Rivera (BUY) | 41% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Chun-Hsin Tseng (BUY) | 95% | 10.00 | 1.7% | ✅ ganada | +0.53 |
@@ -193,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Matteo Martineau vs Lui Maxt | Matteo Martineau (BUY) | 62% | 10.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Denisa Zoldakova v | Denisa Zoldakova (BUY) | 96% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W50 Prague Women: Mayuka Aikawa vs B | Mayuka Aikawa (BUY) | 86% | 10.00 | 1.4% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | Nongshim Red Force (BUY) | 49% | 10.00 | 49.5% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 51% | 10.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Murkel Dellien vs Ryan Nijboer | Ryan Nijboer (BUY) | 42% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -204,5 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ✅ ganada | +0.31 |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Yuquan Jin (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Chen Hui Ho (BUY) | 47% | 10.00 | 3.8% | ✅ ganada | +11.28 |
-| RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 9.7% | ✅ ganada | +0.31 |
