@@ -10660,8 +10660,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 3460.349323,
-    "whale_pct": 1.12,
+    "whale_usd": 4203.274775,
+    "whale_pct": 1.36,
     "whale_value_at_open": 308952.6007,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -10671,8 +10671,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012554.5342612,
-    "fills": 4
+    "last_fill_at": 1787013490.6464658,
+    "fills": 5
   },
   {
     "timestamp": 1787006636,
@@ -10851,8 +10851,8 @@
     "title": "Spread: SC Internacional (-1.5)",
     "outcome": "Clube do Remo",
     "side": "BUY",
-    "whale_usd": 509.96,
-    "whale_pct": 0.15,
+    "whale_usd": 1307.96,
+    "whale_pct": 0.386,
     "whale_value_at_open": 339145.4262,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -10862,8 +10862,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007256.7259173,
-    "fills": 1
+    "last_fill_at": 1787013487.051108,
+    "fills": 2
   },
   {
     "timestamp": 1787007304,
@@ -11973,8 +11973,8 @@
     "title": "SC Internacional vs. Clube do Remo: Both Teams to Score",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1411.4781990000001,
-    "whale_pct": 0.503,
+    "whale_usd": 2056.1581960000003,
+    "whale_pct": 0.733,
     "whale_value_at_open": 280679.0098,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -11984,8 +11984,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013314.840366,
-    "fills": 2
+    "last_fill_at": 1787013475.044994,
+    "fills": 3
   },
   {
     "timestamp": 1787013302,
@@ -12033,6 +12033,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787013330.3107471,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787013374,
+    "timestamp_added": 1787013375.1656625,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-int-cre-2026-08-17-int",
+    "title": "Will SC Internacional win on 2026-08-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2067.519999,
+    "whale_pct": 0.785,
+    "whale_value_at_open": 263266.236,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 89,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787013375.1656702,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787013428,
+    "timestamp_added": 1787013428.414415,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-alves-pavlovi-2026-08-17",
+    "title": "Cancun: Felipe Meligeni Alves vs Luka Pavlovic",
+    "outcome": "Felipe Meligeni Alves",
+    "side": "BUY",
+    "whale_usd": 707.85,
+    "whale_pct": 8.756,
+    "whale_value_at_open": 8084.4845,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787013428.4144216,
     "fills": 1
   }
 ]

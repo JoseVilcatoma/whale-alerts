@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:36:09 (hora de Perú)
+Actualizado: 2026-08-17 19:38:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $843.83
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:36:09 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $797.81 en 81 posiciones abiertas (disponible para nuevas apuestas: $46.02)
+**Capital comprometido ahora mismo:** $817.81 en 83 posiciones abiertas (disponible para nuevas apuestas: $26.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 17 | 2 | 6 | +46.30 USD |
+| swisstony | 17 | 2 | 7 | +46.30 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | alaskabaked | 1 | 1 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
-| HVAB | 2 | 0 | 0 | +0.20 USD |
+| HVAB | 2 | 0 | 1 | +0.20 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 4 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
@@ -143,12 +143,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fery-minaur-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
 | mlb-sd-nym-2026-08-17 | 111111111115, ferrariChampions2026 |
 | wta-shnaide-chwalin-2026-08-17 | HVAB, RN1, ferrariChampions2026 |
+| atp-alves-pavlovi-2026-08-17 | HVAB, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 | mlb-oak-kc-2026-08-17 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, ferrariChampions2026 |
 | mlb-bal-tb-2026-08-17-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | wta-noskova-tauson-2026-08-17 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-total-4pt5 | RN1, ferrariChampions2026 |
-| bra-int-cre-2026-08-17-int | RN1, ferrariChampions2026 |
+| bra-int-cre-2026-08-17-int | RN1, ferrariChampions2026, swisstony |
 | mlb-ari-bos-2026-08-17-total-7pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-total-1pt5 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
@@ -161,9 +162,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ⏳ pendiente | — |
+| swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
@@ -189,5 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 89% | 10.00 | 5.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Noskova vs Tauson | Noskova (BUY) | 72% | 10.00 | 0.1% | ✅ ganada | +3.89 |
-| ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 1.5% | ⏳ pendiente | — |
