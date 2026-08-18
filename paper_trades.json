@@ -12619,8 +12619,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 8599.480929000001,
-    "whale_pct": 5.466,
+    "whale_usd": 9383.868429000002,
+    "whale_pct": 5.964,
     "whale_value_at_open": 157333.7724,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -12630,8 +12630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787027165.5933607,
-    "fills": 6
+    "last_fill_at": 1787027255.8651786,
+    "fills": 7
   },
   {
     "timestamp": 1787025970,
@@ -12690,8 +12690,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 8780.394,
-    "whale_pct": 5.672,
+    "whale_usd": 9367.894,
+    "whale_pct": 6.052,
     "whale_value_at_open": 154796.9048,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 78,
@@ -12701,8 +12701,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026486.0215192,
-    "fills": 1
+    "last_fill_at": 1787027287.1162694,
+    "fills": 2
   },
   {
     "timestamp": 1787026503,
@@ -12763,8 +12763,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 2216.978866,
-    "whale_pct": 1.031,
+    "whale_usd": 5106.538866,
+    "whale_pct": 2.376,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -12776,8 +12776,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787026529.9930704,
-    "fills": 1
+    "last_fill_at": 1787027226.918514,
+    "fills": 2
   },
   {
     "timestamp": 1787026770,
