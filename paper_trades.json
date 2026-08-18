@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 5025.9422,
-    "whale_pct": 2.45,
+    "whale_usd": 6132.647000000001,
+    "whale_pct": 2.99,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020034.7024174,
-    "fills": 4
+    "last_fill_at": 1787022448.133867,
+    "fills": 5
   },
   {
     "timestamp": 1787011505,
@@ -13485,8 +13485,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 1636.0,
-    "whale_pct": 0.68,
+    "whale_usd": 2698.5,
+    "whale_pct": 1.121,
     "whale_value_at_open": 240639.79,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -13499,8 +13499,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787021812.8046763,
-    "fills": 1
+    "last_fill_at": 1787022400.3073287,
+    "fills": 2
   },
   {
     "timestamp": 1787021886,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:06:37 (hora de Perú)
+Actualizado: 2026-08-17 22:08:41 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $829.67
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 82% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: O/U 3.5 | Under (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 67% | 10.00 | 0.4% | ⏳ pendiente | — |
 | kekasaur | CF Pachuca vs. Club Puebla: O/U 2.5 | Under (BUY) | 44% | 10.00 | 76.8% | ⏳ pendiente | — |
