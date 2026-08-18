@@ -29,15 +29,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
 | swisstony | 25 | 9 | 0 | +7.41 USD |
-| SDTrading | 3 | 2 | 0 | +7.00 USD |
+| SDTrading | 3 | 2 | 4 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | sentrio | 0 | 0 | 4 | +0.00 USD |
-| GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 10 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
+| bigoon | 0 | 0 | 1 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -172,7 +173,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
+| atp-rublev-borges-2026-08-18 | Kulilun, ferrariChampions2026 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
+| itf-havlick-bervid-2026-08-18 | RN1, ferrariChampions2026 |
+| mlb-atl-min-2026-08-18 | SDTrading, ferrariChampions2026 |
+| atp-mrva-fatic-2026-08-18 | bigoon, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
