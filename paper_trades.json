@@ -13444,5 +13444,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787038648.9652448,
     "fills": 3
+  },
+  {
+    "timestamp": 1787039146,
+    "timestamp_added": 1787039146.606556,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kaji-hosogi-2026-08-18",
+    "title": "ITF W75 Kursumlijska Banja 3 Women: Haruka Kaji vs Sakura Hosogi",
+    "outcome": "Sakura Hosogi",
+    "side": "BUY",
+    "whale_usd": 755.04,
+    "whale_pct": 1.433,
+    "whale_value_at_open": 52676.8776,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 45,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787039146.6065705,
+    "fills": 1
   }
 ]
