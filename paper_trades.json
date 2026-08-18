@@ -14170,8 +14170,8 @@
     "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
     "outcome": "Andrey Rublev",
     "side": "BUY",
-    "whale_usd": 17072.37,
-    "whale_pct": 116.583,
+    "whale_usd": 17651.34,
+    "whale_pct": 120.537,
     "whale_value_at_open": 14643.9382,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -14181,8 +14181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787055661.5453727,
-    "fills": 3
+    "last_fill_at": 1787058138.0484176,
+    "fills": 4
   },
   {
     "timestamp": 1787055770,
@@ -14335,8 +14335,8 @@
     "title": "Prague 2: Petr Brunclik vs Jan Kumstat",
     "outcome": "Petr Brunclik",
     "side": "BUY",
-    "whale_usd": 10920.788715,
-    "whale_pct": 6.696,
+    "whale_usd": 11458.767286,
+    "whale_pct": 7.026,
     "whale_value_at_open": 163091.0786,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -14348,8 +14348,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787057212.3976011,
-    "fills": 4
+    "last_fill_at": 1787058062.8486364,
+    "fills": 5
   },
   {
     "timestamp": 1787056848,
@@ -14489,6 +14489,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787057924.8764606,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787058081,
+    "timestamp_added": 1787058082.5723941,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tor-tb-2026-08-18-total-7pt5",
+    "title": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4861.3302,
+    "whale_pct": 6.164,
+    "whale_value_at_open": 78870.4134,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 52,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787058082.5724037,
     "fills": 1
   }
 ]
