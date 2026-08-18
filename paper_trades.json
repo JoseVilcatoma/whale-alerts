@@ -14045,5 +14045,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787052776.8331907,
     "fills": 1
+  },
+  {
+    "timestamp": 1787053240,
+    "timestamp_added": 1787053241.1366975,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-msc-bbp-2026-08-18",
+    "title": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage",
+    "outcome": "MASONIC",
+    "side": "BUY",
+    "whale_usd": 1771.2,
+    "whale_pct": 0.918,
+    "whale_value_at_open": 193020.2483,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 61,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787053250.1202831,
+    "fills": 2
   }
 ]
