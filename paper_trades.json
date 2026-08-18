@@ -13454,8 +13454,8 @@
     "title": "Sion: Murkel Dellien vs Ryan Nijboer",
     "outcome": "Ryan Nijboer",
     "side": "BUY",
-    "whale_usd": 1461.297833,
-    "whale_pct": 0.783,
+    "whale_usd": 2271.297833,
+    "whale_pct": 1.217,
     "whale_value_at_open": 186707.2096,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
@@ -13465,8 +13465,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787047476.6723013,
-    "fills": 2
+    "last_fill_at": 1787048519.6493998,
+    "fills": 3
   },
   {
     "timestamp": 1787047328,
@@ -13604,6 +13604,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787048164.0568357,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787048379,
+    "timestamp_added": 1787048380.5251422,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lib-cir-flu-2026-08-18-spread-home-1pt5",
+    "title": "Spread: CS Independiente Rivadavia (-1.5)",
+    "outcome": "Fluminense FC",
+    "side": "BUY",
+    "whale_usd": 656.999,
+    "whale_pct": 4.272,
+    "whale_value_at_open": 15378.3945,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 87,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787048380.5251486,
     "fills": 1
   }
 ]
