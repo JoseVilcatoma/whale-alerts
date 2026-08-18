@@ -14193,8 +14193,8 @@
     "title": "Roehampton: Yuta Shimizu vs Anton Matusevich",
     "outcome": "Anton Matusevich",
     "side": "BUY",
-    "whale_usd": 2006.2173909999997,
-    "whale_pct": 1.21,
+    "whale_usd": 10359.119848999999,
+    "whale_pct": 6.248,
     "whale_value_at_open": 165796.7378,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
@@ -14204,8 +14204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787055770.714415,
-    "fills": 1
+    "last_fill_at": 1787060104.9361281,
+    "fills": 4
   },
   {
     "timestamp": 1787056328,
