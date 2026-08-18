@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 13:59:44 (hora de Perú)
+Actualizado: 2026-08-18 14:01:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **395**  ($20,175,233 en total)
+- Apuestas registradas: **396**  ($20,210,233 en total)
 - Resueltas: **388** — 233 ganadas / 155 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 120
 
 ### Balance
@@ -43,13 +43,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 0 | 1 | ⚠️ 100% (4) | $203,000 | +$72,405 |
 | SDTrading | 3 | 4 | 0 | ⚠️ 43% (7) | $194,497 | -$39,606 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | xifutloong3 | 2 | 4 | 0 | ⚠️ 33% (6) | $192,469 | -$102,805 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 0 | 0 | ⚠️ 100% (4) | $168,000 | +$72,405 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | — | ⏳ Pendiente |
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.72 (58¢) | $46,265 | -$46,265 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs | Zizou Bergs | 2.27 (44¢) | $42,567 | -$42,567 | ❌ Perdida |
 | winwin518168 | Spread: Chicago Sky (-2.5) | Seattle Storm | 1.92 (52¢) | $27,209 | +$25,116 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $59,113 | -$59,113 | ❌ Perdida |

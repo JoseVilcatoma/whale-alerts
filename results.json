@@ -5943,5 +5943,20 @@
     "status": "pending",
     "ultimo_fill": 1787079329,
     "fills": 5
+  },
+  {
+    "telegram_msg_id": 827,
+    "timestamp": 1787079606,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-nakashi-medvede-2026-08-18",
+    "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 34999.999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787079606,
+    "fills": 1
   }
 ]
