@@ -14176,8 +14176,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14458,8 +14458,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 44,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "Kulilun"
     ],
@@ -14577,8 +14577,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 61,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.39,
     "overlaps_with": [
       "Kulilun",
       "danielwolfmorales3pddb6dl6"
@@ -14603,8 +14603,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 99,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14746,8 +14746,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.42,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -15092,8 +15092,8 @@
     "title": "Quebec City: James Watt vs Ugo Blanchet",
     "outcome": "Ugo Blanchet",
     "side": "BUY",
-    "whale_usd": 564.0600000000001,
-    "whale_pct": 0.221,
+    "whale_usd": 2538.979998,
+    "whale_pct": 0.993,
     "whale_value_at_open": 255638.3689,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 69,
@@ -15103,8 +15103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787071958.5043302,
-    "fills": 1
+    "last_fill_at": 1787072425.8991148,
+    "fills": 2
   },
   {
     "timestamp": 1787072016,
@@ -15138,8 +15138,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 9980.286189999999,
-    "whale_pct": 4.054,
+    "whale_usd": 18904.17809,
+    "whale_pct": 7.679,
     "whale_value_at_open": 246187.7543,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
@@ -15149,8 +15149,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787072289.096713,
-    "fills": 2
+    "last_fill_at": 1787072431.2336717,
+    "fills": 3
   },
   {
     "timestamp": 1787072212,
@@ -15197,5 +15197,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787072264.404977,
     "fills": 1
+  },
+  {
+    "timestamp": 1787072460,
+    "timestamp_added": 1787072460.7152367,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-sly-tlnpir-2026-08-18-game2",
+    "title": "LoL: Solary vs TLN Pirates - Game 2 Winner",
+    "outcome": "Solary",
+    "side": "BUY",
+    "whale_usd": 1431.547,
+    "whale_pct": 0.559,
+    "whale_value_at_open": 256174.1518,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 66,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787072464.3331285,
+    "fills": 2
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 831.6347472079648,
+  "bankroll": 818.5458665985923,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3045,6 +3045,31 @@
       "timestamp": 1787070961.4890208,
       "bankroll": 831.63,
       "event": "won: ferrariChampions2026 \u2014 Sion: Benjamin Hassan vs Oleksandr Ovcharenko"
+    },
+    {
+      "timestamp": 1787072413.8540092,
+      "bankroll": 821.63,
+      "event": "lost: Kulilun \u2014 Cincinnati Open: Andrey Rublev vs Nuno Borges"
+    },
+    {
+      "timestamp": 1787072414.3658297,
+      "bankroll": 811.63,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Andrey Rublev vs Nuno Borges"
+    },
+    {
+      "timestamp": 1787072414.7663705,
+      "bankroll": 818.03,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Andrey Rublev vs Nuno Borges"
+    },
+    {
+      "timestamp": 1787072474.8009531,
+      "bankroll": 818.13,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Katerina Siniakova vs Madison Keys"
+    },
+    {
+      "timestamp": 1787072475.5032725,
+      "bankroll": 818.55,
+      "event": "won: swisstony \u2014 Cincinnati Open: Katerina Siniakova vs Madison Keys"
     }
   ]
 }
