@@ -11237,8 +11237,8 @@
     "title": "Kingston: Blaise Bicknell vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 1385.714285,
-    "whale_pct": 0.421,
+    "whale_usd": 3045.130285,
+    "whale_pct": 0.925,
     "whale_value_at_open": 329234.5711,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -11248,8 +11248,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011231.0853848,
-    "fills": 2
+    "last_fill_at": 1787013948.7628105,
+    "fills": 3
   },
   {
     "timestamp": 1787009015,
@@ -11496,8 +11496,8 @@
     "title": "San Diego Padres vs. New York Mets",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 640.0,
-    "whale_pct": 0.193,
+    "whale_usd": 2783.0472,
+    "whale_pct": 0.837,
     "whale_value_at_open": 332356.1859,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -11509,8 +11509,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011248.95718,
-    "fills": 1
+    "last_fill_at": 1787013950.6908505,
+    "fills": 2
   },
   {
     "timestamp": 1787011311,
@@ -12044,8 +12044,8 @@
     "title": "Will SC Internacional win on 2026-08-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2067.519999,
-    "whale_pct": 0.785,
+    "whale_usd": 2807.8959990000003,
+    "whale_pct": 1.067,
     "whale_value_at_open": 263266.236,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -12058,8 +12058,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013375.1656702,
-    "fills": 1
+    "last_fill_at": 1787013957.7628467,
+    "fills": 2
   },
   {
     "timestamp": 1787013428,

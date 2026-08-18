@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:44:23 (hora de Perú)
+Actualizado: 2026-08-17 19:46:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $843.83
@@ -166,7 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ⏳ pendiente | — |
-| swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
+| swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -189,6 +189,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 57% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 65% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 90% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 68% | 10.00 | 2.9% | ✅ ganada | +4.71 |
