@@ -14638,8 +14638,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Radu Mihai Papoe",
     "side": "BUY",
-    "whale_usd": 20427.1349,
-    "whale_pct": 10.237,
+    "whale_usd": 21618.5993,
+    "whale_pct": 10.834,
     "whale_value_at_open": 199540.9182,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
@@ -14649,8 +14649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787064058.645736,
-    "fills": 4
+    "last_fill_at": 1787064195.2453997,
+    "fills": 5
   },
   {
     "timestamp": 1787059377,
@@ -14868,8 +14868,8 @@
     "title": "Prague 2: Maxim Mrva vs Nerman Fatic",
     "outcome": "Maxim Mrva",
     "side": "BUY",
-    "whale_usd": 20018.4614,
-    "whale_pct": 9.516,
+    "whale_usd": 25117.8414,
+    "whale_pct": 11.941,
     "whale_value_at_open": 210356.2001,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -14879,8 +14879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063423.454534,
-    "fills": 4
+    "last_fill_at": 1787064247.2823398,
+    "fills": 5
   },
   {
     "timestamp": 1787061881,
