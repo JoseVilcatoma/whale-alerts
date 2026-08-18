@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 01:03:08 (hora de Perú)
+Actualizado: 2026-08-18 01:05:11 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $820.52
-**Retorno acumulado:** -17.95%
+**Bankroll actual:** $827.06
+**Retorno acumulado:** -17.29%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 01:03:08 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $610.52)
+**Capital comprometido ahora mismo:** $180.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $647.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 4 | 0 | 0 | +28.32 USD |
 | swisstony | 24 | 7 | 3 | +22.92 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 1 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
 | bigspending | 1 | 0 | 0 | +10.83 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| RN1 | 71 | 32 | 13 | -22.03 USD |
+| RN1 | 72 | 33 | 11 | -21.62 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 0 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
@@ -53,12 +53,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 527
-- **Aciertos:** 312 (59.2%)
-- **Cuota promedio de entrada:** 60.5%
+- **Apuestas resueltas:** 530
+- **Aciertos:** 314 (59.2%)
+- **Cuota promedio de entrada:** 60.4%
 - **Stake promedio:** $9.77
-- **Total apostado (suma de stakes):** $5,147.67
-- **ROI sobre lo apostado:** -4.34%
+- **Total apostado (suma de stakes):** $5,177.67
+- **ROI sobre lo apostado:** -4.19%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,8 +68,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 240 | 48.3% | 49.8% | -1.4 pp |
-| 60-79% | 153 | 69.3% | 69.1% | +0.2 pp |
+| 40-59% | 242 | 48.3% | 49.7% | -1.4 pp |
+| 60-79% | 154 | 69.5% | 69.1% | +0.4 pp |
 | 80-94% | 68 | 88.2% | 86.6% | +1.6 pp |
 | 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ✅ ganada | +10.41 |
 | RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ✅ ganada | +0.75 |
 | swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ✅ ganada | +6.67 |
@@ -193,9 +193,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ❌ perdida | -10.00 |
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Vladimir Osminkin (BUY) | 42% | 10.00 | 5.3% | ❌ perdida | -10.00 |
 | RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 2.1% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 31959.3% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 31959.3% | ✅ ganada | +6.13 |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 8.0% | ✅ ganada | +4.08 |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 16.0% | ✅ ganada | +7.86 |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 10.7% | ✅ ganada | +7.54 |
