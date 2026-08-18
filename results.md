@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 18:49:09 (hora de Perú)
+Actualizado: 2026-08-18 18:51:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **413**  ($20,887,720 en total)
+- Apuestas registradas: **414**  ($20,920,220 en total)
 - Resueltas: **395** — 238 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 123
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 41 | 21 | 0 | 66% | $3,494,354 | +$272,874 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 5 | 65% | $1,699,481 | +$259,757 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 6 | 65% | $1,731,981 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Las Vegas Aces (-3.5) | Las Vegas Aces | 1.96 (51¢) | $30,362 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
 | kamloic | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.28 (78¢) | $28,437 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | paquitomillonario | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals | 1.45 (69¢) | $28,483 | +$12,797 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds | 2.38 (42¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $28,043 | +$25,886 | ✅ Ganada |
-| Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | +$47,993 | ✅ Ganada |
