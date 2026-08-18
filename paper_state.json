@@ -1,5 +1,5 @@
 {
-  "bankroll": 828.0892926057048,
+  "bankroll": 823.4902951119706,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2960,6 +2960,26 @@
       "timestamp": 1787062645.8559926,
       "bankroll": 828.09,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Yuta Shimizu vs Anton Matusevich"
+    },
+    {
+      "timestamp": 1787062835.2543764,
+      "bankroll": 835.95,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787062835.3544858,
+      "bankroll": 843.49,
+      "event": "won: RN1 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787062835.454596,
+      "bankroll": 833.49,
+      "event": "lost: RN1 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787062835.5547159,
+      "bankroll": 823.49,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
     }
   ]
 }
