@@ -1,5 +1,5 @@
 {
-  "bankroll": 827.0585475683714,
+  "bankroll": 827.3678259188869,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2760,6 +2760,11 @@
       "timestamp": 1787032998.633843,
       "bankroll": 827.06,
       "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin"
+    },
+    {
+      "timestamp": 1787036052.1012826,
+      "bankroll": 827.37,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong"
     }
   ]
 }
