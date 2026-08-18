@@ -14868,8 +14868,8 @@
     "title": "Prague 2: Maxim Mrva vs Nerman Fatic",
     "outcome": "Maxim Mrva",
     "side": "BUY",
-    "whale_usd": 10155.6954,
-    "whale_pct": 4.828,
+    "whale_usd": 20018.4614,
+    "whale_pct": 9.516,
     "whale_value_at_open": 210356.2001,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -14879,8 +14879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787062361.8864748,
-    "fills": 2
+    "last_fill_at": 1787063423.454534,
+    "fills": 4
   },
   {
     "timestamp": 1787061881,
@@ -14937,8 +14937,8 @@
     "title": "Counter-Strike: SPARTA vs MOUZ NXT - Map 2 Winner",
     "outcome": "MOUZ NXT",
     "side": "BUY",
-    "whale_usd": 689.0011,
-    "whale_pct": 0.315,
+    "whale_usd": 1425.5611,
+    "whale_pct": 0.651,
     "whale_value_at_open": 219016.1615,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 62,
@@ -14948,8 +14948,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787062407.1870866,
-    "fills": 1
+    "last_fill_at": 1787063480.7395623,
+    "fills": 2
   },
   {
     "timestamp": 1787062997,
@@ -15100,8 +15100,8 @@
     "title": "Prague 2: Maxim Mrva vs Nerman Fatic",
     "outcome": "Nerman Fatic",
     "side": "BUY",
-    "whale_usd": 3926.7415,
-    "whale_pct": 20.078,
+    "whale_usd": 15798.645299999998,
+    "whale_pct": 80.78,
     "whale_value_at_open": 19557.6133,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
@@ -15113,7 +15113,30 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063392.4558158,
+    "last_fill_at": 1787063424.2874024,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787063409,
+    "timestamp_added": 1787063409.580343,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-echever-tarvet-2026-08-18",
+    "title": "Roehampton: John Echeverria vs Oliver Tarvet",
+    "outcome": "Oliver Tarvet",
+    "side": "BUY",
+    "whale_usd": 3508.9199999999996,
+    "whale_pct": 1.436,
+    "whale_value_at_open": 244298.7426,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787063409.5803502,
     "fills": 1
   }
 ]
