@@ -11237,8 +11237,8 @@
     "title": "Kingston: Blaise Bicknell vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 3045.130285,
-    "whale_pct": 0.925,
+    "whale_usd": 4203.582127,
+    "whale_pct": 1.277,
     "whale_value_at_open": 329234.5711,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -11248,8 +11248,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787013948.7628105,
-    "fills": 3
+    "last_fill_at": 1787014132.8838956,
+    "fills": 4
   },
   {
     "timestamp": 1787009015,
@@ -11354,8 +11354,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 676.6276,
-    "whale_pct": 0.173,
+    "whale_usd": 5547.427599999999,
+    "whale_pct": 1.416,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -11365,8 +11365,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787010007.1065772,
-    "fills": 1
+    "last_fill_at": 1787014180.2445753,
+    "fills": 4
   },
   {
     "timestamp": 1787010191,
