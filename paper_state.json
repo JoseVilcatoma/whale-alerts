@@ -1,5 +1,5 @@
 {
-  "bankroll": 829.5600197810792,
+  "bankroll": 826.1969773435247,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2685,6 +2685,31 @@
       "timestamp": 1787029448.8843155,
       "bankroll": 829.56,
       "event": "won: ferrariChampions2026 \u2014 Club Necaxa vs. Club Le\u00f3n FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787030576.2054636,
+      "bankroll": 819.56,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Alexandra Eala vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787030576.3056526,
+      "bankroll": 809.56,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Alexandra Eala vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787030576.6062574,
+      "bankroll": 817.1,
+      "event": "won: RN1 \u2014 Cincinnati Open: Alexandra Eala vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787030576.7064433,
+      "bankroll": 824.96,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Alexandra Eala vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787030577.906101,
+      "bankroll": 826.2,
+      "event": "won: swisstony \u2014 Cincinnati Open: Alexandra Eala vs Amanda Anisimova"
     }
   ]
 }

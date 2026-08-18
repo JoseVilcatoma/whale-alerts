@@ -12625,8 +12625,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 55,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12648,8 +12648,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -12719,8 +12719,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 57,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.54,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -12744,8 +12744,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 56,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.86,
     "overlaps_with": [
       "RN1"
     ],
@@ -12984,8 +12984,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.24,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -13213,6 +13213,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787030300.2986708,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787030622,
+    "timestamp_added": 1787030622.2323978,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-vasilev-uchijim-2026-08-18",
+    "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
+    "outcome": "Alisa Vasileva",
+    "side": "BUY",
+    "whale_usd": 2013.61,
+    "whale_pct": 1.119,
+    "whale_value_at_open": 179977.6762,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787030622.749716,
     "fills": 2
   }
 ]
