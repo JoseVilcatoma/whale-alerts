@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 16:24:10 (hora de Perú)
+Actualizado: 2026-08-18 16:26:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **401**  ($20,416,595 en total)
-- Resueltas: **393** — 236 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **394** — 237 ganadas / 157 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 122
 
 ### Balance
 
-- **Resultado de los apostadores: +$798,838** sobre $20,125,794 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,215** sobre $38,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$802,438** sobre $20,152,193 apostados (ROI **+4.0%**)
+- Copiando $100 fijo en cada una: **-$1,201** sobre $38,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
-| 0b1 | 3 | 0 | 1 | ⚠️ 100% (3) | $133,843 | +$11,982 |
+| 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $133,843 | +$15,582 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 122 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | — | ⏳ Pendiente |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | — | ⏳ Pendiente |
 | 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | — | ⏳ Pendiente |
+| 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | -$165,332 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
