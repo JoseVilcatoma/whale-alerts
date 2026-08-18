@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:46:01 (hora de Perú)
+Actualizado: 2026-08-18 07:48:07 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $799.83
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 6.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 41% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 5.5% | ⏳ pendiente | — |
