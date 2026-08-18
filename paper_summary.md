@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:55:33 (hora de Perú)
+Actualizado: 2026-08-18 03:57:38 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:55:33 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $390.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $416.32)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $376.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,11 +45,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | RN1 | 79 | 36 | 21 | -26.84 USD |
-| HomeRunHazard | 25 | 17 | 8 | -31.87 USD |
+| HomeRunHazard | 25 | 17 | 10 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 8 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 10 | -94.76 USD |
 
 ## Análisis general
 
@@ -172,16 +172,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
 | atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
 | atp-compagn-dahlin-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-sf-cle-2026-08-18-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Ksen | Ksenia Zaytseva (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | San Francisco Giants vs. Cleveland Guard | Cleveland Guardians (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Meiling Wang vs | Chenting Zhu (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 72% | 10.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Gaeul Jang (BUY) | 59% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
@@ -203,7 +208,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Maria Kalyakina (BUY) | 45% | 10.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Over (BUY) | 49% | 10.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Haru | Sakura Hosogi (BUY) | 45% | 10.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Gokberk Saritas (BUY) | 52% | 10.00 | 5.5% | ⏳ pendiente | — |
-| RN1 | Prague 2: Florian Broska vs Sean Cuenin | Florian Broska (BUY) | 43% | 10.00 | 3.3% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 2.9% | ⏳ pendiente | — |
