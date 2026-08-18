@@ -1,5 +1,5 @@
 {
-  "bankroll": 831.8556768219422,
+  "bankroll": 824.0507987731618,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3015,6 +3015,16 @@
       "timestamp": 1787065061.5404875,
       "bankroll": 831.86,
       "event": "won: ferrariChampions2026 \u2014 Sion: Kai Wehnelt vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1787065613.5055575,
+      "bankroll": 821.86,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic"
+    },
+    {
+      "timestamp": 1787065613.9542563,
+      "bankroll": 824.05,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic"
     }
   ]
 }
