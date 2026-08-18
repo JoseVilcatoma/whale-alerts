@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 1 | +0.00 USD |
+| sentrio | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -45,8 +45,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | RN1 | 80 | 36 | 3 | -18.32 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| HomeRunHazard | 25 | 17 | 1 | -31.87 USD |
-| 111111111115 | 11 | 12 | 0 | -33.43 USD |
+| HomeRunHazard | 25 | 17 | 14 | -31.87 USD |
+| 111111111115 | 11 | 12 | 1 | -33.43 USD |
+| RN1 | 82 | 38 | 19 | -36.34 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 88 | 62 | 3 | -94.76 USD |
@@ -170,6 +171,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
+| atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
+| itf-schunk-jang-2026-08-18 | RN1, sentrio |
+| atp-soto-molleke-2026-08-18 | HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-ehrensc-wehnelt-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
+| atp-compagn-dahlin-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-sf-cle-2026-08-18-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-nyy-bal-2026-08-18-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
+| atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
+| mlb-lad-col-2026-08-18-total-11pt5 | HomeRunHazard, ferrariChampions2026 |
+| itf-adams-gao-2026-08-18 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
