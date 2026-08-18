@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 61545.301087,
-    "whale_pct": 13.795,
+    "whale_usd": 69311.930587,
+    "whale_pct": 15.535,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020269.0982463,
-    "fills": 15
+    "last_fill_at": 1787020716.252283,
+    "fills": 16
   },
   {
     "timestamp": 1787015430,
