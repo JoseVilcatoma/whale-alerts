@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:07:46 (hora de Perú)
+Actualizado: 2026-08-18 12:09:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:07:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $415.99)
+**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $395.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
 | sentrio | 1 | 0 | 6 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
-| swisstony | 26 | 9 | 5 | +7.83 USD |
+| swisstony | 26 | 9 | 6 | +7.83 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 114 | 72 | 20 | -85.22 USD |
+| ferrariChampions2026 | 114 | 72 | 21 | -85.22 USD |
 
 ## Análisis general
 
@@ -184,11 +184,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 89% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 7.1% | ⏳ pendiente | — |
 | swisstony | Will Al Okhdood SC win on 2026-08-18? | Yes (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 92% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 2 Winn | Solary (BUY) | 66% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 2 Winn | Solary (BUY) | 66% | 10.00 | 1.4% | ⏳ pendiente | — |
 | swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Xiyu Wang vs Elina Svit | Elina Svitolina (BUY) | 75% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 80% | 10.00 | 7.7% | ⏳ pendiente | — |
@@ -202,7 +204,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Learner Tien vs Frances | Learner Tien (BUY) | 55% | 10.00 | 18.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 67% | 10.00 | 22.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 69% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Solary vs TLN Pirates (BO3) - LFL P | Solary (BUY) | 69% | 10.00 | 0.8% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 10.00 | 20.3% | ⏳ pendiente | — |
 | swisstony | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 97% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 1 Winn | Solary (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -212,5 +214,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Geoffrey Blancaneaux (BUY) | 51% | 10.00 | 7.4% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 50% | 10.00 | 15.5% | 💰 vendida anticipada | -8.20 |
-| ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Matheus Pucinelli de Almeida (BUY) | 72% | 10.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Krakow Women: Sandra Samir vs Po | Polina Leykina (BUY) | 58% | 10.00 | 1.0% | ✅ ganada | +7.24 |
