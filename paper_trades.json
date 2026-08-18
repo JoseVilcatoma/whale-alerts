@@ -12573,8 +12573,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 1970.2399999999998,
-    "whale_pct": 0.851,
+    "whale_usd": 2501.0894,
+    "whale_pct": 1.08,
     "whale_value_at_open": 231597.5836,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -12586,8 +12586,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016434.3127384,
-    "fills": 1
+    "last_fill_at": 1787016645.8709064,
+    "fills": 2
   },
   {
     "timestamp": 1787016550,
@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 1777.4648,
-    "whale_pct": 0.757,
+    "whale_usd": 2664.9564,
+    "whale_pct": 1.136,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,7 +12609,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016550.5180905,
-    "fills": 1
+    "last_fill_at": 1787016629.8437455,
+    "fills": 2
   }
 ]
