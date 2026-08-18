@@ -15138,8 +15138,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 29968.74569,
-    "whale_pct": 12.173,
+    "whale_usd": 31484.03149,
+    "whale_pct": 12.789,
     "whale_value_at_open": 246187.7543,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
@@ -15149,8 +15149,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075225.9527304,
-    "fills": 4
+    "last_fill_at": 1787075467.8094015,
+    "fills": 5
   },
   {
     "timestamp": 1787072212,
@@ -15299,8 +15299,8 @@
     "title": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 4620.103697999999,
-    "whale_pct": 1.917,
+    "whale_usd": 5587.373697999999,
+    "whale_pct": 2.318,
     "whale_value_at_open": 241033.0384,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
@@ -15312,8 +15312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074951.6264057,
-    "fills": 3
+    "last_fill_at": 1787075460.1229014,
+    "fills": 4
   },
   {
     "timestamp": 1787072879,
@@ -15878,8 +15878,8 @@
     "title": "Will Olympique Lyonnais win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1702.559997,
-    "whale_pct": 0.636,
+    "whale_usd": 2308.019996,
+    "whale_pct": 0.862,
     "whale_value_at_open": 267883.2592,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -15889,8 +15889,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787075338.5377612,
-    "fills": 2
+    "last_fill_at": 1787075415.2270303,
+    "fills": 3
   },
   {
     "timestamp": 1787074981,
@@ -15990,6 +15990,79 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787075311.520327,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787075387,
+    "timestamp_added": 1787075388.1395662,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "skc-jab-ett-2026-08-18-total-2pt5",
+    "title": "Al Jabalain Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1512.269998,
+    "whale_pct": 0.492,
+    "whale_value_at_open": 307495.3395,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 80,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075388.1395767,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787075401,
+    "timestamp_added": 1787075401.4339023,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-fen-lyo-2026-08-18-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1112.2279999999998,
+    "whale_pct": 0.471,
+    "whale_value_at_open": 236048.5254,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 74,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075401.4339123,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787075402,
+    "timestamp_added": 1787075402.349476,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-iva-mazzola-2026-08-18",
+    "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
+    "outcome": "Alessandra Mazzola",
+    "side": "BUY",
+    "whale_usd": 1083.76,
+    "whale_pct": 0.459,
+    "whale_value_at_open": 236048.5254,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 78,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787075402.3494875,
     "fills": 1
   }
 ]
