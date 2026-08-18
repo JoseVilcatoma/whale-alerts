@@ -1,5 +1,5 @@
 {
-  "bankroll": 795.3657321336859,
+  "bankroll": 795.7823988003526,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2845,6 +2845,11 @@
       "timestamp": 1787051686.166476,
       "bankroll": 795.37,
       "event": "won: ferrariChampions2026 \u2014 Prague 2: Chun-Hsin Tseng vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787052124.961532,
+      "bankroll": 795.78,
+      "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Denisa Zoldakova vs Aran Teixido Garcia"
     }
   ]
 }
