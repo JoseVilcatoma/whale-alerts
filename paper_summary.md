@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:48:53 (hora de Perú)
+Actualizado: 2026-08-17 23:50:57 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.48
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 23:48:53 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $261.24 en 28 posiciones abiertas (disponible para nuevas apuestas: $565.24)
+**Capital comprometido ahora mismo:** $271.24 en 29 posiciones abiertas (disponible para nuevas apuestas: $555.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| RN1 | 67 | 30 | 12 | -15.76 USD |
+| RN1 | 67 | 30 | 13 | -15.76 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 0 | -31.87 USD |
@@ -173,10 +173,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Will CF Pachuca win on 2026-08-17? | No (BUY) | 69% | 10.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 89% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Maiko Uchijima (BUY) | 73% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
@@ -202,4 +203,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ❌ perdida | -0.00 |
 | ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 5.6% | ✅ ganada | +0.00 |
-| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 4.0% | ✅ ganada | +0.00 |
