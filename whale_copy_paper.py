@@ -111,6 +111,28 @@ MIN_ODDS_PCT = float(os.environ.get("MIN_ODDS_PCT", "40"))
 # El 2% es una ESTIMACIÓN prudente, no un dato medido — ajustable según lo que
 # veas al comparar con operaciones reales.
 SLIPPAGE_PCT = float(os.environ.get("SLIPPAGE_PCT", "2"))
+# COMISIÓN DE POLYMARKET (taker fee). Solo la paga quien "toma" el precio del
+# mercado — que es exactamente lo que hacemos al copiar rápido a una ballena.
+# Fórmula oficial: fee = coeficiente x acciones x precio x (1 - precio)
+# Como acciones = stake / precio, se simplifica a: fee = coeficiente x stake x (1 - precio)
+# Coeficiente por categoría (vigente desde julio 2026): deportes 0.05, cripto 0.07,
+# política/finanzas/tech 0.04, economía/cultura/clima 0.05, geopolítica 0 (sin fee).
+# Como este bot solo opera mercados deportivos/esports, usamos 0.05.
+# OJO: Polymarket cambia estas tasas cada tanto (deportes pasó de 0.03 a 0.05 en
+# julio 2026), así que conviene reverificar antes de operar con plata real.
+TAKER_FEE_COEF = float(os.environ.get("TAKER_FEE_COEF", "0.05"))
+# Polymarket rechaza órdenes por debajo de un mínimo de ACCIONES (no de dólares).
+# El valor típico es 5, pero se define por mercado (campo minimum_order_size), así
+# que si algún día operás en real conviene consultarlo por mercado en vez de asumirlo.
+# Como acciones = stake / precio, con $5 se cubre todo el rango de cuotas que usamos
+# (a cuota 95% hacen falta $4.75); con $1 no se llega en ninguna.
+MIN_SHARES = float(os.environ.get("MIN_SHARES", "5"))
+
+
+def taker_fee(stake_usd, precio_pct):
+    """Comisión que Polymarket cobra al entrar. Se paga SIEMPRE, gane o pierda."""
+    p = precio_pct / 100.0
+    return TAKER_FEE_COEF * stake_usd * (1 - p)
 # Monto mínimo EN DÓLARES que debe tener la operación de la ballena para
 # considerarla una señal. Filtra los fragmentos de ejecución (fills de
 # centavos) que no representan una decisión, solo el motor casando órdenes.
@@ -484,6 +506,9 @@ def build_summary_md():
           if SIZING_MODE == "FIJO" else f"proporcional al % de la ballena (tope {MAX_SINGLE_POSITION_PCT:.0f}%)"),
         "",
         f"**Filtro de cuota mínima:** solo se replican apuestas de {MIN_ODDS_PCT:.0f}% o más",
+        f"**Comisión de Polymarket:** taker fee con coeficiente {TAKER_FEE_COEF} (deportes) — "
+        f"se paga al entrar gane o pierda, y otra vez al vender anticipadamente. "
+        f"Mínimo de orden: {MIN_SHARES:.0f} acciones.",
         f"**Slippage aplicado:** {SLIPPAGE_PCT:.1f}% — entramos siempre a peor precio que la ballena "
         f"(su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.",
         f"**Capital comprometido ahora mismo:** ${sum(t.get('paper_stake_usd',0) for t in trades if t['status']=='pending'):,.2f} "
@@ -534,6 +559,11 @@ def build_summary_md():
             f"- **Stake promedio:** ${stake_prom:,.2f}",
             f"- **Total apostado (suma de stakes):** ${total_apostado:,.2f}",
             f"- **ROI sobre lo apostado:** {roi:+.2f}%",
+            f"- **Comisiones pagadas (taker fee):** ${sum(t.get('fee_usd',0) for t in resueltas):,.2f} "
+            f"({sum(t.get('fee_usd',0) for t in resueltas)/total_apostado*100:.2f}% del capital apostado)",
+            f"- **ROI que habría dado SIN comisiones:** "
+            f"{(pnl_resueltas + sum(t.get('fee_usd',0) for t in resueltas))/total_apostado*100:+.2f}% "
+            f"_(referencia: cuánto pesan las comisiones)_",
             "",
             "### ¿Aciertan más o menos de lo que promete la cuota?",
             "",
@@ -617,6 +647,7 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
             "whale_value_at_open": whale_value_at_open,
             "paper_stake_usd": round(paper_stake, 2),
             "odds_at_bet": odds,
+            "fee_usd": round(taker_fee(paper_stake, odds), 3),
             "odds_ballena": odds_ballena if odds_ballena is not None else odds,
             "status": "pending",
             "profit_usd": 0.0,
@@ -629,7 +660,7 @@ def log_paper_trade(username, wallet, trade, whale_usd, whale_pct, paper_stake, 
         trades_dirty = True
 
     aviso = f"🧪 PAPER — {username} apostó {whale_pct:.2f}% de su portafolio\n"
-    aviso += f"Réplica simulada: ${paper_stake:,.2f}\n"
+    aviso += f"Réplica simulada: ${paper_stake:,.2f} (comisión: ${taker_fee(paper_stake, odds):.3f})\n"
     aviso += f"Mercado: {trade.get('title','')}\n"
     aviso += f"Apuesta a: {trade.get('outcome','')} ({trade.get('side','')})\n"
     if odds_ballena is not None and odds_ballena != odds:
@@ -669,6 +700,9 @@ def resolve_pending_trades():
             profit = stake * (1 - odds) / odds
         else:
             profit = -stake
+        # La comisión de entrada se paga SIEMPRE, gane o pierda la apuesta.
+        fee = tr.get("fee_usd") or taker_fee(stake, tr["odds_at_bet"])
+        profit -= fee
         with lock:
             tr["status"] = result
             tr["profit_usd"] = round(profit, 2)
@@ -707,6 +741,11 @@ def close_position_early(username, wallet, trade, sell_price_pct):
             entry = tr["odds_at_bet"] / 100.0
             stake = tr["paper_stake_usd"]
             profit = stake * (sell_price_pct / 100.0 / entry - 1) if entry > 0 else -stake
+            # Dos comisiones: la de entrada + la de salida (vender también es tomar precio)
+            valor_salida = stake * (sell_price_pct / 100.0 / entry) if entry > 0 else 0
+            fee_total = (tr.get("fee_usd") or taker_fee(stake, tr["odds_at_bet"])) + taker_fee(valor_salida, sell_price_pct)
+            profit -= fee_total
+            tr["fee_total_usd"] = round(fee_total, 3)
             tr["status"] = "cerrada_venta"
             tr["profit_usd"] = round(profit, 2)
             tr["closed_price"] = sell_price_pct
@@ -905,6 +944,13 @@ def merge_or_open_position(username, wallet, trade, whale_usd, whale_pct, odds, 
 
     recortado_bankroll = desired_stake > available
     paper_stake = min(desired_stake, available)
+
+    acciones = paper_stake / (odds / 100.0) if odds > 0 else 0
+    if 0 < paper_stake and acciones < MIN_SHARES:
+        print(f"🧪 PAPER — {username}: se ignora, ${paper_stake:,.2f} a cuota {odds}% son solo "
+              f"{acciones:.1f} acciones y Polymarket exige un mínimo de {MIN_SHARES:.0f} "
+              f"(harían falta ${MIN_SHARES*odds/100:,.2f}) — {trade.get('title')}")
+        return
 
     if paper_stake <= 0:
         print(f"🧪 PAPER — {username}: se ignora, no queda bankroll disponible "
