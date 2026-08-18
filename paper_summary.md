@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:24:26 (hora de Perú)
+Actualizado: 2026-08-18 04:26:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $805.71
-**Retorno acumulado:** -19.43%
+**Bankroll actual:** $796.82
+**Retorno acumulado:** -20.32%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:24:26 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $255.71)
+**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $266.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,21 +44,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 81 | 37 | 21 | -27.45 USD |
 | HomeRunHazard | 25 | 17 | 14 | -31.87 USD |
 | 111111111115 | 11 | 12 | 1 | -33.43 USD |
+| RN1 | 82 | 38 | 19 | -36.34 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
 | ferrariChampions2026 | 88 | 62 | 16 | -94.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 546
-- **Aciertos:** 324 (59.3%)
-- **Cuota promedio de entrada:** 60.7%
+- **Apuestas resueltas:** 548
+- **Aciertos:** 325 (59.3%)
+- **Cuota promedio de entrada:** 60.8%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,337.67
-- **ROI sobre lo apostado:** -4.46%
+- **Total apostado (suma de stakes):** $5,357.67
+- **ROI sobre lo apostado:** -4.61%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,9 +68,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 248 | 48.0% | 49.8% | -1.8 pp |
+| 40-59% | 249 | 47.8% | 49.8% | -2.0 pp |
 | 60-79% | 157 | 70.1% | 69.1% | +1.0 pp |
-| 80-94% | 73 | 86.3% | 86.7% | -0.4 pp |
+| 80-94% | 74 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 23 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 68% | 10.00 | 11.2% | ⏳ pendiente | — |
+| 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 68% | 10.00 | 29.7% | ⏳ pendiente | — |
 | sentrio | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 88% | 10.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 76% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Julia Adams vs Xin | Xinyu Gao (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -205,7 +205,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | San Francisco Giants vs. Cleveland Guard | Cleveland Guardians (BUY) | 64% | 10.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Meiling Wang vs | Chenting Zhu (BUY) | 58% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 72% | 10.00 | 3.6% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ✅ ganada | +1.11 |
 | RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Gaeul Jang (BUY) | 59% | 10.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
