@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 07:28:13 (hora de Perú)
+Actualizado: 2026-08-18 07:30:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **387**  ($19,759,051 en total)
-- Resueltas: **384** — 230 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **385** — 231 ganadas / 154 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 117
 
 ### Balance
 
-- **Resultado de los apostadores: +$946,744** sobre $19,660,050 apostados (ROI **+4.8%**)
-- Copiando $100 fijo en cada una: **-$1,131** sobre $37,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$952,038** sobre $19,702,888 apostados (ROI **+4.8%**)
+- Copiando $100 fijo en cada una: **-$1,119** sobre $37,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | — | ⏳ Pendiente |
+| yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
 | xabidaking | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.75 (57¢) | $25,724 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
