@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:18:10 (hora de Perú)
+Actualizado: 2026-08-18 04:20:17 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $805.71
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:18:10 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $530.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $275.71)
+**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $265.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 1 | +0.00 USD |
+| sentrio | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -171,6 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
 | atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
+| itf-schunk-jang-2026-08-18 | RN1, sentrio |
 | atp-soto-molleke-2026-08-18 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-compagn-dahlin-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-sf-cle-2026-08-18-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -183,6 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sentrio | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 88% | 10.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 76% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Julia Adams vs Xin | Xinyu Gao (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Julia Adams vs Xin | Xinyu Gao (BUY) | 87% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -212,4 +214,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Båstad Men: Oren Vasser vs Chris | Oren Vasser (BUY) | 87% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Luca Staeheli vs Andrey Chepelev | Luca Staeheli (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 5.1% | ⏳ pendiente | — |
-| HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 4.7% | ⏳ pendiente | — |
