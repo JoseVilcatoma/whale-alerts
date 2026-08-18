@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:03:31 (hora de Perú)
+Actualizado: 2026-08-18 03:05:34 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -175,9 +175,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 83% | 10.00 | 9.8% | ⏳ pendiente | — |
+| RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 83% | 10.00 | 10.8% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Maria Kalyakina (BUY) | 45% | 10.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Over (BUY) | 49% | 10.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Haru | Sakura Hosogi (BUY) | 45% | 10.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Gokberk Saritas (BUY) | 52% | 10.00 | 5.5% | ⏳ pendiente | — |

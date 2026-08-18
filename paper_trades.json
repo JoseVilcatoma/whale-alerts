@@ -13500,8 +13500,8 @@
     "title": "ITF W15 Tianjin 3 Women: Kamonwan Yodpetch vs Tiana Tian Deng",
     "outcome": "Tiana Tian Deng",
     "side": "BUY",
-    "whale_usd": 549.0,
-    "whale_pct": 0.931,
+    "whale_usd": 1394.12,
+    "whale_pct": 2.363,
     "whale_value_at_open": 58998.7066,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 92,
@@ -13511,8 +13511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787039992.355477,
-    "fills": 1
+    "last_fill_at": 1787040231.92697,
+    "fills": 2
   },
   {
     "timestamp": 1787040068,
@@ -13546,8 +13546,8 @@
     "title": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
     "outcome": "Nastasja Schunk",
     "side": "BUY",
-    "whale_usd": 5704.5,
-    "whale_pct": 9.777,
+    "whale_usd": 6273.4894110000005,
+    "whale_pct": 10.752,
     "whale_value_at_open": 58347.6197,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 83,
@@ -13557,7 +13557,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787040094.4112499,
-    "fills": 4
+    "last_fill_at": 1787040278.7532926,
+    "fills": 5
   }
 ]
