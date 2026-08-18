@@ -11521,8 +11521,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 3741.405604,
-    "whale_pct": 1.871,
+    "whale_usd": 5554.011604,
+    "whale_pct": 2.777,
     "whale_value_at_open": 199981.8102,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -11534,8 +11534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787017226.7012448,
-    "fills": 3
+    "last_fill_at": 1787017835.4337938,
+    "fills": 4
   },
   {
     "timestamp": 1787011327,
@@ -12598,8 +12598,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 2664.9564,
-    "whale_pct": 1.136,
+    "whale_usd": 3755.9150790000003,
+    "whale_pct": 1.601,
     "whale_value_at_open": 234662.1565,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
@@ -12609,8 +12609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787016629.8437455,
-    "fills": 2
+    "last_fill_at": 1787017787.6862068,
+    "fills": 3
   },
   {
     "timestamp": 1787017391,
