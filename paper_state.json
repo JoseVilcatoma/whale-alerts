@@ -1,5 +1,5 @@
 {
-  "bankroll": 826.3208978256938,
+  "bankroll": 806.3208978256938,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2815,6 +2815,16 @@
       "timestamp": 1787038720.336658,
       "bankroll": 826.32,
       "event": "lost: RN1 \u2014 ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima"
+    },
+    {
+      "timestamp": 1787038968.5244112,
+      "bankroll": 816.32,
+      "event": "lost: RN1 \u2014 Will Club Puebla win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787038968.6246457,
+      "bankroll": 806.32,
+      "event": "lost: swisstony \u2014 Will Club Puebla win on 2026-08-17?"
     }
   ]
 }
