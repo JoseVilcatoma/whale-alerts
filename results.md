@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 21:42:24 (hora de Perú)
+Actualizado: 2026-08-17 21:44:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **381**  ($19,549,163 en total)
-- Resueltas: **375** — 226 ganadas / 149 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **376** — 226 ganadas / 150 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,051,855** sobre $19,335,254 apostados (ROI **+5.4%**)
-- Copiando $100 fijo en cada una: **-$797** sobre $36,600 (ROI **-2.2%**)
+- **Resultado de los apostadores: +$1,012,551** sobre $19,374,557 apostados (ROI **+5.2%**)
+- Copiando $100 fijo en cada una: **-$897** sobre $36,700 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
-| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | — | ⏳ Pendiente |
+| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | -$39,304 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | +$13,982 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $56,444 | -$56,444 | ❌ Perdida |
