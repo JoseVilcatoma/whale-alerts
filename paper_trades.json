@@ -14538,5 +14538,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787067669.2483537,
     "fills": 1
+  },
+  {
+    "timestamp": 1787067830,
+    "timestamp_added": 1787067831.431785,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hassan-ovchare-2026-08-18",
+    "title": "Sion: Benjamin Hassan vs Oleksandr Ovcharenko",
+    "outcome": "Benjamin Hassan",
+    "side": "BUY",
+    "whale_usd": 726.75,
+    "whale_pct": 0.231,
+    "whale_value_at_open": 314102.95,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787067831.4317942,
+    "fills": 1
   }
 ]
