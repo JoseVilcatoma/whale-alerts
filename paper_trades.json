@@ -14743,5 +14743,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787060388.0283937,
     "fills": 1
+  },
+  {
+    "timestamp": 1787061156,
+    "timestamp_added": 1787061157.280746,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-okutoyi-petreti-2026-08-18",
+    "title": "ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic",
+    "outcome": "Angella Okutoyi",
+    "side": "BUY",
+    "whale_usd": 927.1600000000001,
+    "whale_pct": 0.46,
+    "whale_value_at_open": 201684.2028,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 82,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787061157.280753,
+    "fills": 1
   }
 ]
