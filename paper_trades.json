@@ -13963,8 +13963,8 @@
     "title": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage",
     "outcome": "Bebop",
     "side": "BUY",
-    "whale_usd": 639.9801949999999,
-    "whale_pct": 0.328,
+    "whale_usd": 1176.620195,
+    "whale_pct": 0.604,
     "whale_value_at_open": 194916.5794,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 60,
@@ -13974,8 +13974,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787051953.5146546,
-    "fills": 1
+    "last_fill_at": 1787055181.394827,
+    "fills": 2
   },
   {
     "timestamp": 1787052194,
@@ -14032,8 +14032,8 @@
     "title": "Sion: Dimitar Kuzmanov vs Marvin Moeller",
     "outcome": "Dimitar Kuzmanov",
     "side": "BUY",
-    "whale_usd": 7533.162,
-    "whale_pct": 3.755,
+    "whale_usd": 9086.103176,
+    "whale_pct": 4.53,
     "whale_value_at_open": 200591.6595,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -14043,8 +14043,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787052776.8331907,
-    "fills": 1
+    "last_fill_at": 1787055267.041104,
+    "fills": 2
   },
   {
     "timestamp": 1787053240,
