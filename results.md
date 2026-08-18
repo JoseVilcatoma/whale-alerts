@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 21:52:41 (hora de Perú)
+Actualizado: 2026-08-17 21:54:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **381**  ($19,549,163 en total)
-- Resueltas: **376** — 226 ganadas / 150 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **378** — 227 ganadas / 151 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,012,551** sobre $19,374,557 apostados (ROI **+5.2%**)
-- Copiando $100 fijo en cada una: **-$897** sobre $36,700 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$1,002,991** sobre $19,439,673 apostados (ROI **+5.2%**)
+- Copiando $100 fijo en cada una: **-$905** sobre $36,900 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 38 | 20 | 1 | 66% | $3,379,168 | +$258,011 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 21 | 12 | 1 | 64% | $1,468,470 | +$233,091 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 0 | 65% | $1,468,470 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 3edmond.dantes | 3 | 3 | 0 | ⚠️ 50% (6) | $445,270 | -$82,826 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
-| pleaseplease123 | 5 | 2 | 2 | ⚠️ 71% (7) | $380,477 | +$64,948 |
+| pleaseplease123 | 5 | 3 | 1 | 62% | $380,477 | +$28,721 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 0 | ⚠️ 83% (6) | $297,029 | +$215,740 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -101,9 +101,9 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | Sassy-Bucket | St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $51,992 | +$47,993 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce | Martin Landaluce | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SDTrading | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $32,935 | +$21,956 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 2.00 (50¢) | $36,227 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 2.00 (50¢) | $36,227 | -$36,227 | ❌ Perdida |
 | Sunshine.Smile | LoL: T1 vs DN SOOPers - Game 3 Winner | DN SOOPers | 1.47 (68¢) | $25,937 | +$12,206 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers | 1.92 (52¢) | $28,889 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers | 1.92 (52¢) | $28,889 | +$26,666 | ✅ Ganada |
 | swisstony | Cincinnati Open: Tereza Valentova vs Elina Svitolina | Elina Svitolina | 1.12 (89¢) | $59,443 | +$7,347 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | xifutloong3 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 1.61 (62¢) | $30,975 | +$18,985 | ✅ Ganada |
