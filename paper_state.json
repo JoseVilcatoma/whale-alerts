@@ -1,5 +1,5 @@
 {
-  "bankroll": 825.9913275415902,
+  "bankroll": 819.8802164304791,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3080,6 +3080,16 @@
       "timestamp": 1787072799.6179528,
       "bankroll": 825.99,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Liam Draxl vs Andres Andrade"
+    },
+    {
+      "timestamp": 1787073294.043598,
+      "bankroll": 815.99,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Peter Makk"
+    },
+    {
+      "timestamp": 1787073294.3441494,
+      "bankroll": 819.88,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Peter Makk"
     }
   ]
 }
