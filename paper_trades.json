@@ -14606,5 +14606,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787045689.1277041,
     "fills": 2
+  },
+  {
+    "timestamp": 1787046015,
+    "timestamp_added": 1787046016.0112693,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tseng-barton-2026-08-17",
+    "title": "Prague 2: Chun-Hsin Tseng vs Hynek Barton",
+    "outcome": "Hynek Barton",
+    "side": "BUY",
+    "whale_usd": 5156.667866000001,
+    "whale_pct": 2.723,
+    "whale_value_at_open": 189393.809,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 59,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787046016.01128,
+    "fills": 1
   }
 ]
