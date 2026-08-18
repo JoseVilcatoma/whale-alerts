@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:50:45 (hora de Perú)
+Actualizado: 2026-08-18 10:52:48 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $824.51
-**Retorno acumulado:** -17.55%
+**Bankroll actual:** $849.53
+**Retorno acumulado:** -15.05%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:50:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $584.51)
+**Capital comprometido ahora mismo:** $200.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $649.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,6 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bigspending | 1 | 0 | 0 | +10.83 USD |
 | Dota2winner | 1 | 0 | 0 | +9.61 USD |
 | crisp1973 | 1 | 0 | 0 | +9.61 USD |
+| sentrio | 1 | 0 | 3 | +9.23 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 1 | 0 | +8.78 USD |
 | swisstony | 25 | 9 | 0 | +7.41 USD |
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
@@ -35,33 +36,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 4 | +0.00 USD |
 | GoalLineGhost | 0 | 0 | 4 | +0.00 USD |
 | Kulilun | 0 | 0 | 1 | +0.00 USD |
 | danielwolfmorales3pddb6dl6 | 0 | 0 | 2 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
+| Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
 | RN1 | 84 | 38 | 1 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 1 | -31.87 USD |
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 107 | 71 | 10 | -96.02 USD |
+| ferrariChampions2026 | 109 | 71 | 8 | -89.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 580
-- **Aciertos:** 347 (59.8%)
+- **Apuestas resueltas:** 584
+- **Aciertos:** 351 (60.1%)
 - **Cuota promedio de entrada:** 61.0%
 - **Stake promedio:** $9.79
-- **Total apostado (suma de stakes):** $5,677.67
-- **ROI sobre lo apostado:** -3.87%
+- **Total apostado (suma de stakes):** $5,717.67
+- **ROI sobre lo apostado:** -3.40%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,9 +71,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 262 | 48.9% | 49.8% | -0.9 pp |
-| 60-79% | 168 | 69.6% | 68.8% | +0.9 pp |
-| 80-94% | 77 | 84.4% | 86.6% | -2.2 pp |
+| 40-59% | 264 | 49.2% | 49.8% | -0.5 pp |
+| 60-79% | 169 | 69.8% | 68.8% | +1.0 pp |
+| 80-94% | 78 | 84.6% | 86.6% | -2.0 pp |
 | 95-99% (casi seguro) | 28 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -210,4 +210,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | Bebop (BUY) | 60% | 10.00 | 0.6% | ❌ perdida | -10.00 |
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
-| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ✅ ganada | +4.93 |
