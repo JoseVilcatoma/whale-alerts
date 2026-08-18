@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 13:53:34 (hora de Perú)
+Actualizado: 2026-08-18 13:55:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **395**  ($20,084,567 en total)
+- Apuestas registradas: **395**  ($20,175,233 en total)
 - Resueltas: **388** — 233 ganadas / 155 perdidas (**60%** de acierto)
 - Pendientes: 7
 - Apostadores distintos: 120
@@ -28,9 +28,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 0 | 65% | $1,468,470 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
+| 3edmond.dantes | 3 | 3 | 1 | ⚠️ 50% (6) | $610,601 | -$82,826 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 3edmond.dantes | 3 | 3 | 1 | ⚠️ 50% (6) | $519,936 | -$82,826 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | pleaseplease123 | 5 | 4 | 1 | 56% | $409,477 | -$7,052 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 120 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $74,666 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | — | ⏳ Pendiente |
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | — | ⏳ Pendiente |
