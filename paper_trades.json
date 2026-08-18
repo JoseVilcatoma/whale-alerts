@@ -14406,8 +14406,8 @@
     "title": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe",
     "outcome": "Oriol Roca Batalla",
     "side": "BUY",
-    "whale_usd": 14229.911338,
-    "whale_pct": 8.072,
+    "whale_usd": 20951.821338,
+    "whale_pct": 11.885,
     "whale_value_at_open": 176289.0555,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 49,
@@ -14417,8 +14417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787059478.893843,
-    "fills": 5
+    "last_fill_at": 1787060937.2143042,
+    "fills": 6
   },
   {
     "timestamp": 1787057595,
