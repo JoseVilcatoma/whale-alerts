@@ -1,5 +1,5 @@
 {
-  "bankroll": 825.0206255968246,
+  "bankroll": 826.0096365858357,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2380,6 +2380,11 @@
       "timestamp": 1787019198.923944,
       "bankroll": 825.02,
       "event": "won: RN1 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1787019699.01971,
+      "bankroll": 826.01,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
     }
   ]
 }
