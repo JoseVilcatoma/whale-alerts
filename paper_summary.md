@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 07:33:23 (hora de Perú)
+Actualizado: 2026-08-18 07:35:29 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $811.04
-**Retorno acumulado:** -18.90%
+**Bankroll actual:** $806.19
+**Retorno acumulado:** -19.38%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 07:33:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $481.04)
+**Capital comprometido ahora mismo:** $310.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $496.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 95 | 65 | 19 | -102.93 USD |
+| ferrariChampions2026 | 96 | 66 | 17 | -107.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 556
-- **Aciertos:** 331 (59.5%)
+- **Apuestas resueltas:** 558
+- **Aciertos:** 332 (59.5%)
 - **Cuota promedio de entrada:** 60.9%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,437.67
-- **ROI sobre lo apostado:** -4.28%
+- **Total apostado (suma de stakes):** $5,457.67
+- **ROI sobre lo apostado:** -4.36%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,8 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 251 | 48.2% | 49.7% | -1.5 pp |
-| 60-79% | 160 | 69.4% | 69.0% | +0.3 pp |
+| 40-59% | 252 | 48.0% | 49.7% | -1.6 pp |
+| 60-79% | 161 | 69.6% | 69.0% | +0.6 pp |
 | 80-94% | 73 | 86.3% | 86.6% | -0.3 pp |
 | 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
 

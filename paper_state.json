@@ -1,5 +1,5 @@
 {
-  "bankroll": 811.0419008591829,
+  "bankroll": 806.193416010698,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2890,6 +2890,16 @@
       "timestamp": 1787054948.6487896,
       "bankroll": 811.04,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Cristina Pescucci vs Franziska Sziedat"
+    },
+    {
+      "timestamp": 1787056457.1483533,
+      "bankroll": 801.04,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Gilles Arnaud Bailly vs Norbert Gombos"
+    },
+    {
+      "timestamp": 1787056457.2485013,
+      "bankroll": 806.19,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Gilles Arnaud Bailly vs Norbert Gombos"
     }
   ]
 }
