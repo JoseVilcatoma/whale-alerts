@@ -13224,8 +13224,8 @@
     "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
     "outcome": "Alisa Vasileva",
     "side": "BUY",
-    "whale_usd": 2976.81,
-    "whale_pct": 1.654,
+    "whale_usd": 9825.6632,
+    "whale_pct": 5.459,
     "whale_value_at_open": 179977.6762,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -13235,8 +13235,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787032620.9338222,
-    "fills": 3
+    "last_fill_at": 1787034548.0132592,
+    "fills": 4
   },
   {
     "timestamp": 1787031043,
