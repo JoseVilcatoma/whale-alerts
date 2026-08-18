@@ -15052,8 +15052,8 @@
     "title": "Sion: Gerard Campana Lee vs Alex Marti Pujolras",
     "outcome": "Alex Marti Pujolras",
     "side": "BUY",
-    "whale_usd": 6030.0,
-    "whale_pct": 2.515,
+    "whale_usd": 10084.6,
+    "whale_pct": 4.206,
     "whale_value_at_open": 239756.4641,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 68,
@@ -15063,8 +15063,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787063252.8996198,
-    "fills": 1
+    "last_fill_at": 1787065671.0912302,
+    "fills": 2
   },
   {
     "timestamp": 1787063273,
