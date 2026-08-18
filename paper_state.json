@@ -1,5 +1,5 @@
 {
-  "bankroll": 818.5458665985923,
+  "bankroll": 825.7872459089372,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -3070,6 +3070,11 @@
       "timestamp": 1787072475.5032725,
       "bankroll": 818.55,
       "event": "won: swisstony \u2014 Cincinnati Open: Katerina Siniakova vs Madison Keys"
+    },
+    {
+      "timestamp": 1787072538.8580992,
+      "bankroll": 825.79,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Sandra Samir vs Polina Leykina"
     }
   ]
 }
