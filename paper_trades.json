@@ -11354,8 +11354,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 8712.459217999998,
-    "whale_pct": 2.223,
+    "whale_usd": 24474.179217999997,
+    "whale_pct": 6.246,
     "whale_value_at_open": 391868.7363,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 45,
@@ -11365,8 +11365,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787020300.7795072,
-    "fills": 7
+    "last_fill_at": 1787020876.4388661,
+    "fills": 8
   },
   {
     "timestamp": 1787010191,
@@ -12716,8 +12716,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 2829.3999999999996,
-    "whale_pct": 1.104,
+    "whale_usd": 4547.25,
+    "whale_pct": 1.774,
     "whale_value_at_open": 256384.9831,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -12729,8 +12729,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018067.95539,
-    "fills": 2
+    "last_fill_at": 1787020875.9370346,
+    "fills": 3
   },
   {
     "timestamp": 1787018128,
