@@ -13720,5 +13720,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787041735.2285411,
     "fills": 1
+  },
+  {
+    "timestamp": 1787041961,
+    "timestamp_added": 1787041962.2783222,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-wraith-justpl-2026-08-18-game1",
+    "title": "Counter-Strike: WRAITH PCIFIC vs Just Players - Map 1 Winner",
+    "outcome": "Just Players",
+    "side": "BUY",
+    "whale_usd": 683.9294,
+    "whale_pct": 0.544,
+    "whale_value_at_open": 125822.9474,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 91,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787041962.2783322,
+    "fills": 1
   }
 ]
