@@ -14788,8 +14788,8 @@
     "title": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
     "outcome": "Juan Estevez",
     "side": "BUY",
-    "whale_usd": 21305.025622999998,
-    "whale_pct": 9.031,
+    "whale_usd": 22758.525622999998,
+    "whale_pct": 9.647,
     "whale_value_at_open": 235921.7895,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
@@ -14799,8 +14799,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787069799.082843,
-    "fills": 4
+    "last_fill_at": 1787071165.0076845,
+    "fills": 6
   },
   {
     "timestamp": 1787069835,

@@ -8,13 +8,13 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1786928689.2786043,
-    "roi_pct": 624.02,
+    "roi_pct": 624.11,
     "short_term_pct": 70.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1786964201.6571553,
-    "roi_pct": 562.99,
+    "roi_pct": 560.04,
     "short_term_pct": 100.0
   },
   "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2": {
@@ -26,37 +26,37 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1787025377.304819,
-    "roi_pct": 269.6,
+    "roi_pct": 280.74,
     "short_term_pct": 100.0
   },
   "0xaa7789219c17e180dcb5933099c90d885f1d15a5": {
     "username": "alaskabaked",
     "added_at": 1787030993.0771308,
-    "roi_pct": 187.0,
+    "roi_pct": 150.49,
     "short_term_pct": 100.0
   },
   "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
     "username": "danielwolfmorales3pddb6dl6",
     "added_at": 1787051957.57441,
-    "roi_pct": 359.91,
-    "short_term_pct": 100.0
-  },
-  "0x204f72f35326db932158cba6adff0b9a1da95e14": {
-    "username": "swisstony",
-    "added_at": 1787069305.4409354,
-    "roi_pct": 371.47,
-    "short_term_pct": 50.0
-  },
-  "0xe76f0a36d05d215a69f1f84466c8922702a1d40c": {
-    "username": "Kulilun",
-    "added_at": 1787069305.4409437,
-    "roi_pct": 941.02,
+    "roi_pct": 222.55,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1787070246.6130698,
-    "roi_pct": 73.18,
+    "roi_pct": 73.4,
     "short_term_pct": 100.0
+  },
+  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
+    "username": "HVAB",
+    "added_at": 1787071186.4835417,
+    "roi_pct": 7331.2,
+    "short_term_pct": 100.0
+  },
+  "0xdb83e85ffd22faa4009273034770f96ffc5b1e50": {
+    "username": "sentrio",
+    "added_at": 1787071186.4835675,
+    "roi_pct": 60.52,
+    "short_term_pct": 90.0
   }
 }

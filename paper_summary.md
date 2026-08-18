@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 11:38:14 (hora de Perú)
+Actualizado: 2026-08-18 11:40:18 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $831.63
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 10.00 | 20.3% | ⏳ pendiente | — |
 | swisstony | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 97% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Solary vs TLN Pirates - Game 1 Winn | Solary (BUY) | 82% | 10.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Juan Estevez (BUY) | 65% | 10.00 | 9.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Juan Estevez (BUY) | 65% | 10.00 | 9.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: ⁠Movistar KOI Fénix vs Barça eSport | ⁠Movistar KOI Fénix (BUY) | 91% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
