@@ -11664,8 +11664,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 2080.25,
-    "whale_pct": 1.014,
+    "whale_usd": 3491.3,
+    "whale_pct": 1.702,
     "whale_value_at_open": 205106.9479,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 59,
@@ -11675,8 +11675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787014985.600827,
-    "fills": 2
+    "last_fill_at": 1787019980.7782547,
+    "fills": 3
   },
   {
     "timestamp": 1787011505,
@@ -12405,8 +12405,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 50971.788445,
-    "whale_pct": 11.425,
+    "whale_usd": 57007.354445,
+    "whale_pct": 12.777,
     "whale_value_at_open": 446156.6238,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12418,8 +12418,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787019862.5923638,
-    "fills": 10
+    "last_fill_at": 1787019926.7617483,
+    "fills": 13
   },
   {
     "timestamp": 1787015430,
@@ -13307,6 +13307,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787019836.6484401,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787019911,
+    "timestamp_added": 1787019911.6193595,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wnba-dal-gsv-2026-08-17-spread-home-6pt5",
+    "title": "Spread: Golden State Valkyries (-6.5)",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 620.0,
+    "whale_pct": 0.168,
+    "whale_value_at_open": 369550.23,
+    "paper_stake_usd": 4.36,
+    "odds_at_bet": 63,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787019911.6193676,
     "fills": 1
   }
 ]
