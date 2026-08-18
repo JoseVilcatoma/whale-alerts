@@ -1,5 +1,5 @@
 {
-  "bankroll": 804.8394163442123,
+  "bankroll": 795.3657321336859,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2835,6 +2835,16 @@
       "timestamp": 1787048890.126141,
       "bankroll": 804.84,
       "event": "lost: ferrariChampions2026 \u2014 ITF W15 Tianjin 3 Women: Jiangxue Han vs Meng Yi Chen"
+    },
+    {
+      "timestamp": 1787051684.811888,
+      "bankroll": 794.84,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Chun-Hsin Tseng vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787051686.166476,
+      "bankroll": 795.37,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Chun-Hsin Tseng vs Hynek Barton"
     }
   ]
 }
