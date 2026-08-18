@@ -1,5 +1,5 @@
 {
-  "bankroll": 829.6654252455899,
+  "bankroll": 831.4045556803725,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2510,6 +2510,26 @@
       "timestamp": 1787022324.6570563,
       "bankroll": 829.67,
       "event": "won: ferrariChampions2026 \u2014 LoL: paiN Gaming Academy vs Ei Nerd Esports (BO3) - Circuito Desafiante Playoffs"
+    },
+    {
+      "timestamp": 1787023143.7647865,
+      "bankroll": 841.4,
+      "event": "won: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787023143.8649516,
+      "bankroll": 831.4,
+      "event": "lost: RN1 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787023146.368682,
+      "bankroll": 821.4,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787023148.2652302,
+      "bankroll": 831.4,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5"
     }
   ]
 }
