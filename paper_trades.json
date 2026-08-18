@@ -11618,8 +11618,8 @@
     "title": "Cancun: Felipe Meligeni Alves vs Luka Pavlovic",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 1713.43,
-    "whale_pct": 0.514,
+    "whale_usd": 2458.5688,
+    "whale_pct": 0.737,
     "whale_value_at_open": 333500.5818,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 64,
@@ -11629,8 +11629,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011609.002452,
-    "fills": 3
+    "last_fill_at": 1787012386.4808252,
+    "fills": 4
   },
   {
     "timestamp": 1787011480,
