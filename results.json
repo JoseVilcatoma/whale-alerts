@@ -5853,5 +5853,20 @@
     "status": "pending",
     "ultimo_fill": 1787057888,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 818,
+    "timestamp": 1787060058,
+    "username": "Kulilun",
+    "wallet": "0xe76f0a36d05d215a69f1f84466c8922702a1d40c",
+    "slug": "atp-rublev-borges-2026-08-18",
+    "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 28405.536,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787060058,
+    "fills": 1
   }
 ]
