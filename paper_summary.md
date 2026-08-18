@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:38:45 (hora de Perú)
+Actualizado: 2026-08-18 04:40:47 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.82
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:38:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $236.82)
+**Capital comprometido ahora mismo:** $570.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $226.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 82 | 38 | 19 | -36.34 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 17 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 18 | -94.76 USD |
 
 ## Análisis general
 
@@ -185,6 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Prague 2: Chun-Hsin Tseng vs Hynek Barto | Hynek Barton (BUY) | 59% | 10.00 | 2.7% | ⏳ pendiente | — |
 | sentrio | Counter-Strike: Color vs Misa Esports (B | Color (BUY) | 75% | 10.00 | 19.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Nino Ehrenschneider vs Kai Wehnelt | Kai Wehnelt (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | sentrio | Prague 2: Oleksii Krutykh vs Daniel Sini | Oleksii Krutykh (BUY) | 98% | 10.00 | 4.0% | ⏳ pendiente | — |
@@ -214,4 +215,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 4.6% | ⏳ pendiente | — |
-| RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
