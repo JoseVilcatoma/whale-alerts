@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:15:32 (hora de Perú)
+Actualizado: 2026-08-18 09:17:33 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $819.91
-**Retorno acumulado:** -18.01%
+**Bankroll actual:** $828.09
+**Retorno acumulado:** -17.19%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:15:32 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $309.91)
+**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $328.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 103 | 69 | 29 | -102.94 USD |
+| ferrariChampions2026 | 104 | 69 | 28 | -94.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 569
-- **Aciertos:** 340 (59.8%)
+- **Apuestas resueltas:** 570
+- **Aciertos:** 341 (59.8%)
 - **Cuota promedio de entrada:** 61.1%
 - **Stake promedio:** $9.79
-- **Total apostado (suma de stakes):** $5,567.67
-- **ROI sobre lo apostado:** -4.02%
+- **Total apostado (suma de stakes):** $5,577.67
+- **ROI sobre lo apostado:** -3.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 255 | 48.6% | 49.7% | -1.1 pp |
+| 40-59% | 256 | 48.8% | 49.8% | -0.9 pp |
 | 60-79% | 165 | 69.7% | 68.9% | +0.8 pp |
 | 80-94% | 77 | 84.4% | 86.6% | -2.2 pp |
 | 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
@@ -202,7 +202,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 43% | 10.00 | 39.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 84% | 10.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 14.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 14.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 7.0% | ⏳ pendiente | — |

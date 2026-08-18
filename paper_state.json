@@ -1,5 +1,5 @@
 {
-  "bankroll": 819.9074744238867,
+  "bankroll": 828.0892926057048,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2955,6 +2955,11 @@
       "timestamp": 1787062401.4274063,
       "bankroll": 819.91,
       "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Denis Klok"
+    },
+    {
+      "timestamp": 1787062645.8559926,
+      "bankroll": 828.09,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Yuta Shimizu vs Anton Matusevich"
     }
   ]
 }
