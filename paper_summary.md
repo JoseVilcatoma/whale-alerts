@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:00:17 (hora de Perú)
+Actualizado: 2026-08-17 22:02:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $827.42
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:00:17 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $724.68 en 82 posiciones abiertas (disponible para nuevas apuestas: $102.74)
+**Capital comprometido ahora mismo:** $734.68 en 83 posiciones abiertas (disponible para nuevas apuestas: $92.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 61 | 26 | 27 | -11.66 USD |
+| RN1 | 61 | 26 | 28 | -11.66 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -177,6 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CF Pachuca win on 2026-08-17? | Yes (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 42% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 94% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 58% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -206,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 41% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 99% | 10.00 | 0.3% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 55% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 51% | 10.00 | 0.5% | ⏳ pendiente | — |
