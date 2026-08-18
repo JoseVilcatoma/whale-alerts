@@ -1,5 +1,5 @@
 {
-  "bankroll": 825.9213728062061,
+  "bankroll": 822.314815429157,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2990,6 +2990,16 @@
       "timestamp": 1787063085.5694077,
       "bankroll": 825.92,
       "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid"
+    },
+    {
+      "timestamp": 1787063824.959081,
+      "bankroll": 815.92,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage"
+    },
+    {
+      "timestamp": 1787063825.1594224,
+      "bankroll": 822.31,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage"
     }
   ]
 }
