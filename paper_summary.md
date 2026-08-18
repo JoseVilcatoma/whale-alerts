@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:17:16 (hora de Perú)
+Actualizado: 2026-08-17 19:19:19 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $829.64
@@ -158,7 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 0.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 91% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 71% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 54% | 10.00 | 2.0% | ⏳ pendiente | — |
