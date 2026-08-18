@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 08:02:56 (hora de Perú)
+Actualizado: 2026-08-18 08:04:59 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $799.83
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 1.2% | ⏳ pendiente | — |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 64% | 10.00 | 120.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Billy Blay | Michael Geerts (BUY) | 59% | 10.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | KBO: Kia Tigers vs. Hanwha Eagles | Kia Tigers (BUY) | 69% | 10.00 | 2.7% | ⏳ pendiente | — |
 | sentrio | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 52% | 10.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Ognjen Milic vs Lucio Ratti | Lucio Ratti (BUY) | 68% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MASONIC vs Bebop (BO3) - | MASONIC (BUY) | 61% | 10.00 | 1.3% | ⏳ pendiente | — |
