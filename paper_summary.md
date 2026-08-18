@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 02:20:54 (hora de Perú)
+Actualizado: 2026-08-18 02:22:55 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $832.31
-**Retorno acumulado:** -16.77%
+**Bankroll actual:** $832.62
+**Retorno acumulado:** -16.74%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 02:20:54 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $682.31)
+**Capital comprometido ahora mismo:** $140.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $692.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
-| RN1 | 77 | 34 | 8 | -10.85 USD |
+| RN1 | 78 | 34 | 7 | -10.54 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
@@ -53,12 +53,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 538
-- **Aciertos:** 320 (59.5%)
-- **Cuota promedio de entrada:** 60.6%
+- **Apuestas resueltas:** 539
+- **Aciertos:** 321 (59.6%)
+- **Cuota promedio de entrada:** 60.7%
 - **Stake promedio:** $9.77
-- **Total apostado (suma de stakes):** $5,257.67
-- **ROI sobre lo apostado:** -4.03%
+- **Total apostado (suma de stakes):** $5,267.67
+- **ROI sobre lo apostado:** -4.01%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 244 | 48.4% | 49.7% | -1.4 pp |
 | 60-79% | 156 | 69.9% | 69.0% | +0.8 pp |
 | 80-94% | 71 | 87.3% | 86.6% | +0.7 pp |
-| 95-99% (casi seguro) | 22 | 100.0% | 98.0% | +2.0 pp |
+| 95-99% (casi seguro) | 23 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Los Angeles Sparks vs. Connecticut Sun:  | Over (BUY) | 48% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Dabin Kim (BUY) | 54% | 10.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Under (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai- | Yu Hsiou Hsu (BUY) | 97% | 10.00 | 1.2% | ✅ ganada | +0.31 |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Yuquan Jin (BUY) | 51% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Chen Hui Ho (BUY) | 47% | 10.00 | 3.8% | ✅ ganada | +11.28 |
 | RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 9.7% | ✅ ganada | +0.31 |
