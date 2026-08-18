@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 08:34:00 (hora de Perú)
+Actualizado: 2026-08-18 08:36:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **389**  ($19,817,051 en total)
+- Apuestas registradas: **390**  ($19,845,456 en total)
 - Resueltas: **386** — 232 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 117
 
 ### Balance
@@ -48,12 +48,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 2 | 4 | 0 | ⚠️ 33% (6) | $192,469 | -$102,805 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
+| Kulilun | 2 | 0 | 1 | ⚠️ 100% (2) | $172,366 | +$48,653 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 0 | 0 | ⚠️ 100% (4) | $168,000 | +$72,405 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| Kulilun | 2 | 0 | 0 | ⚠️ 100% (2) | $143,960 | +$48,653 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | +$42,704 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | +$27,296 | ✅ Ganada |
 | Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | +$4,496 | ✅ Ganada |
-| WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | +$27,950 | ✅ Ganada |
