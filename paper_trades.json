@@ -14487,5 +14487,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787044395.364222,
     "fills": 1
+  },
+  {
+    "timestamp": 1787044787,
+    "timestamp_added": 1787044787.911525,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "itf-schunk-jang-2026-08-18",
+    "title": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
+    "outcome": "Nastasja Schunk",
+    "side": "BUY",
+    "whale_usd": 3241.5119999999997,
+    "whale_pct": 9.858,
+    "whale_value_at_open": 32882.0602,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787044788.393024,
+    "fills": 2
   }
 ]
