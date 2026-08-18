@@ -13759,8 +13759,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 80,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.5,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14569,8 +14569,8 @@
     "title": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
     "outcome": "HANJIN BRION Challengers",
     "side": "BUY",
-    "whale_usd": 1751.5900000000001,
-    "whale_pct": 0.868,
+    "whale_usd": 2851.1808,
+    "whale_pct": 1.414,
     "whale_value_at_open": 201679.9246,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 66,
@@ -14580,8 +14580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787059027.2934442,
-    "fills": 3
+    "last_fill_at": 1787059089.2856743,
+    "fills": 5
   },
   {
     "timestamp": 1787059032,
@@ -14605,5 +14605,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787059033.463961,
     "fills": 1
+  },
+  {
+    "timestamp": 1787059066,
+    "timestamp_added": 1787059066.5729623,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-okutoyi-petreti-2026-08-18",
+    "title": "ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic",
+    "outcome": "Laia Petretic",
+    "side": "BUY",
+    "whale_usd": 1253.88,
+    "whale_pct": 0.629,
+    "whale_value_at_open": 199317.1124,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 65,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787059157.993581,
+    "fills": 2
   }
 ]
