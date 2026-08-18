@@ -12172,8 +12172,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 88,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12195,8 +12195,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 89,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.24,
     "overlaps_with": [
       "RN1"
     ],
@@ -12763,8 +12763,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 16625.417596,
-    "whale_pct": 7.734,
+    "whale_usd": 17241.443237,
+    "whale_pct": 8.021,
     "whale_value_at_open": 214954.0632,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
@@ -12776,8 +12776,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787028826.2671583,
-    "fills": 6
+    "last_fill_at": 1787029030.6275969,
+    "fills": 7
   },
   {
     "timestamp": 1787026770,
@@ -12955,8 +12955,8 @@
     "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
     "outcome": "Maiko Uchijima",
     "side": "BUY",
-    "whale_usd": 3703.0699999999997,
-    "whale_pct": 1.337,
+    "whale_usd": 4215.44,
+    "whale_pct": 1.521,
     "whale_value_at_open": 277064.2368,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 73,
@@ -12966,8 +12966,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787028186.1633673,
-    "fills": 3
+    "last_fill_at": 1787029033.381771,
+    "fills": 4
   },
   {
     "timestamp": 1787028194,
@@ -13117,6 +13117,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787028551.8388398,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787029044,
+    "timestamp_added": 1787029045.1592867,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-hanleil-osminki-2026-08-18",
+    "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
+    "outcome": "Hanlei Lu",
+    "side": "BUY",
+    "whale_usd": 802.56,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 283401.637,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 49,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787029045.1592972,
     "fills": 1
   }
 ]
