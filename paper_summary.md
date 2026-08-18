@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 23:34:36 (hora de Perú)
+Actualizado: 2026-08-17 23:36:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.46
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 23:34:36 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $211.24 en 23 posiciones abiertas (disponible para nuevas apuestas: $595.22)
+**Capital comprometido ahora mismo:** $221.24 en 24 posiciones abiertas (disponible para nuevas apuestas: $585.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 23 | 17 | 2 | -51.89 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 85 | 59 | 7 | -85.92 USD |
+| ferrariChampions2026 | 85 | 59 | 8 | -85.92 USD |
 
 ## Análisis general
 
@@ -170,6 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 4.5 | Over (BUY) | 67% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Adolfo Vallejo (BUY) | 70% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-17? | No (BUY) | 81% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -177,12 +178,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 52% | 10.00 | 2.1% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 62% | 10.00 | 14215.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 71% | 10.00 | 2.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 8.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 56% | 10.00 | 10.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 57% | 10.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 78% | 10.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Tianjin 3 Women: Jiangxue Han vs | Jiangxue Han (BUY) | 68% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 46% | 10.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 6.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 55% | 10.00 | 7.3% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
@@ -199,4 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 78% | 0.00 | 0.2% | ✅ ganada | +0.00 |
 | swisstony | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 86% | 0.00 | 0.2% | ✅ ganada | +0.00 |
 | ferrariChampions2026 | Cancun: David Jorda Sanchis vs Alan Maga | Alan Magadan (BUY) | 55% | 2.60 | 1.6% | ✅ ganada | +2.13 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ❌ perdida | -10.00 |
