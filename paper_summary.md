@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:45:04 (hora de Perú)
+Actualizado: 2026-08-17 20:47:13 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $830.28
-**Retorno acumulado:** -16.97%
+**Bankroll actual:** $814.26
+**Retorno acumulado:** -18.57%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:45:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $697.67 en 82 posiciones abiertas (disponible para nuevas apuestas: $132.61)
+**Capital comprometido ahora mismo:** $691.65 en 81 posiciones abiertas (disponible para nuevas apuestas: $122.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,20 +44,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 50 | 24 | 30 | -28.30 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
+| RN1 | 50 | 25 | 30 | -38.30 USD |
 | HomeRunHazard | 22 | 15 | 5 | -46.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 67 | 50 | 30 | -80.02 USD |
+| ferrariChampions2026 | 67 | 51 | 29 | -86.04 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 441
-- **Aciertos:** 256 (58.0%)
+- **Apuestas resueltas:** 443
+- **Aciertos:** 256 (57.8%)
 - **Cuota promedio de entrada:** 59.2%
-- **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,410.00
-- **ROI sobre lo apostado:** -4.85%
+- **Stake promedio:** $9.99
+- **Total apostado (suma de stakes):** $4,426.02
+- **ROI sobre lo apostado:** -5.19%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,8 +67,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 204 | 48.0% | 49.6% | -1.6 pp |
-| 60-79% | 129 | 69.0% | 69.4% | -0.4 pp |
+| 40-59% | 205 | 47.8% | 49.6% | -1.8 pp |
+| 60-79% | 130 | 68.5% | 69.3% | -0.9 pp |
 | 80-94% | 45 | 93.3% | 86.3% | +7.0 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
 
@@ -168,6 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -190,11 +191,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 79% | 10.00 | 3.0% | ⏳ pendiente | — |
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ⏳ pendiente | — |
-| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ❌ perdida | -6.02 |
+| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ❌ perdida | -10.00 |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 61% | 10.00 | 0.2% | ⏳ pendiente | — |
 | HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ✅ ganada | +0.10 |
 | swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.7% | ⏳ pendiente | — |

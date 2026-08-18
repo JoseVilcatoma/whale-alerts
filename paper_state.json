@@ -1,5 +1,5 @@
 {
-  "bankroll": 830.2757978213126,
+  "bankroll": 814.2557978213126,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2315,6 +2315,16 @@
       "timestamp": 1787017118.82341,
       "bankroll": 830.28,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787017625.7755742,
+      "bankroll": 820.28,
+      "event": "lost: RN1 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787017626.0771534,
+      "bankroll": 814.26,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 7.5"
     }
   ]
 }
