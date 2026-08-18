@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:21:45 (hora de Perú)
+Actualizado: 2026-08-18 09:23:49 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $823.49
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:21:45 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $363.49)
+**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $343.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 105 | 70 | 26 | -96.90 USD |
+| ferrariChampions2026 | 105 | 70 | 28 | -96.90 USD |
 
 ## Análisis general
 
@@ -179,6 +179,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 60% | 10.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | SPARTA (BUY) | 55% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | MOUZ NXT (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Metizport vs Donstu Espo | Metizport (BUY) | 93% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
@@ -207,5 +209,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 7.0% | ❌ perdida | -10.00 |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ✅ ganada | +8.87 |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 41% | 10.00 | 0.9% | ❌ perdida | -10.00 |
-| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 5.5% | ✅ ganada | +7.54 |
