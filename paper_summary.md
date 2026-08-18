@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:33:12 (hora de Perú)
+Actualizado: 2026-08-17 21:35:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $828.96
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:33:12 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $812.48 en 93 posiciones abiertas (disponible para nuevas apuestas: $16.48)
+**Capital comprometido ahora mismo:** $828.96 en 95 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| RN1 | 55 | 25 | 29 | -22.39 USD |
+| RN1 | 55 | 25 | 31 | -22.39 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
@@ -174,6 +174,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 1.4% | ⏳ pendiente | — |
+| RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Club León FC win on 2026-08-17? | Yes (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -202,5 +204,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 71% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
