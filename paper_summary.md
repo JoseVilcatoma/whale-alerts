@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:09:49 (hora de Perú)
+Actualizado: 2026-08-18 12:11:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $825.99
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:09:49 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $395.99)
+**Capital comprometido ahora mismo:** $440.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $385.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 114 | 72 | 21 | -85.22 USD |
+| ferrariChampions2026 | 114 | 72 | 22 | -85.22 USD |
 
 ## Análisis general
 
@@ -184,6 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 46% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Bushido Wildcats vs Team Phoenix -  | Bushido Wildcats (BUY) | 84% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 89% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -213,4 +214,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Katerina Siniakova vs M | Madison Keys (BUY) | 96% | 10.00 | 1.1% | ✅ ganada | +0.42 |
 | ferrariChampions2026 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 51% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Geoffrey Blancaneaux vs Juan Estev | Geoffrey Blancaneaux (BUY) | 51% | 10.00 | 7.4% | ⏳ pendiente | — |
-| alaskabaked | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 50% | 10.00 | 15.5% | 💰 vendida anticipada | -8.20 |
