@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 00:24:07 (hora de Perú)
+Actualizado: 2026-08-18 00:26:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $826.20
-**Retorno acumulado:** -17.38%
+**Bankroll actual:** $826.95
+**Retorno acumulado:** -17.31%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 00:24:07 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $576.20)
+**Capital comprometido ahora mismo:** $240.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $586.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| RN1 | 69 | 31 | 14 | -16.86 USD |
+| RN1 | 70 | 31 | 13 | -16.11 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 0 | -31.87 USD |
@@ -53,12 +53,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 520
-- **Aciertos:** 308 (59.2%)
+- **Apuestas resueltas:** 521
+- **Aciertos:** 309 (59.3%)
 - **Cuota promedio de entrada:** 60.4%
 - **Stake promedio:** $9.78
-- **Total apostado (suma de stakes):** $5,087.67
-- **ROI sobre lo apostado:** -4.28%
+- **Total apostado (suma de stakes):** $5,097.67
+- **ROI sobre lo apostado:** -4.26%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 239 | 48.5% | 49.8% | -1.3 pp |
 | 60-79% | 148 | 69.6% | 69.1% | +0.5 pp |
-| 80-94% | 67 | 88.1% | 86.5% | +1.6 pp |
+| 80-94% | 68 | 88.2% | 86.6% | +1.6 pp |
 | 95-99% (casi seguro) | 21 | 100.0% | 98.0% | +2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei Men: Koki Matsuda vs Chen | Koki Matsuda (BUY) | 94% | 10.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Hanlei Lu vs Vla | Hanlei Lu (BUY) | 49% | 10.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 93% | 10.00 | 0.2% | ✅ ganada | +0.75 |
 | swisstony | Will Club Puebla win on 2026-08-17? | No (BUY) | 89% | 10.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 60% | 10.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | CF Pachuca vs. Club Puebla: O/U 4.5 | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
