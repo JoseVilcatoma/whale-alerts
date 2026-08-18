@@ -12502,8 +12502,8 @@
     "title": "Club Necaxa vs. Club Le\u00f3n FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 549.4406,
-    "whale_pct": 0.115,
+    "whale_usd": 1161.2726,
+    "whale_pct": 0.243,
     "whale_value_at_open": 478107.3255,
     "paper_stake_usd": 1.24,
     "odds_at_bet": 72,
@@ -12513,8 +12513,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787015577.2544446,
-    "fills": 1
+    "last_fill_at": 1787019164.806892,
+    "fills": 2
   },
   {
     "timestamp": 1787015719,
@@ -12531,8 +12531,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -12898,6 +12898,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787019115.3799706,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787019219,
+    "timestamp_added": 1787019219.7438815,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-gye-tal-2026-08-17-total-5pt5",
+    "title": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 718.54,
+    "whale_pct": 0.279,
+    "whale_value_at_open": 257340.1549,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787019219.7438924,
     "fills": 1
   }
 ]
