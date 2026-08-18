@@ -13237,5 +13237,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787030622.749716,
     "fills": 2
+  },
+  {
+    "timestamp": 1787031043,
+    "timestamp_added": 1787031044.247443,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-phantha-jeo-2026-08-18",
+    "title": "ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong",
+    "outcome": "Sunam Jeong",
+    "side": "BUY",
+    "whale_usd": 10855.158600000002,
+    "whale_pct": 7.536,
+    "whale_value_at_open": 144046.5725,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 97,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787031090.1203513,
+    "fills": 7
   }
 ]
