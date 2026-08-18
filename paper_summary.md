@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 00:30:19 (hora de Perú)
+Actualizado: 2026-08-18 00:32:23 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $826.95
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 00:30:19 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $586.95)
+**Capital comprometido ahora mismo:** $250.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $576.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
-| RN1 | 70 | 31 | 13 | -16.11 USD |
+| RN1 | 70 | 31 | 14 | -16.11 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
 | HomeRunHazard | 25 | 17 | 0 | -31.87 USD |
@@ -175,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W15 Tianjin 3 Women: Margot Phanthal | Sunam Jeong (BUY) | 97% | 10.00 | 7.5% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Alisa Vasileva  | Alisa Vasileva (BUY) | 59% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Yuquan Jin vs Xi | Xin Zhou (BUY) | 41% | 10.00 | 0.5% | ⏳ pendiente | — |
 | sentrio | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 2.7% | ⏳ pendiente | — |
@@ -204,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: Nongshim Red Force vs DN SOOPers (B | DN SOOPers (BUY) | 52% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 84% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
-| RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ✅ ganada | +4.08 |
