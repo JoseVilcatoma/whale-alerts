@@ -13976,5 +13976,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787051953.5146546,
     "fills": 1
+  },
+  {
+    "timestamp": 1787052194,
+    "timestamp_added": 1787052194.7925785,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cosano-krumich-2026-08-18",
+    "title": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
+    "outcome": "Javier Barranco Cosano",
+    "side": "BUY",
+    "whale_usd": 5555.743472,
+    "whale_pct": 2.781,
+    "whale_value_at_open": 199800.5799,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 58,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787052194.792584,
+    "fills": 1
   }
 ]
