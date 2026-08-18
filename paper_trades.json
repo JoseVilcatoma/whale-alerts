@@ -14881,5 +14881,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787061765.9588537,
     "fills": 1
+  },
+  {
+    "timestamp": 1787061881,
+    "timestamp_added": 1787061882.0208483,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-cin-2026-08-18-total-8pt5",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3392.589999,
+    "whale_pct": 1.607,
+    "whale_value_at_open": 211107.0706,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 54,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787061882.020857,
+    "fills": 1
   }
 ]

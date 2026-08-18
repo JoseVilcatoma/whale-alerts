@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:03:04 (hora de Perú)
+Actualizado: 2026-08-18 09:05:10 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.09
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:03:04 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $304.09)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $294.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 102 | 69 | 27 | -109.89 USD |
+| ferrariChampions2026 | 102 | 69 | 28 | -109.89 USD |
 
 ## Análisis general
 
@@ -179,6 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Over (BUY) | 54% | 10.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Maxim Mrva vs Nerman Fatic | Maxim Mrva (BUY) | 56% | 10.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Radu Albot vs Constantin Bit | Constantin Bittoun Kouzmine (BUY) | 49% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Omega (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
@@ -208,4 +209,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 57% | 10.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat (BUY) | 56% | 10.00 | 18.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Alec Deckers vs Patrick Brad | Patrick Brady (BUY) | 84% | 10.00 | 2.6% | ✅ ganada | +1.90 |
-| ferrariChampions2026 | Roehampton: Yuta Shimizu vs Anton Matuse | Anton Matusevich (BUY) | 55% | 10.00 | 6.2% | ⏳ pendiente | — |
