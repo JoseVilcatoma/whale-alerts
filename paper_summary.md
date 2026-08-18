@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 04:34:41 (hora de Perú)
+Actualizado: 2026-08-18 04:36:43 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $796.82
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 04:34:41 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $246.82)
+**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $236.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
-| sentrio | 0 | 0 | 3 | +0.00 USD |
+| sentrio | 0 | 0 | 4 | +0.00 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
@@ -185,6 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sentrio | Counter-Strike: Color vs Misa Esports (B | Color (BUY) | 75% | 10.00 | 19.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Nino Ehrenschneider vs Kai Wehnelt | Kai Wehnelt (BUY) | 89% | 10.00 | 0.4% | ⏳ pendiente | — |
 | sentrio | Prague 2: Oleksii Krutykh vs Daniel Sini | Oleksii Krutykh (BUY) | 98% | 10.00 | 4.0% | ⏳ pendiente | — |
 | 111111111115 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 68% | 10.00 | 152.8% | ⏳ pendiente | — |
@@ -214,4 +215,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | ITF M25 Santander Men: Pedro Rodenas vs  | Pedro Rodenas (BUY) | 82% | 10.00 | 1.6% | ⏳ pendiente | — |

@@ -14583,5 +14583,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787045501.1118813,
     "fills": 1
+  },
+  {
+    "timestamp": 1787045688,
+    "timestamp_added": 1787045688.3402178,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "cs2-color-mis-2026-08-18",
+    "title": "Counter-Strike: Color vs Misa Esports (BO3) - ESL Challenger League Europe Cup #4 Group B",
+    "outcome": "Color",
+    "side": "BUY",
+    "whale_usd": 7399.6892,
+    "whale_pct": 19.784,
+    "whale_value_at_open": 37402.593,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 75,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787045689.1277041,
+    "fills": 2
   }
 ]
