@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:52:48 (hora de Perú)
+Actualizado: 2026-08-18 10:54:51 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $849.53
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Oleksandr Ovcha | Benjamin Hassan (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Peter Makk (BUY) | 69% | 10.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Peter Makk (BUY) | 69% | 10.00 | 3.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 44% | 10.00 | 12.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 3.8% | ⏳ pendiente | — |
