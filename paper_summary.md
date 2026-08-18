@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:02:37 (hora de Perú)
+Actualizado: 2026-08-17 19:04:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $835.97
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:02:37 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $730.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $105.97)
+**Capital comprometido ahora mismo:** $750.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $85.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 42 | 21 | 23 | -27.24 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 55 | 45 | 29 | -99.82 USD |
+| ferrariChampions2026 | 55 | 45 | 31 | -99.82 USD |
 
 ## Análisis general
 
@@ -155,6 +155,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Kansas City Royals (-2.5) | Athletics (BUY) | 43% | 10.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Felipe Meligeni Alves vs Luka Pa | Luka Pavlovic (BUY) | 64% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Spread: New York Mets (-1.5) | San Diego Padres (BUY) | 57% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Catolica del Ecuador | Yes (BUY) | 47% | 10.00 | 0.4% | ⏳ pendiente | — |
@@ -183,5 +185,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CD Universidad Catolica del Ecuador | No (BUY) | 49% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Under (BUY) | 88% | 10.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 52% | 10.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Clara  | Linda Noskova (BUY) | 54% | 10.00 | 5.9% | ⏳ pendiente | — |
