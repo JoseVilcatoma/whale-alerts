@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 03:57:38 (hora de Perú)
+Actualizado: 2026-08-18 03:59:42 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $806.32
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 03:57:38 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $376.32)
+**Capital comprometido ahora mismo:** $510.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $296.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,12 +44,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 79 | 36 | 21 | -26.84 USD |
-| HomeRunHazard | 25 | 17 | 10 | -31.87 USD |
+| RN1 | 79 | 36 | 23 | -26.84 USD |
+| HomeRunHazard | 25 | 17 | 13 | -31.87 USD |
 | 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 88 | 62 | 10 | -94.76 USD |
+| ferrariChampions2026 | 88 | 62 | 13 | -94.76 USD |
 
 ## Análisis general
 
@@ -171,13 +171,24 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
 | atp-broska-cuenin-2026-08-17 | HomeRunHazard, RN1 |
+| atp-soto-molleke-2026-08-18 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-compagn-dahlin-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-sf-cle-2026-08-18-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-nyy-bal-2026-08-18-total-8pt5 | HomeRunHazard, ferrariChampions2026 |
+| atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 44% | 10.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 42% | 10.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 50% | 10.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 50% | 10.00 | 3.5% | ⏳ pendiente | — |
+| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 42% | 10.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 10.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 44% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Ksen | Ksenia Zaytseva (BUY) | 64% | 10.00 | 1.2% | ⏳ pendiente | — |
@@ -186,7 +197,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 72% | 10.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Gokbe | Egor Khotchenkov (BUY) | 90% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Gaeul Jang (BUY) | 59% | 10.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DN SOOPers Challengers vs Nongshim  | DN SOOPers Challengers (BUY) | 66% | 10.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 51% | 10.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Max Dahlin | Max Dahlin (BUY) | 52% | 10.00 | 2.8% | ⏳ pendiente | — |
@@ -195,16 +206,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Luca Staeheli vs Andrey Chepelev | Luca Staeheli (BUY) | 50% | 10.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 86% | 10.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 8.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Tommaso Compagnucci vs Max Dahlin | Tommaso Compagnucci (BUY) | 55% | 10.00 | 8.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: WRAITH PCIFIC vs Just Pl | Just Players (BUY) | 91% | 10.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Nathan Walters vs | Imanol Lopez Morillo (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Prague 2: Florian Broska vs Sean Cuenin | Sean Cuenin (BUY) | 73% | 10.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Laura Mair vs Yely | Yelyzaveta Kotliar (BUY) | 89% | 10.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | Sion: Nino Ehrenschneider vs Kai Wehnelt | Nino Ehrenschneider (BUY) | 55% | 10.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Prague 2: Matias Soto vs Rudolf Molleker | Rudolf Molleker (BUY) | 85% | 10.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF W15 Wanfercée-Baulet Women: Maja Mic | Galatea Ferro (BUY) | 66% | 10.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Facundo Mena vs Juan Manuel La Ser | Facundo Mena (BUY) | 46% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Nastasja Schunk vs | Nastasja Schunk (BUY) | 83% | 10.00 | 10.8% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Maria Kalyakina | Maria Kalyakina (BUY) | 45% | 10.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Kamonwan Yodpet | Tiana Tian Deng (BUY) | 92% | 10.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Over (BUY) | 49% | 10.00 | 2.6% | ⏳ pendiente | — |
