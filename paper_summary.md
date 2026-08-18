@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 08:13:22 (hora de Perú)
+Actualizado: 2026-08-18 08:15:26 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $804.53
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: Gen.G Global Academy vs HANJIN BRIO | HANJIN BRION Challengers (BUY) | 66% | 10.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G Global Academy vs HANJIN BRIO | HANJIN BRION Challengers (BUY) | 66% | 10.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bayern Munich win on 2026-08-18? | Yes (BUY) | 86% | 10.00 | 2.2% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 55% | 10.00 | 3.2% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 6.2% | ⏳ pendiente | — |
