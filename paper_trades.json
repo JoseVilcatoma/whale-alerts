@@ -14500,8 +14500,8 @@
     "title": "Kingston: Juan Carlos Prado vs Juan Pablo Ficovich",
     "outcome": "Juan Carlos Prado",
     "side": "BUY",
-    "whale_usd": 4262.1579,
-    "whale_pct": 1.404,
+    "whale_usd": 6607.3778999999995,
+    "whale_pct": 2.177,
     "whale_value_at_open": 303502.7372,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 58,
@@ -14511,8 +14511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787067668.7628143,
-    "fills": 1
+    "last_fill_at": 1787069424.606331,
+    "fills": 2
   },
   {
     "timestamp": 1787067668,
