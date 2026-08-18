@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 07:57:00 (hora de Perú)
+Actualizado: 2026-08-18 07:59:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **388**  ($19,788,051 en total)
+- Apuestas registradas: **389**  ($19,817,051 en total)
 - Resueltas: **385** — 231 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 117
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 3edmond.dantes | 3 | 3 | 0 | ⚠️ 50% (6) | $445,270 | -$82,826 |
+| pleaseplease123 | 5 | 4 | 1 | 56% | $409,477 | -$7,052 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
-| pleaseplease123 | 5 | 4 | 0 | 56% | $380,477 | -$7,052 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 0 | ⚠️ 83% (6) | $297,029 | +$215,740 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | — | ⏳ Pendiente |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 117 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | +$27,296 | ✅ Ganada |
 | Winnnnnnning | Will Scottie Scheffler win the 2026 FedEx St. Jude Championship? | Yes | 1.10 (91¢) | $45,462 | +$4,496 | ✅ Ganada |
 | WTSA | Will CA Mineiro win on 2026-08-15? | Yes | 1.75 (57¢) | $37,050 | +$27,950 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $30,712 | +$28,350 | ✅ Ganada |
