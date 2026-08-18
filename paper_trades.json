@@ -12596,8 +12596,8 @@
     "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
     "outcome": "DN SOOPers",
     "side": "BUY",
-    "whale_usd": 1173.2589550000002,
-    "whale_pct": 0.23,
+    "whale_usd": 3473.1498550000006,
+    "whale_pct": 0.682,
     "whale_value_at_open": 509630.4299,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 52,
@@ -12607,8 +12607,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787025698.2841249,
-    "fills": 1
+    "last_fill_at": 1787026151.4368372,
+    "fills": 2
   },
   {
     "timestamp": 1787025859,
@@ -12656,6 +12656,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787026020.7077146,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787026076,
+    "timestamp_added": 1787026076.8317592,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-jiangxu-che-2026-08-18",
+    "title": "ITF W15 Tianjin 3 Women: Jiangxue Han vs Meng Yi Chen",
+    "outcome": "Jiangxue Han",
+    "side": "BUY",
+    "whale_usd": 1932.6485,
+    "whale_pct": 1.198,
+    "whale_value_at_open": 161320.0647,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787026141.222804,
     "fills": 2
   }
 ]
