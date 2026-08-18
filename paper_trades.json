@@ -11039,8 +11039,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 600.385,
-    "whale_pct": 0.289,
+    "whale_usd": 2361.7290000000003,
+    "whale_pct": 1.136,
     "whale_value_at_open": 207885.0509,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 51,
@@ -11054,8 +11054,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787007904.1696618,
-    "fills": 1
+    "last_fill_at": 1787018247.084628,
+    "fills": 2
   },
   {
     "timestamp": 1787007936,
@@ -11521,8 +11521,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 5554.011604,
-    "whale_pct": 2.777,
+    "whale_usd": 6421.8974800000005,
+    "whale_pct": 3.211,
     "whale_value_at_open": 199981.8102,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 82,
@@ -11534,8 +11534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787017835.4337938,
-    "fills": 4
+    "last_fill_at": 1787018159.8611605,
+    "fills": 5
   },
   {
     "timestamp": 1787011327,
@@ -11902,8 +11902,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 1246.085454,
-    "whale_pct": 0.345,
+    "whale_usd": 7774.931954,
+    "whale_pct": 2.155,
     "whale_value_at_open": 360849.2234,
     "paper_stake_usd": 3.89,
     "odds_at_bet": 80,
@@ -11915,8 +11915,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787012841.9794533,
-    "fills": 1
+    "last_fill_at": 1787018179.7134485,
+    "fills": 3
   },
   {
     "timestamp": 1787013164,
@@ -12731,5 +12731,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787018067.95539,
     "fills": 2
+  },
+  {
+    "timestamp": 1787018128,
+    "timestamp_added": 1787018128.7617147,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-col-2026-08-17-total-12pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1778.3156860000004,
+    "whale_pct": 0.612,
+    "whale_value_at_open": 290418.1385,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 50,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018128.7617254,
+    "fills": 1
   }
 ]
