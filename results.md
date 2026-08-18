@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 11:51:43 (hora de Perú)
+Actualizado: 2026-08-18 11:53:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **391**  ($19,906,948 en total)
+- Apuestas registradas: **392**  ($19,942,467 en total)
 - Resueltas: **387** — 233 ganadas / 154 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 118
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 118 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | — | ⏳ Pendiente |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 118 en total)_
 | Eztennis | Milwaukee Brewers vs. Los Angeles Dodgers | Milwaukee Brewers | 2.63 (38¢) | $48,969 | +$79,897 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Taylor Fritz vs Alex Michelsen | Taylor Fritz | 1.08 (93¢) | $32,161 | +$2,421 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Athletics | Athletics | 2.17 (46¢) | $36,378 | +$42,704 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cleveland Guardians | San Diego Padres | 1.92 (52¢) | $29,570 | +$27,296 | ✅ Ganada |
