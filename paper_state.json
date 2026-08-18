@@ -1,5 +1,5 @@
 {
-  "bankroll": 830.074792006125,
+  "bankroll": 827.4184841999836,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2465,6 +2465,36 @@
       "timestamp": 1787021379.9138863,
       "bankroll": 830.07,
       "event": "won: RN1 \u2014 Will CA Talleres win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787021502.1532028,
+      "bankroll": 838.94,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787021502.4734602,
+      "bankroll": 847.81,
+      "event": "won: SDTrading \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1787021502.6739676,
+      "bankroll": 837.81,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787021502.7742083,
+      "bankroll": 827.81,
+      "event": "lost: AV23IUa \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787021504.081507,
+      "bankroll": 837.42,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787021504.1817415,
+      "bankroll": 827.42,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
     }
   ]
 }
