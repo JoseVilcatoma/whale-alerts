@@ -14366,8 +14366,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 95,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14435,8 +14435,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.9,
     "overlaps_with": [
       "RN1"
     ],
@@ -14995,6 +14995,29 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787063024.5791557,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787063130,
+    "timestamp_added": 1787063130.7284129,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-omega1-ff-2026-08-18",
+    "title": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A",
+    "outcome": "Fire Flux Esports",
+    "side": "BUY",
+    "whale_usd": 632.9604,
+    "whale_pct": 0.279,
+    "whale_value_at_open": 226592.3114,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 62,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787063130.7284224,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 823.4902951119706,
+  "bankroll": 825.9213728062061,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2980,6 +2980,16 @@
       "timestamp": 1787062835.5547159,
       "bankroll": 823.49,
       "event": "lost: ferrariChampions2026 \u2014 Prague 2: Petr Brunclik vs Jan Kumstat"
+    },
+    {
+      "timestamp": 1787063085.268894,
+      "bankroll": 824.02,
+      "event": "won: RN1 \u2014 ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid"
+    },
+    {
+      "timestamp": 1787063085.5694077,
+      "bankroll": 825.92,
+      "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Lucie Havlickova vs Victoria Bervid"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 09:23:49 (hora de Perú)
+Actualizado: 2026-08-18 09:25:54 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $823.49
-**Retorno acumulado:** -17.65%
+**Bankroll actual:** $825.92
+**Retorno acumulado:** -17.41%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 09:23:49 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $343.49)
+**Capital comprometido ahora mismo:** $470.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $355.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 9 | 9 | 0 | -0.36 USD |
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| RN1 | 83 | 38 | 2 | -7.52 USD |
+| RN1 | 84 | 38 | 1 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 1 | -15.25 USD |
@@ -51,16 +51,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 12 | 2 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 105 | 70 | 28 | -96.90 USD |
+| ferrariChampions2026 | 106 | 70 | 28 | -95.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 574
-- **Aciertos:** 343 (59.8%)
-- **Cuota promedio de entrada:** 61.0%
+- **Apuestas resueltas:** 576
+- **Aciertos:** 345 (59.9%)
+- **Cuota promedio de entrada:** 61.1%
 - **Stake promedio:** $9.79
-- **Total apostado (suma de stakes):** $5,617.67
-- **ROI sobre lo apostado:** -3.92%
+- **Total apostado (suma de stakes):** $5,637.67
+- **ROI sobre lo apostado:** -3.87%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,8 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 260 | 48.8% | 49.8% | -0.9 pp |
 | 60-79% | 165 | 69.7% | 68.9% | +0.8 pp |
-| 80-94% | 77 | 84.4% | 86.6% | -2.2 pp |
-| 95-99% (casi seguro) | 27 | 100.0% | 97.6% | +2.4 pp |
+| 80-94% | 78 | 84.6% | 86.6% | -1.9 pp |
+| 95-99% (casi seguro) | 28 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -179,6 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Omega vs Fire Flux Espor | Fire Flux Esports (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 60% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | SPARTA (BUY) | 55% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | MOUZ NXT (BUY) | 62% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -203,9 +204,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 52% | 10.00 | 6.2% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 55% | 10.00 | 8.7% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 43% | 10.00 | 39.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 84% | 10.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 84% | 10.00 | 1.1% | ✅ ganada | +1.90 |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 14.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | ITF W50 Prague Women: Lucie Havlickova v | Lucie Havlickova (BUY) | 95% | 10.00 | 0.8% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Prague 2: Petr Brunclik vs Jan Kumstat | Petr Brunclik (BUY) | 43% | 10.00 | 7.0% | ❌ perdida | -10.00 |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 53% | 10.00 | 0.4% | ✅ ganada | +8.87 |
