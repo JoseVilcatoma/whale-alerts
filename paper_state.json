@@ -1,5 +1,5 @@
 {
-  "bankroll": 829.6365215489003,
+  "bankroll": 833.5254104377892,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2140,6 +2140,11 @@
       "timestamp": 1787011910.9178236,
       "bankroll": 829.64,
       "event": "venta anticipada: alaskabaked \u2014 Baltimore Orioles vs. Tampa Bay Rays (-6.33 USD)"
+    },
+    {
+      "timestamp": 1787012795.061175,
+      "bankroll": 833.53,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Noskova vs Tauson"
     }
   ]
 }
