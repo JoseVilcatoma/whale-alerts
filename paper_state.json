@@ -1,5 +1,5 @@
 {
-  "bankroll": 843.8294405654811,
+  "bankroll": 836.4324661262532,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2185,6 +2185,26 @@
       "timestamp": 1787013295.052547,
       "bankroll": 843.83,
       "event": "won: RN1 \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: O/U 2.5"
+    },
+    {
+      "timestamp": 1787014608.445436,
+      "bankroll": 847.91,
+      "event": "won: RN1 \u2014 Cincinnati Open: Linda Noskova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787014608.645723,
+      "bankroll": 856.43,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Linda Noskova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787014609.6399307,
+      "bankroll": 846.43,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Linda Noskova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787014610.1221795,
+      "bankroll": 836.43,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Linda Noskova vs Clara Tauson"
     }
   ]
 }

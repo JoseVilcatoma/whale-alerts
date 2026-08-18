@@ -10807,8 +10807,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 71,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10903,8 +10903,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 54,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 8.52,
     "overlaps_with": [
       "RN1"
     ],
@@ -11099,8 +11099,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -11170,8 +11170,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "RN1"
     ],
@@ -12155,6 +12155,29 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1787013531.4917653,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787014619,
+    "timestamp_added": 1787014619.9429204,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-nec-leo-2026-08-17-first-half-total-2pt5",
+    "title": "Club Necaxa vs. Club Le\u00f3n FC: 1st Half O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 751.64,
+    "whale_pct": 0.309,
+    "whale_value_at_open": 242914.8314,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 88,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787014619.9429266,
     "fills": 1
   }
 ]
