@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 19:34:00 (hora de Perú)
+Actualizado: 2026-08-17 19:36:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $831.65
-**Retorno acumulado:** -16.84%
+**Bankroll actual:** $843.83
+**Retorno acumulado:** -15.62%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 19:34:00 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $797.81 en 81 posiciones abiertas (disponible para nuevas apuestas: $33.84)
+**Capital comprometido ahora mismo:** $797.81 en 81 posiciones abiertas (disponible para nuevas apuestas: $46.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 7 | 0 | +48.43 USD |
-| swisstony | 17 | 2 | 5 | +46.30 USD |
+| swisstony | 17 | 2 | 6 | +46.30 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 3 | 0 | 0 | +22.19 USD |
 | casualbet2020 | 2 | 0 | 0 | +21.67 USD |
 | 3edmond.dantes | 1 | 0 | 0 | +11.28 USD |
@@ -44,20 +44,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
+| RN1 | 46 | 22 | 25 | -26.47 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 44 | 22 | 26 | -31.71 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 56 | 45 | 35 | -95.93 USD |
+| ferrariChampions2026 | 57 | 45 | 35 | -88.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 412
-- **Aciertos:** 237 (57.5%)
-- **Cuota promedio de entrada:** 58.9%
+- **Apuestas resueltas:** 415
+- **Aciertos:** 240 (57.8%)
+- **Cuota promedio de entrada:** 59.0%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,120.00
-- **ROI sobre lo apostado:** -5.15%
+- **Total apostado (suma de stakes):** $4,150.00
+- **ROI sobre lo apostado:** -4.82%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,10 +67,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 188 | 48.4% | 49.5% | -1.1 pp |
-| 60-79% | 122 | 68.0% | 69.4% | -1.4 pp |
+| 40-59% | 189 | 48.7% | 49.6% | -0.9 pp |
+| 60-79% | 123 | 68.3% | 69.4% | -1.1 pp |
 | 80-94% | 42 | 92.9% | 86.3% | +6.5 pp |
-| 95-99% (casi seguro) | 15 | 100.0% | 98.1% | +1.9 pp |
+| 95-99% (casi seguro) | 16 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -152,6 +152,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-ari-bos-2026-08-17-total-7pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-total-1pt5 | RN1, ferrariChampions2026 |
 | bra-int-cre-2026-08-17-cre | RN1, ferrariChampions2026 |
+| mlb-atl-min-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-hijikat-mensik-2026-08-17 | RN1, ferrariChampions2026 |
 | mlb-cws-chc-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-zverev-atmane-2026-08-17 | RN1, ferrariChampions2026 |
@@ -160,6 +161,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | SC Internacional vs. Clube do Remo: Both | No (BUY) | 83% | 10.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
@@ -181,12 +185,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Athletics vs. Kansas City Royals | Kansas City Royals (BUY) | 82% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 65% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 90% | 10.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 68% | 10.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | CA Vélez Sarsfield vs. CSyD Defensa y Ju | Under (BUY) | 68% | 10.00 | 2.9% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 42% | 10.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 89% | 10.00 | 5.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Noskova vs Tauson | Noskova (BUY) | 72% | 10.00 | 0.1% | ✅ ganada | +3.89 |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 45% | 10.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Clube do Remo win on 2026-08-17? | No (BUY) | 98% | 10.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | SC Internacional vs. Clube do Remo: O/U  | Over (BUY) | 90% | 10.00 | 0.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 50% | 10.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 53% | 10.00 | 4.8% | ⏳ pendiente | — |

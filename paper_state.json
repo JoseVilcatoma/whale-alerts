@@ -1,5 +1,5 @@
 {
-  "bankroll": 831.6480898806934,
+  "bankroll": 843.8294405654811,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2170,6 +2170,21 @@
       "timestamp": 1787013230.150511,
       "bankroll": 831.65,
       "event": "won: swisstony \u2014 Spread: CSyD Defensa y Justicia (-1.5)"
+    },
+    {
+      "timestamp": 1787013290.3563728,
+      "bankroll": 838.6,
+      "event": "won: ferrariChampions2026 \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: O/U 2.5"
+    },
+    {
+      "timestamp": 1787013291.25049,
+      "bankroll": 839.12,
+      "event": "won: RN1 \u2014 Will CSyD Defensa y Justicia win on 2026-08-17?"
+    },
+    {
+      "timestamp": 1787013295.052547,
+      "bankroll": 843.83,
+      "event": "won: RN1 \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: O/U 2.5"
     }
   ]
 }
