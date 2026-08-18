@@ -12382,8 +12382,8 @@
     "title": "Cincinnati Open: Jiri Lehecka vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 14761.066666,
-    "whale_pct": 6.294,
+    "whale_usd": 16143.793937,
+    "whale_pct": 6.883,
     "whale_value_at_open": 234532.2614,
     "paper_stake_usd": 0.0,
     "odds_at_bet": 63,
@@ -12393,8 +12393,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018692.0295782,
-    "fills": 9
+    "last_fill_at": 1787018820.8331563,
+    "fills": 11
   },
   {
     "timestamp": 1787015395,
@@ -12787,8 +12787,8 @@
     "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 12759.051499000001,
-    "whale_pct": 50.943,
+    "whale_usd": 14580.174699000001,
+    "whale_pct": 58.215,
     "whale_value_at_open": 25045.5315,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 53,
@@ -12800,8 +12800,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787018750.7010455,
-    "fills": 3
+    "last_fill_at": 1787018800.1285782,
+    "fills": 4
   },
   {
     "timestamp": 1787018691,
@@ -12827,6 +12827,31 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787018692.0319128,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787018807,
+    "timestamp_added": 1787018807.5849705,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-col-2026-08-17",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 2159.4818999999998,
+    "whale_pct": 0.742,
+    "whale_value_at_open": 291172.7097,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 99,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018807.5849767,
     "fills": 1
   }
 ]
