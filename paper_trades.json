@@ -14513,5 +14513,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787058082.5724037,
     "fills": 1
+  },
+  {
+    "timestamp": 1787058353,
+    "timestamp_added": 1787058353.7229624,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-atl-min-2026-08-18",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 2639.5848,
+    "whale_pct": 3.154,
+    "whale_value_at_open": 83684.0835,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 55,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787058353.7229726,
+    "fills": 1
   }
 ]
