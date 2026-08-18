@@ -13615,8 +13615,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 7711.251953000001,
-    "whale_pct": 2.277,
+    "whale_usd": 9897.412862000003,
+    "whale_pct": 2.922,
     "whale_value_at_open": 338683.4859,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 75,
@@ -13626,8 +13626,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787025286.2956479,
-    "fills": 5
+    "last_fill_at": 1787025305.6159055,
+    "fills": 9
   },
   {
     "timestamp": 1787022860,
