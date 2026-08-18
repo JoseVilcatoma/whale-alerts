@@ -1,5 +1,5 @@
 {
-  "bankroll": 833.7022215954643,
+  "bankroll": 841.4799993732421,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2235,6 +2235,16 @@
       "timestamp": 1787015936.2260532,
       "bankroll": 833.7,
       "event": "won: RN1 \u2014 Cincinnati Open: Rinky Hijikata vs Jakub Mensik"
+    },
+    {
+      "timestamp": 1787016115.391143,
+      "bankroll": 837.59,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1787016115.491303,
+      "bankroll": 841.48,
+      "event": "won: RN1 \u2014 Spread: Tampa Bay Rays (-1.5)"
     }
   ]
 }

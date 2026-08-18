@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:20:09 (hora de Perú)
+Actualizado: 2026-08-17 20:22:12 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $833.70
-**Retorno acumulado:** -16.63%
+**Bankroll actual:** $841.48
+**Retorno acumulado:** -15.85%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:20:09 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $797.67 en 92 posiciones abiertas (disponible para nuevas apuestas: $36.03)
+**Capital comprometido ahora mismo:** $777.67 en 90 posiciones abiertas (disponible para nuevas apuestas: $63.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,19 +45,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 48 | 23 | 27 | -32.19 USD |
+| RN1 | 49 | 23 | 26 | -28.30 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 61 | 47 | 39 | -93.49 USD |
+| ferrariChampions2026 | 62 | 47 | 38 | -89.60 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 425
-- **Aciertos:** 247 (58.1%)
+- **Apuestas resueltas:** 427
+- **Aciertos:** 249 (58.3%)
 - **Cuota promedio de entrada:** 59.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,250.00
-- **ROI sobre lo apostado:** -4.95%
+- **Total apostado (suma de stakes):** $4,270.00
+- **ROI sobre lo apostado:** -4.74%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 192 | 48.4% | 49.6% | -1.1 pp |
-| 60-79% | 126 | 68.3% | 69.4% | -1.1 pp |
+| 60-79% | 128 | 68.8% | 69.4% | -0.7 pp |
 | 80-94% | 44 | 93.2% | 86.4% | +6.7 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
 
