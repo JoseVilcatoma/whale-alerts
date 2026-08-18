@@ -1,5 +1,5 @@
 {
-  "bankroll": 839.0728484206101,
+  "bankroll": 838.4247002724619,
   "history": [
     {
       "timestamp": 1786769079.9057262,
@@ -2415,6 +2415,26 @@
       "timestamp": 1787021128.4061282,
       "bankroll": 839.07,
       "event": "won: RN1 \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: O/U 5.5"
+    },
+    {
+      "timestamp": 1787021189.5328085,
+      "bankroll": 829.07,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-2.5)"
+    },
+    {
+      "timestamp": 1787021190.851278,
+      "bankroll": 839.91,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Kansas City Royals (-4.5)"
+    },
+    {
+      "timestamp": 1787021195.9148245,
+      "bankroll": 829.91,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Kansas City Royals: O/U 14.5"
+    },
+    {
+      "timestamp": 1787021251.61936,
+      "bankroll": 838.42,
+      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 7.5"
     }
   ]
 }
