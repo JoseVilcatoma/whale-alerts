@@ -14335,8 +14335,8 @@
     "title": "Prague 2: Petr Brunclik vs Jan Kumstat",
     "outcome": "Petr Brunclik",
     "side": "BUY",
-    "whale_usd": 7909.3961150000005,
-    "whale_pct": 4.85,
+    "whale_usd": 10920.788715,
+    "whale_pct": 6.696,
     "whale_value_at_open": 163091.0786,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 43,
@@ -14348,8 +14348,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787056951.15041,
-    "fills": 3
+    "last_fill_at": 1787057212.3976011,
+    "fills": 4
   },
   {
     "timestamp": 1787056848,
