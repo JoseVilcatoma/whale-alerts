@@ -10165,8 +10165,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 48,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11220,8 +11220,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 72,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.89,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -11429,8 +11429,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 42,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -10.0,
     "overlaps_with": [
       "111111111115"
     ],
@@ -11502,8 +11502,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 65,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.38,
     "overlaps_with": [
       "111111111115"
     ],
@@ -12554,8 +12554,8 @@
     "paper_stake_usd": 10.0,
     "odds_at_bet": 84,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.9,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -12706,5 +12706,30 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787017515.9153883,
     "fills": 1
+  },
+  {
+    "timestamp": 1787018044,
+    "timestamp_added": 1787018044.5130165,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-atl-min-2026-08-17",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 2829.3999999999996,
+    "whale_pct": 1.104,
+    "whale_value_at_open": 256384.9831,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 71,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787018067.95539,
+    "fills": 2
   }
 ]

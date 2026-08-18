@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:53:23 (hora de Perú)
+Actualizado: 2026-08-17 20:55:28 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $835.06
-**Retorno acumulado:** -16.49%
+**Bankroll actual:** $826.23
+**Retorno acumulado:** -17.38%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:53:23 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $671.65 en 79 posiciones abiertas (disponible para nuevas apuestas: $163.41)
+**Capital comprometido ahora mismo:** $631.65 en 75 posiciones abiertas (disponible para nuevas apuestas: $194.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,22 +42,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 1 | 3 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
 | SineNooneEI | 1 | 2 | 0 | -17.50 USD |
-| 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 51 | 25 | 29 | -30.76 USD |
+| RN1 | 52 | 25 | 29 | -28.86 USD |
+| 111111111115 | 11 | 12 | 0 | -33.43 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 22 | 15 | 5 | -46.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 68 | 51 | 28 | -72.78 USD |
+| ferrariChampions2026 | 70 | 52 | 25 | -73.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 445
-- **Aciertos:** 258 (58.0%)
+- **Apuestas resueltas:** 450
+- **Aciertos:** 261 (58.0%)
 - **Cuota promedio de entrada:** 59.2%
 - **Stake promedio:** $9.99
-- **Total apostado (suma de stakes):** $4,446.02
-- **ROI sobre lo apostado:** -4.70%
+- **Total apostado (suma de stakes):** $4,496.02
+- **ROI sobre lo apostado:** -4.84%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,9 +67,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 1-19% (bomba) | 3 | 0.0% | 14.7% | -14.7 pp |
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
-| 40-59% | 207 | 48.3% | 49.6% | -1.3 pp |
-| 60-79% | 130 | 68.5% | 69.3% | -0.9 pp |
-| 80-94% | 45 | 93.3% | 86.3% | +7.0 pp |
+| 40-59% | 209 | 47.8% | 49.6% | -1.7 pp |
+| 60-79% | 132 | 68.9% | 69.3% | -0.4 pp |
+| 80-94% | 46 | 93.5% | 86.3% | +7.2 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -168,13 +168,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 71% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 51% | 10.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CD Huachipato win on 2026-08-17? | No (BUY) | 99% | 10.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 93% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Alexandra Eala (BUY) | 48% | 10.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 96% | 10.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ⏳ pendiente | — |
+| RN1 | Spread: New York Mets (-2.5) | San Diego Padres (BUY) | 84% | 10.00 | 4.1% | ✅ ganada | +1.90 |
 | RN1 | Spread: Philadelphia Phillies (-2.5) | Miami Marlins (BUY) | 71% | 10.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Necaxa vs. Club León FC: O/U 1.5 | Over (BUY) | 72% | 1.24 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 43% | 10.00 | 0.2% | ✅ ganada | +13.26 |
@@ -197,4 +198,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HVAB | Cancun: Felipe Meligeni Alves vs Luka Pa | Felipe Meligeni Alves (BUY) | 99% | 10.00 | 8.8% | ✅ ganada | +0.10 |
 | swisstony | Will SC Internacional win on 2026-08-17? | Yes (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Kansas City Royals (-4.5) | Athletics (BUY) | 48% | 10.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 10.00 | 0.4% | ⏳ pendiente | — |
