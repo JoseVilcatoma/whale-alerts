@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 15:20:22 (hora de Perú)
+Actualizado: 2026-08-18 15:22:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **399**  ($20,322,287 en total)
+- Apuestas registradas: **400**  ($20,381,438 en total)
 - Resueltas: **391** — 235 ganadas / 156 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 121
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 40 | 21 | 0 | 66% | $3,459,157 | +$266,662 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 0 | 65% | $1,468,470 | +$259,757 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 12 | 1 | 65% | $1,527,621 | +$259,757 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 3 | 1 | ⚠️ 50% (6) | $610,601 | -$82,826 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | — | ⏳ Pendiente |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | — | ⏳ Pendiente |
 | 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 121 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Houston Astros | Seattle Mariners | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | huli3882 | Portland Fire vs. Phoenix Mercury: O/U 178.5 | Over 178.5 | 2.04 (49¢) | $31,351 | -$31,351 | ❌ Perdida |
 | WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.00 (50¢) | $47,500 | -$47,500 | ❌ Perdida |
-| WTSA | Will SC Corinthians Paulista win on 2026-08-16? | Yes | 2.08 (48¢) | $36,840 | -$36,840 | ❌ Perdida |
