@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 21:05:59 (hora de Perú)
+Actualizado: 2026-08-17 21:08:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $816.23
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 21:05:59 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $661.65 en 78 posiciones abiertas (disponible para nuevas apuestas: $154.58)
+**Capital comprometido ahora mismo:** $671.65 en 79 posiciones abiertas (disponible para nuevas apuestas: $144.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | HomeRunHazard | 22 | 16 | 5 | -56.28 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 70 | 52 | 27 | -73.51 USD |
+| ferrariChampions2026 | 70 | 52 | 28 | -73.51 USD |
 
 ## Análisis general
 
@@ -164,13 +164,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-nec-leo-2026-08-17-first-half-total-2pt5 | RN1, swisstony |
 | atp-lehecka-fils-2026-08-17 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-eala-anisimo-2026-08-17 | RN1, alaskabaked |
+| mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 99% | 10.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 81% | 10.00 | 1.8% | ⏳ pendiente | — |
-| alaskabaked | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 53% | 10.00 | 50.9% | ⏳ pendiente | — |
+| alaskabaked | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 53% | 10.00 | 58.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Minnesota Twins (-1.5) | Minnesota Twins (BUY) | 59% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 50% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 71% | 10.00 | 1.1% | ⏳ pendiente | — |
@@ -187,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CSD Macara vs. CD Universidad Catolica d | Over (BUY) | 72% | 0.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 56% | 0.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 9.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 6.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Jiri Lehecka vs Arthur  | Arthur Fils (BUY) | 63% | 0.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Talleres win on 2026-08-17? | No (BUY) | 99% | 0.00 | 0.3% | ⏳ pendiente | — |
 | alaskabaked | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 54% | 0.00 | 11.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club León FC win on 2026-08-17? | No (BUY) | 62% | 0.00 | 0.5% | ⏳ pendiente | — |
@@ -198,4 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 89% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Club Necaxa vs. Club León FC: 1st Half O | Under (BUY) | 88% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 53% | 6.02 | 1.1% | ❌ perdida | -6.02 |
-| RN1 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 65% | 10.00 | 0.5% | ❌ perdida | -10.00 |
