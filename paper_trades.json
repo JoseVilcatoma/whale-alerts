@@ -13826,8 +13826,8 @@
     "title": "Sion: Luca Staeheli vs Andrey Chepelev",
     "outcome": "Luca Staeheli",
     "side": "BUY",
-    "whale_usd": 556.7842129999999,
-    "whale_pct": 0.438,
+    "whale_usd": 1608.602394,
+    "whale_pct": 1.264,
     "whale_value_at_open": 127238.5163,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 50,
@@ -13837,8 +13837,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787042562.0898082,
-    "fills": 1
+    "last_fill_at": 1787045006.5025797,
+    "fills": 2
   },
   {
     "timestamp": 1787042654,
@@ -14512,5 +14512,28 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787044788.393024,
     "fills": 2
+  },
+  {
+    "timestamp": 1787045048,
+    "timestamp_added": 1787045048.7866254,
+    "username": "111111111115",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-ns-dnf-2026-08-18-game1",
+    "title": "LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 2506.0345,
+    "whale_pct": 11.212,
+    "whale_value_at_open": 22351.6485,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787045049.3010457,
+    "fills": 3
   }
 ]
