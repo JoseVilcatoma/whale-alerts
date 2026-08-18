@@ -10440,8 +10440,8 @@
     "title": "Will CSyD Defensa y Justicia win on 2026-08-17?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2030.25,
-    "whale_pct": 0.612,
+    "whale_usd": 2659.112,
+    "whale_pct": 0.801,
     "whale_value_at_open": 331870.7965,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 95,
@@ -10451,8 +10451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787011097.7335253,
-    "fills": 3
+    "last_fill_at": 1787011158.8372102,
+    "fills": 4
   },
   {
     "timestamp": 1787005933,
@@ -11236,8 +11236,8 @@
     "title": "Kingston: Blaise Bicknell vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 752.380952,
-    "whale_pct": 0.229,
+    "whale_usd": 1385.714285,
+    "whale_pct": 0.421,
     "whale_value_at_open": 329234.5711,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 81,
@@ -11247,8 +11247,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787009005.5036309,
-    "fills": 1
+    "last_fill_at": 1787011231.0853848,
+    "fills": 2
   },
   {
     "timestamp": 1787009015,
@@ -11437,5 +11437,53 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787010331.827269,
     "fills": 2
+  },
+  {
+    "timestamp": 1787011113,
+    "timestamp_added": 1787011113.1953,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-vel-def-2026-08-17-total-2pt5",
+    "title": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5456.9155,
+    "whale_pct": 2.948,
+    "whale_value_at_open": 185116.6624,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 68,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787011113.1953084,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787011171,
+    "timestamp_added": 1787011171.7836485,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-stl-cin-2026-08-17-spread-home-1pt5",
+    "title": "Spread: Cincinnati Reds (-1.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 1673.76,
+    "whale_pct": 0.853,
+    "whale_value_at_open": 196170.8988,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 90,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787011171.7836561,
+    "fills": 1
   }
 ]
