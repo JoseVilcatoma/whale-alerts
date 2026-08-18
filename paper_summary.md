@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 20:18:05 (hora de Perú)
+Actualizado: 2026-08-17 20:20:09 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
-**Bankroll actual:** $832.26
-**Retorno acumulado:** -16.77%
+**Bankroll actual:** $833.70
+**Retorno acumulado:** -16.63%
 **Peor caída desde un máximo (drawdown):** 34.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 20:18:05 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $817.67 en 94 posiciones abiertas (disponible para nuevas apuestas: $14.59)
+**Capital comprometido ahora mismo:** $797.67 en 92 posiciones abiertas (disponible para nuevas apuestas: $36.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,19 +45,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 11 | 11 | 1 | -23.43 USD |
 | HomeRunHazard | 22 | 13 | 7 | -26.28 USD |
 | midwicket72 | 3 | 4 | 0 | -26.82 USD |
-| RN1 | 47 | 23 | 28 | -32.39 USD |
+| RN1 | 48 | 23 | 27 | -32.19 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 60 | 47 | 40 | -94.73 USD |
+| ferrariChampions2026 | 61 | 47 | 39 | -93.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 423
-- **Aciertos:** 245 (57.9%)
-- **Cuota promedio de entrada:** 59.2%
+- **Apuestas resueltas:** 425
+- **Aciertos:** 247 (58.1%)
+- **Cuota promedio de entrada:** 59.4%
 - **Stake promedio:** $10.00
-- **Total apostado (suma de stakes):** $4,230.00
-- **ROI sobre lo apostado:** -5.00%
+- **Total apostado (suma de stakes):** $4,250.00
+- **ROI sobre lo apostado:** -4.95%
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,8 +69,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 20-39% | 42 | 21.4% | 32.3% | -10.8 pp |
 | 40-59% | 192 | 48.4% | 49.6% | -1.1 pp |
 | 60-79% | 126 | 68.3% | 69.4% | -1.1 pp |
-| 80-94% | 43 | 93.0% | 86.4% | +6.7 pp |
-| 95-99% (casi seguro) | 17 | 100.0% | 97.9% | +2.1 pp |
+| 80-94% | 44 | 93.2% | 86.4% | +6.7 pp |
+| 95-99% (casi seguro) | 18 | 100.0% | 97.9% | +2.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -193,6 +193,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CA Gimnasia y Esgrima de Mendoza vs. CA  | Under (BUY) | 67% | 4.28 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will SC Internacional vs. Clube do Remo  | No (BUY) | 88% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 80% | 3.89 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 98% | 10.00 | 5.9% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rinky Hijikata vs Jakub | Jakub Mensik (BUY) | 98% | 10.00 | 5.9% | ✅ ganada | +0.20 |
 | RN1 | Cincinnati Open: Alexander Zverev vs Ter | Alexander Zverev (BUY) | 83% | 9.64 | 9.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 91% | 10.00 | 0.2% | ⏳ pendiente | — |
