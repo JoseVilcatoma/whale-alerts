@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-17 22:50:34 (hora de Perú)
+Actualizado: 2026-08-17 22:52:40 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $832.02
@@ -12,7 +12,7 @@ Actualizado: 2026-08-17 22:50:34 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $472.08 en 52 posiciones abiertas (disponible para nuevas apuestas: $359.94)
+**Capital comprometido ahora mismo:** $492.08 en 54 posiciones abiertas (disponible para nuevas apuestas: $339.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 3 | 2 | 0 | +7.00 USD |
 | MaoZeDonK | 1 | 0 | 0 | +6.39 USD |
 | IMAREALPERSON | 9 | 5 | 0 | +5.80 USD |
-| alaskabaked | 1 | 2 | 1 | +3.67 USD |
+| alaskabaked | 1 | 2 | 2 | +3.67 USD |
 | CORGI8 | 4 | 6 | 0 | +1.20 USD |
 | HVAB | 3 | 0 | 0 | +0.30 USD |
 | TennisLove | 0 | 0 | 1 | +0.00 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 5 | 7 | 0 | -0.65 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 2 | 0 | -1.22 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
-| RN1 | 73 | 30 | 21 | -5.98 USD |
+| RN1 | 73 | 30 | 22 | -5.98 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Lakersfan111 | 10 | 10 | 0 | -15.25 USD |
@@ -174,12 +174,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-lad-col-2026-08-17 | RN1, ferrariChampions2026 |
 | wnba-dal-gsv-2026-08-17 | HomeRunHazard, ferrariChampions2026 |
 | mex-pac-pue-2026-08-17-total-2pt5 | RN1, kekasaur |
-| atp-paul-vallejo-2026-08-17 | RN1, ferrariChampions2026 |
+| atp-paul-vallejo-2026-08-17 | RN1, alaskabaked, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| alaskabaked | Cincinnati Open: Tommy Paul vs Adolfo Va | Tommy Paul (BUY) | 62% | 10.00 | 10.8% | ⏳ pendiente | — |
+| RN1 | Will Club Puebla win on 2026-08-17? | No (BUY) | 58% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: 1st Half O/U | Under (BUY) | 67% | 10.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | CF Pachuca vs. Club Puebla: O/U 3.5 | Over (BUY) | 61% | 10.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: James van Herzee | James van Herzeele (BUY) | 86% | 10.00 | 0.7% | ⏳ pendiente | — |
@@ -208,5 +210,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Alexandra Eala vs Amand | Amanda Anisimova (BUY) | 50% | 6.48 | 6.5% | ⏳ pendiente | — |
 | RN1 | Will Club Necaxa win on 2026-08-17? | No (BUY) | 90% | 10.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: Golden State Valkyries (-6.5) | Dallas Wings (BUY) | 63% | 4.36 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dallas Wings vs. Golden State Valkyries | Dallas Wings (BUY) | 42% | 10.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Will Club León FC win on 2026-08-17? | Yes (BUY) | 52% | 10.00 | 0.4% | ⏳ pendiente | — |
