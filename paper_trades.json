@@ -15533,8 +15533,8 @@
     "title": "ITF W35 Bistrita Women: Iva Ivanova vs Alessandra Mazzola",
     "outcome": "Alessandra Mazzola",
     "side": "BUY",
-    "whale_usd": 4957.51,
-    "whale_pct": 1.674,
+    "whale_usd": 8486.6584,
+    "whale_pct": 2.865,
     "whale_value_at_open": 296225.1295,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 46,
@@ -15544,8 +15544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074477.575383,
-    "fills": 6
+    "last_fill_at": 1787074719.0646098,
+    "fills": 9
   },
   {
     "timestamp": 1787074096,
@@ -15704,8 +15704,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 7315.776,
-    "whale_pct": 3.246,
+    "whale_usd": 9302.395744,
+    "whale_pct": 4.128,
     "whale_value_at_open": 225368.6785,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15715,8 +15715,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074592.9762223,
-    "fills": 2
+    "last_fill_at": 1787074701.5147636,
+    "fills": 3
   },
   {
     "timestamp": 1787074547,
@@ -15727,8 +15727,8 @@
     "title": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 3323.5399939999998,
-    "whale_pct": 1.268,
+    "whale_usd": 5689.64999,
+    "whale_pct": 2.171,
     "whale_value_at_open": 262125.398,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 96,
@@ -15740,8 +15740,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074597.3236177,
-    "fills": 3
+    "last_fill_at": 1787074611.195396,
+    "fills": 5
   },
   {
     "timestamp": 1787074548,
@@ -15777,8 +15777,8 @@
     "title": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang",
     "outcome": "Aryna Sabalenka",
     "side": "BUY",
-    "whale_usd": 1121.9429,
-    "whale_pct": 0.428,
+    "whale_usd": 2385.7429,
+    "whale_pct": 0.91,
     "whale_value_at_open": 262125.398,
     "paper_stake_usd": 10.0,
     "odds_at_bet": 91,
@@ -15788,7 +15788,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787074566.9399052,
-    "fills": 1
+    "last_fill_at": 1787074697.346411,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787074649,
+    "timestamp_added": 1787074649.7538455,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zheng-musetti-2026-08-18",
+    "title": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "whale_usd": 6315.803599999999,
+    "whale_pct": 2.474,
+    "whale_value_at_open": 255335.9214,
+    "paper_stake_usd": 10.0,
+    "odds_at_bet": 96,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787074651.856379,
+    "fills": 5
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:36:44 (hora de Perú)
+Actualizado: 2026-08-18 12:38:46 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:36:44 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $540.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $277.04)
+**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $267.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 117 | 74 | 19 | -84.48 USD |
+| ferrariChampions2026 | 117 | 74 | 20 | -84.48 USD |
 
 ## Análisis general
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
-| atp-zheng-musetti-2026-08-18 | danielwolfmorales3pddb6dl6, swisstony |
+| atp-zheng-musetti-2026-08-18 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
 | atp-lajovic-daniel-2026-08-18 | RN1, ferrariChampions2026 |
@@ -192,17 +192,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Cincinnati Open: Aryna Sabalenka vs Xiny | Aryna Sabalenka (BUY) | 91% | 10.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Aryna Sabalenka vs Xiny | Aryna Sabalenka (BUY) | 91% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Quebec City: Dusan Lajovic vs Taro Danie | Taro Daniel (BUY) | 57% | 10.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 3.2% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 96% | 10.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim vs. Bayern Munich  | No (BUY) | 94% | 10.00 | 2.6% | ⏳ pendiente | — |
 | swisstony | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 99% | 10.00 | 3.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 91% | 10.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 95% | 10.00 | 2.2% | ⏳ pendiente | — |
 | swisstony | Will Bayern Munich win on 2026-08-18? | No (BUY) | 44% | 10.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 80% | 10.00 | 0.8% | ⏳ pendiente | — |
@@ -221,4 +222,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cincinnati Open: Xiyu Wang vs Elina Svit | Elina Svitolina (BUY) | 75% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 80% | 10.00 | 7.7% | ⏳ pendiente | — |
 | sentrio | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: James Watt vs Ugo Blanchet | Ugo Blanchet (BUY) | 69% | 10.00 | 5.8% | ⏳ pendiente | — |
