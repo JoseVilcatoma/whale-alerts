@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:47:03 (hora de Perú)
+Actualizado: 2026-08-18 12:49:06 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:47:03 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $610.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $207.04)
+**Capital comprometido ahora mismo:** $620.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $197.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 117 | 74 | 21 | -84.48 USD |
+| ferrariChampions2026 | 117 | 74 | 22 | -84.48 USD |
 
 ## Análisis general
 
@@ -188,18 +188,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | clf-fch-bmu-2026-08-18-spread-away-1pt5 | RN1, swisstony |
 | clf-fch-bmu-2026-08-18-fch | RN1, swisstony |
 | itf-iva-mazzola-2026-08-18 | RN1, ferrariChampions2026 |
-| wta-tjen-andreev-2026-08-18 | RN1, swisstony |
+| wta-tjen-andreev-2026-08-18 | RN1, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Janice Tjen vs Mirra An | Mirra Andreeva (BUY) | 97% | 10.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 99% | 10.00 | 2.1% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 53% | 10.00 | 2.5% | ⏳ pendiente | — |
-| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 10.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 94% | 10.00 | 2.5% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Aryna Sabalenka vs Xiny | Aryna Sabalenka (BUY) | 91% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Quebec City: Dusan Lajovic vs Taro Danie | Taro Daniel (BUY) | 57% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -208,7 +209,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | 1. FC Heidenheim vs. Bayern Munich: O/U  | Under (BUY) | 57% | 10.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim vs. Bayern Munich  | No (BUY) | 94% | 10.00 | 2.6% | ⏳ pendiente | — |
 | swisstony | Will 1. FC Heidenheim win on 2026-08-18? | No (BUY) | 99% | 10.00 | 3.2% | ⏳ pendiente | — |
-| swisstony | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 91% | 10.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 91% | 10.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Spread: Bayern Munich (-1.5) | 1. FC Heidenheim (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Iva Ivanova vs A | Iva Ivanova (BUY) | 56% | 10.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Bistrita Women: Iva Ivanova vs A | Alessandra Mazzola (BUY) | 46% | 10.00 | 2.9% | ⏳ pendiente | — |
@@ -223,4 +224,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Spread: Bayern Munich (-3.5) | 1. FC Heidenheim (BUY) | 98% | 10.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 89% | 10.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 57% | 10.00 | 7.1% | ⏳ pendiente | — |
-| swisstony | Will Al Okhdood SC win on 2026-08-18? | Yes (BUY) | 62% | 10.00 | 0.5% | ⏳ pendiente | — |
