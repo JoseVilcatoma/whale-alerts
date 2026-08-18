@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-17 19:57:37 (hora de Perú)
+Actualizado: 2026-08-17 19:59:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **379**  ($19,475,446 en total)
-- Resueltas: **365** — 218 ganadas / 147 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **367** — 220 ganadas / 147 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 114
 
 ### Balance
 
-- **Resultado de los apostadores: +$854,736** sobre $18,752,595 apostados (ROI **+4.6%**)
-- Copiando $100 fijo en cada una: **-$1,040** sobre $35,600 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$903,390** sobre $18,896,555 apostados (ROI **+4.8%**)
+- Copiando $100 fijo en cada una: **-$972** sobre $35,800 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| Kulilun | 0 | 0 | 2 | — | $143,960 | — |
+| Kulilun | 2 | 0 | 0 | ⚠️ 100% (2) | $143,960 | +$48,653 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 3 | 0 | 0 | ⚠️ 100% (3) | $139,000 | +$61,772 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -76,8 +76,8 @@ _(mostrando los 40 de mayor monto, de 114 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | — | ⏳ Pendiente |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
 | xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | — | ⏳ Pendiente |
-| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
-| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.33 (75¢) | $106,960 | — | ⏳ Pendiente |
+| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
+| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.33 (75¢) | $106,960 | +$35,653 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | — | ⏳ Pendiente |
 | Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | +$29,241 | ✅ Ganada |
