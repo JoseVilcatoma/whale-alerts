@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 10:44:36 (hora de Perú)
+Actualizado: 2026-08-18 10:46:39 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $824.51
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 10:44:36 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $594.51)
+**Capital comprometido ahora mismo:** $240.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $584.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 111111111115 | 12 | 13 | 0 | -33.82 USD |
 | g42gh6524h5h5 | 9 | 10 | 0 | -37.06 USD |
 | wr0ngw4yb3tt0r | 10 | 16 | 0 | -64.24 USD |
-| ferrariChampions2026 | 107 | 71 | 9 | -96.02 USD |
+| ferrariChampions2026 | 107 | 71 | 10 | -96.02 USD |
 
 ## Análisis general
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pac-pue-2026-08-17-pue | RN1, swisstony |
 | mex-pac-pue-2026-08-17-pac | RN1, swisstony |
 | mex-pac-pue-2026-08-17-total-4pt5 | RN1, swisstony |
-| atp-rublev-borges-2026-08-18 | Kulilun, danielwolfmorales3pddb6dl6 |
+| atp-rublev-borges-2026-08-18 | Kulilun, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 
@@ -181,11 +181,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Andrey Rublev vs Nuno B | Nuno Borges (BUY) | 61% | 10.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Benjamin Hassan vs Oleksandr Ovcha | Benjamin Hassan (BUY) | 97% | 10.00 | 0.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Pablo Ficovich (BUY) | 44% | 10.00 | 22.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Juan Pabl | Juan Carlos Prado (BUY) | 58% | 10.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Peter Makk (BUY) | 69% | 10.00 | 1.7% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 44% | 10.00 | 4.9% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Andrey Rublev vs Nuno B | Andrey Rublev (BUY) | 44% | 10.00 | 12.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 83% | 10.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Oriol Roca Batalla vs Radu Mih | Oriol Roca Batalla (BUY) | 49% | 10.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Under (BUY) | 53% | 10.00 | 4.1% | ⏳ pendiente | — |
@@ -210,4 +211,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 57% | 10.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Sami | Samira De Stefano (BUY) | 68% | 10.00 | 1.1% | ✅ ganada | +4.71 |
 | ferrariChampions2026 | LoL: Nongshim Red Force vs DN SOOPers -  | DN SOOPers (BUY) | 67% | 10.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier Women: Cristina Pescucci | Franziska Sziedat (BUY) | 97% | 10.00 | 0.3% | ✅ ganada | +0.31 |
