@@ -5686,5 +5686,20 @@
     "fills": 1,
     "profit_usd": 4385.75,
     "precio_salida": 92
+  },
+  {
+    "telegram_msg_id": 782,
+    "timestamp": 1787013805,
+    "username": "0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719",
+    "wallet": "0x772f8865fb93e6d0eb1d41dda3711589114a8145",
+    "slug": "atp-zverev-atmane-2026-08-17",
+    "title": "Cincinnati Open: Alexander Zverev vs Terence Atmane",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 26651.86999891933,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1787013805,
+    "fills": 1
   }
 ]
