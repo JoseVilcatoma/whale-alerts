@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 12:38:46 (hora de Perú)
+Actualizado: 2026-08-18 12:40:50 (hora de Perú)
 
 **Bankroll inicial:** $1,000.00
 **Bankroll actual:** $817.04
@@ -12,7 +12,7 @@ Actualizado: 2026-08-18 12:38:46 (hora de Perú)
 
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $550.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $267.04)
+**Capital comprometido ahora mismo:** $560.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $257.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 3 | 0 | -4.53 USD |
 | 1winstreak1 | 7 | 7 | 0 | -5.25 USD |
 | Lakersfan111 | 11 | 10 | 0 | -6.02 USD |
-| RN1 | 84 | 38 | 8 | -6.99 USD |
+| RN1 | 84 | 38 | 9 | -6.99 USD |
 | TeGeeLP | 0 | 1 | 0 | -10.00 USD |
 | AV23IUa | 0 | 1 | 0 | -10.00 USD |
 | Kulilun | 0 | 1 | 0 | -10.00 USD |
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bruncli-kumstat-2026-08-17 | RN1, ferrariChampions2026 |
 | atp-prado-ficovic-2026-08-17 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | wta-siniako-keys-2026-08-18 | ferrariChampions2026, swisstony |
-| atp-zheng-musetti-2026-08-18 | danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
+| atp-zheng-musetti-2026-08-18 | RN1, danielwolfmorales3pddb6dl6, ferrariChampions2026, swisstony |
 | atp-glinka-bax-2026-08-17 | ferrariChampions2026, sentrio |
 | atp-fritz-aguilar-2026-08-18 | ferrariChampions2026, swisstony |
 | atp-lajovic-daniel-2026-08-18 | RN1, ferrariChampions2026 |
@@ -192,6 +192,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 98% | 10.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Michael Zheng vs Lorenz | Lorenzo Musetti (BUY) | 96% | 10.00 | 2.5% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Aryna Sabalenka vs Xiny | Aryna Sabalenka (BUY) | 91% | 10.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Quebec City: Dusan Lajovic vs Taro Danie | Taro Daniel (BUY) | 57% | 10.00 | 0.3% | ⏳ pendiente | — |
@@ -221,4 +222,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 46% | 10.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Xiyu Wang vs Elina Svit | Elina Svitolina (BUY) | 75% | 10.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Daniel  | Taylor Fritz (BUY) | 80% | 10.00 | 7.7% | ⏳ pendiente | — |
-| sentrio | Kingston: Daniil Glinka vs Florent Bax | Daniil Glinka (BUY) | 65% | 10.00 | 0.7% | ⏳ pendiente | — |
