@@ -6062,7 +6062,7 @@
     "side": "BUY",
     "usd": 41007.0388,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787090756,
     "fills": 1
   },
@@ -6274,6 +6274,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1787099767,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 859,
+    "timestamp": 1787099808,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-lad-col-2026-08-18-total-11pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 34489.5271,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787099808,
     "fills": 1
   }
 ]

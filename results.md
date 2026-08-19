@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 19:37:04 (hora de Perú)
+Actualizado: 2026-08-18 19:39:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **417**  ($21,014,503 en total)
-- Resueltas: **396** — 239 ganadas / 157 perdidas (**60%** de acierto)
+- Apuestas registradas: **418**  ($21,048,992 en total)
+- Resueltas: **397** — 240 ganadas / 157 perdidas (**60%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$816,298** sobre $20,243,480 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,170** sobre $38,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$820,354** sobre $20,284,487 apostados (ROI **+4.0%**)
+- Copiando $100 fijo en cada una: **-$1,160** sobre $38,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 5 | 4 | 2 | 56% | $452,677 | -$7,052 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| Sassy-Bucket | 5 | 1 | 0 | ⚠️ 83% (6) | $297,029 | +$215,740 |
+| Sassy-Bucket | 5 | 1 | 1 | ⚠️ 83% (6) | $331,519 | +$215,740 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| 11vsldfdsgfkjgos | 1 | 0 | 2 | ⚠️ 100% (1) | $143,499 | +$8,385 |
+| 11vsldfdsgfkjgos | 2 | 0 | 1 | ⚠️ 100% (2) | $143,499 | +$12,441 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $133,843 | +$15,582 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.64 (61¢) | $27,104 | — | ⏳ Pendiente |
@@ -85,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.22 (45¢) | $28,767 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | +$4,056 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
 | ic4cream | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $35,158 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.27 (44¢) | $71,181 | -$71,181 | ❌ Perdida |
 | 3edmond.dantes | Will RC Deportivo A Coruña win on 2026-08-17? | Yes | 2.33 (43¢) | $154,885 | -$154,885 | ❌ Perdida |
 | Daemon99 | Will RC Deportivo A Coruña win on 2026-08-17? | No | 1.75 (57¢) | $35,859 | +$27,051 | ✅ Ganada |
-| sainttroplay | RC Deportivo A Coruña vs. Elche CF: O/U 2.5 | Under 2.5 | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
