@@ -6722,7 +6722,7 @@
     "side": "BUY",
     "usd": 33000.0,
     "odds_at_bet": 33,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787163559,
     "fills": 1
   },
@@ -6752,7 +6752,7 @@
     "side": "BUY",
     "usd": 99999.99999899999,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787164747,
     "fills": 1
   },
@@ -6889,6 +6889,21 @@
     "odds_at_bet": 38,
     "status": "pending",
     "ultimo_fill": 1787173203,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 949,
+    "timestamp": 1787175057,
+    "username": "thatguythatguy",
+    "wallet": "0x31706006a0ef88b2b8f6d093efbc83b359fbc6a0",
+    "slug": "mlb-nyy-bal-2026-08-19",
+    "title": "New York Yankees vs. Baltimore Orioles",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 26974.7058,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787175057,
     "fills": 1
   }
 ]
