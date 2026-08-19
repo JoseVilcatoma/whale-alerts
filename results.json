@@ -7130,5 +7130,20 @@
     "status": "pending",
     "ultimo_fill": 1787179808,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 973,
+    "timestamp": 1787179958,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-clb-mim-2026-08-19-clb",
+    "title": "Will Columbus Crew win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38869.1176,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787179958,
+    "fills": 1
   }
 ]
