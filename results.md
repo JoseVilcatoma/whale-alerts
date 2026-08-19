@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 14:56:57 (hora de Perú)
+Actualizado: 2026-08-19 14:58:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **453**  ($22,373,598 en total)
+- Apuestas registradas: **454**  ($22,490,868 en total)
 - Resueltas: **437** — 265 ganadas / 172 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 125
 
 ### Balance
@@ -39,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
+| TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
 | SDTrading | 4 | 4 | 1 | 50% | $262,750 | -$4,848 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
@@ -54,7 +55,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | StasPanda | 1 | 1 | 1 | ⚠️ 50% (2) | $142,254 | -$19,873 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | — | ⏳ Pendiente |
 | 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | -$165,332 | ❌ Perdida |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
