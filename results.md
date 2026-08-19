@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 08:34:23 (hora de Perú)
+Actualizado: 2026-08-19 08:36:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **424**  ($21,298,096 en total)
+- Apuestas registradas: **425**  ($21,324,316 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 123
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | pleaseplease123 | 6 | 5 | 1 | 55% | $499,636 | -$29,252 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
+| 111111111115 | 6 | 2 | 1 | 75% | $410,438 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
 | ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | -$35,773 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | -$39,304 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | +$13,982 | ✅ Ganada |
