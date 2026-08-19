@@ -59,10 +59,6 @@
     "username": "WTSA",
     "added_at": 1786510119.5980637
   },
-  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
-    "username": "BreakTheBank",
-    "added_at": 1786566640.6793187
-  },
   "0xe1000ddb5f5025849765e29d051dfff78f5d4d41": {
     "username": "TeGeeLP",
     "added_at": 1786574131.8099844
@@ -398,5 +394,9 @@
   "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814": {
     "username": "sbsigner",
     "added_at": 1787171678.5247126
+  },
+  "0x06ef83de847b54cf9f7b309ca46485cc794de673": {
+    "username": "urbinskoper",
+    "added_at": 1787175288.5361536
   }
 }
