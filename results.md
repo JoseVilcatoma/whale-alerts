@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 12:52:13 (hora de Perú)
+Actualizado: 2026-08-19 12:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **445**  ($22,018,934 en total)
-- Resueltas: **419** — 254 ganadas / 165 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **422** — 254 ganadas / 168 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 124
 
 ### Balance
 
-- **Resultado de los apostadores: +$936,235** sobre $21,126,889 apostados (ROI **+4.4%**)
-- Copiando $100 fijo en cada una: **-$989** sobre $40,800 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$850,155** sobre $21,212,970 apostados (ROI **+4.0%**)
+- Copiando $100 fijo en cada una: **-$1,289** sobre $41,100 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 21 | 4 | 67% | $3,686,023 | +$342,718 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 22 | 3 | 66% | $3,686,023 | +$313,067 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 1 | 65% | $1,856,706 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 7 | 55% | $697,064 | -$29,252 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| 111111111115 | 6 | 2 | 1 | 75% | $410,438 | +$142,943 |
+| 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -89,10 +89,10 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $34,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,888 | — | ⏳ Pendiente |
-| Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | — | ⏳ Pendiente |
+| Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | -$30,210 | ❌ Perdida |
 | lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | -$26,220 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | -$29,650 | ❌ Perdida |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
 | ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | +$20,754 | ✅ Ganada |
 | jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend | Anyone's Legend | 1.72 (58¢) | $30,160 | -$30,160 | ❌ Perdida |
