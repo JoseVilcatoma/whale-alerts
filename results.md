@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 15:48:09 (hora de Perú)
+Actualizado: 2026-08-19 15:50:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **456**  ($22,556,951 en total)
+- Apuestas registradas: **457**  ($22,584,193 en total)
 - Resueltas: **439** — 266 ganadas / 173 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 125
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 2 | 67% | $3,721,088 | +$345,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 3 | 67% | $3,748,329 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 16 | 3 | 64% | $1,948,278 | +$300,998 |
 | pleaseplease123 | 10 | 7 | 2 | 59% | $755,690 | -$18,430 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | — | ⏳ Pendiente |
 | TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | -$59,151 | ❌ Perdida |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | +$36,135 | ✅ Ganada |
 | 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | +$7,649 | ✅ Ganada |
-| 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
