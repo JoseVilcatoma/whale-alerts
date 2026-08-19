@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 10:15:06 (hora de Perú)
+Actualizado: 2026-08-19 10:17:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **431**  ($21,520,312 en total)
+- Apuestas registradas: **434**  ($21,610,492 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 17
 - Apostadores distintos: 123
 
 ### Balance
@@ -27,11 +27,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 21 | 2 | 67% | $3,631,951 | +$342,718 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 0 | 65% | $1,826,264 | +$331,440 |
+| pleaseplease123 | 6 | 5 | 5 | 55% | $621,604 | -$29,252 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| pleaseplease123 | 6 | 5 | 3 | 55% | $562,024 | -$29,252 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 111111111115 | 6 | 2 | 1 | 75% | $410,438 | +$142,943 |
@@ -43,9 +43,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
+| SDTrading | 3 | 4 | 1 | ⚠️ 43% (7) | $225,097 | -$39,606 |
 | xifutloong3 | 2 | 5 | 0 | ⚠️ 29% (7) | $218,530 | -$128,866 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 1 | 0 | ⚠️ 80% (5) | $203,000 | +$68,721 |
-| SDTrading | 3 | 4 | 0 | ⚠️ 43% (7) | $194,497 | -$39,606 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs magic - Map 2 Winner | FUT Esports | 1.52 (66¢) | $32,282 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $34,500 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Terence Atmane | Alexander Zverev | 1.30 (77¢) | $30,696 | +$9,169 | ✅ Ganada |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.12 (89¢) | $32,000 | +$3,955 | ✅ Ganada |
 | xifutloong3 | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 1.85 (54¢) | $36,000 | -$36,000 | ❌ Perdida |
-| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
-| Kulilun | Cincinnati Open: Linda Noskova vs Clara Tauson | Linda Noskova | 1.33 (75¢) | $106,960 | +$35,653 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. Tampa Bay Rays | Tampa Bay Rays | 1.67 (60¢) | $182,855 | +$121,903 | ✅ Ganada |

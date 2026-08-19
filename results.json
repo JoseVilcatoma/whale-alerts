@@ -6485,5 +6485,50 @@
     "status": "pending",
     "ultimo_fill": 1787152191,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 896,
+    "timestamp": 1787152561,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-pit-2026-08-19",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 27314.538,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787152561,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 897,
+    "timestamp": 1787152589,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-pit-2026-08-19-total-8pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 32265.513600000002,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787152589,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 898,
+    "timestamp": 1787152626,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-atl-min-2026-08-19",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 30600.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787152626,
+    "fills": 1
   }
 ]
