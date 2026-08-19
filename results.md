@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 14:42:18 (hora de Perú)
+Actualizado: 2026-08-19 14:44:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **452**  ($22,343,665 en total)
+- Apuestas registradas: **453**  ($22,373,598 en total)
 - Resueltas: **431** — 261 ganadas / 170 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 125
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 2 | 67% | $3,721,088 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 2 | 65% | $1,887,261 | +$331,440 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 3 | 65% | $1,917,194 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 8 | 55% | $755,690 | -$29,252 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | — | ⏳ Pendiente |
 | 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | -$165,332 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
-| Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
