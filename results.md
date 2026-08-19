@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 14:03:16 (hora de Perú)
+Actualizado: 2026-08-19 14:05:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **449**  ($22,241,115 en total)
-- Resueltas: **425** — 255 ganadas / 170 perdidas (**60%** de acierto)
+- Apuestas registradas: **450**  ($22,281,115 en total)
+- Resueltas: **426** — 256 ganadas / 170 perdidas (**60%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$781,785** sobre $21,330,251 apostados (ROI **+3.7%**)
-- Copiando $100 fijo en cada una: **-$1,438** sobre $41,400 (ROI **-3.5%**)
+- **Resultado de los apostadores: +$797,361** sobre $21,357,941 apostados (ROI **+3.7%**)
+- Copiando $100 fijo en cada una: **-$1,382** sobre $41,500 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 43 | 22 | 2 | 66% | $3,686,023 | +$329,697 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 1 | 67% | $3,686,023 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 2 | 65% | $1,887,261 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 8 | 55% | $755,690 | -$29,252 |
@@ -43,9 +43,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 1 | 1 | ⚠️ 80% (5) | $243,000 | +$68,721 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | xifutloong3 | 2 | 5 | 0 | ⚠️ 29% (7) | $218,530 | -$128,866 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 1 | 0 | ⚠️ 80% (5) | $203,000 | +$68,721 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | — | ⏳ Pendiente |
 | Paracellus | Will Club Atlético de Madrid win on 2026-08-19? | No | 3.03 (33¢) | $33,000 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | +$15,575 | ✅ Ganada |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $37,654 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
-| Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | -$28,406 | ❌ Perdida |
