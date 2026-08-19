@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 10:02:44 (hora de Perú)
+Actualizado: 2026-08-19 10:04:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **427**  ($21,387,025 en total)
+- Apuestas registradas: **428**  ($21,414,914 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 123
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| pleaseplease123 | 6 | 5 | 2 | 55% | $527,524 | -$29,252 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| pleaseplease123 | 6 | 5 | 1 | 55% | $499,636 | -$29,252 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
 | 111111111115 | 6 | 2 | 1 | 75% | $410,438 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,888 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | Eztennis | Baltimore Orioles vs. Tampa Bay Rays | Baltimore Orioles | 2.50 (40¢) | $49,527 | -$49,527 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | +$29,241 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
-| pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | -$35,773 | ❌ Perdida |
