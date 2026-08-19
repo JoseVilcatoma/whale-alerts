@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 21:14:29 (hora de Perú)
+Actualizado: 2026-08-18 21:16:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **419**  ($21,124,657 en total)
-- Resueltas: **404** — 245 ganadas / 159 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **406** — 246 ganadas / 160 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,990** sobre $20,516,110 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,093** sobre $39,300 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$808,973** sobre $20,604,826 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$1,071** sobre $39,500 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 41 | 21 | 1 | 66% | $3,570,019 | +$272,874 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 12 | 8 | 66% | $1,826,264 | +$294,916 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 23 | 13 | 7 | 64% | $1,826,264 | +$235,765 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -90,8 +90,8 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | +$4,056 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
 | ic4cream | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $35,158 | +$7,718 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | — | ⏳ Pendiente |
-| Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | -$59,151 | ❌ Perdida |
+| Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins | 2.22 (45¢) | $29,565 | +$36,135 | ✅ Ganada |
 | 0x84c10C9a413E3b1E2bD2 | Counter-Strike: FORZE Reload vs 300FPS - Map 2 Winner | FORZE Reload | 1.14 (88¢) | $56,089 | +$7,649 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Marta Kostyuk vs Sloane Stephens | Marta Kostyuk | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Daniil Medvedev | 1.75 (57¢) | $35,000 | -$3,684 | 💰 Vendida antes |
