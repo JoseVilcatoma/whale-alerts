@@ -6602,7 +6602,7 @@
     "side": "BUY",
     "usd": 49999.999995,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787158207,
     "fills": 1
   },
@@ -6617,7 +6617,7 @@
     "side": "BUY",
     "usd": 34999.999996,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787158419,
     "fills": 1
   },
@@ -6694,6 +6694,21 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1787161588,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 917,
+    "timestamp": 1787163448,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-ari-bos-2026-08-19-total-8pt5",
+    "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30555.250000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787163448,
     "fills": 1
   }
 ]

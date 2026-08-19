@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 13:16:53 (hora de Perú)
+Actualizado: 2026-08-19 13:19:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **445**  ($22,018,934 en total)
-- Resueltas: **423** — 255 ganadas / 168 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Apuestas registradas: **446**  ($22,049,489 en total)
+- Resueltas: **425** — 255 ganadas / 170 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 124
 
 ### Balance
 
-- **Resultado de los apostadores: +$866,785** sobre $21,245,251 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,238** sobre $41,200 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$781,785** sobre $21,330,251 apostados (ROI **+3.7%**)
+- Copiando $100 fijo en cada una: **-$1,438** sobre $41,400 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 43 | 22 | 2 | 66% | $3,686,023 | +$329,697 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 1 | 65% | $1,856,706 | +$331,440 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 2 | 65% | $1,887,261 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 7 | 55% | $697,064 | -$29,252 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 1 | 0 | ⚠️ 80% (5) | $203,000 | +$68,721 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
-| Marcoli | 1 | 1 | 2 | ⚠️ 50% (2) | $174,838 | -$17,609 |
+| Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
@@ -71,13 +71,14 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner | FURIA | 1.64 (61¢) | $26,382 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | — | ⏳ Pendiente |
 | tennischamp | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.20 (83¢) | $26,957 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | — | ⏳ Pendiente |
-| Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | — | ⏳ Pendiente |
-| Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | — | ⏳ Pendiente |
+| Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | -$35,000 | ❌ Perdida |
+| Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
