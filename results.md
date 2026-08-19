@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 16:42:28 (hora de Perú)
+Actualizado: 2026-08-19 16:44:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **459**  ($22,642,963 en total)
+- Apuestas registradas: **460**  ($22,670,468 en total)
 - Resueltas: **443** — 268 ganadas / 175 perdidas (**60%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 126
+- Pendientes: 17
+- Apostadores distintos: 127
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 
-_(mostrando los 40 de mayor monto, de 126 en total)_
+_(mostrando los 40 de mayor monto, de 127 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | — | ⏳ Pendiente |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 126 en total)_
 | 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | +$4,056 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
 | ic4cream | Indiana Fever vs. Toronto Tempo | Indiana Fever | 1.22 (82¢) | $35,158 | +$7,718 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.82 (55¢) | $59,151 | -$59,151 | ❌ Perdida |
