@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 10:27:03 (hora de Perú)
+Actualizado: 2026-08-19 10:29:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **434**  ($21,610,492 en total)
-- Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **418** — 254 ganadas / 164 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$945,641** sobre $21,069,218 apostados (ROI **+4.5%**)
-- Copiando $100 fijo en cada una: **-$965** sobre $40,600 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$966,395** sobre $21,096,729 apostados (ROI **+4.6%**)
+- Copiando $100 fijo en cada una: **-$889** sobre $40,700 (ROI **-2.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
-| ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | — | ⏳ Pendiente |
+| ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | +$20,754 | ✅ Ganada |
 | jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend | Anyone's Legend | 1.72 (58¢) | $30,160 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $39,158 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 1.92 (52¢) | $75,665 | +$69,844 | ✅ Ganada |
