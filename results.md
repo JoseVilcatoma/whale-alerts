@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 22:28:34 (hora de Perú)
+Actualizado: 2026-08-18 22:30:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **419**  ($21,124,657 en total)
-- Resueltas: **414** — 252 ganadas / 162 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **416** — 253 ganadas / 163 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$972,423** sobre $20,964,743 apostados (ROI **+4.6%**)
-- Copiando $100 fijo en cada una: **-$861** sobre $40,300 (ROI **-2.1%**)
+- **Resultado de los apostadores: +$976,003** sobre $21,038,856 apostados (ROI **+4.6%**)
+- Copiando $100 fijo en cada una: **-$865** sobre $40,500 (ROI **-2.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 21 | 0 | 67% | $3,570,019 | +$342,718 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 27 | 15 | 1 | 64% | $1,826,264 | +$293,370 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 0 | 65% | $1,826,264 | +$331,440 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 6 | 5 | 0 | 55% | $452,677 | -$29,252 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
-| Sassy-Bucket | 5 | 1 | 1 | ⚠️ 83% (6) | $331,519 | +$215,740 |
+| Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 1.92 (52¢) | $75,665 | +$69,844 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | — | ⏳ Pendiente |
+| Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | -$34,490 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | +$38,070 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.61 (62¢) | $27,555 | -$27,555 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.64 (61¢) | $27,104 | -$27,104 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
