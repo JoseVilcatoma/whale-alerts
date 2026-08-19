@@ -7055,5 +7055,50 @@
     "status": "pending",
     "ultimo_fill": 1787178887,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 967,
+    "timestamp": 1787179092,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-mia-phi-2026-08-19",
+    "title": "Miami Marlins vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 27410.3308,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1787179092,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 968,
+    "timestamp": 1787179105,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "wta-gauff-bouzkov-2026-08-19",
+    "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 25135.357999999997,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1787179105,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 969,
+    "timestamp": 1787179123,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sea-mil-2026-08-19",
+    "title": "Seattle Mariners vs. Milwaukee Brewers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 32900.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787179123,
+    "fills": 1
   }
 ]
