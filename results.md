@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 13:35:49 (hora de Perú)
+Actualizado: 2026-08-19 13:37:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **447**  ($22,082,489 en total)
+- Apuestas registradas: **448**  ($22,141,115 en total)
 - Resueltas: **425** — 255 ganadas / 170 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 124
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 43 | 22 | 2 | 66% | $3,686,023 | +$329,697 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 2 | 65% | $1,887,261 | +$331,440 |
-| pleaseplease123 | 6 | 5 | 7 | 55% | $697,064 | -$29,252 |
+| pleaseplease123 | 6 | 5 | 8 | 55% | $755,690 | -$29,252 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | — | ⏳ Pendiente |
 | Paracellus | Will Club Atlético de Madrid win on 2026-08-19? | No | 3.03 (33¢) | $33,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner | FURIA | 1.64 (61¢) | $26,382 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | -$28,406 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
