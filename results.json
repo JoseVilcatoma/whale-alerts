@@ -7269,5 +7269,35 @@
     "status": "pending",
     "ultimo_fill": 1787181950,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 984,
+    "timestamp": 1787182145,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26315.0466,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787182145,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 985,
+    "timestamp": 1787182184,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31828.223300000005,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787182184,
+    "fills": 1
   }
 ]

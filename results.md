@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 18:28:40 (hora de Perú)
+Actualizado: 2026-08-19 18:30:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **483**  ($23,592,186 en total)
+- Apuestas registradas: **485**  ($23,650,329 en total)
 - Resueltas: **452** — 272 ganadas / 180 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 130
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 45 | 24 | 1 | 65% | $3,786,305 | +$305,285 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 45 | 24 | 2 | 65% | $3,812,620 | +$305,285 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 17 | 5 | 62% | $2,071,547 | +$270,442 |
 | pleaseplease123 | 11 | 7 | 1 | 61% | $755,690 | +$50,391 |
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
+| beachboy4 | 1 | 6 | 1 | ⚠️ 14% (7) | $415,837 | -$196,247 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
-| beachboy4 | 1 | 6 | 0 | ⚠️ 14% (7) | $384,009 | -$196,247 |
 | Sassy-Bucket | 5 | 2 | 1 | ⚠️ 71% (7) | $367,758 | +$181,250 |
 | SDTrading | 4 | 5 | 3 | 44% | $350,348 | -$35,448 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $31,828 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $26,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $37,976 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,888 | +$18,592 | ✅ Ganada |
 | Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | -$30,210 | ❌ Perdida |
 | lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
-| BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | -$26,220 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | -$29,650 | ❌ Perdida |
