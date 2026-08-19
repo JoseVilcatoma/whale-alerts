@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 08:22:03 (hora de Perú)
+Actualizado: 2026-08-19 08:24:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **423**  ($21,268,445 en total)
+- Apuestas registradas: **424**  ($21,298,096 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 123
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 21 | 0 | 67% | $3,570,019 | +$342,718 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 21 | 1 | 67% | $3,599,669 | +$342,718 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 0 | 65% | $1,826,264 | +$331,440 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
 | ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | — | ⏳ Pendiente |
 | jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend | Anyone's Legend | 1.72 (58¢) | $30,160 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | -$39,304 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.54 (65¢) | $25,966 | +$13,982 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Arthur Fery vs Alex de Minaur | Alex de Minaur | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |

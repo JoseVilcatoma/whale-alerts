@@ -6365,5 +6365,20 @@
     "status": "pending",
     "ultimo_fill": 1787139836,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 888,
+    "timestamp": 1787145732,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-we-edg-2026-08-19",
+    "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 29650.438,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1787145732,
+    "fills": 1
   }
 ]
