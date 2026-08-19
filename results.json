@@ -6830,5 +6830,20 @@
     "status": "pending",
     "ultimo_fill": 1787169421,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 940,
+    "timestamp": 1787170550,
+    "username": "dauntlesswitness",
+    "wallet": "0xf1771327cccb5cda15e0eaa3c56755bbf3655f6a",
+    "slug": "cs2-furia-aur1-2026-08-19",
+    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 34999.999999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787170550,
+    "fills": 1
   }
 ]
