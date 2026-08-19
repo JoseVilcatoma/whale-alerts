@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 13:37:55 (hora de Perú)
+Actualizado: 2026-08-19 13:40:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **448**  ($22,141,115 en total)
+- Apuestas registradas: **449**  ($22,241,115 en total)
 - Resueltas: **425** — 255 ganadas / 170 perdidas (**60%** de acierto)
-- Pendientes: 23
-- Apostadores distintos: 124
+- Pendientes: 24
+- Apostadores distintos: 125
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 
-_(mostrando los 40 de mayor monto, de 124 en total)_
+_(mostrando los 40 de mayor monto, de 125 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | — | ⏳ Pendiente |
 | Paracellus | Will Club Atlético de Madrid win on 2026-08-19? | No | 3.03 (33¢) | $33,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | -$28,406 | ❌ Perdida |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |

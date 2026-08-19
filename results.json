@@ -6740,5 +6740,20 @@
     "status": "pending",
     "ultimo_fill": 1787164568,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 922,
+    "timestamp": 1787164747,
+    "username": "kindar",
+    "wallet": "0x369f46433349a57cd6d08abf2819da737c09873e",
+    "slug": "lal-mad-mala-2026-08-19-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 99999.99999899999,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787164747,
+    "fills": 1
   }
 ]
