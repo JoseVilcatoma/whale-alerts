@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 17:03:21 (hora de Perú)
+Actualizado: 2026-08-19 17:05:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **461**  ($22,700,468 en total)
+- Apuestas registradas: **464**  ($22,804,654 en total)
 - Resueltas: **443** — 268 ganadas / 175 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 21
 - Apostadores distintos: 127
 
 ### Balance
@@ -26,14 +26,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 3 | 67% | $3,748,329 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 16 | 3 | 64% | $1,948,278 | +$300,998 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 16 | 5 | 64% | $2,021,165 | +$300,998 |
 | pleaseplease123 | 10 | 7 | 2 | 59% | $755,690 | -$18,430 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
+| AV23IUa | 3 | 7 | 1 | 30% | $485,205 | -$119,068 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 127 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 127 en total)_
 | texaskid | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.67 (60¢) | $54,000 | +$36,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.22 (45¢) | $28,767 | +$35,159 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | -$43,200 | ❌ Perdida |
-| 11vsldfdsgfkjgos | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | +$4,056 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
