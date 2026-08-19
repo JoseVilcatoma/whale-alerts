@@ -5987,7 +5987,7 @@
     "side": "BUY",
     "usd": 56089.375099000004,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787082922,
     "fills": 1
   },
@@ -6229,6 +6229,21 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1787096963,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 854,
+    "timestamp": 1787098939,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-laa-hou-2026-08-18",
+    "title": "Los Angeles Angels vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 27104.014099999997,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1787098939,
     "fills": 1
   }
 ]
