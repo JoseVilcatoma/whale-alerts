@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 20:09:54 (hora de Perú)
+Actualizado: 2026-08-18 20:11:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **418**  ($21,048,992 en total)
-- Resueltas: **398** — 241 ganadas / 157 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **399** — 241 ganadas / 158 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$841,354** sobre $20,313,487 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,088** sobre $38,700 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$798,154** sobre $20,356,687 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$1,188** sobre $38,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| pleaseplease123 | 6 | 4 | 1 | 60% | $452,677 | +$13,948 |
+| pleaseplease123 | 6 | 5 | 0 | 55% | $452,677 | -$29,252 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 1 | ⚠️ 83% (6) | $331,519 | +$215,740 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $54,900 | — | ⏳ Pendiente |
 | texaskid | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.67 (60¢) | $54,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.22 (45¢) | $28,767 | — | ⏳ Pendiente |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | -$43,200 | ❌ Perdida |
 | 11vsldfdsgfkjgos | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Cincinnati Open: Aryna Sabalenka vs Xinyu Wang | Aryna Sabalenka | 1.10 (91¢) | $41,007 | +$4,056 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Brandon Nakashima vs Daniil Medvedev | Brandon Nakashima | 1.18 (85¢) | $35,197 | +$6,211 | ✅ Ganada |
