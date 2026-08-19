@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 12:21:02 (hora de Perú)
+Actualizado: 2026-08-19 12:23:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **443**  ($21,962,224 en total)
+- Apuestas registradas: **444**  ($21,992,551 en total)
 - Resueltas: **419** — 254 ganadas / 165 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 124
 
 ### Balance
@@ -53,12 +53,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| 0b1 | 4 | 0 | 1 | ⚠️ 100% (4) | $164,170 | +$15,582 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | StasPanda | 1 | 1 | 1 | ⚠️ 50% (2) | $142,254 | -$19,873 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
-| 0b1 | 4 | 0 | 0 | ⚠️ 100% (4) | $133,843 | +$15,582 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | — | ⏳ Pendiente |
 | tennischamp | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.20 (83¢) | $26,957 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
 | xabidaking | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.75 (57¢) | $25,724 | +$19,406 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexandra Eala vs Amanda Anisimova | Alexandra Eala | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
