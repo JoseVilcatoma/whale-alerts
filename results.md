@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 18:22:33 (hora de Perú)
+Actualizado: 2026-08-19 18:24:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **481**  ($23,484,210 en total)
+- Apuestas registradas: **482**  ($23,554,210 en total)
 - Resueltas: **449** — 271 ganadas / 178 perdidas (**60%** de acierto)
-- Pendientes: 32
-- Apostadores distintos: 129
+- Pendientes: 33
+- Apostadores distintos: 130
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
 
-_(mostrando los 40 de mayor monto, de 129 en total)_
+_(mostrando los 40 de mayor monto, de 130 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | — | ⏳ Pendiente |
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 129 en total)_
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | -$26,220 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | -$29,650 | ❌ Perdida |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
-| ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | +$20,754 | ✅ Ganada |
