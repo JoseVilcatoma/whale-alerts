@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 09:23:39 (hora de Perú)
+Actualizado: 2026-08-19 09:25:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **426**  ($21,356,816 en total)
+- Apuestas registradas: **427**  ($21,387,025 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 123
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Sorana Cirstea | 1.69 (59¢) | $42,078 | +$29,241 | ✅ Ganada |
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | -$35,773 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
