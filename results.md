@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 22:52:57 (hora de Perú)
+Actualizado: 2026-08-18 22:55:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **419**  ($21,124,657 en total)
-- Resueltas: **416** — 253 ganadas / 163 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$976,003** sobre $21,038,856 apostados (ROI **+4.6%**)
-- Copiando $100 fijo en cada una: **-$865** sobre $40,500 (ROI **-2.1%**)
+- **Resultado de los apostadores: +$945,641** sobre $21,069,218 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$965** sobre $40,600 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.61 (62¢) | $27,555 | -$27,555 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.64 (61¢) | $27,104 | -$27,104 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
-| winwin518168 | Spread: Las Vegas Aces (-3.5) | Las Vegas Aces | 1.96 (51¢) | $30,362 | — | ⏳ Pendiente |
+| winwin518168 | Spread: Las Vegas Aces (-3.5) | Las Vegas Aces | 1.96 (51¢) | $30,362 | -$30,362 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals | 1.69 (59¢) | $58,999 | +$41,000 | ✅ Ganada |
 | kamloic | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.28 (78¢) | $28,437 | +$8,021 | ✅ Ganada |
 | xifutloong3 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 1.89 (53¢) | $26,062 | -$26,062 | ❌ Perdida |
