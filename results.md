@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 17:07:33 (hora de Perú)
+Actualizado: 2026-08-19 17:09:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **464**  ($22,804,654 en total)
+- Apuestas registradas: **465**  ($22,860,701 en total)
 - Resueltas: **443** — 268 ganadas / 175 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 127
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| AV23IUa | 3 | 7 | 2 | 30% | $541,252 | -$119,068 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| AV23IUa | 3 | 7 | 1 | 30% | $485,205 | -$119,068 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 2 | 0 | ⚠️ 71% (7) | $331,519 | +$181,250 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 127 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 127 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $54,900 | +$35,100 | ✅ Ganada |
 | texaskid | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.67 (60¢) | $54,000 | +$36,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.22 (45¢) | $28,767 | +$35,159 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $43,200 | -$43,200 | ❌ Perdida |
