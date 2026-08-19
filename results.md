@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 15:52:20 (hora de Perú)
+Actualizado: 2026-08-19 15:54:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **457**  ($22,584,193 en total)
-- Resueltas: **439** — 266 ganadas / 173 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **440** — 266 ganadas / 174 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$915,544** sobre $21,791,025 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,014** sobre $42,800 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$884,944** sobre $21,821,625 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,114** sobre $42,900 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
-| SDTrading | 4 | 4 | 1 | 50% | $262,750 | -$4,848 |
+| SDTrading | 4 | 5 | 0 | 44% | $262,750 | -$35,448 |
 | beachboy4 | 1 | 4 | 0 | ⚠️ 20% (5) | $253,659 | -$188,579 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | -$44,913 | ❌ Perdida |
 | pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | +$28,198 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | +$15,575 | ✅ Ganada |
-| SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
+| SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | -$30,600 | ❌ Perdida |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $37,654 | +$34,757 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | -$32,266 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,315 | +$18,210 | ✅ Ganada |
