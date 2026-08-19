@@ -6590,5 +6590,20 @@
     "status": "pending",
     "ultimo_fill": 1787155906,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 905,
+    "timestamp": 1787158207,
+    "username": "Marcoli",
+    "wallet": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+    "slug": "atp-jodar-cobolli-2026-08-19",
+    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 49999.999995,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1787158207,
+    "fills": 1
   }
 ]
