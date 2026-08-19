@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 17:54:58 (hora de Perú)
+Actualizado: 2026-08-19 17:57:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **475**  ($23,198,216 en total)
+- Apuestas registradas: **476**  ($23,226,853 en total)
 - Resueltas: **449** — 271 ganadas / 178 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 128
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 128 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | — | ⏳ Pendiente |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 128 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 1.92 (52¢) | $75,665 | +$69,844 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | -$34,490 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | +$38,070 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros | Houston Astros | 1.61 (62¢) | $27,555 | -$27,555 | ❌ Perdida |

@@ -7145,5 +7145,20 @@
     "status": "pending",
     "ultimo_fill": 1787179958,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 974,
+    "timestamp": 1787180203,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28637.010000000002,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787180203,
+    "fills": 1
   }
 ]
