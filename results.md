@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 18:18:22 (hora de Perú)
+Actualizado: 2026-08-19 18:20:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **479**  ($23,354,364 en total)
+- Apuestas registradas: **479**  ($23,403,173 en total)
 - Resueltas: **449** — 271 ganadas / 178 perdidas (**60%** de acierto)
 - Pendientes: 30
 - Apostadores distintos: 128
@@ -38,9 +38,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 5 | 2 | 1 | ⚠️ 71% (7) | $367,758 | +$181,250 |
 | SDTrading | 4 | 5 | 3 | 44% | $350,348 | -$35,448 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
+| beachboy4 | 1 | 4 | 1 | ⚠️ 20% (5) | $329,071 | -$188,579 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
-| beachboy4 | 1 | 4 | 1 | ⚠️ 20% (5) | $280,263 | -$188,579 |
 | TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 1 | 1 | ⚠️ 83% (6) | $273,000 | +$98,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 128 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | — | ⏳ Pendiente |
-| beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $26,604 | — | ⏳ Pendiente |
+| beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | — | ⏳ Pendiente |
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | — | ⏳ Pendiente |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | — | ⏳ Pendiente |
