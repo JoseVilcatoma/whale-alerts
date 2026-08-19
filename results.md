@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 15:21:34 (hora de Perú)
+Actualizado: 2026-08-19 15:23:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **455**  ($22,525,868 en total)
-- Resueltas: **438** — 265 ganadas / 173 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **439** — 266 ganadas / 173 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$887,346** sobre $21,760,478 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,106** sobre $42,700 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$915,544** sobre $21,791,025 apostados (ROI **+4.2%**)
+- Copiando $100 fijo en cada una: **-$1,014** sobre $42,800 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 2 | 67% | $3,721,088 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 16 | 2 | 64% | $1,917,194 | +$300,998 |
-| pleaseplease123 | 9 | 7 | 3 | 56% | $755,690 | -$46,628 |
+| pleaseplease123 | 10 | 7 | 2 | 59% | $755,690 | -$18,430 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | -$44,913 | ❌ Perdida |
-| pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | — | ⏳ Pendiente |
+| pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | +$28,198 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | +$15,575 | ✅ Ganada |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $37,654 | +$34,757 | ✅ Ganada |
