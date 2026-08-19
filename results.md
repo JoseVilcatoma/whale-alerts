@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 13:10:37 (hora de Perú)
+Actualizado: 2026-08-19 13:12:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **445**  ($22,018,934 en total)
-- Resueltas: **422** — 254 ganadas / 168 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **423** — 255 ganadas / 168 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 124
 
 ### Balance
 
-- **Resultado de los apostadores: +$850,155** sobre $21,212,970 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,289** sobre $41,100 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$866,785** sobre $21,245,251 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,238** sobre $41,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 42 | 22 | 3 | 66% | $3,686,023 | +$313,067 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 43 | 22 | 2 | 66% | $3,686,023 | +$329,697 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 1 | 65% | $1,856,706 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 7 | 55% | $697,064 | -$29,252 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 124 en total)_
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $37,654 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,315 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs magic - Map 2 Winner | FUT Esports | 1.52 (66¢) | $32,282 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs magic - Map 2 Winner | FUT Esports | 1.52 (66¢) | $32,282 | +$16,630 | ✅ Ganada |
 | dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $34,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,888 | — | ⏳ Pendiente |
