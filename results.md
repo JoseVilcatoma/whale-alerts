@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 15:17:46 (hora de Perú)
+Actualizado: 2026-08-19 15:21:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **455**  ($22,525,868 en total)
-- Resueltas: **437** — 265 ganadas / 172 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **438** — 265 ganadas / 173 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$917,789** sobre $21,730,035 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,006** sobre $42,600 (ROI **-2.4%**)
+- **Resultado de los apostadores: +$887,346** sobre $21,760,478 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,106** sobre $42,700 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 2 | 67% | $3,721,088 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 3 | 65% | $1,917,194 | +$331,440 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 16 | 2 | 64% | $1,917,194 | +$300,998 |
 | pleaseplease123 | 9 | 7 | 3 | 56% | $755,690 | -$46,628 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner | FURIA | 1.64 (61¢) | $26,382 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | +$3,370 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.20 (83¢) | $26,957 | +$5,521 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | -$30,442 | ❌ Perdida |
 | StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | — | ⏳ Pendiente |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
