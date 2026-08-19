@@ -7025,5 +7025,20 @@
     "status": "pending",
     "ultimo_fill": 1787178558,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 965,
+    "timestamp": 1787178659,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-borges-nakashi-2026-08-19",
+    "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 46880.17421,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787178659,
+    "fills": 1
   }
 ]
