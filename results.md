@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 08:59:05 (hora de Perú)
+Actualizado: 2026-08-19 09:01:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **425**  ($21,324,316 en total)
+- Apuestas registradas: **426**  ($21,356,816 en total)
 - Resueltas: **417** — 253 ganadas / 164 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 123
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 | NemecGhudini | 2 | 1 | 0 | ⚠️ 67% (3) | $121,425 | +$1,225 |
 | WTSA | 1 | 2 | 0 | ⚠️ 33% (3) | $121,390 | -$56,390 |
+| lIlIlIllllIIIII | 3 | 0 | 1 | ⚠️ 100% (3) | $119,561 | +$33,799 |
 | 0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719 | 4 | 0 | 0 | ⚠️ 100% (4) | $115,304 | +$18,393 |
-| Mylifeisover | 1 | 2 | 0 | ⚠️ 33% (3) | $113,539 | -$33,539 |
 
 _(mostrando los 40 de mayor monto, de 123 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | Eztennis | Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya | Anna Kalinskaya | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | pleaseplease123 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox | 2.44 (41¢) | $35,773 | -$35,773 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Rafael Jodar vs Alejandro Tabilo | Rafael Jodar | 1.49 (67¢) | $38,711 | +$19,067 | ✅ Ganada |
-| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.70 (37¢) | $39,304 | -$39,304 | ❌ Perdida |
