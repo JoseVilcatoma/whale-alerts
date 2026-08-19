@@ -6875,5 +6875,20 @@
     "status": "pending",
     "ultimo_fill": 1787172390,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 947,
+    "timestamp": 1787173203,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-oak-kc-2026-08-19",
+    "title": "Athletics vs. Kansas City Royals",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 31795.5386,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1787173203,
+    "fills": 1
   }
 ]
