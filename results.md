@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 16:09:06 (hora de Perú)
+Actualizado: 2026-08-19 16:11:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **458**  ($22,615,988 en total)
-- Resueltas: **440** — 266 ganadas / 174 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **441** — 267 ganadas / 174 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$884,944** sobre $21,821,625 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,114** sobre $42,900 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$887,663** sobre $21,849,111 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,104** sobre $43,000 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | xifutloong3 | 2 | 5 | 0 | ⚠️ 29% (7) | $218,530 | -$128,866 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
-| 0b1 | 5 | 0 | 1 | ⚠️ 100% (5) | $191,655 | +$18,952 |
+| 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $191,655 | +$21,670 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | — | ⏳ Pendiente |
 | TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | — | ⏳ Pendiente |
-| 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | — | ⏳ Pendiente |
+| 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | +$2,718 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
