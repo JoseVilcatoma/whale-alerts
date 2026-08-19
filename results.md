@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 17:57:06 (hora de Perú)
+Actualizado: 2026-08-19 17:59:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **476**  ($23,226,853 en total)
+- Apuestas registradas: **477**  ($23,252,853 en total)
 - Resueltas: **449** — 271 ganadas / 178 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 128
 
 ### Balance
@@ -28,10 +28,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 17 | 5 | 62% | $2,071,547 | +$270,442 |
 | pleaseplease123 | 11 | 7 | 1 | 61% | $755,690 | +$50,391 |
+| AV23IUa | 3 | 7 | 4 | 30% | $614,132 | -$119,068 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
-| AV23IUa | 3 | 7 | 3 | 30% | $588,132 | -$119,068 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 128 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | — | ⏳ Pendiente |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 128 en total)_
 | ExplosiveNinja | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $39,158 | +$21,085 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 1.92 (52¢) | $75,665 | +$69,844 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | -$34,490 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | +$38,070 | ✅ Ganada |
