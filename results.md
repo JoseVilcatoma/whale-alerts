@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 20:05:52 (hora de Perú)
+Actualizado: 2026-08-18 20:07:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **418**  ($21,048,992 en total)
-- Resueltas: **397** — 240 ganadas / 157 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **398** — 241 ganadas / 157 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$820,354** sobre $20,284,487 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,160** sobre $38,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$841,354** sobre $20,313,487 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,088** sobre $38,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | AV23IUa | 3 | 7 | 0 | 30% | $453,907 | -$119,068 |
-| pleaseplease123 | 5 | 4 | 2 | 56% | $452,677 | -$7,052 |
+| pleaseplease123 | 6 | 4 | 1 | 60% | $452,677 | +$13,948 |
 | 111111111115 | 6 | 2 | 0 | 75% | $384,218 | +$142,943 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | Sassy-Bucket | 5 | 1 | 1 | ⚠️ 83% (6) | $331,519 | +$215,740 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
 | 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
 | Kulilun | Cincinnati Open: Andrey Rublev vs Nuno Borges | Andrey Rublev | 1.56 (64¢) | $28,406 | -$28,406 | ❌ Perdida |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Prague 2: Petr Brunclik vs Jan Kumstat | Jan Kumstat | 1.67 (60¢) | $29,000 | +$10,633 | 💰 Vendida antes |
 | yesmate | Prague 2: Max Hans Rehberg vs Jakub Nicod | Max Hans Rehberg | 1.12 (89¢) | $42,839 | +$5,295 | ✅ Ganada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.08 (48¢) | $30,439 | — | ⏳ Pendiente |
