@@ -7205,5 +7205,35 @@
     "status": "pending",
     "ultimo_fill": 1787181448,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 978,
+    "timestamp": 1787181656,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-tor-wsh-2026-08-19",
+    "title": "Toronto Tempo vs. Washington Mystics",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "usd": 26100.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1787181656,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 979,
+    "timestamp": 1787181739,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 54937.603899999995,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787181739,
+    "fills": 1
   }
 ]
