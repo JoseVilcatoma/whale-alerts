@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 14:31:57 (hora de Perú)
+Actualizado: 2026-08-19 14:33:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **451**  ($22,316,180 en total)
+- Apuestas registradas: **452**  ($22,343,665 en total)
 - Resueltas: **429** — 259 ganadas / 170 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 125
 
 ### Balance
@@ -47,13 +47,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | xifutloong3 | 2 | 5 | 0 | ⚠️ 29% (7) | $218,530 | -$128,866 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
+| 0b1 | 4 | 0 | 2 | ⚠️ 100% (4) | $191,655 | +$15,582 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 0b1 | 4 | 0 | 1 | ⚠️ 100% (4) | $164,170 | +$15,582 |
 | TennisLove | 3 | 0 | 0 | ⚠️ 100% (3) | $158,791 | +$60,418 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 3edmond.dantes | Will Fenerbahçe SK win on 2026-08-18? | Yes | 2.08 (48¢) | $165,332 | -$165,332 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
