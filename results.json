@@ -7175,5 +7175,35 @@
     "status": "pending",
     "ultimo_fill": 1787180326,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 976,
+    "timestamp": 1787181421,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26603.558199999996,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787181421,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 977,
+    "timestamp": 1787181448,
+    "username": "0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "mls-phi-mia-2026-08-19-total-1pt5",
+    "title": "Philadelphia Union vs. Inter Miami CF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 74908.0514,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1787181448,
+    "fills": 1
   }
 ]
