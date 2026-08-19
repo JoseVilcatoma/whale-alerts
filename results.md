@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 18:34:50 (hora de Perú)
+Actualizado: 2026-08-19 18:36:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **485**  ($23,650,329 en total)
-- Resueltas: **452** — 272 ganadas / 180 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **453** — 273 ganadas / 180 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 130
 
 ### Balance
 
-- **Resultado de los apostadores: +$950,298** sobre $22,365,330 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,154** sobre $43,900 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$970,768** sobre $22,433,859 apostados (ROI **+4.3%**)
+- Copiando $100 fijo en cada una: **-$1,124** sobre $44,000 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
-| StasPanda | 1 | 1 | 1 | ⚠️ 50% (2) | $142,254 | -$19,873 |
+| StasPanda | 2 | 1 | 0 | ⚠️ 67% (3) | $142,254 | +$597 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | +$3,370 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.20 (83¢) | $26,957 | +$5,521 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | -$30,442 | ❌ Perdida |
-| StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | — | ⏳ Pendiente |
+| StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | +$20,470 | ✅ Ganada |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | -$44,913 | ❌ Perdida |
