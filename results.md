@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 14:15:43 (hora de Perú)
+Actualizado: 2026-08-19 14:17:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **450**  ($22,281,115 en total)
-- Resueltas: **426** — 256 ganadas / 170 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Apuestas registradas: **451**  ($22,316,180 en total)
+- Resueltas: **429** — 259 ganadas / 170 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 125
 
 ### Balance
 
-- **Resultado de los apostadores: +$797,361** sobre $21,357,941 apostados (ROI **+3.7%**)
-- Copiando $100 fijo en cada una: **-$1,382** sobre $41,500 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$891,517** sobre $21,468,216 apostados (ROI **+4.2%**)
+- Copiando $100 fijo en cada una: **-$1,130** sobre $41,800 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 1 | 67% | $3,686,023 | +$345,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 44 | 22 | 2 | 67% | $3,721,088 | +$345,273 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 15 | 2 | 65% | $1,887,261 | +$331,440 |
 | pleaseplease123 | 6 | 5 | 8 | 55% | $755,690 | -$29,252 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | — | ⏳ Pendiente |
@@ -91,17 +92,17 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs magic - Map 2 Winner | FUT Esports | 1.52 (66¢) | $32,282 | +$16,630 | ✅ Ganada |
-| dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | — | ⏳ Pendiente |
+| dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | +$55,571 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $34,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,888 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 2.22 (45¢) | $30,210 | -$30,210 | ❌ Perdida |
-| lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: Team WE vs EDward Gaming - Game 1 Winner | Team WE | 1.45 (69¢) | $26,220 | -$26,220 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend | Team WE | 1.27 (79¢) | $29,650 | -$29,650 | ❌ Perdida |
 | pleaseplease123 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $46,959 | — | ⏳ Pendiente |
 | ChonkyChocolateCake | LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner | HANJIN BRION | 1.75 (57¢) | $27,512 | +$20,754 | ✅ Ganada |
 | jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend | Anyone's Legend | 1.72 (58¢) | $30,160 | -$30,160 | ❌ Perdida |
-| ExplosiveNinja | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $39,158 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 1.54 (65¢) | $39,158 | +$21,085 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 1.92 (52¢) | $75,665 | +$69,844 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Under 11.5 | 2.04 (49¢) | $34,490 | -$34,490 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 1.96 (51¢) | $39,624 | +$38,070 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 125 en total)_
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fenerbahçe SK vs. Olympique Lyonnais: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $42,434 | +$2,709 | ✅ Ganada |
 | Vanchalkenstein | Sion: Petr Nesterov vs Calvin Hemery | Calvin Hemery | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.09 (92¢) | $35,519 | +$3,089 | ✅ Ganada |
-| 11vsldfdsgfkjgos | Cincinnati Open: Janice Tjen vs Mirra Andreeva | Mirra Andreeva | 1.14 (88¢) | $61,492 | +$8,385 | ✅ Ganada |
