@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-18 20:37:02 (hora de Perú)
+Actualizado: 2026-08-18 20:39:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **419**  ($21,124,657 en total)
-- Resueltas: **401** — 243 ganadas / 158 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **402** — 243 ganadas / 159 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 123
 
 ### Balance
 
-- **Resultado de los apostadores: +$815,174** sobre $20,426,124 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,138** sobre $39,000 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$789,113** sobre $20,452,186 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$1,238** sobre $39,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| xifutloong3 | 2 | 4 | 1 | ⚠️ 33% (6) | $218,530 | -$102,805 |
+| xifutloong3 | 2 | 5 | 0 | ⚠️ 29% (7) | $218,530 | -$128,866 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 4 | 1 | 0 | ⚠️ 80% (5) | $203,000 | +$68,721 |
 | SDTrading | 3 | 4 | 0 | ⚠️ 43% (7) | $194,497 | -$39,606 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 123 en total)_
 | winwin518168 | Spread: Las Vegas Aces (-3.5) | Las Vegas Aces | 1.96 (51¢) | $30,362 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Kansas City Royals | Kansas City Royals | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
 | kamloic | Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.28 (78¢) | $28,437 | +$8,021 | ✅ Ganada |
-| xifutloong3 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 1.89 (53¢) | $26,062 | — | ⏳ Pendiente |
+| xifutloong3 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 1.89 (53¢) | $26,062 | -$26,062 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $29,194 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.64 (61¢) | $54,900 | — | ⏳ Pendiente |
 | texaskid | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox | 1.67 (60¢) | $54,000 | — | ⏳ Pendiente |
