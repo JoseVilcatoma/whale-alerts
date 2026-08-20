@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:03:48 (hora de Perú)
+Actualizado: 2026-08-20 07:05:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **516**  ($25,271,463 en total)
+- Apuestas registradas: **517**  ($25,300,732 en total)
 - Resueltas: **500** — 297 ganadas / 203 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 139
 
 ### Balance
@@ -58,12 +58,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | dauntlesswitness | 3 | 0 | 1 | ⚠️ 100% (3) | $155,388 | +$95,936 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
+| lIlIlIllllIIIII | 4 | 0 | 1 | ⚠️ 100% (4) | $148,830 | +$51,299 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | StasPanda | 2 | 1 | 0 | ⚠️ 67% (3) | $142,254 | +$597 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | Winnerdinnerchickenjr | 0 | 2 | 0 | ⚠️ 0% (2) | $131,230 | -$131,230 |
-| theowalcott | 0 | 4 | 0 | ⚠️ 0% (4) | $130,679 | -$130,679 |
 
 _(mostrando los 40 de mayor monto, de 139 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | +$23,431 | ✅ Ganada |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | +$25,917 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | -$31,796 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
