@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 19:45:34 (hora de Perú)
+Actualizado: 2026-08-19 19:47:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **488**  ($23,853,533 en total)
-- Resueltas: **456** — 274 ganadas / 182 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **457** — 275 ganadas / 182 perdidas (**60%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 130
 
 ### Balance
 
-- **Resultado de los apostadores: +$953,376** sobre $22,530,031 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,207** sobre $44,300 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$962,208** sobre $22,555,166 apostados (ROI **+4.3%**)
+- Copiando $100 fijo en cada una: **-$1,172** sobre $44,400 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
-| tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | — | ⏳ Pendiente |
+| tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | — | ⏳ Pendiente |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | — | ⏳ Pendiente |
