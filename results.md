@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:30:17 (hora de Perú)
+Actualizado: 2026-08-20 12:32:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **548**  ($26,869,656 en total)
-- Resueltas: **520** — 307 ganadas / 213 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Resueltas: **525** — 312 ganadas / 213 perdidas (**59%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 142
 
 ### Balance
 
-- **Resultado de los apostadores: +$483,507** sobre $25,469,143 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$2,149** sobre $50,600 (ROI **-4.2%**)
+- **Resultado de los apostadores: +$547,047** sobre $25,710,601 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$1,995** sobre $51,100 (ROI **-3.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | AV23IUa | 7 | 8 | 1 | 47% | $687,322 | -$34,606 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
-| S-Works | 4 | 0 | 2 | ⚠️ 100% (4) | $618,617 | +$198,359 |
+| S-Works | 5 | 0 | 1 | ⚠️ 100% (5) | $618,617 | +$214,872 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| Lakersfan111 | 2 | 1 | 4 | ⚠️ 67% (3) | $229,485 | +$4,417 |
+| Lakersfan111 | 3 | 1 | 3 | ⚠️ 75% (4) | $229,485 | +$28,289 |
 | StasPanda | 2 | 2 | 0 | ⚠️ 50% (4) | $195,306 | -$52,455 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -78,9 +78,9 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Nigma Galaxy | 2.44 (41¢) | $34,051 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $28,640 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $28,807 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.15 (87¢) | $110,509 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.15 (87¢) | $110,509 | +$16,513 | ✅ Ganada |
 | huli3882 | Indiana Fever vs. Dallas Wings: O/U 185.5 | Over 185.5 | 2.00 (50¢) | $29,396 | — | ⏳ Pendiente |
-| Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | — | ⏳ Pendiente |
+| Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | +$23,872 | ✅ Ganada |
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | +$11,869 | ✅ Ganada |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | — | ⏳ Pendiente |
-| Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | — | ⏳ Pendiente |
+| Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | +$8,344 | ✅ Ganada |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $63,592 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $29,531 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $159,245 | — | ⏳ Pendiente |
@@ -109,10 +109,10 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | +$12,000 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | -$25,004 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | -$32,640 | ❌ Perdida |
-| pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | — | ⏳ Pendiente |
+| pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | +$8,352 | ✅ Ganada |
 | S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
 | 0x875Bc34Be755b39F1476418B2795A57C2A330878-1781737997365 | Dota 2: Team Liquid vs Team Yandex - Game 1 Winner | Team Liquid | 1.82 (55¢) | $55,327 | -$55,327 | ❌ Perdida |
-| Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | +$6,460 | ✅ Ganada |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | -$37,773 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
