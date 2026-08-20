@@ -8486,5 +8486,20 @@
     "status": "pending",
     "ultimo_fill": 1787257596,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1161,
+    "timestamp": 1787258132,
+    "username": "Gbayh",
+    "wallet": "0x263ce7fd040c7e53bc4c72192414b1121ecbb2ae",
+    "slug": "mlb-nyy-bal-2026-08-20-total-7pt5",
+    "title": "New York Yankees vs. Baltimore Orioles: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26049.22,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787258132,
+    "fills": 1
   }
 ]

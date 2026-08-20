@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 15:35:02 (hora de Perú)
+Actualizado: 2026-08-20 15:37:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **564**  ($27,725,689 en total)
+- Apuestas registradas: **565**  ($27,751,739 en total)
 - Resueltas: **541** — 316 ganadas / 225 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 146
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | — | ⏳ Pendiente |
 | FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
 | casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | 0x875Bc34Be755b39F1476418B2795A57C2A330878-1781737997365 | Dota 2: Team Liquid vs Team Yandex - Game 1 Winner | Team Liquid | 1.82 (55¢) | $55,327 | -$55,327 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | +$6,460 | ✅ Ganada |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
-| BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | -$37,773 | ❌ Perdida |
