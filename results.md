@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 20:54:19 (hora de Perú)
+Actualizado: 2026-08-19 20:56:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **497**  ($24,211,545 en total)
-- Resueltas: **464** — 280 ganadas / 184 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **465** — 280 ganadas / 185 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 131
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,017,513** sobre $22,811,474 apostados (ROI **+4.5%**)
-- Copiando $100 fijo en cada una: **-$1,030** sobre $45,100 (ROI **-2.3%**)
+- **Resultado de los apostadores: +$978,644** sobre $22,850,343 apostados (ROI **+4.3%**)
+- Copiando $100 fijo en cada una: **-$1,130** sobre $45,200 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | Winnerdinnerchickenjr | 0 | 0 | 2 | — | $131,230 | — |
-| theowalcott | 0 | 0 | 4 | — | $130,679 | — |
+| theowalcott | 0 | 1 | 3 | ⚠️ 0% (1) | $130,679 | -$38,869 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
 _(mostrando los 40 de mayor monto, de 131 en total)_
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | — | ⏳ Pendiente |
-| theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | — | ⏳ Pendiente |
+| theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | -$38,869 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
