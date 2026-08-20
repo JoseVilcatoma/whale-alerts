@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 15:39:07 (hora de Perú)
+Actualizado: 2026-08-20 15:41:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **565**  ($27,751,739 en total)
+- Apuestas registradas: **566**  ($27,810,873 en total)
 - Resueltas: **541** — 316 ganadas / 225 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 146
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 52 | 27 | 5 | 66% | $4,694,331 | +$251,875 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 32 | 21 | 1 | 60% | $2,268,017 | +$171,669 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 32 | 21 | 2 | 60% | $2,327,152 | +$171,669 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 1 | 58% | $794,464 | +$3,433 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Texas Rangers: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $59,135 | — | ⏳ Pendiente |
 | Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | — | ⏳ Pendiente |
 | FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
 | casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
 | 0x875Bc34Be755b39F1476418B2795A57C2A330878-1781737997365 | Dota 2: Team Liquid vs Team Yandex - Game 1 Winner | Team Liquid | 1.82 (55¢) | $55,327 | -$55,327 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | +$6,460 | ✅ Ganada |
-| zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
