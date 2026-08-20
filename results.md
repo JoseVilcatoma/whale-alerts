@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:14:01 (hora de Perú)
+Actualizado: 2026-08-20 07:16:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **521**  ($25,452,251 en total)
-- Resueltas: **500** — 297 ganadas / 203 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **501** — 297 ganadas / 204 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 139
 
 ### Balance
 
-- **Resultado de los apostadores: +$585,854** sobre $24,582,390 apostados (ROI **+2.4%**)
+- **Resultado de los apostadores: +$581,417** sobre $24,613,943 apostados (ROI **+2.4%**)
 - Copiando $100 fijo en cada una: **-$1,799** sobre $48,700 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 2.13 (47¢) | $53,052 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | — | ⏳ Pendiente |
-| l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | — | ⏳ Pendiente |
+| l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | -$4,437 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | — | ⏳ Pendiente |
