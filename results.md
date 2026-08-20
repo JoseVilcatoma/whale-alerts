@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 02:43:10 (hora de Perú)
+Actualizado: 2026-08-20 02:45:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **502**  ($24,650,907 en total)
+- Apuestas registradas: **503**  ($24,695,899 en total)
 - Resueltas: **497** — 296 ganadas / 201 perdidas (**60%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 132
+- Pendientes: 6
+- Apostadores distintos: 133
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | theowalcott | 0 | 4 | 0 | ⚠️ 0% (4) | $130,679 | -$130,679 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
-_(mostrando los 40 de mayor monto, de 132 en total)_
+_(mostrando los 40 de mayor monto, de 133 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $30,111 | — | ⏳ Pendiente |
 | beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | -$245,579 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner | FURIA | 1.64 (61¢) | $26,382 | -$26,382 | ❌ Perdida |
 | 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | +$3,370 | ✅ Ganada |
-| tennischamp | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.20 (83¢) | $26,957 | +$5,521 | ✅ Ganada |
