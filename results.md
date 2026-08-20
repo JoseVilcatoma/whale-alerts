@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 08:20:10 (hora de Perú)
+Actualizado: 2026-08-20 08:22:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **533**  ($26,050,992 en total)
+- Apuestas registradas: **534**  ($26,080,992 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 140
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 2 | 0 | 2 | ⚠️ 100% (2) | $445,826 | +$106,822 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 1 | 44% | $322,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 1 | ⚠️ 83% (6) | $282,923 | +$64,332 |
 | xifutloong3 | 3 | 6 | 0 | 33% | $281,941 | -$151,967 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 140 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 140 en total)_
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | -$28,637 | ❌ Perdida |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | -$38,869 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
