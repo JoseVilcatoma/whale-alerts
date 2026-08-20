@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 06:38:53 (hora de Perú)
+Actualizado: 2026-08-20 06:40:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **512**  ($25,005,231 en total)
+- Apuestas registradas: **513**  ($25,143,231 en total)
 - Resueltas: **499** — 296 ganadas / 203 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 138
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 0 | 65% | $3,916,420 | +$332,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 1 | 65% | $4,054,420 | +$332,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | — | ⏳ Pendiente |
 | pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | -$31,084 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
 | TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | +$63,145 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | -$29,933 | ❌ Perdida |

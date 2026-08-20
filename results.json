@@ -7704,5 +7704,20 @@
     "status": "pending",
     "ultimo_fill": 1787224133,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1065,
+    "timestamp": 1787225944,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-fal2-mglz-2026-08-20",
+    "title": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 138000.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1787225944,
+    "fills": 1
   }
 ]
