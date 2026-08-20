@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 18:08:49 (hora de Perú)
+Actualizado: 2026-08-20 18:10:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **573**  ($28,169,177 en total)
+- Apuestas registradas: **574**  ($28,227,222 en total)
 - Resueltas: **555** — 323 ganadas / 232 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 148
 
 ### Balance
@@ -32,10 +32,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 8 | 8 | 1 | 50% | $718,881 | -$5,864 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
+| Weaseloftheweek | 6 | 6 | 1 | 50% | $617,406 | -$54,339 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| Weaseloftheweek | 6 | 6 | 0 | 50% | $559,361 | -$54,339 |
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | New York Yankees vs. Baltimore Orioles | New York Yankees | 2.04 (49¢) | $58,045 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $36,115 | — | ⏳ Pendiente |
 | Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | — | ⏳ Pendiente |
 | kamloic | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.67 (60¢) | $44,239 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 | lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | -$29,270 | ❌ Perdida |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | -$4,437 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
-| dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | +$20,195 | ✅ Ganada |
