@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 04:56:35 (hora de Perú)
+Actualizado: 2026-08-20 04:58:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **506**  ($24,796,272 en total)
+- Apuestas registradas: **507**  ($24,823,812 en total)
 - Resueltas: **497** — 296 ganadas / 201 perdidas (**60%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 135
+- Pendientes: 10
+- Apostadores distintos: 136
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | theowalcott | 0 | 4 | 0 | ⚠️ 0% (4) | $130,679 | -$130,679 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
-_(mostrando los 40 de mayor monto, de 135 en total)_
+_(mostrando los 40 de mayor monto, de 136 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | — | ⏳ Pendiente |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 135 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
 | kindar | Will Club Atlético de Madrid win on 2026-08-19? | Yes | 1.52 (66¢) | $100,000 | +$51,515 | ✅ Ganada |
 | pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | +$68,822 | ✅ Ganada |
-| Paracellus | Will Club Atlético de Madrid win on 2026-08-19? | No | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |

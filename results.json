@@ -7614,5 +7614,20 @@
     "status": "pending",
     "ultimo_fill": 1787218831,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1056,
+    "timestamp": 1787219635,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-b8-ts7-2026-08-20",
+    "title": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 27540.0,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1787219635,
+    "fills": 1
   }
 ]
