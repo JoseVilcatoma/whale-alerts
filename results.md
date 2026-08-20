@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 21:10:42 (hora de Perú)
+Actualizado: 2026-08-19 21:12:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **498**  ($24,239,767 en total)
-- Resueltas: **472** — 283 ganadas / 189 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **475** — 284 ganadas / 191 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$947,365** sobre $23,054,172 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$1,272** sobre $45,900 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$876,581** sobre $23,207,273 apostados (ROI **+3.8%**)
+- Copiando $100 fijo en cada una: **-$1,462** sobre $46,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 46 | 25 | 1 | 65% | $3,916,420 | +$316,946 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 18 | 2 | 62% | $2,071,547 | +$309,559 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 0 | 60% | $2,071,547 | +$231,366 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | AV23IUa | 5 | 7 | 3 | 42% | $647,632 | -$71,152 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | -$28,637 | ❌ Perdida |
@@ -107,13 +107,13 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | +$19,183 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | -$47,110 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | +$25,917 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | -$31,084 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
 | TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | -$29,933 | ❌ Perdida |
