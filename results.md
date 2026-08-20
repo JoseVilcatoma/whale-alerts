@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 02:57:29 (hora de Perú)
+Actualizado: 2026-08-20 02:59:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **503**  ($24,695,899 en total)
+- Apuestas registradas: **505**  ($24,766,672 en total)
 - Resueltas: **497** — 296 ganadas / 201 perdidas (**60%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 133
+- Pendientes: 8
+- Apostadores distintos: 134
 
 ### Balance
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
+| 111111111115 | 6 | 3 | 1 | 67% | $443,438 | +$116,723 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | theowalcott | 0 | 4 | 0 | ⚠️ 0% (4) | $130,679 | -$130,679 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
-_(mostrando los 40 de mayor monto, de 133 en total)_
+_(mostrando los 40 de mayor monto, de 134 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
 | 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $30,111 | — | ⏳ Pendiente |
 | beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 133 en total)_
 | pleaseplease123 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $58,626 | +$68,822 | ✅ Ganada |
 | Paracellus | Will Club Atlético de Madrid win on 2026-08-19? | No | 3.03 (33¢) | $33,000 | -$33,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner | FURIA | 1.64 (61¢) | $26,382 | -$26,382 | ❌ Perdida |
-| 0b1 | Cincinnati Open: Sorana Cirstea vs Jessica Pegula | Jessica Pegula | 1.11 (90¢) | $30,327 | +$3,370 | ✅ Ganada |

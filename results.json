@@ -7569,5 +7569,35 @@
     "status": "pending",
     "ultimo_fill": 1787211813,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1053,
+    "timestamp": 1787212712,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game2",
+    "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 33000.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787212712,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1054,
+    "timestamp": 1787212728,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-dk-hle1-2026-08-20",
+    "title": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 37773.2143,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787212728,
+    "fills": 1
   }
 ]
