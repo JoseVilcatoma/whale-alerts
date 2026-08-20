@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:53:44 (hora de Perú)
+Actualizado: 2026-08-19 22:55:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **484** — 288 ganadas / 196 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **485** — 288 ganadas / 197 perdidas (**59%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$756,612** sobre $23,658,646 apostados (ROI **+3.2%**)
-- Copiando $100 fijo en cada una: **-$1,720** sobre $47,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$718,439** sobre $23,696,819 apostados (ROI **+3.0%**)
+- Copiando $100 fijo en cada una: **-$1,820** sobre $47,200 (ROI **-3.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 | Winnerdinnerchickenjr | 0 | 2 | 0 | ⚠️ 0% (2) | $131,230 | -$131,230 |
-| theowalcott | 0 | 3 | 1 | ⚠️ 0% (3) | $130,679 | -$92,506 |
+| theowalcott | 0 | 4 | 0 | ⚠️ 0% (4) | $130,679 | -$130,679 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
 _(mostrando los 40 de mayor monto, de 132 en total)_
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
 | Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | -$36,000 | ❌ Perdida |
-| theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | — | ⏳ Pendiente |
+| theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | -$38,173 | ❌ Perdida |
 | Winnerdinnerchickenjr | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.67 (60¢) | $61,230 | -$61,230 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Christopher O'Connell | Taylor Fritz | 1.15 (87¢) | $103,800 | +$15,510 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $31,828 | -$31,828 | ❌ Perdida |
