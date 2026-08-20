@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:55:03 (hora de Perú)
+Actualizado: 2026-08-20 12:57:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **552**  ($27,005,118 en total)
+- Apuestas registradas: **553**  ($27,115,719 en total)
 - Resueltas: **527** — 312 ganadas / 215 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 143
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 1 | 58% | $794,464 | +$3,433 |
+| S-Works | 5 | 0 | 2 | ⚠️ 100% (5) | $729,217 | +$214,872 |
 | AV23IUa | 7 | 8 | 1 | 47% | $687,322 | -$34,606 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
-| S-Works | 5 | 0 | 1 | ⚠️ 100% (5) | $618,617 | +$214,872 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | — | ⏳ Pendiente |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | — | ⏳ Pendiente |
 | pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | +$56,495 | ✅ Ganada |
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
-| beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | +$39,587 | ✅ Ganada |
