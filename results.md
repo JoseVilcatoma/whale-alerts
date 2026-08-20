@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 23:22:50 (hora de Perú)
+Actualizado: 2026-08-19 23:24:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **490** — 290 ganadas / 200 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Resueltas: **493** — 293 ganadas / 200 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$699,402** sobre $23,895,760 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$1,890** sobre $47,700 (ROI **-4.0%**)
+- **Resultado de los apostadores: +$779,747** sobre $24,075,830 apostados (ROI **+3.2%**)
+- Copiando $100 fijo en cada una: **-$1,773** sobre $48,000 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 3 | 1 | ⚠️ 57% (7) | $854,975 | -$299,770 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | beachboy4 | 3 | 8 | 1 | 27% | $647,803 | -$182,476 |
-| AV23IUa | 6 | 8 | 1 | 43% | $647,632 | -$48,606 |
+| AV23IUa | 7 | 8 | 0 | 47% | $647,632 | -$34,606 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 1 | ⚠️ 83% (6) | $282,923 | +$64,332 |
 | xifutloong3 | 3 | 6 | 0 | 33% | $281,941 | -$151,967 |
-| TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
+| TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 1.43 (70¢) | $37,789 | — | ⏳ Pendiente |
 | kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | — | ⏳ Pendiente |
-| 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
+| 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | +$56,495 | ✅ Ganada |
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
-| AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | -$28,637 | ❌ Perdida |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | -$38,869 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | -$31,084 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
-| TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
+| TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | +$63,145 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | -$29,933 | ❌ Perdida |
 | 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | +$2,718 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | +$13,636 | ✅ Ganada |
