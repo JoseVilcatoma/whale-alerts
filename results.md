@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 23:55:44 (hora de Perú)
+Actualizado: 2026-08-19 23:57:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **494** — 294 ganadas / 200 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **497** — 296 ganadas / 201 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$803,178** sobre $24,103,335 apostados (ROI **+3.3%**)
-- Copiando $100 fijo en cada una: **-$1,688** sobre $48,100 (ROI **-3.5%**)
+- **Resultado de los apostadores: +$653,447** sobre $24,474,797 apostados (ROI **+2.7%**)
+- Copiando $100 fijo en cada una: **-$1,634** sobre $48,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,9 +27,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 0 | 65% | $3,916,420 | +$332,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 0 | 60% | $2,071,547 | +$231,366 |
-| wr0ngw4yb3tt0r | 4 | 3 | 1 | ⚠️ 57% (7) | $854,975 | -$299,770 |
+| wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
-| beachboy4 | 3 | 8 | 1 | 27% | $647,803 | -$182,476 |
+| beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | AV23IUa | 7 | 8 | 0 | 47% | $647,632 | -$34,606 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | — | ⏳ Pendiente |
+| beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | -$245,579 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 1.43 (70¢) | $37,789 | — | ⏳ Pendiente |
-| kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | — | ⏳ Pendiente |
+| kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | +$22,175 | ✅ Ganada |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | +$56,495 | ✅ Ganada |
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
