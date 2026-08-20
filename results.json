@@ -7022,7 +7022,7 @@
     "side": "BUY",
     "usd": 27600.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787178558,
     "fills": 1
   },
@@ -7403,6 +7403,21 @@
     "odds_at_bet": 67,
     "status": "pending",
     "ultimo_fill": 1787187699,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1004,
+    "timestamp": 1787188755,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-col-laf-2026-08-19-col",
+    "title": "Will Colorado Rapids SC win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 33722.24570000001,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1787188755,
     "fills": 1
   }
 ]

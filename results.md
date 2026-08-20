@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 20:18:50 (hora de Perú)
+Actualizado: 2026-08-19 20:21:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **492**  ($24,013,939 en total)
-- Resueltas: **460** — 278 ganadas / 182 perdidas (**60%** de acierto)
+- Apuestas registradas: **493**  ($24,047,662 en total)
+- Resueltas: **461** — 278 ganadas / 183 perdidas (**60%** de acierto)
 - Pendientes: 32
 - Apostadores distintos: 130
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,044,156** sobre $22,658,737 apostados (ROI **+4.6%**)
-- Copiando $100 fijo en cada una: **-$952** sobre $44,700 (ROI **-2.1%**)
+- **Resultado de los apostadores: +$1,016,556** sobre $22,686,337 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$1,052** sobre $44,800 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,10 +34,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| beachboy4 | 1 | 6 | 1 | ⚠️ 14% (7) | $415,837 | -$196,247 |
+| beachboy4 | 1 | 6 | 2 | ⚠️ 14% (7) | $449,559 | -$196,247 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
-| SDTrading | 4 | 5 | 3 | 44% | $350,348 | -$35,448 |
+| SDTrading | 4 | 6 | 2 | 40% | $350,348 | -$63,048 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
 | Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
@@ -96,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | +$12,899 | ✅ Ganada |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | — | ⏳ Pendiente |
-| SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
+| SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | +$15,575 | ✅ Ganada |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves | 1.96 (51¢) | $30,600 | -$30,600 | ❌ Perdida |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $37,654 | +$34,757 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | -$32,266 | ❌ Perdida |
