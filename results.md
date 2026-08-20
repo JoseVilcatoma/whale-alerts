@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:01:59 (hora de Perú)
+Actualizado: 2026-08-19 22:04:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **478** — 286 ganadas / 192 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **480** — 287 ganadas / 193 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$916,342** sobre $23,398,915 apostados (ROI **+3.9%**)
-- Copiando $100 fijo en cada una: **-$1,447** sobre $46,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$883,442** sobre $23,501,815 apostados (ROI **+3.8%**)
+- Copiando $100 fijo en cada una: **-$1,435** sobre $46,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
-| SDTrading | 5 | 6 | 1 | 45% | $350,348 | -$46,440 |
+| SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 2 | 1 | 0 | ⚠️ 67% (3) | $142,254 | +$597 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
-| Winnerdinnerchickenjr | 0 | 0 | 2 | — | $131,230 | — |
+| Winnerdinnerchickenjr | 0 | 1 | 1 | ⚠️ 0% (1) | $131,230 | -$70,000 |
 | theowalcott | 0 | 3 | 1 | ⚠️ 0% (3) | $130,679 | -$92,506 |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $31,828 | -$31,828 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $26,315 | -$26,315 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $37,976 | +$37,976 | ✅ Ganada |
-| Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | — | ⏳ Pendiente |
+| Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | -$70,000 | ❌ Perdida |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | -$38,869 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
+| SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | +$37,100 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | +$12,899 | ✅ Ganada |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | +$16,609 | ✅ Ganada |
