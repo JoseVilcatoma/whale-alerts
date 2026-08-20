@@ -8321,5 +8321,20 @@
     "status": "pending",
     "ultimo_fill": 1787248542,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1135,
+    "timestamp": 1787248861,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sea-mil-2026-08-20-total-7pt5",
+    "title": "Seattle Mariners vs. Milwaukee Brewers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787248861,
+    "fills": 1
   }
 ]
