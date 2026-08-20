@@ -8516,5 +8516,35 @@
     "status": "pending",
     "ultimo_fill": 1787258432,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1171,
+    "timestamp": 1787260270,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-wsh-tex-2026-08-20",
+    "title": "Washington Nationals vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 114209.58,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787260270,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1172,
+    "timestamp": 1787260301,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ironwi-boombo-2026-08-20",
+    "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "usd": 52115.509999999995,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787260301,
+    "fills": 1
   }
 ]
