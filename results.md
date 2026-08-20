@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:57:27 (hora de Perú)
+Actualizado: 2026-08-20 07:59:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **525**  ($25,595,039 en total)
+- Apuestas registradas: **526**  ($25,621,039 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 139
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | +$16,609 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | +$28,733 | ✅ Ganada |
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
-| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
