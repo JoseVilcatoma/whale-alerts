@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:55:51 (hora de Perú)
+Actualizado: 2026-08-19 22:57:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **485** — 288 ganadas / 197 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **486** — 288 ganadas / 198 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$718,439** sobre $23,696,819 apostados (ROI **+3.0%**)
-- Copiando $100 fijo en cada una: **-$1,820** sobre $47,200 (ROI **-3.9%**)
+- **Resultado de los apostadores: +$667,955** sobre $23,747,302 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$1,920** sobre $47,300 (ROI **-4.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 0 | 60% | $2,071,547 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 3 | 1 | ⚠️ 57% (7) | $854,975 | -$299,770 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
-| beachboy4 | 1 | 7 | 4 | 12% | $647,803 | -$228,075 |
+| beachboy4 | 1 | 8 | 3 | 11% | $647,803 | -$278,559 |
 | AV23IUa | 6 | 8 | 1 | 43% | $647,632 | -$48,606 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | — | ⏳ Pendiente |
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | — | ⏳ Pendiente |
+| beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
