@@ -7916,5 +7916,35 @@
     "status": "pending",
     "ultimo_fill": 1787230661,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1082,
+    "timestamp": 1787230844,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ngx-flc-2026-08-20",
+    "title": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787230844,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1083,
+    "timestamp": 1787230886,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ngx-flc-2026-08-20",
+    "title": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 159244.848,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787230886,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:59:35 (hora de Perú)
+Actualizado: 2026-08-20 08:01:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **526**  ($25,621,039 en total)
+- Apuestas registradas: **528**  ($25,812,283 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 139
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 5 | 65% | $4,175,517 | +$332,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 6 | 65% | $4,334,762 | +$332,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -57,13 +57,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| Lakersfan111 | 2 | 1 | 2 | ⚠️ 67% (3) | $161,006 | +$4,417 |
 | dauntlesswitness | 3 | 0 | 1 | ⚠️ 100% (3) | $155,388 | +$95,936 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | lIlIlIllllIIIII | 4 | 0 | 1 | ⚠️ 100% (4) | $148,830 | +$51,299 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
-| Winnerdinnerchickenjr | 0 | 2 | 0 | ⚠️ 0% (2) | $131,230 | -$131,230 |
 
 _(mostrando los 40 de mayor monto, de 139 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $159,245 | — | ⏳ Pendiente |
+| Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | +$12,899 | ✅ Ganada |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | +$16,609 | ✅ Ganada |
-| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | +$28,733 | ✅ Ganada |
-| SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
