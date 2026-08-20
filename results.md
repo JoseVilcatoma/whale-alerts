@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:27:46 (hora de Perú)
+Actualizado: 2026-08-20 09:29:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **538**  ($26,292,789 en total)
+- Apuestas registradas: **539**  ($26,331,738 en total)
 - Resueltas: **503** — 297 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 141
 
 ### Balance
@@ -48,11 +48,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
+| Lakersfan111 | 2 | 1 | 4 | ⚠️ 67% (3) | $229,485 | +$4,417 |
 | StasPanda | 2 | 1 | 1 | ⚠️ 67% (3) | $195,306 | +$597 |
 | dsasdaas | 1 | 0 | 1 | ⚠️ 100% (1) | $195,001 | +$66,447 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $191,655 | +$21,670 |
-| Lakersfan111 | 2 | 1 | 3 | ⚠️ 67% (3) | $190,536 | +$4,417 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 | 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | — | ⏳ Pendiente |
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | -$70,000 | ❌ Perdida |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
