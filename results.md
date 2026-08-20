@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 11:26:57 (hora de Perú)
+Actualizado: 2026-08-20 11:29:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **546**  ($26,634,104 en total)
-- Resueltas: **518** — 305 ganadas / 213 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Resueltas: **519** — 306 ganadas / 213 perdidas (**59%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 142
 
 ### Balance
 
-- **Resultado de los apostadores: +$438,101** sobre $25,371,253 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$2,236** sobre $50,400 (ROI **-4.4%**)
+- **Resultado de los apostadores: +$471,637** sobre $25,433,535 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$2,182** sobre $50,500 (ROI **-4.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | AV23IUa | 7 | 8 | 1 | 47% | $687,322 | -$34,606 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
-| S-Works | 3 | 0 | 3 | ⚠️ 100% (3) | $618,617 | +$164,822 |
+| S-Works | 4 | 0 | 2 | ⚠️ 100% (4) | $618,617 | +$198,359 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
-| S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | — | ⏳ Pendiente |
+| S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | — | ⏳ Pendiente |
