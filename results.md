@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 16:16:26 (hora de Perú)
+Actualizado: 2026-08-20 16:18:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **568**  ($27,977,199 en total)
+- Apuestas registradas: **569**  ($28,008,757 en total)
 - Resueltas: **549** — 319 ganadas / 230 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 146
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 11 | 8 | 2 | 58% | $908,673 | +$3,433 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
-| AV23IUa | 8 | 8 | 0 | 50% | $687,322 | -$5,864 |
+| AV23IUa | 8 | 8 | 1 | 50% | $718,881 | -$5,864 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.69 (59¢) | $31,558 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Texas Rangers: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $59,135 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | -$25,004 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | -$32,640 | ❌ Perdida |
 | pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | +$8,352 | ✅ Ganada |
-| S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
