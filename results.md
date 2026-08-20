@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 10:37:45 (hora de Perú)
+Actualizado: 2026-08-20 10:39:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **542**  ($26,500,450 en total)
+- Apuestas registradas: **543**  ($26,529,090 en total)
 - Resueltas: **517** — 305 ganadas / 212 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 141
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $28,640 | — | ⏳ Pendiente |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $28,807 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.15 (87¢) | $110,509 | — | ⏳ Pendiente |
 | huli3882 | Indiana Fever vs. Dallas Wings: O/U 185.5 | Over 185.5 | 2.00 (50¢) | $29,396 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Christopher O'Connell | Taylor Fritz | 1.15 (87¢) | $103,800 | +$15,510 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $31,828 | -$31,828 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $26,315 | -$26,315 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $37,976 | +$37,976 | ✅ Ganada |
