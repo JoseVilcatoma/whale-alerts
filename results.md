@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 21:06:39 (hora de Perú)
+Actualizado: 2026-08-19 21:08:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **498**  ($24,239,767 en total)
-- Resueltas: **471** — 282 ganadas / 189 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **472** — 283 ganadas / 189 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$921,448** sobre $23,027,197 apostados (ROI **+4.0%**)
-- Copiando $100 fijo en cada una: **-$1,368** sobre $45,800 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$947,365** sobre $23,054,172 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$1,272** sobre $45,900 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
-| thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | — | ⏳ Pendiente |
+| thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | +$25,917 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | — | ⏳ Pendiente |
