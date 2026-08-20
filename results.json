@@ -8636,5 +8636,20 @@
     "status": "pending",
     "ultimo_fill": 1787267396,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1185,
+    "timestamp": 1787267831,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-swiatek-rybakin-2026-08-20",
+    "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 65999.99999899999,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1787267831,
+    "fills": 1
   }
 ]
