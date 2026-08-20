@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 20:29:25 (hora de Perú)
+Actualizado: 2026-08-19 20:31:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **495**  ($24,124,645 en total)
+- Apuestas registradas: **496**  ($24,174,745 en total)
 - Resueltas: **462** — 278 ganadas / 184 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 131
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| beachboy4 | 1 | 6 | 4 | ⚠️ 14% (7) | $550,142 | -$196,247 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| beachboy4 | 1 | 6 | 3 | ⚠️ 14% (7) | $500,043 | -$196,247 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 4 | 6 | 2 | 40% | $350,348 | -$63,048 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | — | ⏳ Pendiente |
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | — | ⏳ Pendiente |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $44,913 | -$44,913 | ❌ Perdida |
 | pleaseplease123 | Atlanta Braves vs. Minnesota Twins: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $30,548 | +$28,198 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs | G2 | 1.56 (64¢) | $27,690 | +$15,575 | ✅ Ganada |
