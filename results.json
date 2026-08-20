@@ -7611,7 +7611,7 @@
     "side": "BUY",
     "usd": 29600.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787218831,
     "fills": 1
   },
@@ -7733,6 +7733,21 @@
     "odds_at_bet": 78,
     "status": "pending",
     "ultimo_fill": 1787227037,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1067,
+    "timestamp": 1787227095,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-ty-2026-08-20",
+    "title": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 25080.0,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787227095,
     "fills": 1
   }
 ]

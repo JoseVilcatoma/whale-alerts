@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 06:57:31 (hora de Perú)
+Actualizado: 2026-08-20 06:59:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **514**  ($25,214,830 en total)
-- Resueltas: **499** — 296 ganadas / 203 perdidas (**59%** de acierto)
+- Apuestas registradas: **515**  ($25,239,910 en total)
+- Resueltas: **500** — 297 ganadas / 203 perdidas (**59%** de acierto)
 - Pendientes: 15
 - Apostadores distintos: 138
 
 ### Balance
 
-- **Resultado de los apostadores: +$575,454** sobre $24,552,790 apostados (ROI **+2.3%**)
-- Copiando $100 fijo en cada una: **-$1,834** sobre $48,600 (ROI **-3.8%**)
+- **Resultado de los apostadores: +$585,854** sobre $24,582,390 apostados (ROI **+2.4%**)
+- Copiando $100 fijo en cada una: **-$1,799** sobre $48,700 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 1 | 65% | $4,054,420 | +$332,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 2 | 65% | $4,079,500 | +$332,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 0x875Bc34Be755b39F1476418B2795A57C2A330878-1781737997365 | Dota 2: Team Liquid vs Team Yandex - Game 1 Winner | Team Liquid | 1.82 (55¢) | $55,327 | — | ⏳ Pendiente |
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | — | ⏳ Pendiente |
-| zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
+| zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | -$44,993 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | -$31,796 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | -$31,084 | ❌ Perdida |
-| dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
