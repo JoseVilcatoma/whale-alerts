@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 14:53:19 (hora de Perú)
+Actualizado: 2026-08-20 14:55:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **560**  ($27,526,324 en total)
+- Apuestas registradas: **561**  ($27,570,768 en total)
 - Resueltas: **538** — 314 ganadas / 224 perdidas (**58%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 144
+- Pendientes: 23
+- Apostadores distintos: 145
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 
-_(mostrando los 40 de mayor monto, de 144 en total)_
+_(mostrando los 40 de mayor monto, de 145 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | -$44,993 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $30,111 | — | ⏳ Pendiente |
-| beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
