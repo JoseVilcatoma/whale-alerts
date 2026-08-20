@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:20:05 (hora de Perú)
+Actualizado: 2026-08-20 07:22:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **521**  ($25,452,251 en total)
+- Apuestas registradas: **523**  ($25,510,791 en total)
 - Resueltas: **501** — 297 ganadas / 204 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 139
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 4 | 65% | $4,148,017 | +$332,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 5 | 65% | $4,175,517 | +$332,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $38,567 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | +$56,047 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
-| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | +$19,183 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | -$47,110 | ❌ Perdida |

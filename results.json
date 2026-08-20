@@ -7841,5 +7841,35 @@
     "status": "pending",
     "ultimo_fill": 1787227913,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1076,
+    "timestamp": 1787228479,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-ty-2026-08-20-game2",
+    "title": "Dota 2: Team Liquid vs Team Yandex - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 27499.999999,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787228479,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1077,
+    "timestamp": 1787228522,
+    "username": "l7wawaw1",
+    "wallet": "0x3ddff7eb725e289c41c8d0c549b8ab312d87c7b7",
+    "slug": "atp-hassan-blancan-2026-08-20",
+    "title": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux",
+    "outcome": "Benjamin Hassan",
+    "side": "BUY",
+    "usd": 31039.411800000005,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1787228522,
+    "fills": 1
   }
 ]
