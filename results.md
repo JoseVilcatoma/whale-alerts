@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:56:46 (hora de Perú)
+Actualizado: 2026-08-20 09:58:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **541**  ($26,471,643 en total)
-- Resueltas: **509** — 300 ganadas / 209 perdidas (**59%** de acierto)
-- Pendientes: 32
+- Resueltas: **516** — 304 ganadas / 212 perdidas (**59%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 141
 
 ### Balance
 
-- **Resultado de los apostadores: +$410,223** sobre $25,092,893 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$2,237** sobre $49,500 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$426,667** sobre $25,315,210 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$2,253** sobre $50,200 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,19 +24,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 48 | 25 | 5 | 66% | $4,334,762 | +$344,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 51 | 26 | 1 | 66% | $4,334,762 | +$362,120 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | AV23IUa | 7 | 8 | 0 | 47% | $647,632 | -$34,606 |
-| S-Works | 2 | 0 | 4 | ⚠️ 100% (2) | $618,617 | +$106,822 |
+| S-Works | 3 | 0 | 3 | ⚠️ 100% (3) | $618,617 | +$164,822 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
-| 111111111115 | 6 | 5 | 2 | 55% | $531,032 | +$51,083 |
+| 111111111115 | 6 | 6 | 1 | 50% | $531,032 | +$21,133 |
 | SDTrading | 6 | 6 | 1 | 50% | $378,436 | -$9,340 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 1 | 44% | $322,000 | -$77,355 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| lIlIlIllllIIIII | 4 | 0 | 1 | ⚠️ 100% (4) | $148,830 | +$51,299 |
+| lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
@@ -90,20 +90,20 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $38,567 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
+| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | -$29,950 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $38,567 | +$18,149 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | +$14,094 | ✅ Ganada |
 | StasPanda | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 2.13 (47¢) | $53,052 | -$53,052 | ❌ Perdida |
-| lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | — | ⏳ Pendiente |
+| lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | -$29,270 | ❌ Perdida |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | -$4,437 | 💰 Vendida antes |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | +$20,195 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | +$12,000 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | -$32,640 | ❌ Perdida |
 | pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | — | ⏳ Pendiente |
-| S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
+| S-Works | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
 | 0x875Bc34Be755b39F1476418B2795A57C2A330878-1781737997365 | Dota 2: Team Liquid vs Team Yandex - Game 1 Winner | Team Liquid | 1.82 (55¢) | $55,327 | -$55,327 | ❌ Perdida |
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | — | ⏳ Pendiente |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
