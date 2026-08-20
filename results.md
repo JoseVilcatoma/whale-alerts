@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 08:05:45 (hora de Perú)
+Actualizado: 2026-08-20 08:07:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **530**  ($25,905,407 en total)
+- Apuestas registradas: **531**  ($25,943,419 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 139
+- Pendientes: 29
+- Apostadores distintos: 140
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 
-_(mostrando los 40 de mayor monto, de 139 en total)_
+_(mostrando los 40 de mayor monto, de 140 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $63,592 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $29,531 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $159,245 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | +$37,100 | ✅ Ganada |
-| tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
