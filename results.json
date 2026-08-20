@@ -8276,5 +8276,20 @@
     "status": "pending",
     "ultimo_fill": 1787247443,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1131,
+    "timestamp": 1787247563,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-oak-kc-2026-08-20-total-8pt5",
+    "title": "Athletics vs. Kansas City Royals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 38773.3178,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787247563,
+    "fills": 1
   }
 ]

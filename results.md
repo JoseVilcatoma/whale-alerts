@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:38:25 (hora de Perú)
+Actualizado: 2026-08-20 12:40:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **550**  ($26,939,783 en total)
+- Apuestas registradas: **551**  ($26,978,556 en total)
 - Resueltas: **526** — 312 ganadas / 214 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 142
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 3 | 60% | $2,233,847 | +$231,366 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
+| pleaseplease123 | 11 | 8 | 1 | 58% | $794,464 | +$3,433 |
 | AV23IUa | 7 | 8 | 1 | 47% | $687,322 | -$34,606 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | S-Works | 5 | 0 | 1 | ⚠️ 100% (5) | $618,617 | +$214,872 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 4.55 (22¢) | $131,140 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | +$39,587 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
-| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | +$13,193 | ✅ Ganada |
