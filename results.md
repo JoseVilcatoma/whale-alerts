@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 19:49:39 (hora de Perú)
+Actualizado: 2026-08-19 19:54:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **489**  ($23,889,533 en total)
-- Resueltas: **457** — 275 ganadas / 182 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **458** — 276 ganadas / 182 perdidas (**60%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 130
 
 ### Balance
 
-- **Resultado de los apostadores: +$962,208** sobre $22,555,166 apostados (ROI **+4.3%**)
-- Copiando $100 fijo en cada una: **-$1,172** sobre $44,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,012,590** sobre $22,605,549 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$1,072** sobre $44,500 (ROI **-2.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 45 | 24 | 3 | 65% | $3,916,420 | +$305,285 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 18 | 4 | 61% | $2,071,547 | +$240,510 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 29 | 18 | 3 | 62% | $2,071,547 | +$290,892 |
 | pleaseplease123 | 11 | 7 | 1 | 61% | $755,690 | +$50,391 |
 | AV23IUa | 3 | 7 | 4 | 30% | $614,132 | -$119,068 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 1.96 (51¢) | $28,637 | — | ⏳ Pendiente |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes | 1.72 (58¢) | $38,869 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $50,383 | +$50,383 | ✅ Ganada |
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | — | ⏳ Pendiente |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
