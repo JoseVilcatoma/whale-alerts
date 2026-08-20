@@ -7686,7 +7686,7 @@
     "side": "BUY",
     "usd": 32640.0,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787222096,
     "fills": 1
   },
@@ -8125,6 +8125,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1787236654,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1101,
+    "timestamp": 1787237428,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-faze-vit-2026-08-20",
+    "title": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 110509.41569999998,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1787237428,
     "fills": 1
   }
 ]
