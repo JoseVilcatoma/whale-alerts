@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 15:01:45 (hora de Perú)
+Actualizado: 2026-08-20 15:03:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **561**  ($27,570,768 en total)
+- Apuestas registradas: **562**  ($27,657,776 en total)
 - Resueltas: **538** — 314 ganadas / 224 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 145
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 52 | 27 | 4 | 66% | $4,607,322 | +$251,875 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 52 | 27 | 5 | 66% | $4,694,331 | +$251,875 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 21 | 3 | 59% | $2,268,017 | +$126,955 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 145 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
 | Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 145 en total)_
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | -$37,773 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
 | 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | -$44,993 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $30,111 | — | ⏳ Pendiente |
