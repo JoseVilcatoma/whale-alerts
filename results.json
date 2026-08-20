@@ -7659,5 +7659,20 @@
     "status": "pending",
     "ultimo_fill": 1787221435,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1060,
+    "timestamp": 1787221736,
+    "username": "pravica",
+    "wallet": "0x5c720d41fe89ca907116f5629b5b1fda4a3d7e7e",
+    "slug": "cs2-faze-vit-2026-08-20",
+    "title": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 26448.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1787221736,
+    "fills": 1
   }
 ]
