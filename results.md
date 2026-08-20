@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:32:19 (hora de Perú)
+Actualizado: 2026-08-20 12:34:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **548**  ($26,869,656 en total)
-- Resueltas: **525** — 312 ganadas / 213 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **526** — 312 ganadas / 214 perdidas (**59%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 142
 
 ### Balance
 
-- **Resultado de los apostadores: +$547,047** sobre $25,710,601 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$1,995** sobre $51,100 (ROI **-3.9%**)
+- **Resultado de los apostadores: +$519,111** sobre $25,738,537 apostados (ROI **+2.0%**)
+- Copiando $100 fijo en cada una: **-$2,095** sobre $51,200 (ROI **-4.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | -$27,936 | ❌ Perdida |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | +$36,438 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | -$29,950 | ❌ Perdida |
