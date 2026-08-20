@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:22:18 (hora de Perú)
+Actualizado: 2026-08-19 22:24:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **482** — 288 ganadas / 194 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **483** — 288 ganadas / 195 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$826,112** sobre $23,589,146 apostados (ROI **+3.5%**)
-- Copiando $100 fijo en cada una: **-$1,520** sobre $46,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$790,112** sobre $23,625,146 apostados (ROI **+3.3%**)
+- Copiando $100 fijo en cada una: **-$1,620** sobre $47,000 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 1 | ⚠️ 83% (6) | $282,923 | +$64,332 |
-| xifutloong3 | 3 | 5 | 1 | 38% | $281,941 | -$115,967 |
+| xifutloong3 | 3 | 6 | 0 | 33% | $281,941 | -$151,967 |
 | TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
 | Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
-| xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | — | ⏳ Pendiente |
+| xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | -$36,000 | ❌ Perdida |
 | theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.67 (60¢) | $61,230 | -$61,230 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Christopher O'Connell | Taylor Fritz | 1.15 (87¢) | $103,800 | +$15,510 | ✅ Ganada |
