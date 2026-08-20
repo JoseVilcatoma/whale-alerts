@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 19:11:51 (hora de Perú)
+Actualizado: 2026-08-19 19:13:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **485**  ($23,650,329 en total)
-- Resueltas: **454** — 273 ganadas / 181 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **456** — 274 ganadas / 182 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 130
 
 ### Balance
 
-- **Resultado de los apostadores: +$940,768** sobre $22,463,859 apostados (ROI **+4.2%**)
-- Copiando $100 fijo en cada una: **-$1,224** sobre $44,100 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$953,376** sobre $22,530,031 apostados (ROI **+4.2%**)
+- Copiando $100 fijo en cada una: **-$1,207** sobre $44,300 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 45 | 24 | 2 | 65% | $3,812,620 | +$305,285 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 17 | 5 | 62% | $2,071,547 | +$270,442 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 28 | 18 | 4 | 61% | $2,071,547 | +$240,510 |
 | pleaseplease123 | 11 | 7 | 1 | 61% | $755,690 | +$50,391 |
 | AV23IUa | 3 | 7 | 4 | 30% | $614,132 | -$119,068 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | beachboy4 | 1 | 6 | 1 | ⚠️ 14% (7) | $415,837 | -$196,247 |
 | 111111111115 | 6 | 3 | 0 | 67% | $410,438 | +$116,723 |
-| Sassy-Bucket | 5 | 2 | 1 | ⚠️ 71% (7) | $367,758 | +$181,250 |
+| Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 4 | 5 | 3 | 44% | $350,348 | -$35,448 |
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | — | ⏳ Pendiente |
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | — | ⏳ Pendiente |
-| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | — | ⏳ Pendiente |
+| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
 | TennisLove | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $117,270 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $29,933 | -$29,933 | ❌ Perdida |
 | 0b1 | Will LASK Linz win on 2026-08-19? | No | 1.10 (91¢) | $27,486 | +$2,718 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.39 (72¢) | $35,065 | +$13,636 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cincinnati Open: Linda Noskova vs Amanda Anisimova | Amanda Anisimova | 1.75 (57¢) | $40,000 | +$30,175 | ✅ Ganada |
