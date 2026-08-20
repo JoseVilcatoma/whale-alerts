@@ -8111,5 +8111,20 @@
     "status": "pending",
     "ultimo_fill": 1787236190,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1096,
+    "timestamp": 1787236654,
+    "username": "huli3882",
+    "wallet": "0x1d2efa184454366ad3e79f3395d25396c20b896d",
+    "slug": "wnba-ind-dal-2026-08-20-total-185pt5",
+    "title": "Indiana Fever vs. Dallas Wings: O/U 185.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29395.74,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787236654,
+    "fills": 1
   }
 ]

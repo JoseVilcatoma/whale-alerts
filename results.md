@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:36:07 (hora de Perú)
+Actualizado: 2026-08-20 09:38:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **539**  ($26,331,738 en total)
+- Apuestas registradas: **540**  ($26,361,134 en total)
 - Resueltas: **503** — 297 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 141
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| huli3882 | Indiana Fever vs. Dallas Wings: O/U 185.5 | Over 185.5 | 2.00 (50¢) | $29,396 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | — | ⏳ Pendiente |
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $37,976 | +$37,976 | ✅ Ganada |
 | Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | -$70,000 | ❌ Perdida |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
-| quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
