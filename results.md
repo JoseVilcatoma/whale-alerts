@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 20:31:27 (hora de Perú)
+Actualizado: 2026-08-19 20:33:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **496**  ($24,174,745 en total)
-- Resueltas: **462** — 278 ganadas / 184 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **464** — 280 ganadas / 184 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 131
 
 ### Balance
 
-- **Resultado de los apostadores: +$969,597** sobre $22,733,295 apostados (ROI **+4.3%**)
-- Copiando $100 fijo en cada una: **-$1,152** sobre $44,900 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,017,513** sobre $22,811,474 apostados (ROI **+4.5%**)
+- Copiando $100 fijo en cada una: **-$1,030** sobre $45,100 (ROI **-2.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 18 | 2 | 62% | $2,071,547 | +$309,559 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
-| AV23IUa | 3 | 7 | 5 | 30% | $647,632 | -$119,068 |
+| AV23IUa | 5 | 7 | 3 | 42% | $647,632 | -$71,152 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | wr0ngw4yb3tt0r | 4 | 3 | 0 | ⚠️ 57% (7) | $609,396 | -$299,770 |
@@ -99,12 +99,12 @@ _(mostrando los 40 de mayor monto, de 131 en total)_
 | tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | +$12,899 | ✅ Ganada |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals | 1.61 (62¢) | $27,098 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | +$28,733 | ✅ Ganada |
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
-| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | +$19,183 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
