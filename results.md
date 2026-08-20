@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 23:47:29 (hora de Perú)
+Actualizado: 2026-08-19 23:49:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **493** — 293 ganadas / 200 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Resueltas: **494** — 294 ganadas / 200 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$779,747** sobre $24,075,830 apostados (ROI **+3.2%**)
-- Copiando $100 fijo en cada una: **-$1,773** sobre $48,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$803,178** sobre $24,103,335 apostados (ROI **+3.3%**)
+- Copiando $100 fijo en cada una: **-$1,688** sobre $48,100 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | +$19,183 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | -$47,110 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | +$23,431 | ✅ Ganada |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | +$25,917 | ✅ Ganada |
 | Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | -$31,796 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
