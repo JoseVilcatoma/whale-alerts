@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:39:03 (hora de Perú)
+Actualizado: 2026-08-19 22:41:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **483** — 288 ganadas / 195 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **484** — 288 ganadas / 196 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$790,112** sobre $23,625,146 apostados (ROI **+3.3%**)
-- Copiando $100 fijo en cada una: **-$1,620** sobre $47,000 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$756,612** sobre $23,658,646 apostados (ROI **+3.2%**)
+- Copiando $100 fijo en cada una: **-$1,720** sobre $47,100 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 3 | 1 | ⚠️ 57% (7) | $854,975 | -$299,770 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | beachboy4 | 1 | 7 | 4 | 12% | $647,803 | -$228,075 |
-| AV23IUa | 6 | 7 | 2 | 46% | $647,632 | -$15,106 |
+| AV23IUa | 6 | 8 | 1 | 43% | $647,632 | -$48,606 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | — | ⏳ Pendiente |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
 | Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | -$36,000 | ❌ Perdida |
