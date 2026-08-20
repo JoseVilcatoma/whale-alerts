@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 14:19:40 (hora de Perú)
+Actualizado: 2026-08-20 14:21:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **557**  ($27,417,175 en total)
+- Apuestas registradas: **558**  ($27,451,345 en total)
 - Resueltas: **530** — 313 ganadas / 217 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 144
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 51 | 26 | 4 | 66% | $4,532,344 | +$362,120 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 21 | 2 | 59% | $2,233,847 | +$126,955 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 21 | 3 | 59% | $2,268,017 | +$126,955 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 1 | 58% | $794,464 | +$3,433 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | — | ⏳ Pendiente |
 | piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | -$245,579 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 1.43 (70¢) | $37,789 | -$37,789 | ❌ Perdida |
-| kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | +$22,175 | ✅ Ganada |
