@@ -8006,5 +8006,20 @@
     "status": "pending",
     "ultimo_fill": 1787231437,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1088,
+    "timestamp": 1787231810,
+    "username": "jackpeter888",
+    "wallet": "0x292f242d62653d674ffbb5a0782f035069067fc2",
+    "slug": "lol-lgd-blg-2026-08-20-game2",
+    "title": "LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 35607.415,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1787231810,
+    "fills": 1
   }
 ]
