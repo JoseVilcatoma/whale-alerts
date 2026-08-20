@@ -8336,5 +8336,20 @@
     "status": "pending",
     "ultimo_fill": 1787248861,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1136,
+    "timestamp": 1787249483,
+    "username": "piomolska",
+    "wallet": "0x202f434851cbd825dc89fdfce376b33ef2e27461",
+    "slug": "lal-ray-ala-2026-08-20-ray",
+    "title": "Will Rayo Vallecano de Madrid win on 2026-08-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 216499.12000000002,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787249483,
+    "fills": 1
   }
 ]

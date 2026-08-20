@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 13:09:28 (hora de Perú)
+Actualizado: 2026-08-20 13:11:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **554**  ($27,142,219 en total)
+- Apuestas registradas: **555**  ($27,358,718 en total)
 - Resueltas: **527** — 312 ganadas / 215 perdidas (**59%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 143
+- Pendientes: 28
+- Apostadores distintos: 144
 
 ### Balance
 
@@ -49,6 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Lakersfan111 | 3 | 1 | 3 | ⚠️ 75% (4) | $229,485 | +$28,289 |
+| piomolska | 0 | 0 | 1 | — | $216,499 | — |
 | StasPanda | 2 | 2 | 0 | ⚠️ 50% (4) | $195,306 | -$52,455 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -63,14 +64,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
-| ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 
-_(mostrando los 40 de mayor monto, de 143 en total)_
+_(mostrando los 40 de mayor monto, de 144 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | — | ⏳ Pendiente |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 143 en total)_
 | kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | +$22,175 | ✅ Ganada |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | +$56,495 | ✅ Ganada |
-| flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
