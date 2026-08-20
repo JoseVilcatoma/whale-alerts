@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 13:36:23 (hora de Perú)
+Actualizado: 2026-08-20 13:38:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **555**  ($27,358,718 en total)
+- Apuestas registradas: **556**  ($27,384,784 en total)
 - Resueltas: **527** — 312 ganadas / 215 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 144
 
 ### Balance
@@ -40,10 +40,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 6 | 6 | 2 | 50% | $404,936 | -$9,340 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
+| xifutloong3 | 3 | 6 | 1 | 33% | $308,007 | -$151,967 |
 | dauntlesswitness | 4 | 0 | 2 | ⚠️ 100% (4) | $299,201 | +$109,129 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 2 | 0 | ⚠️ 71% (7) | $282,923 | +$26,543 |
-| xifutloong3 | 3 | 6 | 0 | 33% | $281,941 | -$151,967 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | — | ⏳ Pendiente |
 | piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | — | ⏳ Pendiente |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 1.43 (70¢) | $37,789 | -$37,789 | ❌ Perdida |
 | kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | +$22,175 | ✅ Ganada |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | +$3,200 | ✅ Ganada |
-| beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | +$56,495 | ✅ Ganada |
