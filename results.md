@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:40:14 (hora de Perú)
+Actualizado: 2026-08-20 09:42:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **540**  ($26,361,134 en total)
-- Resueltas: **503** — 297 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 37
+- Resueltas: **504** — 298 ganadas / 206 perdidas (**59%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 141
 
 ### Balance
 
-- **Resultado de los apostadores: +$488,317** sobre $24,707,043 apostados (ROI **+2.0%**)
-- Copiando $100 fijo en cada una: **-$1,999** sobre $48,900 (ROI **-4.1%**)
+- **Resultado de los apostadores: +$508,511** sobre $24,778,642 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$1,971** sobre $49,000 (ROI **-4.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Lakersfan111 | 2 | 1 | 4 | ⚠️ 67% (3) | $229,485 | +$4,417 |
 | StasPanda | 2 | 1 | 1 | ⚠️ 67% (3) | $195,306 | +$597 |
-| dsasdaas | 1 | 0 | 1 | ⚠️ 100% (1) | $195,001 | +$66,447 |
+| dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $191,655 | +$21,670 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | lIlIlIllllIIIII | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.89 (53¢) | $29,270 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | -$4,437 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
-| dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | — | ⏳ Pendiente |
+| dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | +$20,195 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | — | ⏳ Pendiente |
