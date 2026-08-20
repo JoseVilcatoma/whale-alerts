@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 05:55:31 (hora de Perú)
+Actualizado: 2026-08-20 05:57:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **511**  ($24,980,227 en total)
-- Resueltas: **497** — 296 ganadas / 201 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **499** — 296 ganadas / 203 perdidas (**59%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 138
 
 ### Balance
 
-- **Resultado de los apostadores: +$653,447** sobre $24,474,797 apostados (ROI **+2.7%**)
-- Copiando $100 fijo en cada una: **-$1,634** sobre $48,400 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$575,454** sobre $24,552,790 apostados (ROI **+2.3%**)
+- Copiando $100 fijo en cada una: **-$1,834** sobre $48,600 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
-| 111111111115 | 6 | 3 | 2 | 67% | $476,078 | +$116,723 |
+| 111111111115 | 6 | 4 | 1 | 60% | $476,078 | +$83,723 |
 | S-Works | 2 | 0 | 1 | ⚠️ 100% (2) | $382,233 | +$106,822 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
@@ -78,8 +78,8 @@ _(mostrando los 40 de mayor monto, de 138 en total)_
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | — | ⏳ Pendiente |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
-| 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
+| 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | -$44,993 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Francisco Giants vs. Cleveland Guardians | Cleveland Guardians | 1.56 (64¢) | $30,111 | — | ⏳ Pendiente |
 | beachboy4 | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.75 (57¢) | $97,660 | +$73,674 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Los Angeles Galaxy win on 2026-08-19? | No | 2.33 (43¢) | $245,579 | -$245,579 | ❌ Perdida |
