@@ -7539,5 +7539,20 @@
     "status": "won",
     "ultimo_fill": 1787192770,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 1051,
+    "timestamp": 1787209497,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-sf-cle-2026-08-20",
+    "title": "San Francisco Giants vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 30110.611200000003,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787209497,
+    "fills": 1
   }
 ]
