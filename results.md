@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:50:53 (hora de Perú)
+Actualizado: 2026-08-20 12:53:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **551**  ($26,978,556 en total)
-- Resueltas: **526** — 312 ganadas / 214 perdidas (**59%** de acierto)
+- Apuestas registradas: **552**  ($27,005,118 en total)
+- Resueltas: **527** — 312 ganadas / 215 perdidas (**59%** de acierto)
 - Pendientes: 25
-- Apostadores distintos: 142
+- Apostadores distintos: 143
 
 ### Balance
 
-- **Resultado de los apostadores: +$519,111** sobre $25,738,537 apostados (ROI **+2.0%**)
-- Copiando $100 fijo en cada una: **-$2,095** sobre $51,200 (ROI **-4.1%**)
+- **Resultado de los apostadores: +$489,111** sobre $25,768,537 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$2,195** sobre $51,300 (ROI **-4.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 6 | 6 | 1 | 50% | $378,436 | -$9,340 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 1 | 44% | $322,000 | -$77,355 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | dauntlesswitness | 4 | 0 | 2 | ⚠️ 100% (4) | $299,201 | +$109,129 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 2 | 0 | ⚠️ 71% (7) | $282,923 | +$26,543 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 
-_(mostrando los 40 de mayor monto, de 142 en total)_
+_(mostrando los 40 de mayor monto, de 143 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | — | ⏳ Pendiente |
 | pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
 | jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | +$11,869 | ✅ Ganada |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | +$8,344 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | flawfence | Will Colorado Rapids SC win on 2026-08-19? | No | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | +$39,587 | ✅ Ganada |
-| AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
