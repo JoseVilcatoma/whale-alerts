@@ -8186,5 +8186,20 @@
     "status": "pending",
     "ultimo_fill": 1787241254,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1117,
+    "timestamp": 1787242066,
+    "username": "Gbayh",
+    "wallet": "0x263ce7fd040c7e53bc4c72192414b1121ecbb2ae",
+    "slug": "mlb-tor-tb-2026-08-20",
+    "title": "Toronto Blue Jays vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 31273.609998,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1787242066,
+    "fills": 1
   }
 ]
