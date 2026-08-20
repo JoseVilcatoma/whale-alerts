@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 21:33:19 (hora de Perú)
+Actualizado: 2026-08-19 21:35:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **476** — 285 ganadas / 191 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **477** — 285 ganadas / 192 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$892,091** sobre $23,311,073 apostados (ROI **+3.8%**)
-- Copiando $100 fijo en cada una: **-$1,447** sobre $46,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$860,295** sobre $23,342,869 apostados (ROI **+3.7%**)
+- Copiando $100 fijo en cada una: **-$1,547** sobre $46,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen | 1.52 (66¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x076d…8d4c | Minnesota Lynx vs. Golden State Valkyries: O/U 163.5 | Under 163.5 | 1.85 (54¢) | $27,505 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $26,975 | +$25,917 | ✅ Ganada |
-| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | — | ⏳ Pendiente |
+| Satisfied | Athletics vs. Kansas City Royals | Athletics | 2.63 (38¢) | $31,796 | -$31,796 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Alexander Zverev vs Tommy Paul | Alexander Zverev | 1.25 (80¢) | $27,241 | -$27,241 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $31,084 | -$31,084 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs | FURIA | 1.67 (60¢) | $35,000 | +$23,333 | ✅ Ganada |
