@@ -8591,5 +8591,20 @@
     "status": "pending",
     "ultimo_fill": 1787263498,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1182,
+    "timestamp": 1787266689,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-laa-hou-2026-08-20-total-8pt5",
+    "title": "Los Angeles Angels vs. Houston Astros: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 41203.250400000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787266689,
+    "fills": 1
   }
 ]

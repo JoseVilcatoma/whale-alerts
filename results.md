@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 17:56:14 (hora de Perú)
+Actualizado: 2026-08-20 17:58:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **571**  ($28,091,859 en total)
+- Apuestas registradas: **572**  ($28,133,062 en total)
 - Resueltas: **555** — 323 ganadas / 232 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 147
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 147 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | — | ⏳ Pendiente |
 | kamloic | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.67 (60¢) | $44,239 | — | ⏳ Pendiente |
 | laozishudaosan | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 2.04 (49¢) | $38,863 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.69 (59¢) | $31,558 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 147 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | +$20,195 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | +$12,000 | ✅ Ganada |
-| BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | -$25,004 | ❌ Perdida |
