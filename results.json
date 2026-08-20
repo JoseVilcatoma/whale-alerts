@@ -7374,5 +7374,20 @@
     "status": "pending",
     "ultimo_fill": 1787187334,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1000,
+    "timestamp": 1787187073,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mls-col-laf-2026-08-19-col",
+    "title": "Will Colorado Rapids SC win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 38135.63219999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787187073,
+    "fills": 1
   }
 ]
