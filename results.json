@@ -7868,7 +7868,7 @@
     "side": "BUY",
     "usd": 31039.411800000005,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787228522,
     "fills": 1
   },
@@ -8140,6 +8140,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1787237428,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1113,
+    "timestamp": 1787240112,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-g2-furia-2026-08-20",
+    "title": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 28806.579200000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787240112,
     "fills": 1
   }
 ]
