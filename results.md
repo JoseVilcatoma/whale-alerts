@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 16:28:34 (hora de Perú)
+Actualizado: 2026-08-20 16:30:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **569**  ($28,008,757 en total)
-- Resueltas: **554** — 323 ganadas / 231 perdidas (**58%** de acierto)
+- Apuestas registradas: **570**  ($28,047,620 en total)
+- Resueltas: **555** — 323 ganadas / 232 perdidas (**58%** de acierto)
 - Pendientes: 15
-- Apostadores distintos: 146
+- Apostadores distintos: 147
 
 ### Balance
 
-- **Resultado de los apostadores: -$483,168** sobre $27,333,567 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$3,032** sobre $54,000 (ROI **-5.6%**)
+- **Resultado de los apostadores: -$521,942** sobre $27,372,340 apostados (ROI **-1.9%**)
+- Copiando $100 fijo en cada una: **-$3,132** sobre $54,100 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 53 | 28 | 4 | 65% | $4,746,446 | +$141,444 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 32 | 21 | 2 | 60% | $2,327,152 | +$171,669 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 11 | 8 | 2 | 58% | $908,673 | +$3,433 |
+| pleaseplease123 | 11 | 9 | 1 | 55% | $908,673 | -$35,341 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 8 | 8 | 1 | 50% | $718,881 | -$5,864 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 
-_(mostrando los 40 de mayor monto, de 146 en total)_
+_(mostrando los 40 de mayor monto, de 147 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| laozishudaosan | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 2.04 (49¢) | $38,863 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.69 (59¢) | $31,558 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | -$110,600 | ❌ Perdida |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | +$17,708 | ✅ Ganada |
-| pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
+| pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | -$38,773 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | +$4,706 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | +$27,778 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 4.55 (22¢) | $131,140 | -$131,140 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | +$12,000 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | -$25,004 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | -$32,640 | ❌ Perdida |
-| pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | +$8,352 | ✅ Ganada |
