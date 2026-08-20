@@ -7314,5 +7314,20 @@
     "status": "pending",
     "ultimo_fill": 1787184887,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 991,
+    "timestamp": 1787186145,
+    "username": "Winnerdinnerchickenjr",
+    "wallet": "0x408fe71e6b5401ecd6733970cb6f1a25e984b2f4",
+    "slug": "mlb-wsh-tex-2026-08-19",
+    "title": "Washington Nationals vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 61230.229998999996,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787186145,
+    "fills": 1
   }
 ]
