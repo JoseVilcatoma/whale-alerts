@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 21:14:51 (hora de Perú)
+Actualizado: 2026-08-19 21:16:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **498**  ($24,239,767 en total)
+- Apuestas registradas: **499**  ($24,277,556 en total)
 - Resueltas: **475** — 284 ganadas / 191 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 132
 
 ### Balance
@@ -41,11 +41,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 2 | 0 | 0 | ⚠️ 100% (2) | $340,233 | +$106,822 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 1 | ⚠️ 83% (6) | $282,923 | +$64,332 |
 | xifutloong3 | 3 | 5 | 1 | 38% | $281,941 | -$115,967 |
 | TennisLove | 3 | 0 | 1 | ⚠️ 100% (3) | $276,061 | +$60,418 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 0 | ⚠️ 83% (6) | $245,134 | +$64,332 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $191,655 | +$21,670 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 1.43 (70¢) | $37,789 | — | ⏳ Pendiente |
 | kluckkluck | Will Los Angeles Galaxy win on 2026-08-19? | Yes | 1.79 (56¢) | $28,222 | — | ⏳ Pendiente |
 | 0F62 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.09 (92¢) | $36,800 | — | ⏳ Pendiente |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.13 (47¢) | $50,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. New York Mets: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $30,442 | -$30,442 | ❌ Perdida |
 | StasPanda | Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs | MOUZ | 1.30 (77¢) | $68,529 | +$20,470 | ✅ Ganada |
 | Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.18 (85¢) | $35,000 | -$35,000 | ❌ Perdida |
-| Marcoli | Cincinnati Open: Rafael Jodar vs Flavio Cobolli | Rafael Jodar | 1.15 (87¢) | $50,000 | -$50,000 | ❌ Perdida |
