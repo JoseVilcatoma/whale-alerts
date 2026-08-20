@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 19:49:39 (hora de Perú)
+Actualizado: 2026-08-19 19:51:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **489**  ($23,889,533 en total)
+- Apuestas registradas: **490**  ($23,927,669 en total)
 - Resueltas: **457** — 275 ganadas / 182 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 130
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | — | ⏳ Pendiente |
 | theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.67 (60¢) | $61,230 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $32,266 | -$32,266 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.67 (60¢) | $27,315 | +$18,210 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs magic - Map 2 Winner | FUT Esports | 1.52 (66¢) | $32,282 | +$16,630 | ✅ Ganada |
-| dauntlesswitness | Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs | FUT Esports | 2.44 (41¢) | $38,617 | +$55,571 | ✅ Ganada |
