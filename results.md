@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:03:16 (hora de Perú)
+Actualizado: 2026-08-20 09:05:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **536**  ($26,215,122 en total)
+- Apuestas registradas: **537**  ($26,243,210 en total)
 - Resueltas: **503** — 297 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 140
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
 | 111111111115 | 6 | 4 | 3 | 60% | $531,032 | +$83,723 |
 | S-Works | 2 | 0 | 3 | ⚠️ 100% (2) | $508,108 | +$106,822 |
+| SDTrading | 6 | 6 | 1 | 50% | $378,436 | -$9,340 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
-| SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 1 | 44% | $322,000 | -$77,355 |
 | dauntlesswitness | 3 | 0 | 3 | ⚠️ 100% (3) | $299,201 | +$95,936 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 140 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 140 en total)_
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
-| AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
