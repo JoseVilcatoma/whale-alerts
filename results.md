@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 21:41:32 (hora de Perú)
+Actualizado: 2026-08-19 21:43:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **477** — 285 ganadas / 192 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **478** — 286 ganadas / 192 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$860,295** sobre $23,342,869 apostados (ROI **+3.7%**)
-- Copiando $100 fijo en cada una: **-$1,547** sobre $46,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$916,342** sobre $23,398,915 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$1,447** sobre $46,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 3 | 1 | ⚠️ 57% (7) | $854,975 | -$299,770 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
 | beachboy4 | 1 | 7 | 4 | 12% | $647,803 | -$228,075 |
-| AV23IUa | 5 | 7 | 3 | 42% | $647,632 | -$71,152 |
+| AV23IUa | 6 | 7 | 2 | 46% | $647,632 | -$15,106 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | +$28,733 | ✅ Ganada |
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
-| AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | — | ⏳ Pendiente |
+| AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | +$56,047 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $31,299 | +$19,183 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles: O/U 9.5 | Over 9.5 | 2.17 (46¢) | $47,110 | -$47,110 | ❌ Perdida |
