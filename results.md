@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 16:22:32 (hora de Perú)
+Actualizado: 2026-08-20 16:24:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **569**  ($28,008,757 en total)
-- Resueltas: **549** — 319 ganadas / 230 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **554** — 323 ganadas / 231 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 146
 
 ### Balance
 
-- **Resultado de los apostadores: -$312,345** sobre $26,975,765 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$3,080** sobre $53,500 (ROI **-5.8%**)
+- **Resultado de los apostadores: -$483,168** sobre $27,333,567 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$3,032** sobre $54,000 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 52 | 28 | 5 | 65% | $4,746,446 | +$120,735 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 53 | 28 | 4 | 65% | $4,746,446 | +$141,444 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 32 | 21 | 2 | 60% | $2,327,152 | +$171,669 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 11 | 8 | 2 | 58% | $908,673 | +$3,433 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | Lakersfan111 | 3 | 4 | 0 | ⚠️ 43% (7) | $229,485 | -$59,242 |
-| piomolska | 0 | 0 | 1 | — | $216,499 | — |
+| piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | StasPanda | 2 | 2 | 0 | ⚠️ 50% (4) | $195,306 | -$52,455 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 2 | 0 | 1 | ⚠️ 100% (2) | $159,692 | +$10,117 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
@@ -76,21 +76,21 @@ _(mostrando los 40 de mayor monto, de 146 en total)_
 | pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Texas Rangers: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $59,135 | — | ⏳ Pendiente |
 | Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | — | ⏳ Pendiente |
-| FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
+| FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
 | casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
 | Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | +$20,709 | ✅ Ganada |
 | xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | -$26,066 | ❌ Perdida |
-| piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | — | ⏳ Pendiente |
+| piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | -$216,499 | ❌ Perdida |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | -$110,600 | ❌ Perdida |
-| predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | — | ⏳ Pendiente |
+| predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | +$17,708 | ✅ Ganada |
 | pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | +$4,706 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | +$27,778 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 4.55 (22¢) | $131,140 | -$131,140 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $104,411 | -$104,411 | ❌ Perdida |
