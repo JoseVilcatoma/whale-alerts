@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:42:19 (hora de Perú)
+Actualizado: 2026-08-20 09:44:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **540**  ($26,361,134 en total)
-- Resueltas: **504** — 298 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 36
+- Resueltas: **506** — 300 ganadas / 206 perdidas (**59%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 141
 
 ### Balance
 
-- **Resultado de los apostadores: +$508,511** sobre $24,778,642 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$1,971** sobre $49,000 (ROI **-4.0%**)
+- **Resultado de los apostadores: +$533,704** sobre $24,969,412 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$1,937** sobre $49,200 (ROI **-3.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 47 | 25 | 6 | 65% | $4,334,762 | +$332,456 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 48 | 25 | 5 | 66% | $4,334,762 | +$344,456 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 6 | 6 | 1 | 50% | $378,436 | -$9,340 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 1 | 44% | $322,000 | -$77,355 |
-| dauntlesswitness | 3 | 0 | 3 | ⚠️ 100% (3) | $299,201 | +$95,936 |
+| dauntlesswitness | 4 | 0 | 2 | ⚠️ 100% (4) | $299,201 | +$109,129 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 1 | 1 | ⚠️ 83% (6) | $282,923 | +$64,332 |
 | xifutloong3 | 3 | 6 | 0 | 33% | $281,941 | -$151,967 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Geoffrey Blancaneaux | 1.56 (64¢) | $31,553 | -$4,437 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner | Team Falcons | 1.28 (78¢) | $71,599 | +$20,195 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.09 (92¢) | $138,000 | +$12,000 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend | ThunderTalk Gaming | 2.56 (39¢) | $25,004 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner | Kiwoom DRX | 1.96 (51¢) | $32,640 | — | ⏳ Pendiente |
 | pravica | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.32 (76¢) | $26,448 | — | ⏳ Pendiente |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 141 en total)_
 | beachboy4 | Will Real Salt Lake win on 2026-08-19? | Yes | 2.00 (50¢) | $50,483 | -$50,483 | ❌ Perdida |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-19? | Yes | 2.17 (46¢) | $33,722 | +$39,587 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime | Felix Auger-Aliassime | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
-| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
+| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | +$13,193 | ✅ Ganada |
 | Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | -$38,136 | ❌ Perdida |
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | -$36,000 | ❌ Perdida |
 | theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | -$38,173 | ❌ Perdida |
