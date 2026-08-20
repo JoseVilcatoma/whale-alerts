@@ -8456,5 +8456,35 @@
     "status": "pending",
     "ultimo_fill": 1787256206,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1159,
+    "timestamp": 1787256906,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "dota2-ironwi-boombo-2026-08-20",
+    "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "usd": 27913.078799999996,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787256906,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1160,
+    "timestamp": 1787257596,
+    "username": "FullPicks1",
+    "wallet": "0x9b1e0334569aa1768a07705a859686aad58e82c9",
+    "slug": "lal-ray-ala-2026-08-20-ala",
+    "title": "Will Deportivo Alav\u00e9s win on 2026-08-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39999.999962,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787257596,
+    "fills": 1
   }
 ]

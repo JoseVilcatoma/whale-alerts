@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 15:24:49 (hora de Perú)
+Actualizado: 2026-08-20 15:26:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **562**  ($27,657,776 en total)
+- Apuestas registradas: **564**  ($27,725,689 en total)
 - Resueltas: **541** — 316 ganadas / 225 perdidas (**58%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 145
+- Pendientes: 23
+- Apostadores distintos: 146
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 
-_(mostrando los 40 de mayor monto, de 145 en total)_
+_(mostrando los 40 de mayor monto, de 146 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | — | ⏳ Pendiente |
+| casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
 | Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 145 en total)_
 | Wiretransferxyz | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.23 (81¢) | $27,540 | +$6,460 | ✅ Ganada |
 | zb8 | Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs | TEAM VISION | 1.35 (74¢) | $29,600 | +$10,400 | ✅ Ganada |
 | BrotherObama | LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.13 (47¢) | $37,773 | -$37,773 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.52 (66¢) | $33,000 | -$33,000 | ❌ Perdida |
-| 8686786 | Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $44,993 | -$44,993 | ❌ Perdida |
