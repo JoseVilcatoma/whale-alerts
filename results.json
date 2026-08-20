@@ -7719,5 +7719,20 @@
     "status": "pending",
     "ultimo_fill": 1787225944,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1066,
+    "timestamp": 1787227037,
+    "username": "dsasdaas",
+    "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+    "slug": "cs2-fal2-mglz-2026-08-20-game2",
+    "title": "Counter-Strike: Team Falcons vs TheMongolz - Map 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 71599.086,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1787227037,
+    "fills": 1
   }
 ]
