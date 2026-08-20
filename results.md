@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 09:25:40 (hora de Perú)
+Actualizado: 2026-08-20 09:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **537**  ($26,243,210 en total)
+- Apuestas registradas: **538**  ($26,292,789 en total)
 - Resueltas: **503** — 297 ganadas / 206 perdidas (**59%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 140
+- Pendientes: 35
+- Apostadores distintos: 141
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 3 | 1 | 0 | ⚠️ 75% (4) | $137,969 | -$41,993 |
 | highnetworth | 2 | 0 | 0 | ⚠️ 100% (2) | $131,509 | +$112,303 |
 
-_(mostrando los 40 de mayor monto, de 140 en total)_
+_(mostrando los 40 de mayor monto, de 141 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 140 en total)_
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
 | quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
-| beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
