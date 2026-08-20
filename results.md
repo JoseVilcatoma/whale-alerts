@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:55:21 (hora de Perú)
+Actualizado: 2026-08-20 07:57:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **524**  ($25,538,727 en total)
+- Apuestas registradas: **525**  ($25,595,039 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 139
 
 ### Balance
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
 | 111111111115 | 6 | 4 | 3 | 60% | $531,032 | +$83,723 |
-| Weaseloftheweek | 6 | 5 | 0 | 55% | $503,050 | +$1,973 |
 | S-Works | 2 | 0 | 1 | ⚠️ 100% (2) | $382,233 | +$106,822 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | AV23IUa | Cincinnati Open: Nuno Borges vs Brandon Nakashima | Brandon Nakashima | 1.61 (62¢) | $46,880 | +$28,733 | ✅ Ganada |
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
-| AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | +$56,047 | ✅ Ganada |

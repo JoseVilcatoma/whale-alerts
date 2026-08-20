@@ -7886,5 +7886,20 @@
     "status": "pending",
     "ultimo_fill": 1787229798,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1080,
+    "timestamp": 1787230562,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-ngx-flc-2026-08-20-game-handicap-home-1pt5",
+    "title": "Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5)",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 56311.56800000001,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787230562,
+    "fills": 1
   }
 ]
