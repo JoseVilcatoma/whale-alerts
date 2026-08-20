@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 22:14:12 (hora de Perú)
+Actualizado: 2026-08-19 22:16:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **501**  ($24,620,796 en total)
-- Resueltas: **481** — 287 ganadas / 194 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **482** — 288 ganadas / 194 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 132
 
 ### Balance
 
-- **Resultado de los apostadores: +$822,212** sobre $23,563,046 apostados (ROI **+3.5%**)
-- Copiando $100 fijo en cada una: **-$1,535** sobre $46,800 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$826,112** sobre $23,589,146 apostados (ROI **+3.5%**)
+- Copiando $100 fijo en cada una: **-$1,520** sobre $46,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 132 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Cincinnati win on 2026-08-19? | Yes | 2.00 (50¢) | $37,976 | +$37,976 | ✅ Ganada |
 | Winnerdinnerchickenjr | Seattle Mariners vs. Milwaukee Brewers | Milwaukee Brewers | 1.89 (53¢) | $70,000 | -$70,000 | ❌ Perdida |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.89 (53¢) | $54,938 | -$3,232 | 💰 Vendida antes |
-| quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | — | ⏳ Pendiente |
+| quavoo | Toronto Tempo vs. Washington Mystics | Washington Mystics | 1.15 (87¢) | $26,100 | +$3,900 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Philadelphia Union vs. Inter Miami CF: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $74,908 | +$7,408 | ✅ Ganada |
 | beachboy4 | Will FC Cincinnati win on 2026-08-19? | Yes | 1.96 (51¢) | $75,412 | -$4,436 | 💰 Vendida antes |
 | AV23IUa | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
