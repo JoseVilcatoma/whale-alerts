@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 14:07:06 (hora de Perú)
+Actualizado: 2026-08-20 14:09:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **557**  ($27,417,175 en total)
-- Resueltas: **528** — 312 ganadas / 216 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Resueltas: **530** — 313 ganadas / 217 perdidas (**59%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 144
 
 ### Balance
 
-- **Resultado de los apostadores: +$461,023** sobre $25,796,625 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$2,295** sobre $51,400 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$380,112** sobre $25,927,536 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$2,307** sobre $51,600 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 51 | 26 | 4 | 66% | $4,532,344 | +$362,120 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 3 | 60% | $2,233,847 | +$231,366 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 21 | 2 | 59% | $2,233,847 | +$126,955 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 1 | 58% | $794,464 | +$3,433 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
-| SDTrading | 6 | 7 | 1 | 46% | $404,936 | -$37,428 |
+| SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | xifutloong3 | 3 | 6 | 1 | 33% | $308,007 | -$151,967 |
@@ -74,14 +74,14 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | — | ⏳ Pendiente |
 | piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | — | ⏳ Pendiente |
-| SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | — | ⏳ Pendiente |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | — | ⏳ Pendiente |
 | pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 4.55 (22¢) | $131,140 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $104,411 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $104,411 | -$104,411 | ❌ Perdida |
 | AV23IUa | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.72 (58¢) | $39,690 | — | ⏳ Pendiente |
 | Gbayh | Toronto Blue Jays vs. Tampa Bay Rays | Tampa Bay Rays | 1.64 (61¢) | $31,274 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Nigma Galaxy | 2.44 (41¢) | $34,051 | — | ⏳ Pendiente |
