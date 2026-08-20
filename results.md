@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-19 19:54:10 (hora de Perú)
+Actualizado: 2026-08-19 19:56:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **489**  ($23,889,533 en total)
+- Apuestas registradas: **490**  ($23,942,304 en total)
 - Resueltas: **458** — 276 ganadas / 182 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 130
 
 ### Balance
@@ -55,6 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
+| dauntlesswitness | 3 | 0 | 1 | ⚠️ 100% (3) | $155,388 | +$95,936 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | ⚠️ 100% (3) | $143,499 | +$21,441 |
 | StasPanda | 2 | 1 | 0 | ⚠️ 67% (3) | $142,254 | +$597 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Winnerdinnerchickenjr | 0 | 0 | 2 | — | $131,230 | — |
 | theowalcott | 0 | 0 | 4 | — | $130,679 | — |
 | ChinesePro | 0 | 3 | 0 | ⚠️ 0% (3) | $130,449 | -$130,449 |
-| dsasdaas | 1 | 0 | 0 | ⚠️ 100% (1) | $123,402 | +$66,447 |
 
 _(mostrando los 40 de mayor monto, de 130 en total)_
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 130 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Elaran1993 | Will Colorado Rapids SC win on 2026-08-19? | No | 1.72 (58¢) | $38,136 | — | ⏳ Pendiente |
+| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs | Team Falcons | 1.25 (80¢) | $52,771 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | — | ⏳ Pendiente |
 | theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.67 (60¢) | $61,230 | — | ⏳ Pendiente |

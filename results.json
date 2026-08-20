@@ -7361,18 +7361,18 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": 995,
-    "timestamp": 1787187072,
-    "username": "Elaran1993",
-    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
-    "slug": "mls-col-laf-2026-08-19-col",
-    "title": "Will Colorado Rapids SC win on 2026-08-19?",
-    "outcome": "No",
+    "telegram_msg_id": 999,
+    "timestamp": 1787187334,
+    "username": "dauntlesswitness",
+    "wallet": "0xf1771327cccb5cda15e0eaa3c56755bbf3655f6a",
+    "slug": "cs2-fal2-mglz-2026-08-20",
+    "title": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs",
+    "outcome": "Team Falcons",
     "side": "BUY",
-    "usd": 38135.63219999999,
-    "odds_at_bet": 58,
+    "usd": 52770.71999800001,
+    "odds_at_bet": 80,
     "status": "pending",
-    "ultimo_fill": 1787187072,
+    "ultimo_fill": 1787187334,
     "fills": 1
   }
 ]
