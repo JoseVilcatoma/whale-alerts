@@ -7052,7 +7052,7 @@
     "side": "BUY",
     "usd": 27098.129200000003,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787178887,
     "fills": 1
   },
@@ -7112,7 +7112,7 @@
     "side": "BUY",
     "usd": 25000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787179429,
     "fills": 1
   },
@@ -7157,7 +7157,7 @@
     "side": "BUY",
     "usd": 28637.010000000002,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787180203,
     "fills": 1
   },
@@ -7266,7 +7266,7 @@
     "side": "BUY",
     "usd": 37975.945,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787181950,
     "fills": 1
   },
@@ -7281,7 +7281,7 @@
     "side": "BUY",
     "usd": 26315.0466,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787182145,
     "fills": 1
   },
@@ -7296,7 +7296,7 @@
     "side": "BUY",
     "usd": 31828.223300000005,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787182184,
     "fills": 1
   },
@@ -7478,6 +7478,21 @@
     "odds_at_bet": 92,
     "status": "pending",
     "ultimo_fill": 1787190229,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1014,
+    "timestamp": 1787191236,
+    "username": "kluckkluck",
+    "wallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+    "slug": "mls-lag-sje-2026-08-19-lag",
+    "title": "Will Los Angeles Galaxy win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28222.213600000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787191236,
     "fills": 1
   }
 ]
