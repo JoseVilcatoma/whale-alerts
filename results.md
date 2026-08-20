@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 13:52:45 (hora de Perú)
+Actualizado: 2026-08-20 13:54:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **557**  ($27,417,175 en total)
-- Resueltas: **527** — 312 ganadas / 215 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **528** — 312 ganadas / 216 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 144
 
 ### Balance
 
-- **Resultado de los apostadores: +$489,111** sobre $25,768,537 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$2,195** sobre $51,300 (ROI **-4.3%**)
+- **Resultado de los apostadores: +$461,023** sobre $25,796,625 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$2,295** sobre $51,400 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
-| SDTrading | 6 | 6 | 2 | 50% | $404,936 | -$9,340 |
+| SDTrading | 6 | 7 | 1 | 46% | $404,936 | -$37,428 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | xifutloong3 | 3 | 6 | 1 | 33% | $308,007 | -$151,967 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 144 en total)_
 | huli3882 | Indiana Fever vs. Dallas Wings: O/U 185.5 | Over 185.5 | 2.00 (50¢) | $29,396 | — | ⏳ Pendiente |
 | Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | +$23,872 | ✅ Ganada |
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | — | ⏳ Pendiente |
-| SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | — | ⏳ Pendiente |
+| SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | -$28,088 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
