@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 11:12:37 (hora de Perú)
+Actualizado: 2026-08-20 11:14:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **545**  ($26,594,414 en total)
+- Apuestas registradas: **546**  ($26,634,104 en total)
 - Resueltas: **518** — 305 ganadas / 213 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 142
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 30 | 20 | 1 | 60% | $2,101,658 | +$231,366 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | pleaseplease123 | 11 | 8 | 0 | 58% | $755,690 | +$3,433 |
+| AV23IUa | 7 | 8 | 1 | 47% | $687,322 | -$34,606 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
-| AV23IUa | 7 | 8 | 0 | 47% | $647,632 | -$34,606 |
 | S-Works | 3 | 0 | 3 | ⚠️ 100% (3) | $618,617 | +$164,822 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.72 (58¢) | $39,690 | — | ⏳ Pendiente |
 | Gbayh | Toronto Blue Jays vs. Tampa Bay Rays | Tampa Bay Rays | 1.64 (61¢) | $31,274 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Nigma Galaxy | 2.44 (41¢) | $34,051 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $28,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | xifutloong3 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels | 2.27 (44¢) | $36,000 | -$36,000 | ❌ Perdida |
 | theowalcott | Will Seattle Sounders FC win on 2026-08-19? | Yes | 1.69 (59¢) | $38,173 | -$38,173 | ❌ Perdida |
 | Winnerdinnerchickenjr | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.67 (60¢) | $61,230 | -$61,230 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Christopher O'Connell | Taylor Fritz | 1.15 (87¢) | $103,800 | +$15,510 | ✅ Ganada |
