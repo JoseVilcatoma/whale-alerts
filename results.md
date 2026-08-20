@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 07:42:40 (hora de Perú)
+Actualizado: 2026-08-20 07:44:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **523**  ($25,510,791 en total)
+- Apuestas registradas: **524**  ($25,538,727 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 139
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | — | ⏳ Pendiente |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | SDTrading | San Francisco Giants vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $27,600 | -$27,600 | ❌ Perdida |
 | Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,239 | +$42,542 | ✅ Ganada |
 | AV23IUa | Will SE Palmeiras win on 2026-08-19? | Yes | 2.00 (50¢) | $56,047 | +$56,047 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.72 (58¢) | $25,778 | +$18,666 | ✅ Ganada |
