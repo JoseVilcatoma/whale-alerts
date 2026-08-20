@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 08:03:46 (hora de Perú)
+Actualizado: 2026-08-20 08:05:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **529**  ($25,841,814 en total)
+- Apuestas registradas: **530**  ($25,905,407 en total)
 - Resueltas: **502** — 297 ganadas / 205 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 139
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | Weaseloftheweek | 6 | 5 | 1 | 55% | $559,361 | +$1,973 |
 | 111111111115 | 6 | 4 | 3 | 60% | $531,032 | +$83,723 |
-| S-Works | 2 | 0 | 1 | ⚠️ 100% (2) | $382,233 | +$106,822 |
+| S-Works | 2 | 0 | 2 | ⚠️ 100% (2) | $445,826 | +$106,822 |
 | Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
 | SDTrading | 6 | 6 | 0 | 50% | $350,348 | -$9,340 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 5 | 0 | 44% | $292,000 | -$77,355 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $63,592 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $29,531 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $159,245 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 139 en total)_
 | theowalcott | Will FC Cincinnati win on 2026-08-19? | No | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners | 2.13 (47¢) | $32,900 | +$37,100 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marie Bouzkova | Coco Gauff | 1.35 (74¢) | $25,135 | +$8,831 | ✅ Ganada |
-| xifutloong3 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies | 1.47 (68¢) | $27,410 | +$12,899 | ✅ Ganada |
