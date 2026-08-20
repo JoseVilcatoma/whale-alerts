@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 12:24:11 (hora de Perú)
+Actualizado: 2026-08-20 12:26:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **547**  ($26,738,515 en total)
-- Resueltas: **519** — 306 ganadas / 213 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Resueltas: **520** — 307 ganadas / 213 perdidas (**59%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 142
 
 ### Balance
 
-- **Resultado de los apostadores: +$471,637** sobre $25,433,535 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$2,182** sobre $50,500 (ROI **-4.3%**)
+- **Resultado de los apostadores: +$483,507** sobre $25,469,143 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$2,149** sobre $50,600 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 142 en total)_
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | — | ⏳ Pendiente |
-| jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | — | ⏳ Pendiente |
+| jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | +$11,869 | ✅ Ganada |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.22 (82¢) | $38,013 | — | ⏳ Pendiente |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $63,592 | — | ⏳ Pendiente |
