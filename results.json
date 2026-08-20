@@ -8261,5 +8261,20 @@
     "status": "pending",
     "ultimo_fill": 1787247337,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1130,
+    "timestamp": 1787247443,
+    "username": "0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "lal-ray-ala-2026-08-20-total-0pt5",
+    "title": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42349.59,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1787247443,
+    "fills": 1
   }
 ]
