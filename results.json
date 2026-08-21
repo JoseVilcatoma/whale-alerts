@@ -9983,7 +9983,7 @@
     "side": "BUY",
     "usd": 48941.729799999994,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787342003,
     "fills": 1
   },
@@ -10060,6 +10060,36 @@
     "odds_at_bet": 43,
     "status": "pending",
     "ultimo_fill": 1787346292,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1372,
+    "timestamp": 1787346710,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-nakashi-2026-08-21",
+    "title": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 54904.86,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787346710,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1373,
+    "timestamp": 1787346720,
+    "username": "Parz1vaI",
+    "wallet": "0xb10047d6a254b2ebb306d7a7d13bf59171ab6461",
+    "slug": "atp-fritz-nakashi-2026-08-21",
+    "title": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 32619.0656,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787346720,
     "fills": 1
   }
 ]
