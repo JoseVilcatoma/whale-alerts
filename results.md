@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 09:28:20 (hora de Perú)
+Actualizado: 2026-08-21 09:30:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **633**  ($31,469,036 en total)
-- Resueltas: **609** — 350 ganadas / 259 perdidas (**57%** de acierto)
-- Pendientes: 24
+- Resueltas: **610** — 351 ganadas / 259 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 157
 
 ### Balance
 
-- **Resultado de los apostadores: -$750,595** sobre $30,232,041 apostados (ROI **-2.5%**)
-- Copiando $100 fijo en cada una: **-$4,181** sobre $59,500 (ROI **-7.0%**)
+- **Resultado de los apostadores: -$746,983** sobre $30,273,586 apostados (ROI **-2.5%**)
+- Copiando $100 fijo en cada una: **-$4,173** sobre $59,600 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 59 | 36 | 4 | 62% | $5,778,632 | +$84,140 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 60 | 36 | 3 | 62% | $5,778,632 | +$87,752 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 9 | 8 | 5 | 53% | $1,194,697 | +$164,603 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.56 (64¢) | $30,609 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.59 (63¢) | $28,326 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.19 (84¢) | $41,097 | +$7,828 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | +$3,613 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner | FUT Esports | 1.09 (92¢) | $37,314 | +$3,245 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | FC Tōkyō vs. JEF United Ichihara Chiba: O/U 2.5 | Under 2.5 | 1.22 (82¢) | $83,782 | +$18,391 | ✅ Ganada |
