@@ -8831,5 +8831,20 @@
     "status": "lost",
     "ultimo_fill": 1787286798,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1230,
+    "timestamp": 1787292833,
+    "username": "aenews2",
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 45000.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1787292833,
+    "fills": 1
   }
 ]
