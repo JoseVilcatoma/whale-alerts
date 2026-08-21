@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 06:47:22 (hora de Perú)
+Actualizado: 2026-08-21 06:49:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **614**  ($30,399,310 en total)
+- Apuestas registradas: **615**  ($30,440,855 en total)
 - Resueltas: **597** — 342 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 156
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 1 | 63% | $5,422,749 | +$132,355 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 2 | 63% | $5,464,294 | +$132,355 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner | FUT Esports | 1.09 (92¢) | $37,314 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | FC Tōkyō vs. JEF United Ichihara Chiba: O/U 2.5 | Under 2.5 | 1.22 (82¢) | $83,782 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | +$32,830 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | +$20,709 | ✅ Ganada |
 | xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | -$26,066 | ❌ Perdida |
-| piomolska | Will Rayo Vallecano de Madrid win on 2026-08-20? | Yes | 2.50 (40¢) | $216,499 | -$216,499 | ❌ Perdida |
