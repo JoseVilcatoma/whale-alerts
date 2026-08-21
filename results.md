@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 11:52:21 (hora de Perú)
+Actualizado: 2026-08-21 11:54:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **644**  ($32,167,206 en total)
-- Resueltas: **623** — 356 ganadas / 267 perdidas (**57%** de acierto)
-- Pendientes: 21
+- Resueltas: **625** — 357 ganadas / 268 perdidas (**57%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 161
 
 ### Balance
 
-- **Resultado de los apostadores: -$740,292** sobre $31,002,640 apostados (ROI **-2.4%**)
-- Copiando $100 fijo en cada una: **-$4,626** sobre $60,900 (ROI **-7.6%**)
+- **Resultado de los apostadores: -$753,152** sobre $31,092,985 apostados (ROI **-2.4%**)
+- Copiando $100 fijo en cada una: **-$4,699** sobre $61,100 (ROI **-7.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | StasPanda | 2 | 3 | 0 | ⚠️ 40% (5) | $238,768 | -$95,917 |
-| 007theone1 | 4 | 0 | 1 | ⚠️ 100% (4) | $233,814 | +$57,168 |
+| 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
-| ferrariChampions2026 | 4 | 1 | 1 | ⚠️ 80% (5) | $196,980 | -$34,523 |
+| ferrariChampions2026 | 4 | 2 | 0 | ⚠️ 67% (6) | $196,980 | -$63,655 |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 |---|---|---|---|---|---|---|
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | — | ⏳ Pendiente |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | — | ⏳ Pendiente |
-| 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | — | ⏳ Pendiente |
+| 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
+| ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | — | ⏳ Pendiente |
 | sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | — | ⏳ Pendiente |
