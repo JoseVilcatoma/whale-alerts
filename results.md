@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 23:32:40 (hora de Perú)
+Actualizado: 2026-08-20 23:34:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **586**  ($28,766,613 en total)
+- Apuestas registradas: **587**  ($28,792,011 en total)
 - Resueltas: **572** — 333 ganadas / 239 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 151
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
+| highnetworth | 2 | 0 | 1 | ⚠️ 100% (2) | $156,907 | +$112,303 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| ScroooogeMcDuck | 1 | 0 | 1 | ⚠️ 100% (1) | $152,786 | +$27,929 |
 
 _(mostrando los 40 de mayor monto, de 151 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | — | ⏳ Pendiente |
 | coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
 | traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $63,592 | -$63,592 | ❌ Perdida |
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $29,531 | -$29,531 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.59 (63¢) | $159,245 | -$159,245 | ❌ Perdida |
-| Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
