@@ -9416,5 +9416,50 @@
     "status": "pending",
     "ultimo_fill": 1787320286,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1286,
+    "timestamp": 1787320362,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 101973.001,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1787320362,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1287,
+    "timestamp": 1787320414,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-lgc-fal2-2026-08-21-game1",
+    "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 158859.06790000002,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787320418,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1288,
+    "timestamp": 1787320444,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 49783.7214,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787320444,
+    "fills": 1
   }
 ]

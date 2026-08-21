@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 08:52:23 (hora de Perú)
+Actualizado: 2026-08-21 08:54:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **626**  ($30,933,355 en total)
+- Apuestas registradas: **629**  ($31,243,971 en total)
 - Resueltas: **601** — 344 ganadas / 257 perdidas (**57%** de acierto)
-- Pendientes: 25
+- Pendientes: 28
 - Apostadores distintos: 157
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 6 | 63% | $5,608,569 | +$132,355 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 9 | 8 | 4 | 53% | $1,035,838 | +$164,603 |
+| 111111111115 | 9 | 8 | 5 | 53% | $1,194,697 | +$164,603 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| casualbet2020 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.59 (63¢) | $49,784 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Legacy | 2.50 (40¢) | $158,859 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.54 (65¢) | $101,973 | — | ⏳ Pendiente |
 | lIlIlIllllIIIII | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.37 (73¢) | $26,607 | — | ⏳ Pendiente |
 | ifpl | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $51,263 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $128,756 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 | Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | -$41,203 | ❌ Perdida |
 | kamloic | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.67 (60¢) | $44,239 | +$29,493 | ✅ Ganada |
 | laozishudaosan | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 2.04 (49¢) | $38,863 | -$38,863 | ❌ Perdida |
-| AV23IUa | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.69 (59¢) | $31,558 | +$21,930 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | -$52,116 | ❌ Perdida |
-| pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | +$69,999 | ✅ Ganada |
