@@ -9041,5 +9041,35 @@
     "status": "pending",
     "ultimo_fill": 1787301257,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1248,
+    "timestamp": 1787303267,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 125255.9555,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787303303,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1249,
+    "timestamp": 1787303282,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 107598.23120000001,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787303288,
+    "fills": 2
   }
 ]
