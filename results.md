@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 16:19:50 (hora de Perú)
+Actualizado: 2026-08-21 16:21:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **671**  ($34,018,948 en total)
-- Resueltas: **649** — 375 ganadas / 274 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Resueltas: **652** — 376 ganadas / 276 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 167
 
 ### Balance
 
-- **Resultado de los apostadores: +$64,676** sobre $33,045,735 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,339** sobre $63,500 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$45,807** sobre $33,132,163 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,431** sobre $63,800 (ROI **-6.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0b1 | 7 | 0 | 1 | ⚠️ 100% (7) | $274,703 | +$24,794 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
-| murgionsek | 1 | 0 | 1 | ⚠️ 100% (1) | $260,283 | +$53,447 |
+| murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 0 | ⚠️ 100% (4) | $252,758 | +$32,549 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
@@ -86,9 +86,9 @@ _(mostrando los 40 de mayor monto, de 167 en total)_
 | AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | — | ⏳ Pendiente |
 | murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | +$53,447 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | +$23,613 | ✅ Ganada |
-| Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | — | ⏳ Pendiente |
+| Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
+| bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
+| murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | +$35,131 | ✅ Ganada |
 | 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Arsenal FC vs. Coventry City FC: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $93,066 | +$17,727 | ✅ Ganada |
 | ferrariChampions2026 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
