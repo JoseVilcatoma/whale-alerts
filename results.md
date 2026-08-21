@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 17:52:58 (hora de Perú)
+Actualizado: 2026-08-21 17:55:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **682**  ($34,649,123 en total)
-- Resueltas: **659** — 378 ganadas / 281 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Resueltas: **661** — 380 ganadas / 281 perdidas (**57%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$266,412** sobre $33,561,728 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$4,760** sobre $64,500 (ROI **-7.4%**)
+- **Resultado de los apostadores: -$261,181** sobre $33,628,849 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$4,744** sobre $64,700 (ROI **-7.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,10 +41,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
-| ferrariChampions2026 | 4 | 3 | 2 | ⚠️ 57% (7) | $322,011 | -$118,560 |
+| ferrariChampions2026 | 5 | 3 | 1 | 62% | $322,011 | -$115,999 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
-| 0b1 | 7 | 0 | 2 | ⚠️ 100% (7) | $301,699 | +$24,794 |
+| 0b1 | 8 | 0 | 1 | 100% | $301,699 | +$27,464 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | +$2,561 | ✅ Ganada |
 | ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
-| 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | — | ⏳ Pendiente |
+| 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | +$2,670 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | — | ⏳ Pendiente |
