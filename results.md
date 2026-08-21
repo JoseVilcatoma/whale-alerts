@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 21:00:04 (hora de Perú)
+Actualizado: 2026-08-20 21:02:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **583**  ($28,680,487 en total)
-- Resueltas: **561** — 326 ganadas / 235 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Resueltas: **562** — 326 ganadas / 236 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 149
 
 ### Balance
 
-- **Resultado de los apostadores: -$630,856** sobre $27,641,784 apostados (ROI **-2.3%**)
-- Copiando $100 fijo en cada una: **-$3,272** sobre $54,700 (ROI **-6.0%**)
+- **Resultado de los apostadores: -$656,905** sobre $27,667,833 apostados (ROI **-2.4%**)
+- Copiando $100 fijo en cada una: **-$3,372** sobre $54,800 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 149 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Texas Rangers: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $59,135 | — | ⏳ Pendiente |
-| Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | — | ⏳ Pendiente |
+| Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | -$26,049 | ❌ Perdida |
 | FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
 | casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
