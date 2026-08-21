@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 23:28:31 (hora de Perú)
+Actualizado: 2026-08-20 23:30:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **586**  ($28,766,613 en total)
-- Resueltas: **571** — 333 ganadas / 238 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Resueltas: **572** — 333 ganadas / 239 perdidas (**58%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 151
 
 ### Balance
 
-- **Resultado de los apostadores: -$462,727** sobre $28,095,147 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$3,079** sobre $55,700 (ROI **-5.5%**)
+- **Resultado de los apostadores: -$488,227** sobre $28,120,647 apostados (ROI **-1.7%**)
+- Copiando $100 fijo en cada una: **-$3,179** sobre $55,800 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
-| Sassy-Bucket | 6 | 2 | 1 | 75% | $393,258 | +$223,792 |
+| Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
 | Lakersfan111 | 3 | 4 | 2 | ⚠️ 43% (7) | $324,096 | -$59,242 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
 | traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | +$7,470 | ✅ Ganada |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | +$9,209 | ✅ Ganada |
