@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 02:58:23 (hora de Perú)
+Actualizado: 2026-08-21 03:00:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **597**  ($29,171,637 en total)
+- Apuestas registradas: **599**  ($29,322,310 en total)
 - Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 153
 
 ### Balance
@@ -33,10 +33,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
 | Weaseloftheweek | 7 | 6 | 1 | 54% | $675,906 | +$6,075 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
+| 111111111115 | 6 | 7 | 1 | 46% | $637,292 | -$3,870 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 1 | 40% | $348,000 | -$107,355 |
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 2 | 2 | 1 | ⚠️ 50% (4) | $238,768 | -$52,455 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
+| highnetworth | 2 | 1 | 1 | ⚠️ 67% (3) | $201,320 | +$86,905 |
 | 0xheavy888 | 3 | 0 | 1 | ⚠️ 100% (3) | $195,208 | +$36,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -62,7 +63,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 4 | 1 | 0 | ⚠️ 80% (5) | $167,849 | -$34,523 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
-| highnetworth | 2 | 1 | 0 | ⚠️ 67% (3) | $156,907 | +$86,905 |
 | TAIWANNUMBERONE | 4 | 0 | 1 | ⚠️ 100% (4) | $154,804 | +$35,677 |
 
 _(mostrando los 40 de mayor monto, de 153 en total)_
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 153 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | — | ⏳ Pendiente |
+| highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $44,413 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $43,462 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.39 (72¢) | $46,750 | — | ⏳ Pendiente |
 | zb8 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,846 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 153 en total)_
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $28,807 | +$22,634 | ✅ Ganada |
 | S-Works | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.15 (87¢) | $110,509 | +$16,513 | ✅ Ganada |
 | huli3882 | Indiana Fever vs. Dallas Wings: O/U 185.5 | Over 185.5 | 2.00 (50¢) | $29,396 | -$29,396 | ❌ Perdida |
-| Lakersfan111 | Counter-Strike: FaZe vs Vitality - Map 2 Winner | Vitality | 1.61 (62¢) | $38,949 | +$23,872 | ✅ Ganada |
-| halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | -$49,579 | ❌ Perdida |

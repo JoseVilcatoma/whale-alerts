@@ -8981,5 +8981,35 @@
     "status": "pending",
     "ultimo_fill": 1787298424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1240,
+    "timestamp": 1787299197,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-liquid-flc-2026-08-21-game2",
+    "title": "Dota 2: Team Liquid vs Team Falcons - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 106259.60500000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787299217,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1241,
+    "timestamp": 1787299197,
+    "username": "highnetworth",
+    "wallet": "0xbb5fbe810633ab08d106b82db84418a0e2ca2e21",
+    "slug": "dota2-liquid-flc-2026-08-21-game2",
+    "title": "Dota 2: Team Liquid vs Team Falcons - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 44413.4655,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1787299197,
+    "fills": 1
   }
 ]
