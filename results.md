@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 20:57:58 (hora de Perú)
+Actualizado: 2026-08-20 21:00:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **582**  ($28,560,487 en total)
+- Apuestas registradas: **583**  ($28,680,487 en total)
 - Resueltas: **561** — 326 ganadas / 235 perdidas (**58%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 148
+- Pendientes: 22
+- Apostadores distintos: 149
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 | lIlIlIllllIIIII | 4 | 1 | 0 | ⚠️ 80% (5) | $148,830 | +$22,030 |
 
-_(mostrando los 40 de mayor monto, de 148 en total)_
+_(mostrando los 40 de mayor monto, de 149 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 | Lakersfan111 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.54 (65¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | -$56,312 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | -$27,936 | ❌ Perdida |
-| l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | +$36,438 | ✅ Ganada |

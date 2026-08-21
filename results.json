@@ -8756,5 +8756,20 @@
     "status": "pending",
     "ultimo_fill": 1787277151,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1200,
+    "timestamp": 1787277518,
+    "username": "ScroooogeMcDuck",
+    "wallet": "0xc35049bc7b6bd28a49a40b261466ca91aad63669",
+    "slug": "dota2-ironwi-boombo-2026-08-20",
+    "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "usd": 120000.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787277518,
+    "fills": 1
   }
 ]
