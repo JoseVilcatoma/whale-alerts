@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 15:24:16 (hora de Perú)
+Actualizado: 2026-08-21 15:26:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **667**  ($33,870,492 en total)
+- Apuestas registradas: **668**  ($33,900,241 en total)
 - Resueltas: **641** — 367 ganadas / 274 perdidas (**57%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 166
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 1 | 62% | $6,729,930 | +$596,643 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 2 | 61% | $2,457,949 | +$199,623 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 3 | 61% | $2,487,699 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 12 | 9 | 2 | 57% | $1,058,549 | +$34,659 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $29,750 | — | ⏳ Pendiente |
 | flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.79 (56¢) | $115,076 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.64 (61¢) | $201,271 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 | pleaseplease123 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 1 Winner | T1 | 1.43 (70¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $35,344 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.96 (51¢) | $359,602 | +$345,500 | ✅ Ganada |
