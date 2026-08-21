@@ -8801,5 +8801,20 @@
     "status": "pending",
     "ultimo_fill": 1787279240,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1212,
+    "timestamp": 1787282587,
+    "username": "coinlaundry",
+    "wallet": "0xe8d78397160e13edc306a63b1d88c9c1f3dd1252",
+    "slug": "nfl-sf-lac-2026-08-21",
+    "title": "49ers vs. Chargers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 28103.771,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1787282587,
+    "fills": 1
   }
 ]
