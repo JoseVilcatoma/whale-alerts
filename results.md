@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 16:17:46 (hora de Perú)
+Actualizado: 2026-08-21 16:19:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **671**  ($34,018,948 en total)
-- Resueltas: **643** — 369 ganadas / 274 perdidas (**57%** de acierto)
-- Pendientes: 28
+- Resueltas: **649** — 375 ganadas / 274 perdidas (**58%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 167
 
 ### Balance
 
-- **Resultado de los apostadores: -$55,710** sobre $32,529,245 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,478** sobre $62,900 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$64,676** sobre $33,045,735 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,339** sobre $63,500 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0b1 | 7 | 0 | 1 | ⚠️ 100% (7) | $274,703 | +$24,794 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
-| murgionsek | 0 | 0 | 2 | — | $260,283 | — |
+| murgionsek | 1 | 0 | 1 | ⚠️ 100% (1) | $260,283 | +$53,447 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 0 | ⚠️ 100% (4) | $252,758 | +$32,549 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
-| Jsram | 0 | 0 | 3 | — | $197,340 | — |
+| Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -84,19 +84,19 @@ _(mostrando los 40 de mayor monto, de 167 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | +$334,530 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.89 (53¢) | $26,029 | -$26,029 | ❌ Perdida |
 | AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | — | ⏳ Pendiente |
-| murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | — | ⏳ Pendiente |
-| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | — | ⏳ Pendiente |
+| murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | +$53,447 | ✅ Ganada |
+| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | +$23,613 | ✅ Ganada |
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | — | ⏳ Pendiente |
 | 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Arsenal FC vs. Coventry City FC: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $93,066 | +$17,727 | ✅ Ganada |
 | ferrariChampions2026 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
-| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $67,727 | — | ⏳ Pendiente |
-| anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | — | ⏳ Pendiente |
+| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $67,727 | +$15,887 | ✅ Ganada |
+| anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | +$11,160 | ✅ Ganada |
 | cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | +$30,351 | ✅ Ganada |
-| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | — | ⏳ Pendiente |
+| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | +$6,790 | ✅ Ganada |
 | 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | -$29,510 | ❌ Perdida |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | -$28,190 | ❌ Perdida |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 167 en total)_
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | -$29,000 | ❌ Perdida |
-| sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | — | ⏳ Pendiente |
+| sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | +$9,490 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.75 (57¢) | $304,456 | +$229,677 | ✅ Ganada |
 | coali10 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | Nooserac | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
