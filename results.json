@@ -9491,5 +9491,35 @@
     "status": "pending",
     "ultimo_fill": 1787320845,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1298,
+    "timestamp": 1787321694,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-ty-ngx-2026-08-21-game1",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787321694,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1299,
+    "timestamp": 1787321726,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 129674.24,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787321726,
+    "fills": 1
   }
 ]

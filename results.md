@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 09:13:33 (hora de Perú)
+Actualizado: 2026-08-21 09:15:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **631**  ($31,309,362 en total)
+- Apuestas registradas: **633**  ($31,469,036 en total)
 - Resueltas: **608** — 349 ganadas / 259 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 157
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 59 | 36 | 3 | 62% | $5,648,958 | +$84,140 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 59 | 36 | 4 | 62% | $5,778,632 | +$84,140 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 9 | 8 | 5 | 53% | $1,194,697 | +$164,603 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 7 | 7 | 1 | 50% | $438,341 | -$13,928 |
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 7 | 0 | 36% | $348,000 | -$133,355 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 7 | 1 | 36% | $378,000 | -$133,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 2 | 1 | ⚠️ 71% (7) | $307,925 | +$26,543 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.61 (62¢) | $129,674 | — | ⏳ Pendiente |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner | Team Yandex | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.32 (76¢) | $25,002 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Team Falcons | 2.44 (41¢) | $40,389 | — | ⏳ Pendiente |
 | casualbet2020 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.59 (63¢) | $49,784 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.23 (81¢) | $26,981 | +$6,329 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $66,000 | -$66,000 | ❌ Perdida |
 | Weaseloftheweek | New York Yankees vs. Baltimore Orioles | New York Yankees | 2.04 (49¢) | $58,045 | +$60,414 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $36,115 | +$25,097 | ✅ Ganada |
-| Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | -$41,203 | ❌ Perdida |
