@@ -9656,5 +9656,20 @@
     "status": "pending",
     "ultimo_fill": 1787328883,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1321,
+    "timestamp": 1787329218,
+    "username": "Sickasulu",
+    "wallet": "0xa69d0cd47b794edd9642208409695d35150d509b",
+    "slug": "cs2-vit-ts7-2026-08-21",
+    "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 28190.404499999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787329218,
+    "fills": 1
   }
 ]
