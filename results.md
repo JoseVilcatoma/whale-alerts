@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 11:09:11 (hora de Perú)
+Actualizado: 2026-08-21 11:11:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **640**  ($32,019,160 en total)
-- Resueltas: **617** — 352 ganadas / 265 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Resueltas: **619** — 352 ganadas / 267 perdidas (**57%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 160
 
 ### Balance
 
-- **Resultado de los apostadores: -$730,418** sobre $30,654,169 apostados (ROI **-2.4%**)
-- Copiando $100 fijo en cada una: **-$4,623** sobre $60,300 (ROI **-7.7%**)
+- **Resultado de los apostadores: -$845,430** sobre $30,769,181 apostados (ROI **-2.7%**)
+- Copiando $100 fijo en cada una: **-$4,823** sobre $60,500 (ROI **-8.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 60 | 37 | 4 | 62% | $6,168,100 | +$47,364 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 60 | 38 | 3 | 61% | $6,168,100 | -$37,649 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 10 | 9 | 4 | 53% | $1,226,897 | +$367,892 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 7 | 7 | 1 | 50% | $438,341 | -$13,928 |
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 7 | 1 | 36% | $378,000 | -$133,355 |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
@@ -77,9 +77,9 @@ _(mostrando los 40 de mayor monto, de 160 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.75 (57¢) | $304,456 | — | ⏳ Pendiente |
 | coali10 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Nooserac | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 2 Winner | Team Falcons | 1.43 (70¢) | $85,013 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 2 Winner | Team Falcons | 1.43 (70¢) | $85,013 | -$85,013 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.61 (62¢) | $129,674 | — | ⏳ Pendiente |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner | Team Yandex | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner | Team Yandex | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.32 (76¢) | $25,002 | -$25,002 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Team Falcons | 2.44 (41¢) | $40,389 | -$40,389 | ❌ Perdida |
 | casualbet2020 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.59 (63¢) | $49,784 | — | ⏳ Pendiente |
