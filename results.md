@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 07:56:29 (hora de Perú)
+Actualizado: 2026-08-21 07:58:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **621**  ($30,644,153 en total)
+- Apuestas registradas: **622**  ($30,670,751 en total)
 - Resueltas: **598** — 343 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 156
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
-| 111111111115 | 8 | 7 | 4 | 53% | $880,484 | +$163,123 |
+| 111111111115 | 8 | 7 | 5 | 53% | $907,082 | +$163,123 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.38 (42¢) | $26,598 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.72 (58¢) | $28,414 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.69 (59¢) | $33,838 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.44 (41¢) | $41,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 | Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | -$26,049 | ❌ Perdida |
 | FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
 | casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | -$27,913 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | -$87,008 | ❌ Perdida |
