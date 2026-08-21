@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 05:09:06 (hora de Perú)
+Actualizado: 2026-08-21 05:11:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **606**  ($29,755,057 en total)
-- Resueltas: **589** — 337 ganadas / 252 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Resueltas: **593** — 338 ganadas / 255 perdidas (**57%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 154
 
 ### Balance
 
-- **Resultado de los apostadores: -$1,035,975** sobre $29,016,745 apostados (ROI **-3.6%**)
-- Copiando $100 fijo en cada una: **-$4,243** sobre $57,500 (ROI **-7.4%**)
+- **Resultado de los apostadores: -$1,151,819** sobre $29,341,349 apostados (ROI **-3.9%**)
+- Copiando $100 fijo en cada una: **-$4,477** sobre $57,900 (ROI **-7.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 56 | 32 | 3 | 64% | $5,063,147 | -$58,797 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 56 | 34 | 1 | 62% | $5,063,147 | -$213,145 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 0 | 61% | $2,386,614 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 0 | 57% | $908,673 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| 111111111115 | 7 | 7 | 3 | 50% | $814,875 | +$79,619 |
+| 111111111115 | 8 | 7 | 2 | 53% | $814,875 | +$163,123 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
@@ -74,14 +74,14 @@ _(mostrando los 40 de mayor monto, de 154 en total)_
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.56 (64¢) | $30,000 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.44 (41¢) | $107,598 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Liquid | 1.67 (60¢) | $125,256 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.44 (41¢) | $107,598 | -$107,598 | ❌ Perdida |
+| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Liquid | 1.67 (60¢) | $125,256 | +$83,504 | ✅ Ganada |
 | JaJa888 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner | EDward Gaming | 1.11 (90¢) | $34,022 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.78 (36¢) | $38,542 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | +$83,490 | ✅ Ganada |
 | highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $89,413 | -$89,413 | ❌ Perdida |
 | StasPanda | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $43,462 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.39 (72¢) | $46,750 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.39 (72¢) | $46,750 | -$46,750 | ❌ Perdida |
 | zb8 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,846 | — | ⏳ Pendiente |
 | TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,801 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 154 en total)_
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.04 (49¢) | $26,000 | -$26,000 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $45,768 | — | ⏳ Pendiente |
 | zb8 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
-| aenews2 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
+| aenews2 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | -$25,398 | ❌ Perdida |
 | coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | +$4,959 | ✅ Ganada |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
