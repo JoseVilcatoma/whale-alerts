@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 16:25:54 (hora de Perú)
+Actualizado: 2026-08-21 16:27:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **671**  ($34,018,948 en total)
+- Apuestas registradas: **672**  ($34,063,608 en total)
 - Resueltas: **652** — 376 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 167
+- Pendientes: 20
+- Apostadores distintos: 168
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 
-_(mostrando los 40 de mayor monto, de 167 en total)_
+_(mostrando los 40 de mayor monto, de 168 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | — | ⏳ Pendiente |
 | Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 167 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | +$3,613 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner | FUT Esports | 1.09 (92¢) | $37,314 | +$3,245 | ✅ Ganada |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | FC Tōkyō vs. JEF United Ichihara Chiba: O/U 2.5 | Under 2.5 | 1.22 (82¢) | $83,782 | +$18,391 | ✅ Ganada |

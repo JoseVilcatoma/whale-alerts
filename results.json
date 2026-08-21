@@ -10091,5 +10091,20 @@
     "status": "pending",
     "ultimo_fill": 1787346720,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1384,
+    "timestamp": 1787347570,
+    "username": "saftey-first",
+    "wallet": "0xbdea99acf04cb6863252d43b13db89d5c7681db5",
+    "slug": "nfl-car-jax-2026-08-21-spread-away-1pt5",
+    "title": "Spread: CAR (-1.5)",
+    "outcome": "CAR",
+    "side": "BUY",
+    "usd": 44659.9656,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787347570,
+    "fills": 1
   }
 ]
