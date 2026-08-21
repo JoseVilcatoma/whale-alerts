@@ -9746,5 +9746,20 @@
     "status": "pending",
     "ultimo_fill": 1787334758,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1335,
+    "timestamp": 1787336413,
+    "username": "anon.1980.123",
+    "wallet": "0x46992d0e547e3822a9c28723f51bfa804ae4e03c",
+    "slug": "epl-ars-cov-2026-08-21-ars",
+    "title": "Will Arsenal FC win on 2026-08-21?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 50840.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1787336413,
+    "fills": 1
   }
 ]
