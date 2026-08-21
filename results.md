@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 07:20:44 (hora de Perú)
+Actualizado: 2026-08-21 07:22:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **616**  ($30,481,951 en total)
+- Apuestas registradas: **618**  ($30,540,886 en total)
 - Resueltas: **597** — 342 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 156
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 3 | 63% | $5,505,391 | +$132,355 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 4 | 63% | $5,533,717 | +$132,355 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
+| 111111111115 | 8 | 7 | 4 | 53% | $880,484 | +$163,123 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| 111111111115 | 8 | 7 | 3 | 53% | $849,875 | +$163,123 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.56 (64¢) | $30,609 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.59 (63¢) | $28,326 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.19 (84¢) | $41,097 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 | Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | -$44,444 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | +$26,373 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | -$37,028 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | +$32,830 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | +$20,709 | ✅ Ganada |
