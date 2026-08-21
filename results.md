@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 08:08:56 (hora de Perú)
+Actualizado: 2026-08-21 08:10:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **623**  ($30,726,729 en total)
-- Resueltas: **600** — 343 ganadas / 257 perdidas (**57%** de acierto)
-- Pendientes: 23
+- Resueltas: **601** — 344 ganadas / 257 perdidas (**57%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 156
 
 ### Balance
 
-- **Resultado de los apostadores: -$787,980** sobre $29,921,908 apostados (ROI **-2.6%**)
-- Copiando $100 fijo en cada una: **-$4,363** sobre $58,600 (ROI **-7.4%**)
+- **Resultado de los apostadores: -$760,000** sobre $29,947,735 apostados (ROI **-2.5%**)
+- Copiando $100 fijo en cada una: **-$4,255** sobre $58,700 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
-| 111111111115 | 8 | 8 | 4 | 50% | $907,082 | +$136,623 |
+| 111111111115 | 9 | 8 | 3 | 53% | $907,082 | +$164,603 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 | castlebot | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.79 (56¢) | $25,006 | -$25,006 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | tony1919 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.56 (64¢) | $30,000 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | +$27,980 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.44 (41¢) | $107,598 | -$107,598 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Liquid | 1.67 (60¢) | $125,256 | +$83,504 | ✅ Ganada |
 | JaJa888 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner | EDward Gaming | 1.11 (90¢) | $34,022 | +$3,780 | ✅ Ganada |
