@@ -8393,7 +8393,7 @@
     "side": "BUY",
     "usd": 34170.3162,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787253582,
     "fills": 1
   },
@@ -8573,7 +8573,7 @@
     "side": "BUY",
     "usd": 38863.0025,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787261420,
     "fills": 1
   },
@@ -8633,7 +8633,7 @@
     "side": "BUY",
     "usd": 58044.6209,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787267396,
     "fills": 1
   },
@@ -8770,6 +8770,21 @@
     "odds_at_bet": 40,
     "status": "pending",
     "ultimo_fill": 1787277518,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1205,
+    "timestamp": 1787277920,
+    "username": "traderjoes01",
+    "wallet": "0x98547858afb3414571a479dc5dcf08f305167a06",
+    "slug": "nfl-sf-lac-2026-08-21",
+    "title": "49ers vs. Chargers",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "usd": 25235.989999,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787277920,
     "fills": 1
   }
 ]
