@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 17:19:02 (hora de Perú)
+Actualizado: 2026-08-21 17:21:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **676**  ($34,244,995 en total)
+- Apuestas registradas: **678**  ($34,350,197 en total)
 - Resueltas: **653** — 377 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 25
 - Apostadores distintos: 169
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 3 | 62% | $6,858,988 | +$596,643 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 4 | 61% | $2,518,882 | +$199,623 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 4 | 62% | $6,911,747 | +$596,643 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 5 | 61% | $2,571,326 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 12 | 9 | 2 | 57% | $1,058,549 | +$34,659 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
 | 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.72 (58¢) | $28,414 | -$28,414 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.69 (59¢) | $33,838 | +$23,514 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.44 (41¢) | $41,015 | -$41,015 | ❌ Perdida |
-| BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.56 (64¢) | $30,609 | +$17,218 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 | 1.59 (63¢) | $28,326 | +$16,636 | ✅ Ganada |
