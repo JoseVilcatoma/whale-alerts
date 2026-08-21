@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 13:57:31 (hora de Perú)
+Actualizado: 2026-08-21 13:59:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **656**  ($32,674,120 en total)
+- Apuestas registradas: **658**  ($33,002,641 en total)
 - Resueltas: **627** — 358 ganadas / 269 perdidas (**57%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 166
 
 ### Balance
@@ -47,6 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
+| murgionsek | 0 | 0 | 2 | — | $260,283 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 1 | ⚠️ 100% (3) | $252,758 | +$14,823 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
@@ -56,14 +57,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 4 | 2 | 1 | ⚠️ 67% (6) | $226,980 | -$63,655 |
 | 0b1 | 6 | 0 | 1 | ⚠️ 100% (6) | $225,762 | +$21,670 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
+| Jsram | 0 | 0 | 3 | — | $197,340 | — |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
-| Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
-| Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 
 _(mostrando los 40 de mayor monto, de 166 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | — | ⏳ Pendiente |
+| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | — | ⏳ Pendiente |
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 | JaJa888 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner | EDward Gaming | 1.11 (90¢) | $34,022 | +$3,780 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.78 (36¢) | $38,542 | -$38,542 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | +$83,490 | ✅ Ganada |
-| highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $89,413 | -$89,413 | ❌ Perdida |
-| StasPanda | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $43,462 | -$43,462 | ❌ Perdida |
