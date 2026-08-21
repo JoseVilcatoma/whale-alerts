@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 06:39:08 (hora de Perú)
+Actualizado: 2026-08-21 06:41:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **610**  ($30,210,008 en total)
+- Apuestas registradas: **611**  ($30,244,808 en total)
 - Resueltas: **596** — 341 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 155
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 56 | 34 | 2 | 62% | $5,422,749 | -$213,145 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 12 | 9 | 0 | 57% | $908,673 | +$34,659 |
+| pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | 111111111115 | 8 | 7 | 3 | 53% | $849,875 | +$163,123 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 1 Winner | T1 | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $35,344 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.96 (51¢) | $359,602 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | -$110,600 | ❌ Perdida |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | +$17,708 | ✅ Ganada |
-| pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | -$38,773 | ❌ Perdida |
