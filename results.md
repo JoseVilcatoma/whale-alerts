@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 03:33:14 (hora de Perú)
+Actualizado: 2026-08-21 03:35:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **600**  ($29,405,853 en total)
+- Apuestas registradas: **601**  ($29,439,875 en total)
 - Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 153
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 153 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| JaJa888 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner | EDward Gaming | 1.11 (90¢) | $34,022 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.78 (36¢) | $38,542 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | — | ⏳ Pendiente |
 | highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $89,413 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 153 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Nigma Galaxy | 2.44 (41¢) | $34,051 | +$49,000 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $28,640 | +$21,606 | ✅ Ganada |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $28,807 | +$22,634 | ✅ Ganada |
-| S-Works | Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs | Vitality | 1.15 (87¢) | $110,509 | +$16,513 | ✅ Ganada |
