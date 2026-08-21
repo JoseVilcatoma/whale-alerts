@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 00:34:44 (hora de Perú)
+Actualizado: 2026-08-21 00:36:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **587**  ($28,792,011 en total)
-- Resueltas: **572** — 333 ganadas / 239 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Resueltas: **574** — 334 ganadas / 240 perdidas (**58%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 151
 
 ### Balance
 
-- **Resultado de los apostadores: -$488,227** sobre $28,120,647 apostados (ROI **-1.7%**)
-- Copiando $100 fijo en cada una: **-$3,179** sobre $55,800 (ROI **-5.7%**)
+- **Resultado de los apostadores: -$508,503** sobre $28,173,987 apostados (ROI **-1.8%**)
+- Copiando $100 fijo en cada una: **-$3,261** sobre $56,000 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | — | ⏳ Pendiente |
-| coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | — | ⏳ Pendiente |
+| coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | +$4,959 | ✅ Ganada |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
-| traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | — | ⏳ Pendiente |
+| traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | -$25,236 | ❌ Perdida |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | +$7,470 | ✅ Ganada |
