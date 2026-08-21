@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 14:53:01 (hora de Perú)
+Actualizado: 2026-08-21 14:55:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **663**  ($33,475,803 en total)
+- Apuestas registradas: **664**  ($33,524,745 en total)
 - Resueltas: **633** — 364 ganadas / 269 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 166
 
 ### Balance
@@ -46,6 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
+| 0b1 | 6 | 0 | 2 | ⚠️ 100% (6) | $274,703 | +$21,670 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | murgionsek | 0 | 0 | 2 | — | $260,283 | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
@@ -55,7 +56,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | ferrariChampions2026 | 4 | 2 | 1 | ⚠️ 67% (6) | $226,980 | -$63,655 |
-| 0b1 | 6 | 0 | 1 | ⚠️ 100% (6) | $225,762 | +$21,670 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | Jsram | 0 | 0 | 3 | — | $197,340 | — |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Will RC Strasbourg Alsace win on 2026-08-21? | No | 1.06 (94¢) | $48,942 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: CAR (-1.5) | JAX | 1.96 (51¢) | $35,991 | — | ⏳ Pendiente |
 | quavoo | Spread: CAR (-1.5) | CAR | 2.04 (49¢) | $28,720 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 | castlebot | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.79 (56¢) | $25,006 | -$25,006 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | tony1919 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.56 (64¢) | $30,000 | +$16,875 | ✅ Ganada |
-| BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | +$27,980 | ✅ Ganada |
