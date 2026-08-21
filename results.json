@@ -9386,5 +9386,20 @@
     "status": "pending",
     "ultimo_fill": 1787318194,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 1284,
+    "timestamp": 1787319022,
+    "username": "ifpl",
+    "wallet": "0x9368eb0e0e2ff384095a88960c5a494fed1580a3",
+    "slug": "cs2-lgc-fal2-2026-08-21",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 51263.263199999994,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1787319022,
+    "fills": 1
   }
 ]
