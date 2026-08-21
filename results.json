@@ -9206,5 +9206,20 @@
     "status": "pending",
     "ultimo_fill": 1787312522,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1268,
+    "timestamp": 1787312700,
+    "username": "467j6yj",
+    "wallet": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+    "slug": "cs2-fut-mouz-2026-08-21-game1",
+    "title": "Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 37314.4613,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1787312700,
+    "fills": 1
   }
 ]
