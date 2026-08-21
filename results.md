@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 11:13:22 (hora de Perú)
+Actualizado: 2026-08-21 11:15:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **640**  ($32,019,160 en total)
+- Apuestas registradas: **642**  ($32,109,505 en total)
 - Resueltas: **619** — 352 ganadas / 267 perdidas (**57%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 160
 
 ### Balance
@@ -50,8 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | StasPanda | 2 | 3 | 0 | ⚠️ 40% (5) | $238,768 | -$95,917 |
+| 007theone1 | 4 | 0 | 1 | ⚠️ 100% (4) | $233,814 | +$57,168 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
+| ferrariChampions2026 | 4 | 1 | 1 | ⚠️ 80% (5) | $196,980 | -$34,523 |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -59,9 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
-| 007theone1 | 4 | 0 | 0 | ⚠️ 100% (4) | $172,600 | +$57,168 |
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
-| ferrariChampions2026 | 4 | 1 | 0 | ⚠️ 80% (5) | $167,849 | -$34,523 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 160 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | — | ⏳ Pendiente |
 | sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 160 en total)_
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
 | traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | -$25,236 | ❌ Perdida |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | -$120,000 | ❌ Perdida |
-| Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | +$7,470 | ✅ Ganada |

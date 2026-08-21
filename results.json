@@ -9626,5 +9626,35 @@
     "status": "pending",
     "ultimo_fill": 1787328548,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1319,
+    "timestamp": 1787328878,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-giustin-hassan-2026-08-21",
+    "title": "Sion: Lorenzo Giustino vs Benjamin Hassan",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "usd": 29131.4704,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787328878,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1320,
+    "timestamp": 1787328880,
+    "username": "007theone1",
+    "wallet": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+    "slug": "atp-giustin-hassan-2026-08-21",
+    "title": "Sion: Lorenzo Giustino vs Benjamin Hassan",
+    "outcome": "Benjamin Hassan",
+    "side": "BUY",
+    "usd": 61214.0653,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1787328883,
+    "fills": 2
   }
 ]
