@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 02:12:58 (hora de Perú)
+Actualizado: 2026-08-21 02:15:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **593**  ($29,029,779 en total)
+- Apuestas registradas: **595**  ($29,081,425 en total)
 - Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 152
+- Pendientes: 10
+- Apostadores distintos: 153
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 1 | 0 | ⚠️ 67% (3) | $156,907 | +$86,905 |
 | TAIWANNUMBERONE | 4 | 0 | 1 | ⚠️ 100% (4) | $154,804 | +$35,677 |
 
-_(mostrando los 40 de mayor monto, de 152 en total)_
+_(mostrando los 40 de mayor monto, de 153 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,846 | — | ⏳ Pendiente |
+| TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,801 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.00 (50¢) | $58,500 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.04 (49¢) | $26,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 | halanddd123 | Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.18 (85¢) | $49,579 | -$49,579 | ❌ Perdida |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5 | Under 8.5 | 2.27 (44¢) | $28,088 | -$28,088 | ❌ Perdida |
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | -$71,848 | ❌ Perdida |
-| S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |

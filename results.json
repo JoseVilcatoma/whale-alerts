@@ -8921,5 +8921,35 @@
     "status": "pending",
     "ultimo_fill": 1787296032,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1236,
+    "timestamp": 1787296403,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-edg-tt-2026-08-21-game1",
+    "title": "LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "usd": 25801.098799999996,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787296403,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1237,
+    "timestamp": 1787296442,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-edg-tt-2026-08-21-game1",
+    "title": "LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "usd": 25845.7472,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787296442,
+    "fills": 1
   }
 ]
