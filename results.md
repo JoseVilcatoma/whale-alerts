@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 06:22:38 (hora de Perú)
+Actualizado: 2026-08-21 06:24:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **609**  ($30,175,008 en total)
+- Apuestas registradas: **610**  ($30,210,008 en total)
 - Resueltas: **593** — 338 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 155
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 0 | 57% | $908,673 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| 111111111115 | 8 | 7 | 2 | 53% | $814,875 | +$163,123 |
+| 111111111115 | 8 | 7 | 3 | 53% | $849,875 | +$163,123 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 1 Winner | T1 | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $35,344 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner | TEAM VISION | 1.96 (51¢) | $359,602 | — | ⏳ Pendiente |
 | castlebot | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.79 (56¢) | $25,006 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 155 en total)_
 | S-Works | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.44 (41¢) | $110,600 | -$110,600 | ❌ Perdida |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.67 (60¢) | $26,562 | +$17,708 | ✅ Ganada |
 | pleaseplease123 | Athletics vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $38,773 | -$38,773 | ❌ Perdida |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Rayo Vallecano de Madrid vs. Deportivo Alavés: O/U 0.5 | Over 0.5 | 1.11 (90¢) | $42,350 | +$4,706 | ✅ Ganada |
