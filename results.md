@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 13:03:59 (hora de Perú)
+Actualizado: 2026-08-21 13:06:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **648**  ($32,311,953 en total)
-- Resueltas: **626** — 357 ganadas / 269 perdidas (**57%** de acierto)
-- Pendientes: 22
+- Resueltas: **627** — 358 ganadas / 269 perdidas (**57%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 164
 
 ### Balance
 
-- **Resultado de los apostadores: -$782,662** sobre $31,122,496 apostados (ROI **-2.5%**)
-- Copiando $100 fijo en cada una: **-$4,799** sobre $61,200 (ROI **-7.8%**)
+- **Resultado de los apostadores: -$744,862** sobre $31,154,696 apostados (ROI **-2.4%**)
+- Copiando $100 fijo en cada una: **-$4,682** sobre $61,300 (ROI **-7.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 61 | 38 | 2 | 62% | $6,168,100 | -$21,013 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 12 | 10 | 3 | 55% | $1,315,323 | +$408,189 |
+| 111111111115 | 13 | 10 | 2 | 57% | $1,315,323 | +$445,989 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 164 en total)_
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | — | ⏳ Pendiente |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | — | ⏳ Pendiente |
 | sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.75 (57¢) | $304,456 | — | ⏳ Pendiente |
