@@ -9941,5 +9941,20 @@
     "status": "pending",
     "ultimo_fill": 1787340343,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1354,
+    "timestamp": 1787340724,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nfl-car-jax-2026-08-21-spread-away-1pt5",
+    "title": "Spread: CAR (-1.5)",
+    "outcome": "CAR",
+    "side": "BUY",
+    "usd": 28719.7639,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787340724,
+    "fills": 1
   }
 ]
