@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 13:32:47 (hora de Perú)
+Actualizado: 2026-08-21 13:34:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **649**  ($32,362,793 en total)
+- Apuestas registradas: **650**  ($32,430,520 en total)
 - Resueltas: **627** — 358 ganadas / 269 perdidas (**57%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 165
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 165 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $67,727 | — | ⏳ Pendiente |
 | anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | — | ⏳ Pendiente |
 | cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 165 en total)_
 | 0xheavy888 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | Weaseloftheweek | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.00 (50¢) | $58,500 | -$58,500 | ❌ Perdida |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.04 (49¢) | $26,000 | -$26,000 | ❌ Perdida |
-| TAIWANNUMBERONE | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $45,768 | +$18,694 | ✅ Ganada |
