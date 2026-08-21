@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 22:28:29 (hora de Perú)
+Actualizado: 2026-08-20 22:30:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **586**  ($28,766,613 en total)
-- Resueltas: **570** — 332 ganadas / 238 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Resueltas: **571** — 333 ganadas / 238 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 151
 
 ### Balance
 
-- **Resultado de los apostadores: -$490,655** sobre $28,062,362 apostados (ROI **-1.7%**)
-- Copiando $100 fijo en cada una: **-$3,164** sobre $55,600 (ROI **-5.7%**)
+- **Resultado de los apostadores: -$462,727** sobre $28,095,147 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$3,079** sobre $55,700 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
-| ScroooogeMcDuck | 0 | 0 | 2 | — | $152,786 | — |
+| ScroooogeMcDuck | 1 | 0 | 1 | ⚠️ 100% (1) | $152,786 | +$27,929 |
 
 _(mostrando los 40 de mayor monto, de 151 en total)_
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | — | ⏳ Pendiente |
-| ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | — | ⏳ Pendiente |
+| ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
 | traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | — | ⏳ Pendiente |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
