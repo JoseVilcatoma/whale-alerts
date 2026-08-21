@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 12:34:56 (hora de Perú)
+Actualizado: 2026-08-21 12:36:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **646**  ($32,224,287 en total)
-- Resueltas: **625** — 357 ganadas / 268 perdidas (**57%** de acierto)
+- Apuestas registradas: **647**  ($32,257,287 en total)
+- Resueltas: **626** — 357 ganadas / 269 perdidas (**57%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 163
 
 ### Balance
 
-- **Resultado de los apostadores: -$753,152** sobre $31,092,985 apostados (ROI **-2.4%**)
-- Copiando $100 fijo en cada una: **-$4,699** sobre $61,100 (ROI **-7.7%**)
+- **Resultado de los apostadores: -$782,662** sobre $31,122,496 apostados (ROI **-2.5%**)
+- Copiando $100 fijo en cada una: **-$4,799** sobre $61,200 (ROI **-7.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 61 | 38 | 2 | 62% | $6,168,100 | -$21,013 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 12 | 9 | 3 | 57% | $1,256,407 | +$437,700 |
+| 111111111115 | 12 | 10 | 3 | 55% | $1,289,407 | +$408,189 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -71,9 +71,10 @@ _(mostrando los 40 de mayor monto, de 163 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | — | ⏳ Pendiente |
 | 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | -$29,510 | ❌ Perdida |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | — | ⏳ Pendiente |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 163 en total)_
 | TAIWANNUMBERONE | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $45,768 | +$18,694 | ✅ Ganada |
 | zb8 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | aenews2 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
-| highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | -$25,398 | ❌ Perdida |
