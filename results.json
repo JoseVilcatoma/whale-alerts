@@ -8786,5 +8786,20 @@
     "status": "pending",
     "ultimo_fill": 1787277920,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1207,
+    "timestamp": 1787279240,
+    "username": "ScroooogeMcDuck",
+    "wallet": "0xc35049bc7b6bd28a49a40b261466ca91aad63669",
+    "slug": "dota2-ironwi-boombo-2026-08-20-game1",
+    "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
+    "outcome": "Iron Wing",
+    "side": "BUY",
+    "usd": 32785.8354,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787279240,
+    "fills": 1
   }
 ]
