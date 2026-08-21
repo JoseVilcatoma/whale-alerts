@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 18:39:12 (hora de Perú)
+Actualizado: 2026-08-21 18:41:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **687**  ($34,803,399 en total)
-- Resueltas: **661** — 380 ganadas / 281 perdidas (**57%** de acierto)
-- Pendientes: 26
+- Resueltas: **663** — 382 ganadas / 281 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$261,181** sobre $33,628,849 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$4,744** sobre $64,700 (ROI **-7.3%**)
+- **Resultado de los apostadores: -$242,832** sobre $33,691,705 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,681** sobre $64,900 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 5 | 3 | 1 | 62% | $322,011 | -$115,999 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
-| 0b1 | 8 | 0 | 1 | 100% | $301,699 | +$27,464 |
+| 0b1 | 9 | 0 | 0 | 100% | $301,699 | +$29,641 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
@@ -105,12 +105,12 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | +$35,131 | ✅ Ganada |
-| 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | — | ⏳ Pendiente |
+| 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | +$2,177 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Arsenal FC vs. Coventry City FC: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $93,066 | +$17,727 | ✅ Ganada |
 | ferrariChampions2026 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $67,727 | +$15,887 | ✅ Ganada |
 | anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | +$11,160 | ✅ Ganada |
-| cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | — | ⏳ Pendiente |
+| cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | +$16,172 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | +$30,351 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | +$6,790 | ✅ Ganada |
 | 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | +$24,949 | ✅ Ganada |
