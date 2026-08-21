@@ -9611,5 +9611,20 @@
     "status": "pending",
     "ultimo_fill": 1787327357,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1316,
+    "timestamp": 1787328548,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-vit-ts7-2026-08-21-game1",
+    "title": "Counter-Strike: Vitality vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 32200.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1787328548,
+    "fills": 1
   }
 ]

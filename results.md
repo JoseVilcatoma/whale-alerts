@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 11:07:05 (hora de Perú)
+Actualizado: 2026-08-21 11:09:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **639**  ($31,986,960 en total)
+- Apuestas registradas: **640**  ($32,019,160 en total)
 - Resueltas: **617** — 352 ganadas / 265 perdidas (**57%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 160
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 60 | 37 | 4 | 62% | $6,168,100 | +$47,364 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 10 | 9 | 3 | 53% | $1,194,697 | +$367,892 |
+| 111111111115 | 10 | 9 | 4 | 53% | $1,226,897 | +$367,892 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 160 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | — | ⏳ Pendiente |
 | sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.75 (57¢) | $304,456 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 160 en total)_
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | -$120,000 | ❌ Perdida |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | +$7,470 | ✅ Ganada |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | -$46,349 | ❌ Perdida |
