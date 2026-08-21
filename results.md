@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 18:43:14 (hora de Perú)
+Actualizado: 2026-08-21 18:45:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **687**  ($34,803,399 en total)
+- Apuestas registradas: **688**  ($34,832,622 en total)
 - Resueltas: **663** — 382 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | — | ⏳ Pendiente |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.32 (76¢) | $25,002 | -$25,002 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Team Falcons | 2.44 (41¢) | $40,389 | -$40,389 | ❌ Perdida |
 | casualbet2020 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.59 (63¢) | $49,784 | +$29,238 | ✅ Ganada |
-| BOOMBOYS.Kiritych | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Legacy | 2.50 (40¢) | $158,859 | +$238,289 | ✅ Ganada |
