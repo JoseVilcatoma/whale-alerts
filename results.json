@@ -9911,5 +9911,35 @@
     "status": "pending",
     "ultimo_fill": 1787339785,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1352,
+    "timestamp": 1787340319,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-ts7-2026-08-21",
+    "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 26029.1639,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787340319,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1353,
+    "timestamp": 1787340343,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-vit-ts7-2026-08-21",
+    "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 334529.955,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787340343,
+    "fills": 1
   }
 ]
