@@ -9461,5 +9461,20 @@
     "status": "pending",
     "ultimo_fill": 1787320444,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1289,
+    "timestamp": 1787320640,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-lgc-fal2-2026-08-21-game1",
+    "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 40388.689999999995,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787320640,
+    "fills": 1
   }
 ]

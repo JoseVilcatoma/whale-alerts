@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 08:56:38 (hora de Perú)
+Actualizado: 2026-08-21 08:58:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **629**  ($31,243,971 en total)
+- Apuestas registradas: **630**  ($31,284,360 en total)
 - Resueltas: **601** — 344 ganadas / 257 perdidas (**57%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 157
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 6 | 63% | $5,608,569 | +$132,355 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 57 | 34 | 7 | 63% | $5,648,958 | +$132,355 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 9 | 8 | 5 | 53% | $1,194,697 | +$164,603 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Team Falcons | 2.44 (41¢) | $40,389 | — | ⏳ Pendiente |
 | casualbet2020 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.59 (63¢) | $49,784 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: Legacy vs Team Falcons - Map 1 Winner | Legacy | 2.50 (40¢) | $158,859 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.54 (65¢) | $101,973 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 157 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $36,115 | +$25,097 | ✅ Ganada |
 | Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | -$41,203 | ❌ Perdida |
 | kamloic | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.67 (60¢) | $44,239 | +$29,493 | ✅ Ganada |
-| laozishudaosan | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 2.04 (49¢) | $38,863 | -$38,863 | ❌ Perdida |
