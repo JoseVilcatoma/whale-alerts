@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 07:48:03 (hora de Perú)
+Actualizado: 2026-08-21 07:50:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **618**  ($30,540,886 en total)
-- Resueltas: **597** — 342 ganadas / 255 perdidas (**57%** de acierto)
-- Pendientes: 21
+- Resueltas: **598** — 343 ganadas / 255 perdidas (**57%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 156
 
 ### Balance
 
-- **Resultado de los apostadores: -$754,865** sobre $29,786,619 apostados (ROI **-2.5%**)
-- Copiando $100 fijo en cada una: **-$4,185** sobre $58,300 (ROI **-7.2%**)
+- **Resultado de los apostadores: -$736,474** sobre $29,870,402 apostados (ROI **-2.5%**)
+- Copiando $100 fijo en cada una: **-$4,163** sobre $58,400 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 156 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
 | 467j6yj | Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner | FUT Esports | 1.09 (92¢) | $37,314 | — | ⏳ Pendiente |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | FC Tōkyō vs. JEF United Ichihara Chiba: O/U 2.5 | Under 2.5 | 1.22 (82¢) | $83,782 | — | ⏳ Pendiente |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | FC Tōkyō vs. JEF United Ichihara Chiba: O/U 2.5 | Under 2.5 | 1.22 (82¢) | $83,782 | +$18,391 | ✅ Ganada |
 | pleaseplease123 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 - Game 1 Winner | T1 | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 6.5 | Under 6.5 | 1.82 (55¢) | $35,344 | — | ⏳ Pendiente |
