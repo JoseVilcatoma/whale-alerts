@@ -8876,5 +8876,20 @@
     "status": "pending",
     "ultimo_fill": 1787295477,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1233,
+    "timestamp": 1787295553,
+    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+    "slug": "dota2-liquid-flc-2026-08-21-game2",
+    "title": "Dota 2: Team Liquid vs Team Falcons - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 25999.999999000003,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787295553,
+    "fills": 1
   }
 ]
