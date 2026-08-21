@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 12:36:59 (hora de Perú)
+Actualizado: 2026-08-21 12:39:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **647**  ($32,257,287 en total)
+- Apuestas registradas: **647**  ($32,283,202 en total)
 - Resueltas: **626** — 357 ganadas / 269 perdidas (**57%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 163
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 61 | 38 | 2 | 62% | $6,168,100 | -$21,013 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 12 | 10 | 3 | 55% | $1,289,407 | +$408,189 |
+| 111111111115 | 12 | 10 | 3 | 55% | $1,315,323 | +$408,189 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 163 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | — | ⏳ Pendiente |
 | 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | -$29,510 | ❌ Perdida |
