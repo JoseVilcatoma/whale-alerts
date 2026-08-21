@@ -9146,5 +9146,20 @@
     "status": "pending",
     "ultimo_fill": 1787308635,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1260,
+    "timestamp": 1787310821,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-atl-mil-2026-08-21-total-6pt5",
+    "title": "Atlanta Braves vs. Milwaukee Brewers: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 35343.682,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787310821,
+    "fills": 1
   }
 ]
