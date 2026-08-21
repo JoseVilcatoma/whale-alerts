@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 21:22:29 (hora de Perú)
+Actualizado: 2026-08-20 21:24:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **584**  ($28,705,723 en total)
-- Resueltas: **565** — 328 ganadas / 237 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Resueltas: **566** — 329 ganadas / 237 perdidas (**58%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 150
 
 ### Balance
 
-- **Resultado de los apostadores: -$602,524** sobre $27,798,911 apostados (ROI **-2.2%**)
-- Copiando $100 fijo en cada una: **-$3,272** sobre $55,100 (ROI **-5.9%**)
+- **Resultado de los apostadores: -$593,315** sobre $27,829,741 apostados (ROI **-2.1%**)
+- Copiando $100 fijo en cada una: **-$3,242** sobre $55,200 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 54 | 29 | 5 | 65% | $4,870,257 | +$81,773 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 55 | 29 | 4 | 65% | $4,870,257 | +$90,982 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 33 | 22 | 1 | 60% | $2,386,614 | +$145,037 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 11 | 9 | 1 | 55% | $908,673 | -$35,341 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 150 en total)_
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | +$9,209 | ✅ Ganada |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $48,262 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $59,463 | -$59,463 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.23 (81¢) | $26,981 | +$6,329 | ✅ Ganada |
