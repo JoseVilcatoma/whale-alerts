@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 02:06:48 (hora de Perú)
+Actualizado: 2026-08-21 02:08:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **591**  ($28,940,279 en total)
+- Apuestas registradas: **593**  ($29,029,779 en total)
 - Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 152
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
+| Weaseloftheweek | 7 | 6 | 1 | 54% | $675,906 | +$6,075 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
-| Weaseloftheweek | 7 | 6 | 0 | 54% | $617,406 | +$6,075 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -51,6 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | StasPanda | 2 | 2 | 0 | ⚠️ 50% (4) | $195,306 | -$52,455 |
+| 0xheavy888 | 3 | 0 | 1 | ⚠️ 100% (3) | $195,208 | +$36,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 | 0b1 | 6 | 0 | 0 | ⚠️ 100% (6) | $191,655 | +$21,670 |
@@ -60,7 +61,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kulilun | 2 | 1 | 0 | ⚠️ 67% (3) | $172,366 | +$20,248 |
 | ferrariChampions2026 | 4 | 1 | 0 | ⚠️ 80% (5) | $167,849 | -$34,523 |
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
-| 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
 | highnetworth | 2 | 1 | 0 | ⚠️ 67% (3) | $156,907 | +$86,905 |
 | TAIWANNUMBERONE | 4 | 0 | 1 | ⚠️ 100% (4) | $154,804 | +$35,677 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xheavy888 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| Weaseloftheweek | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.00 (50¢) | $58,500 | — | ⏳ Pendiente |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.04 (49¢) | $26,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $45,768 | — | ⏳ Pendiente |
 | zb8 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 152 en total)_
 | dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,848 | -$71,848 | ❌ Perdida |
 | S-Works | Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner | Team Falcons | 1.54 (65¢) | $62,282 | +$33,537 | ✅ Ganada |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner | Team Falcons | 1.64 (61¢) | $30,000 | -$30,000 | ❌ Perdida |
-| jackpeter888 | LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner | Bilibili Gaming | 1.33 (75¢) | $35,607 | +$11,869 | ✅ Ganada |
-| dauntlesswitness | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 2.22 (45¢) | $71,965 | -$71,965 | ❌ Perdida |
