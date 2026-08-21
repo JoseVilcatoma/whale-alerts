@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 17:29:38 (hora de Perú)
+Actualizado: 2026-08-21 17:31:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **680**  ($34,419,688 en total)
+- Apuestas registradas: **681**  ($34,467,798 en total)
 - Resueltas: **653** — 377 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 169
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 4 | 62% | $6,911,747 | +$596,643 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 5 | 61% | $2,571,326 | +$199,623 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 6 | 61% | $2,619,437 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 12 | 9 | 2 | 57% | $1,058,549 | +$34,659 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | — | ⏳ Pendiente |
 | ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $128,756 | +$52,590 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $55,978 | -$55,978 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.38 (42¢) | $26,598 | +$36,731 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.72 (58¢) | $28,414 | -$28,414 | ❌ Perdida |
