@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 05:04:55 (hora de Perú)
+Actualizado: 2026-08-21 05:07:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **605**  ($29,728,557 en total)
+- Apuestas registradas: **606**  ($29,755,057 en total)
 - Resueltas: **589** — 337 ganadas / 252 perdidas (**57%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 154
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 0 | 57% | $908,673 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| 111111111115 | 7 | 7 | 2 | 50% | $788,375 | +$79,619 |
+| 111111111115 | 7 | 7 | 3 | 50% | $814,875 | +$79,619 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | AV23IUa | 9 | 8 | 0 | 53% | $718,881 | +$16,066 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 154 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.56 (64¢) | $30,000 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.44 (41¢) | $107,598 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 154 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays | 2.00 (50¢) | $27,778 | +$27,778 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | G2 | 4.55 (22¢) | $131,140 | -$131,140 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Milwaukee Brewers: O/U 7.5 | Under 7.5 | 2.13 (47¢) | $104,411 | -$104,411 | ❌ Perdida |
-| AV23IUa | Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs | FURIA | 1.72 (58¢) | $39,690 | +$28,741 | ✅ Ganada |
