@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 19:23:42 (hora de Perú)
+Actualizado: 2026-08-20 19:25:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **577**  ($28,379,666 en total)
+- Apuestas registradas: **578**  ($28,427,928 en total)
 - Resueltas: **555** — 323 ganadas / 232 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 148
 
 ### Balance
@@ -44,11 +44,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 2 | 0 | ⚠️ 71% (7) | $282,923 | +$26,543 |
+| Lakersfan111 | 3 | 4 | 1 | ⚠️ 43% (7) | $277,747 | -$59,242 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| Lakersfan111 | 3 | 4 | 0 | ⚠️ 43% (7) | $229,485 | -$59,242 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | StasPanda | 2 | 2 | 0 | ⚠️ 50% (4) | $195,306 | -$52,455 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $48,262 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $59,463 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.23 (81¢) | $26,981 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $66,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | -$29,950 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $38,567 | +$18,149 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | +$14,094 | ✅ Ganada |
-| StasPanda | Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs | Natus Vincere | 2.13 (47¢) | $53,052 | -$53,052 | ❌ Perdida |
