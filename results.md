@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 19:42:42 (hora de Perú)
+Actualizado: 2026-08-20 19:44:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **578**  ($28,427,928 en total)
+- Apuestas registradas: **579**  ($28,458,758 en total)
 - Resueltas: **555** — 323 ganadas / 232 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 148
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 53 | 28 | 6 | 65% | $4,839,427 | +$141,444 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 53 | 28 | 7 | 65% | $4,870,257 | +$141,444 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 32 | 21 | 3 | 60% | $2,386,614 | +$171,669 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 11 | 9 | 1 | 55% | $908,673 | -$35,341 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $48,262 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $59,463 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.23 (81¢) | $26,981 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 2.00 (50¢) | $29,950 | -$29,950 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $38,567 | +$18,149 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 1.47 (68¢) | $29,950 | +$14,094 | ✅ Ganada |
