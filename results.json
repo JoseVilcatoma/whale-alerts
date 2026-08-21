@@ -9143,7 +9143,7 @@
     "side": "BUY",
     "usd": 359601.7446,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787308635,
     "fills": 2
   },
@@ -9190,6 +9190,21 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1787312404,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1267,
+    "timestamp": 1787312522,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "jap-fct-jef-2026-08-21-total-2pt5",
+    "title": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 83782.3925,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1787312522,
     "fills": 1
   }
 ]
