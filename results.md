@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 11:27:38 (hora de Perú)
+Actualizado: 2026-08-21 11:29:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **643**  ($32,137,696 en total)
+- Apuestas registradas: **644**  ($32,167,206 en total)
 - Resueltas: **623** — 356 ganadas / 267 perdidas (**57%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 161
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 61 | 38 | 2 | 62% | $6,168,100 | -$21,013 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 12 | 9 | 2 | 57% | $1,226,897 | +$437,700 |
+| 111111111115 | 12 | 9 | 3 | 57% | $1,256,407 | +$437,700 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | — | ⏳ Pendiente |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | — | ⏳ Pendiente |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 161 en total)_
 | highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | -$25,398 | ❌ Perdida |
 | coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | +$4,959 | ✅ Ganada |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
-| traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | -$25,236 | ❌ Perdida |
