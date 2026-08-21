@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 14:42:43 (hora de Perú)
+Actualizado: 2026-08-21 14:44:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **662**  ($33,439,812 en total)
+- Apuestas registradas: **663**  ($33,475,803 en total)
 - Resueltas: **633** — 364 ganadas / 269 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 166
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 63 | 38 | 2 | 62% | $6,528,660 | +$288,142 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 1 | 61% | $2,421,958 | +$199,623 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 2 | 61% | $2,457,949 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 13 | 10 | 2 | 57% | $1,315,323 | +$445,989 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: CAR (-1.5) | JAX | 1.96 (51¢) | $35,991 | — | ⏳ Pendiente |
 | quavoo | Spread: CAR (-1.5) | CAR | 2.04 (49¢) | $28,720 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.89 (53¢) | $26,029 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group | HANJIN BRION | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | tony1919 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.56 (64¢) | $30,000 | +$16,875 | ✅ Ganada |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | HANJIN BRION | 2.08 (48¢) | $25,828 | +$27,980 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 2.44 (41¢) | $107,598 | -$107,598 | ❌ Perdida |
