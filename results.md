@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 17:50:44 (hora de Perú)
+Actualizado: 2026-08-21 17:52:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **681**  ($34,467,798 en total)
-- Resueltas: **653** — 377 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Apuestas registradas: **682**  ($34,649,123 en total)
+- Resueltas: **659** — 378 ganadas / 281 perdidas (**57%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: +$70,757** sobre $33,160,298 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$4,342** sobre $63,900 (ROI **-6.8%**)
+- **Resultado de los apostadores: -$266,412** sobre $33,561,728 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$4,760** sobre $64,500 (ROI **-7.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 4 | 62% | $6,911,747 | +$596,643 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 6 | 61% | $2,619,437 | +$199,623 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 40 | 4 | 62% | $7,093,071 | +$395,372 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 35 | 22 | 5 | 61% | $2,619,437 | +$228,541 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 12 | 9 | 2 | 57% | $1,058,549 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| AV23IUa | 9 | 9 | 1 | 50% | $822,751 | -$39,913 |
+| AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
-| ferrariChampions2026 | 4 | 2 | 3 | ⚠️ 67% (6) | $322,011 | -$63,655 |
+| ferrariChampions2026 | 4 | 3 | 2 | ⚠️ 57% (7) | $322,011 | -$118,560 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
 | 0b1 | 7 | 0 | 2 | ⚠️ 100% (7) | $301,699 | +$24,794 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | — | ⏳ Pendiente |
 | ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
@@ -81,19 +82,19 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | — | ⏳ Pendiente |
 | saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | — | ⏳ Pendiente |
-| Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | — | ⏳ Pendiente |
+| Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | -$32,619 | ❌ Perdida |
+| ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | -$54,905 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $29,750 | — | ⏳ Pendiente |
-| flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | — | ⏳ Pendiente |
+| flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | -$29,400 | ❌ Perdida |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.79 (56¢) | $115,076 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.64 (61¢) | $201,271 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.64 (61¢) | $201,271 | -$201,271 | ❌ Perdida |
 | 0b1 | Will RC Strasbourg Alsace win on 2026-08-21? | No | 1.06 (94¢) | $48,942 | +$3,124 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: CAR (-1.5) | JAX | 1.96 (51¢) | $35,991 | — | ⏳ Pendiente |
 | quavoo | Spread: CAR (-1.5) | CAR | 2.04 (49¢) | $28,720 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | +$334,530 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.89 (53¢) | $26,029 | -$26,029 | ❌ Perdida |
-| AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | -$47,892 | ❌ Perdida |
 | murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | +$53,447 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | +$23,613 | ✅ Ganada |
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | ifpl | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $51,263 | -$51,263 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $128,756 | +$52,590 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $55,978 | -$55,978 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.38 (42¢) | $26,598 | +$36,731 | ✅ Ganada |
