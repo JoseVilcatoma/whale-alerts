@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 18:11:45 (hora de Perú)
+Actualizado: 2026-08-21 18:13:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **683**  ($34,680,623 en total)
+- Apuestas registradas: **684**  ($34,712,383 en total)
 - Resueltas: **661** — 380 ganadas / 281 perdidas (**57%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 169
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 40 | 5 | 62% | $7,124,571 | +$395,372 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 35 | 22 | 5 | 61% | $2,619,437 | +$228,541 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 35 | 22 | 6 | 61% | $2,651,197 | +$228,541 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 12 | 9 | 2 | 57% | $1,058,549 | +$34,659 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.54 (65¢) | $101,973 | +$54,909 | ✅ Ganada |
 | lIlIlIllllIIIII | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.37 (73¢) | $26,607 | -$26,607 | ❌ Perdida |
 | ifpl | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $51,263 | -$51,263 | ❌ Perdida |
-| BOOMBOYS.Kiritych | LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group | T1 | 1.41 (71¢) | $128,756 | +$52,590 | ✅ Ganada |
