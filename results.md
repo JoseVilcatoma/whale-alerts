@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 14:15:55 (hora de Perú)
+Actualizado: 2026-08-21 14:17:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **658**  ($33,002,641 en total)
+- Apuestas registradas: **659**  ($33,050,533 en total)
 - Resueltas: **633** — 364 ganadas / 269 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 166
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 13 | 10 | 2 | 57% | $1,315,323 | +$445,989 |
 | pleaseplease123 | 12 | 9 | 1 | 57% | $943,473 | +$34,659 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| AV23IUa | 9 | 8 | 1 | 53% | $774,859 | +$16,066 |
+| AV23IUa | 9 | 8 | 2 | 53% | $822,751 | +$16,066 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | — | ⏳ Pendiente |
 | murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | — | ⏳ Pendiente |
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 166 en total)_
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Liquid | 1.67 (60¢) | $125,256 | +$83,504 | ✅ Ganada |
 | JaJa888 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner | EDward Gaming | 1.11 (90¢) | $34,022 | +$3,780 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | Team Spirit | 2.78 (36¢) | $38,542 | -$38,542 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | +$83,490 | ✅ Ganada |

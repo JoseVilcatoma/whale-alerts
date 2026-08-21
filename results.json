@@ -9896,5 +9896,20 @@
     "status": "pending",
     "ultimo_fill": 1787338773,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1351,
+    "timestamp": 1787339785,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-fritz-nakashi-2026-08-21",
+    "title": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 47891.74569999999,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787339785,
+    "fills": 1
   }
 ]
