@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 01:03:35 (hora de Perú)
+Actualizado: 2026-08-21 01:05:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **587**  ($28,792,011 en total)
-- Resueltas: **574** — 334 ganadas / 240 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 151
 
 ### Balance
 
-- **Resultado de los apostadores: -$508,503** sobre $28,173,987 apostados (ROI **-1.8%**)
-- Copiando $100 fijo en cada una: **-$3,261** sobre $56,000 (ROI **-5.8%**)
+- **Resultado de los apostadores: -$945,552** sobre $28,736,572 apostados (ROI **-3.3%**)
+- Copiando $100 fijo en cada una: **-$4,022** sobre $57,100 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 55 | 29 | 4 | 65% | $4,870,257 | +$90,982 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 56 | 32 | 0 | 64% | $4,870,257 | -$58,797 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 0 | 61% | $2,386,614 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 12 | 9 | 0 | 57% | $908,673 | +$34,659 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
 | Sassy-Bucket | 6 | 3 | 0 | 67% | $393,258 | +$198,292 |
-| Lakersfan111 | 3 | 4 | 2 | ⚠️ 43% (7) | $324,096 | -$59,242 |
+| Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Eztennis | 2 | 2 | 0 | ⚠️ 50% (4) | $167,696 | +$21,170 |
 | 0xheavy888 | 3 | 0 | 0 | ⚠️ 100% (3) | $164,208 | +$36,616 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 3 | 0 | 0 | ⚠️ 100% (3) | $159,692 | +$14,823 |
-| highnetworth | 2 | 0 | 1 | ⚠️ 100% (2) | $156,907 | +$112,303 |
+| highnetworth | 2 | 1 | 0 | ⚠️ 67% (3) | $156,907 | +$86,905 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 0 | ⚠️ 50% (2) | $153,500 | +$23,500 |
 
 _(mostrando los 40 de mayor monto, de 151 en total)_
@@ -71,35 +71,35 @@ _(mostrando los 40 de mayor monto, de 151 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | — | ⏳ Pendiente |
+| highnetworth | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.33 (43¢) | $25,398 | -$25,398 | ❌ Perdida |
 | coinlaundry | 49ers vs. Chargers | 49ers | 1.18 (85¢) | $28,104 | +$4,959 | ✅ Ganada |
 | ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys - Game 1 Winner | Iron Wing | 1.85 (54¢) | $32,786 | +$27,929 | ✅ Ganada |
 | traderjoes01 | 49ers vs. Chargers | Chargers | 1.79 (56¢) | $25,236 | -$25,236 | ❌ Perdida |
-| ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | — | ⏳ Pendiente |
+| ScroooogeMcDuck | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $120,000 | -$120,000 | ❌ Perdida |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | +$7,470 | ✅ Ganada |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | — | ⏳ Pendiente |
+| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | -$46,349 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | +$9,209 | ✅ Ganada |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $48,262 | — | ⏳ Pendiente |
+| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $48,262 | -$48,262 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $59,463 | -$59,463 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.23 (81¢) | $26,981 | +$6,329 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Elena Rybakina | 3.03 (33¢) | $66,000 | -$66,000 | ❌ Perdida |
 | Weaseloftheweek | New York Yankees vs. Baltimore Orioles | New York Yankees | 2.04 (49¢) | $58,045 | +$60,414 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $36,115 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $36,115 | +$25,097 | ✅ Ganada |
 | Elaran1993 | Los Angeles Angels vs. Houston Astros: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,203 | -$41,203 | ❌ Perdida |
 | kamloic | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.67 (60¢) | $44,239 | +$29,493 | ✅ Ganada |
 | laozishudaosan | New York Yankees vs. Baltimore Orioles | Baltimore Orioles | 2.04 (49¢) | $38,863 | -$38,863 | ❌ Perdida |
 | AV23IUa | Cincinnati Open: Iga Swiatek vs Elena Rybakina | Iga Swiatek | 1.69 (59¢) | $31,558 | +$21,930 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $52,116 | -$52,116 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.61 (62¢) | $114,210 | +$69,999 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Texas Rangers: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $59,135 | +$54,586 | ✅ Ganada |
 | Gbayh | New York Yankees vs. Baltimore Orioles: O/U 7.5 | Over 7.5 | 2.00 (50¢) | $26,049 | -$26,049 | ❌ Perdida |
 | FullPicks1 | Will Deportivo Alavés win on 2026-08-20? | No | 1.06 (94¢) | $40,000 | +$2,553 | ✅ Ganada |
-| casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | — | ⏳ Pendiente |
-| Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | — | ⏳ Pendiente |
+| casualbet2020 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.44 (41¢) | $27,913 | -$27,913 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.56 (39¢) | $87,008 | -$87,008 | ❌ Perdida |
+| Anjun | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.50 (40¢) | $44,444 | -$44,444 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.69 (59¢) | $37,951 | +$26,373 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $37,028 | -$37,028 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Baltimore Orioles | New York Yankees | 1.96 (51¢) | $34,170 | +$32,830 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Rayo Vallecano de Madrid win on 2026-08-20? | No | 1.64 (61¢) | $32,391 | +$20,709 | ✅ Ganada |
 | xifutloong3 | Atlanta Braves vs. Chicago White Sox | Chicago White Sox | 1.96 (51¢) | $26,066 | -$26,066 | ❌ Perdida |
