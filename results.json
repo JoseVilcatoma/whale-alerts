@@ -8741,5 +8741,20 @@
     "status": "pending",
     "ultimo_fill": 1787276037,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1199,
+    "timestamp": 1787277151,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-atl-la-2026-08-20-total-181pt5",
+    "title": "Atlanta Dream vs. Los Angeles Sparks: O/U 181.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787277151,
+    "fills": 1
   }
 ]

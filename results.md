@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-20 20:51:40 (hora de Perú)
+Actualizado: 2026-08-20 20:53:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **581**  ($28,534,987 en total)
+- Apuestas registradas: **582**  ($28,560,487 en total)
 - Resueltas: **561** — 326 ganadas / 235 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 148
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 111111111115 | 6 | 7 | 0 | 46% | $531,032 | -$3,870 |
 | SDTrading | 7 | 7 | 0 | 50% | $404,936 | -$13,928 |
-| Sassy-Bucket | 6 | 2 | 0 | 75% | $367,758 | +$223,792 |
+| Sassy-Bucket | 6 | 2 | 1 | 75% | $393,258 | +$223,792 |
 | Lakersfan111 | 3 | 4 | 2 | ⚠️ 43% (7) | $324,096 | -$59,242 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 6 | 0 | 40% | $322,000 | -$107,355 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/U 181.5 | Under 181.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Texas Rangers | 1.25 (80¢) | $29,880 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs | Iron Wing | 2.38 (42¢) | $46,349 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils | Arthur Fils | 1.30 (77¢) | $30,830 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 148 en total)_
 | Weaseloftheweek | Game Handicap: FLC (-1.5) vs Nigma Galaxy (+1.5) | Team Falcons | 2.50 (40¢) | $56,312 | -$56,312 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: TS (-1.5) vs B8 (+1.5) | B8 | 2.13 (47¢) | $27,936 | -$27,936 | ❌ Perdida |
 | l7wawaw1 | Sion: Benjamin Hassan vs Geoffrey Blancaneaux | Benjamin Hassan | 2.17 (46¢) | $31,039 | +$36,438 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Yandex - Game 2 Winner | Team Liquid | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
