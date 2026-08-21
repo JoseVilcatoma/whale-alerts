@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 16:46:13 (hora de Perú)
+Actualizado: 2026-08-21 16:48:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **672**  ($34,063,608 en total)
+- Apuestas registradas: **673**  ($34,154,666 en total)
 - Resueltas: **653** — 377 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 168
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 1 | 62% | $6,729,930 | +$596,643 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 39 | 2 | 62% | $6,820,988 | +$596,643 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 34 | 22 | 4 | 61% | $2,518,882 | +$199,623 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | — | ⏳ Pendiente |
 | saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | — | ⏳ Pendiente |
 | Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs | TEAM VISION | 1.19 (84¢) | $41,097 | +$7,828 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend | Team WE | 1.09 (92¢) | $41,545 | +$3,613 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 1.96 (51¢) | $33,405 | — | ⏳ Pendiente |
-| 467j6yj | Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner | FUT Esports | 1.09 (92¢) | $37,314 | +$3,245 | ✅ Ganada |
