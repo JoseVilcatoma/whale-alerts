@@ -10301,5 +10301,35 @@
     "status": "pending",
     "ultimo_fill": 1787354254,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1407,
+    "timestamp": 1787354828,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-det-kc-2026-08-21",
+    "title": "Detroit Tigers vs. Kansas City Royals",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 34236.9076,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787354828,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1408,
+    "timestamp": 1787354912,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-nyj-pit-2026-08-21",
+    "title": "Jets vs. Steelers",
+    "outcome": "Jets",
+    "side": "BUY",
+    "usd": 25278.579200000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787354912,
+    "fills": 1
   }
 ]
