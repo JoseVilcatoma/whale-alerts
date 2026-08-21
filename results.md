@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 03:00:27 (hora de Perú)
+Actualizado: 2026-08-21 03:02:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **599**  ($29,322,310 en total)
+- Apuestas registradas: **599**  ($29,367,310 en total)
 - Resueltas: **585** — 336 ganadas / 249 perdidas (**57%** de acierto)
 - Pendientes: 14
 - Apostadores distintos: 153
@@ -48,10 +48,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
+| highnetworth | 2 | 1 | 1 | ⚠️ 67% (3) | $246,320 | +$86,905 |
 | StasPanda | 2 | 2 | 1 | ⚠️ 50% (4) | $238,768 | -$52,455 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
-| highnetworth | 2 | 1 | 1 | ⚠️ 67% (3) | $201,320 | +$86,905 |
 | 0xheavy888 | 3 | 0 | 1 | ⚠️ 100% (3) | $195,208 | +$36,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
 | Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 153 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | BOOMBOYS.Kiritych | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Liquid | 1.79 (56¢) | $106,260 | — | ⏳ Pendiente |
-| highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $44,413 | — | ⏳ Pendiente |
+| highnetworth | Dota 2: Team Liquid vs Team Falcons - Game 2 Winner | Team Falcons | 2.22 (45¢) | $89,413 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs | Team Falcons | 1.35 (74¢) | $43,462 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs | Team Falcons | 1.39 (72¢) | $46,750 | — | ⏳ Pendiente |
 | zb8 | LoL: EDward Gaming vs ThunderTalk Gaming - Game 1 Winner | EDward Gaming | 1.92 (52¢) | $25,846 | — | ⏳ Pendiente |
