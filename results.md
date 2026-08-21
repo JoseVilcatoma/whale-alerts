@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 16:42:13 (hora de Perú)
+Actualizado: 2026-08-21 16:44:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **672**  ($34,063,608 en total)
-- Resueltas: **652** — 376 ganadas / 276 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **653** — 377 ganadas / 276 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 168
 
 ### Balance
 
-- **Resultado de los apostadores: +$45,807** sobre $33,132,163 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,431** sobre $63,800 (ROI **-6.9%**)
+- **Resultado de los apostadores: +$70,757** sobre $33,160,298 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$4,342** sobre $63,900 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 168 en total)_
 | cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | +$30,351 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | +$6,790 | ✅ Ganada |
-| 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | — | ⏳ Pendiente |
+| 0x5fb6168aE589674AC569d52F934B37c14f34911 | LoL: Team Vitality vs Natus Vincere - Game 1 Winner | Team Vitality | 1.89 (53¢) | $28,134 | +$24,949 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | -$29,510 | ❌ Perdida |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | -$28,190 | ❌ Perdida |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
