@@ -7,10 +7,6 @@
     "username": "swisstony",
     "added_at": 1785452514.9474573
   },
-  "0x1b20a00709dfe648afd26b326394b5e031f83ab0": {
-    "username": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
-    "added_at": 1785457106.843873
-  },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1785544610.9240048
@@ -434,5 +430,9 @@
   "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
     "username": "Wiretransferxyz",
     "added_at": 1787329580.6166523
+  },
+  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
+    "username": "HVAB",
+    "added_at": 1787332285.8498223
   }
 }
