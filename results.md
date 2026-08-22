@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:49:11 (hora de Perú)
+Actualizado: 2026-08-22 13:51:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **821**  ($44,136,248 en total)
+- Apuestas registradas: **823**  ($44,221,264 en total)
 - Resueltas: **776** — 446 ganadas / 330 perdidas (**57%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 191
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 4 | 61% | $8,793,268 | +$522,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 5 | 61% | $8,851,624 | +$522,583 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -38,9 +38,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| Sassy-Bucket | 7 | 4 | 1 | 64% | $493,042 | +$202,943 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
-| Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $58,356 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.61 (62¢) | $26,659 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa | Maya Joint | 1.06 (94¢) | $29,046 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | -$36,755 | ❌ Perdida |
 | jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | -$46,436 | ❌ Perdida |
 | AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
-| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
