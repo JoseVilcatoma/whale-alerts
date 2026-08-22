@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 19:20:28 (hora de Perú)
+Actualizado: 2026-08-21 19:22:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **691**  ($34,926,011 en total)
+- Apuestas registradas: **692**  ($34,958,146 en total)
 - Resueltas: **663** — 382 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | — | ⏳ Pendiente |
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | Nooserac | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Team Falcons - Map 2 Winner | Team Falcons | 1.43 (70¢) | $85,013 | -$85,013 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.61 (62¢) | $129,674 | +$79,478 | ✅ Ganada |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner | Team Yandex | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
