@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 15:47:55 (hora de Perú)
+Actualizado: 2026-08-22 15:50:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **835**  ($44,738,503 en total)
-- Resueltas: **788** — 457 ganadas / 331 perdidas (**58%** de acierto)
-- Pendientes: 47
+- Resueltas: **789** — 458 ganadas / 331 perdidas (**58%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$503,295** sobre $41,450,910 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$4,910** sobre $77,400 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$556,624** sobre $41,508,684 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$4,817** sobre $77,500 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
 | AV23IUa | 9 | 10 | 5 | 47% | $1,209,309 | -$87,804 |
-| pleaseplease123 | 15 | 9 | 1 | 62% | $1,192,623 | +$215,272 |
+| pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | +$26,445 | ✅ Ganada |
 | StasPanda | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.37 (73¢) | $46,366 | +$17,149 | ✅ Ganada |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | — | ⏳ Pendiente |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | +$53,330 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | -$25,015 | ❌ Perdida |
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | -$28,173 | ❌ Perdida |
