@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 01:26:05 (hora de Perú)
+Actualizado: 2026-08-22 01:28:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **712**  ($35,918,788 en total)
+- Apuestas registradas: **713**  ($35,949,568 en total)
 - Resueltas: **701** — 406 ganadas / 295 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 173
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 0 | 60% | $7,276,715 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 16 | 10 | 1 | 62% | $1,400,108 | +$561,259 |
+| 111111111115 | 16 | 10 | 2 | 62% | $1,430,888 | +$561,259 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | — | ⏳ Pendiente |
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | bbb17367162806 | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | +$35,131 | ✅ Ganada |
-| 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | +$2,177 | ✅ Ganada |
