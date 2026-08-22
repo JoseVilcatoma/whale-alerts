@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 12:42:30 (hora de Perú)
+Actualizado: 2026-08-22 12:44:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **799**  ($42,553,958 en total)
-- Resueltas: **746** — 426 ganadas / 320 perdidas (**57%** de acierto)
-- Pendientes: 53
+- Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 187
 
 ### Balance
 
-- **Resultado de los apostadores: -$623,280** sobre $37,914,280 apostados (ROI **-1.6%**)
-- Copiando $100 fijo en cada una: **-$5,434** sobre $73,200 (ROI **-7.4%**)
+- **Resultado de los apostadores: -$110,525** sobre $39,139,247 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$5,208** sobre $74,000 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 71 | 48 | 5 | 60% | $8,737,012 | +$69,601 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 2 | 61% | $8,737,012 | +$522,583 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 0 | 0 | 5 | — | $491,280 | — |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
-| Lakersfan111 | 3 | 7 | 1 | 30% | $382,449 | -$180,083 |
+| Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 0 | ⚠️ 100% (5) | $350,569 | +$39,912 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
@@ -123,11 +123,11 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | -$56,050 | ❌ Perdida |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | — | ⏳ Pendiente |
-| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | — | ⏳ Pendiente |
-| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $336,015 | — | ⏳ Pendiente |
-| fkcvffcjt | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.41 (71¢) | $63,948 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | +$286,794 | ✅ Ganada |
+| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | +$19,840 | ✅ Ganada |
+| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | +$26,250 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $336,015 | +$144,006 | ✅ Ganada |
+| fkcvffcjt | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.41 (71¢) | $63,948 | +$26,120 | ✅ Ganada |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.61 (62¢) | $45,880 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | +$22,181 | ✅ Ganada |
 | suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | -$28,571 | ❌ Perdida |
