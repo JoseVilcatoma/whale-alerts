@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:17:25 (hora de Perú)
+Actualizado: 2026-08-22 18:19:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **857**  ($45,698,293 en total)
+- Apuestas registradas: **858**  ($45,732,293 en total)
 - Resueltas: **827** — 484 ganadas / 343 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 193
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
 | AV23IUa | 13 | 10 | 2 | 57% | $1,259,309 | +$89,122 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 4 | 4 | 2 | 50% | $914,042 | -$545,350 |
+| wr0ngw4yb3tt0r | 4 | 4 | 3 | 50% | $948,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | Sassy-Bucket | 9 | 4 | 4 | 69% | $728,904 | +$250,441 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | +$100,235 | ✅ Ganada |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | +$74,263 | ✅ Ganada |
 | OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | +$22,323 | ✅ Ganada |
-| AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | +$11,792 | ✅ Ganada |

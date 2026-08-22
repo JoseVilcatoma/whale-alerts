@@ -12881,5 +12881,20 @@
     "status": "pending",
     "ultimo_fill": 1787440355,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1750,
+    "timestamp": 1787440690,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mls-mia-tor-2026-08-22-spread-home-1pt5",
+    "title": "Spread: Inter Miami CF (-1.5)",
+    "outcome": "Toronto FC",
+    "side": "BUY",
+    "usd": 33999.9974,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787440690,
+    "fills": 1
   }
 ]
