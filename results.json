@@ -12566,5 +12566,20 @@
     "status": "pending",
     "ultimo_fill": 1787431735,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1691,
+    "timestamp": 1787432202,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-wes5-jac22-2026-08-22",
+    "title": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
+    "outcome": "Jackson McVey",
+    "side": "BUY",
+    "usd": 53053.7553,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787432202,
+    "fills": 1
   }
 ]
