@@ -12401,5 +12401,50 @@
     "status": "pending",
     "ultimo_fill": 1787425279,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1666,
+    "timestamp": 1787425320,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "lal-esp-rea-2026-08-22-rea",
+    "title": "Will Real Madrid CF win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 169671.1587,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787425320,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1667,
+    "timestamp": 1787425398,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "cs2-lgc-ts7-2026-08-22-game2",
+    "title": "Counter-Strike: Legacy vs Spirit - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 31342.0932,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787425398,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1668,
+    "timestamp": 1787425400,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-oak-hou-2026-08-22",
+    "title": "Athletics vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 38231.492399999996,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787425400,
+    "fills": 1
   }
 ]
