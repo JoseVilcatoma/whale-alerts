@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:13:58 (hora de Perú)
+Actualizado: 2026-08-21 21:16:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **698**  ($35,221,567 en total)
-- Resueltas: **665** — 384 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Resueltas: **667** — 386 ganadas / 281 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$214,881** sobre $33,751,455 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,588** sobre $65,100 (ROI **-7.0%**)
+- **Resultado de los apostadores: -$187,053** sobre $33,804,979 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,481** sobre $65,300 (ROI **-6.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 64 | 40 | 8 | 62% | $7,211,542 | +$395,372 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 7 | 62% | $7,211,542 | +$415,234 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 36 | 22 | 6 | 62% | $2,681,197 | +$253,883 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
@@ -79,10 +79,10 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
-| tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | — | ⏳ Pendiente |
+| tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | — | ⏳ Pendiente |
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | — | ⏳ Pendiente |
