@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 05:18:20 (hora de Perú)
+Actualizado: 2026-08-22 05:20:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **728**  ($36,728,687 en total)
-- Resueltas: **703** — 407 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Resueltas: **705** — 409 ganadas / 296 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 175
 
 ### Balance
 
-- **Resultado de los apostadores: -$144,182** sobre $35,629,727 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$4,520** sobre $68,900 (ROI **-6.6%**)
+- **Resultado de los apostadores: -$96,583** sobre $35,730,114 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,421** sobre $69,100 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | StasPanda | 2 | 3 | 1 | ⚠️ 40% (5) | $268,025 | -$95,917 |
-| vd777bond | 1 | 0 | 1 | ⚠️ 100% (1) | $260,386 | +$110,413 |
+| vd777bond | 2 | 0 | 0 | ⚠️ 100% (2) | $260,386 | +$142,934 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 0 | ⚠️ 100% (4) | $252,758 | +$32,549 |
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 175 en total)_
 | tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | — | ⏳ Pendiente |
-| GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | — | ⏳ Pendiente |
+| GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | +$15,078 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.41 (71¢) | $205,432 | — | ⏳ Pendiente |
-| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.45 (69¢) | $72,386 | — | ⏳ Pendiente |
+| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.45 (69¢) | $72,386 | +$32,521 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.70 (27¢) | $55,471 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | — | ⏳ Pendiente |
 | ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | — | ⏳ Pendiente |
