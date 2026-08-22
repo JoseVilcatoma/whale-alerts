@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:05:12 (hora de Perú)
+Actualizado: 2026-08-22 08:07:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **741**  ($37,273,691 en total)
-- Resueltas: **717** — 415 ganadas / 302 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Resueltas: **721** — 418 ganadas / 303 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 178
 
 ### Balance
 
-- **Resultado de los apostadores: -$41,978** sobre $36,463,569 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$4,621** sobre $70,300 (ROI **-6.6%**)
+- **Resultado de los apostadores: -$9,189** sobre $36,590,211 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,444** sobre $70,700 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 69 | 47 | 3 | 59% | $7,699,619 | +$61,835 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 1 | 59% | $7,699,619 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 18 | 11 | 4 | 62% | $1,693,435 | +$728,240 |
+| 111111111115 | 19 | 11 | 3 | 63% | $1,693,435 | +$745,886 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -84,10 +84,10 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | +$128,161 | ✅ Ganada |
 | cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | -$31,299 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | +$7,230 | ✅ Ganada |
 | tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | -$40,721 | ❌ Perdida |
 | GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | +$15,078 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.41 (71¢) | $205,432 | +$83,909 | ✅ Ganada |
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.45 (69¢) | $72,386 | +$32,521 | ✅ Ganada |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | -$45,424 | ❌ Perdida |
 | ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | +$12,055 | ✅ Ganada |
 | StasPanda | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.85 (54¢) | $29,257 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5) | Dplus KIA | 1.59 (63¢) | $30,047 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5) | Dplus KIA | 1.59 (63¢) | $30,047 | +$17,646 | ✅ Ganada |
 | sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | — | ⏳ Pendiente |
 | sulumos | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | Team WE | 1.75 (57¢) | $53,580 | -$53,580 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | LGD Gaming | 2.38 (42¢) | $50,400 | +$69,600 | ✅ Ganada |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | +$14,714 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
-| pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | — | ⏳ Pendiente |
+| pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | +$48,633 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | +$48,188 | ✅ Ganada |
 | gransaaa | Will Brentford FC win on 2026-08-22? | Yes | 2.38 (42¢) | $26,284 | — | ⏳ Pendiente |
 | gransaaa | Will Sunderland AFC win on 2026-08-22? | Yes | 2.70 (37¢) | $28,888 | — | ⏳ Pendiente |
