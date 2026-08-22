@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 17:37:12 (hora de Perú)
+Actualizado: 2026-08-22 17:39:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **848**  ($45,343,591 en total)
+- Apuestas registradas: **849**  ($45,375,613 en total)
 - Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 192
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
-| Sassy-Bucket | 9 | 4 | 2 | 69% | $655,264 | +$250,441 |
+| Sassy-Bucket | 9 | 4 | 3 | 69% | $687,286 | +$250,441 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | +$53,330 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | -$25,015 | ❌ Perdida |
-| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | -$28,173 | ❌ Perdida |
