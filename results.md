@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:26:11 (hora de Perú)
+Actualizado: 2026-08-21 21:28:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **698**  ($35,221,567 en total)
+- Apuestas registradas: **700**  ($35,301,852 en total)
 - Resueltas: **669** — 388 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | — | ⏳ Pendiente |
+| tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | — | ⏳ Pendiente |
 | Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | -$28,190 | ❌ Perdida |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
-| kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | -$29,000 | ❌ Perdida |

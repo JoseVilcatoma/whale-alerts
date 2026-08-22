@@ -10496,5 +10496,35 @@
     "status": "pending",
     "ultimo_fill": 1787364512,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1429,
+    "timestamp": 1787365573,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "wta-gauff-kostyuk-2026-08-21",
+    "title": "Cincinnati Open: Coco Gauff vs Marta Kostyuk",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 25175.2695,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1787365573,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1430,
+    "timestamp": 1787365682,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "dota2-ts8-liquid-2026-08-21",
+    "title": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 55110.56,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787365682,
+    "fills": 1
   }
 ]
