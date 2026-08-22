@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 23:52:02 (hora de Perú)
+Actualizado: 2026-08-21 23:54:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **708**  ($35,645,260 en total)
-- Resueltas: **680** — 394 ganadas / 286 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Resueltas: **682** — 396 ganadas / 286 perdidas (**58%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 172
 
 ### Balance
 
-- **Resultado de los apostadores: +$2,313** sobre $34,391,877 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$4,350** sobre $66,600 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$47,035** sobre $34,453,637 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$4,205** sobre $66,800 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 8 | 62% | $7,276,715 | +$415,234 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 38 | 24 | 2 | 61% | $2,681,197 | +$292,919 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 24 | 1 | 62% | $2,681,197 | +$315,918 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 1 | 60% | $1,374,220 | +$513,071 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 7 | 8 | 0 | 47% | $438,341 | -$47,333 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
-| ferrariChampions2026 | 5 | 3 | 1 | 62% | $322,011 | -$115,999 |
+| ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
 | 0b1 | 9 | 0 | 0 | 100% | $301,699 | +$29,641 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | -$34,237 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | +$22,999 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | +$63,775 | ✅ Ganada |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 | murgionsek | Will Real Betis Balompié win on 2026-08-21? | Yes | 2.08 (48¢) | $32,429 | +$35,131 | ✅ Ganada |
 | 0b1 | Will Erzurumspor FK win on 2026-08-21? | No | 1.06 (94¢) | $34,106 | +$2,177 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Arsenal FC vs. Coventry City FC: O/U 1.5 | Over 1.5 | 1.19 (84¢) | $93,066 | +$17,727 | ✅ Ganada |
-| ferrariChampions2026 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $30,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $30,000 | +$21,724 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $67,727 | +$15,887 | ✅ Ganada |
 | anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | +$11,160 | ✅ Ganada |
