@@ -11051,5 +11051,20 @@
     "status": "pending",
     "ultimo_fill": 1787397831,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1507,
+    "timestamp": 1787399522,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-jdg-tes-2026-08-22",
+    "title": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 26229.786,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787399522,
+    "fills": 1
   }
 ]
