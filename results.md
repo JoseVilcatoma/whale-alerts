@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 16:12:52 (hora de Perú)
+Actualizado: 2026-08-22 16:14:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **838**  ($44,860,711 en total)
-- Resueltas: **799** — 461 ganadas / 338 perdidas (**58%** de acierto)
-- Pendientes: 39
+- Apuestas registradas: **839**  ($44,886,656 en total)
+- Resueltas: **801** — 463 ganadas / 338 perdidas (**58%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$379,070** sobre $41,859,838 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$5,301** sobre $78,500 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$384,226** sobre $41,929,071 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$5,286** sobre $78,700 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
+| Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 0 | 3 | 3 | ⚠️ 0% (3) | $787,302 | -$137,111 |
-| Weaseloftheweek | 9 | 8 | 0 | 53% | $777,079 | -$55,995 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 0b1 | 10 | 0 | 1 | 100% | $376,393 | +$32,022 |
+| 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
 | xifutloong3 | 3 | 8 | 0 | 27% | $338,392 | -$208,419 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | StasPanda | 3 | 4 | 0 | ⚠️ 43% (7) | $314,391 | -$108,025 |
@@ -71,12 +71,13 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | — | ⏳ Pendiente |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | — | ⏳ Pendiente |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | — | ⏳ Pendiente |
-| 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | — | ⏳ Pendiente |
+| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | +$2,769 | ✅ Ganada |
+| 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | +$2,387 | ✅ Ganada |
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | +$17,039 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | +$2,381 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | +$34,214 | ✅ Ganada |
 | ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | -$48,284 | ❌ Perdida |
 | ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
-| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | -$25,826 | ❌ Perdida |

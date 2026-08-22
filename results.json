@@ -12518,7 +12518,7 @@
     "side": "BUY",
     "usd": 37389.43059999999,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787427933,
     "fills": 1
   },
@@ -12533,7 +12533,7 @@
     "side": "BUY",
     "usd": 31843.279200000004,
     "odds_at_bet": 92,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787428417,
     "fills": 1
   },
@@ -12595,6 +12595,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1787432955,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1703,
+    "timestamp": 1787433174,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "wta-pegula-swiatek-2026-08-22",
+    "title": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "usd": 25945.704,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787433174,
     "fills": 1
   }
 ]
