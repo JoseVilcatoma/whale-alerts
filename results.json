@@ -10676,5 +10676,20 @@
     "status": "pending",
     "ultimo_fill": 1787375264,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1467,
+    "timestamp": 1787376173,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "sea-gen-nap-2026-08-22-nap",
+    "title": "Will SSC Napoli win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29640.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787376173,
+    "fills": 1
   }
 ]
