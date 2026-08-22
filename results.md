@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:24:06 (hora de Perú)
+Actualizado: 2026-08-22 14:26:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **831**  ($44,614,415 en total)
+- Apuestas registradas: **832**  ($44,642,770 en total)
 - Resueltas: **779** — 449 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 191
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | +$71,633 | ✅ Ganada |
 | NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | -$28,248 | ❌ Perdida |
-| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $207,841 | +$39,589 | ✅ Ganada |
