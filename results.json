@@ -11081,5 +11081,35 @@
     "status": "pending",
     "ultimo_fill": 1787399956,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1511,
+    "timestamp": 1787401777,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-dnf-drx-2026-08-22-game2",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 47124.271199999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787401777,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1512,
+    "timestamp": 1787401796,
+    "username": "Sickasulu",
+    "wallet": "0xa69d0cd47b794edd9642208409695d35150d509b",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 34466.9764,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1787401796,
+    "fills": 1
   }
 ]
