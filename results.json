@@ -11006,5 +11006,20 @@
     "status": "pending",
     "ultimo_fill": 1787397089,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1501,
+    "timestamp": 1787397160,
+    "username": "WPkingprofit",
+    "wallet": "0xc099e9f11e76b5966994d9aacb950fe7d29a4a37",
+    "slug": "epl-hul-mun-2026-08-22-spread-away-1pt5",
+    "title": "Spread: Manchester United FC (-1.5)",
+    "outcome": "Manchester United FC",
+    "side": "BUY",
+    "usd": 34102.1242,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787397160,
+    "fills": 1
   }
 ]
