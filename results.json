@@ -12023,7 +12023,7 @@
     "side": "BUY",
     "usd": 116155.59,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787421480,
     "fills": 2
   },
@@ -12038,7 +12038,7 @@
     "side": "BUY",
     "usd": 212999.99999799998,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787421538,
     "fills": 2
   },
@@ -12068,7 +12068,7 @@
     "side": "BUY",
     "usd": 235600.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787421905,
     "fills": 2
   },
@@ -12098,7 +12098,7 @@
     "side": "BUY",
     "usd": 37417.08,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787422005,
     "fills": 1
   },
@@ -12113,7 +12113,7 @@
     "side": "BUY",
     "usd": 231879.38,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787422240,
     "fills": 2
   },
@@ -12128,7 +12128,7 @@
     "side": "BUY",
     "usd": 65788.26000000001,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787422339,
     "fills": 2
   },
@@ -12143,7 +12143,7 @@
     "side": "BUY",
     "usd": 77775.28,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787422424,
     "fills": 1
   },
@@ -12173,7 +12173,7 @@
     "side": "BUY",
     "usd": 67882.1694,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787422644,
     "fills": 1
   },
@@ -12715,6 +12715,36 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1787437567,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1725,
+    "timestamp": 1787437850,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-pit-lad-2026-08-22",
+    "title": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "usd": 39834.789,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1787437850,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1730,
+    "timestamp": 1787437856,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-chr52-nas-2026-08-22",
+    "title": "UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims)",
+    "outcome": "Nasrat Haqparast",
+    "side": "BUY",
+    "usd": 70529.7376,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787437856,
     "fills": 1
   }
 ]

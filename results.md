@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 17:28:58 (hora de Perú)
+Actualizado: 2026-08-22 17:31:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **846**  ($45,233,227 en total)
-- Resueltas: **809** — 471 ganadas / 338 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Apuestas registradas: **848**  ($45,343,591 en total)
+- Resueltas: **817** — 477 ganadas / 340 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 192
 
 ### Balance
 
-- **Resultado de los apostadores: +$565,853** sobre $42,419,909 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$4,958** sobre $79,500 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$1,012,940** sobre $43,465,407 apostados (ROI **+2.3%**)
+- Copiando $100 fijo en cada una: **-$4,802** sobre $80,300 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,20 +25,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 77 | 48 | 4 | 62% | $8,937,624 | +$554,847 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 1 | 61% | $2,763,345 | +$279,871 |
-| 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 2 | 61% | $2,803,180 | +$279,871 |
+| 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
-| AV23IUa | 11 | 10 | 3 | 52% | $1,209,309 | +$217 |
+| AV23IUa | 12 | 10 | 2 | 55% | $1,209,309 | +$41,822 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 0 | 3 | 3 | ⚠️ 0% (3) | $787,302 | -$137,111 |
+| Sassy-Bucket | 9 | 4 | 2 | 69% | $655,264 | +$250,441 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| Sassy-Bucket | 9 | 4 | 1 | 69% | $584,735 | +$250,441 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 2 | 2 | ⚠️ 33% (3) | $250,785 | -$8,869 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
-| jjj1995 | 1 | 0 | 1 | ⚠️ 100% (1) | $239,000 | +$11,681 |
+| jjj1995 | 2 | 0 | 0 | ⚠️ 100% (2) | $239,000 | +$111,916 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | — | ⏳ Pendiente |
@@ -107,17 +109,17 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | +$14,017 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | — | ⏳ Pendiente |
-| AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | — | ⏳ Pendiente |
+| AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | +$41,605 | ✅ Ganada |
 | 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | +$3,960 | ✅ Ganada |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | — | ⏳ Pendiente |
-| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | — | ⏳ Pendiente |
-| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | +$47,669 | ✅ Ganada |
+| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | -$65,788 | ❌ Perdida |
+| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | +$142,120 | ✅ Ganada |
+| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | -$37,417 | ❌ Perdida |
 | tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | -$25,374 | ❌ Perdida |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | +$144,400 | ✅ Ganada |
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | +$11,681 | ✅ Ganada |
-| jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | — | ⏳ Pendiente |
+| jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | +$100,235 | ✅ Ganada |
+| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | +$74,263 | ✅ Ganada |
 | OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | +$22,323 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | +$11,792 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | -$25,015 | ❌ Perdida |
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | -$28,173 | ❌ Perdida |
-| tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | +$5,508 | ✅ Ganada |
-| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | +$5,191 | ✅ Ganada |
