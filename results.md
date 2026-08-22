@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:51:16 (hora de Perú)
+Actualizado: 2026-08-22 18:53:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **860**  ($45,794,092 en total)
+- Apuestas registradas: **861**  ($45,839,393 en total)
 - Resueltas: **834** — 486 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 26
-- Apostadores distintos: 193
+- Pendientes: 27
+- Apostadores distintos: 194
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 
-_(mostrando los 40 de mayor monto, de 193 en total)_
+_(mostrando los 40 de mayor monto, de 194 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | -$25,374 | ❌ Perdida |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | +$144,400 | ✅ Ganada |
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | +$11,681 | ✅ Ganada |
-| jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | +$100,235 | ✅ Ganada |

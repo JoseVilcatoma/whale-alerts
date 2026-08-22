@@ -12926,5 +12926,20 @@
     "status": "pending",
     "ultimo_fill": 1787441609,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1760,
+    "timestamp": 1787442744,
+    "username": "tes21sa",
+    "wallet": "0x20b80ebb96e2051540e1d475e4ce122fc282aa04",
+    "slug": "mls-mia-tor-2026-08-22-tor",
+    "title": "Will Toronto FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 45300.806666,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1787442744,
+    "fills": 1
   }
 ]
