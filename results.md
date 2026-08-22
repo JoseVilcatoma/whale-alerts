@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:44:45 (hora de Perú)
+Actualizado: 2026-08-22 14:46:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **832**  ($44,642,770 en total)
+- Apuestas registradas: **833**  ($44,680,160 en total)
 - Resueltas: **779** — 449 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 191
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 0b1 | 9 | 0 | 1 | 100% | $339,004 | +$29,641 |
+| 0b1 | 9 | 0 | 2 | 100% | $376,393 | +$29,641 |
 | xifutloong3 | 3 | 7 | 1 | 30% | $338,392 | -$178,034 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | StasPanda | 2 | 4 | 1 | ⚠️ 33% (6) | $314,391 | -$125,174 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | — | ⏳ Pendiente |
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | +$8,343 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | +$71,633 | ✅ Ganada |
 | NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
-| riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | -$28,248 | ❌ Perdida |
