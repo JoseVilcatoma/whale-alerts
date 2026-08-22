@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 00:26:44 (hora de Perú)
+Actualizado: 2026-08-22 00:28:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **711**  ($35,888,788 en total)
-- Resueltas: **694** — 401 ganadas / 293 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Resueltas: **695** — 402 ganadas / 293 perdidas (**58%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 173
 
 ### Balance
 
-- **Resultado de los apostadores: -$236,077** sobre $35,117,816 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$4,583** sobre $68,000 (ROI **-6.7%**)
+- **Resultado de los apostadores: -$229,489** sobre $35,158,280 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,567** sobre $68,100 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | — | ⏳ Pendiente |
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | — | ⏳ Pendiente |
-| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | — | ⏳ Pendiente |
+| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
 | pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | +$48,188 | ✅ Ganada |
