@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:28:16 (hora de Perú)
+Actualizado: 2026-08-21 21:30:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **700**  ($35,301,852 en total)
-- Resueltas: **669** — 388 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Resueltas: **671** — 390 ganadas / 281 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$71,187** sobre $33,955,199 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,330** sobre $65,500 (ROI **-6.6%**)
+- **Resultado de los apostadores: -$9,543** sobre $34,042,442 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,188** sobre $65,700 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 7 | 62% | $7,211,542 | +$415,234 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 36 | 22 | 6 | 62% | $2,681,197 | +$253,883 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 37 | 22 | 5 | 63% | $2,681,197 | +$290,327 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
-| pleaseplease123 | 13 | 9 | 2 | 59% | $1,134,849 | +$125,076 |
+| pleaseplease123 | 14 | 9 | 1 | 61% | $1,134,849 | +$150,276 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
 | 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | +$2,670 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | +$36,444 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | — | ⏳ Pendiente |
