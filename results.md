@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:09:43 (hora de Perú)
+Actualizado: 2026-08-22 14:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **831**  ($44,614,415 en total)
-- Resueltas: **776** — 446 ganadas / 330 perdidas (**57%** de acierto)
-- Pendientes: 55
+- Resueltas: **777** — 447 ganadas / 330 perdidas (**58%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$386,581** sobre $41,011,547 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$5,252** sobre $76,200 (ROI **-6.9%**)
+- **Resultado de los apostadores: +$396,869** sobre $41,036,737 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$5,212** sobre $76,300 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 6 | 61% | $8,881,624 | +$522,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 75 | 48 | 5 | 61% | $8,881,624 | +$532,871 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | — | ⏳ Pendiente |
 | OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | — | ⏳ Pendiente |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | — | ⏳ Pendiente |
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | — | ⏳ Pendiente |
