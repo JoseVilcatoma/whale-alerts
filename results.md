@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:05:15 (hora de Perú)
+Actualizado: 2026-08-22 11:07:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **783**  ($41,973,914 en total)
+- Apuestas registradas: **784**  ($42,006,833 en total)
 - Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 187
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $32,919 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | — | ⏳ Pendiente |
 | ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | -$40,721 | ❌ Perdida |
-| GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | +$15,078 | ✅ Ganada |

@@ -11771,5 +11771,20 @@
     "status": "pending",
     "ultimo_fill": 1787414704,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1575,
+    "timestamp": 1787414759,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "epl-bre-tot-2026-08-22-bre",
+    "title": "Will Brentford FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32918.83,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787414759,
+    "fills": 1
   }
 ]
