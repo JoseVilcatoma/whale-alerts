@@ -11411,5 +11411,35 @@
     "status": "pending",
     "ultimo_fill": 1787409901,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1547,
+    "timestamp": 1787410079,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "fl1-rcl-aja-2026-08-22-rcl",
+    "title": "Will Racing Club de Lens win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 154439.35,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1787410117,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1548,
+    "timestamp": 1787410097,
+    "username": "0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681",
+    "wallet": "0xc41d736bded9ed1accd6a44235039266219774fd",
+    "slug": "fl1-rcl-aja-2026-08-22-rcl",
+    "title": "Will Racing Club de Lens win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29915.899999999998,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1787410097,
+    "fills": 1
   }
 ]
