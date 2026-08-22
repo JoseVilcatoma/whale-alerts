@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:23:45 (hora de Perú)
+Actualizado: 2026-08-22 18:25:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **859**  ($45,759,497 en total)
-- Resueltas: **827** — 484 ganadas / 343 perdidas (**59%** de acierto)
-- Pendientes: 32
+- Resueltas: **830** — 484 ganadas / 346 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 193
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,385,903** sobre $44,516,522 apostados (ROI **+3.1%**)
-- Copiando $100 fijo en cada una: **-$4,773** sobre $81,300 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,244,713** sobre $44,657,713 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$5,073** sobre $81,600 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 4 | 3 | 50% | $948,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
-| Sassy-Bucket | 9 | 4 | 4 | 69% | $728,904 | +$250,441 |
+| Sassy-Bucket | 9 | 7 | 1 | 56% | $728,904 | +$109,251 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -81,12 +81,12 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
+| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
