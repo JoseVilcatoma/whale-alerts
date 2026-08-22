@@ -10946,5 +10946,20 @@
     "status": "pending",
     "ultimo_fill": 1787393453,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1497,
+    "timestamp": 1787394229,
+    "username": "cdgsv",
+    "wallet": "0x8f052cac064735ee560bd2f919ae8ee35ef0b18e",
+    "slug": "dota2-vsn2-ty-2026-08-22-game2",
+    "title": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 31298.851,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787394229,
+    "fills": 1
   }
 ]
