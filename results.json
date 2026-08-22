@@ -10841,5 +10841,35 @@
     "status": "pending",
     "ultimo_fill": 1787388636,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1487,
+    "timestamp": 1787389213,
+    "username": "vd777bond",
+    "wallet": "0xaabec5bfb0c7e2516900c4066ae58073d59e9158",
+    "slug": "dota2-vsn2-ty-2026-08-22-game1",
+    "title": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 72386.17999799999,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787389213,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1488,
+    "timestamp": 1787389225,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-vsn2-ty-2026-08-22",
+    "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 205432.11,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1787389225,
+    "fills": 1
   }
 ]
