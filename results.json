@@ -12446,5 +12446,35 @@
     "status": "pending",
     "ultimo_fill": 1787425400,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1669,
+    "timestamp": 1787425438,
+    "username": "Rusik7",
+    "wallet": "0xa6a0ef15106e14b2c5422a4d691a2e64ce594469",
+    "slug": "cs2-lgc-ts7-2026-08-22",
+    "title": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 25611.951200000003,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1787425438,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1670,
+    "timestamp": 1787425492,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "atp-cobolli-fils-2026-08-22",
+    "title": "Cincinnati Open: Flavio Cobolli vs Arthur Fils",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "usd": 37305.028,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787425492,
+    "fills": 1
   }
 ]
