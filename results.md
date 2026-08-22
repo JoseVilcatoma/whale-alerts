@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:09:23 (hora de Perú)
+Actualizado: 2026-08-22 11:11:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **786**  ($42,123,962 en total)
+- Apuestas registradas: **787**  ($42,151,215 en total)
 - Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 187
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 22 | 11 | 3 | 67% | $1,889,235 | +$812,555 |
-| 3edmond.dantes | 3 | 4 | 5 | ⚠️ 43% (7) | $1,593,601 | -$248,157 |
+| 3edmond.dantes | 3 | 4 | 6 | ⚠️ 43% (7) | $1,620,854 | -$248,157 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
 | AV23IUa | 9 | 10 | 1 | 47% | $918,784 | -$87,804 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $39,371 | — | ⏳ Pendiente |
 | ndb1 | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $32,919 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | +$128,161 | ✅ Ganada |
 | cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | -$31,299 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | +$7,230 | ✅ Ganada |
-| tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
