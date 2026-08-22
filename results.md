@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 15:58:20 (hora de Perú)
+Actualizado: 2026-08-22 16:00:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **837**  ($44,829,644 en total)
-- Resueltas: **789** — 458 ganadas / 331 perdidas (**58%** de acierto)
-- Pendientes: 48
+- Resueltas: **791** — 459 ganadas / 332 perdidas (**58%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$556,624** sobre $41,508,684 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$4,817** sobre $77,500 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$546,028** sobre $41,568,880 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$4,848** sobre $77,700 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
+| ripley86alien | 0 | 1 | 5 | ⚠️ 0% (1) | $787,302 | -$30,932 |
 | Weaseloftheweek | 9 | 8 | 0 | 53% | $777,079 | -$55,995 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -90,8 +90,8 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | +$14,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa | Maya Joint | 1.06 (94¢) | $29,046 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
-| ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | — | ⏳ Pendiente |
-| BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | — | ⏳ Pendiente |
+| ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | -$30,932 | ❌ Perdida |
+| BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | +$20,336 | ✅ Ganada |
 | ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $74,106 | — | ⏳ Pendiente |
 | norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | — | ⏳ Pendiente |
