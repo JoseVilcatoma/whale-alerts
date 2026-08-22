@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:57:49 (hora de Perú)
+Actualizado: 2026-08-22 08:59:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **749**  ($38,557,192 en total)
+- Apuestas registradas: **751**  ($38,701,242 en total)
 - Resueltas: **722** — 418 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 181
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 3 | 59% | $8,645,071 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 19 | 11 | 3 | 63% | $1,693,435 | +$745,886 |
+| 111111111115 | 19 | 11 | 4 | 63% | $1,781,435 | +$745,886 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | — | ⏳ Pendiente |
+| robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | — | ⏳ Pendiente |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | +$38,888 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
-| tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |

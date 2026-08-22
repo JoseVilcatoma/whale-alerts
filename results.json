@@ -11261,5 +11261,35 @@
     "status": "pending",
     "ultimo_fill": 1787407067,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1535,
+    "timestamp": 1787407094,
+    "username": "robban888",
+    "wallet": "0x384b622131b8897c3e431d5003c82cf7d8f07d78",
+    "slug": "epl-eve-cry-2026-08-22-eve",
+    "title": "Will Everton FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 56050.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787407094,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1536,
+    "timestamp": 1787407144,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 88000.0,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787407144,
+    "fills": 1
   }
 ]
