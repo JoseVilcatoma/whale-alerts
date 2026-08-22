@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 10:26:17 (hora de Perú)
+Actualizado: 2026-08-22 10:28:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **766**  ($40,287,665 en total)
-- Resueltas: **725** — 420 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 41
+- Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 183
 
 ### Balance
 
-- **Resultado de los apostadores: -$61,635** sobre $36,725,714 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,576** sobre $71,100 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$4,032** sobre $36,798,726 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$4,415** sobre $71,300 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 5 | 59% | $8,711,822 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 20 | 11 | 4 | 65% | $1,854,235 | +$754,952 |
+| 111111111115 | 22 | 11 | 2 | 67% | $1,854,235 | +$812,555 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
 | AV23IUa | 9 | 10 | 1 | 47% | $918,784 | -$87,804 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | — | ⏳ Pendiente |
 | suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | — | ⏳ Pendiente |
 | Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner | DN SOOPers | 1.75 (57¢) | $47,124 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner | DN SOOPers | 1.75 (57¢) | $47,124 | +$35,550 | ✅ Ganada |
 | sulumos | LoL: JD Gaming vs Top Esports - Game 1 Winner | Top Esports | 1.92 (52¢) | $49,524 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.82 (55¢) | $26,230 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.35 (74¢) | $25,802 | +$9,066 | ✅ Ganada |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | +$9,474 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | -$30,780 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | +$22,053 | ✅ Ganada |
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | +$110,413 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | -$65,172 | ❌ Perdida |
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | +$14,714 | ✅ Ganada |
