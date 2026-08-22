@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:40:54 (hora de Perú)
+Actualizado: 2026-08-22 08:43:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **742**  ($37,319,571 en total)
+- Apuestas registradas: **744**  ($37,719,533 en total)
 - Resueltas: **721** — 418 ganadas / 303 perdidas (**58%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 178
+- Pendientes: 23
+- Apostadores distintos: 179
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 1 | 59% | $7,699,619 | +$28,345 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 2 | 59% | $8,035,633 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 19 | 11 | 3 | 63% | $1,693,435 | +$745,886 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 
-_(mostrando los 40 de mayor monto, de 178 en total)_
+_(mostrando los 40 de mayor monto, de 179 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $336,015 | — | ⏳ Pendiente |
+| fkcvffcjt | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.41 (71¢) | $63,948 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.61 (62¢) | $45,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | — | ⏳ Pendiente |
 | suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | — | ⏳ Pendiente |
@@ -128,6 +130,4 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | +$13,752 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | -$34,237 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | +$22,999 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |

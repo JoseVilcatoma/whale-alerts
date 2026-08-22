@@ -11156,5 +11156,35 @@
     "status": "pending",
     "ultimo_fill": 1787405768,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1527,
+    "timestamp": 1787406065,
+    "username": "fkcvffcjt",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "dota2-boombo-ts8-2026-08-22",
+    "title": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 63948.159999999996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1787406085,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1528,
+    "timestamp": 1787406086,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-boombo-ts8-2026-08-22",
+    "title": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 336014.51099999994,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1787406086,
+    "fills": 1
   }
 ]
