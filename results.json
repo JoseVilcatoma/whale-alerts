@@ -12866,5 +12866,20 @@
     "status": "pending",
     "ultimo_fill": 1787440013,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1749,
+    "timestamp": 1787440355,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-chc-sea-2026-08-22-total-7pt5",
+    "title": "Chicago Cubs vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 41618.1794,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787440355,
+    "fills": 1
   }
 ]
