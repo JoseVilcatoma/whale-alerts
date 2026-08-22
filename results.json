@@ -10826,5 +10826,20 @@
     "status": "pending",
     "ultimo_fill": 1787388479,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1486,
+    "timestamp": 1787388636,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-vsn2-ty-2026-08-22",
+    "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 55471.34070000001,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1787388636,
+    "fills": 1
   }
 ]

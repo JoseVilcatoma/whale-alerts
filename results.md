@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 03:49:57 (hora de Perú)
+Actualizado: 2026-08-22 03:52:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **720**  ($36,228,731 en total)
+- Apuestas registradas: **721**  ($36,284,202 en total)
 - Resueltas: **703** — 407 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 174
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 1 | 60% | $7,322,139 | +$78,822 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 2 | 60% | $7,377,610 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 16 | 11 | 3 | 59% | $1,511,334 | +$530,479 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.70 (27¢) | $55,471 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | — | ⏳ Pendiente |
 | ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | — | ⏳ Pendiente |
 | StasPanda | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.85 (54¢) | $29,257 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 174 en total)_
 | 0b1 | Will RC Strasbourg Alsace win on 2026-08-21? | No | 1.06 (94¢) | $48,942 | +$3,124 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: CAR (-1.5) | JAX | 1.96 (51¢) | $35,991 | -$35,991 | ❌ Perdida |
 | quavoo | Spread: CAR (-1.5) | CAR | 2.04 (49¢) | $28,720 | +$29,892 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | +$334,530 | ✅ Ganada |
