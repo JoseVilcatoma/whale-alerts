@@ -10661,5 +10661,20 @@
     "status": "pending",
     "ultimo_fill": 1787374820,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1465,
+    "timestamp": 1787375264,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-dnf-drx-2026-08-22",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "usd": 25887.8862,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787375264,
+    "fills": 1
   }
 ]
