@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 22:32:14 (hora de Perú)
+Actualizado: 2026-08-21 22:34:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **700**  ($35,301,852 en total)
-- Resueltas: **676** — 391 ganadas / 285 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Resueltas: **677** — 392 ganadas / 285 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$76,729** sobre $34,221,514 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,455** sobre $66,200 (ROI **-6.7%**)
+- **Resultado de los apostadores: -$71,572** sobre $34,246,689 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,435** sobre $66,300 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | — | ⏳ Pendiente |
-| tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | — | ⏳ Pendiente |
+| tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | +$5,156 | ✅ Ganada |
 | Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | — | ⏳ Pendiente |
