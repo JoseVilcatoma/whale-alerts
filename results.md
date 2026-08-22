@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:05:19 (hora de Perú)
+Actualizado: 2026-08-22 13:07:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **804**  ($43,170,088 en total)
+- Apuestas registradas: **805**  ($43,207,505 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 50
-- Apostadores distintos: 188
+- Pendientes: 51
+- Apostadores distintos: 189
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 
-_(mostrando los 40 de mayor monto, de 188 en total)_
+_(mostrando los 40 de mayor monto, de 189 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | — | ⏳ Pendiente |
 | tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | — | ⏳ Pendiente |
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 188 en total)_
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | +$286,794 | ✅ Ganada |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | +$19,840 | ✅ Ganada |
-| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | +$26,250 | ✅ Ganada |
