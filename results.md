@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 16:08:45 (hora de Perú)
+Actualizado: 2026-08-22 16:10:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **837**  ($44,829,644 en total)
+- Apuestas registradas: **838**  ($44,860,711 en total)
 - Resueltas: **796** — 460 ganadas / 336 perdidas (**58%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 191
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 9 | 10 | 5 | 47% | $1,209,309 | -$87,804 |
 | pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
+| wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
 | ripley86alien | 0 | 3 | 3 | ⚠️ 0% (3) | $787,302 | -$137,111 |
 | Weaseloftheweek | 9 | 8 | 0 | 53% | $777,079 | -$55,995 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | — | ⏳ Pendiente |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | — | ⏳ Pendiente |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | -$48,284 | ❌ Perdida |
 | ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | -$25,826 | ❌ Perdida |
-| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $38,420 | +$7,318 | ✅ Ganada |
