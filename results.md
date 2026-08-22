@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:59:24 (hora de Perú)
+Actualizado: 2026-08-22 14:01:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **823**  ($44,221,264 en total)
+- Apuestas registradas: **825**  ($44,279,177 en total)
 - Resueltas: **776** — 446 ganadas / 330 perdidas (**57%** de acierto)
-- Pendientes: 47
+- Pendientes: 49
 - Apostadores distintos: 191
 
 ### Balance
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 5 | 61% | $8,851,624 | +$522,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 6 | 61% | $8,881,624 | +$522,583 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
 | pleaseplease123 | 15 | 9 | 1 | 62% | $1,192,623 | +$215,272 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| AV23IUa | 9 | 10 | 3 | 47% | $1,011,725 | -$87,804 |
+| AV23IUa | 9 | 10 | 4 | 47% | $1,039,638 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
 | Weaseloftheweek | 7 | 8 | 0 | 47% | $712,661 | -$89,180 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 1.43 (70¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $58,356 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.61 (62¢) | $26,659 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.22 (45¢) | $40,445 | +$49,433 | ✅ Ganada |
 | tony1919 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.32 (76¢) | $40,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | -$36,755 | ❌ Perdida |
-| jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | -$46,436 | ❌ Perdida |
-| AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
