@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:20:01 (hora de Perú)
+Actualizado: 2026-08-22 14:22:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **831**  ($44,614,415 en total)
-- Resueltas: **777** — 447 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 54
+- Resueltas: **779** — 449 ganadas / 330 perdidas (**58%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$396,869** sobre $41,036,737 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$5,212** sobre $76,300 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$437,845** sobre $41,116,903 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,091** sobre $76,500 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 75 | 48 | 5 | 61% | $8,881,624 | +$532,871 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 25 | 1 | 62% | $2,736,345 | +$306,371 |
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | AV23IUa | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 1.43 (70¢) | $27,913 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $58,356 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.61 (62¢) | $26,659 | — | ⏳ Pendiente |
-| ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | — | ⏳ Pendiente |
+| ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | +$14,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa | Maya Joint | 1.06 (94¢) | $29,046 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
 | ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | — | ⏳ Pendiente |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | — | ⏳ Pendiente |
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | +$26,445 | ✅ Ganada |
 | StasPanda | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.37 (73¢) | $46,366 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
