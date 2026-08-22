@@ -11108,7 +11108,7 @@
     "side": "BUY",
     "usd": 34466.9764,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787401796,
     "fills": 1
   },
@@ -11288,7 +11288,7 @@
     "side": "BUY",
     "usd": 88000.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787407144,
     "fills": 1
   },
@@ -11303,7 +11303,7 @@
     "side": "BUY",
     "usd": 60416.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787407607,
     "fills": 1
   },
@@ -11318,7 +11318,7 @@
     "side": "BUY",
     "usd": 336000.00000000006,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787407649,
     "fills": 1
   },
@@ -11333,7 +11333,7 @@
     "side": "BUY",
     "usd": 26124.5022,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787407701,
     "fills": 1
   },
@@ -11348,7 +11348,7 @@
     "side": "BUY",
     "usd": 29875.6374,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787407782,
     "fills": 1
   },
@@ -11498,7 +11498,7 @@
     "side": "BUY",
     "usd": 46436.4719,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787411849,
     "fills": 1
   },
@@ -11618,7 +11618,7 @@
     "side": "BUY",
     "usd": 28247.986,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787413975,
     "fills": 1
   },
@@ -11738,7 +11738,7 @@
     "side": "BUY",
     "usd": 48284.08,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414683,
     "fills": 1
   },
@@ -11768,7 +11768,7 @@
     "side": "BUY",
     "usd": 35000.0,
     "odds_at_bet": 35,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787414704,
     "fills": 1
   },
@@ -11798,7 +11798,7 @@
     "side": "BUY",
     "usd": 39370.825000000004,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414863,
     "fills": 1
   },

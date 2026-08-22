@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 12:30:10 (hora de Perú)
+Actualizado: 2026-08-22 12:32:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **798**  ($42,514,274 en total)
-- Resueltas: **735** — 423 ganadas / 312 perdidas (**58%** de acierto)
-- Pendientes: 63
+- Resueltas: **746** — 426 ganadas / 320 perdidas (**57%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 187
 
 ### Balance
 
-- **Resultado de los apostadores: -$242,190** sobre $37,142,058 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,108** sobre $72,100 (ROI **-7.1%**)
+- **Resultado de los apostadores: -$623,280** sobre $37,914,280 apostados (ROI **-1.6%**)
+- Copiando $100 fijo en cada una: **-$5,434** sobre $73,200 (ROI **-7.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 6 | 59% | $8,737,012 | +$28,345 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 71 | 48 | 5 | 60% | $8,737,012 | +$69,601 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 22 | 11 | 3 | 67% | $1,889,235 | +$812,555 |
+| 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
 | 3edmond.dantes | 3 | 4 | 6 | ⚠️ 43% (7) | $1,620,854 | -$248,157 |
 | pleaseplease123 | 15 | 9 | 1 | 62% | $1,192,623 | +$215,272 |
-| S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
+| S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | AV23IUa | 9 | 10 | 2 | 47% | $943,843 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
@@ -84,11 +84,11 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | — | ⏳ Pendiente |
-| kahe | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $39,371 | — | ⏳ Pendiente |
+| kahe | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $39,371 | -$39,371 | ❌ Perdida |
 | ndb1 | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $32,919 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | +$65,000 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | — | ⏳ Pendiente |
-| ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | — | ⏳ Pendiente |
+| ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | -$48,284 | ❌ Perdida |
 | ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $38,420 | — | ⏳ Pendiente |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | — | ⏳ Pendiente |
 | NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | — | ⏳ Pendiente |
+| riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | -$28,248 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $207,841 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $281,714 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $360,937 | — | ⏳ Pendiente |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.22 (45¢) | $40,445 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.32 (76¢) | $40,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | — | ⏳ Pendiente |
-| jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | — | ⏳ Pendiente |
+| jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | -$46,436 | ❌ Perdida |
 | AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
@@ -114,11 +114,11 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | BoomBoys | 2.27 (44¢) | $36,876 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
 | kindar | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.14 (88¢) | $130,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.38 (42¢) | $29,876 | — | ⏳ Pendiente |
-| norrisfan | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $26,125 | — | ⏳ Pendiente |
-| S-Works | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $336,000 | — | ⏳ Pendiente |
-| hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.38 (42¢) | $29,876 | +$41,257 | ✅ Ganada |
+| norrisfan | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $26,125 | -$26,125 | ❌ Perdida |
+| S-Works | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $336,000 | -$336,000 | ❌ Perdida |
+| hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | -$60,416 | ❌ Perdida |
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | +$132,000 | ✅ Ganada |
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | -$56,050 | ❌ Perdida |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.61 (62¢) | $45,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | — | ⏳ Pendiente |
 | suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | -$28,571 | ❌ Perdida |
-| Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | — | ⏳ Pendiente |
+| Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | -$34,467 | ❌ Perdida |
