@@ -12761,5 +12761,20 @@
     "status": "pending",
     "ultimo_fill": 1787438291,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1741,
+    "timestamp": 1787438810,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "mls-mia-tor-2026-08-22-spread-home-1pt5",
+    "title": "Spread: Inter Miami CF (-1.5)",
+    "outcome": "Inter Miami CF",
+    "side": "BUY",
+    "usd": 37977.2549,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787438810,
+    "fills": 1
   }
 ]
