@@ -10721,5 +10721,35 @@
     "status": "pending",
     "ultimo_fill": 1787379882,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1477,
+    "timestamp": 1787381965,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-we-lgd-2026-08-22",
+    "title": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 50400.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1787381965,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1478,
+    "timestamp": 1787381996,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lol-we-lgd-2026-08-22",
+    "title": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 53579.99999999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787381996,
+    "fills": 1
   }
 ]
