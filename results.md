@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 07:59:03 (hora de Perú)
+Actualizado: 2026-08-22 08:01:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **739**  ($37,200,085 en total)
-- Resueltas: **710** — 411 ganadas / 299 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Apuestas registradas: **740**  ($37,228,657 en total)
+- Resueltas: **717** — 415 ganadas / 302 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 178
 
 ### Balance
 
-- **Resultado de los apostadores: -$31,960** sobre $36,022,827 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$4,465** sobre $69,600 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$41,978** sobre $36,463,569 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,621** sobre $70,300 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 5 | 60% | $7,654,585 | +$78,822 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 69 | 47 | 2 | 59% | $7,654,585 | +$61,835 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 18 | 11 | 4 | 62% | $1,693,435 | +$728,240 |
@@ -71,12 +71,13 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | — | ⏳ Pendiente |
 | Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner | DN SOOPers | 1.75 (57¢) | $47,124 | — | ⏳ Pendiente |
 | sulumos | LoL: JD Gaming vs Top Esports - Game 1 Winner | Top Esports | 1.92 (52¢) | $49,524 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.82 (55¢) | $26,230 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.35 (74¢) | $25,802 | — | ⏳ Pendiente |
-| SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | — | ⏳ Pendiente |
+| SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | -$29,274 | ❌ Perdida |
 | WPkingprofit | Spread: Manchester United FC (-1.5) | Manchester United FC | 2.04 (49¢) | $34,102 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
@@ -87,23 +88,23 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | — | ⏳ Pendiente |
 | GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | +$15,078 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.41 (71¢) | $205,432 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.41 (71¢) | $205,432 | +$83,909 | ✅ Ganada |
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.45 (69¢) | $72,386 | +$32,521 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.70 (27¢) | $55,471 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | — | ⏳ Pendiente |
-| ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.70 (27¢) | $55,471 | -$55,471 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | -$45,424 | ❌ Perdida |
+| ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | +$12,055 | ✅ Ganada |
 | StasPanda | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.85 (54¢) | $29,257 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5) | Dplus KIA | 1.59 (63¢) | $30,047 | — | ⏳ Pendiente |
 | sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | — | ⏳ Pendiente |
 | sulumos | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | Team WE | 1.75 (57¢) | $53,580 | -$53,580 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | LGD Gaming | 2.38 (42¢) | $50,400 | +$69,600 | ✅ Ganada |
-| tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | — | ⏳ Pendiente |
+| tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | +$9,474 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | -$30,780 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | +$110,413 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | -$65,172 | ❌ Perdida |
-| Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | — | ⏳ Pendiente |
+| Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | +$14,714 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
 | pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | -$181,325 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | +$63,775 | ✅ Ganada |
-| ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | +$2,561 | ✅ Ganada |

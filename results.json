@@ -10628,7 +10628,7 @@
     "side": "BUY",
     "usd": 44141.024999999994,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787373923,
     "fills": 1
   },
@@ -10703,7 +10703,7 @@
     "side": "BUY",
     "usd": 29999.999997999996,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787379920,
     "fills": 1
   },
@@ -10808,7 +10808,7 @@
     "side": "BUY",
     "usd": 30999.369599999998,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787388402,
     "fills": 1
   },
@@ -10823,7 +10823,7 @@
     "side": "BUY",
     "usd": 45424.363600000004,
     "odds_at_bet": 28,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787388479,
     "fills": 1
   },
@@ -10838,7 +10838,7 @@
     "side": "BUY",
     "usd": 55471.34070000001,
     "odds_at_bet": 27,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787388636,
     "fills": 1
   },
@@ -10868,7 +10868,7 @@
     "side": "BUY",
     "usd": 205432.11,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787389225,
     "fills": 1
   },
@@ -11033,7 +11033,7 @@
     "side": "BUY",
     "usd": 29273.508,
     "odds_at_bet": 33,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787397498,
     "fills": 1
   },
@@ -11110,6 +11110,21 @@
     "odds_at_bet": 61,
     "status": "pending",
     "ultimo_fill": 1787401796,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1513,
+    "timestamp": 1787403584,
+    "username": "suntori",
+    "wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+    "slug": "lol-jdg-tes-2026-08-22",
+    "title": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 28571.427,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1787403584,
     "fills": 1
   }
 ]
