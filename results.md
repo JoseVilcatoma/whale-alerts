@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:48:42 (hora de Perú)
+Actualizado: 2026-08-22 11:50:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **792**  ($42,317,595 en total)
-- Resueltas: **734** — 423 ganadas / 311 perdidas (**58%** de acierto)
-- Pendientes: 58
+- Resueltas: **735** — 423 ganadas / 312 perdidas (**58%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 187
 
 ### Balance
 
-- **Resultado de los apostadores: -$186,140** sobre $37,086,008 apostados (ROI **-0.5%**)
-- Copiando $100 fijo en cada una: **-$5,008** sobre $72,000 (ROI **-7.0%**)
+- **Resultado de los apostadores: -$242,190** sobre $37,142,058 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,108** sobre $72,100 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | S-Works | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $336,000 | — | ⏳ Pendiente |
 | hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | — | ⏳ Pendiente |
-| robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | — | ⏳ Pendiente |
+| robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | -$56,050 | ❌ Perdida |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | — | ⏳ Pendiente |
