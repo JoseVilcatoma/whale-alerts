@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:21:37 (hora de Perú)
+Actualizado: 2026-08-22 18:23:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **858**  ($45,732,293 en total)
+- Apuestas registradas: **859**  ($45,759,497 en total)
 - Resueltas: **827** — 484 ganadas / 343 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 193
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | +$11,681 | ✅ Ganada |
 | jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | +$100,235 | ✅ Ganada |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | +$74,263 | ✅ Ganada |
-| OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | +$22,323 | ✅ Ganada |
