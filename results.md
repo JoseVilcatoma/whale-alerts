@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 20:59:43 (hora de Perú)
+Actualizado: 2026-08-21 21:01:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **697**  ($35,172,667 en total)
-- Resueltas: **664** — 383 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Resueltas: **665** — 384 ganadas / 281 perdidas (**58%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$217,490** sobre $33,721,455 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,596** sobre $65,000 (ROI **-7.1%**)
+- **Resultado de los apostadores: -$214,881** sobre $33,751,455 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,588** sobre $65,100 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | — | ⏳ Pendiente |
 | flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | — | ⏳ Pendiente |
-| kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
+| kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
