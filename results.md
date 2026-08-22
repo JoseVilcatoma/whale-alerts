@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:52:57 (hora de Perú)
+Actualizado: 2026-08-22 14:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **833**  ($44,680,160 en total)
+- Apuestas registradas: **834**  ($44,712,003 en total)
 - Resueltas: **780** — 450 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 191
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | — | ⏳ Pendiente |
 | 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | — | ⏳ Pendiente |
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $32,369 | -$32,369 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | +$8,343 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | +$71,633 | ✅ Ganada |
-| NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
