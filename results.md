@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 16:00:23 (hora de Perú)
+Actualizado: 2026-08-22 16:02:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **837**  ($44,829,644 en total)
-- Resueltas: **791** — 459 ganadas / 332 perdidas (**58%** de acierto)
-- Pendientes: 46
+- Resueltas: **795** — 460 ganadas / 335 perdidas (**58%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$546,028** sobre $41,568,880 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$4,848** sobre $77,700 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$437,476** sobre $41,727,432 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$5,063** sobre $78,100 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| ripley86alien | 0 | 1 | 5 | ⚠️ 0% (1) | $787,302 | -$30,932 |
+| ripley86alien | 0 | 3 | 3 | ⚠️ 0% (3) | $787,302 | -$137,111 |
 | Weaseloftheweek | 9 | 8 | 0 | 53% | $777,079 | -$55,995 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -92,9 +92,9 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
 | ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | -$30,932 | ❌ Perdida |
 | BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | +$20,336 | ✅ Ganada |
-| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $74,106 | — | ⏳ Pendiente |
-| norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | — | ⏳ Pendiente |
+| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $74,106 | -$74,106 | ❌ Perdida |
+| norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
+| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | -$32,073 | ❌ Perdida |
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | +$14,017 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | — | ⏳ Pendiente |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | — | ⏳ Pendiente |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | — | ⏳ Pendiente |
-| tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | — | ⏳ Pendiente |
+| tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | -$25,374 | ❌ Perdida |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | — | ⏳ Pendiente |
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | — | ⏳ Pendiente |
 | jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | — | ⏳ Pendiente |
