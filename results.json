@@ -10541,5 +10541,20 @@
     "status": "pending",
     "ultimo_fill": 1787369915,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1440,
+    "timestamp": 1787369656,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "epl-ips-sun-2026-08-22-sun",
+    "title": "Will Sunderland AFC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28888.305,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1787369656,
+    "fills": 1
   }
 ]
