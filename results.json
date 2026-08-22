@@ -10436,5 +10436,20 @@
     "status": "pending",
     "ultimo_fill": 1787360483,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1419,
+    "timestamp": 1787362175,
+    "username": "flawfence",
+    "wallet": "0x23d81ba9371e576015c1e562db09c689f56b0288",
+    "slug": "dota2-ts8-liquid-2026-08-21",
+    "title": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 39140.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1787362175,
+    "fills": 1
   }
 ]

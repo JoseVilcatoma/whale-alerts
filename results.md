@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 20:29:03 (hora de Perú)
+Actualizado: 2026-08-21 20:31:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **694**  ($35,027,035 en total)
+- Apuestas registradas: **695**  ($35,066,175 en total)
 - Resueltas: **663** — 382 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | — | ⏳ Pendiente |
 | kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | +$9,490 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.75 (57¢) | $304,456 | +$229,677 | ✅ Ganada |
 | coali10 | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
-| Nooserac | Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs | Team Yandex | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
