@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:51:36 (hora de Perú)
+Actualizado: 2026-08-22 09:53:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **762**  ($39,800,893 en total)
+- Apuestas registradas: **763**  ($39,921,255 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 182
 
 ### Balance
@@ -39,10 +39,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
+| ripley86alien | 0 | 0 | 3 | — | $463,005 | — |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 1 | ⚠️ 100% (4) | $350,569 | +$32,549 |
-| ripley86alien | 0 | 0 | 2 | — | $342,644 | — |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $120,361 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $154,439 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
 | pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | +$48,633 | ✅ Ganada |
-| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | +$48,188 | ✅ Ganada |
