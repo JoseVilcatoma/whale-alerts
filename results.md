@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 05:02:57 (hora de Perú)
+Actualizado: 2026-08-22 05:05:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **726**  ($36,662,865 en total)
+- Apuestas registradas: **727**  ($36,697,865 en total)
 - Resueltas: **703** — 407 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 175
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 175 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | — | ⏳ Pendiente |
 | GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 175 en total)_
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | -$54,905 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | -$31,183 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $29,750 | +$25,342 | ✅ Ganada |
-| flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | -$29,400 | ❌ Perdida |
