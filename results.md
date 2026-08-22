@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 23:29:28 (hora de Perú)
+Actualizado: 2026-08-21 23:31:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **705**  ($35,495,482 en total)
+- Apuestas registradas: **706**  ($35,535,946 en total)
 - Resueltas: **680** — 394 ganadas / 286 perdidas (**58%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 170
+- Pendientes: 26
+- Apostadores distintos: 171
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 | Marcoli | 1 | 3 | 0 | ⚠️ 25% (4) | $174,838 | -$102,609 |
 
-_(mostrando los 40 de mayor monto, de 170 en total)_
+_(mostrando los 40 de mayor monto, de 171 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
 | pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 170 en total)_
 | anon.1980.123 | Will Arsenal FC win on 2026-08-21? | Yes | 1.22 (82¢) | $50,840 | +$11,160 | ✅ Ganada |
 | cnyek | Will Galatasaray SK win on 2026-08-21? | Yes | 1.56 (64¢) | $28,750 | +$16,172 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $58,916 | +$30,351 | ✅ Ganada |
-| Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $28,946 | +$6,790 | ✅ Ganada |

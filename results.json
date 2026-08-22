@@ -10601,5 +10601,20 @@
     "status": "pending",
     "ultimo_fill": 1787372443,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1447,
+    "timestamp": 1787373023,
+    "username": "0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912",
+    "wallet": "0x2aee593a42e2df517cd588827182aa5a144ab327",
+    "slug": "mlb-chc-sea-2026-08-21",
+    "title": "Chicago Cubs vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 40464.5652,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1787373023,
+    "fills": 1
   }
 ]
