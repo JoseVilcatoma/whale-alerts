@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:20:03 (hora de Perú)
+Actualizado: 2026-08-21 21:22:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **698**  ($35,221,567 en total)
-- Resueltas: **667** — 386 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Resueltas: **669** — 388 ganadas / 281 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$187,053** sobre $33,804,979 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,481** sobre $65,300 (ROI **-6.9%**)
+- **Resultado de los apostadores: -$71,187** sobre $33,955,199 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,330** sobre $65,500 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 36 | 22 | 6 | 62% | $2,681,197 | +$253,883 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
-| pleaseplease123 | 12 | 9 | 3 | 57% | $1,134,849 | +$34,659 |
+| pleaseplease123 | 13 | 9 | 2 | 59% | $1,134,849 | +$125,076 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
 | S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |
-| tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | — | ⏳ Pendiente |
+| tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $29,750 | +$25,342 | ✅ Ganada |
 | flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | -$29,400 | ❌ Perdida |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.79 (56¢) | $115,076 | — | ⏳ Pendiente |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.79 (56¢) | $115,076 | +$90,417 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.64 (61¢) | $201,271 | -$201,271 | ❌ Perdida |
 | 0b1 | Will RC Strasbourg Alsace win on 2026-08-21? | No | 1.06 (94¢) | $48,942 | +$3,124 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: CAR (-1.5) | JAX | 1.96 (51¢) | $35,991 | — | ⏳ Pendiente |
