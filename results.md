@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:08:30 (hora de Perú)
+Actualizado: 2026-08-22 09:10:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **754**  ($39,123,783 en total)
+- Apuestas registradas: **755**  ($39,153,658 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 181
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 3 | 59% | $8,645,071 | +$28,345 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 4 | 59% | $8,674,946 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 20 | 11 | 3 | 65% | $1,781,435 | +$754,952 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.38 (42¢) | $29,876 | — | ⏳ Pendiente |
 | norrisfan | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $26,125 | — | ⏳ Pendiente |
 | S-Works | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $336,000 | — | ⏳ Pendiente |
 | hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | +$21,970 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | -$30,192 | ❌ Perdida |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | +$64,996 | ✅ Ganada |
-| flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | -$39,140 | ❌ Perdida |
