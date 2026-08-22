@@ -11421,11 +11421,11 @@
     "title": "Will Racing Club de Lens win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 154439.35,
+    "usd": 285384.45,
     "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1787410117,
-    "fills": 2
+    "ultimo_fill": 1787410143,
+    "fills": 3
   },
   {
     "telegram_msg_id": 1548,
@@ -11466,10 +11466,10 @@
     "title": "Will Racing Club de Lens win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 120361.30000000002,
+    "usd": 176602.276,
     "odds_at_bet": 65,
     "status": "pending",
-    "ultimo_fill": 1787410402,
-    "fills": 2
+    "ultimo_fill": 1787410470,
+    "fills": 3
   }
 ]

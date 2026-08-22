@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:53:36 (hora de Perú)
+Actualizado: 2026-08-22 09:55:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **763**  ($39,921,255 en total)
+- Apuestas registradas: **763**  ($40,108,441 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
 - Pendientes: 39
 - Apostadores distintos: 182
@@ -33,13 +33,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
+| ripley86alien | 0 | 0 | 3 | — | $650,191 | — |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
-| ripley86alien | 0 | 0 | 3 | — | $463,005 | — |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 1 | ⚠️ 100% (4) | $350,569 | +$32,549 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $120,361 | — | ⏳ Pendiente |
+| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
-| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $154,439 | — | ⏳ Pendiente |
+| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $285,384 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $188,204 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | BoomBoys | 2.27 (44¢) | $36,876 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
