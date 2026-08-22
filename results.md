@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:35:11 (hora de Perú)
+Actualizado: 2026-08-22 09:37:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **757**  ($39,356,458 en total)
+- Apuestas registradas: **758**  ($39,393,334 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 181
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 4 | 59% | $8,674,946 | +$28,345 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 5 | 59% | $8,711,822 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 20 | 11 | 4 | 65% | $1,854,235 | +$754,952 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | BoomBoys | 2.27 (44¢) | $36,876 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
 | kindar | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.14 (88¢) | $130,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.38 (42¢) | $29,876 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | gransaaa | Will Sunderland AFC win on 2026-08-22? | Yes | 2.70 (37¢) | $28,888 | — | ⏳ Pendiente |
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | +$33,777 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | +$5,156 | ✅ Ganada |
-| Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | +$21,970 | ✅ Ganada |
