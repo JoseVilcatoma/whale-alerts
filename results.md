@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:34:15 (hora de Perú)
+Actualizado: 2026-08-22 13:36:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **813**  ($43,831,924 en total)
+- Apuestas registradas: **815**  ($43,890,997 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 59
+- Pendientes: 61
 - Apostadores distintos: 189
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 9 | 10 | 3 | 47% | $1,011,725 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
-| ripley86alien | 0 | 0 | 3 | — | $650,191 | — |
+| ripley86alien | 0 | 0 | 4 | — | $682,264 | — |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | — | ⏳ Pendiente |
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | BoomBoys | 2.27 (44¢) | $36,876 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $72,800 | — | ⏳ Pendiente |
 | kindar | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.14 (88¢) | $130,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.38 (42¢) | $29,876 | +$41,257 | ✅ Ganada |
-| norrisfan | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $26,125 | -$26,125 | ❌ Perdida |
