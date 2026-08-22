@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:17:43 (hora de Perú)
+Actualizado: 2026-08-22 11:19:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **787**  ($42,151,215 en total)
+- Apuestas registradas: **788**  ($42,180,134 en total)
 - Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 187
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $39,371 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | +$128,161 | ✅ Ganada |
 | cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | -$31,299 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | +$7,230 | ✅ Ganada |
