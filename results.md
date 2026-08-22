@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:44:45 (hora de Perú)
+Actualizado: 2026-08-21 21:46:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **700**  ($35,301,852 en total)
-- Resueltas: **671** — 390 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Resueltas: **673** — 390 ganadas / 283 perdidas (**58%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$9,543** sobre $34,042,442 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,188** sobre $65,700 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$72,862** sobre $34,105,761 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,388** sobre $65,900 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 7 | 62% | $7,211,542 | +$415,234 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 37 | 22 | 5 | 63% | $2,681,197 | +$290,327 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 37 | 23 | 4 | 62% | $2,681,197 | +$259,144 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 14 | 9 | 1 | 61% | $1,134,849 | +$150,276 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | — | ⏳ Pendiente |
 | kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | — | ⏳ Pendiente |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | — | ⏳ Pendiente |
 | Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | -$32,619 | ❌ Perdida |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | -$54,905 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.33 (43¢) | $31,183 | -$31,183 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.85 (54¢) | $29,750 | +$25,342 | ✅ Ganada |
 | flawfence | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.43 (70¢) | $29,400 | -$29,400 | ❌ Perdida |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.79 (56¢) | $115,076 | +$90,417 | ✅ Ganada |
