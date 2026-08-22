@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:03:11 (hora de Perú)
+Actualizado: 2026-08-22 11:05:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **778**  ($41,781,463 en total)
+- Apuestas registradas: **783**  ($41,973,914 en total)
 - Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 51
-- Apostadores distintos: 186
+- Pendientes: 56
+- Apostadores distintos: 187
 
 ### Balance
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 5 | 59% | $8,711,822 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 22 | 11 | 2 | 67% | $1,854,235 | +$812,555 |
+| 111111111115 | 22 | 11 | 3 | 67% | $1,889,235 | +$812,555 |
 | 3edmond.dantes | 3 | 4 | 5 | ⚠️ 43% (7) | $1,593,601 | -$248,157 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
-| vito3corleone | 0 | 0 | 3 | — | $383,180 | — |
+| vito3corleone | 0 | 0 | 4 | — | $413,521 | — |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 1 | ⚠️ 100% (4) | $350,569 | +$32,549 |
@@ -65,12 +65,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 
-_(mostrando los 40 de mayor monto, de 186 en total)_
+_(mostrando los 40 de mayor monto, de 187 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | — | ⏳ Pendiente |
+| ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | — | ⏳ Pendiente |
+| ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
+| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $38,420 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $32,369 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 186 en total)_
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $40,721 | -$40,721 | ❌ Perdida |
 | GEAEW | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.54 (65¢) | $28,001 | +$15,078 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.41 (71¢) | $205,432 | +$83,909 | ✅ Ganada |
-| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner | TEAM VISION | 1.45 (69¢) | $72,386 | +$32,521 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.70 (27¢) | $55,471 | -$55,471 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.57 (28¢) | $45,424 | -$45,424 | ❌ Perdida |
-| ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | +$12,055 | ✅ Ganada |
