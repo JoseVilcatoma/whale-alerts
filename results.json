@@ -10616,5 +10616,35 @@
     "status": "pending",
     "ultimo_fill": 1787373023,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1448,
+    "timestamp": 1787373923,
+    "username": "Bettong",
+    "wallet": "0x63bcf78f77cef62b4a9b8d101a14247bf90292c5",
+    "slug": "dota2-vsn2-ty-2026-08-22",
+    "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 44141.024999999994,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1787373923,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1449,
+    "timestamp": 1787373937,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ngx-boombo-2026-08-22-game1",
+    "title": "Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "usd": 65172.41379300001,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1787373937,
+    "fills": 1
   }
 ]
