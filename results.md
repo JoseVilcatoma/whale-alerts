@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 21:08:00 (hora de Perú)
+Actualizado: 2026-08-21 21:09:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **697**  ($35,172,667 en total)
+- Apuestas registradas: **698**  ($35,221,567 en total)
 - Resueltas: **665** — 384 ganadas / 281 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | — | ⏳ Pendiente |
 | flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map 1 Winner | Spirit | 2.17 (46¢) | $32,200 | +$37,800 | ✅ Ganada |
 | kahe | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $29,000 | -$29,000 | ❌ Perdida |
-| sbimbg | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $40,456 | +$9,490 | ✅ Ganada |

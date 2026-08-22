@@ -10481,5 +10481,20 @@
     "status": "pending",
     "ultimo_fill": 1787362863,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1424,
+    "timestamp": 1787364512,
+    "username": "Kosherlocks",
+    "wallet": "0x82398835fe16616214d928ba87127e28fc1cd9a3",
+    "slug": "mlb-pit-lad-2026-08-21",
+    "title": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 48899.99999900001,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787364512,
+    "fills": 1
   }
 ]
