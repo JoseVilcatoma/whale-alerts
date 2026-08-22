@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:49:32 (hora de Perú)
+Actualizado: 2026-08-22 09:51:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **761**  ($39,765,893 en total)
+- Apuestas registradas: **762**  ($39,800,893 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 182
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | kindar | 1 | 0 | 1 | ⚠️ 100% (1) | $230,000 | +$51,515 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 2 | ⚠️ 50% (2) | $218,416 | +$23,500 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 | 0xheavy888 | 4 | 0 | 0 | ⚠️ 100% (4) | $195,208 | +$55,616 |
 | dsasdaas | 2 | 0 | 0 | ⚠️ 100% (2) | $195,001 | +$86,642 |
-| Winnnnnnning | 1 | 4 | 0 | ⚠️ 20% (5) | $193,233 | -$111,775 |
 
 _(mostrando los 40 de mayor monto, de 182 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $154,439 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $188,204 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
 | pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | +$48,633 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | +$48,188 | ✅ Ganada |
-| gransaaa | Will Brentford FC win on 2026-08-22? | Yes | 2.38 (42¢) | $26,284 | — | ⏳ Pendiente |
