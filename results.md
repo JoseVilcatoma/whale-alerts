@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 01:19:59 (hora de Perú)
+Actualizado: 2026-08-22 01:22:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **711**  ($35,888,788 en total)
-- Resueltas: **700** — 406 ganadas / 294 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Resueltas: **701** — 406 ganadas / 295 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 173
 
 ### Balance
 
-- **Resultado de los apostadores: -$158,642** sobre $35,345,775 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$4,378** sobre $68,600 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$223,815** sobre $35,410,947 apostados (ROI **-0.6%**)
+- Copiando $100 fijo en cada una: **-$4,478** sobre $68,700 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 44 | 1 | 61% | $7,276,715 | +$143,995 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 0 | 60% | $7,276,715 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 16 | 10 | 1 | 62% | $1,400,108 | +$561,259 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | -$65,172 | ❌ Perdida |
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | — | ⏳ Pendiente |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
