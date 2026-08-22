@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 23:58:05 (hora de Perú)
+Actualizado: 2026-08-22 00:00:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **708**  ($35,645,260 en total)
-- Resueltas: **682** — 396 ganadas / 286 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Resueltas: **692** — 400 ganadas / 292 perdidas (**58%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 172
 
 ### Balance
 
-- **Resultado de los apostadores: +$47,035** sobre $34,453,637 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$4,205** sobre $66,800 (ROI **-6.3%**)
+- **Resultado de los apostadores: -$254,072** sobre $35,028,727 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,565** sobre $67,800 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 8 | 62% | $7,276,715 | +$415,234 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 43 | 2 | 61% | $7,276,715 | +$174,187 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 24 | 1 | 62% | $2,681,197 | +$315,918 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 1 | 60% | $1,374,220 | +$513,071 |
@@ -79,12 +79,12 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Game 2 Winner | Team Spirit | 1.82 (55¢) | $58,896 | — | ⏳ Pendiente |
 | gransaaa | Will Brentford FC win on 2026-08-22? | Yes | 2.38 (42¢) | $26,284 | — | ⏳ Pendiente |
 | gransaaa | Will Sunderland AFC win on 2026-08-22? | Yes | 2.70 (37¢) | $28,888 | — | ⏳ Pendiente |
-| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | — | ⏳ Pendiente |
+| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | +$33,777 | ✅ Ganada |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | +$5,156 | ✅ Ganada |
 | Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | +$64,996 | ✅ Ganada |
-| flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | — | ⏳ Pendiente |
+| flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | -$39,140 | ❌ Perdida |
 | kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | +$38,888 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |
@@ -94,19 +94,19 @@ _(mostrando los 40 de mayor monto, de 172 en total)_
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | -$34,237 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | +$22,999 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | -$181,325 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | +$63,775 | ✅ Ganada |
 | ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | +$2,561 | ✅ Ganada |
-| ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
+| ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | -$29,365 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | +$32,336 | ✅ Ganada |
 | 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | +$2,670 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | +$36,444 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
-| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
+| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | -$25,333 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | -$91,058 | ❌ Perdida |
 | saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | — | ⏳ Pendiente |
 | Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | -$32,619 | ❌ Perdida |
 | ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | -$54,905 | ❌ Perdida |
