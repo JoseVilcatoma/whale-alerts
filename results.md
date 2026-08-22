@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:06:48 (hora de Perú)
+Actualizado: 2026-08-22 18:08:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **855**  ($45,619,538 en total)
-- Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
+- Apuestas registradas: **856**  ($45,656,674 en total)
+- Resueltas: **827** — 484 ganadas / 343 perdidas (**59%** de acierto)
 - Pendientes: 29
 - Apostadores distintos: 193
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,375,042** sobre $44,480,162 apostados (ROI **+3.1%**)
-- Copiando $100 fijo en cada una: **-$4,803** sobre $81,200 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,385,903** sobre $44,516,522 apostados (ROI **+3.1%**)
+- Copiando $100 fijo en cada una: **-$4,773** sobre $81,300 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 77 | 49 | 3 | 61% | $8,937,624 | +$517,971 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 2 | 61% | $2,803,180 | +$279,871 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 3 | 61% | $2,840,316 | +$279,871 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | +$22,323 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | +$11,792 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | -$35,055 | ❌ Perdida |

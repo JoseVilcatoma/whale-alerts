@@ -11948,7 +11948,7 @@
     "side": "BUY",
     "usd": 36360.627499,
     "odds_at_bet": 77,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787418987,
     "fills": 1
   },
@@ -12850,6 +12850,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1787439761,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1747,
+    "timestamp": 1787440013,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-nym-cws-2026-08-22",
+    "title": "New York Mets vs. Chicago White Sox",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 37136.05,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787440013,
     "fills": 1
   }
 ]
