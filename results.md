@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 22:38:21 (hora de Perú)
+Actualizado: 2026-08-21 22:40:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **700**  ($35,301,852 en total)
+- Apuestas registradas: **701**  ($35,328,137 en total)
 - Resueltas: **677** — 392 ganadas / 285 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 169
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Brentford FC win on 2026-08-22? | Yes | 2.38 (42¢) | $26,284 | — | ⏳ Pendiente |
 | fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $55,111 | — | ⏳ Pendiente |
 | tennischamp | Cincinnati Open: Coco Gauff vs Marta Kostyuk | Coco Gauff | 1.20 (83¢) | $25,175 | +$5,156 | ✅ Ganada |
 | Kosherlocks | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.45 (69¢) | $48,900 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner | Nigma Galaxy | 2.38 (42¢) | $29,510 | -$29,510 | ❌ Perdida |
 | Sickasulu | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.75 (57¢) | $28,190 | -$28,190 | ❌ Perdida |
 | 007theone1 | Sion: Lorenzo Giustino vs Benjamin Hassan | Benjamin Hassan | 1.27 (79¢) | $61,214 | +$16,272 | ✅ Ganada |
-| ferrariChampions2026 | Sion: Lorenzo Giustino vs Benjamin Hassan | Lorenzo Giustino | 1.85 (54¢) | $29,131 | -$29,131 | ❌ Perdida |
