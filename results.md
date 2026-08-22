@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:46:48 (hora de Perú)
+Actualizado: 2026-08-22 13:49:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **819**  ($44,055,685 en total)
-- Resueltas: **761** — 440 ganadas / 321 perdidas (**58%** de acierto)
-- Pendientes: 58
-- Apostadores distintos: 190
+- Apuestas registradas: **821**  ($44,136,248 en total)
+- Resueltas: **776** — 446 ganadas / 330 perdidas (**57%** de acierto)
+- Pendientes: 45
+- Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$92,175** sobre $40,178,419 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$5,073** sobre $74,700 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$386,581** sobre $41,011,547 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$5,252** sobre $76,200 (ROI **-6.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 3 | 61% | $8,764,222 | +$522,583 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 4 | 61% | $8,793,268 | +$522,583 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -34,11 +34,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 9 | 10 | 3 | 47% | $1,011,725 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
-| Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
+| Weaseloftheweek | 7 | 8 | 0 | 47% | $712,661 | -$89,180 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| vito3corleone | 0 | 0 | 5 | — | $491,280 | — |
+| vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 3 | ⚠️ 50% (2) | $250,785 | +$23,500 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 2 | 2 | ⚠️ 33% (3) | $250,785 | -$8,869 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | jjj1995 | 0 | 0 | 2 | — | $239,000 | — |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 
-_(mostrando los 40 de mayor monto, de 190 en total)_
+_(mostrando los 40 de mayor monto, de 191 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa | Maya Joint | 1.06 (94¢) | $29,046 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
 | ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | — | ⏳ Pendiente |
@@ -100,34 +102,32 @@ _(mostrando los 40 de mayor monto, de 190 en total)_
 | StasPanda | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.37 (73¢) | $46,366 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | — | ⏳ Pendiente |
-| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | — | ⏳ Pendiente |
+| FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | -$25,015 | ❌ Perdida |
+| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | -$28,173 | ❌ Perdida |
 | tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | +$5,508 | ✅ Ganada |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | +$5,191 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | +$87,685 | ✅ Ganada |
 | kahe | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $39,371 | -$39,371 | ❌ Perdida |
-| ndb1 | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $32,919 | — | ⏳ Pendiente |
+| ndb1 | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $32,919 | -$32,919 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | +$65,000 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | +$34,214 | ✅ Ganada |
 | ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | -$48,284 | ❌ Perdida |
-| ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
-| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | — | ⏳ Pendiente |
+| ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
+| Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | -$25,826 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $38,420 | +$7,318 | ✅ Ganada |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $32,369 | — | ⏳ Pendiente |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $32,369 | -$32,369 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | +$8,343 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | — | ⏳ Pendiente |
-| NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $61,021 | +$71,633 | ✅ Ganada |
+| NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | -$28,248 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $207,841 | +$39,589 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $281,714 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $281,714 | +$330,708 | ✅ Ganada |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $360,937 | +$68,750 | ✅ Ganada |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.20 (83¢) | $332,000 | +$68,000 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.22 (45¢) | $40,445 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.22 (45¢) | $40,445 | +$49,433 | ✅ Ganada |
 | tony1919 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.32 (76¢) | $40,000 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | -$36,755 | ❌ Perdida |
 | jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | -$46,436 | ❌ Perdida |
 | AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
-| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $285,384 | — | ⏳ Pendiente |

@@ -10538,7 +10538,7 @@
     "side": "BUY",
     "usd": 26284.045199999997,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787369915,
     "fills": 1
   },
@@ -10598,7 +10598,7 @@
     "side": "BUY",
     "usd": 54507.27150000001,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787372443,
     "fills": 1
   },
@@ -11513,7 +11513,7 @@
     "side": "BUY",
     "usd": 36755.348000000005,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787412149,
     "fills": 1
   },
@@ -11543,7 +11543,7 @@
     "side": "BUY",
     "usd": 40445.1,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787413226,
     "fills": 1
   },
@@ -11588,7 +11588,7 @@
     "side": "BUY",
     "usd": 281714.0326,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787413874,
     "fills": 2
   },
@@ -11633,7 +11633,7 @@
     "side": "BUY",
     "usd": 27000.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414037,
     "fills": 1
   },
@@ -11648,7 +11648,7 @@
     "side": "BUY",
     "usd": 61020.840000000004,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787414122,
     "fills": 1
   },
@@ -11678,7 +11678,7 @@
     "side": "BUY",
     "usd": 32369.2524,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414533,
     "fills": 1
   },
@@ -11708,7 +11708,7 @@
     "side": "BUY",
     "usd": 25826.086955999996,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414641,
     "fills": 1
   },
@@ -11723,7 +11723,7 @@
     "side": "BUY",
     "usd": 53000.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414663,
     "fills": 1
   },
@@ -11753,7 +11753,7 @@
     "side": "BUY",
     "usd": 30340.85,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787414696,
     "fills": 1
   },
@@ -11783,7 +11783,7 @@
     "side": "BUY",
     "usd": 32918.83,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787414759,
     "fills": 1
   },
@@ -11813,7 +11813,7 @@
     "side": "BUY",
     "usd": 77758.68,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787414931,
     "fills": 1
   },
@@ -11858,7 +11858,7 @@
     "side": "BUY",
     "usd": 25014.519999,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787416199,
     "fills": 1
   },
@@ -11873,7 +11873,7 @@
     "side": "BUY",
     "usd": 28173.263,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787416199,
     "fills": 1
   },
@@ -12310,6 +12310,36 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1787424027,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1645,
+    "timestamp": 1787424507,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-joint-hinojos-2026-08-22",
+    "title": "Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "usd": 29045.567249999996,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787424507,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1646,
+    "timestamp": 1787424521,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-was-det-2026-08-22",
+    "title": "Commanders vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 51517.8612,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1787424521,
     "fills": 1
   }
 ]
