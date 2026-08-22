@@ -11351,5 +11351,20 @@
     "status": "pending",
     "ultimo_fill": 1787407782,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1543,
+    "timestamp": 1787408053,
+    "username": "kindar",
+    "wallet": "0x369f46433349a57cd6d08abf2819da737c09873e",
+    "slug": "lal-esp-rea-2026-08-22-esp",
+    "title": "Will RCD Espanyol de Barcelona win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 129999.99999800001,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1787408055,
+    "fills": 2
   }
 ]
