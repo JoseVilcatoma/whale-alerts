@@ -10793,7 +10793,7 @@
     "side": "BUY",
     "usd": 29256.746400000004,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787387443,
     "fills": 1
   },
@@ -11063,7 +11063,7 @@
     "side": "BUY",
     "usd": 26229.786,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787399522,
     "fills": 1
   },
@@ -11078,7 +11078,7 @@
     "side": "BUY",
     "usd": 49523.8068,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787399956,
     "fills": 1
   },
@@ -11123,7 +11123,7 @@
     "side": "BUY",
     "usd": 28571.427,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787403584,
     "fills": 1
   },
@@ -11845,6 +11845,36 @@
     "odds_at_bet": 84,
     "status": "pending",
     "ultimo_fill": 1787415397,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1587,
+    "timestamp": 1787416199,
+    "username": "FullPicks1",
+    "wallet": "0x9b1e0334569aa1768a07705a859686aad58e82c9",
+    "slug": "epl-bre-tot-2026-08-22-bre",
+    "title": "Will Brentford FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25014.519999,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787416199,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1588,
+    "timestamp": 1787416199,
+    "username": "Qpkwks",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "epl-bre-tot-2026-08-22-bre",
+    "title": "Will Brentford FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28173.263,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787416199,
     "fills": 1
   }
 ]
