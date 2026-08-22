@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:07:39 (hora de Perú)
+Actualizado: 2026-08-22 14:09:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **830**  ($44,581,339 en total)
+- Apuestas registradas: **831**  ($44,614,415 en total)
 - Resueltas: **776** — 446 ganadas / 330 perdidas (**57%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 191
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
-| Weaseloftheweek | 7 | 8 | 1 | 47% | $744,003 | -$89,180 |
+| Weaseloftheweek | 7 | 8 | 2 | 47% | $777,079 | -$89,180 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | — | ⏳ Pendiente |
 | texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | NO-GOD-PLEASE-NO | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | riggggggedGGGGr | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $28,248 | -$28,248 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $207,841 | +$39,589 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.17 (46¢) | $281,714 | +$330,708 | ✅ Ganada |
