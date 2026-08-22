@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 12:17:39 (hora de Perú)
+Actualizado: 2026-08-22 12:19:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **795**  ($42,428,970 en total)
+- Apuestas registradas: **796**  ($42,464,025 en total)
 - Resueltas: **735** — 423 ganadas / 312 perdidas (**58%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 187
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | — | ⏳ Pendiente |
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.37 (73¢) | $46,366 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner | DN SOOPers | 1.75 (57¢) | $47,124 | +$35,550 | ✅ Ganada |
 | sulumos | LoL: JD Gaming vs Top Esports - Game 1 Winner | Top Esports | 1.92 (52¢) | $49,524 | -$49,524 | ❌ Perdida |
-| Lakersfan111 | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.82 (55¢) | $26,230 | -$26,230 | ❌ Perdida |
