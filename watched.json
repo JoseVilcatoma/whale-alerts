@@ -3,10 +3,6 @@
     "username": "swisstony",
     "added_at": 1785452514.9474573
   },
-  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
-    "username": "SDTrading",
-    "added_at": 1785544610.9240048
-  },
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1785546524.999333
@@ -38,10 +34,6 @@
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "BOOMBOYS.Kiritych",
     "added_at": 1786714708.2799232
-  },
-  "0x5a218c7ad04135830a45c41aaed7294df7809318": {
-    "username": "balthazar",
-    "added_at": 1786811347.2198539
   },
   "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748": {
     "username": "3edmond.dantes",
@@ -442,5 +434,9 @@
   "0x168a51f1cac0ad3b166797069382495a8aa10d24": {
     "username": "ripley86alien",
     "added_at": 1787416156.010452
+  },
+  "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83": {
+    "username": "vito3corleone",
+    "added_at": 1787418861.8663726
   }
 }
