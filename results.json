@@ -12701,5 +12701,20 @@
     "status": "pending",
     "ultimo_fill": 1787436521,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1720,
+    "timestamp": 1787437567,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-kc-2026-08-22-total-8pt5",
+    "title": "Detroit Tigers vs. Kansas City Royals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 82250.4788,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787437567,
+    "fills": 1
   }
 ]

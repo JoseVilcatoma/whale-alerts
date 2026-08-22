@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 17:24:49 (hora de Perú)
+Actualizado: 2026-08-22 17:26:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **845**  ($45,150,976 en total)
+- Apuestas registradas: **846**  ($45,233,227 en total)
 - Resueltas: **809** — 471 ganadas / 338 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 192
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
-| pleaseplease123 | 16 | 9 | 1 | 64% | $1,224,133 | +$268,602 |
+| pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
 | AV23IUa | 11 | 10 | 3 | 52% | $1,209,309 | +$217 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | — | ⏳ Pendiente |
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | -$28,173 | ❌ Perdida |
 | tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | +$5,508 | ✅ Ganada |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $27,253 | +$5,191 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $77,759 | +$87,685 | ✅ Ganada |
