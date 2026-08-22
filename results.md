@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 16:29:22 (hora de Perú)
+Actualizado: 2026-08-22 16:31:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **839**  ($44,886,656 en total)
+- Apuestas registradas: **840**  ($44,918,167 en total)
 - Resueltas: **801** — 463 ganadas / 338 perdidas (**58%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 191
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 9 | 4 | 4 | 69% | $2,282,265 | -$50,966 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
+| pleaseplease123 | 16 | 9 | 1 | 64% | $1,224,133 | +$268,602 |
 | AV23IUa | 9 | 10 | 5 | 47% | $1,209,309 | -$87,804 |
-| pleaseplease123 | 16 | 9 | 0 | 64% | $1,192,623 | +$268,602 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | — | ⏳ Pendiente |
 | Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.86 (35¢) | $35,000 | +$65,000 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.13 (47¢) | $30,341 | +$34,214 | ✅ Ganada |
 | ndb1 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.54 (65¢) | $48,284 | -$48,284 | ❌ Perdida |
-| ChinesePro | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
