@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 22:03:09 (hora de Perú)
+Actualizado: 2026-08-21 22:05:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **700**  ($35,301,852 en total)
-- Resueltas: **673** — 390 ganadas / 283 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Resueltas: **676** — 391 ganadas / 285 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$72,862** sobre $34,105,761 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,388** sobre $65,900 (ROI **-6.7%**)
+- **Resultado de los apostadores: -$76,729** sobre $34,221,514 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,455** sobre $66,200 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 7 | 62% | $7,211,542 | +$415,234 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 37 | 23 | 4 | 62% | $2,681,197 | +$259,144 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 38 | 23 | 3 | 62% | $2,681,197 | +$322,919 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 14 | 9 | 1 | 61% | $1,134,849 | +$150,276 |
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| Sassy-Bucket | 6 | 3 | 2 | 67% | $466,383 | +$198,292 |
-| SDTrading | 7 | 7 | 1 | 50% | $438,341 | -$13,928 |
+| Sassy-Bucket | 6 | 4 | 1 | 60% | $466,383 | +$164,055 |
+| SDTrading | 7 | 8 | 0 | 47% | $438,341 | -$47,333 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 0 | 33% | $324,096 | -$153,854 |
 | ferrariChampions2026 | 5 | 3 | 1 | 62% | $322,011 | -$115,999 |
@@ -85,12 +85,12 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
-| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | — | ⏳ Pendiente |
+| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | -$34,237 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Kansas City Royals: O/U 7.5 | Under 7.5 | 2.33 (43¢) | $48,111 | +$63,775 | ✅ Ganada |
 | ferrariChampions2026 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.06 (94¢) | $40,125 | +$2,561 | ✅ Ganada |
 | ndb1 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $29,365 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.61 (62¢) | $52,758 | — | ⏳ Pendiente |
