@@ -11366,5 +11366,20 @@
     "status": "pending",
     "ultimo_fill": 1787408055,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1544,
+    "timestamp": 1787409302,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-boombo-ts8-2026-08-22-game2",
+    "title": "Dota 2: BoomBoys vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 72799.99440000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787409302,
+    "fills": 1
   }
 ]
