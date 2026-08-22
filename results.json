@@ -10478,7 +10478,7 @@
     "side": "BUY",
     "usd": 30192.204599999997,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787362863,
     "fills": 1
   },
@@ -10568,7 +10568,7 @@
     "side": "BUY",
     "usd": 58896.4588,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787370698,
     "fills": 2
   },
@@ -10645,6 +10645,21 @@
     "odds_at_bet": 42,
     "status": "pending",
     "ultimo_fill": 1787373937,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1462,
+    "timestamp": 1787374820,
+    "username": "vd777bond",
+    "wallet": "0xaabec5bfb0c7e2516900c4066ae58073d59e9158",
+    "slug": "dota2-ngx-boombo-2026-08-22",
+    "title": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "usd": 188000.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787374820,
     "fills": 1
   }
 ]
