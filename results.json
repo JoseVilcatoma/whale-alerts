@@ -12206,5 +12206,20 @@
     "status": "pending",
     "ultimo_fill": 1787422721,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1631,
+    "timestamp": 1787423473,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-stl-phi-2026-08-22",
+    "title": "St. Louis Cardinals vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 27904.799299999995,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787423473,
+    "fills": 1
   }
 ]
