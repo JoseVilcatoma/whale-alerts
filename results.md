@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 09:06:20 (hora de Perú)
+Actualizado: 2026-08-22 09:08:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **751**  ($38,701,242 en total)
-- Resueltas: **722** — 418 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Apuestas registradas: **754**  ($39,123,783 en total)
+- Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 181
 
 ### Balance
 
-- **Resultado de los apostadores: -$43,292** sobre $36,624,313 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$4,544** sobre $70,800 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$22,179** sobre $36,686,258 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,476** sobre $71,000 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,11 +27,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 3 | 59% | $8,645,071 | +$28,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 19 | 11 | 4 | 63% | $1,781,435 | +$745,886 |
+| 111111111115 | 20 | 11 | 3 | 65% | $1,781,435 | +$754,952 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
+| S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
-| S-Works | 5 | 2 | 0 | ⚠️ 71% (7) | $729,217 | +$40,679 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| norrisfan | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.75 (57¢) | $26,125 | — | ⏳ Pendiente |
+| S-Works | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.79 (56¢) | $336,000 | — | ⏳ Pendiente |
+| hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | — | ⏳ Pendiente |
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | — | ⏳ Pendiente |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | — | ⏳ Pendiente |
@@ -87,10 +90,10 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner | DN SOOPers | 1.75 (57¢) | $47,124 | — | ⏳ Pendiente |
 | sulumos | LoL: JD Gaming vs Top Esports - Game 1 Winner | Top Esports | 1.92 (52¢) | $49,524 | — | ⏳ Pendiente |
 | Lakersfan111 | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.82 (55¢) | $26,230 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.35 (74¢) | $25,802 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.35 (74¢) | $25,802 | +$9,066 | ✅ Ganada |
 | SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | -$29,274 | ❌ Perdida |
 | WPkingprofit | Spread: Manchester United FC (-1.5) | Manchester United FC | 2.04 (49¢) | $34,102 | -$34,102 | ❌ Perdida |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | +$12,047 | ✅ Ganada |
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | +$128,161 | ✅ Ganada |
 | cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | -$31,299 | ❌ Perdida |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 181 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Portland Fire vs. Toronto Tempo | Portland Fire | 1.75 (57¢) | $30,192 | -$30,192 | ❌ Perdida |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.85 (54¢) | $76,300 | +$64,996 | ✅ Ganada |
 | flawfence | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $39,140 | -$39,140 | ❌ Perdida |
-| kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
-| Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | +$38,888 | ✅ Ganada |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |

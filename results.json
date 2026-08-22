@@ -11003,7 +11003,7 @@
     "side": "BUY",
     "usd": 36142.2825,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787397089,
     "fills": 1
   },
@@ -11048,7 +11048,7 @@
     "side": "BUY",
     "usd": 25802.282999999996,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787397831,
     "fills": 1
   },
@@ -11290,6 +11290,51 @@
     "odds_at_bet": 40,
     "status": "pending",
     "ultimo_fill": 1787407144,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1537,
+    "timestamp": 1787407607,
+    "username": "hansama231",
+    "wallet": "0x381b9294c1b95b61d018ff56312fbcc4897c4d74",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 60416.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787407607,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1538,
+    "timestamp": 1787407649,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 336000.00000000006,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787407649,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1539,
+    "timestamp": 1787407701,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 26124.5022,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787407701,
     "fills": 1
   }
 ]
