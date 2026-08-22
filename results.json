@@ -12261,11 +12261,11 @@
     "title": "Will Paris FC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 45330.700000000004,
+    "usd": 74106.0,
     "odds_at_bet": 46,
     "status": "pending",
-    "ultimo_fill": 1787423795,
-    "fills": 1
+    "ultimo_fill": 1787423913,
+    "fills": 2
   },
   {
     "telegram_msg_id": 1635,
@@ -12280,6 +12280,36 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1787423828,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1636,
+    "timestamp": 1787423961,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "fl1-ogc-lor-2026-08-22-ogc",
+    "title": "Will OGC Nice win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 30932.039999999997,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787423961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1637,
+    "timestamp": 1787424027,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-atl-mil-2026-08-22",
+    "title": "Atlanta Braves vs. Milwaukee Brewers",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 30385.5604,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787424027,
     "fills": 1
   }
 ]

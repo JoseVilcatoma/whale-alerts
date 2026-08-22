@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:38:26 (hora de Perú)
+Actualizado: 2026-08-22 13:40:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **817**  ($43,965,592 en total)
+- Apuestas registradas: **819**  ($44,055,685 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 63
+- Pendientes: 65
 - Apostadores distintos: 190
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | AV23IUa | 9 | 10 | 3 | 47% | $1,011,725 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| ripley86alien | 0 | 0 | 5 | — | $727,595 | — |
+| ripley86alien | 0 | 0 | 6 | — | $787,302 | — |
 | Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -44,10 +44,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
+| xifutloong3 | 3 | 7 | 1 | 30% | $338,392 | -$178,034 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | StasPanda | 2 | 4 | 1 | ⚠️ 33% (6) | $314,391 | -$125,174 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
-| xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
 | 0b1 | 9 | 0 | 0 | 100% | $301,699 | +$29,641 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
@@ -71,8 +71,10 @@ _(mostrando los 40 de mayor monto, de 190 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | — | ⏳ Pendiente |
+| ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | — | ⏳ Pendiente |
 | BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | — | ⏳ Pendiente |
-| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $45,331 | — | ⏳ Pendiente |
+| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $74,106 | — | ⏳ Pendiente |
 | norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | — | ⏳ Pendiente |
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 190 en total)_
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $285,384 | — | ⏳ Pendiente |
-| ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $188,204 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit - Game 2 Winner | BoomBoys | 2.27 (44¢) | $36,876 | — | ⏳ Pendiente |
