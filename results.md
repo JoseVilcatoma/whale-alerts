@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 06:18:10 (hora de Perú)
+Actualizado: 2026-08-22 06:20:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **733**  ($36,987,665 en total)
+- Apuestas registradas: **734**  ($37,016,938 en total)
 - Resueltas: **705** — 409 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 177
+- Pendientes: 29
+- Apostadores distintos: 178
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 
-_(mostrando los 40 de mayor monto, de 177 en total)_
+_(mostrando los 40 de mayor monto, de 178 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | — | ⏳ Pendiente |
 | WPkingprofit | Spread: Manchester United FC (-1.5) | Manchester United FC | 2.04 (49¢) | $34,102 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 177 en total)_
 | 0b1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.10 (91¢) | $26,995 | +$2,670 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Miami Marlins | Miami Marlins | 1.69 (59¢) | $52,444 | +$36,444 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
-| fRibrenlc | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $25,333 | -$25,333 | ❌ Perdida |
