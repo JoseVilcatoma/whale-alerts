@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 17:33:04 (hora de Perú)
+Actualizado: 2026-08-22 17:35:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **848**  ($45,343,591 en total)
-- Resueltas: **817** — 477 ganadas / 340 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 192
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,012,940** sobre $43,465,407 apostados (ROI **+2.3%**)
-- Copiando $100 fijo en cada una: **-$4,802** sobre $80,300 (ROI **-6.0%**)
+- **Resultado de los apostadores: +$1,375,042** sobre $44,480,162 apostados (ROI **+3.1%**)
+- Copiando $100 fijo en cada una: **-$4,803** sobre $81,200 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,24 +24,24 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 77 | 48 | 4 | 62% | $8,937,624 | +$554,847 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 77 | 49 | 3 | 61% | $8,937,624 | +$517,971 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 2 | 61% | $2,803,180 | +$279,871 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
+| 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
-| AV23IUa | 12 | 10 | 2 | 55% | $1,209,309 | +$41,822 |
+| AV23IUa | 13 | 10 | 1 | 57% | $1,209,309 | +$89,122 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
-| ripley86alien | 0 | 3 | 3 | ⚠️ 0% (3) | $787,302 | -$137,111 |
+| ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | Sassy-Bucket | 9 | 4 | 2 | 69% | $655,264 | +$250,441 |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 3 | 4 | 1 | ⚠️ 43% (7) | $381,070 | -$108,025 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 2 | 2 | ⚠️ 33% (3) | $250,785 | -$8,869 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 0 | ⚠️ 20% (5) | $250,785 | -$73,785 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | jjj1995 | 2 | 0 | 0 | ⚠️ 100% (2) | $239,000 | +$111,916 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | -$32,073 | ❌ Perdida |
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | +$14,017 | ✅ Ganada |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | +$9,291 | ✅ Ganada |
 | AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | +$41,605 | ✅ Ganada |
 | 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | +$3,960 | ✅ Ganada |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | +$47,669 | ✅ Ganada |
