@@ -11586,10 +11586,25 @@
     "title": "Will Brentford FC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 220800.0,
+    "usd": 281714.0326,
     "odds_at_bet": 46,
     "status": "pending",
-    "ultimo_fill": 1787413836,
+    "ultimo_fill": 1787413874,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1563,
+    "timestamp": 1787413901,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-int-mon-2026-08-22-int",
+    "title": "Will FC Internazionale Milano win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 68497.8,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1787413901,
     "fills": 1
   }
 ]
