@@ -12041,5 +12041,20 @@
     "status": "pending",
     "ultimo_fill": 1787421538,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1620,
+    "timestamp": 1787421578,
+    "username": "jjj1995",
+    "wallet": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+    "slug": "lal-esp-rea-2026-08-22-rea",
+    "title": "Will Real Madrid CF win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25999.999999000003,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787421578,
+    "fills": 1
   }
 ]

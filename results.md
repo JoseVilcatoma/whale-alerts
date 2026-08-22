@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 12:59:06 (hora de Perú)
+Actualizado: 2026-08-22 13:01:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **801**  ($42,883,114 en total)
+- Apuestas registradas: **802**  ($42,909,114 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 188
 
 ### Balance
@@ -58,11 +58,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 1 | 3 | ⚠️ 50% (2) | $250,785 | +$23,500 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
+| jjj1995 | 0 | 0 | 2 | — | $239,000 | — |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
 | kindar | 1 | 0 | 1 | ⚠️ 100% (1) | $230,000 | +$51,515 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
-| jjj1995 | 0 | 0 | 1 | — | $213,000 | — |
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 
 _(mostrando los 40 de mayor monto, de 188 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 188 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | — | ⏳ Pendiente |
 | jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | — | ⏳ Pendiente |
 | OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 188 en total)_
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | +$26,250 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $336,015 | +$144,006 | ✅ Ganada |
 | fkcvffcjt | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.41 (71¢) | $63,948 | +$26,120 | ✅ Ganada |
-| SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.61 (62¢) | $45,880 | — | ⏳ Pendiente |
