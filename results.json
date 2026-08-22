@@ -10991,5 +10991,20 @@
     "status": "pending",
     "ultimo_fill": 1787396044,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1500,
+    "timestamp": 1787397089,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-nip-ig1-2026-08-22",
+    "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 36142.2825,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1787397089,
+    "fills": 1
   }
 ]
