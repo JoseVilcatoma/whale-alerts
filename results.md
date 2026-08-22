@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:00:29 (hora de Perú)
+Actualizado: 2026-08-22 18:02:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **853**  ($45,538,409 en total)
+- Apuestas registradas: **854**  ($45,569,538 en total)
 - Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 193
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | -$35,055 | ❌ Perdida |
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | +$26,445 | ✅ Ganada |

@@ -12821,5 +12821,20 @@
     "status": "pending",
     "ultimo_fill": 1787439144,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1745,
+    "timestamp": 1787439708,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "mls-orl-rsl-2026-08-22-orl",
+    "title": "Will Orlando City SC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31129.392,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787439708,
+    "fills": 1
   }
 ]
