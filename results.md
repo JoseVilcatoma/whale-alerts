@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 18:02:33 (hora de Perú)
+Actualizado: 2026-08-22 18:04:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **854**  ($45,569,538 en total)
+- Apuestas registradas: **855**  ($45,619,538 en total)
 - Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 193
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
-| AV23IUa | 13 | 10 | 1 | 57% | $1,209,309 | +$89,122 |
+| AV23IUa | 13 | 10 | 2 | 57% | $1,259,309 | +$89,122 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 4 | 4 | 2 | 50% | $914,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 193 en total)_
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | +$11,792 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | -$35,055 | ❌ Perdida |
-| cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |

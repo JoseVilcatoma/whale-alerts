@@ -12836,5 +12836,20 @@
     "status": "pending",
     "ultimo_fill": 1787439708,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1746,
+    "timestamp": 1787439761,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-nakashi-tiafoe-2026-08-22",
+    "title": "Cincinnati Open: Brandon Nakashima vs Frances Tiafoe",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "usd": 49999.999999,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787439761,
+    "fills": 1
   }
 ]
