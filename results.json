@@ -10961,5 +10961,20 @@
     "status": "pending",
     "ultimo_fill": 1787394229,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1498,
+    "timestamp": 1787394798,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-vsn2-ty-2026-08-22-game2",
+    "title": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "usd": 109174.45910000001,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1787394798,
+    "fills": 1
   }
 ]

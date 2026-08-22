@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 05:32:35 (hora de Perú)
+Actualizado: 2026-08-22 05:34:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **729**  ($36,759,986 en total)
+- Apuestas registradas: **730**  ($36,869,160 en total)
 - Resueltas: **705** — 409 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 176
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 5 | 60% | $7,654,585 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 16 | 11 | 3 | 59% | $1,511,334 | +$530,479 |
+| 111111111115 | 16 | 11 | 4 | 59% | $1,620,509 | +$530,479 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 176 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | — | ⏳ Pendiente |
 | cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 176 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.63 (38¢) | $91,058 | -$91,058 | ❌ Perdida |
 | saftey-first | Spread: CAR (-1.5) | CAR | 1.92 (52¢) | $44,660 | +$41,225 | ✅ Ganada |
 | Parz1vaI | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $32,619 | -$32,619 | ❌ Perdida |
-| ferrariChampions2026 | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $54,905 | -$54,905 | ❌ Perdida |
