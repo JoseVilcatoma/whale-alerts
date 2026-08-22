@@ -12176,5 +12176,35 @@
     "status": "pending",
     "ultimo_fill": 1787422644,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1629,
+    "timestamp": 1787422688,
+    "username": "0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "gsc-bvb-bmu-2026-08-22-total-1pt5",
+    "title": "Borussia Dortmund vs. Bayern Munich: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 93939.4638,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1787422697,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1630,
+    "timestamp": 1787422721,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-lgc-ts7-2026-08-22",
+    "title": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 27210.216,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787422721,
+    "fills": 1
   }
 ]
