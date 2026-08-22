@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-21 22:48:33 (hora de Perú)
+Actualizado: 2026-08-21 22:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **702**  ($35,357,025 en total)
-- Resueltas: **677** — 392 ganadas / 285 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Resueltas: **678** — 392 ganadas / 286 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 169
 
 ### Balance
 
-- **Resultado de los apostadores: -$71,572** sobre $34,246,689 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$4,435** sobre $66,300 (ROI **-6.7%**)
+- **Resultado de los apostadores: -$101,572** sobre $34,276,689 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$4,535** sobre $66,400 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 65 | 40 | 7 | 62% | $7,211,542 | +$415,234 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 38 | 23 | 3 | 62% | $2,681,197 | +$322,919 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 38 | 24 | 2 | 61% | $2,681,197 | +$292,919 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 15 | 10 | 0 | 60% | $1,315,323 | +$513,071 |
 | pleaseplease123 | 14 | 9 | 1 | 61% | $1,134,849 | +$150,276 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 169 en total)_
 | kahe | Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe | Frances Tiafoe | 1.09 (92¢) | $30,000 | +$2,609 | ✅ Ganada |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $38,888 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
 | tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | — | ⏳ Pendiente |
