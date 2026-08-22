@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 10:46:39 (hora de Perú)
+Actualizado: 2026-08-22 10:48:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **769**  ($40,700,111 en total)
+- Apuestas registradas: **770**  ($41,061,048 en total)
 - Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 184
 
 ### Balance
@@ -28,9 +28,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 22 | 11 | 2 | 67% | $1,854,235 | +$812,555 |
+| 3edmond.dantes | 3 | 4 | 2 | ⚠️ 43% (7) | $1,303,539 | -$248,157 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
-| 3edmond.dantes | 3 | 4 | 1 | ⚠️ 43% (7) | $942,601 | -$248,157 |
 | AV23IUa | 9 | 10 | 1 | 47% | $918,784 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $360,937 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.20 (83¢) | $332,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-22? | Yes | 2.22 (45¢) | $40,445 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.32 (76¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 184 en total)_
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | +$9,474 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | -$30,780 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | +$22,053 | ✅ Ganada |
