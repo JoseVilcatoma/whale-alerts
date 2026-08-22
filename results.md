@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:21:53 (hora de Perú)
+Actualizado: 2026-08-22 11:23:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **788**  ($42,180,134 en total)
-- Resueltas: **727** — 422 ganadas / 305 perdidas (**58%** de acierto)
-- Pendientes: 61
+- Resueltas: **730** — 423 ganadas / 307 perdidas (**58%** de acierto)
+- Pendientes: 58
 - Apostadores distintos: 187
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,032** sobre $36,798,726 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$4,415** sobre $71,300 (ROI **-6.2%**)
+- **Resultado de los apostadores: -$52,558** sobre $36,952,426 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,608** sobre $71,600 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 1 | ⚠️ 100% (4) | $350,569 | +$32,549 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 0 | ⚠️ 100% (5) | $350,569 | +$39,912 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
@@ -110,8 +110,8 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | hansama231 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $60,416 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | — | ⏳ Pendiente |
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | — | ⏳ Pendiente |
-| robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | — | ⏳ Pendiente |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | — | ⏳ Pendiente |
+| robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | — | ⏳ Pendiente |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | — | ⏳ Pendiente |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | — | ⏳ Pendiente |
