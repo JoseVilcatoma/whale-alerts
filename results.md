@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:13:31 (hora de Perú)
+Actualizado: 2026-08-22 13:15:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **807**  ($43,505,172 en total)
+- Apuestas registradas: **808**  ($43,582,948 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 189
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 74 | 48 | 2 | 61% | $8,737,012 | +$522,583 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 2 | 61% | $2,736,345 | +$279,926 |
-| 3edmond.dantes | 3 | 4 | 9 | ⚠️ 43% (7) | $2,204,489 | -$248,157 |
+| 3edmond.dantes | 3 | 4 | 10 | ⚠️ 43% (7) | $2,282,265 | -$248,157 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 24 | 11 | 1 | 69% | $1,889,235 | +$1,009,555 |
 | pleaseplease123 | 15 | 9 | 1 | 62% | $1,192,623 | +$215,272 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | — | ⏳ Pendiente |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | — | ⏳ Pendiente |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FUT Esports | 2.50 (40¢) | $88,000 | +$132,000 | ✅ Ganada |
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | -$56,050 | ❌ Perdida |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
