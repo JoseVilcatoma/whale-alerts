@@ -11601,10 +11601,40 @@
     "title": "Will FC Internazionale Milano win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 68497.8,
+    "usd": 207841.2,
     "odds_at_bet": 84,
     "status": "pending",
-    "ultimo_fill": 1787413901,
+    "ultimo_fill": 1787413909,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1564,
+    "timestamp": 1787413975,
+    "username": "riggggggedGGGGr",
+    "wallet": "0xf9d6bdeab230b7f65dbe236196d01bad8488730a",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 28247.986,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1787413975,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1565,
+    "timestamp": 1787414037,
+    "username": "NO-GOD-PLEASE-NO",
+    "wallet": "0x5257aa84944804bbb0c718814ebebeeafaca3e2a",
+    "slug": "epl-bre-tot-2026-08-22-bre",
+    "title": "Will Brentford FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787414037,
     "fills": 1
   }
 ]
