@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 15:03:17 (hora de Perú)
+Actualizado: 2026-08-22 15:05:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **834**  ($44,712,003 en total)
-- Resueltas: **780** — 450 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 54
+- Resueltas: **781** — 451 ganadas / 330 perdidas (**58%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$460,167** sobre $41,156,588 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$5,035** sobre $76,600 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$462,548** sobre $41,193,893 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,028** sobre $76,700 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 5 | 0 | 1 | ⚠️ 100% (5) | $444,509 | +$39,912 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 0b1 | 9 | 0 | 2 | 100% | $376,393 | +$29,641 |
+| 0b1 | 10 | 0 | 1 | 100% | $376,393 | +$32,022 |
 | xifutloong3 | 3 | 7 | 1 | 30% | $338,392 | -$178,034 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | StasPanda | 2 | 4 | 1 | ⚠️ 33% (6) | $314,391 | -$125,174 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | — | ⏳ Pendiente |
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | — | ⏳ Pendiente |
+| 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | +$2,381 | ✅ Ganada |
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | — | ⏳ Pendiente |
 | texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | — | ⏳ Pendiente |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $31,342 | — | ⏳ Pendiente |
