@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 14:46:48 (hora de Perú)
+Actualizado: 2026-08-22 14:48:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **833**  ($44,680,160 en total)
-- Resueltas: **779** — 449 ganadas / 330 perdidas (**58%** de acierto)
-- Pendientes: 54
+- Resueltas: **780** — 450 ganadas / 330 perdidas (**58%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$437,845** sobre $41,116,903 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$5,091** sobre $76,500 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$460,167** sobre $41,156,588 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,035** sobre $76,600 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | jjj1995 | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $26,000 | — | ⏳ Pendiente |
 | jjj1995 | Will Bayern Munich win on 2026-08-22? | Yes | 1.47 (68¢) | $213,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.64 (61¢) | $116,156 | — | ⏳ Pendiente |
-| OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | — | ⏳ Pendiente |
+| OOOwhyOOO | Quebec City: Hugo Gaston vs Luca Van Assche | Luca Van Assche | 1.56 (64¢) | $39,684 | +$22,323 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.47 (68¢) | $25,059 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit - Map 1 Winner | Spirit | 1.41 (71¢) | $25,190 | +$10,289 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | — | ⏳ Pendiente |
