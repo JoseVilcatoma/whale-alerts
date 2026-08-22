@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 03:45:45 (hora de Perú)
+Actualizado: 2026-08-22 03:47:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **718**  ($36,152,307 en total)
+- Apuestas registradas: **719**  ($36,183,307 en total)
 - Resueltas: **703** — 407 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 173
+- Pendientes: 16
+- Apostadores distintos: 174
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 
-_(mostrando los 40 de mayor monto, de 173 en total)_
+_(mostrando los 40 de mayor monto, de 174 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | — | ⏳ Pendiente |
 | StasPanda | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.85 (54¢) | $29,257 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5) | Dplus KIA | 1.59 (63¢) | $30,047 | — | ⏳ Pendiente |
 | sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | quavoo | Spread: CAR (-1.5) | CAR | 2.04 (49¢) | $28,720 | +$29,892 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 2.00 (50¢) | $334,530 | +$334,530 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs | Vitality | 1.89 (53¢) | $26,029 | -$26,029 | ❌ Perdida |
-| AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | -$47,892 | ❌ Perdida |
