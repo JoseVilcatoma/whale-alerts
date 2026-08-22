@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 02:22:04 (hora de Perú)
+Actualizado: 2026-08-22 02:24:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **715**  ($36,053,548 en total)
-- Resueltas: **701** — 406 ganadas / 295 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **702** — 406 ganadas / 296 perdidas (**58%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 173
 
 ### Balance
 
-- **Resultado de los apostadores: -$223,815** sobre $35,410,947 apostados (ROI **-0.6%**)
-- Copiando $100 fijo en cada una: **-$4,478** sobre $68,700 (ROI **-6.5%**)
+- **Resultado de los apostadores: -$254,595** sobre $35,441,727 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$4,578** sobre $68,800 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 0 | 60% | $7,276,715 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 16 | 10 | 3 | 62% | $1,481,288 | +$561,259 |
+| 111111111115 | 16 | 11 | 2 | 59% | $1,481,288 | +$530,479 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | sulumos | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | Team WE | 1.75 (57¢) | $53,580 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | LGD Gaming | 2.38 (42¢) | $50,400 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner | BoomBoys | 1.85 (54¢) | $30,780 | -$30,780 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-22? | No | 1.92 (52¢) | $29,640 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group | DN SOOPers | 1.85 (54¢) | $25,888 | — | ⏳ Pendiente |
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | — | ⏳ Pendiente |
