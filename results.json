@@ -10766,5 +10766,20 @@
     "status": "pending",
     "ultimo_fill": 1787383750,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1481,
+    "timestamp": 1787385295,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-dk-gen-2026-08-22-game-handicap-home-1pt5",
+    "title": "Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5)",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 30046.6593,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787385295,
+    "fills": 1
   }
 ]
