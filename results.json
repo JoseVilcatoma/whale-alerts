@@ -11666,5 +11666,35 @@
     "status": "pending",
     "ultimo_fill": 1787414264,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1568,
+    "timestamp": 1787414533,
+    "username": "0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681",
+    "wallet": "0xc41d736bded9ed1accd6a44235039266219774fd",
+    "slug": "epl-bre-tot-2026-08-22-bre",
+    "title": "Will Brentford FC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32369.2524,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787414533,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1569,
+    "timestamp": 1787414539,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-int-mon-2026-08-22-int",
+    "title": "Will FC Internazionale Milano win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38419.7688,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1787414539,
+    "fills": 1
   }
 ]
