@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 02:28:19 (hora de Perú)
+Actualizado: 2026-08-22 02:30:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **715**  ($36,053,548 en total)
+- Apuestas registradas: **716**  ($36,093,004 en total)
 - Resueltas: **702** — 406 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 173
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | — | ⏳ Pendiente |
 | sulumos | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | Team WE | 1.75 (57¢) | $53,580 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | LGD Gaming | 2.38 (42¢) | $50,400 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 173 en total)_
 | AV23IUa | Cincinnati Open: Taylor Fritz vs Brandon Nakashima | Taylor Fritz | 1.56 (64¢) | $47,892 | -$47,892 | ❌ Perdida |
 | murgionsek | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $227,854 | +$53,447 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-08-21? | Yes | 1.23 (81¢) | $100,667 | +$23,613 | ✅ Ganada |
-| Paracellus | Will Real Betis Balompié win on 2026-08-21? | No | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |

@@ -10751,5 +10751,20 @@
     "status": "pending",
     "ultimo_fill": 1787381996,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1480,
+    "timestamp": 1787383750,
+    "username": "sbimbg",
+    "wallet": "0xf5198df69e13937a40d1c76d6f72d9aa067d906b",
+    "slug": "epl-hul-mun-2026-08-22-hul",
+    "title": "Will Hull City AFC win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39456.218700000005,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1787383750,
+    "fills": 1
   }
 ]
