@@ -12656,5 +12656,35 @@
     "status": "pending",
     "ultimo_fill": 1787435804,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1715,
+    "timestamp": 1787436161,
+    "username": "CanadianGoose",
+    "wallet": "0xf9fe29004c5a905c7b78bbb930ac57feea67366b",
+    "slug": "ufc-awint-tercha-2026-08-22",
+    "title": "UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims)",
+    "outcome": "Anthony Wint",
+    "side": "BUY",
+    "usd": 44492.5863,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1787436161,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1716,
+    "timestamp": 1787436163,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-chr52-nas-2026-08-22",
+    "title": "UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims)",
+    "outcome": "Nasrat Haqparast",
+    "side": "BUY",
+    "usd": 38638.6464,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787436163,
+    "fills": 1
   }
 ]
