@@ -11141,5 +11141,20 @@
     "status": "pending",
     "ultimo_fill": 1787403759,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1526,
+    "timestamp": 1787405768,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-atl-mil-2026-08-22",
+    "title": "Atlanta Braves vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 45880.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787405768,
+    "fills": 1
   }
 ]

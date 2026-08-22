@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:34:36 (hora de Perú)
+Actualizado: 2026-08-22 08:36:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **741**  ($37,273,691 en total)
+- Apuestas registradas: **742**  ($37,319,571 en total)
 - Resueltas: **721** — 418 ganadas / 303 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 178
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 3edmond.dantes | 3 | 4 | 0 | ⚠️ 43% (7) | $610,601 | -$248,157 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| SDTrading | 7 | 8 | 1 | 47% | $484,221 | -$47,333 |
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
-| SDTrading | 7 | 8 | 0 | 47% | $438,341 | -$47,333 |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers | 1.61 (62¢) | $45,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.49 (67¢) | $45,034 | — | ⏳ Pendiente |
 | suntori | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 3.33 (30¢) | $28,571 | — | ⏳ Pendiente |
 | Sickasulu | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.64 (61¢) | $34,467 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.72 (58¢) | $31,760 | +$22,999 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs | Team Liquid | 2.70 (37¢) | $181,325 | -$181,325 | ❌ Perdida |
