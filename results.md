@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 13:11:28 (hora de Perú)
+Actualizado: 2026-08-22 13:13:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **806**  ($43,439,384 en total)
+- Apuestas registradas: **807**  ($43,505,172 en total)
 - Resueltas: **754** — 433 ganadas / 321 perdidas (**57%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 189
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | — | ⏳ Pendiente |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | — | ⏳ Pendiente |
 | tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 189 en total)_
 | robban888 | Will Everton FC win on 2026-08-22? | No | 1.69 (59¢) | $56,050 | -$56,050 | ❌ Perdida |
 | robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | +$7,362 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | +$286,794 | ✅ Ganada |

@@ -12116,5 +12116,20 @@
     "status": "pending",
     "ultimo_fill": 1787422240,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1625,
+    "timestamp": 1787422294,
+    "username": "Harahiro",
+    "wallet": "0x1cbf495ed072b485b1ae628b7f98d0d9bd73107a",
+    "slug": "gsc-bvb-bmu-2026-08-22-bmu",
+    "title": "Will Bayern Munich win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 65788.26000000001,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1787422339,
+    "fills": 2
   }
 ]
