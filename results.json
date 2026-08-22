@@ -12551,5 +12551,20 @@
     "status": "pending",
     "ultimo_fill": 1787431331,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1690,
+    "timestamp": 1787431735,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "bra-int-cam-2026-08-22-int",
+    "title": "Will SC Internacional win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38087.15580000001,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787431735,
+    "fills": 1
   }
 ]

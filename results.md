@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 15:50:03 (hora de Perú)
+Actualizado: 2026-08-22 15:52:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **835**  ($44,738,503 en total)
+- Apuestas registradas: **836**  ($44,776,590 en total)
 - Resueltas: **789** — 458 ganadas / 331 perdidas (**58%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 191
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | — | ⏳ Pendiente |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | — | ⏳ Pendiente |
 | 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,826 | -$25,826 | ❌ Perdida |
 | 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $38,420 | +$7,318 | ✅ Ganada |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $32,369 | -$32,369 | ❌ Perdida |
-| 3edmond.dantes | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $43,802 | +$8,343 | ✅ Ganada |
