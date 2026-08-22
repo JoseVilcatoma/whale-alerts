@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 10:22:13 (hora de Perú)
+Actualizado: 2026-08-22 10:24:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **765**  ($40,250,910 en total)
-- Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
+- Apuestas registradas: **766**  ($40,287,665 en total)
+- Resueltas: **725** — 420 ganadas / 305 perdidas (**58%** de acierto)
 - Pendientes: 41
 - Apostadores distintos: 183
 
 ### Balance
 
-- **Resultado de los apostadores: -$22,179** sobre $36,686,258 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$4,476** sobre $71,000 (ROI **-6.3%**)
+- **Resultado de los apostadores: -$61,635** sobre $36,725,714 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$4,576** sobre $71,100 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
 | AV23IUa | 9 | 10 | 1 | 47% | $918,784 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
+| Weaseloftheweek | 7 | 7 | 1 | 50% | $712,661 | -$52,425 |
 | ripley86alien | 0 | 0 | 3 | — | $650,191 | — |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Will Brentford FC win on 2026-08-22? | No | 1.79 (56¢) | $36,755 | — | ⏳ Pendiente |
 | jjj1984 | Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs | FURIA | 1.69 (59¢) | $46,436 | — | ⏳ Pendiente |
 | AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
@@ -120,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | ultrahypedmike | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.39 (72¢) | $30,999 | +$12,055 | ✅ Ganada |
 | StasPanda | LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend | Top Esports | 1.85 (54¢) | $29,257 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Game Handicap: GEN (-1.5) vs Dplus KIA (+1.5) | Dplus KIA | 1.59 (63¢) | $30,047 | +$17,646 | ✅ Ganada |
-| sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | — | ⏳ Pendiente |
+| sbimbg | Will Hull City AFC win on 2026-08-22? | No | 1.12 (89¢) | $39,456 | -$39,456 | ❌ Perdida |
 | sulumos | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | Team WE | 1.75 (57¢) | $53,580 | -$53,580 | ❌ Perdida |
 | BOOMBOYS.Kiritych | LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend | LGD Gaming | 2.38 (42¢) | $50,400 | +$69,600 | ✅ Ganada |
 | tony1919 | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.32 (76¢) | $30,000 | +$9,474 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 183 en total)_
 | vd777bond | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs | BoomBoys | 1.59 (63¢) | $188,000 | +$110,413 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner | Nigma Galaxy | 2.38 (42¢) | $65,172 | -$65,172 | ❌ Perdida |
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | +$14,714 | ✅ Ganada |
-| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
