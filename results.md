@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 16:47:44 (hora de Perú)
+Actualizado: 2026-08-22 16:49:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **841**  ($44,945,167 en total)
-- Resueltas: **805** — 467 ganadas / 338 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Resueltas: **807** — 469 ganadas / 338 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 191
 
 ### Balance
 
-- **Resultado de los apostadores: +$496,668** sobre $42,178,156 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$5,104** sobre $79,100 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$518,355** sobre $42,340,196 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$5,078** sobre $79,300 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 1 | 0 | 1 | ⚠️ 100% (1) | $239,000 | +$11,681 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
-| kindar | 1 | 0 | 1 | ⚠️ 100% (1) | $230,000 | +$51,515 |
+| kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 | Jsram | 3 | 0 | 0 | ⚠️ 100% (3) | $197,340 | +$46,290 |
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 191 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | +$14,017 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | — | ⏳ Pendiente |
 | AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | — | ⏳ Pendiente |
-| 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | — | ⏳ Pendiente |
+| 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | +$3,960 | ✅ Ganada |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | — | ⏳ Pendiente |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $65,788 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | — | ⏳ Pendiente |
