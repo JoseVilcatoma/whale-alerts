@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:45:07 (hora de Perú)
+Actualizado: 2026-08-22 08:47:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **745**  ($37,780,783 en total)
+- Apuestas registradas: **746**  ($37,822,943 en total)
 - Resueltas: **721** — 418 ganadas / 303 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 180
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | — | ⏳ Pendiente |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $336,015 | — | ⏳ Pendiente |
 | fkcvffcjt | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.41 (71¢) | $63,948 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
 | thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | +$13,752 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jets vs. Steelers | Jets | 1.79 (56¢) | $25,279 | +$19,862 | ✅ Ganada |
-| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers | 2.04 (49¢) | $34,237 | -$34,237 | ❌ Perdida |
