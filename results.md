@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 10:03:51 (hora de Perú)
+Actualizado: 2026-08-22 10:05:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **763**  ($40,108,441 en total)
+- Apuestas registradas: **764**  ($40,204,474 en total)
 - Resueltas: **724** — 420 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 182
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 20 | 11 | 4 | 65% | $1,854,235 | +$754,952 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | S-Works | 5 | 2 | 1 | ⚠️ 71% (7) | $1,065,217 | +$40,679 |
+| AV23IUa | 9 | 10 | 1 | 47% | $918,784 | -$87,804 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
-| AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
 | Weaseloftheweek | 7 | 7 | 0 | 50% | $675,906 | -$52,425 |
 | ripley86alien | 0 | 0 | 3 | — | $650,191 | — |
 | beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.49 (67¢) | $96,033 | — | ⏳ Pendiente |
 | ripley86alien | Will Racing Club de Lens win on 2026-08-22? | Yes | 1.54 (65¢) | $176,602 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Racing Club de Lens win on 2026-08-22? | No | 2.86 (35¢) | $29,916 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 182 en total)_
 | Bettong | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | TEAM VISION | 1.33 (75¢) | $44,141 | +$14,714 | ✅ Ganada |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 1.16 (86¢) | $40,465 | +$6,587 | ✅ Ganada |
 | bbb17367162806 | Will Brentford FC win on 2026-08-22? | No | 1.82 (55¢) | $54,507 | — | ⏳ Pendiente |
-| pmesport | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 2.94 (34¢) | $25,053 | +$48,633 | ✅ Ganada |
