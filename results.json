@@ -10406,5 +10406,20 @@
     "status": "pending",
     "ultimo_fill": 1787358086,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1416,
+    "timestamp": 1787358261,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cle-col-2026-08-21-total-10pt5",
+    "title": "Cleveland Guardians vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 38888.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787358261,
+    "fills": 1
   }
 ]
