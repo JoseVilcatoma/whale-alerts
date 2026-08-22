@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 11:30:06 (hora de Perú)
+Actualizado: 2026-08-22 11:32:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **790**  ($42,233,321 en total)
+- Apuestas registradas: **791**  ($42,259,821 en total)
 - Resueltas: **734** — 423 ganadas / 311 perdidas (**58%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 187
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 70 | 48 | 5 | 59% | $8,711,822 | +$28,345 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 1 | 61% | $2,707,697 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 22 | 11 | 3 | 67% | $1,889,235 | +$812,555 |
 | 3edmond.dantes | 3 | 4 | 6 | ⚠️ 43% (7) | $1,620,854 | -$248,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Milwaukee Brewers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | FullPicks1 | Will Brentford FC win on 2026-08-22? | No | 1.85 (54¢) | $25,015 | — | ⏳ Pendiente |
 | Qpkwks | Will Brentford FC win on 2026-08-22? | No | 1.89 (53¢) | $28,173 | — | ⏳ Pendiente |
 | tennischamp | Will FC Internazionale Milano win on 2026-08-22? | Yes | 1.19 (84¢) | $28,918 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 187 en total)_
 | SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | -$29,274 | ❌ Perdida |
 | WPkingprofit | Spread: Manchester United FC (-1.5) | Manchester United FC | 2.04 (49¢) | $34,102 | -$34,102 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | +$12,047 | ✅ Ganada |
-| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
