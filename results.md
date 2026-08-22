@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 06:34:39 (hora de Perú)
+Actualizado: 2026-08-22 06:36:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **735**  ($37,042,740 en total)
-- Resueltas: **705** — 409 ganadas / 296 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Resueltas: **708** — 410 ganadas / 298 perdidas (**58%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 178
 
 ### Balance
 
-- **Resultado de los apostadores: -$96,583** sobre $35,730,114 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$4,421** sobre $69,100 (ROI **-6.4%**)
+- **Resultado de los apostadores: -$47,980** sobre $35,918,847 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$4,503** sobre $69,400 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 68 | 45 | 5 | 60% | $7,654,585 | +$78,822 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 39 | 25 | 0 | 61% | $2,681,197 | +$279,926 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 16 | 11 | 5 | 59% | $1,646,311 | +$530,479 |
+| 111111111115 | 17 | 11 | 4 | 61% | $1,646,311 | +$658,640 |
 | pleaseplease123 | 15 | 9 | 0 | 62% | $1,134,849 | +$215,272 |
 | wr0ngw4yb3tt0r | 4 | 4 | 0 | 50% | $854,975 | -$545,350 |
 | AV23IUa | 9 | 10 | 0 | 47% | $822,751 | -$87,804 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | Lakersfan111 | 3 | 6 | 1 | 33% | $356,219 | -$153,854 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
-| vd777bond | 2 | 0 | 1 | ⚠️ 100% (2) | $308,646 | +$142,934 |
+| vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
 | 0b1 | 9 | 0 | 0 | 100% | $301,699 | +$29,641 |
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 178 en total)_
 | SemyonMarmeladov | Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs | Team Yandex | 3.03 (33¢) | $29,274 | — | ⏳ Pendiente |
 | WPkingprofit | Spread: Manchester United FC (-1.5) | Manchester United FC | 2.04 (49¢) | $34,102 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana | Ninjas in Pyjamas | 1.33 (75¢) | $36,142 | — | ⏳ Pendiente |
-| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | — | ⏳ Pendiente |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | — | ⏳ Pendiente |
-| cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | — | ⏳ Pendiente |
+| vd777bond | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.45 (69¢) | $48,260 | -$48,260 | ❌ Perdida |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | Team Yandex | 2.17 (46¢) | $109,174 | +$128,161 | ✅ Ganada |
+| cdgsv | Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner | TEAM VISION | 1.69 (59¢) | $31,299 | -$31,299 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group | Dplus KIA | 1.23 (81¢) | $30,822 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | Lakersfan111 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | BoomBoys | 2.70 (37¢) | $32,123 | — | ⏳ Pendiente |
