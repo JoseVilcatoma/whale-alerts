@@ -10418,7 +10418,7 @@
     "side": "BUY",
     "usd": 38888.5,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787358261,
     "fills": 1
   },
@@ -10571,5 +10571,20 @@
     "status": "pending",
     "ultimo_fill": 1787370698,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1444,
+    "timestamp": 1787370983,
+    "username": "pmesport",
+    "wallet": "0xef4bce014ad8fd7e1db160693beebcbae87e2577",
+    "slug": "lol-dk-gen-2026-08-22",
+    "title": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 25053.2298,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1787370983,
+    "fills": 1
   }
 ]
