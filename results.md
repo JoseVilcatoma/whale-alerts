@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 17:51:58 (hora de Perú)
+Actualizado: 2026-08-22 17:54:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **851**  ($45,482,409 en total)
+- Apuestas registradas: **853**  ($45,538,409 en total)
 - Resueltas: **826** — 483 ganadas / 343 perdidas (**58%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 192
+- Pendientes: 27
+- Apostadores distintos: 193
 
 ### Balance
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
 | AV23IUa | 13 | 10 | 1 | 57% | $1,209,309 | +$89,122 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 4 | 4 | 1 | 50% | $886,042 | -$545,350 |
+| wr0ngw4yb3tt0r | 4 | 4 | 2 | 50% | $914,042 | -$545,350 |
 | Weaseloftheweek | 9 | 8 | 1 | 53% | $803,025 | -$55,995 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | Sassy-Bucket | 9 | 4 | 3 | 69% | $687,286 | +$250,441 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
 
-_(mostrando los 40 de mayor monto, de 192 en total)_
+_(mostrando los 40 de mayor monto, de 193 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 192 en total)_
 | ExplosiveNinja | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Legacy | 4.00 (25¢) | $35,055 | -$35,055 | ❌ Perdida |
 | cnyek | Will Fenerbahçe SK win on 2026-08-22? | Yes | 1.30 (77¢) | $36,361 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Lions | Lions | 1.92 (52¢) | $28,649 | +$26,445 | ✅ Ganada |
-| StasPanda | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.37 (73¢) | $46,366 | +$17,149 | ✅ Ganada |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 6.5 | Over 6.5 | 1.92 (52¢) | $57,774 | +$53,330 | ✅ Ganada |

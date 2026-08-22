@@ -12791,5 +12791,35 @@
     "status": "pending",
     "ultimo_fill": 1787438957,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1743,
+    "timestamp": 1787439121,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "mls-orl-rsl-2026-08-22-orl",
+    "title": "Will Orlando City SC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787439121,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1744,
+    "timestamp": 1787439144,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mls-mia-tor-2026-08-22-spread-home-1pt5",
+    "title": "Spread: Inter Miami CF (-1.5)",
+    "outcome": "Toronto FC",
+    "side": "BUY",
+    "usd": 27999.999,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1787439144,
+    "fills": 1
   }
 ]
