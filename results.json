@@ -11231,5 +11231,35 @@
     "status": "pending",
     "ultimo_fill": 1787406457,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1533,
+    "timestamp": 1787407055,
+    "username": "0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "epl-eve-cry-2026-08-22-total-0pt5",
+    "title": "Everton FC vs. Crystal Palace FC: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 97811.27130000001,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1787407057,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 1534,
+    "timestamp": 1787407067,
+    "username": "robban888",
+    "wallet": "0x384b622131b8897c3e431d5003c82cf7d8f07d78",
+    "slug": "epl-eve-cry-2026-08-22-cry",
+    "title": "Will Crystal Palace FC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1787407067,
+    "fills": 1
   }
 ]

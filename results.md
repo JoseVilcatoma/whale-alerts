@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 08:55:42 (hora de Perú)
+Actualizado: 2026-08-22 08:57:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **747**  ($38,432,381 en total)
+- Apuestas registradas: **749**  ($38,557,192 en total)
 - Resueltas: **722** — 418 ganadas / 304 perdidas (**58%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 180
+- Pendientes: 27
+- Apostadores distintos: 181
 
 ### Balance
 
@@ -41,6 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 7 | 4 | 0 | 64% | $466,383 | +$202,943 |
 | Lakersfan111 | 3 | 6 | 2 | 33% | $382,449 | -$153,854 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 1 | ⚠️ 100% (4) | $350,569 | +$32,549 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | xifutloong3 | 3 | 7 | 0 | 30% | $308,007 | -$178,034 |
@@ -53,7 +54,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 2 | 3 | 1 | ⚠️ 40% (5) | $268,025 | -$95,917 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 4 | 0 | 0 | ⚠️ 100% (4) | $252,758 | +$32,549 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | rabbitfoot1 | 2 | 1 | 0 | ⚠️ 67% (3) | $233,606 | +$34,615 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | swisstony | 3 | 0 | 0 | ⚠️ 100% (3) | $179,815 | +$20,818 |
 | lIlIlIllllIIIII | 4 | 2 | 0 | ⚠️ 67% (6) | $175,437 | -$4,577 |
 
-_(mostrando los 40 de mayor monto, de 180 en total)_
+_(mostrando los 40 de mayor monto, de 181 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robban888 | Will Crystal Palace FC win on 2026-08-22? | Yes | 3.33 (30¢) | $27,000 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Everton FC vs. Crystal Palace FC: O/U 0.5 | Over 0.5 | 1.08 (93¢) | $97,811 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $609,438 | — | ⏳ Pendiente |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.47 (68¢) | $42,160 | — | ⏳ Pendiente |
 | norrisfan | Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.43 (70¢) | $61,250 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 180 en total)_
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | New York Mets vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 1.49 (67¢) | $32,136 | -$32,136 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
 | tennischamp | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.28 (78¢) | $28,245 | +$7,967 | ✅ Ganada |
-| tikstt | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.72 (58¢) | $35,143 | +$25,449 | ✅ Ganada |
-| thatguythatguy | Pittsburgh Pirates vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.47 (68¢) | $29,223 | +$13,752 | ✅ Ganada |
