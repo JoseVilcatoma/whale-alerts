@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:21:17 (hora de Perú)
+Actualizado: 2026-08-22 21:23:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **876**  ($46,857,004 en total)
-- Resueltas: **853** — 498 ganadas / 355 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Resueltas: **855** — 498 ganadas / 357 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 195
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,267,560** sobre $45,538,098 apostados (ROI **+2.8%**)
-- Copiando $100 fijo en cada una: **-$4,753** sobre $83,900 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,202,973** sobre $45,602,685 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$4,953** sobre $84,100 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | jjj1995 | 2 | 0 | 1 | ⚠️ 100% (2) | $510,080 | +$111,916 |
-| WTSA | 1 | 4 | 4 | ⚠️ 20% (5) | $501,732 | -$163,186 |
+| WTSA | 1 | 6 | 2 | ⚠️ 14% (7) | $501,732 | -$227,773 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
@@ -111,8 +111,8 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 | Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | -$25,946 | ❌ Perdida |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | +$20,711 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | +$31,159 | ✅ Ganada |
-| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | — | ⏳ Pendiente |
-| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | -$38,087 | ❌ Perdida |
+| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | +$2,769 | ✅ Ganada |
 | 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | +$2,387 | ✅ Ganada |
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | +$12,739 | ✅ Ganada |
