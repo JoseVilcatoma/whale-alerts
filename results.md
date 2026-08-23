@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 07:27:47 (hora de Perú)
+Actualizado: 2026-08-23 07:29:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **926**  ($50,073,359 en total)
+- Apuestas registradas: **928**  ($50,223,359 en total)
 - Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 205
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 28 | 12 | 3 | 70% | $2,358,354 | +$1,212,746 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
+| AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
-| AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | jjj1995 | 3 | 1 | 3 | ⚠️ 75% (4) | $952,518 | +$201,800 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 205 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
 | SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | — | ⏳ Pendiente |
 | mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | — | ⏳ Pendiente |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 205 en total)_
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | +$30,333 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $126,744 | +$126,744 | ✅ Ganada |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.37 (73¢) | $53,098 | +$19,639 | ✅ Ganada |
-| kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | +$9,218 | ✅ Ganada |
-| rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | -$32,900 | ❌ Perdida |
