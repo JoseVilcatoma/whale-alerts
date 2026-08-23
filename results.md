@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:15:05 (hora de Perú)
+Actualizado: 2026-08-23 10:18:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **953**  ($51,741,983 en total)
-- Resueltas: **909** — 530 ganadas / 379 perdidas (**58%** de acierto)
-- Pendientes: 44
+- Resueltas: **919** — 535 ganadas / 384 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 210
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,050,820** sobre $49,278,519 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$4,830** sobre $89,300 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$984,236** sobre $49,850,256 apostados (ROI **+2.0%**)
+- Copiando $100 fijo en cada una: **-$5,031** sobre $90,300 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 29 | 13 | 3 | 69% | $2,594,226 | +$1,210,653 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
+| AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
 | pleaseplease123 | 16 | 11 | 1 | 59% | $1,338,652 | +$154,841 |
 | ripley86alien | 3 | 3 | 5 | ⚠️ 50% (6) | $1,210,766 | +$212,992 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 2 | ⚠️ 20% (5) | $429,088 | -$73,785 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 5 | 1 | ⚠️ 17% (6) | $429,088 | -$127,785 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
-| sulumos | 0 | 4 | 1 | ⚠️ 0% (4) | $260,800 | -$203,737 |
+| sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
@@ -89,30 +89,30 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | — | ⏳ Pendiente |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | — | ⏳ Pendiente |
-| tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | — | ⏳ Pendiente |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | +$19,804 | ✅ Ganada |
+| tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | +$24,767 | ✅ Ganada |
 | RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | — | ⏳ Pendiente |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
 | SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | +$40,444 | ✅ Ganada |
 | mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | +$22,148 | ✅ Ganada |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | +$32,286 | ✅ Ganada |
 | jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | — | ⏳ Pendiente |
-| GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | — | ⏳ Pendiente |
+| GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | -$42,537 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | — | ⏳ Pendiente |
-| 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | — | ⏳ Pendiente |
-| plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
-| GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | — | ⏳ Pendiente |
-| sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | — | ⏳ Pendiente |
-| ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
+| 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | -$50,163 | ❌ Perdida |
+| plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
+| GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | -$47,330 | ❌ Perdida |
+| sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | -$57,063 | ❌ Perdida |
+| ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | +$36,157 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | +$8,448 | ✅ Ganada |
