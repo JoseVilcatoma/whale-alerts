@@ -13620,5 +13620,20 @@
     "status": "pending",
     "ultimo_fill": 1787474305,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1860,
+    "timestamp": 1787477514,
+    "username": "jjj1995",
+    "wallet": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+    "slug": "dota2-vsn2-ts8-2026-08-23-game3",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 62598.7959,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1787477516,
+    "fills": 2
   }
 ]

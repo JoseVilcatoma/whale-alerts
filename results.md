@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 04:30:47 (hora de Perú)
+Actualizado: 2026-08-23 04:32:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **906**  ($49,094,072 en total)
+- Apuestas registradas: **907**  ($49,156,671 en total)
 - Resueltas: **886** — 520 ganadas / 366 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 200
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 9 | 9 | 1 | 50% | $844,813 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
+| jjj1995 | 3 | 0 | 2 | ⚠️ 100% (3) | $773,543 | +$264,399 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
-| jjj1995 | 3 | 0 | 1 | ⚠️ 100% (3) | $710,944 | +$264,399 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jjj1995 | Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner | TEAM VISION | 1.47 (68¢) | $62,599 | — | ⏳ Pendiente |
 | hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | -$27,840 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | -$37,977 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | -$39,835 | ❌ Perdida |
