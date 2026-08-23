@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:33:06 (hora de Perú)
+Actualizado: 2026-08-22 22:35:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **884**  ($47,369,628 en total)
+- Apuestas registradas: **885**  ($47,483,634 en total)
 - Resueltas: **866** — 505 ganadas / 361 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 196
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 28 | 1 | 61% | $3,038,882 | +$285,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 26 | 11 | 0 | 70% | $1,990,421 | +$1,128,772 |
+| 111111111115 | 26 | 11 | 1 | 70% | $2,104,427 | +$1,128,772 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.61 (62¢) | $114,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $42,403 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.75 (57¢) | $92,709 | — | ⏳ Pendiente |
 | ndb1 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.72 (58¢) | $145,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | -$38,231 | ❌ Perdida |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $31,342 | +$16,146 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $169,671 | +$76,229 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 3.33 (30¢) | $30,000 | +$70,000 | ✅ Ganada |
