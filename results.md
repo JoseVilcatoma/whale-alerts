@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 04:18:10 (hora de Perú)
+Actualizado: 2026-08-23 04:20:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **906**  ($49,094,072 en total)
-- Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **886** — 520 ganadas / 366 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 200
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,961,488** sobre $47,567,548 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$4,113** sobre $86,900 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$1,933,648** sobre $47,595,388 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$4,213** sobre $87,000 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 |---|---|---|---|---|---|---|
 | hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | — | ⏳ Pendiente |
-| CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
+| CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | -$27,840 | ❌ Perdida |
 | CORGI8 | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | Legacy | 2.63 (38¢) | $26,135 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will AC Milan win on 2026-08-23? | No | 2.13 (47¢) | $64,105 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | — | ⏳ Pendiente |
