@@ -13710,5 +13710,35 @@
     "status": "pending",
     "ultimo_fill": 1787483643,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1871,
+    "timestamp": 1787485594,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "epl-bri-ast-2026-08-23-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 57063.2205,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787485594,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1872,
+    "timestamp": 1787485635,
+    "username": "GrizzliesSuck",
+    "wallet": "0x412fe1a101554f0b382181c3af932e4b2d8030fa",
+    "slug": "epl-bri-ast-2026-08-23-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 47329.722,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787485635,
+    "fills": 1
   }
 ]
