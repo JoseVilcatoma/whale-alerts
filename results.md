@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 00:10:47 (hora de Perú)
+Actualizado: 2026-08-23 00:12:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **895**  ($48,462,999 en total)
-- Resueltas: **882** — 519 ganadas / 363 perdidas (**59%** de acierto)
+- Apuestas registradas: **896**  ($48,505,165 en total)
+- Resueltas: **883** — 520 ganadas / 363 perdidas (**59%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 199
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,939,478** sobre $47,483,109 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$4,198** sobre $86,800 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,962,478** sobre $47,510,109 apostados (ROI **+4.1%**)
+- Copiando $100 fijo en cada una: **-$4,113** sobre $86,900 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 1 | 63% | $9,298,510 | +$778,793 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 28 | 1 | 61% | $3,038,882 | +$285,566 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 0 | 62% | $3,038,882 | +$308,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | 111111111115 | 28 | 11 | 0 | 72% | $2,210,683 | +$1,237,946 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
+| ndb1 | 2 | 3 | 1 | ⚠️ 40% (5) | $345,773 | +$44,432 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
-| ndb1 | 2 | 3 | 0 | ⚠️ 40% (5) | $303,607 | +$44,432 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $42,166 | — | ⏳ Pendiente |
 | Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | — | ⏳ Pendiente |
 | Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -125,9 +126,8 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | -$31,510 | ❌ Perdida |
 | Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | -$25,946 | ❌ Perdida |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | +$20,711 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | +$31,159 | ✅ Ganada |
-| WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | -$38,087 | ❌ Perdida |
