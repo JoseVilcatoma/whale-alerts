@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 12:36:19 (hora de Perú)
+Actualizado: 2026-08-23 12:38:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **969**  ($52,726,533 en total)
+- Apuestas registradas: **970**  ($52,770,614 en total)
 - Resueltas: **943** — 548 ganadas / 395 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 210
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 13 | 4 | 2 | 76% | $2,413,469 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
-| pleaseplease123 | 16 | 11 | 4 | 59% | $1,440,872 | +$154,841 |
+| pleaseplease123 | 16 | 11 | 5 | 59% | $1,484,953 | +$154,841 |
 | AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | — | ⏳ Pendiente |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | -$57,063 | ❌ Perdida |
 | ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | +$36,157 | ✅ Ganada |
-| SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | -$42,601 | ❌ Perdida |

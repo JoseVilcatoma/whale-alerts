@@ -14565,5 +14565,20 @@
     "status": "pending",
     "ultimo_fill": 1787506526,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1983,
+    "timestamp": 1787506608,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-laa-tex-2026-08-23",
+    "title": "Los Angeles Angels vs. Texas Rangers",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 44080.883499999996,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787506608,
+    "fills": 1
   }
 ]
