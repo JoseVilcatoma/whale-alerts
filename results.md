@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 01:49:19 (hora de Perú)
+Actualizado: 2026-08-23 01:51:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **899**  ($48,682,821 en total)
+- Apuestas registradas: **900**  ($48,708,021 en total)
 - Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 199
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 4 | 63% | $9,476,166 | +$778,793 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 0 | 62% | $3,038,882 | +$308,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
-| 111111111115 | 28 | 11 | 0 | 72% | $2,210,683 | +$1,237,946 |
+| 111111111115 | 28 | 11 | 1 | 72% | $2,235,883 | +$1,237,946 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | FURIA | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $80,861 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $68,795 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | -$31,510 | ❌ Perdida |

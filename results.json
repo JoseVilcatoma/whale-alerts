@@ -13515,5 +13515,20 @@
     "status": "pending",
     "ultimo_fill": 1787462948,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1852,
+    "timestamp": 1787467869,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-furia-lgc-2026-08-23",
+    "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787467869,
+    "fills": 1
   }
 ]
