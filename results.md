@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:17:21 (hora de Perú)
+Actualizado: 2026-08-23 13:19:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **977**  ($53,221,607 en total)
+- Apuestas registradas: **979**  ($53,285,515 en total)
 - Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 211
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | — | ⏳ Pendiente |
+| RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $47,434 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $52,087 | — | ⏳ Pendiente |
 | jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | +$10,469 | ✅ Ganada |
-| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | -$42,537 | ❌ Perdida |
-| n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | +$12,423 | ✅ Ganada |
