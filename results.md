@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 07:48:35 (hora de Perú)
+Actualizado: 2026-08-23 07:50:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **930**  ($50,279,033 en total)
+- Apuestas registradas: **933**  ($50,383,543 en total)
 - Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 205
+- Pendientes: 41
+- Apostadores distintos: 206
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 0 | ⚠️ 20% (5) | $250,785 | -$73,785 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 
-_(mostrando los 40 de mayor monto, de 205 en total)_
+_(mostrando los 40 de mayor monto, de 206 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | — | ⏳ Pendiente |
+| RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
+| predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | — | ⏳ Pendiente |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 205 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | -$80,214 | ❌ Perdida |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | +$20,576 | ✅ Ganada |
 | jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | +$152,482 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | +$15,955 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Vitor Petrino | 1.72 (58¢) | $51,072 | +$36,983 | ✅ Ganada |
-| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | +$30,333 | ✅ Ganada |

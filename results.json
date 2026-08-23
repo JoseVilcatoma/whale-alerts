@@ -13980,5 +13980,50 @@
     "status": "pending",
     "ultimo_fill": 1787488741,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1891,
+    "timestamp": 1787489396,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "lal-mad-vil-2026-08-23-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25772.509800000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787489396,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1892,
+    "timestamp": 1787489399,
+    "username": "RegardedMoney",
+    "wallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "slug": "epl-bri-ast-2026-08-23-ast",
+    "title": "Will Aston Villa FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30660.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1787489399,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1893,
+    "timestamp": 1787489419,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "epl-mac-bou-2026-08-23-mac",
+    "title": "Will Manchester City FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 48077.5878,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787489419,
+    "fills": 1
   }
 ]
