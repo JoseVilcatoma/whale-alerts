@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:47:39 (hora de Perú)
+Actualizado: 2026-08-23 15:49:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **994**  ($54,332,374 en total)
+- Apuestas registradas: **995**  ($54,367,817 en total)
 - Resueltas: **962** — 555 ganadas / 407 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 213
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 55 | 2 | 61% | $9,625,899 | +$392,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 55 | 3 | 61% | $9,661,342 | +$392,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 29 | 3 | 61% | $3,226,972 | +$281,066 |
 | 3edmond.dantes | 13 | 6 | 2 | 68% | $2,735,306 | +$226,281 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | -$42,263 | ❌ Perdida |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | -$110,000 | ❌ Perdida |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
