@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 11:50:21 (hora de Perú)
+Actualizado: 2026-08-23 11:52:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **963**  ($52,537,124 en total)
+- Apuestas registradas: **964**  ($52,569,735 en total)
 - Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 210
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 3 | 3 | 6 | ⚠️ 50% (6) | $1,591,711 | +$212,992 |
 | AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
-| pleaseplease123 | 16 | 11 | 1 | 59% | $1,338,652 | +$154,841 |
+| pleaseplease123 | 16 | 11 | 2 | 59% | $1,371,262 | +$154,841 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner | TEAM VISION | 1.47 (68¢) | $62,599 | -$62,599 | ❌ Perdida |
 | hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | +$4,470 | ✅ Ganada |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | -$41,777 | ❌ Perdida |
-| CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | -$27,840 | ❌ Perdida |
