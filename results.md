@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 05:37:00 (hora de Perú)
+Actualizado: 2026-08-23 05:39:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **909**  ($49,246,155 en total)
-- Resueltas: **886** — 520 ganadas / 366 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **887** — 520 ganadas / 367 perdidas (**59%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 200
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,933,648** sobre $47,595,388 apostados (ROI **+4.1%**)
-- Copiando $100 fijo en cada una: **-$4,213** sobre $87,000 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,871,049** sobre $47,657,987 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$4,313** sobre $87,100 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 9 | 9 | 1 | 50% | $844,813 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| jjj1995 | 3 | 0 | 2 | ⚠️ 100% (3) | $773,543 | +$264,399 |
+| jjj1995 | 3 | 1 | 1 | ⚠️ 75% (4) | $773,543 | +$201,800 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 |---|---|---|---|---|---|---|
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $32,948 | — | ⏳ Pendiente |
-| jjj1995 | Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner | TEAM VISION | 1.47 (68¢) | $62,599 | — | ⏳ Pendiente |
+| jjj1995 | Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner | TEAM VISION | 1.47 (68¢) | $62,599 | -$62,599 | ❌ Perdida |
 | hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | -$27,840 | ❌ Perdida |
