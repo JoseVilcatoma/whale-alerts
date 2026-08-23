@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:54:06 (hora de Perú)
+Actualizado: 2026-08-22 22:56:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **886**  ($47,519,068 en total)
-- Resueltas: **866** — 505 ganadas / 361 perdidas (**58%** de acierto)
+- Apuestas registradas: **887**  ($47,625,324 en total)
+- Resueltas: **867** — 505 ganadas / 362 perdidas (**58%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 196
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,186,278** sobre $46,167,867 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$4,895** sobre $85,200 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,158,433** sobre $46,195,712 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$4,995** sobre $85,300 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,12 +27,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 82 | 49 | 2 | 63% | $9,140,785 | +$675,538 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 28 | 1 | 61% | $3,038,882 | +$285,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
+| 111111111115 | 26 | 11 | 2 | 70% | $2,210,683 | +$1,128,772 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 26 | 11 | 1 | 70% | $2,104,427 | +$1,128,772 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 7 | 4 | 1 | 64% | $975,887 | -$452,076 |
+| wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 9 | 0 | 50% | $803,025 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 4 | 8 | 2 | 33% | $778,900 | -$108,803 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.37 (73¢) | $106,256 | — | ⏳ Pendiente |
 | GEAEW | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.59 (63¢) | $35,434 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.61 (62¢) | $114,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $42,403 | — | ⏳ Pendiente |
@@ -92,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | +$9,218 | ✅ Ganada |
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | -$32,900 | ❌ Perdida |
 | kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | -$27,845 | ❌ Perdida |
 | WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | -$82,215 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | +$29,800 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | +$21,825 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | +$2,381 | ✅ Ganada |
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | +$3,493 | ✅ Ganada |
 | texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | -$38,231 | ❌ Perdida |
-| Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $31,342 | +$16,146 | ✅ Ganada |
