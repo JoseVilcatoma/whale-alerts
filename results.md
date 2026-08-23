@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 18:15:35 (hora de Perú)
+Actualizado: 2026-08-23 18:17:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1004**  ($54,907,218 en total)
-- Resueltas: **989** — 569 ganadas / 420 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Resueltas: **992** — 571 ganadas / 421 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$847,908** sobre $54,265,077 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,190** sobre $97,300 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$872,851** sobre $54,370,811 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,142** sobre $97,600 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 14 | 0 | 52% | $1,681,112 | -$160,594 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
-| pleaseplease123 | 18 | 13 | 3 | 58% | $1,582,937 | +$138,731 |
+| pleaseplease123 | 20 | 13 | 1 | 61% | $1,582,937 | +$194,187 |
 | jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| SDTrading | 8 | 8 | 2 | 50% | $542,909 | -$19,213 |
+| SDTrading | 8 | 9 | 1 | 47% | $542,909 | -$49,726 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 0 | 100% | $533,993 | +$62,573 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
@@ -108,10 +108,10 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | -$26,575 | ❌ Perdida |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
-| SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | — | ⏳ Pendiente |
+| SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | -$30,513 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory | Mario Gonzalez Fernandez | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
-| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | — | ⏳ Pendiente |
-| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | +$30,856 | ✅ Ganada |
+| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | +$24,601 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | -$27,619 | ❌ Perdida |
 | Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | -$103,585 | ❌ Perdida |
