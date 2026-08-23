@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 08:54:43 (hora de Perú)
+Actualizado: 2026-08-23 08:57:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **937**  ($50,757,046 en total)
-- Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 45
+- Resueltas: **906** — 528 ganadas / 378 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 206
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,887,340** sobre $47,840,707 apostados (ROI **+3.9%**)
-- Copiando $100 fijo en cada una: **-$4,276** sobre $87,600 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,079,986** sobre $49,146,498 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$4,760** sobre $89,000 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,17 +24,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 5 | 63% | $9,507,574 | +$778,793 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 53 | 1 | 61% | $9,507,574 | +$443,411 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 111111111115 | 28 | 12 | 4 | 70% | $2,493,354 | +$1,212,746 |
+| 111111111115 | 29 | 12 | 3 | 71% | $2,493,354 | +$1,253,190 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| jjj1995 | 3 | 1 | 3 | ⚠️ 75% (4) | $952,518 | +$201,800 |
-| Weaseloftheweek | 9 | 9 | 1 | 50% | $844,813 | -$81,941 |
+| jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
+| Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
@@ -44,13 +44,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 8 | 8 | 1 | 50% | $512,396 | -$19,213 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
-| Alhimik | 0 | 0 | 1 | — | $487,163 | — |
+| Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
-| ndb1 | 2 | 3 | 1 | ⚠️ 40% (5) | $345,773 | +$44,432 |
+| ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
@@ -82,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
-| SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | — | ⏳ Pendiente |
-| mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | — | ⏳ Pendiente |
-| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | — | ⏳ Pendiente |
+| SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | +$40,444 | ✅ Ganada |
+| mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | +$22,148 | ✅ Ganada |
+| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | +$32,286 | ✅ Ganada |
 | jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | — | ⏳ Pendiente |
-| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | — | ⏳ Pendiente |
+| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | — | ⏳ Pendiente |
 | n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | — | ⏳ Pendiente |
@@ -107,18 +107,18 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 | CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | -$27,840 | ❌ Perdida |
 | CORGI8 | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | Legacy | 2.63 (38¢) | $26,135 | +$42,642 | ✅ Ganada |
 | 0x076d…8d4c | Will AC Milan win on 2026-08-23? | No | 2.13 (47¢) | $64,105 | — | ⏳ Pendiente |
-| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | — | ⏳ Pendiente |
+| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | +$19,866 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | FURIA | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $80,861 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $68,795 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| ndb1 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $42,166 | — | ⏳ Pendiente |
-| Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | — | ⏳ Pendiente |
-| Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | — | ⏳ Pendiente |
-| 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $80,861 | -$80,861 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $68,795 | -$68,795 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
+| ndb1 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $42,166 | -$42,166 | ❌ Perdida |
+| Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | -$33,819 | ❌ Perdida |
+| Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | -$487,163 | ❌ Perdida |
+| 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | -$500 | 💰 Vendida antes |
-| Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | — | ⏳ Pendiente |
+| Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | -$41,788 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | -$157,725 | ❌ Perdida |
 | coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | -$490 | 💰 Vendida antes |
 | RJW1 | Will Aston Villa FC win on 2026-08-23? | Yes | 3.33 (30¢) | $31,739 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.37 (73¢) | $106,256 | +$39,300 | ✅ Ganada |
