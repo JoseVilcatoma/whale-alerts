@@ -14125,10 +14125,40 @@
     "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "usd": 73875.0711,
+    "usd": 100871.8571,
     "odds_at_bet": 67,
     "status": "pending",
-    "ultimo_fill": 1787496329,
+    "ultimo_fill": 1787496434,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1915,
+    "timestamp": 1787496426,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "fl1-hac-asm-2026-08-23-asm",
+    "title": "Will AS Monaco FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38186.4,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787496426,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1916,
+    "timestamp": 1787496469,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "fl1-hac-asm-2026-08-23-asm",
+    "title": "Will AS Monaco FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25673.4608,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787496469,
     "fills": 1
   }
 ]
