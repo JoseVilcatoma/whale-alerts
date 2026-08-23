@@ -14715,5 +14715,20 @@
     "status": "pending",
     "ultimo_fill": 1787508804,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2000,
+    "timestamp": 1787509205,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-herbert-vandeca-2026-08-23",
+    "title": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele",
+    "outcome": "Pierre-Hugues Herbert",
+    "side": "BUY",
+    "usd": 25977.278218000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787509205,
+    "fills": 1
   }
 ]

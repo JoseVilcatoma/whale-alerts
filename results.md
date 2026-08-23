@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:19:18 (hora de Perú)
+Actualizado: 2026-08-23 13:21:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **979**  ($53,285,515 en total)
+- Apuestas registradas: **980**  ($53,311,493 en total)
 - Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 211
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 3 | 62% | $9,599,921 | +$453,880 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 4 | 62% | $9,625,899 | +$453,880 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | 3edmond.dantes | 13 | 4 | 3 | 76% | $2,465,556 | +$357,486 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele | Pierre-Hugues Herbert | 1.79 (56¢) | $25,977 | — | ⏳ Pendiente |
 | matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | — | ⏳ Pendiente |
 | RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $47,434 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | -$137,986 | ❌ Perdida |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | +$10,469 | ✅ Ganada |
