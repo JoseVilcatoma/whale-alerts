@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:55:08 (hora de Perú)
+Actualizado: 2026-08-23 10:57:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **958**  ($52,308,858 en total)
+- Apuestas registradas: **959**  ($52,336,158 en total)
 - Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 210
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 53 | 2 | 61% | $9,542,521 | +$443,411 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 53 | 3 | 61% | $9,569,821 | +$443,411 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
 | 111111111115 | 29 | 13 | 3 | 69% | $2,594,226 | +$1,210,653 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | — | ⏳ Pendiente |
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | — | ⏳ Pendiente |
 | crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | 0x076d…8d4c | Will AC Milan win on 2026-08-23? | No | 2.13 (47¢) | $64,105 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | +$19,866 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | FURIA | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $80,861 | -$80,861 | ❌ Perdida |
