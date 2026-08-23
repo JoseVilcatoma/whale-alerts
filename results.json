@@ -14967,7 +14967,7 @@
     "side": "BUY",
     "usd": 35490.0,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787518558,
     "fills": 1
   },
@@ -15015,5 +15015,20 @@
     "status": "pending",
     "ultimo_fill": 1787521565,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2054,
+    "timestamp": 1787523148,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-cin-ari-2026-08-23",
+    "title": "Cincinnati Reds vs. Arizona Diamondbacks",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 36126.512,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1787523148,
+    "fills": 1
   }
 ]

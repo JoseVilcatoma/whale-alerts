@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 17:11:34 (hora de Perú)
+Actualizado: 2026-08-23 17:13:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **999**  ($54,619,841 en total)
-- Resueltas: **980** — 564 ganadas / 416 perdidas (**58%** de acierto)
+- Apuestas registradas: **1000**  ($54,655,967 en total)
+- Resueltas: **981** — 565 ganadas / 416 perdidas (**58%** de acierto)
 - Pendientes: 19
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$941,550** sobre $53,859,362 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,071** sobre $96,400 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$945,060** sobre $53,894,852 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$6,061** sobre $96,500 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
+| Weaseloftheweek | 9 | 10 | 1 | 47% | $880,940 | -$123,729 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0b1 | 11 | 0 | 2 | 100% | $441,583 | +$34,409 |
+| 0b1 | 12 | 0 | 1 | 100% | $441,583 | +$37,919 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | +$24,036 | ✅ Ganada |
 | jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | -$100,000 | ❌ Perdida |
-| 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
+| 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | hansama231 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
 | norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | -$25,673 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | +$41,369 | ✅ Ganada |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | +$49,683 | ✅ Ganada |
