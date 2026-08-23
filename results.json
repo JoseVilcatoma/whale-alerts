@@ -14235,5 +14235,20 @@
     "status": "pending",
     "ultimo_fill": 1787496855,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1922,
+    "timestamp": 1787497303,
+    "username": "crisp1973",
+    "wallet": "0xde3131239a358be036397ee2c152e256e6b3df79",
+    "slug": "fl1-hac-asm-2026-08-23-asm",
+    "title": "Will AS Monaco FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 53558.715,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787497303,
+    "fills": 1
   }
 ]

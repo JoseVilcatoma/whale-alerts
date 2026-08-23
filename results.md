@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:00:48 (hora de Perú)
+Actualizado: 2026-08-23 10:02:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **947**  ($51,351,459 en total)
+- Apuestas registradas: **948**  ($51,405,018 en total)
 - Resueltas: **906** — 528 ganadas / 378 perdidas (**58%** de acierto)
-- Pendientes: 41
-- Apostadores distintos: 208
+- Pendientes: 42
+- Apostadores distintos: 209
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 
-_(mostrando los 40 de mayor monto, de 208 en total)_
+_(mostrando los 40 de mayor monto, de 209 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $32,268 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $124,303 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 208 en total)_
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | -$41,788 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | -$157,725 | ❌ Perdida |
 | coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | -$490 | 💰 Vendida antes |
-| RJW1 | Will Aston Villa FC win on 2026-08-23? | Yes | 3.33 (30¢) | $31,739 | — | ⏳ Pendiente |
