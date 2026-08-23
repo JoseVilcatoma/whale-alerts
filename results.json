@@ -13331,5 +13331,20 @@
     "status": "pending",
     "ultimo_fill": 1787457302,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1821,
+    "timestamp": 1787457558,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "epl-bri-ast-2026-08-23-ast",
+    "title": "Will Aston Villa FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31739.013,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1787457558,
+    "fills": 1
   }
 ]
