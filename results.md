@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 20:48:01 (hora de Perú)
+Actualizado: 2026-08-22 20:50:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **872**  ($46,436,770 en total)
-- Resueltas: **840** — 491 ganadas / 349 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Resueltas: **843** — 492 ganadas / 351 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,320,059** sobre $45,062,332 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$4,806** sobre $82,600 (ROI **-5.8%**)
+- **Resultado de los apostadores: +$1,275,778** sobre $45,156,215 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$4,928** sobre $82,900 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 80 | 49 | 0 | 62% | $8,937,624 | +$633,825 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 6 | 61% | $2,958,667 | +$279,871 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 41 | 26 | 5 | 61% | $2,958,667 | +$301,696 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
-| pleaseplease123 | 16 | 10 | 1 | 62% | $1,306,384 | +$186,351 |
+| pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 5 | 4 | 3 | 56% | $975,887 | -$524,638 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 3 | 4 | 1 | ⚠️ 43% (7) | $381,070 | -$108,025 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
-| xifutloong3 | 3 | 8 | 1 | 27% | $372,988 | -$208,419 |
+| xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
@@ -81,9 +81,9 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | — | ⏳ Pendiente |
 | WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | +$21,825 | ✅ Ganada |
 | tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | — | ⏳ Pendiente |
-| xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | — | ⏳ Pendiente |
+| xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | -$34,596 | ❌ Perdida |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | -$31,510 | ❌ Perdida |
 | Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | -$25,946 | ❌ Perdida |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | +$20,711 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | +$31,159 | ✅ Ganada |
