@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:02:27 (hora de Perú)
+Actualizado: 2026-08-22 23:04:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **888**  ($47,657,063 en total)
-- Resueltas: **867** — 505 ganadas / 362 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Resueltas: **868** — 506 ganadas / 362 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 197
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,158,433** sobre $46,195,712 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$4,995** sobre $85,300 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,285,177** sobre $46,322,456 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$4,895** sobre $85,400 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | jjj1995 | 2 | 0 | 1 | ⚠️ 100% (2) | $510,080 | +$111,916 |
-| WTSA | 1 | 7 | 1 | 12% | $501,732 | -$309,988 |
+| WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 197 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | +$15,955 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Vitor Petrino | 1.72 (58¢) | $51,072 | +$36,983 | ✅ Ganada |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | — | ⏳ Pendiente |
-| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $126,744 | — | ⏳ Pendiente |
+| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $126,744 | +$126,744 | ✅ Ganada |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.37 (73¢) | $53,098 | — | ⏳ Pendiente |
 | kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | +$9,218 | ✅ Ganada |
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | -$32,900 | ❌ Perdida |
