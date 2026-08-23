@@ -14490,5 +14490,20 @@
     "status": "pending",
     "ultimo_fill": 1787503887,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1956,
+    "timestamp": 1787504625,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-sd-2026-08-23",
+    "title": "Minnesota Twins vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 42610.23939999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787504625,
+    "fills": 1
   }
 ]
