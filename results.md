@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 16:32:59 (hora de Perú)
+Actualizado: 2026-08-23 16:35:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **998**  ($54,546,038 en total)
-- Resueltas: **976** — 562 ganadas / 414 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Resueltas: **977** — 563 ganadas / 414 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,034,112** sobre $53,645,067 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,028** sobre $96,000 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$1,061,595** sobre $53,672,550 apostados (ROI **+2.0%**)
+- Copiando $100 fijo en cada una: **-$5,928** sobre $96,100 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 13 | 0 | 54% | $1,607,309 | -$86,791 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
-| pleaseplease123 | 17 | 12 | 5 | 59% | $1,582,937 | +$155,328 |
+| pleaseplease123 | 18 | 12 | 4 | 60% | $1,582,937 | +$182,812 |
 | jjj1995 | 6 | 2 | 1 | 75% | $1,243,523 | +$320,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $50,813 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 2.13 (47¢) | $70,501 | — | ⏳ Pendiente |
-| pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | — | ⏳ Pendiente |
+| pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | +$27,483 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | — | ⏳ Pendiente |
 | jknio | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays | 1.96 (51¢) | $35,084 | +$33,708 | ✅ Ganada |
 | AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | -$198,000 | ❌ Perdida |
