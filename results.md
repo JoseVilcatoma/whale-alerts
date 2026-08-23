@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:35:45 (hora de Perú)
+Actualizado: 2026-08-23 13:37:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **980**  ($53,311,493 en total)
+- Apuestas registradas: **981**  ($53,360,493 en total)
 - Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 211
 
 ### Balance
@@ -53,11 +53,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
+| ChinesePro | 1 | 5 | 2 | ⚠️ 17% (6) | $337,138 | -$203,098 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
-| ChinesePro | 1 | 5 | 1 | ⚠️ 17% (6) | $288,138 | -$203,098 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele | Pierre-Hugues Herbert | 1.79 (56¢) | $25,977 | — | ⏳ Pendiente |
 | matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | — | ⏳ Pendiente |
 | RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | +$32,286 | ✅ Ganada |
 | jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | -$137,986 | ❌ Perdida |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
-| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
