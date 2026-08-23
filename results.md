@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:18:56 (hora de Perú)
+Actualizado: 2026-08-22 22:20:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **882**  ($47,234,516 en total)
-- Resueltas: **862** — 503 ganadas / 359 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **863** — 503 ganadas / 360 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 196
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,260,933** sobre $45,870,108 apostados (ROI **+2.7%**)
-- Copiando $100 fijo en cada una: **-$4,831** sobre $84,800 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,180,719** sobre $45,950,322 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$4,931** sobre $84,900 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 81 | 49 | 1 | 62% | $9,005,672 | +$649,780 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 27 | 2 | 62% | $3,038,882 | +$365,780 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 28 | 1 | 61% | $3,038,882 | +$285,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 1 | 69% | $1,990,421 | +$1,066,755 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | -$80,214 | ❌ Perdida |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | +$15,955 | ✅ Ganada |
