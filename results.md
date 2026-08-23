@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 16:22:29 (hora de Perú)
+Actualizado: 2026-08-23 16:24:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **998**  ($54,546,038 en total)
-- Resueltas: **975** — 561 ganadas / 414 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Resueltas: **976** — 562 ganadas / 414 perdidas (**58%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,031,444** sobre $53,609,624 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,035** sobre $95,900 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$1,034,112** sobre $53,645,067 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,028** sobre $96,000 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 55 | 3 | 61% | $9,661,342 | +$392,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 86 | 55 | 2 | 61% | $9,661,342 | +$395,624 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 29 | 3 | 61% | $3,226,972 | +$281,066 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | — | ⏳ Pendiente |
 | jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | — | ⏳ Pendiente |
 | 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | — | ⏳ Pendiente |
