@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 20:33:17 (hora de Perú)
+Actualizado: 2026-08-22 20:35:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **871**  ($46,385,699 en total)
-- Resueltas: **838** — 490 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Resueltas: **839** — 491 ganadas / 348 perdidas (**59%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,352,309** sobre $44,930,082 apostados (ROI **+3.0%**)
-- Copiando $100 fijo en cada una: **-$4,806** sobre $82,400 (ROI **-5.8%**)
+- **Resultado de los apostadores: +$1,402,309** sobre $44,980,082 apostados (ROI **+3.1%**)
+- Copiando $100 fijo en cada una: **-$4,706** sobre $82,500 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
 | pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
-| AV23IUa | 13 | 11 | 1 | 54% | $1,259,309 | +$61,209 |
+| AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 5 | 4 | 3 | 56% | $975,887 | -$524,638 |
 | Weaseloftheweek | 9 | 9 | 0 | 50% | $803,025 | -$81,941 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
