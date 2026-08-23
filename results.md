@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:20:05 (hora de Perú)
+Actualizado: 2026-08-23 10:22:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **953**  ($51,741,983 en total)
+- Apuestas registradas: **954**  ($52,122,928 en total)
 - Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 210
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 29 | 13 | 3 | 69% | $2,594,226 | +$1,210,653 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
+| ripley86alien | 3 | 3 | 6 | ⚠️ 50% (6) | $1,591,711 | +$212,992 |
 | AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
 | pleaseplease123 | 16 | 11 | 1 | 59% | $1,338,652 | +$154,841 |
-| ripley86alien | 3 | 3 | 5 | ⚠️ 50% (6) | $1,210,766 | +$212,992 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
@@ -73,9 +73,10 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 |---|---|---|---|---|---|---|
 | jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | — | ⏳ Pendiente |
 | matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $198,278 | — | ⏳ Pendiente |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $494,222 | — | ⏳ Pendiente |
 | crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $32,268 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | ndb1 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $42,166 | -$42,166 | ❌ Perdida |
 | Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | -$33,819 | ❌ Perdida |
-| Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | -$487,163 | ❌ Perdida |
