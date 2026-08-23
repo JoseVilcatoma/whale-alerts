@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:35:11 (hora de Perú)
+Actualizado: 2026-08-22 22:37:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **885**  ($47,483,634 en total)
+- Apuestas registradas: **886**  ($47,519,068 en total)
 - Resueltas: **866** — 505 ganadas / 361 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 196
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| GEAEW | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.59 (63¢) | $35,434 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.61 (62¢) | $114,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $42,403 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.75 (57¢) | $92,709 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | +$3,493 | ✅ Ganada |
 | texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | -$38,231 | ❌ Perdida |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $31,342 | +$16,146 | ✅ Ganada |
-| AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $169,671 | +$76,229 | ✅ Ganada |
