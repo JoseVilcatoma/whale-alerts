@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:55:56 (hora de Perú)
+Actualizado: 2026-08-23 15:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **995**  ($54,367,817 en total)
-- Resueltas: **962** — 555 ganadas / 407 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Apuestas registradas: **997**  ($54,503,307 en total)
+- Resueltas: **963** — 556 ganadas / 407 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$911,656** sobre $52,475,424 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$5,886** sobre $94,600 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$958,421** sobre $52,555,052 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$5,827** sobre $94,700 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 15 | 12 | 1 | 56% | $1,607,309 | +$111,209 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 17 | 12 | 5 | 59% | $1,582,937 | +$155,328 |
-| jjj1995 | 5 | 2 | 1 | ⚠️ 71% (7) | $1,143,523 | +$129,901 |
+| jjj1995 | 5 | 2 | 2 | ⚠️ 71% (7) | $1,243,523 | +$129,901 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0b1 | 11 | 0 | 1 | 100% | $406,093 | +$34,409 |
+| 0b1 | 11 | 0 | 2 | 100% | $441,583 | +$34,409 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | — | ⏳ Pendiente |
+| 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
@@ -94,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | — | ⏳ Pendiente |
 | quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | — | ⏳ Pendiente |
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | — | ⏳ Pendiente |
-| bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | — | ⏳ Pendiente |
+| bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | — | ⏳ Pendiente |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | +$49,683 | ✅ Ganada |
 | bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | +$16,428 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | -$42,263 | ❌ Perdida |
-| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
-| predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | -$110,000 | ❌ Perdida |
