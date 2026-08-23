@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 09:48:40 (hora de Perú)
+Actualizado: 2026-08-23 09:50:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **942**  ($51,016,064 en total)
+- Apuestas registradas: **944**  ($51,121,388 en total)
 - Resueltas: **906** — 528 ganadas / 378 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Pendientes: 38
 - Apostadores distintos: 208
 
 ### Balance
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
+| ripley86alien | 3 | 3 | 2 | ⚠️ 50% (6) | $898,988 | +$212,992 |
 | Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
-| ripley86alien | 3 | 3 | 1 | ⚠️ 50% (6) | $825,488 | +$212,992 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 208 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
+| hansama231 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
 | norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 208 en total)_
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.37 (73¢) | $106,256 | +$39,300 | ✅ Ganada |
 | GEAEW | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.59 (63¢) | $35,434 | +$20,810 | ✅ Ganada |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.61 (62¢) | $114,006 | +$69,874 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.79 (56¢) | $42,403 | +$33,316 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.75 (57¢) | $92,709 | +$69,939 | ✅ Ganada |
