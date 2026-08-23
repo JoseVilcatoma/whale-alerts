@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:46:08 (hora de Perú)
+Actualizado: 2026-08-23 13:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **984**  ($53,891,943 en total)
-- Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Resueltas: **956** — 553 ganadas / 403 perdidas (**58%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 211
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,177,328** sobre $51,985,203 apostados (ROI **+2.3%**)
-- Copiando $100 fijo en cada una: **-$5,271** sobre $93,400 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$956,194** sobre $52,302,338 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$5,667** sobre $94,000 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 4 | 62% | $9,625,899 | +$453,880 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 54 | 3 | 61% | $9,625,899 | +$418,933 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 3edmond.dantes | 13 | 4 | 4 | 76% | $2,735,306 | +$357,486 |
+| 3edmond.dantes | 13 | 6 | 2 | 68% | $2,735,306 | +$226,281 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 12 | 1 | 56% | $1,607,309 | +$111,209 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
-| ChinesePro | 1 | 5 | 2 | ⚠️ 17% (6) | $337,138 | -$203,098 |
+| ChinesePro | 2 | 5 | 1 | ⚠️ 29% (7) | $337,138 | -$154,138 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
@@ -92,15 +92,15 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory | Mario Gonzalez Fernandez | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | -$27,619 | ❌ Perdida |
 | Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
-| 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | -$103,585 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | +$4,729 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | — | ⏳ Pendiente |
-| ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | — | ⏳ Pendiente |
-| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | — | ⏳ Pendiente |
-| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 2.00 (50¢) | $27,443 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | -$34,947 | ❌ Perdida |
+| ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | +$48,960 | ✅ Ganada |
+| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | -$76,500 | ❌ Perdida |
+| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 2.00 (50¢) | $27,443 | -$27,443 | ❌ Perdida |
 | jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | -$34,920 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | +$85,000 | ✅ Ganada |
