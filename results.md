@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 20:18:52 (hora de Perú)
+Actualizado: 2026-08-22 20:20:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **867**  ($46,093,182 en total)
+- Apuestas registradas: **868**  ($46,127,858 en total)
 - Resueltas: **838** — 490 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 194
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | — | ⏳ Pendiente |
 | kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | +$9,291 | ✅ Ganada |
 | AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | +$41,605 | ✅ Ganada |
 | 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | +$3,960 | ✅ Ganada |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $77,775 | +$47,669 | ✅ Ganada |
