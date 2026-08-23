@@ -14055,5 +14055,20 @@
     "status": "pending",
     "ultimo_fill": 1787489993,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1896,
+    "timestamp": 1787491763,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "lal-mad-vil-2026-08-23-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 110000.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787491763,
+    "fills": 2
   }
 ]
