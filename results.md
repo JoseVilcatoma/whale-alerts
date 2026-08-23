@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 17:44:20 (hora de Perú)
+Actualizado: 2026-08-23 17:46:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1002**  ($54,711,516 en total)
-- Resueltas: **983** — 565 ganadas / 418 perdidas (**57%** de acierto)
-- Pendientes: 19
+- Resueltas: **987** — 568 ganadas / 419 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$856,152** sobre $53,983,760 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,261** sobre $96,700 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$845,504** sobre $54,165,855 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,190** sobre $97,100 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 86 | 55 | 3 | 61% | $9,690,842 | +$395,624 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 30 | 2 | 60% | $3,226,972 | +$218,733 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 46 | 30 | 1 | 61% | $3,226,972 | +$249,066 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 15 | 13 | 1 | 54% | $1,681,112 | -$86,791 |
+| AV23IUa | 15 | 14 | 0 | 52% | $1,681,112 | -$160,594 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 18 | 13 | 3 | 58% | $1,582,937 | +$138,731 |
 | jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0b1 | 12 | 0 | 1 | 100% | $441,583 | +$37,919 |
+| 0b1 | 13 | 0 | 0 | 100% | $441,583 | +$53,219 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -74,20 +74,20 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | — | ⏳ Pendiente |
-| AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | -$73,802 | ❌ Perdida |
 | ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | +$24,036 | ✅ Ganada |
 | jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | -$100,000 | ❌ Perdida |
 | 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | +$3,510 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
-| DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
-| 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | +$17,521 | ✅ Ganada |
+| 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | — | ⏳ Pendiente |
 | texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $50,813 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | -$62,333 | ❌ Perdida |
 | pleaseplease123 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 2.13 (47¢) | $70,501 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | +$27,483 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | +$30,333 | ✅ Ganada |
 | jknio | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays | 1.96 (51¢) | $35,084 | +$33,708 | ✅ Ganada |
 | AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | -$198,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $63,700 | -$63,700 | ❌ Perdida |
