@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:57:57 (hora de Perú)
+Actualizado: 2026-08-23 15:59:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **997**  ($54,503,307 en total)
-- Resueltas: **963** — 556 ganadas / 407 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Resueltas: **964** — 556 ganadas / 408 perdidas (**58%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$958,421** sobre $52,555,052 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$5,827** sobre $94,700 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$760,421** sobre $52,753,052 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$5,927** sobre $94,800 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 13 | 6 | 2 | 68% | $2,735,306 | +$226,281 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 15 | 12 | 1 | 56% | $1,607,309 | +$111,209 |
+| AV23IUa | 15 | 13 | 0 | 54% | $1,607,309 | -$86,791 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 17 | 12 | 5 | 59% | $1,582,937 | +$155,328 |
 | jjj1995 | 5 | 2 | 2 | ⚠️ 71% (7) | $1,243,523 | +$129,901 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | — | ⏳ Pendiente |
 | jknio | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays | 1.96 (51¢) | $35,084 | +$33,708 | ✅ Ganada |
-| AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | -$198,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $63,700 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $269,750 | — | ⏳ Pendiente |
 | ChinesePro | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
