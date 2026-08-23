@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:10:59 (hora de Perú)
+Actualizado: 2026-08-23 10:13:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **951**  ($51,667,063 en total)
+- Apuestas registradas: **952**  ($51,707,063 en total)
 - Resueltas: **907** — 528 ganadas / 379 perdidas (**58%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 209
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
 | pleaseplease123 | 16 | 11 | 1 | 59% | $1,338,652 | +$154,841 |
-| ripley86alien | 3 | 3 | 4 | ⚠️ 50% (6) | $1,170,766 | +$212,992 |
+| ripley86alien | 3 | 3 | 5 | ⚠️ 50% (6) | $1,210,766 | +$212,992 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 209 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $198,278 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 209 en total)_
 | Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | -$33,819 | ❌ Perdida |
 | Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | -$487,163 | ❌ Perdida |
 | 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
-| MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | -$500 | 💰 Vendida antes |
