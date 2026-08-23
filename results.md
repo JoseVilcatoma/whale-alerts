@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:07:02 (hora de Perú)
+Actualizado: 2026-08-23 13:09:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **974**  ($52,931,081 en total)
-- Resueltas: **948** — 551 ganadas / 397 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 211
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,169,908** sobre $51,842,068 apostados (ROI **+2.3%**)
-- Copiando $100 fijo en cada una: **-$5,221** sobre $93,200 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,177,328** sobre $51,985,203 apostados (ROI **+2.3%**)
+- Copiando $100 fijo en cada una: **-$5,271** sobre $93,400 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 3 | 62% | $9,599,921 | +$453,880 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 111111111115 | 29 | 15 | 1 | 66% | $2,594,226 | +$1,033,053 |
+| 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | 3edmond.dantes | 13 | 4 | 2 | 76% | $2,413,469 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -105,9 +105,9 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | hansama231 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
 | norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | -$25,673 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | +$41,369 | ✅ Ganada |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | — | ⏳ Pendiente |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | +$49,683 | ✅ Ganada |
 | bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | +$16,428 | ✅ Ganada |
-| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | -$42,263 | ❌ Perdida |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | -$110,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
