@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 16:45:07 (hora de Perú)
+Actualizado: 2026-08-23 16:47:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **998**  ($54,546,038 en total)
-- Resueltas: **978** — 563 ganadas / 415 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Apuestas registradas: **999**  ($54,619,841 en total)
+- Resueltas: **980** — 564 ganadas / 416 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,017,514** sobre $53,716,631 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,028** sobre $96,200 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$941,550** sobre $53,859,362 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,071** sobre $96,400 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,10 +29,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 15 | 13 | 0 | 54% | $1,607,309 | -$86,791 |
+| AV23IUa | 15 | 13 | 1 | 54% | $1,681,112 | -$86,791 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 18 | 13 | 3 | 58% | $1,582,937 | +$138,731 |
-| jjj1995 | 6 | 2 | 1 | 75% | $1,243,523 | +$320,906 |
+| jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
-| ferrariChampions2026 | 6 | 3 | 1 | 67% | $364,742 | -$94,274 |
+| ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | — | ⏳ Pendiente |
-| jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | +$24,036 | ✅ Ganada |
+| jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | -$100,000 | ❌ Perdida |
 | 0b1 | San Francisco Giants vs. Boston Red Sox | Boston Red Sox | 1.10 (91¢) | $35,490 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | -$25,673 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | +$41,369 | ✅ Ganada |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | +$49,683 | ✅ Ganada |
-| bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | +$16,428 | ✅ Ganada |

@@ -14982,7 +14982,7 @@
     "side": "BUY",
     "usd": 99999.999997,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787518668,
     "fills": 3
   },
@@ -14997,8 +14997,23 @@
     "side": "BUY",
     "usd": 42731.39802,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787518841,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2050,
+    "timestamp": 1787521531,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-fils-tiafoe-2026-08-23",
+    "title": "Cincinnati Open: Arthur Fils vs Frances Tiafoe",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "usd": 73802.425713,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1787521565,
+    "fills": 2
   }
 ]
