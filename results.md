@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:25:23 (hora de Perú)
+Actualizado: 2026-08-22 21:27:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **878**  ($46,951,115 en total)
+- Apuestas registradas: **878**  ($46,992,334 en total)
 - Resueltas: **856** — 498 ganadas / 358 perdidas (**58%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 195
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 41 | 27 | 5 | 60% | $3,038,882 | +$261,861 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 25 | 11 | 1 | 69% | $1,949,202 | +$1,066,755 |
+| 111111111115 | 25 | 11 | 1 | 69% | $1,990,421 | +$1,066,755 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.67 (60¢) | $59,967 | — | ⏳ Pendiente |
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | — | ⏳ Pendiente |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | — | ⏳ Pendiente |
