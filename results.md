@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 19:43:28 (hora de Perú)
+Actualizado: 2026-08-22 19:45:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **866**  ($46,060,282 en total)
-- Resueltas: **834** — 486 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Resueltas: **835** — 487 ganadas / 348 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,304,853** sobre $44,797,572 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$4,961** sobre $82,000 (ROI **-6.1%**)
+- **Resultado de los apostadores: +$1,310,353** sobre $44,842,064 apostados (ROI **+2.9%**)
+- Copiando $100 fijo en cada una: **-$4,949** sobre $82,100 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
-| CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | — | ⏳ Pendiente |
+| CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | — | ⏳ Pendiente |
