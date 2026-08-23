@@ -13590,5 +13590,20 @@
     "status": "pending",
     "ultimo_fill": 1787471628,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1857,
+    "timestamp": 1787472462,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lol-hle1-t1-2026-08-23-game1",
+    "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 41777.36,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787472462,
+    "fills": 1
   }
 ]
