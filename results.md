@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:00:37 (hora de Perú)
+Actualizado: 2026-08-22 21:02:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **873**  ($46,470,675 en total)
-- Resueltas: **843** — 492 ganadas / 351 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Resueltas: **844** — 492 ganadas / 352 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,275,778** sobre $45,156,215 apostados (ROI **+2.8%**)
-- Copiando $100 fijo en cada una: **-$4,928** sobre $82,900 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,230,477** sobre $45,201,516 apostados (ROI **+2.7%**)
+- Copiando $100 fijo en cada una: **-$5,028** sobre $83,000 (ROI **-6.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | +$21,825 | ✅ Ganada |
-| tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | — | ⏳ Pendiente |
+| tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | -$45,301 | ❌ Perdida |
 | xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | -$34,596 | ❌ Perdida |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
