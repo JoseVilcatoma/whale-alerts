@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:23:21 (hora de Perú)
+Actualizado: 2026-08-22 21:25:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **876**  ($46,857,004 en total)
-- Resueltas: **855** — 498 ganadas / 357 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Apuestas registradas: **878**  ($46,951,115 en total)
+- Resueltas: **856** — 498 ganadas / 358 perdidas (**58%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 195
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,202,973** sobre $45,602,685 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$4,953** sobre $84,100 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,164,741** sobre $45,640,917 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$5,053** sobre $84,200 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 80 | 49 | 1 | 62% | $8,971,529 | +$633,825 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 80 | 49 | 2 | 62% | $9,005,672 | +$633,825 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 41 | 27 | 5 | 60% | $3,038,882 | +$261,861 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
+| 111111111115 | 25 | 11 | 1 | 69% | $1,949,202 | +$1,066,755 |
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.67 (60¢) | $59,967 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | — | ⏳ Pendiente |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
@@ -119,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | +$17,039 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | +$2,381 | ✅ Ganada |
 | Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | +$3,493 | ✅ Ganada |
-| texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | — | ⏳ Pendiente |
+| texaskid | Athletics vs. Houston Astros | Houston Astros | 1.45 (69¢) | $38,231 | -$38,231 | ❌ Perdida |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $31,342 | +$16,146 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $169,671 | +$76,229 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 3.33 (30¢) | $30,000 | +$70,000 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 | ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | +$14,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open, Qualification: Maya Joint vs Jessica Hinojosa | Maya Joint | 1.06 (94¢) | $29,046 | +$1,854 | ✅ Ganada |
 | xifutloong3 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves | 1.92 (52¢) | $30,386 | -$30,386 | ❌ Perdida |
-| ripley86alien | Will OGC Nice win on 2026-08-22? | Yes | 2.44 (41¢) | $30,932 | -$30,932 | ❌ Perdida |
-| BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | +$20,336 | ✅ Ganada |

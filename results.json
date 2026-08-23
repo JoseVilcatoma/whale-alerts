@@ -12443,7 +12443,7 @@
     "side": "BUY",
     "usd": 38231.492399999996,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787425400,
     "fills": 1
   },
@@ -13166,5 +13166,35 @@
     "status": "pending",
     "ultimo_fill": 1787451437,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1799,
+    "timestamp": 1787451900,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ty-ts8-2026-08-22-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 34143.57,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787451900,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1800,
+    "timestamp": 1787451912,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ty-ts8-2026-08-22-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 59966.687999999995,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787451912,
+    "fills": 1
   }
 ]
