@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:41:58 (hora de Perú)
+Actualizado: 2026-08-23 13:44:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **983**  ($53,693,943 en total)
+- Apuestas registradas: **984**  ($53,891,943 en total)
 - Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 211
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 13 | 4 | 4 | 76% | $2,735,306 | +$357,486 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
+| AV23IUa | 15 | 12 | 1 | 56% | $1,607,309 | +$111,209 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 16 | 11 | 5 | 59% | $1,484,953 | +$154,841 |
-| AV23IUa | 15 | 12 | 0 | 56% | $1,409,309 | +$111,209 |
 | jjj1995 | 5 | 2 | 1 | ⚠️ 71% (7) | $1,143,523 | +$129,901 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $63,700 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $269,750 | — | ⏳ Pendiente |
 | ChinesePro | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
 | SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | +$40,444 | ✅ Ganada |
 | mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | +$22,148 | ✅ Ganada |
-| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | +$32,286 | ✅ Ganada |
