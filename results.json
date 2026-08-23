@@ -13890,5 +13890,20 @@
     "status": "pending",
     "ultimo_fill": 1787487554,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1885,
+    "timestamp": 1787487870,
+    "username": "mamo4ka",
+    "wallet": "0xe760b6327dfdeb66a9782f033d257b79c474f2f9",
+    "slug": "dota2-vsn2-ts8-2026-08-23",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 25999.999999000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787487870,
+    "fills": 1
   }
 ]
