@@ -12863,7 +12863,7 @@
     "side": "BUY",
     "usd": 37136.05,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787440013,
     "fills": 1
   },
@@ -13225,6 +13225,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1787453093,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1805,
+    "timestamp": 1787453705,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "epl-new-liv-2026-08-23-liv",
+    "title": "Will Liverpool FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29715.2775,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787453705,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:54:12 (hora de Perú)
+Actualizado: 2026-08-22 21:56:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **880**  ($47,059,801 en total)
-- Resueltas: **858** — 499 ganadas / 359 perdidas (**58%** de acierto)
+- Apuestas registradas: **881**  ($47,089,516 en total)
+- Resueltas: **859** — 500 ganadas / 359 perdidas (**58%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 196
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,168,824** sobre $45,724,889 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$5,081** sobre $84,400 (ROI **-6.0%**)
+- **Resultado de los apostadores: +$1,205,960** sobre $45,762,025 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$4,981** sobre $84,500 (ROI **-5.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 80 | 49 | 2 | 62% | $9,005,672 | +$633,825 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 42 | 27 | 4 | 61% | $3,038,882 | +$298,844 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 43 | 27 | 3 | 61% | $3,038,882 | +$335,980 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 1 | 69% | $1,990,421 | +$1,066,755 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
-| piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
+| gransaaa | 2 | 2 | 2 | ⚠️ 50% (4) | $222,003 | +$52,147 |
 
 _(mostrando los 40 de mayor monto, de 196 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Liverpool FC win on 2026-08-23? | No | 1.96 (51¢) | $29,715 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 2.00 (50¢) | $30,061 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | — | ⏳ Pendiente |
@@ -95,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | +$21,375 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | +$38,340 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | +$43,317 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | +$37,136 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | +$24,459 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | +$34,222 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | AV23IUa | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 1.43 (70¢) | $27,913 | -$27,913 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $58,356 | +$7,958 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.61 (62¢) | $26,659 | +$16,339 | ✅ Ganada |
-| ethanaz | Commanders vs. Lions | Lions | 1.28 (78¢) | $51,518 | +$14,531 | ✅ Ganada |
