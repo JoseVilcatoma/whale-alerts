@@ -14755,10 +14755,25 @@
     "title": "Will AC Milan win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 146663.76,
+    "usd": 269750.22,
     "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1787510379,
-    "fills": 3
+    "ultimo_fill": 1787510473,
+    "fills": 6
+  },
+  {
+    "telegram_msg_id": 2003,
+    "timestamp": 1787510414,
+    "username": "0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681",
+    "wallet": "0xc41d736bded9ed1accd6a44235039266219774fd",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 63700.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787510414,
+    "fills": 1
   }
 ]
