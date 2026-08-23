@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 16:43:05 (hora de Perú)
+Actualizado: 2026-08-23 16:45:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **998**  ($54,546,038 en total)
-- Resueltas: **977** — 563 ganadas / 414 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Resueltas: **978** — 563 ganadas / 415 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 213
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,061,595** sobre $53,672,550 apostados (ROI **+2.0%**)
-- Copiando $100 fijo en cada una: **-$5,928** sobre $96,100 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$1,017,514** sobre $53,716,631 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,028** sobre $96,200 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 13 | 0 | 54% | $1,607,309 | -$86,791 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
-| pleaseplease123 | 18 | 12 | 4 | 60% | $1,582,937 | +$182,812 |
+| pleaseplease123 | 18 | 13 | 3 | 58% | $1,582,937 | +$138,731 |
 | jjj1995 | 6 | 2 | 1 | 75% | $1,243,523 | +$320,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 213 en total)_
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | -$30,259 | ❌ Perdida |
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
-| pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | — | ⏳ Pendiente |
