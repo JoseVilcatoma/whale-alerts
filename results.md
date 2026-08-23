@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:29:33 (hora de Perú)
+Actualizado: 2026-08-22 23:31:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **888**  ($47,657,063 en total)
-- Resueltas: **871** — 509 ganadas / 362 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Resueltas: **875** — 512 ganadas / 363 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 197
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,352,937** sobre $46,497,102 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$4,778** sobre $85,700 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,501,220** sobre $46,880,623 apostados (ROI **+3.2%**)
+- Copiando $100 fijo en cada una: **-$4,731** sobre $86,100 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| jjj1995 | 2 | 0 | 1 | ⚠️ 100% (2) | $510,080 | +$111,916 |
+| jjj1995 | 3 | 0 | 0 | ⚠️ 100% (3) | $510,080 | +$264,399 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
@@ -80,12 +80,12 @@ _(mostrando los 40 de mayor monto, de 197 en total)_
 | ndb1 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.72 (58¢) | $145,000 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 1.96 (51¢) | $29,715 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 2.00 (50¢) | $30,061 | — | ⏳ Pendiente |
-| CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | — | ⏳ Pendiente |
+| CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | -$37,406 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | +$62,017 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | +$25,757 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | -$80,214 | ❌ Perdida |
-| n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | — | ⏳ Pendiente |
-| jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
+| n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | +$20,576 | ✅ Ganada |
+| jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | +$152,482 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | +$15,955 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Vitor Petrino | 1.72 (58¢) | $51,072 | +$36,983 | ✅ Ganada |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | +$30,333 | ✅ Ganada |
