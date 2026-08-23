@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:27:03 (hora de Perú)
+Actualizado: 2026-08-22 22:29:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **884**  ($47,369,628 en total)
-- Resueltas: **865** — 505 ganadas / 360 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Resueltas: **866** — 505 ganadas / 361 perdidas (**58%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 196
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,268,494** sobre $46,085,652 apostados (ROI **+2.8%**)
-- Copiando $100 fijo en cada una: **-$4,795** sobre $85,100 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,186,278** sobre $46,167,867 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$4,895** sobre $85,200 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | jjj1995 | 2 | 0 | 1 | ⚠️ 100% (2) | $510,080 | +$111,916 |
-| WTSA | 1 | 6 | 2 | ⚠️ 14% (7) | $501,732 | -$227,773 |
+| WTSA | 1 | 7 | 1 | 12% | $501,732 | -$309,988 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | -$32,900 | ❌ Perdida |
 | kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | — | ⏳ Pendiente |
-| WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | — | ⏳ Pendiente |
+| WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | -$82,215 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | +$29,800 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | +$21,825 | ✅ Ganada |
 | tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | -$45,301 | ❌ Perdida |
