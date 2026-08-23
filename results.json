@@ -12728,7 +12728,7 @@
     "side": "BUY",
     "usd": 39834.789,
     "odds_at_bet": 30,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787437850,
     "fills": 1
   },
@@ -13161,10 +13161,10 @@
     "title": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
     "outcome": "Anthony Hernandez",
     "side": "BUY",
-    "usd": 50436.82950000001,
+    "usd": 80214.3095,
     "odds_at_bet": 67,
     "status": "pending",
-    "ultimo_fill": 1787451374,
-    "fills": 1
+    "ultimo_fill": 1787451437,
+    "fills": 2
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:17:13 (hora de Perú)
+Actualizado: 2026-08-22 21:19:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **876**  ($46,827,227 en total)
-- Resueltas: **852** — 498 ganadas / 354 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Apuestas registradas: **876**  ($46,857,004 en total)
+- Resueltas: **853** — 498 ganadas / 355 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 195
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,307,395** sobre $45,498,263 apostados (ROI **+2.9%**)
-- Copiando $100 fijo en cada una: **-$4,653** sobre $83,800 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,267,560** sobre $45,538,098 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$4,753** sobre $83,900 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 80 | 49 | 1 | 62% | $8,971,529 | +$633,825 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 41 | 26 | 6 | 61% | $3,009,104 | +$301,696 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 41 | 27 | 5 | 60% | $3,038,882 | +$261,861 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $50,437 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | — | ⏳ Pendiente |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 195 en total)_
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | -$37,977 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | -$39,835 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | -$82,250 | ❌ Perdida |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
