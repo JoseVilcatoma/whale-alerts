@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:04:49 (hora de Perú)
+Actualizado: 2026-08-22 21:06:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **873**  ($46,470,675 en total)
-- Resueltas: **844** — 492 ganadas / 352 perdidas (**58%** de acierto)
-- Pendientes: 29
+- Resueltas: **848** — 494 ganadas / 354 perdidas (**58%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,230,477** sobre $45,201,516 apostados (ROI **+2.7%**)
-- Copiando $100 fijo en cada una: **-$5,028** sobre $83,000 (ROI **-6.1%**)
+- **Resultado de los apostadores: +$1,196,244** sobre $45,370,312 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$4,993** sobre $83,400 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,14 +32,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 16 | 11 | 0 | 59% | $1,306,384 | +$154,841 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 5 | 4 | 3 | 56% | $975,887 | -$524,638 |
+| wr0ngw4yb3tt0r | 7 | 4 | 1 | 64% | $975,887 | -$452,076 |
 | Weaseloftheweek | 9 | 9 | 0 | 50% | $803,025 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 4 | 8 | 2 | 33% | $778,900 | -$108,803 |
 | Sassy-Bucket | 9 | 7 | 1 | 56% | $728,904 | +$109,251 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| WTSA | 1 | 2 | 6 | ⚠️ 33% (3) | $501,732 | -$56,390 |
+| WTSA | 1 | 4 | 4 | ⚠️ 20% (5) | $501,732 | -$163,186 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
@@ -86,15 +86,15 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | -$45,301 | ❌ Perdida |
 | xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | -$34,596 | ❌ Perdida |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | +$38,340 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | +$34,222 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | — | ⏳ Pendiente |
-| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | — | ⏳ Pendiente |
+| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | -$68,818 | ❌ Perdida |
+| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | -$37,977 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
