@@ -14070,5 +14070,20 @@
     "status": "pending",
     "ultimo_fill": 1787491763,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1897,
+    "timestamp": 1787492962,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-fut-ts7-2026-08-23",
+    "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 134999.99730000002,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1787492976,
+    "fills": 2
   }
 ]

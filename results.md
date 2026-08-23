@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 08:48:32 (hora de Perú)
+Actualizado: 2026-08-23 08:50:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **936**  ($50,622,046 en total)
+- Apuestas registradas: **937**  ($50,757,046 en total)
 - Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 206
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 5 | 63% | $9,507,574 | +$778,793 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 111111111115 | 28 | 12 | 3 | 70% | $2,358,354 | +$1,212,746 |
+| 111111111115 | 28 | 12 | 4 | 70% | $2,493,354 | +$1,212,746 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 2.00 (50¢) | $30,061 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | -$37,406 | ❌ Perdida |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | +$62,017 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | +$25,757 | ✅ Ganada |
