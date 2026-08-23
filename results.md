@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 02:51:59 (hora de Perú)
+Actualizado: 2026-08-23 02:54:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **903**  ($48,999,125 en total)
+- Apuestas registradas: **904**  ($49,026,965 en total)
 - Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 199
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | Legacy | 2.63 (38¢) | $26,135 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will AC Milan win on 2026-08-23? | No | 2.13 (47¢) | $64,105 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | -$39,835 | ❌ Perdida |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | -$82,250 | ❌ Perdida |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | +$100,018 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
