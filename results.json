@@ -13361,5 +13361,35 @@
     "status": "pending",
     "ultimo_fill": 1787459825,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1838,
+    "timestamp": 1787460182,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-vsn2-ts8-2026-08-23",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 157725.4752,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787460182,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1839,
+    "timestamp": 1787460221,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "dota2-vsn2-ts8-2026-08-23",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 41788.4954,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787460221,
+    "fills": 1
   }
 ]
