@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 06:48:40 (hora de Perú)
+Actualizado: 2026-08-23 06:50:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **914**  ($49,482,507 en total)
+- Apuestas registradas: **915**  ($49,551,507 en total)
 - Resueltas: **890** — 522 ganadas / 368 perdidas (**59%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 202
+- Pendientes: 25
+- Apostadores distintos: 203
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 0 | ⚠️ 20% (5) | $250,785 | -$73,785 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 
-_(mostrando los 40 de mayor monto, de 202 en total)_
+_(mostrando los 40 de mayor monto, de 203 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | — | ⏳ Pendiente |
 | sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | — | ⏳ Pendiente |
 | ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 202 en total)_
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | +$38,340 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | +$43,317 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | +$37,136 | ✅ Ganada |
-| AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
