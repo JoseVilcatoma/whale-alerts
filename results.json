@@ -14445,5 +14445,20 @@
     "status": "pending",
     "ultimo_fill": 1787501054,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1953,
+    "timestamp": 1787501291,
+    "username": "Rusik7",
+    "wallet": "0xa6a0ef15106e14b2c5422a4d691a2e64ce594469",
+    "slug": "cs2-fut-ts7-2026-08-23",
+    "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 31500.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1787501291,
+    "fills": 1
   }
 ]
