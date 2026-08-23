@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 20:22:54 (hora de Perú)
+Actualizado: 2026-08-22 20:24:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **868**  ($46,127,858 en total)
+- Apuestas registradas: **870**  ($46,220,490 en total)
 - Resueltas: **838** — 490 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 194
 
 ### Balance
@@ -36,17 +36,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 9 | 9 | 0 | 50% | $803,025 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | Sassy-Bucket | 9 | 7 | 1 | 56% | $728,904 | +$109,251 |
-| beachboy4 | 4 | 8 | 0 | 33% | $647,803 | -$108,803 |
+| beachboy4 | 4 | 8 | 1 | 33% | $689,315 | -$108,803 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
+| WTSA | 1 | 2 | 6 | ⚠️ 33% (3) | $426,107 | -$56,390 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 3 | 4 | 1 | ⚠️ 43% (7) | $381,070 | -$108,025 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
-| WTSA | 1 | 2 | 5 | ⚠️ 33% (3) | $374,988 | -$56,390 |
 | xifutloong3 | 3 | 8 | 1 | 27% | $372,988 | -$208,419 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $41,512 | — | ⏳ Pendiente |
+| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.96 (51¢) | $51,119 | — | ⏳ Pendiente |
 | kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | — | ⏳ Pendiente |
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | — | ⏳ Pendiente |
 | kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | texaskid | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.69 (59¢) | $27,905 | +$19,391 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.52 (66¢) | $27,210 | +$14,017 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Borussia Dortmund vs. Bayern Munich: O/U 1.5 | Over 1.5 | 1.10 (91¢) | $93,939 | +$9,291 | ✅ Ganada |
-| AV23IUa | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $67,882 | +$41,605 | ✅ Ganada |
-| 0F62 | Will RCD Espanyol de Barcelona win on 2026-08-22? | No | 1.12 (89¢) | $32,040 | +$3,960 | ✅ Ganada |
