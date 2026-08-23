@@ -12986,5 +12986,35 @@
     "status": "pending",
     "ultimo_fill": 1787444004,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1764,
+    "timestamp": 1787445423,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-min-sd-2026-08-22",
+    "title": "Minnesota Twins vs. San Diego Padres",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 27844.9983,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787445423,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1765,
+    "timestamp": 1787445428,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "mls-vwh-dal-2026-08-22-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 43549.359200000006,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1787445428,
+    "fills": 1
   }
 ]
