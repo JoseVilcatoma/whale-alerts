@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:12:40 (hora de Perú)
+Actualizado: 2026-08-23 15:16:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **990**  ($54,183,197 en total)
-- Resueltas: **956** — 553 ganadas / 403 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Resueltas: **957** — 553 ganadas / 404 perdidas (**58%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 212
 
 ### Balance
 
-- **Resultado de los apostadores: +$956,194** sobre $52,302,338 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$5,667** sobre $94,000 (ROI **-6.0%**)
+- **Resultado de los apostadores: +$930,216** sobre $52,328,315 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$5,767** sobre $94,100 (ROI **-6.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 54 | 3 | 61% | $9,625,899 | +$418,933 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 55 | 2 | 61% | $9,625,899 | +$392,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 3 | 62% | $3,176,159 | +$308,566 |
 | 3edmond.dantes | 13 | 6 | 2 | 68% | $2,735,306 | +$226,281 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $63,700 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $269,750 | — | ⏳ Pendiente |
 | ChinesePro | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele | Pierre-Hugues Herbert | 1.79 (56¢) | $25,977 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele | Pierre-Hugues Herbert | 1.79 (56¢) | $25,977 | -$25,977 | ❌ Perdida |
 | matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | — | ⏳ Pendiente |
 | RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $47,434 | — | ⏳ Pendiente |
