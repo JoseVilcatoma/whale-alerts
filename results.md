@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 01:57:39 (hora de Perú)
+Actualizado: 2026-08-23 01:59:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **900**  ($48,708,021 en total)
+- Apuestas registradas: **901**  ($48,908,885 en total)
 - Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 199
 
 ### Balance
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
+| jjj1995 | 3 | 0 | 1 | ⚠️ 100% (3) | $710,944 | +$264,399 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| jjj1995 | 3 | 0 | 0 | ⚠️ 100% (3) | $510,080 | +$264,399 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 0 | 1 | — | $487,163 | — |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | FURIA | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $80,861 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $68,795 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 1.79 (56¢) | $56,000 | +$44,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
