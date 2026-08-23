@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 06:03:19 (hora de Perú)
+Actualizado: 2026-08-23 06:05:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **910**  ($49,288,755 en total)
+- Apuestas registradas: **911**  ($49,353,034 en total)
 - Resueltas: **887** — 520 ganadas / 367 perdidas (**59%** de acierto)
-- Pendientes: 23
-- Apostadores distintos: 200
+- Pendientes: 24
+- Apostadores distintos: 201
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 
-_(mostrando los 40 de mayor monto, de 200 en total)_
+_(mostrando los 40 de mayor monto, de 201 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | — | ⏳ Pendiente |
 | SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $32,948 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | +$24,459 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | +$34,222 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | -$68,818 | ❌ Perdida |
