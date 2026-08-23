@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:35:41 (hora de Perú)
+Actualizado: 2026-08-22 23:37:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **888**  ($47,657,063 en total)
+- Apuestas registradas: **889**  ($47,685,502 en total)
 - Resueltas: **882** — 519 ganadas / 363 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 197
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 197 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | — | ⏳ Pendiente |
 | RJW1 | Will Aston Villa FC win on 2026-08-23? | Yes | 3.33 (30¢) | $31,739 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.37 (73¢) | $106,256 | +$39,300 | ✅ Ganada |
 | GEAEW | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.59 (63¢) | $35,434 | +$20,810 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 197 en total)_
 | quavoo | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $28,356 | +$12,739 | ✅ Ganada |
 | Weaseloftheweek | Counter-Strike: Legacy vs Spirit - Map 2 Winner | Spirit | 1.52 (66¢) | $33,076 | +$17,039 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Flavio Cobolli vs Arthur Fils | Arthur Fils | 1.06 (94¢) | $37,305 | +$2,381 | ✅ Ganada |
-| Rusik7 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $25,612 | +$3,493 | ✅ Ganada |
