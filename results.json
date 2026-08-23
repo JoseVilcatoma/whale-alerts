@@ -15105,5 +15105,20 @@
     "status": "pending",
     "ultimo_fill": 1787528152,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2075,
+    "timestamp": 1787528558,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-bondar-liang-2026-08-23",
+    "title": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang",
+    "outcome": "Anna Bondar",
+    "side": "BUY",
+    "usd": 28458.046399999996,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1787528558,
+    "fills": 1
   }
 ]
