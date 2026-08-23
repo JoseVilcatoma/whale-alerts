@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 12:42:29 (hora de Perú)
+Actualizado: 2026-08-23 12:44:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **970**  ($52,770,614 en total)
+- Apuestas registradas: **971**  ($52,795,871 en total)
 - Resueltas: **943** — 548 ganadas / 395 perdidas (**58%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 210
+- Pendientes: 28
+- Apostadores distintos: 211
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 
-_(mostrando los 40 de mayor monto, de 210 en total)_
+_(mostrando los 40 de mayor monto, de 211 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | — | ⏳ Pendiente |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | -$47,330 | ❌ Perdida |
 | sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | -$57,063 | ❌ Perdida |
 | ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
-| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | +$36,157 | ✅ Ganada |

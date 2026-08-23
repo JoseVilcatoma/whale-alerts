@@ -14580,5 +14580,20 @@
     "status": "pending",
     "ultimo_fill": 1787506608,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1984,
+    "timestamp": 1787507054,
+    "username": "0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939",
+    "wallet": "0xfe5428c1b7fae9f29cc5ce3b393d9a77251541d6",
+    "slug": "mlb-tb-bal-2026-08-23",
+    "title": "Tampa Bay Rays vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 25256.552,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787507054,
+    "fills": 1
   }
 ]
