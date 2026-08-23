@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 12:11:08 (hora de Perú)
+Actualizado: 2026-08-23 12:13:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **967**  ($52,672,958 en total)
-- Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
-- Pendientes: 46
+- Resueltas: **928** — 541 ganadas / 387 perdidas (**58%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 210
 
 ### Balance
 
-- **Resultado de los apostadores: +$963,837** sobre $49,912,655 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$5,094** sobre $90,500 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$830,781** sobre $50,267,055 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$5,169** sobre $91,200 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 53 | 4 | 61% | $9,599,921 | +$443,411 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 3 | 62% | $9,599,921 | +$453,880 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 111111111115 | 29 | 13 | 3 | 69% | $2,594,226 | +$1,210,653 |
+| 111111111115 | 29 | 15 | 1 | 66% | $2,594,226 | +$1,033,053 |
 | 3edmond.dantes | 13 | 4 | 2 | 76% | $2,413,469 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 3 | 3 | 6 | ⚠️ 50% (6) | $1,591,711 | +$212,992 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 1 | 62% | $346,187 | +$1,541 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
@@ -76,9 +76,9 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | — | ⏳ Pendiente |
-| Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | — | ⏳ Pendiente |
+| Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | +$4,729 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | — | ⏳ Pendiente |
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | — | ⏳ Pendiente |
 | bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
-| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | — | ⏳ Pendiente |
+| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | +$19,804 | ✅ Ganada |
@@ -118,16 +118,16 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | +$10,469 | ✅ Ganada |
 | SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | -$42,537 | ❌ Perdida |
-| n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | — | ⏳ Pendiente |
-| basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | — | ⏳ Pendiente |
+| n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | +$12,423 | ✅ Ganada |
+| basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | +$13,424 | ✅ Ganada |
 | 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | -$50,163 | ❌ Perdida |
 | plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | -$47,330 | ❌ Perdida |
 | sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | -$57,063 | ❌ Perdida |
 | ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | +$12,920 | ✅ Ganada |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | +$36,157 | ✅ Ganada |
-| SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | — | ⏳ Pendiente |
+| SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | -$42,601 | ❌ Perdida |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | +$8,448 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $32,948 | +$4,923 | ✅ Ganada |
