@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 07:09:12 (hora de Perú)
+Actualizado: 2026-08-23 07:11:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **921**  ($49,792,234 en total)
-- Resueltas: **891** — 522 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 204
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,851,183** sobre $47,776,428 apostados (ROI **+3.9%**)
-- Copiando $100 fijo en cada una: **-$4,332** sobre $87,500 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,887,340** sobre $47,840,707 apostados (ROI **+3.9%**)
+- Copiando $100 fijo en cada una: **-$4,276** sobre $87,600 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 204 en total)_
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | — | ⏳ Pendiente |
 | sulumos | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $57,063 | — | ⏳ Pendiente |
 | ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
-| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | — | ⏳ Pendiente |
+| Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | +$36,157 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $32,948 | — | ⏳ Pendiente |
