@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:21:00 (hora de Perú)
+Actualizado: 2026-08-23 15:23:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **992**  ($54,271,526 en total)
-- Resueltas: **957** — 553 ganadas / 404 perdidas (**58%** de acierto)
-- Pendientes: 35
+- Resueltas: **958** — 554 ganadas / 404 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 212
 
 ### Balance
 
-- **Resultado de los apostadores: +$930,216** sobre $52,328,315 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$5,767** sobre $94,100 (ROI **-6.1%**)
+- **Resultado de los apostadores: +$957,704** sobre $52,360,583 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$5,682** sobre $94,200 (ROI **-6.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 12 | 1 | 56% | $1,607,309 | +$111,209 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
-| pleaseplease123 | 16 | 11 | 7 | 59% | $1,582,937 | +$154,841 |
+| pleaseplease123 | 17 | 11 | 6 | 61% | $1,582,937 | +$182,328 |
 | jjj1995 | 5 | 2 | 1 | ⚠️ 71% (7) | $1,143,523 | +$129,901 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 | ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | -$32,568 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $494,222 | +$494,222 | ✅ Ganada |
 | crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | +$55,745 | ✅ Ganada |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $32,268 | — | ⏳ Pendiente |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $32,268 | +$27,487 | ✅ Ganada |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $124,303 | -$124,303 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
