@@ -13136,5 +13136,20 @@
     "status": "pending",
     "ultimo_fill": 1787450832,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1792,
+    "timestamp": 1787451200,
+    "username": "n0tTODAY",
+    "wallet": "0x89a636baae1c31a712eff86c564601ac4135429a",
+    "slug": "dota2-ty-ts8-2026-08-22",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 35034.6843,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787451200,
+    "fills": 1
   }
 ]
