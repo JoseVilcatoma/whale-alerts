@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 11:01:09 (hora de Perú)
+Actualizado: 2026-08-23 11:03:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **959**  ($52,336,158 en total)
+- Apuestas registradas: **960**  ($52,374,420 en total)
 - Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 210
 
 ### Balance
@@ -51,10 +51,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0b1 | 11 | 0 | 0 | 100% | $376,393 | +$34,409 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 1 | 62% | $346,187 | +$1,541 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
 | ferrariChampions2026 | 6 | 3 | 0 | 67% | $322,011 | -$94,274 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 5 | 3 | 0 | 62% | $307,925 | +$1,541 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | ChinesePro | 1 | 4 | 2 | ⚠️ 20% (5) | $288,138 | -$170,529 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | — | ⏳ Pendiente |
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | CORGI8 | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | Legacy | 2.63 (38¢) | $26,135 | +$42,642 | ✅ Ganada |
 | 0x076d…8d4c | Will AC Milan win on 2026-08-23? | No | 2.13 (47¢) | $64,105 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.10 (91¢) | $200,864 | +$19,866 | ✅ Ganada |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | FURIA | 1.59 (63¢) | $25,200 | -$25,200 | ❌ Perdida |
