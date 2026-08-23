@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 22:22:59 (hora de Perú)
+Actualizado: 2026-08-22 22:25:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **882**  ($47,234,516 en total)
+- Apuestas registradas: **883**  ($47,327,226 en total)
 - Resueltas: **863** — 503 ganadas / 360 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 196
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 81 | 49 | 1 | 62% | $9,005,672 | +$649,780 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 81 | 49 | 2 | 62% | $9,098,382 | +$649,780 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 44 | 28 | 1 | 61% | $3,038,882 | +$285,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.75 (57¢) | $92,709 | — | ⏳ Pendiente |
 | ndb1 | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.72 (58¢) | $145,000 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 1.96 (51¢) | $29,715 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 2.00 (50¢) | $30,061 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 196 en total)_
 | AV23IUa | Will Real Madrid CF win on 2026-08-22? | Yes | 1.45 (69¢) | $169,671 | +$76,229 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Jessica Pegula | 3.33 (30¢) | $30,000 | +$70,000 | ✅ Ganada |
 | AV23IUa | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 1.43 (70¢) | $27,913 | -$27,913 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs | Spirit | 1.14 (88¢) | $58,356 | +$7,958 | ✅ Ganada |
