@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 19:10:26 (hora de Perú)
+Actualizado: 2026-08-22 19:12:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **862**  ($45,867,170 en total)
+- Apuestas registradas: **863**  ($45,906,673 en total)
 - Resueltas: **834** — 486 ganadas / 348 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 194
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 79 | 49 | 1 | 62% | $8,937,624 | +$631,971 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 4 | 61% | $2,868,093 | +$279,871 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 40 | 26 | 5 | 61% | $2,907,596 | +$279,871 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | — | ⏳ Pendiente |
 | tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | — | ⏳ Pendiente |
 | xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $231,879 | +$142,120 | ✅ Ganada |
 | Harahiro | Will Bayern Munich win on 2026-08-22? | No | 2.63 (38¢) | $37,417 | -$37,417 | ❌ Perdida |
 | tikstt | Will Cagliari Calcio win on 2026-08-22? | No | 1.47 (68¢) | $25,374 | -$25,374 | ❌ Perdida |
-| 3edmond.dantes | Will Bayern Munich win on 2026-08-22? | Yes | 1.61 (62¢) | $235,600 | +$144,400 | ✅ Ganada |
