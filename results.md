@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:18:04 (hora de Perú)
+Actualizado: 2026-08-23 10:20:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **953**  ($51,741,983 en total)
-- Resueltas: **919** — 535 ganadas / 384 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Resueltas: **921** — 536 ganadas / 385 perdidas (**58%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 210
 
 ### Balance
 
-- **Resultado de los apostadores: +$984,236** sobre $49,850,256 apostados (ROI **+2.0%**)
-- Copiando $100 fijo en cada una: **-$5,031** sobre $90,300 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$963,837** sobre $49,912,655 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$5,094** sobre $90,500 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | +$19,804 | ✅ Ganada |
 | tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | +$24,767 | ✅ Ganada |
-| RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
+| RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | +$11,340 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | — | ⏳ Pendiente |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
