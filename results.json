@@ -12878,7 +12878,7 @@
     "side": "BUY",
     "usd": 41618.1794,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787440355,
     "fills": 1
   },
@@ -13150,6 +13150,21 @@
     "odds_at_bet": 63,
     "status": "pending",
     "ultimo_fill": 1787451200,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1794,
+    "timestamp": 1787451374,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "ufc-ant-gre3-2026-08-22",
+    "title": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",
+    "outcome": "Anthony Hernandez",
+    "side": "BUY",
+    "usd": 50436.82950000001,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1787451374,
     "fills": 1
   }
 ]
