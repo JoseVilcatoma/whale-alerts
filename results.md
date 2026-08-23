@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 12:48:37 (hora de Perú)
+Actualizado: 2026-08-23 12:50:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **971**  ($52,795,871 en total)
-- Resueltas: **943** — 548 ganadas / 395 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Resueltas: **948** — 551 ganadas / 397 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 211
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,283,855** sobre $51,541,283 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$5,248** sobre $92,700 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,169,908** sobre $51,842,068 apostados (ROI **+2.3%**)
+- Copiando $100 fijo en cada una: **-$5,221** sobre $93,200 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,10 +31,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 16 | 11 | 5 | 59% | $1,484,953 | +$154,841 |
-| AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
+| AV23IUa | 15 | 12 | 0 | 56% | $1,409,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| jjj1995 | 5 | 1 | 1 | ⚠️ 83% (6) | $952,518 | +$267,887 |
+| jjj1995 | 5 | 2 | 0 | ⚠️ 71% (7) | $952,518 | +$129,901 |
 | Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | -$25,673 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | +$41,369 | ✅ Ganada |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | — | ⏳ Pendiente |
-| bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | — | ⏳ Pendiente |
+| bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | +$16,428 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | -$110,000 | ❌ Perdida |
@@ -114,12 +114,12 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | -$25,773 | ❌ Perdida |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
-| AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Liverpool FC win on 2026-08-23? | Yes | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | AV23IUa | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
 | SPCEXBUYER | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.08 (48¢) | $37,333 | +$40,444 | ✅ Ganada |
 | mamo4ka | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 1.85 (54¢) | $26,000 | +$22,148 | ✅ Ganada |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.00 (50¢) | $32,286 | +$32,286 | ✅ Ganada |
-| jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | — | ⏳ Pendiente |
+| jjj1995 | Will Liverpool FC win on 2026-08-23? | Yes | 2.00 (50¢) | $137,986 | -$137,986 | ❌ Perdida |
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | -$47,520 | ❌ Perdida |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | +$10,469 | ✅ Ganada |
