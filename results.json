@@ -14985,5 +14985,20 @@
     "status": "pending",
     "ultimo_fill": 1787518668,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 2035,
+    "timestamp": 1787518841,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-hou-2026-08-23",
+    "title": "Athletics vs. Houston Astros",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 42731.39802,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787518841,
+    "fills": 1
   }
 ]
