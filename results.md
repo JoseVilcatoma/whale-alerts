@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 09:19:53 (hora de Perú)
+Actualizado: 2026-08-23 09:21:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **937**  ($50,757,046 en total)
+- Apuestas registradas: **938**  ($50,799,309 en total)
 - Resueltas: **906** — 528 ganadas / 378 perdidas (**58%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 206
+- Pendientes: 32
+- Apostadores distintos: 207
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 
-_(mostrando los 40 de mayor monto, de 206 en total)_
+_(mostrando los 40 de mayor monto, de 207 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | — | ⏳ Pendiente |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 1.96 (51¢) | $29,715 | — | ⏳ Pendiente |
 | gransaaa | Will Liverpool FC win on 2026-08-23? | No | 2.00 (50¢) | $30,061 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Yandex | 2.13 (47¢) | $37,406 | -$37,406 | ❌ Perdida |
-| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.61 (62¢) | $101,186 | +$62,017 | ✅ Ganada |

@@ -14085,5 +14085,20 @@
     "status": "pending",
     "ultimo_fill": 1787492976,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1912,
+    "timestamp": 1787494798,
+    "username": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+    "wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+    "slug": "lol-blg-al-2026-08-23",
+    "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 42263.121699999996,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1787494798,
+    "fills": 1
   }
 ]
