@@ -14610,5 +14610,20 @@
     "status": "pending",
     "ultimo_fill": 1787507564,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1991,
+    "timestamp": 1787508113,
+    "username": "tes21sa",
+    "wallet": "0x20b80ebb96e2051540e1d475e4ce122fc282aa04",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30258.7131,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787508113,
+    "fills": 1
   }
 ]
