@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 07:56:57 (hora de Perú)
+Actualizado: 2026-08-23 07:58:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **933**  ($50,383,543 en total)
+- Apuestas registradas: **934**  ($50,458,046 en total)
 - Resueltas: **892** — 523 ganadas / 369 perdidas (**59%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 206
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | — | ⏳ Pendiente |
 | tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | — | ⏳ Pendiente |
 | RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 206 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: Team Yandex vs Team Spirit - Game 1 Winner | Team Spirit | 1.75 (57¢) | $34,144 | +$25,757 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) | Anthony Hernandez | 1.49 (67¢) | $80,214 | -$80,214 | ❌ Perdida |
 | n0tTODAY | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.59 (63¢) | $35,035 | +$20,576 | ✅ Ganada |
-| jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | +$152,482 | ✅ Ganada |
