@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 00:53:28 (hora de Perú)
+Actualizado: 2026-08-23 00:55:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **899**  ($48,682,821 en total)
-- Resueltas: **884** — 520 ganadas / 364 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 199
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,961,988** sobre $47,538,548 apostados (ROI **+4.1%**)
+- **Resultado de los apostadores: +$1,961,488** sobre $47,567,548 apostados (ROI **+4.1%**)
 - Copiando $100 fijo en cada una: **-$4,113** sobre $86,900 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | — | ⏳ Pendiente |
 | Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | -$500 | 💰 Vendida antes |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | — | ⏳ Pendiente |
 | coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | -$490 | 💰 Vendida antes |
