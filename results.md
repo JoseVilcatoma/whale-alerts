@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 12:31:54 (hora de Perú)
+Actualizado: 2026-08-23 12:34:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **968**  ($52,699,958 en total)
-- Resueltas: **930** — 541 ganadas / 389 perdidas (**58%** de acierto)
-- Pendientes: 38
+- Resueltas: **943** — 548 ganadas / 395 perdidas (**58%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 210
 
 ### Balance
 
-- **Resultado de los apostadores: +$695,009** sobre $50,402,827 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$5,369** sobre $91,400 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$1,283,855** sobre $51,541,283 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$5,248** sobre $92,700 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 29 | 15 | 1 | 66% | $2,594,226 | +$1,033,053 |
 | 3edmond.dantes | 13 | 4 | 2 | 76% | $2,413,469 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 3 | 3 | 6 | ⚠️ 50% (6) | $1,591,711 | +$212,992 |
+| ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 16 | 11 | 4 | 59% | $1,440,872 | +$154,841 |
 | AV23IUa | 15 | 11 | 1 | 58% | $1,409,309 | +$162,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 5 | 1 | ⚠️ 17% (6) | $429,088 | -$127,785 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 6 | 0 | ⚠️ 14% (7) | $429,088 | -$252,088 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
-| ChinesePro | 1 | 4 | 2 | ⚠️ 20% (5) | $288,138 | -$170,529 |
+| ChinesePro | 1 | 5 | 1 | ⚠️ 17% (6) | $288,138 | -$203,098 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
@@ -85,20 +85,20 @@ _(mostrando los 40 de mayor monto, de 210 en total)_
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | — | ⏳ Pendiente |
 | crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | — | ⏳ Pendiente |
 | crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 2.00 (50¢) | $27,443 | — | ⏳ Pendiente |
-| jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | — | ⏳ Pendiente |
-| matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
-| ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $494,222 | — | ⏳ Pendiente |
-| crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | — | ⏳ Pendiente |
+| jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | -$34,920 | ❌ Perdida |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | +$85,000 | ✅ Ganada |
+| matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | -$31,200 | ❌ Perdida |
+| ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | -$32,568 | ❌ Perdida |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $494,222 | +$494,222 | ✅ Ganada |
+| crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | +$55,745 | ✅ Ganada |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $32,268 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $124,303 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | — | ⏳ Pendiente |
-| hansama231 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $31,824 | — | ⏳ Pendiente |
-| norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | — | ⏳ Pendiente |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | — | ⏳ Pendiente |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $124,303 | -$124,303 | ❌ Perdida |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $73,500 | +$76,500 | ✅ Ganada |
+| hansama231 | Will AS Monaco FC win on 2026-08-23? | No | 1.96 (51¢) | $31,824 | -$31,824 | ❌ Perdida |
+| norrisfan | Will AS Monaco FC win on 2026-08-23? | No | 1.92 (52¢) | $25,673 | -$25,673 | ❌ Perdida |
+| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.08 (48¢) | $38,186 | +$41,369 | ✅ Ganada |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Bilibili Gaming | 1.49 (67¢) | $100,872 | — | ⏳ Pendiente |
 | bomber | Will Newcastle United FC win on 2026-08-23? | No | 1.32 (76¢) | $52,023 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend | Anyone's Legend | 2.70 (37¢) | $42,263 | — | ⏳ Pendiente |
