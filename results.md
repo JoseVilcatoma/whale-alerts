@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 03:38:11 (hora de Perú)
+Actualizado: 2026-08-23 03:40:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **905**  ($49,068,743 en total)
+- Apuestas registradas: **906**  ($49,094,072 en total)
 - Resueltas: **885** — 520 ganadas / 365 perdidas (**59%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 199
+- Pendientes: 21
+- Apostadores distintos: 200
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 
-_(mostrando los 40 de mayor monto, de 199 en total)_
+_(mostrando los 40 de mayor monto, de 200 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | — | ⏳ Pendiente |
 | CyberScore.live | Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner | Team Spirit | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs | Legacy | 2.63 (38¢) | $26,135 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | -$39,835 | ❌ Perdida |
-| pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | -$82,250 | ❌ Perdida |

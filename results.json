@@ -13605,5 +13605,20 @@
     "status": "pending",
     "ultimo_fill": 1787472462,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1858,
+    "timestamp": 1787474305,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "lol-tt-lgd-2026-08-23-game2",
+    "title": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 25329.048,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1787474305,
+    "fills": 1
   }
 ]
