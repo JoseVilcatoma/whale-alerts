@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 00:45:14 (hora de Perú)
+Actualizado: 2026-08-23 00:47:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **899**  ($48,682,821 en total)
-- Resueltas: **883** — 520 ganadas / 363 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **884** — 520 ganadas / 364 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 199
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,962,478** sobre $47,510,109 apostados (ROI **+4.1%**)
+- **Resultado de los apostadores: +$1,961,988** sobre $47,538,548 apostados (ROI **+4.1%**)
 - Copiando $100 fijo en cada una: **-$4,113** sobre $86,900 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | — | ⏳ Pendiente |
-| coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | — | ⏳ Pendiente |
+| coali10 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $28,439 | -$490 | 💰 Vendida antes |
 | RJW1 | Will Aston Villa FC win on 2026-08-23? | Yes | 3.33 (30¢) | $31,739 | — | ⏳ Pendiente |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.37 (73¢) | $106,256 | +$39,300 | ✅ Ganada |
 | GEAEW | Dota 2: Team Yandex vs Team Spirit - Game 2 Winner | Team Spirit | 1.59 (63¢) | $35,434 | +$20,810 | ✅ Ganada |
