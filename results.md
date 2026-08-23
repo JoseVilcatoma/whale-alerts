@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 06:13:49 (hora de Perú)
+Actualizado: 2026-08-23 06:15:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **911**  ($49,353,034 en total)
+- Apuestas registradas: **912**  ($49,378,114 en total)
 - Resueltas: **887** — 520 ganadas / 367 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 201
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 201 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $25,080 | — | ⏳ Pendiente |
 | Hdisllbsj | Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner | TEAM VISION | 1.56 (64¢) | $64,279 | — | ⏳ Pendiente |
 | SPCEXBUYER | Map Handicap: TS (-1.5) vs FUT Esports (+1.5) | FUT Esports | 2.27 (44¢) | $42,601 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $56,536 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 201 en total)_
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | +$24,459 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | +$34,222 | ✅ Ganada |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
