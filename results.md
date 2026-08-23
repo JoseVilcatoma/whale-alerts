@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:25:05 (hora de Perú)
+Actualizado: 2026-08-23 15:27:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **993**  ($54,301,226 en total)
+- Apuestas registradas: **994**  ($54,332,374 en total)
 - Resueltas: **958** — 554 ganadas / 404 perdidas (**58%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 212
+- Pendientes: 36
+- Apostadores distintos: 213
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 1 | 1 | ⚠️ 75% (4) | $255,979 | +$31,946 |
 
-_(mostrando los 40 de mayor monto, de 212 en total)_
+_(mostrando los 40 de mayor monto, de 213 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | — | ⏳ Pendiente |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | — | ⏳ Pendiente |
 | texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | FUT Esports | 3.70 (27¢) | $135,000 | -$135,000 | ❌ Perdida |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.82 (55¢) | $110,000 | -$110,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $54,000 | -$54,000 | ❌ Perdida |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Manchester City FC vs. AFC Bournemouth: O/U 4.5 | Under 4.5 | 1.27 (79¢) | $74,503 | +$19,804 | ✅ Ganada |

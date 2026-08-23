@@ -14925,5 +14925,20 @@
     "status": "pending",
     "ultimo_fill": 1787516675,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2025,
+    "timestamp": 1787516743,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "atp-fils-tiafoe-2026-08-23",
+    "title": "Cincinnati Open: Arthur Fils vs Frances Tiafoe",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "usd": 31148.396800000002,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787516743,
+    "fills": 1
   }
 ]
