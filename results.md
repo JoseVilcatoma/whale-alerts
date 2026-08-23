@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:06:31 (hora de Perú)
+Actualizado: 2026-08-23 15:08:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **989**  ($54,134,788 en total)
+- Apuestas registradas: **990**  ($54,183,197 en total)
 - Resueltas: **956** — 553 ganadas / 403 perdidas (**58%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 212
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 2.13 (47¢) | $70,501 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 | tennischamp | Will Manchester City FC win on 2026-08-23? | Yes | 1.52 (66¢) | $48,078 | +$24,767 | ✅ Ganada |
 | RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | +$11,340 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | -$25,773 | ❌ Perdida |
-| SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
