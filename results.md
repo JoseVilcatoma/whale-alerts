@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 21:06:56 (hora de Perú)
+Actualizado: 2026-08-22 21:09:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **873**  ($46,470,675 en total)
-- Resueltas: **848** — 494 ganadas / 354 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Apuestas registradas: **874**  ($46,741,755 en total)
+- Resueltas: **851** — 497 ganadas / 354 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,196,244** sobre $45,370,312 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$4,993** sobre $83,400 (ROI **-6.0%**)
+- **Resultado de los apostadores: +$1,264,078** sobre $45,456,645 apostados (ROI **+2.8%**)
+- Copiando $100 fijo en cada una: **-$4,757** sobre $83,700 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,6 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 9 | 7 | 1 | 56% | $728,904 | +$109,251 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| jjj1995 | 2 | 0 | 1 | ⚠️ 100% (2) | $510,080 | +$111,916 |
 | WTSA | 1 | 4 | 4 | ⚠️ 20% (5) | $501,732 | -$163,186 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
@@ -60,7 +61,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 0 | ⚠️ 20% (5) | $250,785 | -$73,785 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
-| jjj1995 | 2 | 0 | 0 | ⚠️ 100% (2) | $239,000 | +$111,916 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
 | kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
 | piomolska | 0 | 1 | 0 | ⚠️ 0% (1) | $216,499 | -$216,499 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Vitor Petrino | 1.72 (58¢) | $51,072 | — | ⏳ Pendiente |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | — | ⏳ Pendiente |
@@ -85,14 +86,14 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 1.79 (56¢) | $27,777 | +$21,825 | ✅ Ganada |
 | tes21sa | Will Toronto FC win on 2026-08-22? | No | 1.18 (85¢) | $45,301 | -$45,301 | ❌ Perdida |
 | xifutloong3 | Los Angeles Angels vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $34,596 | -$34,596 | ❌ Perdida |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | — | ⏳ Pendiente |
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $27,204 | +$21,375 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.13 (47¢) | $34,000 | +$38,340 | ✅ Ganada |
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Over 7.5 | 2.04 (49¢) | $41,618 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Chicago White Sox | New York Mets | 2.00 (50¢) | $37,136 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Open: Brandon Nakashima vs Frances Tiafoe | Frances Tiafoe | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | — | ⏳ Pendiente |
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $31,129 | +$24,459 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Inter Miami CF (-1.5) | Toronto FC | 2.22 (45¢) | $28,000 | +$34,222 | ✅ Ganada |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | -$68,818 | ❌ Perdida |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | -$37,977 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | BoggsFromShawshank | Will OGC Nice win on 2026-08-22? | No | 1.69 (59¢) | $29,264 | +$20,336 | ✅ Ganada |
 | ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $74,106 | -$74,106 | ❌ Perdida |
 | norrisfan | Will Paris FC win on 2026-08-22? | No | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| ripley86alien | Will Paris FC win on 2026-08-22? | Yes | 2.17 (46¢) | $32,073 | -$32,073 | ❌ Perdida |

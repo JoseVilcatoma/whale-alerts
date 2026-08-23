@@ -12803,7 +12803,7 @@
     "side": "BUY",
     "usd": 28000.000000000004,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787439121,
     "fills": 1
   },
@@ -12833,7 +12833,7 @@
     "side": "BUY",
     "usd": 31129.392,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787439708,
     "fills": 1
   },
@@ -12908,7 +12908,7 @@
     "side": "BUY",
     "usd": 27204.066400000003,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787441016,
     "fills": 1
   },
@@ -13120,6 +13120,21 @@
     "odds_at_bet": 68,
     "status": "pending",
     "ultimo_fill": 1787450111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1788,
+    "timestamp": 1787450832,
+    "username": "jjj1995",
+    "wallet": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+    "slug": "dota2-ty-ts8-2026-08-22",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 271079.91000000003,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787450832,
     "fills": 1
   }
 ]
