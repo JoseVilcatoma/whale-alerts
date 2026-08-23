@@ -13106,5 +13106,20 @@
     "status": "pending",
     "ultimo_fill": 1787449514,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 1782,
+    "timestamp": 1787450111,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-bejlek-gauff-2026-08-22",
+    "title": "Cincinnati Open: Sara Bejlek vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 33905.0057,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1787450111,
+    "fills": 1
   }
 ]
