@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 18:28:00 (hora de Perú)
+Actualizado: 2026-08-23 18:30:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1004**  ($54,907,218 en total)
-- Resueltas: **994** — 572 ganadas / 422 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **996** — 574 ganadas / 422 perdidas (**58%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$858,862** sobre $54,435,112 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,163** sobre $97,800 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$891,004** sobre $54,530,330 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,084** sobre $98,000 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 86 | 55 | 5 | 61% | $9,886,544 | +$395,624 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 87 | 55 | 4 | 61% | $9,886,544 | +$402,756 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 | sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 1 | 1 | ⚠️ 75% (4) | $255,979 | +$31,946 |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 1 | 0 | ⚠️ 80% (5) | $255,979 | +$56,956 |
 
 _(mostrando los 40 de mayor monto, de 214 en total)_
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.45 (69¢) | $138,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.12 (89¢) | $57,702 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.12 (89¢) | $57,702 | +$7,132 | ✅ Ganada |
 | 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | -$36,127 | ❌ Perdida |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | +$17,521 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | — | ⏳ Pendiente |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | +$25,010 | ✅ Ganada |
 | texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | -$48,409 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $50,813 | +$50,813 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | -$62,333 | ❌ Perdida |
