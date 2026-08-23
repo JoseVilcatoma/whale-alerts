@@ -13431,10 +13431,25 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "usd": 266513.0104,
+    "usd": 487163.3704,
     "odds_at_bet": 56,
     "status": "pending",
-    "ultimo_fill": 1787460714,
+    "ultimo_fill": 1787460776,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1843,
+    "timestamp": 1787460816,
+    "username": "Bettong",
+    "wallet": "0x63bcf78f77cef62b4a9b8d101a14247bf90292c5",
+    "slug": "dota2-vsn2-ts8-2026-08-23",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "usd": 33819.4623,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787460816,
     "fills": 1
   }
 ]
