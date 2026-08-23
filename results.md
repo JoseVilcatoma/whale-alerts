@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 10:06:54 (hora de Perú)
+Actualizado: 2026-08-23 10:08:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **950**  ($51,635,863 en total)
-- Resueltas: **906** — 528 ganadas / 378 perdidas (**58%** de acierto)
+- Apuestas registradas: **951**  ($51,667,063 en total)
+- Resueltas: **907** — 528 ganadas / 379 perdidas (**58%** de acierto)
 - Pendientes: 44
 - Apostadores distintos: 209
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,079,986** sobre $49,146,498 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$4,760** sobre $89,000 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,037,449** sobre $49,189,035 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$4,860** sobre $89,100 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 53 | 1 | 61% | $9,507,574 | +$443,411 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
-| 111111111115 | 29 | 12 | 4 | 71% | $2,594,226 | +$1,253,190 |
+| 111111111115 | 29 | 13 | 3 | 69% | $2,594,226 | +$1,210,653 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 14 | 11 | 2 | 56% | $1,409,309 | +$111,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 209 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | — | ⏳ Pendiente |
 | ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | — | ⏳ Pendiente |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $198,278 | — | ⏳ Pendiente |
 | crisp1973 | Will AS Monaco FC win on 2026-08-23? | Yes | 2.04 (49¢) | $53,559 | — | ⏳ Pendiente |
@@ -102,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 209 en total)_
 | GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $47,520 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | Team Spirit | 2.13 (47¢) | $40,989 | +$46,221 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | — | ⏳ Pendiente |
-| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | — | ⏳ Pendiente |
+| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | -$42,537 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | — | ⏳ Pendiente |
 | basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | — | ⏳ Pendiente |
 | 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 209 en total)_
 | Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $487,163 | -$487,163 | ❌ Perdida |
 | 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
 | MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | -$500 | 💰 Vendida antes |
-| Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | -$41,788 | ❌ Perdida |
