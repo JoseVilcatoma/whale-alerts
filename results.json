@@ -14850,5 +14850,20 @@
     "status": "pending",
     "ultimo_fill": 1787515052,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2015,
+    "timestamp": 1787515241,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-chc-sea-2026-08-23-total-7pt5",
+    "title": "Chicago Cubs vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 62333.22,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787515241,
+    "fills": 1
   }
 ]

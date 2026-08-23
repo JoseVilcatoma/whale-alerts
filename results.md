@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 15:00:22 (hora de Perú)
+Actualizado: 2026-08-23 15:02:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **988**  ($54,072,455 en total)
+- Apuestas registradas: **989**  ($54,134,788 en total)
 - Resueltas: **956** — 553 ganadas / 403 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 212
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 54 | 3 | 61% | $9,625,899 | +$418,933 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 2 | 62% | $3,113,826 | +$308,566 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 3 | 62% | $3,176,159 | +$308,566 |
 | 3edmond.dantes | 13 | 6 | 2 | 68% | $2,735,306 | +$226,281 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 2.13 (47¢) | $70,501 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 212 en total)_
 | RegardedMoney | Will Aston Villa FC win on 2026-08-23? | No | 1.37 (73¢) | $30,660 | +$11,340 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-23? | Yes | 1.85 (54¢) | $25,773 | -$25,773 | ❌ Perdida |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.79 (56¢) | $28,174 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $27,500 | — | ⏳ Pendiente |
