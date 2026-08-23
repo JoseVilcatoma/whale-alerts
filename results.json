@@ -13755,5 +13755,35 @@
     "status": "pending",
     "ultimo_fill": 1787485816,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1874,
+    "timestamp": 1787485896,
+    "username": "0way",
+    "wallet": "0x56b957b03305378167aba6c163941d4b582979a2",
+    "slug": "epl-bri-ast-2026-08-23-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 50163.41880000001,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787485896,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1875,
+    "timestamp": 1787485898,
+    "username": "basementdweller3000",
+    "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "slug": "cs2-fut-ts7-2026-08-23",
+    "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 40272.2475,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1787485898,
+    "fills": 1
   }
 ]
