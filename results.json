@@ -14640,5 +14640,50 @@
     "status": "pending",
     "ultimo_fill": 1787508328,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1995,
+    "timestamp": 1787508698,
+    "username": "jjj1995",
+    "wallet": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 191005.14550000004,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787508698,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 1996,
+    "timestamp": 1787508761,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 52086.81,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787508761,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1997,
+    "timestamp": 1787508783,
+    "username": "0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681",
+    "wallet": "0xc41d736bded9ed1accd6a44235039266219774fd",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 47433.96,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787508783,
+    "fills": 1
   }
 ]

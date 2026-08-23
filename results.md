@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:11:05 (hora de Perú)
+Actualizado: 2026-08-23 13:13:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **974**  ($52,931,081 en total)
+- Apuestas registradas: **977**  ($53,221,607 en total)
 - Resueltas: **950** — 552 ganadas / 398 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 27
 - Apostadores distintos: 211
 
 ### Balance
@@ -27,14 +27,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 85 | 53 | 3 | 62% | $9,599,921 | +$453,880 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 1 | 62% | $3,066,382 | +$308,566 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
-| 3edmond.dantes | 13 | 4 | 2 | 76% | $2,413,469 | +$357,486 |
+| 3edmond.dantes | 13 | 4 | 3 | 76% | $2,465,556 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 16 | 11 | 5 | 59% | $1,484,953 | +$154,841 |
 | AV23IUa | 15 | 12 | 0 | 56% | $1,409,309 | +$111,209 |
+| jjj1995 | 5 | 2 | 1 | ⚠️ 71% (7) | $1,143,523 | +$129,901 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| jjj1995 | 5 | 2 | 0 | ⚠️ 71% (7) | $952,518 | +$129,901 |
 | Weaseloftheweek | 9 | 10 | 0 | 47% | $844,813 | -$123,729 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 6 | 0 | ⚠️ 14% (7) | $429,088 | -$252,088 |
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 6 | 1 | ⚠️ 14% (7) | $476,522 | -$252,088 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $47,434 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $52,087 | — | ⏳ Pendiente |
+| jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | — | ⏳ Pendiente |
 | quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | — | ⏳ Pendiente |
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | — | ⏳ Pendiente |
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $31,408 | +$10,469 | ✅ Ganada |
 | SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group | BNK FEARX | 1.82 (55¢) | $42,537 | -$42,537 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.35 (74¢) | $35,357 | +$12,423 | ✅ Ganada |
-| basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | +$13,424 | ✅ Ganada |
-| 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | -$50,163 | ❌ Perdida |
-| plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
