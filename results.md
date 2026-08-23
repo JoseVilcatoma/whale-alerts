@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 00:24:48 (hora de Perú)
+Actualizado: 2026-08-23 00:26:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **897**  ($48,533,165 en total)
+- Apuestas registradas: **898**  ($48,601,960 en total)
 - Resueltas: **883** — 520 ganadas / 363 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 199
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 2 | 63% | $9,326,510 | +$778,793 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 84 | 49 | 3 | 63% | $9,395,305 | +$778,793 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 45 | 28 | 0 | 62% | $3,038,882 | +$308,566 |
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | 111111111115 | 28 | 11 | 0 | 72% | $2,210,683 | +$1,237,946 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.82 (55¢) | $68,795 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | ndb1 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $42,166 | — | ⏳ Pendiente |
 | Bettong | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $33,819 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 199 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: TB (-5.5) | KC | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $31,510 | -$31,510 | ❌ Perdida |
 | Weaseloftheweek | Cincinnati Open: Jessica Pegula vs Iga Swiatek | Iga Swiatek | 2.50 (40¢) | $25,946 | -$25,946 | ❌ Perdida |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $31,067 | +$20,711 | ✅ Ganada |
