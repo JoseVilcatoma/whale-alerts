@@ -13178,7 +13178,7 @@
     "side": "BUY",
     "usd": 34143.57,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787451900,
     "fills": 1
   },
@@ -13193,7 +13193,7 @@
     "side": "BUY",
     "usd": 101186.139,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787452015,
     "fills": 2
   },
@@ -13270,6 +13270,21 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1787455399,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1815,
+    "timestamp": 1787455582,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "dota2-ty-ts8-2026-08-22-game2",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "usd": 42402.8136,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787455582,
     "fills": 1
   }
 ]
