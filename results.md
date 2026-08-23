@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 18:25:59 (hora de Perú)
+Actualizado: 2026-08-23 18:28:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1004**  ($54,907,218 en total)
-- Resueltas: **992** — 571 ganadas / 421 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **994** — 572 ganadas / 422 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$872,851** sobre $54,370,811 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,142** sobre $97,600 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$858,862** sobre $54,435,112 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,163** sobre $97,800 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,12 +35,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| Weaseloftheweek | 9 | 10 | 1 | 47% | $880,940 | -$123,729 |
+| Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| SDTrading | 8 | 9 | 1 | 47% | $542,909 | -$49,726 |
+| SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 0 | 100% | $533,993 | +$62,573 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.12 (89¢) | $57,702 | — | ⏳ Pendiente |
 | 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | — | ⏳ Pendiente |
+| Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | -$36,127 | ❌ Perdida |
 | AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | -$73,802 | ❌ Perdida |
 | ferrariChampions2026 | Athletics vs. Houston Astros | Athletics | 1.56 (64¢) | $42,731 | +$24,036 | ✅ Ganada |
 | jjj1995 | Athletics vs. Houston Astros | Houston Astros | 1.61 (62¢) | $100,000 | -$100,000 | ❌ Perdida |
