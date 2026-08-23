@@ -13647,7 +13647,7 @@
     "side": "BUY",
     "usd": 32948.4834,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787480039,
     "fills": 1
   },
@@ -13662,7 +13662,7 @@
     "side": "BUY",
     "usd": 56535.6015,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787480236,
     "fills": 1
   },
@@ -14309,6 +14309,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1787497914,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1928,
+    "timestamp": 1787498022,
+    "username": "jiannanchun",
+    "wallet": "0xd1d3de6f087414708d08e1f52e2a00e29a3ac2e4",
+    "slug": "fl1-hac-asm-2026-08-23-asm",
+    "title": "Will AS Monaco FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34920.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787498022,
     "fills": 1
   }
 ]
