@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 17:29:47 (hora de Perú)
+Actualizado: 2026-08-23 17:31:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1002**  ($54,711,516 en total)
-- Resueltas: **982** — 565 ganadas / 417 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **983** — 565 ganadas / 418 perdidas (**57%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$882,727** sobre $53,957,185 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,161** sobre $96,600 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$856,152** sobre $53,983,760 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,261** sobre $96,700 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
-| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | — | ⏳ Pendiente |
+| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | -$26,575 | ❌ Perdida |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory | Mario Gonzalez Fernandez | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
