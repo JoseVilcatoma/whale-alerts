@@ -13665,5 +13665,20 @@
     "status": "pending",
     "ultimo_fill": 1787480236,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1865,
+    "timestamp": 1787482537,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-fut-ts7-2026-08-23-map-handicap-home-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 42600.811100000006,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1787482537,
+    "fills": 1
   }
 ]
