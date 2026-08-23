@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 05:12:53 (hora de Perú)
+Actualizado: 2026-08-23 05:14:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **907**  ($49,156,671 en total)
+- Apuestas registradas: **908**  ($49,189,619 en total)
 - Resueltas: **886** — 520 ganadas / 366 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 200
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 0 | 1 | — | $487,163 | — |
 | SDTrading | 8 | 8 | 0 | 50% | $484,221 | -$19,213 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 0 | ⚠️ 100% (6) | $444,509 | +$49,202 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 6 | 0 | 1 | ⚠️ 100% (6) | $477,457 | +$49,202 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Manchester City FC vs. AFC Bournemouth: O/U 1.5 | Over 1.5 | 1.15 (87¢) | $32,948 | — | ⏳ Pendiente |
 | jjj1995 | Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner | TEAM VISION | 1.47 (68¢) | $62,599 | — | ⏳ Pendiente |
 | hurrican | LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner | LGD Gaming | 1.18 (85¢) | $25,329 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $41,777 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 200 en total)_
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.82 (55¢) | $68,818 | -$68,818 | ❌ Perdida |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 1.85 (54¢) | $37,977 | -$37,977 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
-| Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
