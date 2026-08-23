@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:23:27 (hora de Perú)
+Actualizado: 2026-08-22 23:25:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **888**  ($47,657,063 en total)
-- Resueltas: **868** — 506 ganadas / 362 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **871** — 509 ganadas / 362 perdidas (**58%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 197
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,285,177** sobre $46,322,456 apostados (ROI **+2.8%**)
-- Copiando $100 fijo en cada una: **-$4,895** sobre $85,400 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,352,937** sobre $46,497,102 apostados (ROI **+2.9%**)
+- Copiando $100 fijo en cada una: **-$4,778** sobre $85,700 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 9 | 0 | 50% | $803,025 | -$81,941 |
 | ripley86alien | 3 | 3 | 0 | ⚠️ 50% (6) | $787,302 | +$212,992 |
-| beachboy4 | 4 | 8 | 2 | 33% | $778,900 | -$108,803 |
+| beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -88,12 +88,12 @@ _(mostrando los 40 de mayor monto, de 197 en total)_
 | jjj1995 | Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs | Team Spirit | 1.56 (64¢) | $271,080 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $33,905 | +$15,955 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Vitor Petrino | 1.72 (58¢) | $51,072 | +$36,983 | ✅ Ganada |
-| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | — | ⏳ Pendiente |
+| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.39 (72¢) | $77,999 | +$30,333 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $126,744 | +$126,744 | ✅ Ganada |
-| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.37 (73¢) | $53,098 | — | ⏳ Pendiente |
+| beachboy4 | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.37 (73¢) | $53,098 | +$19,639 | ✅ Ganada |
 | kahe | Cincinnati Open: Sara Bejlek vs Coco Gauff | Coco Gauff | 1.27 (79¢) | $34,676 | +$9,218 | ✅ Ganada |
 | rabbitfoot1 | UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) | Serghei Spivac | 2.33 (43¢) | $32,900 | -$32,900 | ❌ Perdida |
-| kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | — | ⏳ Pendiente |
+| kekasaur | Will Vancouver Whitecaps FC win on 2026-08-22? | Yes | 1.41 (71¢) | $43,549 | +$17,788 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.33 (43¢) | $27,845 | -$27,845 | ❌ Perdida |
 | WTSA | Will Philadelphia Union win on 2026-08-22? | Yes | 1.79 (56¢) | $82,215 | -$82,215 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.75 (57¢) | $39,502 | +$29,800 | ✅ Ganada |
