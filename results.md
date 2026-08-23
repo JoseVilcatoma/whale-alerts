@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 20:39:37 (hora de Perú)
+Actualizado: 2026-08-22 20:41:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **871**  ($46,385,699 en total)
-- Resueltas: **839** — 491 ganadas / 348 perdidas (**59%** de acierto)
-- Pendientes: 32
+- Resueltas: **840** — 491 ganadas / 349 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 194
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,402,309** sobre $44,980,082 apostados (ROI **+3.1%**)
-- Copiando $100 fijo en cada una: **-$4,706** sobre $82,500 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,320,059** sobre $45,062,332 apostados (ROI **+2.9%**)
+- Copiando $100 fijo en cada una: **-$4,806** sobre $82,600 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 13 | 4 | 0 | 76% | $2,282,265 | +$357,486 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | 111111111115 | 25 | 11 | 0 | 69% | $1,889,235 | +$1,066,755 |
-| pleaseplease123 | 16 | 9 | 2 | 64% | $1,306,384 | +$268,602 |
+| pleaseplease123 | 16 | 10 | 1 | 62% | $1,306,384 | +$186,351 |
 | AV23IUa | 14 | 11 | 0 | 56% | $1,259,309 | +$111,209 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 5 | 4 | 3 | 56% | $975,887 | -$524,638 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 194 en total)_
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $32,022 | -$32,022 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.04 (49¢) | $70,530 | -$70,530 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers | Pittsburgh Pirates | 3.33 (30¢) | $39,835 | — | ⏳ Pendiente |
-| pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $82,250 | -$82,250 | ❌ Perdida |
 | StasPanda | Game Handicap: TS (-1.5) vs Team Yandex (+1.5) | Team Spirit | 2.50 (40¢) | $66,679 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims) | Nasrat Haqparast | 2.08 (48¢) | $38,639 | -$38,639 | ❌ Perdida |
 | CanadianGoose | UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims) | Anthony Wint | 1.12 (89¢) | $44,493 | +$5,499 | ✅ Ganada |
