@@ -14625,5 +14625,20 @@
     "status": "pending",
     "ultimo_fill": 1787508113,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1992,
+    "timestamp": 1787508328,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25323.2,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787508328,
+    "fills": 1
   }
 ]

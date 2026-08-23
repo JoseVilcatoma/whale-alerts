@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-23 13:04:59 (hora de Perú)
+Actualizado: 2026-08-23 13:07:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **973**  ($52,905,757 en total)
+- Apuestas registradas: **974**  ($52,931,081 en total)
 - Resueltas: **948** — 551 ganadas / 397 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 211
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | — | ⏳ Pendiente |
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | — | ⏳ Pendiente |
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | — | ⏳ Pendiente |
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 211 en total)_
 | basementdweller3000 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.33 (75¢) | $40,272 | +$13,424 | ✅ Ganada |
 | 0way | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.85 (54¢) | $50,163 | -$50,163 | ❌ Perdida |
 | plonker2026 | Will Brighton & Hove Albion FC win on 2026-08-23? | Yes | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
-| GrizzliesSuck | Will Brighton & Hove Albion FC win on 2026-08-23? | No | 1.82 (55¢) | $47,330 | -$47,330 | ❌ Perdida |
