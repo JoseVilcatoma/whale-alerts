@@ -14505,5 +14505,35 @@
     "status": "pending",
     "ultimo_fill": 1787504625,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 1957,
+    "timestamp": 1787504847,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-fernan-mallory-2026-08-23",
+    "title": "Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory",
+    "outcome": "Mario Gonzalez Fernandez",
+    "side": "BUY",
+    "usd": 30100.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1787504847,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 1958,
+    "timestamp": 1787504910,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-min-sd-2026-08-23",
+    "title": "Minnesota Twins vs. San Diego Padres",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 30513.3402,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1787504910,
+    "fills": 1
   }
 ]
