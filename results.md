@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:48:01 (hora de Perú)
+Actualizado: 2026-08-22 23:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **892**  ($47,914,016 en total)
+- Apuestas registradas: **893**  ($47,942,016 en total)
 - Resueltas: **882** — 519 ganadas / 363 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 198
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 198 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.75 (57¢) | $157,725 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 198 en total)_
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | -$38,087 | ❌ Perdida |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | +$2,769 | ✅ Ganada |
-| 0b1 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.06 (94¢) | $37,389 | +$2,387 | ✅ Ganada |
