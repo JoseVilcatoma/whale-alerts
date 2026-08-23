@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-22 23:50:05 (hora de Perú)
+Actualizado: 2026-08-22 23:52:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **893**  ($47,942,016 en total)
+- Apuestas registradas: **894**  ($48,208,529 en total)
 - Resueltas: **882** — 519 ganadas / 363 perdidas (**59%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 198
+- Pendientes: 12
+- Apostadores distintos: 199
 
 ### Balance
 
@@ -57,20 +57,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 5 | 2 | 0 | ⚠️ 71% (7) | $273,000 | +$68,897 |
+| Alhimik | 0 | 0 | 1 | — | $266,513 | — |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 0 | ⚠️ 100% (7) | $252,902 | +$146,081 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 4 | 0 | ⚠️ 20% (5) | $250,785 | -$73,785 |
 | highnetworth | 2 | 2 | 0 | ⚠️ 50% (4) | $246,320 | -$2,508 |
 | 007theone1 | 5 | 0 | 0 | ⚠️ 100% (5) | $233,814 | +$73,440 |
-| kindar | 2 | 0 | 0 | ⚠️ 100% (2) | $230,000 | +$69,242 |
 
-_(mostrando los 40 de mayor monto, de 198 en total)_
+_(mostrando los 40 de mayor monto, de 199 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Alhimik | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $266,513 | — | ⏳ Pendiente |
 | 0xheavy888 | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | MeiGuNiuBi | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs | TEAM VISION | 1.72 (58¢) | $41,788 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 198 en total)_
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) | Jackson McVey | 1.59 (63¢) | $53,054 | +$31,159 | ✅ Ganada |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.85 (54¢) | $38,087 | -$38,087 | ❌ Perdida |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| 0x2AeE593A42E2DF517cd588827182AA5A144AB327-1776659476912 | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays | 1.09 (92¢) | $31,843 | +$2,769 | ✅ Ganada |
