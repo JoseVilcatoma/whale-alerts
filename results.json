@@ -15722,5 +15722,35 @@
     "status": "pending",
     "ultimo_fill": 1787612399,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2158,
+    "timestamp": 1787613904,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-sea-2026-08-24-total-6pt5",
+    "title": "Philadelphia Phillies vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 100954.3456,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787613904,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2159,
+    "timestamp": 1787613906,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-sea-2026-08-24",
+    "title": "Philadelphia Phillies vs. Seattle Mariners",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 61297.407600000006,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787613906,
+    "fills": 1
   }
 ]

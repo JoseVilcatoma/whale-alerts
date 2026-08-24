@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 18:24:20 (hora de Perú)
+Actualizado: 2026-08-24 18:26:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1046**  ($57,352,895 en total)
+- Apuestas registradas: **1048**  ($57,515,146 en total)
 - Resueltas: **1033** — 593 ganadas / 440 perdidas (**57%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 219
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 59 | 2 | 61% | $10,264,693 | +$268,149 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 2 | 61% | $3,309,069 | +$299,879 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 4 | 61% | $3,471,321 | +$299,879 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | -$48,409 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $50,813 | +$50,813 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | -$62,333 | ❌ Perdida |
-| pleaseplease123 | Chicago Cubs vs. Seattle Mariners | Seattle Mariners | 2.13 (47¢) | $70,501 | -$70,501 | ❌ Perdida |
-| pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | +$27,483 | ✅ Ganada |
