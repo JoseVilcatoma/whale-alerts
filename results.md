@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 17:36:37 (hora de Perú)
+Actualizado: 2026-08-24 17:38:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1043**  ($57,136,742 en total)
+- Apuestas registradas: **1044**  ($57,270,797 en total)
 - Resueltas: **1033** — 593 ganadas / 440 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 219
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 16 | 14 | 1 | 53% | $1,764,721 | -$140,017 |
+| AV23IUa | 16 | 14 | 2 | 53% | $1,898,776 | -$140,017 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 20 | 14 | 0 | 59% | $1,582,937 | +$123,686 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | pleaseplease123 | San Francisco Giants vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $27,483 | +$27,483 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Colorado Rockies | Cleveland Guardians | 1.64 (61¢) | $47,444 | +$30,333 | ✅ Ganada |
 | jknio | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays | 1.96 (51¢) | $35,084 | +$33,708 | ✅ Ganada |
-| AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | -$198,000 | ❌ Perdida |
