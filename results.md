@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 00:31:04 (hora de Perú)
+Actualizado: 2026-08-24 00:35:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1009**  ($55,199,213 en total)
+- Apuestas registradas: **1010**  ($55,234,063 en total)
 - Resueltas: **1003** — 579 ganadas / 424 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 214
 
 ### Balance
@@ -51,11 +51,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
+| gransaaa | 4 | 2 | 2 | ⚠️ 67% (6) | $367,243 | +$110,758 |
 | ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
-| gransaaa | 4 | 2 | 1 | ⚠️ 67% (6) | $332,393 | +$110,758 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 6 | 2 | 0 | 75% | $301,458 | +$75,593 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | — | ⏳ Pendiente |
 | gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Titans | Titans | 1.45 (69¢) | $86,970 | +$39,073 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | +$85,000 | ✅ Ganada |
 | matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | -$31,200 | ❌ Perdida |
-| ChinesePro | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $32,568 | -$32,568 | ❌ Perdida |
