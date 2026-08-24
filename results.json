@@ -15692,5 +15692,20 @@
     "status": "pending",
     "ultimo_fill": 1787611051,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2156,
+    "timestamp": 1787611414,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-col-wsh-2026-08-24-total-8pt5",
+    "title": "Colorado Rockies vs. Washington Nationals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 54661.454600000005,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787611414,
+    "fills": 1
   }
 ]
