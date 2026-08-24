@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 14:29:46 (hora de Perú)
+Actualizado: 2026-08-24 14:31:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1032**  ($56,702,313 en total)
+- Apuestas registradas: **1033**  ($56,734,713 en total)
 - Resueltas: **1009** — 583 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 218
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tes21sa | Will RC Deportivo A Coruña win on 2026-08-24? | No | 1.39 (72¢) | $32,400 | — | ⏳ Pendiente |
 | 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | — | ⏳ Pendiente |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $52,087 | +$50,044 | ✅ Ganada |
 | jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | +$191,005 | ✅ Ganada |
 | quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | +$26,357 | ✅ Ganada |
-| tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | -$30,259 | ❌ Perdida |

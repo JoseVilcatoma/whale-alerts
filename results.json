@@ -15512,5 +15512,20 @@
     "status": "pending",
     "ultimo_fill": 1787597243,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2119,
+    "timestamp": 1787599797,
+    "username": "tes21sa",
+    "wallet": "0x20b80ebb96e2051540e1d475e4ce122fc282aa04",
+    "slug": "lal-mala-dep-2026-08-24-dep",
+    "title": "Will RC Deportivo A Coru\u00f1a win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32400.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1787599797,
+    "fills": 1
   }
 ]
