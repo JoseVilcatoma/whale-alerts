@@ -15152,5 +15152,20 @@
     "status": "pending",
     "ultimo_fill": 1787547375,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2086,
+    "timestamp": 1787547571,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "epl-ful-che-2026-08-24-che",
+    "title": "Will Chelsea FC win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 110390.04959999998,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787547571,
+    "fills": 1
   }
 ]
