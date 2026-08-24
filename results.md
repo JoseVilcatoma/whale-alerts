@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 10:53:37 (hora de Perú)
+Actualizado: 2026-08-24 10:55:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1019**  ($55,734,764 en total)
+- Apuestas registradas: **1020**  ($55,771,344 en total)
 - Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 217
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 30 | 15 | 2 | 67% | $2,740,615 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 15 | 14 | 0 | 52% | $1,681,112 | -$160,594 |
+| AV23IUa | 15 | 14 | 1 | 52% | $1,717,692 | -$160,594 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 20 | 14 | 0 | 59% | $1,582,937 | +$123,686 |
 | jjj1995 | 6 | 3 | 0 | 67% | $1,243,523 | +$220,906 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | — | ⏳ Pendiente |
 | tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | -$27,619 | ❌ Perdida |
 | Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | -$103,585 | ❌ Perdida |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | +$4,729 | ✅ Ganada |

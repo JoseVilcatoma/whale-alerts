@@ -15317,5 +15317,20 @@
     "status": "pending",
     "ultimo_fill": 1787586526,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2102,
+    "timestamp": 1787586915,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-100t-inox-2026-08-24",
+    "title": "Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "usd": 36580.3231,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787586915,
+    "fills": 1
   }
 ]
