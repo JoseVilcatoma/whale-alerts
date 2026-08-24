@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 16:49:07 (hora de Perú)
+Actualizado: 2026-08-24 16:51:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1041**  ($57,070,210 en total)
+- Apuestas registradas: **1042**  ($57,097,880 en total)
 - Resueltas: **1027** — 590 ganadas / 437 perdidas (**57%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 218
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | — | ⏳ Pendiente |
 | 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | jknio | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays | 1.96 (51¢) | $35,084 | +$33,708 | ✅ Ganada |
 | AV23IUa | Will Paris Saint-Germain FC win on 2026-08-23? | Yes | 1.52 (66¢) | $198,000 | -$198,000 | ❌ Perdida |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $63,700 | -$63,700 | ❌ Perdida |
-| 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $269,750 | +$259,172 | ✅ Ganada |

@@ -15647,5 +15647,20 @@
     "status": "pending",
     "ultimo_fill": 1787607023,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2147,
+    "timestamp": 1787608242,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "atp-tiffon-gentzsc-2026-08-24",
+    "title": "US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch",
+    "outcome": "Tom Gentzsch",
+    "side": "BUY",
+    "usd": 27670.579999999998,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1787608242,
+    "fills": 1
   }
 ]
