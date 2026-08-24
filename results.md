@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 12:13:24 (hora de Perú)
+Actualizado: 2026-08-24 12:15:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1027**  ($56,336,259 en total)
-- Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
+- Apuestas registradas: **1028**  ($56,362,043 en total)
+- Resueltas: **1006** — 580 ganadas / 426 perdidas (**58%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 217
 
 ### Balance
 
-- **Resultado de los apostadores: +$902,913** sobre $55,002,584 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,170** sobre $98,800 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$873,817** sobre $55,031,680 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,270** sobre $98,900 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 5 | 62% | $10,264,693 | +$497,305 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
-| 111111111115 | 30 | 15 | 4 | 67% | $2,801,579 | +$1,082,736 |
+| 111111111115 | 30 | 15 | 5 | 67% | $2,827,362 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 14 | 1 | 52% | $1,717,692 | -$160,594 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: GIANTX vs G2 Esports - Game 1 Winner | G2 Esports | 1.23 (81¢) | $25,783 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.19 (84¢) | $33,470 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.22 (82¢) | $34,867 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
-| xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | — | ⏳ Pendiente |
+| xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | -$29,096 | ❌ Perdida |
 | tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | -$26,575 | ❌ Perdida |
-| pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |

@@ -15314,7 +15314,7 @@
     "side": "BUY",
     "usd": 29096.019999,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787586526,
     "fills": 1
   },
@@ -15436,6 +15436,21 @@
     "odds_at_bet": 84,
     "status": "pending",
     "ultimo_fill": 1787591522,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2111,
+    "timestamp": 1787591601,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-gx-g2-2026-08-24-game1",
+    "title": "LoL: GIANTX vs G2 Esports - Game 1 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 25783.272,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1787591601,
     "fills": 1
   }
 ]
