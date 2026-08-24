@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 01:34:36 (hora de Perú)
+Actualizado: 2026-08-24 01:36:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1010**  ($55,234,063 en total)
+- Apuestas registradas: **1011**  ($55,273,013 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 214
 
 ### Balance
@@ -47,11 +47,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0b1 | 13 | 0 | 0 | 100% | $441,583 | +$53,219 |
+| gransaaa | 4 | 2 | 3 | ⚠️ 67% (6) | $406,193 | +$110,758 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
-| gransaaa | 4 | 2 | 2 | ⚠️ 67% (6) | $367,243 | +$110,758 |
 | ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ndb1 | 2 | 4 | 0 | ⚠️ 33% (6) | $345,773 | +$2,266 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | — | ⏳ Pendiente |
 | gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | -$35,424 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | -$34,920 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | +$85,000 | ✅ Ganada |
-| matanovik | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $31,200 | -$31,200 | ❌ Perdida |

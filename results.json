@@ -15182,5 +15182,20 @@
     "status": "pending",
     "ultimo_fill": 1787549678,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2090,
+    "timestamp": 1787553369,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "lal-mala-dep-2026-08-24-mala",
+    "title": "Will M\u00e1laga CF win on 2026-08-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38950.0,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1787553369,
+    "fills": 1
   }
 ]
