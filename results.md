@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 09:13:18 (hora de Perú)
+Actualizado: 2026-08-24 09:15:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1017**  ($55,663,338 en total)
+- Apuestas registradas: **1018**  ($55,705,668 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 217
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | -$103,585 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | +$4,729 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | -$34,947 | ❌ Perdida |
