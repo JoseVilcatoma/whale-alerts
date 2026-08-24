@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 12:11:23 (hora de Perú)
+Actualizado: 2026-08-24 12:13:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1025**  ($56,169,738 en total)
+- Apuestas registradas: **1027**  ($56,336,259 en total)
 - Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 217
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 4 | 62% | $10,131,642 | +$497,305 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 5 | 62% | $10,264,693 | +$497,305 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
-| 111111111115 | 30 | 15 | 3 | 67% | $2,768,109 | +$1,082,736 |
+| 111111111115 | 30 | 15 | 4 | 67% | $2,801,579 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 14 | 1 | 52% | $1,717,692 | -$160,594 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.19 (84¢) | $33,470 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.22 (82¢) | $34,867 | — | ⏳ Pendiente |
 | SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | — | ⏳ Pendiente |
 | jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | -$26,575 | ❌ Perdida |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $27,000 | -$27,000 | ❌ Perdida |
-| SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | -$30,513 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory | Mario Gonzalez Fernandez | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |

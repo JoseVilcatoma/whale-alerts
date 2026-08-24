@@ -15407,5 +15407,35 @@
     "status": "pending",
     "ultimo_fill": 1787590984,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2108,
+    "timestamp": 1787591511,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-ful-che-2026-08-24-che",
+    "title": "Will Chelsea FC win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 133051.5669,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787591511,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2109,
+    "timestamp": 1787591522,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-gx-g2-2026-08-24",
+    "title": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 33469.9683,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1787591522,
+    "fills": 1
   }
 ]
