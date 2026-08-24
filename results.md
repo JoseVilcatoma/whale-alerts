@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 15:26:22 (hora de Perú)
+Actualizado: 2026-08-24 15:28:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1037**  ($56,940,743 en total)
+- Apuestas registradas: **1038**  ($56,970,814 en total)
 - Resueltas: **1009** — 583 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 218
 
 ### Balance
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 6 | 2 | 0 | 75% | $301,458 | +$75,593 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 7 | 0 | 1 | ⚠️ 100% (7) | $282,974 | +$146,081 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 | sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
-| murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 
 _(mostrando los 40 de mayor monto, de 218 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | — | ⏳ Pendiente |
 | Elaran1993 | US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez | Caroline Dolehide | 1.37 (73¢) | $25,542 | — | ⏳ Pendiente |
 | vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | — | ⏳ Pendiente |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | ChinesePro | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele | Pierre-Hugues Herbert | 1.79 (56¢) | $25,977 | -$25,977 | ❌ Perdida |
 | matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | -$31,855 | ❌ Perdida |
-| RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | +$30,797 | ✅ Ganada |
