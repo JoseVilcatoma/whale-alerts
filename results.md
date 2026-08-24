@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 18:53:32 (hora de Perú)
+Actualizado: 2026-08-24 18:55:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1049**  ($57,558,861 en total)
-- Resueltas: **1034** — 594 ganadas / 440 perdidas (**57%** de acierto)
-- Pendientes: 15
+- Resueltas: **1035** — 595 ganadas / 440 perdidas (**57%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 219
 
 ### Balance
 
-- **Resultado de los apostadores: +$459,319** sobre $56,857,800 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,845** sobre $101,700 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$471,178** sobre $56,885,471 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,802** sobre $101,800 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | — | ⏳ Pendiente |
-| 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | +$11,859 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | — | ⏳ Pendiente |
 | 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | +$1,598 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | +$19,794 | ✅ Ganada |
