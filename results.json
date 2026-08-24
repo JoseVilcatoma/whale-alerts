@@ -15509,7 +15509,7 @@
     "side": "BUY",
     "usd": 55493.2395,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787597243,
     "fills": 1
   },
@@ -15751,6 +15751,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1787613906,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2160,
+    "timestamp": 1787614598,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cin-sf-2026-08-24",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 43714.48880000001,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787614598,
     "fills": 1
   }
 ]

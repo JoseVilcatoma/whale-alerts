@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 18:34:47 (hora de Perú)
+Actualizado: 2026-08-24 18:36:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1048**  ($57,515,146 en total)
-- Resueltas: **1033** — 593 ganadas / 440 perdidas (**57%** de acierto)
+- Apuestas registradas: **1049**  ($57,558,861 en total)
+- Resueltas: **1034** — 594 ganadas / 440 perdidas (**57%** de acierto)
 - Pendientes: 15
 - Apostadores distintos: 219
 
 ### Balance
 
-- **Resultado de los apostadores: +$455,143** sobre $56,802,307 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,853** sobre $101,600 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$459,319** sobre $56,857,800 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,845** sobre $101,700 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 59 | 2 | 61% | $10,264,693 | +$268,149 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 4 | 61% | $3,471,321 | +$299,879 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 5 | 61% | $3,515,036 | +$299,879 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| 0b1 | 14 | 0 | 1 | 100% | $522,108 | +$54,817 |
+| 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 2 | 6 | 0 | 25% | $423,285 | -$75,246 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
@@ -87,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | -$30,352 | ❌ Perdida |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | -$47,160 | ❌ Perdida |
 | tes21sa | Will RC Deportivo A Coruña win on 2026-08-24? | No | 1.39 (72¢) | $32,400 | +$12,600 | ✅ Ganada |
-| 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | — | ⏳ Pendiente |
+| 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | +$4,177 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | +$11,171 | ✅ Ganada |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | -$84,271 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | +$25,010 | ✅ Ganada |
 | texaskid | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $48,409 | -$48,409 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $50,813 | +$50,813 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $62,333 | -$62,333 | ❌ Perdida |
