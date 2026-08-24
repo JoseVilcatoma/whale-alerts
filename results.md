@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 16:15:50 (hora de Perú)
+Actualizado: 2026-08-24 16:17:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1040**  ($57,023,181 en total)
-- Resueltas: **1009** — 583 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Resueltas: **1020** — 587 ganadas / 433 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 218
 
 ### Balance
 
-- **Resultado de los apostadores: +$997,457** sobre $55,202,306 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$6,020** sobre $99,200 (ROI **-6.1%**)
+- **Resultado de los apostadores: +$727,153** sobre $56,285,442 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$6,417** sobre $100,300 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 5 | 62% | $10,264,693 | +$497,305 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 57 | 4 | 61% | $10,264,693 | +$364,254 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
 | 111111111115 | 31 | 15 | 4 | 67% | $2,827,362 | +$1,121,622 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -32,14 +32,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 16 | 14 | 0 | 53% | $1,717,692 | -$140,017 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 20 | 14 | 0 | 59% | $1,582,937 | +$123,686 |
-| jjj1995 | 6 | 3 | 1 | 67% | $1,413,608 | +$220,906 |
+| jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 1 | 100% | $708,998 | +$62,573 |
-| vito3corleone | 6 | 0 | 1 | ⚠️ 100% (6) | $698,967 | +$637,851 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
+| vito3corleone | 7 | 0 | 0 | ⚠️ 100% (7) | $698,967 | +$745,030 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 13 | 0 | 2 | 100% | $522,108 | +$53,219 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| ndb1 | 2 | 4 | 2 | ⚠️ 33% (6) | $423,285 | +$2,266 |
-| gransaaa | 4 | 2 | 3 | ⚠️ 67% (6) | $406,193 | +$110,758 |
+| ndb1 | 2 | 6 | 0 | 25% | $423,285 | -$75,246 |
+| gransaaa | 4 | 3 | 2 | ⚠️ 57% (7) | $406,193 | +$368 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -75,34 +75,34 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | — | ⏳ Pendiente |
 | Elaran1993 | US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez | Caroline Dolehide | 1.37 (73¢) | $25,542 | — | ⏳ Pendiente |
-| vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | — | ⏳ Pendiente |
-| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | — | ⏳ Pendiente |
-| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | — | ⏳ Pendiente |
+| vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | +$107,180 | ✅ Ganada |
+| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | -$30,352 | ❌ Perdida |
+| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | -$47,160 | ❌ Perdida |
 | tes21sa | Will RC Deportivo A Coruña win on 2026-08-24? | No | 1.39 (72¢) | $32,400 | — | ⏳ Pendiente |
 | 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | — | ⏳ Pendiente |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | — | ⏳ Pendiente |
-| Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | — | ⏳ Pendiente |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | +$11,171 | ✅ Ganada |
+| Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
+| predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | -$84,271 | ❌ Perdida |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports - Game 1 Winner | G2 Esports | 1.23 (81¢) | $25,783 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.19 (84¢) | $33,470 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | -$133,052 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.22 (82¢) | $34,867 | — | ⏳ Pendiente |
 | SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | — | ⏳ Pendiente |
-| jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | — | ⏳ Pendiente |
+| jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | +$163,415 | ✅ Ganada |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | +$64,177 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | +$20,576 | ✅ Ganada |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | -$29,096 | ❌ Perdida |
-| tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
+| tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | +$40,670 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | +$8,400 | ✅ Ganada |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | +$38,886 | ✅ Ganada |
-| justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | — | ⏳ Pendiente |
+| justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | -$162,015 | ❌ Perdida |
 | VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | — | ⏳ Pendiente |
-| gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | — | ⏳ Pendiente |
+| gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | -$110,390 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | -$35,424 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Titans | Titans | 1.45 (69¢) | $86,970 | +$39,073 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang | Anna Bondar | 1.47 (68¢) | $28,458 | +$6,696 | 💰 Vendida antes |
