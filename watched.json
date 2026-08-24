@@ -47,10 +47,6 @@
     "username": "kekasaur",
     "added_at": 1786934300.0562966
   },
-  "0x866056133a70de9282a080758858d1a0c8b393ed": {
-    "username": "WhattDoyoumean",
-    "added_at": 1786944585.3344166
-  },
   "0x1465b79bff7992bc703e1aafb3683b1089647072": {
     "username": "JnStrtPrdctnMrkts",
     "added_at": 1786951802.6923919
@@ -470,5 +466,9 @@
   "0xe613b515bd46b1585a8b137a4d291d9b80bd540e": {
     "username": "Gucky-45",
     "added_at": 1787566740.4030318
+  },
+  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
+    "username": "TAIWANNUMBERONE",
+    "added_at": 1787570177.4205842
   }
 }
