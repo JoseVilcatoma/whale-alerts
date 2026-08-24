@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 02:05:22 (hora de Perú)
+Actualizado: 2026-08-24 02:07:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1011**  ($55,273,013 en total)
+- Apuestas registradas: **1012**  ($55,301,333 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 214
+- Pendientes: 8
+- Apostadores distintos: 215
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 
-_(mostrando los 40 de mayor monto, de 214 en total)_
+_(mostrando los 40 de mayor monto, de 215 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | — | ⏳ Pendiente |
 | gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 | crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 2.00 (50¢) | $27,443 | -$27,443 | ❌ Perdida |
 | jiannanchun | Will AS Monaco FC win on 2026-08-23? | No | 2.00 (50¢) | $34,920 | -$34,920 | ❌ Perdida |
 | ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
-| ripley86alien | Will AS Monaco FC win on 2026-08-23? | Yes | 2.00 (50¢) | $85,000 | +$85,000 | ✅ Ganada |
