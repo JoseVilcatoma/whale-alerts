@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 00:51:36 (hora de Perú)
+Actualizado: 2026-08-24 00:53:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1010**  ($55,234,063 en total)
-- Resueltas: **1003** — 579 ganadas / 424 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 214
 
 ### Balance
 
-- **Resultado de los apostadores: +$929,937** sobre $54,940,561 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,101** sobre $98,600 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$894,513** sobre $54,975,984 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,201** sobre $98,700 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 90 | 55 | 3 | 62% | $10,008,937 | +$524,329 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 90 | 56 | 2 | 62% | $10,008,937 | +$488,905 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 0 | 67% | $2,594,226 | +$1,082,736 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 214 en total)_
 |---|---|---|---|---|---|---|
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | — | ⏳ Pendiente |
 | gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | -$35,424 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Titans | Titans | 1.45 (69¢) | $86,970 | +$39,073 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang | Anna Bondar | 1.47 (68¢) | $28,458 | +$6,696 | 💰 Vendida antes |
 | tennischamp | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.23 (81¢) | $30,753 | +$7,214 | ✅ Ganada |
