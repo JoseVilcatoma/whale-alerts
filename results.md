@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 13:46:41 (hora de Perú)
+Actualizado: 2026-08-24 13:48:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1031**  ($56,646,819 en total)
+- Apuestas registradas: **1032**  ($56,702,313 en total)
 - Resueltas: **1006** — 580 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 218
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
+| 0b1 | 13 | 0 | 1 | 100% | $497,076 | +$53,219 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0b1 | 13 | 0 | 0 | 100% | $441,583 | +$53,219 |
 | gransaaa | 4 | 2 | 3 | ⚠️ 67% (6) | $406,193 | +$110,758 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | — | ⏳ Pendiente |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | — | ⏳ Pendiente |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | +$191,005 | ✅ Ganada |
 | quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | +$26,357 | ✅ Ganada |
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | -$30,259 | ❌ Perdida |
-| bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
