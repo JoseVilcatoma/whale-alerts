@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 11:03:56 (hora de Perú)
+Actualizado: 2026-08-24 11:05:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1020**  ($55,771,344 en total)
+- Apuestas registradas: **1021**  ($55,832,582 en total)
 - Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 217
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 2 | 62% | $10,035,537 | +$497,305 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 3 | 62% | $10,096,775 | +$497,305 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
 | 111111111115 | 30 | 15 | 2 | 67% | $2,740,615 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | — | ⏳ Pendiente |
 | tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | +$24,601 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | -$27,619 | ❌ Perdida |
 | Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
-| 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $103,585 | -$103,585 | ❌ Perdida |
