@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 13:50:53 (hora de Perú)
+Actualizado: 2026-08-24 13:52:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1032**  ($56,702,313 en total)
-- Resueltas: **1006** — 580 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Resueltas: **1007** — 581 ganadas / 426 perdidas (**58%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 218
 
 ### Balance
 
-- **Resultado de los apostadores: +$873,817** sobre $55,031,680 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,270** sobre $98,900 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$937,995** sobre $55,136,391 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,209** sobre $99,000 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 1 | 100% | $708,998 | +$62,573 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| vito3corleone | 5 | 0 | 1 | ⚠️ 100% (5) | $595,990 | +$573,673 |
+| vito3corleone | 6 | 0 | 0 | ⚠️ 100% (6) | $595,990 | +$637,851 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.22 (82¢) | $34,867 | — | ⏳ Pendiente |
 | SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | — | ⏳ Pendiente |
 | jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | — | ⏳ Pendiente |
-| vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | — | ⏳ Pendiente |
+| vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | +$64,177 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | -$29,096 | ❌ Perdida |
