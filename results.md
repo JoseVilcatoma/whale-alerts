@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 13:17:26 (hora de Perú)
+Actualizado: 2026-08-24 13:19:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1030**  ($56,471,814 en total)
+- Apuestas registradas: **1031**  ($56,646,819 en total)
 - Resueltas: **1006** — 580 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 218
 
 ### Balance
@@ -38,12 +38,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 1 | 100% | $708,998 | +$62,573 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | vito3corleone | 5 | 0 | 1 | ⚠️ 100% (5) | $595,990 | +$573,673 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 0 | 100% | $533,993 | +$62,573 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0b1 | 13 | 0 | 0 | 100% | $441,583 | +$53,219 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | — | ⏳ Pendiente |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports - Game 1 Winner | G2 Esports | 1.23 (81¢) | $25,783 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | quavoo | Will AC Milan win on 2026-08-23? | Yes | 2.04 (49¢) | $25,323 | +$26,357 | ✅ Ganada |
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | -$30,259 | ❌ Perdida |
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
-| 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
