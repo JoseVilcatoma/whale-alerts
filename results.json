@@ -15542,5 +15542,35 @@
     "status": "pending",
     "ultimo_fill": 1787601540,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2121,
+    "timestamp": 1787601810,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "epl-ful-che-2026-08-24-total-4pt5",
+    "title": "Fulham FC vs. Chelsea FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 30352.236900000004,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787601810,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2122,
+    "timestamp": 1787601824,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "epl-ful-che-2026-08-24-total-4pt5",
+    "title": "Fulham FC vs. Chelsea FC: O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 102976.44,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787601866,
+    "fills": 2
   }
 ]

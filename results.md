@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 15:02:27 (hora de Perú)
+Actualizado: 2026-08-24 15:04:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1034**  ($56,781,872 en total)
+- Apuestas registradas: **1036**  ($56,915,201 en total)
 - Resueltas: **1009** — 583 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Pendientes: 27
 - Apostadores distintos: 218
 
 ### Balance
@@ -39,16 +39,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 1 | 100% | $708,998 | +$62,573 |
+| vito3corleone | 6 | 0 | 1 | ⚠️ 100% (6) | $698,967 | +$637,851 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| vito3corleone | 6 | 0 | 0 | ⚠️ 100% (6) | $595,990 | +$637,851 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | 0b1 | 13 | 0 | 1 | 100% | $497,076 | +$53,219 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
+| ndb1 | 2 | 4 | 2 | ⚠️ 33% (6) | $423,285 | +$2,266 |
 | gransaaa | 4 | 2 | 3 | ⚠️ 67% (6) | $406,193 | +$110,758 |
-| ndb1 | 2 | 4 | 1 | ⚠️ 33% (6) | $392,933 | +$2,266 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | — | ⏳ Pendiente |
+| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | — | ⏳ Pendiente |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | — | ⏳ Pendiente |
 | tes21sa | Will RC Deportivo A Coruña win on 2026-08-24? | No | 1.39 (72¢) | $32,400 | — | ⏳ Pendiente |
 | 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | matanovik | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $31,855 | -$31,855 | ❌ Perdida |
 | RegardedMoney | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $32,054 | +$30,797 | ✅ Ganada |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | Will AC Milan win on 2026-08-23? | No | 2.04 (49¢) | $47,434 | -$47,434 | ❌ Perdida |
-| 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes | 1.96 (51¢) | $52,087 | +$50,044 | ✅ Ganada |
-| jjj1995 | Will AC Milan win on 2026-08-23? | Yes | 2.00 (50¢) | $191,005 | +$191,005 | ✅ Ganada |
