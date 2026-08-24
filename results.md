@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 09:07:06 (hora de Perú)
+Actualizado: 2026-08-24 09:09:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1016**  ($55,546,283 en total)
+- Apuestas registradas: **1017**  ($55,663,338 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 217
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 90 | 56 | 3 | 62% | $10,035,537 | +$488,905 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
+| 111111111115 | 30 | 15 | 2 | 67% | $2,740,615 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| 111111111115 | 30 | 15 | 1 | 67% | $2,623,560 | +$1,082,736 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 14 | 0 | 52% | $1,681,112 | -$160,594 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.12 (89¢) | $38,261 | +$4,729 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | -$34,947 | ❌ Perdida |
-| ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | +$48,960 | ✅ Ganada |
