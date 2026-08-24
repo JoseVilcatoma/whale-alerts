@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 12:48:53 (hora de Perú)
+Actualizado: 2026-08-24 12:50:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1028**  ($56,362,043 en total)
+- Apuestas registradas: **1030**  ($56,471,814 en total)
 - Resueltas: **1006** — 580 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 217
+- Pendientes: 24
+- Apostadores distintos: 218
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 
-_(mostrando los 40 de mayor monto, de 217 en total)_
+_(mostrando los 40 de mayor monto, de 218 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports - Game 1 Winner | G2 Esports | 1.23 (81¢) | $25,783 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.19 (84¢) | $33,470 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | tes21sa | Will AC Milan win on 2026-08-23? | No | 1.96 (51¢) | $30,259 | -$30,259 | ❌ Perdida |
 | bigspending | Will Atalanta BC win on 2026-08-23? | Yes | 1.59 (63¢) | $79,628 | +$46,766 | ✅ Ganada |
 | 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles | 1.79 (56¢) | $25,257 | -$25,257 | ❌ Perdida |
-| pleaseplease123 | Los Angeles Angels vs. Texas Rangers | Los Angeles Angels | 2.44 (41¢) | $44,081 | -$44,081 | ❌ Perdida |
-| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes | 1.79 (56¢) | $26,575 | -$26,575 | ❌ Perdida |

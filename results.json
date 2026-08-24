@@ -15452,5 +15452,35 @@
     "status": "pending",
     "ultimo_fill": 1787591601,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2112,
+    "timestamp": 1787593775,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "epl-ful-che-2026-08-24-che",
+    "title": "Will Chelsea FC win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 84270.79,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787593775,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2113,
+    "timestamp": 1787593793,
+    "username": "Di88medes",
+    "wallet": "0x6c557de3d1056971396317b2553b15b094a24a8c",
+    "slug": "epl-ful-che-2026-08-24-che",
+    "title": "Will Chelsea FC win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787593793,
+    "fills": 1
   }
 ]
