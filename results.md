@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 08:09:25 (hora de Perú)
+Actualizado: 2026-08-24 08:11:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1014**  ($55,492,683 en total)
+- Apuestas registradas: **1015**  ($55,519,283 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 216
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 90 | 56 | 2 | 62% | $10,008,937 | +$488,905 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 90 | 56 | 3 | 62% | $10,035,537 | +$488,905 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | 111111111115 | 30 | 15 | 1 | 67% | $2,623,560 | +$1,082,736 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 216 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | — | ⏳ Pendiente |
 | justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | — | ⏳ Pendiente |
 | VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 216 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | -$34,947 | ❌ Perdida |
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | +$48,960 | ✅ Ganada |
 | crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | -$76,500 | ❌ Perdida |
-| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 2.00 (50¢) | $27,443 | -$27,443 | ❌ Perdida |
