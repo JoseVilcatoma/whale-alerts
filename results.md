@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 11:59:14 (hora de Perú)
+Actualizado: 2026-08-24 12:01:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1023**  ($56,107,377 en total)
+- Apuestas registradas: **1024**  ($56,134,871 en total)
 - Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 217
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 3 | 62% | $10,096,775 | +$497,305 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
-| 111111111115 | 30 | 15 | 2 | 67% | $2,740,615 | +$1,082,736 |
+| 111111111115 | 30 | 15 | 3 | 67% | $2,768,109 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 15 | 14 | 1 | 52% | $1,717,692 | -$160,594 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | — | ⏳ Pendiente |
 | jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | — | ⏳ Pendiente |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins | 2.38 (42¢) | $30,513 | -$30,513 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Mario Gonzalez Fernandez vs Richard Mallory | Mario Gonzalez Fernandez | 1.16 (86¢) | $30,100 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | +$30,856 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | +$24,601 | ✅ Ganada |

@@ -15377,5 +15377,20 @@
     "status": "pending",
     "ultimo_fill": 1787590167,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2106,
+    "timestamp": 1787590833,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-gx-g2-2026-08-24-game-handicap-home-1pt5",
+    "title": "Game Handicap: G2 (-1.5) vs GIANTX (+1.5)",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "usd": 27494.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787590833,
+    "fills": 1
   }
 ]
