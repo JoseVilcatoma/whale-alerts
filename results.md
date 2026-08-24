@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 13:56:59 (hora de Perú)
+Actualizado: 2026-08-24 13:59:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1032**  ($56,702,313 en total)
-- Resueltas: **1007** — 581 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Resueltas: **1008** — 582 ganadas / 426 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 218
 
 ### Balance
 
-- **Resultado de los apostadores: +$937,995** sobre $55,136,391 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,209** sobre $99,000 (ROI **-6.3%**)
+- **Resultado de los apostadores: +$958,571** sobre $55,172,971 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,152** sobre $99,100 (ROI **-6.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 30 | 15 | 5 | 67% | $2,827,362 | +$1,082,736 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 15 | 14 | 1 | 52% | $1,717,692 | -$160,594 |
+| AV23IUa | 16 | 14 | 0 | 53% | $1,717,692 | -$140,017 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | pleaseplease123 | 20 | 14 | 0 | 59% | $1,582,937 | +$123,686 |
 | jjj1995 | 6 | 3 | 1 | 67% | $1,413,608 | +$220,906 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | — | ⏳ Pendiente |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | +$64,177 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | +$20,576 | ✅ Ganada |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | -$29,096 | ❌ Perdida |
 | tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
