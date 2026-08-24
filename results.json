@@ -15122,5 +15122,20 @@
     "fills": 1,
     "profit_usd": 6696.01,
     "precio_salida": 84
+  },
+  {
+    "telegram_msg_id": 2083,
+    "timestamp": 1787539914,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-sea-ten-2026-08-24",
+    "title": "Seahawks vs. Titans",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 86969.7873,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1787539914,
+    "fills": 1
   }
 ]
