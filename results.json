@@ -15227,5 +15227,20 @@
     "status": "pending",
     "ultimo_fill": 1787569023,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2094,
+    "timestamp": 1787571378,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-navi-fnc-2026-08-24",
+    "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 29334.9225,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787571378,
+    "fills": 1
   }
 ]
