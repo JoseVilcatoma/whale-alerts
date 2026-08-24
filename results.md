@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 14:27:43 (hora de Perú)
+Actualizado: 2026-08-24 14:29:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1032**  ($56,702,313 en total)
-- Resueltas: **1008** — 582 ganadas / 426 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Resueltas: **1009** — 583 ganadas / 426 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 218
 
 ### Balance
 
-- **Resultado de los apostadores: +$958,571** sobre $55,172,971 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,152** sobre $99,100 (ROI **-6.2%**)
+- **Resultado de los apostadores: +$997,457** sobre $55,202,306 apostados (ROI **+1.8%**)
+- Copiando $100 fijo en cada una: **-$6,020** sobre $99,200 (ROI **-6.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 56 | 5 | 62% | $10,264,693 | +$497,305 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
-| 111111111115 | 30 | 15 | 5 | 67% | $2,827,362 | +$1,082,736 |
+| 111111111115 | 31 | 15 | 4 | 67% | $2,827,362 | +$1,121,622 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 16 | 14 | 0 | 53% | $1,717,692 | -$140,017 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | +$8,400 | ✅ Ganada |
-| SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | — | ⏳ Pendiente |
+| SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | +$38,886 | ✅ Ganada |
 | justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | — | ⏳ Pendiente |
 | VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | — | ⏳ Pendiente |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | — | ⏳ Pendiente |
