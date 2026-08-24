@@ -15257,5 +15257,20 @@
     "status": "pending",
     "ultimo_fill": 1787577053,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2096,
+    "timestamp": 1787577490,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-cin-sf-2026-08-24",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787577490,
+    "fills": 1
   }
 ]

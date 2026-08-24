@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 08:17:39 (hora de Perú)
+Actualizado: 2026-08-24 08:19:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1015**  ($55,519,283 en total)
+- Apuestas registradas: **1016**  ($55,546,283 en total)
 - Resueltas: **1004** — 579 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 216
+- Pendientes: 12
+- Apostadores distintos: 217
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 0 | 5 | 0 | ⚠️ 0% (5) | $260,800 | -$260,800 |
 | murgionsek | 2 | 0 | 0 | ⚠️ 100% (2) | $260,283 | +$88,578 |
 
-_(mostrando los 40 de mayor monto, de 216 en total)_
+_(mostrando los 40 de mayor monto, de 217 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | — | ⏳ Pendiente |
 | justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 216 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu | 1.28 (78¢) | $27,300 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $34,947 | -$34,947 | ❌ Perdida |
 | ChinesePro | Will Venezia FC win on 2026-08-23? | No | 2.04 (49¢) | $47,040 | +$48,960 | ✅ Ganada |
-| crisp1973 | Will Venezia FC win on 2026-08-23? | Yes | 1.96 (51¢) | $76,500 | -$76,500 | ❌ Perdida |
