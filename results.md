@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 17:05:37 (hora de Perú)
+Actualizado: 2026-08-24 17:07:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1042**  ($57,097,880 en total)
-- Resueltas: **1030** — 593 ganadas / 437 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1031** — 593 ganadas / 438 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 218
 
 ### Balance
 
-- **Resultado de los apostadores: +$550,973** sobre $56,706,476 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,553** sobre $101,300 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$523,479** sobre $56,733,970 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,653** sobre $101,400 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 58 | 3 | 61% | $10,264,693 | +$303,016 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 0 | 61% | $3,226,972 | +$299,879 |
-| 111111111115 | 32 | 16 | 2 | 67% | $2,827,362 | +$1,010,615 |
+| 111111111115 | 32 | 17 | 1 | 65% | $2,827,362 | +$983,121 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | AV23IUa | 16 | 14 | 1 | 53% | $1,764,721 | -$140,017 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 218 en total)_
 | SPCEXBUYER | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.19 (84¢) | $33,470 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $133,052 | -$133,052 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season | G2 Esports | 1.22 (82¢) | $34,867 | — | ⏳ Pendiente |
-| SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | — | ⏳ Pendiente |
+| SPCEXBUYER | Game Handicap: G2 (-1.5) vs GIANTX (+1.5) | G2 Esports | 1.69 (59¢) | $27,494 | -$27,494 | ❌ Perdida |
 | jjj1995 | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $170,085 | +$163,415 | ✅ Ganada |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | +$64,177 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | -$61,238 | ❌ Perdida |
