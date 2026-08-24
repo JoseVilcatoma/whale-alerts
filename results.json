@@ -15527,5 +15527,20 @@
     "status": "pending",
     "ultimo_fill": 1787599797,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1787601540,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "epl-ful-che-2026-08-24-total-4pt5",
+    "title": "Fulham FC vs. Chelsea FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 47159.6008,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787601540,
+    "fills": 1
   }
 ]
