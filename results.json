@@ -15302,5 +15302,20 @@
     "status": "pending",
     "ultimo_fill": 1787580848,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2101,
+    "timestamp": 1787586526,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "atp-dedurap-sil-2026-08-24",
+    "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
+    "outcome": "Diego Dedura-Palomero",
+    "side": "BUY",
+    "usd": 29096.019999,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787586526,
+    "fills": 1
   }
 ]
