@@ -15347,5 +15347,20 @@
     "status": "pending",
     "ultimo_fill": 1787587463,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2104,
+    "timestamp": 1787588734,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "sea-bol-laz-2026-08-24-bol",
+    "title": "Will Bologna FC 1909 win on 2026-08-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 104710.56,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787588734,
+    "fills": 1
   }
 ]

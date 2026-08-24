@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 11:32:18 (hora de Perú)
+Actualizado: 2026-08-24 11:34:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1021**  ($55,832,582 en total)
+- Apuestas registradas: **1022**  ($55,937,292 en total)
 - Resueltas: **1005** — 580 ganadas / 425 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 217
 
 ### Balance
@@ -39,12 +39,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 7 | 0 | 59% | $728,904 | +$152,568 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
+| vito3corleone | 5 | 0 | 1 | ⚠️ 100% (5) | $595,990 | +$573,673 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 8 | 0 | 0 | 100% | $533,993 | +$62,573 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
-| vito3corleone | 5 | 0 | 0 | ⚠️ 100% (5) | $491,280 | +$573,673 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0b1 | 13 | 0 | 0 | 100% | $441,583 | +$53,219 |
 | gransaaa | 4 | 2 | 3 | ⚠️ 67% (6) | $406,193 | +$110,758 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | — | ⏳ Pendiente |
 | xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 217 en total)_
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.72 (58¢) | $42,610 | +$30,856 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. San Diego Padres | San Diego Padres | 1.75 (57¢) | $32,610 | +$24,601 | ✅ Ganada |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes | 1.89 (53¢) | $27,619 | -$27,619 | ❌ Perdida |
-| Rusik7 | Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs | Spirit | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
