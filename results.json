@@ -15977,5 +15977,20 @@
     "status": "pending",
     "ultimo_fill": 1787678511,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2202,
+    "timestamp": 1787679308,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "atp-bolt-ruiz-2026-08-25",
+    "title": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz",
+    "outcome": "Alex Bolt",
+    "side": "BUY",
+    "usd": 31281.6,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1787679308,
+    "fills": 1
   }
 ]

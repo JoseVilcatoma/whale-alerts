@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 12:34:23 (hora de Perú)
+Actualizado: 2026-08-25 12:36:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1063**  ($58,168,096 en total)
+- Apuestas registradas: **1064**  ($58,199,378 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 222
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 222 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 222 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Titans | Titans | 1.45 (69¢) | $86,970 | +$39,073 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang | Anna Bondar | 1.47 (68¢) | $28,458 | +$6,696 | 💰 Vendida antes |
 | tennischamp | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.23 (81¢) | $30,753 | +$7,214 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.45 (69¢) | $138,000 | +$62,000 | ✅ Ganada |
