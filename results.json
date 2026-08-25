@@ -16172,5 +16172,35 @@
     "status": "pending",
     "ultimo_fill": 1787685390,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2215,
+    "timestamp": 1787685644,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "atp-martine-glinka-2026-08-25",
+    "title": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "usd": 64339.92340000001,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787685653,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 2216,
+    "timestamp": 1787685676,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-martine-glinka-2026-08-25",
+    "title": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
+    "outcome": "Pedro Martinez",
+    "side": "BUY",
+    "usd": 28534.755,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787685676,
+    "fills": 1
   }
 ]
