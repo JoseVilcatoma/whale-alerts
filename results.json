@@ -16375,5 +16375,20 @@
     "status": "pending",
     "ultimo_fill": 1787697696,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2249,
+    "timestamp": 1787698019,
+    "username": "winwin518168",
+    "wallet": "0x682005011dd19c1e986cb060ed6ab83845f21c19",
+    "slug": "wnba-por-dal-2026-08-25-spread-home-8pt5",
+    "title": "Spread: Dallas Wings (-8.5)",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "usd": 28988.081500000004,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787698019,
+    "fills": 1
   }
 ]
