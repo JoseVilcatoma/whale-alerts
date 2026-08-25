@@ -16255,5 +16255,20 @@
     "status": "pending",
     "ultimo_fill": 1787690234,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2226,
+    "timestamp": 1787691768,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mil-nym-2026-08-25",
+    "title": "Milwaukee Brewers vs. New York Mets",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 54599.514,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787691768,
+    "fills": 1
   }
 ]
