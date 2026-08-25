@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 20:38:55 (hora de Perú)
+Actualizado: 2026-08-24 20:41:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1057**  ($57,901,916 en total)
-- Resueltas: **1038** — 596 ganadas / 442 perdidas (**57%** de acierto)
-- Pendientes: 19
+- Resueltas: **1040** — 598 ganadas / 442 perdidas (**57%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 220
 
 ### Balance
 
-- **Resultado de los apostadores: +$401,221** sobre $57,034,246 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$6,987** sobre $102,100 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$440,390** sobre $57,107,644 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,884** sobre $102,300 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 6 | 2 | 0 | 75% | $301,458 | +$75,593 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
-| tennischamp | 8 | 0 | 1 | 100% | $290,129 | +$105,635 |
+| tennischamp | 9 | 0 | 0 | 100% | $290,129 | +$114,269 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
@@ -78,14 +78,14 @@ _(mostrando los 40 de mayor monto, de 220 en total)_
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $33,591 | — | ⏳ Pendiente |
 | beeemw | Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.15 (87¢) | $68,572 | +$10,246 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
-| tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | — | ⏳ Pendiente |
+| tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | +$8,634 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | -$54,661 | ❌ Perdida |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
-| grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | — | ⏳ Pendiente |
+| grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | +$30,534 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | +$11,859 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | — | ⏳ Pendiente |
 | 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | +$1,598 | ✅ Ganada |
