@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 01:10:31 (hora de Perú)
+Actualizado: 2026-08-25 01:12:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1058**  ($57,927,556 en total)
-- Resueltas: **1052** — 605 ganadas / 447 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Resueltas: **1054** — 607 ganadas / 447 perdidas (**58%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 221
 
 ### Balance
 
-- **Resultado de los apostadores: +$470,635** sobre $57,759,441 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,844** sobre $103,500 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$530,518** sobre $57,814,717 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,627** sobre $103,700 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 59 | 2 | 61% | $10,264,693 | +$268,149 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49 | 34 | 2 | 59% | $3,630,682 | +$103,055 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 34 | 0 | 60% | $3,630,682 | +$162,937 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,977 | +$27,470 | ✅ Ganada |
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $33,591 | +$41,055 | ✅ Ganada |
 | beeemw | Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.15 (87¢) | $68,572 | +$10,246 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,840 | +$30,160 | ✅ Ganada |
 | tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | +$8,634 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | -$43,714 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | -$61,297 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | -$100,954 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | +$29,722 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | -$54,661 | ❌ Perdida |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | +$114,195 | ✅ Ganada |
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | +$30,534 | ✅ Ganada |
