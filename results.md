@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 13:11:31 (hora de Perú)
+Actualizado: 2026-08-25 13:13:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1065**  ($58,226,121 en total)
+- Apuestas registradas: **1066**  ($58,256,121 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 223
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 223 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | — | ⏳ Pendiente |
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 223 en total)_
 | gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | -$110,390 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova | Mayar Sherif | 4.00 (25¢) | $35,424 | -$35,424 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seahawks vs. Titans | Titans | 1.45 (69¢) | $86,970 | +$39,073 | ✅ Ganada |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang | Anna Bondar | 1.47 (68¢) | $28,458 | +$6,696 | 💰 Vendida antes |
