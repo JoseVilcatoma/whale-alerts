@@ -15872,5 +15872,20 @@
     "status": "pending",
     "ultimo_fill": 1787621791,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2174,
+    "timestamp": 1787621848,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-min-oak-2026-08-24",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 41330.196599999996,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1787621848,
+    "fills": 1
   }
 ]
