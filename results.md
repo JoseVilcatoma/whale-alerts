@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 17:42:20 (hora de Perú)
+Actualizado: 2026-08-25 17:44:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1088**  ($59,255,401 en total)
-- Resueltas: **1074** — 619 ganadas / 455 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1075** — 620 ganadas / 455 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$531,708** sobre $58,710,423 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,776** sobre $105,500 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$555,424** sobre $58,737,166 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,687** sobre $105,600 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | +$25,044 | ✅ Ganada |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
-| EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
+| EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | +$23,715 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | -$57,127 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
