@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 02:52:25 (hora de Perú)
+Actualizado: 2026-08-25 02:54:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1058**  ($57,927,556 en total)
+- Apuestas registradas: **1059**  ($57,959,393 en total)
 - Resueltas: **1054** — 607 ganadas / 447 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 221
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | — | ⏳ Pendiente |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 | 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | -$26,049 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | -$36,127 | ❌ Perdida |
-| AV23IUa | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Frances Tiafoe | 2.27 (44¢) | $73,802 | -$73,802 | ❌ Perdida |

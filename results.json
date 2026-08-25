@@ -15902,5 +15902,20 @@
     "status": "won",
     "ultimo_fill": 1787624553,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2193,
+    "timestamp": 1787644346,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-drxc-foxy-2026-08-25",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "usd": 31837.5222,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787644346,
+    "fills": 1
   }
 ]
