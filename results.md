@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 17:40:15 (hora de Perú)
+Actualizado: 2026-08-25 17:42:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1087**  ($59,215,407 en total)
+- Apuestas registradas: **1088**  ($59,255,401 en total)
 - Resueltas: **1074** — 619 ganadas / 455 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 224
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 60 | 3 | 60% | $10,332,828 | +$239,615 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 34 | 2 | 60% | $3,716,173 | +$162,937 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 34 | 3 | 60% | $3,756,167 | +$162,937 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 20 | 14 | 3 | 59% | $2,129,756 | +$81,030 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | +$11,171 | ✅ Ganada |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | -$84,271 | ❌ Perdida |
-| SPCEXBUYER | LoL: GIANTX vs G2 Esports - Game 1 Winner | G2 Esports | 1.23 (81¢) | $25,783 | +$6,048 | ✅ Ganada |
