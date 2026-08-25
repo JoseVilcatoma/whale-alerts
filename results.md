@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 16:22:03 (hora de Perú)
+Actualizado: 2026-08-25 16:24:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1083**  ($59,058,204 en total)
-- Resueltas: **1068** — 616 ganadas / 452 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Resueltas: **1072** — 617 ganadas / 455 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$536,811** sobre $58,459,557 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,726** sobre $104,900 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$497,417** sobre $58,655,075 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,904** sobre $105,300 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 59 | 4 | 61% | $10,332,828 | +$268,149 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 60 | 3 | 60% | $10,332,828 | +$239,615 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 34 | 1 | 60% | $3,685,281 | +$162,937 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| vito3corleone | 7 | 2 | 3 | 78% | $957,759 | +$609,031 |
+| vito3corleone | 7 | 4 | 1 | 64% | $957,759 | +$512,304 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 9 | 0 | 1 | 100% | $380,565 | +$182,068 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
@@ -75,8 +75,8 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | — | ⏳ Pendiente |
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | — | ⏳ Pendiente |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | +$85,868 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | -$28,535 | ❌ Perdida |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | +$52,276 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | +$13,379 | 💰 Vendida antes |
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |
@@ -87,11 +87,11 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | +$14,081 | ✅ Ganada |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
-| vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
+| vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
-| vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
+| vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | -$57,127 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
