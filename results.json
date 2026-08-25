@@ -15962,5 +15962,20 @@
     "status": "pending",
     "ultimo_fill": 1787675540,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2200,
+    "timestamp": 1787678493,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "lal-val-bet-2026-08-25-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 57127.2,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1787678511,
+    "fills": 2
   }
 ]
