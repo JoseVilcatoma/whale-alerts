@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 20:12:08 (hora de Perú)
+Actualizado: 2026-08-24 20:14:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1054**  ($57,754,377 en total)
-- Resueltas: **1037** — 596 ganadas / 441 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Resueltas: **1038** — 596 ganadas / 442 perdidas (**57%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 220
 
 ### Balance
 
-- **Resultado de los apostadores: +$455,883** sobre $56,979,584 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,887** sobre $102,000 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$401,221** sobre $57,034,246 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$6,987** sobre $102,100 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 91 | 59 | 2 | 61% | $10,264,693 | +$268,149 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 30 | 7 | 61% | $3,573,853 | +$299,879 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 47 | 31 | 6 | 60% | $3,573,853 | +$245,218 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 220 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | -$54,661 | ❌ Perdida |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | +$11,859 | ✅ Ganada |
