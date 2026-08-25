@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 16:42:41 (hora de Perú)
+Actualizado: 2026-08-25 16:44:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1086**  ($59,174,807 en total)
-- Resueltas: **1072** — 617 ganadas / 455 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1073** — 618 ganadas / 455 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$497,417** sobre $58,655,075 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,904** sobre $105,300 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$506,664** sobre $58,684,356 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,872** sobre $105,400 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | -$57,127 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
-| bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
+| bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | +$9,247 | ✅ Ganada |
 | AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
