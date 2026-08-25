@@ -16225,5 +16225,35 @@
     "status": "pending",
     "ultimo_fill": 1787685902,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2224,
+    "timestamp": 1787690133,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-min-oak-2026-08-25",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 59000.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1787690133,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2225,
+    "timestamp": 1787690234,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-tb-det-2026-08-25",
+    "title": "Tampa Bay Rays vs. Detroit Tigers",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 55000.00000000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787690234,
+    "fills": 1
   }
 ]
