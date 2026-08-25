@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 14:26:19 (hora de Perú)
+Actualizado: 2026-08-25 14:28:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1079**  ($58,850,005 en total)
-- Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Resueltas: **1057** — 608 ganadas / 449 perdidas (**58%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$533,926** sobre $57,941,849 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,690** sobre $103,900 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$503,926** sobre $57,971,849 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,790** sobre $104,000 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | — | ⏳ Pendiente |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
-| kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | — | ⏳ Pendiente |
+| kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
