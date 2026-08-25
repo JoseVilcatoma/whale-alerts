@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 13:38:13 (hora de Perú)
+Actualizado: 2026-08-25 13:40:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1068**  ($58,321,787 en total)
+- Apuestas registradas: **1069**  ($58,346,821 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 223
+- Pendientes: 13
+- Apostadores distintos: 224
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 
-_(mostrando los 40 de mayor monto, de 223 en total)_
+_(mostrando los 40 de mayor monto, de 224 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | — | ⏳ Pendiente |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 223 en total)_
 | VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | +$19,680 | ✅ Ganada |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | -$38,950 | ❌ Perdida |
 | gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | -$34,850 | ❌ Perdida |
-| gransaaa | Will Chelsea FC win on 2026-08-24? | No | 2.08 (48¢) | $110,390 | -$110,390 | ❌ Perdida |
