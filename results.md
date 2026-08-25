@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 13:59:03 (hora de Perú)
+Actualizado: 2026-08-25 14:01:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1074**  ($58,625,886 en total)
+- Apuestas registradas: **1075**  ($58,657,886 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 224
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| vito3corleone | 7 | 0 | 4 | ⚠️ 100% (7) | $925,760 | +$745,030 |
+| vito3corleone | 7 | 0 | 5 | ⚠️ 100% (7) | $957,759 | +$745,030 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
 | norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | — | ⏳ Pendiente |
 | tikstt | Will Valencia CF win on 2026-08-25? | No | 1.54 (65¢) | $43,511 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | tennischamp | Will Chelsea FC win on 2026-08-24? | Yes | 1.96 (51¢) | $42,330 | +$40,670 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | -$117,055 | ❌ Perdida |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | -$27,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | +$8,400 | ✅ Ganada |
