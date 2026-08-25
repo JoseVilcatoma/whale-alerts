@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 17:11:27 (hora de Perú)
+Actualizado: 2026-08-25 17:13:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1086**  ($59,174,807 en total)
-- Resueltas: **1073** — 618 ganadas / 455 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1074** — 619 ganadas / 455 perdidas (**58%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$506,664** sobre $58,684,356 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,872** sobre $105,400 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$531,708** sobre $58,710,423 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,776** sobre $105,500 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| vito3corleone | 7 | 4 | 1 | 64% | $957,759 | +$512,304 |
+| vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | +$20,000 | ✅ Ganada |
 | Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | +$14,081 | ✅ Ganada |
-| vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
+| vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | +$25,044 | ✅ Ganada |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
