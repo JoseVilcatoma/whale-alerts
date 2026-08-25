@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 15:27:48 (hora de Perú)
+Actualizado: 2026-08-25 15:31:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **1079**  ($58,850,005 en total)
 - Resueltas: **1059** — 609 ganadas / 450 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Pendientes: 16
 - Apostadores distintos: 224
 
 ### Balance
