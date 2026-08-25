@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 20:06:03 (hora de Perú)
+Actualizado: 2026-08-24 20:08:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1053**  ($57,723,400 en total)
-- Resueltas: **1036** — 595 ganadas / 441 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Resueltas: **1037** — 596 ganadas / 441 perdidas (**57%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 220
 
 ### Balance
 
-- **Resultado de los apostadores: +$445,636** sobre $56,911,012 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,902** sobre $101,900 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$455,883** sobre $56,979,584 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,887** sobre $102,000 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 220 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $33,591 | — | ⏳ Pendiente |
-| beeemw | Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.15 (87¢) | $68,572 | — | ⏳ Pendiente |
+| beeemw | Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.15 (87¢) | $68,572 | +$10,246 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | — | ⏳ Pendiente |
