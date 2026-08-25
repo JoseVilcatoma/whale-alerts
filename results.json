@@ -15857,5 +15857,20 @@
     "status": "pending",
     "ultimo_fill": 1787621521,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2173,
+    "timestamp": 1787621791,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-phi-sea-2026-08-24-total-6pt5",
+    "title": "Philadelphia Phillies vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 49380.4339,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787621791,
+    "fills": 1
   }
 ]
