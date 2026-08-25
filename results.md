@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 16:15:51 (hora de Perú)
+Actualizado: 2026-08-25 16:17:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1083**  ($59,058,204 en total)
-- Resueltas: **1061** — 611 ganadas / 450 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Resueltas: **1068** — 616 ganadas / 452 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$561,300** sobre $58,123,459 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,805** sobre $104,200 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$536,811** sobre $58,459,557 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,726** sobre $104,900 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
-| vito3corleone | 7 | 0 | 5 | ⚠️ 100% (7) | $957,759 | +$745,030 |
+| vito3corleone | 7 | 2 | 3 | 78% | $957,759 | +$609,031 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| ndb1 | 2 | 6 | 1 | 25% | $458,840 | -$75,246 |
+| ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -79,13 +79,13 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | +$52,276 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | +$13,379 | 💰 Vendida antes |
-| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
-| norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
-| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | — | ⏳ Pendiente |
-| tikstt | Will Valencia CF win on 2026-08-25? | No | 1.54 (65¢) | $43,511 | — | ⏳ Pendiente |
-| ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | — | ⏳ Pendiente |
-| Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
-| 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | — | ⏳ Pendiente |
+| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |
+| norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
+| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | -$103,999 | ❌ Perdida |
+| tikstt | Will Valencia CF win on 2026-08-25? | No | 1.54 (65¢) | $43,511 | +$23,429 | ✅ Ganada |
+| ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | +$20,000 | ✅ Ganada |
+| Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
+| 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | +$14,081 | ✅ Ganada |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
