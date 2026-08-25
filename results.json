@@ -15917,5 +15917,20 @@
     "status": "lost",
     "ultimo_fill": 1787644346,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2196,
+    "timestamp": 1787668478,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-bellucc-darderi-2026-08-25",
+    "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787668478,
+    "fills": 1
   }
 ]

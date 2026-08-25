@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 09:34:30 (hora de Perú)
+Actualizado: 2026-08-25 09:36:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1059**  ($57,959,393 en total)
+- Apuestas registradas: **1060**  ($57,986,393 en total)
 - Resueltas: **1055** — 607 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 221
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 19 | 14 | 0 | 58% | $1,948,156 | +$58,030 |
+| AV23IUa | 19 | 14 | 1 | 58% | $1,975,156 | +$58,030 |
 | pleaseplease123 | 21 | 14 | 0 | 60% | $1,616,528 | +$164,742 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.12 (89¢) | $57,702 | +$7,132 | ✅ Ganada |
 | 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | -$26,049 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
-| Weaseloftheweek | Cincinnati Reds vs. Arizona Diamondbacks | Cincinnati Reds | 1.25 (80¢) | $36,127 | -$36,127 | ❌ Perdida |
