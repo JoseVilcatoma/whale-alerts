@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 21:03:58 (hora de Perú)
+Actualizado: 2026-08-24 21:06:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1057**  ($57,901,916 en total)
-- Resueltas: **1040** — 598 ganadas / 442 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Resueltas: **1042** — 600 ganadas / 442 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 220
 
 ### Balance
 
-- **Resultado de los apostadores: +$440,390** sobre $57,107,644 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,884** sobre $102,300 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$594,646** sobre $57,288,728 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,713** sobre $102,500 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 16 | 14 | 3 | 53% | $1,948,156 | -$140,017 |
+| AV23IUa | 18 | 14 | 1 | 56% | $1,948,156 | +$14,239 |
 | pleaseplease123 | 20 | 14 | 1 | 59% | $1,616,528 | +$123,686 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -84,10 +84,10 @@ _(mostrando los 40 de mayor monto, de 220 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | -$54,661 | ❌ Perdida |
-| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | — | ⏳ Pendiente |
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | +$114,195 | ✅ Ganada |
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | +$30,534 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | +$11,859 | ✅ Ganada |
-| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | — | ⏳ Pendiente |
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | +$40,061 | ✅ Ganada |
 | 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | +$1,598 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | +$19,794 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | +$16,192 | ✅ Ganada |
