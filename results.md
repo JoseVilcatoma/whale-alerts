@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 13:57:01 (hora de Perú)
+Actualizado: 2026-08-25 13:59:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1073**  ($58,593,886 en total)
+- Apuestas registradas: **1074**  ($58,625,886 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 224
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | — | ⏳ Pendiente |
 | tikstt | Will Valencia CF win on 2026-08-25? | No | 1.54 (65¢) | $43,511 | — | ⏳ Pendiente |
 | ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 2.50 (40¢) | $117,055 | -$117,055 | ❌ Perdida |
 | monkeymashingkeyboard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.67 (60¢) | $27,000 | -$27,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez | 1.32 (76¢) | $26,600 | +$8,400 | ✅ Ganada |
-| SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | +$38,886 | ✅ Ganada |

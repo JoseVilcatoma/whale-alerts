@@ -16127,5 +16127,20 @@
     "status": "pending",
     "ultimo_fill": 1787684188,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2212,
+    "timestamp": 1787684281,
+    "username": "norrisfan",
+    "wallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+    "slug": "lal-val-bet-2026-08-25-val",
+    "title": "Will Valencia CF win on 2026-08-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787684281,
+    "fills": 1
   }
 ]
