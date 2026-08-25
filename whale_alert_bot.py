@@ -181,26 +181,70 @@ def es_deporte(market):
     return any(_re_mod.search(k, texto) for k in SPORT_KEYWORDS)
 
 
+def _norm(s):
+    """Normaliza un nombre para comparar: minúsculas, sin acentos ni signos."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", (s or "")).encode("ascii", "ignore").decode()
+    return " ".join(_re_mod.sub(r"[^a-z0-9 ]", " ", s.lower()).split())
+
+
+def _buscar_outcome(outcomes, outcome):
+    """Encuentra el índice del resultado. Prueba coincidencia exacta y, si no,
+    formas más flexibles: uno contenido en el otro, o apellido en común.
+    Polymarket a veces nombra distinto al mismo jugador ('Hemery' vs
+    'Calvin Hemery'), y con comparación exacta la apuesta quedaba pendiente
+    para siempre."""
+    objetivo = _norm(outcome)
+    norm = [_norm(o) for o in outcomes]
+    if objetivo in norm:
+        return norm.index(objetivo)
+    for i, o in enumerate(norm):
+        if o and objetivo and (o in objetivo or objetivo in o):
+            return i
+    # último recurso: coincidencia por apellido / palabra significativa
+    pal = {p for p in objetivo.split() if len(p) > 3}
+    for i, o in enumerate(norm):
+        if pal & {p for p in o.split() if len(p) > 3}:
+            return i
+    return -1
+
+
 def market_result(market, outcome):
-    """'won' / 'lost' / 'open' / None (todavía no se puede determinar)."""
+    """'won' / 'lost' / 'open' / 'anulada' / None."""
     if not market:
         return None
     if not market.get("closed"):
         return "open"
     try:
         outcomes = json.loads(market["outcomes"])
-        prices = json.loads(market["outcomePrices"])
-        idx = next((i for i, o in enumerate(outcomes) if (o or "").lower() == (outcome or "").lower()), -1)
-        if idx == -1:
-            return None
-        p = float(prices[idx])
-        if p >= 0.99:
-            return "won"
-        if p <= 0.01:
-            return "lost"
-        return None
+        prices = [float(p) for p in json.loads(market["outcomePrices"])]
     except Exception:
         return None
+
+    idx = _buscar_outcome(outcomes, outcome)
+    if idx == -1:
+        print(f"  ⚠ no encontré '{outcome}' entre {outcomes} (precios {prices})",
+              file=sys.stderr)
+        return None
+
+    p = prices[idx]
+    if p >= 0.99:
+        return "won"
+    if p <= 0.01:
+        return "lost"
+
+    # El mercado cerró pero el precio no es 0 ni 1. Si hay un ganador claro
+    # (alguna opción muy arriba), decidimos por ahí.
+    mayor = max(prices)
+    if mayor >= 0.9:
+        return "won" if prices.index(mayor) == idx else "lost"
+
+    # Precios repartidos (típico de partido anulado o retiro): no hay
+    # resultado deportivo. La marcamos anulada para que no quede pendiente
+    # eternamente ni ensucie las estadísticas.
+    print(f"  ⚠ '{outcome}' cerró sin ganador claro (precios {prices}) -> anulada",
+          file=sys.stderr)
+    return "anulada"
 
 
 def log_result_pending(username, wallet, trade, usd, odds, msg_id=None):
@@ -237,6 +281,13 @@ def resolve_pending_results():
             continue
         market = get_market(r["slug"])
         outcome = market_result(market, r["outcome"])
+        if outcome == "anulada":
+            with lock:
+                r["status"] = "anulada"
+                r["profit_usd"] = 0.0
+            changed = True
+            print(f"  ⊘ anulada: {r['username']} — {(r.get('title') or '')[:40]}")
+            continue
         if outcome in ("won", "lost"):
             with lock:
                 r["status"] = outcome
@@ -432,7 +483,7 @@ def build_summary_md():
               "| Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |",
               "|---|---|---|---|---|---|---|"]
     icono = {"won": "✅ Ganada", "lost": "❌ Perdida", "pending": "⏳ Pendiente",
-             "cerrada_venta": "💰 Vendida antes"}
+             "cerrada_venta": "💰 Vendida antes", "anulada": "⊘ Anulada"}
     for r in sorted(results, key=lambda x: x.get("timestamp") or 0, reverse=True)[:60]:
         titulo = (r.get("title") or "").replace("|", "-")
         outcome = (r.get("outcome") or "").replace("|", "-")
@@ -916,6 +967,8 @@ def ganancia_de(r):
     """Cuánto ganó o perdió esa apuesta, según cómo resolvió."""
     # Si cerró vendiendo antes del final, el resultado ya quedó calculado
     # con el precio de salida al momento de la venta.
+    if r.get("status") == "anulada":
+        return None
     if r.get("status") == "cerrada_venta":
         return r.get("profit_usd", 0.0)
     p = (r.get("odds_at_bet") or 0) / 100.0
@@ -983,6 +1036,30 @@ def on_ws_close(ws, code, msg):
 
 
 # ---------- hilo de fondo: vigilados + revisión de resultados ----------
+def _git(comando, timeout=60):
+    """Ejecuta un comando de git con TIEMPO LÍMITE.
+    Antes usábamos os.system(), que bloquea para siempre si el comando se
+    cuelga (por ejemplo un push esperando credenciales o con la red trabada).
+    Cuando eso pasaba, el hilo de guardado quedaba muerto y el bot seguía
+    funcionando pero sin subir nada al repo.
+    Devuelve el código de salida, o None si se pasó del tiempo."""
+    import subprocess
+    try:
+        r = subprocess.run(comando, shell=True, timeout=timeout,
+                           capture_output=True, text=True)
+        return r.returncode
+    except subprocess.TimeoutExpired:
+        print(f"[guardar] ⏱ '{comando}' superó los {timeout}s y se canceló",
+              file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"[guardar] error ejecutando '{comando}': {e}", file=sys.stderr)
+        return None
+
+
+ultimo_guardado_ok = [time.time()]
+
+
 def save_and_commit_results():
     global results_dirty
     with lock:
@@ -990,30 +1067,58 @@ def save_and_commit_results():
         build_summary_md()
         WATCHED_FILE.write_text(json.dumps(watched_meta, indent=2))
     try:
-        os.system('git config user.name "whale-alert-bot"')
-        os.system('git config user.email "actions@github.com"')
-        os.system("git add results.json results.md watched.json")
-        os.system('git diff --staged --quiet || git commit -m "actualizar resultados y vigilados"')
+        _git('git config user.name "whale-alert-bot"', 15)
+        _git('git config user.email "actions@github.com"', 15)
+        _git("git add results.json results.md watched.json", 30)
+        _git('git diff --staged --quiet || git commit -m "actualizar resultados y vigilados"', 30)
 
+        subido = False
         for intento in range(3):
-            if os.system("git push") == 0:
+            if _git("git push", 90) == 0:
+                subido = True
                 break
-            # El otro bot (paper trading) subió algo mientras tanto. Como cada
-            # bot escribe archivos distintos, nos quedamos con lo nuestro si
-            # hay choque y reintentamos.
             print(f"[guardar] push rechazado (intento {intento+1}/3), "
                   f"bajando cambios ajenos y reintentando...", file=sys.stderr)
-            os.system("git fetch origin main")
-            if os.system('git merge --no-edit -X ours origin/main') != 0:
-                os.system("git merge --abort")
+            _git("git fetch origin main", 60)
+            if _git('git merge --no-edit -X ours origin/main', 60) != 0:
+                _git("git merge --abort", 30)
                 print("[guardar] no se pudo fusionar, se reintenta en el próximo ciclo",
                       file=sys.stderr)
                 break
-        results_dirty = False
+
+        if subido:
+            ultimo_guardado_ok[0] = time.time()
+            results_dirty = False
+        else:
+            mins = (time.time() - ultimo_guardado_ok[0]) / 60
+            print(f"[guardar] ⚠️ no se pudo subir. Van {mins:.0f} min sin guardar "
+                  f"en el repo.", file=sys.stderr)
+            if mins > 15:
+                print(f"[guardar] 🚨 ALERTA: {mins:.0f} MINUTOS SIN GUARDAR — "
+                      f"revisá el workflow, algo está trabado", file=sys.stderr)
+                send_telegram(f"⚠️ El bot lleva {mins:.0f} minutos sin poder "
+                               f"guardar en GitHub. Sigue recibiendo apuestas, "
+                               f"pero la tabla no se está actualizando.")
     except Exception as e:
         import traceback
         print(f"[guardar] error, se reintenta en el próximo ciclo: {e}", file=sys.stderr)
         traceback.print_exc()
+
+
+def background_worker_vigilado():
+    """Envuelve al hilo de fondo. Si se muere por un error inesperado, lo
+    relanza en vez de dejarlo caído en silencio (que fue lo que pasó: el bot
+    seguía recibiendo apuestas pero nadie guardaba nada en el repo)."""
+    while not stop_flag.is_set():
+        try:
+            background_worker()
+            return   # salida normal
+        except Exception as e:
+            import traceback
+            print(f"[vigilante] el hilo de fondo se cayó: {e} — relanzando en 10s",
+                  file=sys.stderr)
+            traceback.print_exc()
+            time.sleep(10)
 
 
 def background_worker():
@@ -1101,7 +1206,7 @@ def main():
         print("[telegram] mandando mensaje de prueba...")
         send_telegram("✅ Whale Alerts bot conectado\n\nSi ves este mensaje en Telegram, todo funciona bien. Las próximas apuestas fuertes de los vigilados van a llegar acá.")
 
-    bg = threading.Thread(target=background_worker, daemon=True)
+    bg = threading.Thread(target=background_worker_vigilado, daemon=True)
     bg.start()
 
     while not watched and time.time() - run_start < 60:
