@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 14:34:43 (hora de Perú)
+Actualizado: 2026-08-25 15:27:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1079**  ($58,850,005 en total)
-- Resueltas: **1058** — 609 ganadas / 449 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Resueltas: **1059** — 609 ganadas / 450 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$517,305** sobre $58,000,837 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,790** sobre $104,000 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$486,024** sobre $58,032,119 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,890** sobre $104,100 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 9 | 0 | 0 | 100% | $290,129 | +$114,269 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
-| 11vsldfdsgfkjgos | 4 | 0 | 2 | ⚠️ 100% (4) | $266,791 | +$33,300 |
+| 11vsldfdsgfkjgos | 4 | 1 | 1 | ⚠️ 80% (5) | $266,791 | +$2,018 |
 
 _(mostrando los 40 de mayor monto, de 224 en total)_
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko | Gauthier Onclin | 2.27 (44¢) | $30,000 | -$30,000 | ❌ Perdida |
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | — | ⏳ Pendiente |
-| 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
