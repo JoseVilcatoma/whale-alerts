@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 14:24:15 (hora de Perú)
+Actualizado: 2026-08-25 14:26:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1078**  ($58,779,749 en total)
+- Apuestas registradas: **1079**  ($58,850,005 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 224
 
 ### Balance
@@ -51,13 +51,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 9 | 0 | 1 | 100% | $380,565 | +$182,068 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 6 | 2 | 1 | 75% | $330,447 | +$75,593 |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 9 | 0 | 0 | 100% | $310,309 | +$182,068 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | tennischamp | 9 | 0 | 0 | 100% | $290,129 | +$114,269 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No | 1.61 (62¢) | $104,711 | +$64,177 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D | Alliance | 1.61 (62¢) | $61,238 | -$61,238 | ❌ Perdida |
 | AV23IUa | Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs | 100 Thieves | 1.56 (64¢) | $36,580 | +$20,576 | ✅ Ganada |
-| xabidaking | US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva | Diego Dedura-Palomero | 2.33 (43¢) | $29,096 | -$29,096 | ❌ Perdida |
