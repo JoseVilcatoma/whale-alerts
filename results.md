@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 19:31:05 (hora de Perú)
+Actualizado: 2026-08-24 19:33:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1051**  ($57,621,237 en total)
+- Apuestas registradas: **1052**  ($57,689,809 en total)
 - Resueltas: **1035** — 595 ganadas / 440 perdidas (**57%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 219
+- Pendientes: 17
+- Apostadores distintos: 220
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 
-_(mostrando los 40 de mayor monto, de 219 en total)_
+_(mostrando los 40 de mayor monto, de 220 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.15 (87¢) | $68,572 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,840 | — | ⏳ Pendiente |
 | tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 219 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Detroit Tigers vs. Kansas City Royals | Kansas City Royals | 1.08 (93¢) | $35,443 | +$2,668 | ✅ Ganada |
 | DonaldinhoTrumpito | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.56 (64¢) | $31,148 | +$17,521 | ✅ Ganada |
 | 0b1 | Cincinnati Open: Arthur Fils vs Frances Tiafoe | Arthur Fils | 1.52 (66¢) | $29,700 | +$15,300 | ✅ Ganada |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.67 (60¢) | $37,515 | +$25,010 | ✅ Ganada |

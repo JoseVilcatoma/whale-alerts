@@ -15797,5 +15797,20 @@
     "status": "pending",
     "ultimo_fill": 1787616377,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2165,
+    "timestamp": 1787617951,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "atp-brooksb-tsitsip-2026-08-24",
+    "title": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas",
+    "outcome": "Stefanos Tsitsipas",
+    "side": "BUY",
+    "usd": 68571.819999,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1787617951,
+    "fills": 1
   }
 ]
