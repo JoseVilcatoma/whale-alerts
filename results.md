@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 12:24:04 (hora de Perú)
+Actualizado: 2026-08-25 12:26:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1063**  ($58,168,096 en total)
-- Resueltas: **1055** — 607 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 222
 
 ### Balance
 
-- **Resultado de los apostadores: +$498,680** sobre $57,846,554 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,727** sobre $103,800 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$533,926** sobre $57,941,849 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,690** sobre $103,900 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 222 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
-| kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | — | ⏳ Pendiente |
+| kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
