@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 13:52:48 (hora de Perú)
+Actualizado: 2026-08-25 13:54:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1069**  ($58,346,821 en total)
+- Apuestas registradas: **1071**  ($58,446,376 en total)
 - Resueltas: **1056** — 608 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 224
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| ndb1 | 2 | 6 | 0 | 25% | $423,285 | -$75,246 |
+| ndb1 | 2 | 6 | 1 | 25% | $458,840 | -$75,246 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | — | ⏳ Pendiente |
+| Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | — | ⏳ Pendiente |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | — | ⏳ Pendiente |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season | Natus Vincere | 2.33 (43¢) | $29,335 | +$38,886 | ✅ Ganada |
 | justwins | Will Chelsea FC win on 2026-08-24? | No | 2.04 (49¢) | $162,015 | -$162,015 | ❌ Perdida |
 | VibeDoter | Will Málaga CF win on 2026-08-24? | No | 1.69 (59¢) | $28,320 | +$19,680 | ✅ Ganada |
-| gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $38,950 | -$38,950 | ❌ Perdida |
-| gransaaa | Will Málaga CF win on 2026-08-24? | Yes | 2.44 (41¢) | $34,850 | -$34,850 | ❌ Perdida |
