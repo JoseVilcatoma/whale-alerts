@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 14:32:37 (hora de Perú)
+Actualizado: 2026-08-25 14:34:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1079**  ($58,850,005 en total)
-- Resueltas: **1057** — 608 ganadas / 449 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Resueltas: **1058** — 609 ganadas / 449 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$503,926** sobre $57,971,849 apostados (ROI **+0.9%**)
+- **Resultado de los apostadores: +$517,305** sobre $58,000,837 apostados (ROI **+0.9%**)
 - Copiando $100 fijo en cada una: **-$6,790** sobre $104,000 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 7 | 3 | 0 | 70% | $364,742 | -$70,238 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 6 | 2 | 1 | 75% | $330,447 | +$75,593 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 7 | 2 | 0 | 78% | $330,447 | +$88,972 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | tennischamp | 9 | 0 | 0 | 100% | $290,129 | +$114,269 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | +$13,379 | 💰 Vendida antes |
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
 | norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | — | ⏳ Pendiente |
