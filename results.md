@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 23:55:47 (hora de Perú)
+Actualizado: 2026-08-24 23:57:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1058**  ($57,927,556 en total)
-- Resueltas: **1051** — 605 ganadas / 446 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Resueltas: **1052** — 605 ganadas / 447 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 221
 
 ### Balance
 
-- **Resultado de los apostadores: +$511,966** sobre $57,718,111 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,744** sobre $103,400 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$470,635** sobre $57,759,441 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,844** sobre $103,500 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| Sassy-Bucket | 10 | 7 | 1 | 59% | $770,235 | +$152,568 |
+| Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | vito3corleone | 7 | 0 | 0 | ⚠️ 100% (7) | $698,967 | +$745,030 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
-| Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | — | ⏳ Pendiente |
+| Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels | Cleveland Guardians | 1.64 (61¢) | $56,829 | +$36,333 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,977 | +$27,470 | ✅ Ganada |
