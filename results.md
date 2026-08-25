@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 16:05:42 (hora de Perú)
+Actualizado: 2026-08-25 16:07:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1082**  ($59,018,604 en total)
-- Resueltas: **1060** — 610 ganadas / 450 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Resueltas: **1061** — 611 ganadas / 450 perdidas (**58%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 224
 
 ### Balance
 
-- **Resultado de los apostadores: +$538,300** sobre $58,096,459 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,890** sobre $104,100 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$561,300** sobre $58,123,459 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,805** sobre $104,200 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| AV23IUa | 19 | 14 | 3 | 58% | $2,089,156 | +$58,030 |
+| AV23IUa | 20 | 14 | 2 | 59% | $2,089,156 | +$81,030 |
 | pleaseplease123 | 21 | 14 | 0 | 60% | $1,616,528 | +$164,742 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | — | ⏳ Pendiente |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
-| AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
