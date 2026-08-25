@@ -15887,5 +15887,20 @@
     "status": "pending",
     "ultimo_fill": 1787621848,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2179,
+    "timestamp": 1787624553,
+    "username": "hd777",
+    "wallet": "0x986b121c40e715167dde178b8520bf132a57bdc6",
+    "slug": "atp-altmaie-comesan-2026-08-24",
+    "title": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana",
+    "outcome": "Daniel Altmaier",
+    "side": "BUY",
+    "usd": 25639.721999999998,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787624553,
+    "fills": 1
   }
 ]
