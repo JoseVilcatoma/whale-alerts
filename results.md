@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 08:25:00 (hora de Perú)
+Actualizado: 2026-08-25 08:27:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1059**  ($57,959,393 en total)
-- Resueltas: **1054** — 607 ganadas / 447 perdidas (**58%** de acierto)
-- Pendientes: 5
+- Resueltas: **1055** — 607 ganadas / 448 perdidas (**58%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 221
 
 ### Balance
 
-- **Resultado de los apostadores: +$530,518** sobre $57,814,717 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,627** sobre $103,700 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$498,680** sobre $57,846,554 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,727** sobre $103,800 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
