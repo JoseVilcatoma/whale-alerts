@@ -16300,5 +16300,20 @@
     "status": "pending",
     "ultimo_fill": 1787693193,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2241,
+    "timestamp": 1787693381,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-bucsa-bondar-2026-08-25",
+    "title": "Monterrey Open: Cristina Bucsa vs Anna Bondar",
+    "outcome": "Anna Bondar",
+    "side": "BUY",
+    "usd": 30288.579998999998,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1787693381,
+    "fills": 1
   }
 ]
