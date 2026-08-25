@@ -16315,5 +16315,20 @@
     "status": "pending",
     "ultimo_fill": 1787693381,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2242,
+    "timestamp": 1787693471,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "mlb-lad-atl-2026-08-25-f5-total-4pt5",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 55422.3343,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787693471,
+    "fills": 1
   }
 ]
