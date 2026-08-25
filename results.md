@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 11:30:41 (hora de Perú)
+Actualizado: 2026-08-25 11:32:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1061**  ($58,015,675 en total)
+- Apuestas registradas: **1062**  ($58,110,969 en total)
 - Resueltas: **1055** — 607 ganadas / 448 perdidas (**58%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 221
+- Pendientes: 7
+- Apostadores distintos: 222
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 | rabbitfoot1 | 2 | 2 | 0 | ⚠️ 50% (4) | $266,506 | +$1,715 |
 
-_(mostrando los 40 de mayor monto, de 221 en total)_
+_(mostrando los 40 de mayor monto, de 222 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 | tennischamp | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.23 (81¢) | $30,753 | +$7,214 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Open: Coco Gauff vs Jessica Pegula | Coco Gauff | 1.45 (69¢) | $138,000 | +$62,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Arizona Diamondbacks: O/U 9.5 | Under 9.5 | 1.12 (89¢) | $57,702 | +$7,132 | ✅ Ganada |
-| 0xwise | Cincinnati Open: Coco Gauff vs Jessica Pegula | Jessica Pegula | 2.44 (41¢) | $26,049 | -$26,049 | ❌ Perdida |
