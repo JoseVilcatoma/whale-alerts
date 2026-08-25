@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 17:44:20 (hora de Perú)
+Actualizado: 2026-08-25 17:46:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1088**  ($59,255,401 en total)
+- Apuestas registradas: **1089**  ($59,285,630 en total)
 - Resueltas: **1075** — 620 ganadas / 455 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 224
 
 ### Balance
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | — | ⏳ Pendiente |
+| Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | 0b1 | Will Hallescher FC win on 2026-08-24? | No | 1.08 (93¢) | $55,493 | +$4,177 | ✅ Ganada |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | Fulham FC vs. Chelsea FC: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $175,006 | +$11,171 | ✅ Ganada |
 | Di88medes | Will Chelsea FC win on 2026-08-24? | No | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| predictionlegend | Will Chelsea FC win on 2026-08-24? | No | 2.00 (50¢) | $84,271 | -$84,271 | ❌ Perdida |

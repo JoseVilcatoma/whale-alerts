@@ -16360,5 +16360,20 @@
     "status": "pending",
     "ultimo_fill": 1787697720,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2248,
+    "timestamp": 1787697696,
+    "username": "Eztennis",
+    "wallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+    "slug": "mlb-hou-nyy-2026-08-25",
+    "title": "Houston Astros vs. New York Yankees",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 30229.3299992,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787697696,
+    "fills": 1
   }
 ]
