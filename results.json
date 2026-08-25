@@ -15932,5 +15932,20 @@
     "status": "pending",
     "ultimo_fill": 1787668478,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2197,
+    "timestamp": 1787669877,
+    "username": "bloodmaster",
+    "wallet": "0x58f8f1138be2192696378629fc9aa23c7910dc70",
+    "slug": "lol-use1-ross-2026-08-25",
+    "title": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs",
+    "outcome": "Unicorns Of Love Sexy Edition",
+    "side": "BUY",
+    "usd": 29281.3636,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1787669877,
+    "fills": 1
   }
 ]
