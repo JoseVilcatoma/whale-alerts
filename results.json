@@ -16037,5 +16037,20 @@
     "status": "pending",
     "ultimo_fill": 1787682158,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2206,
+    "timestamp": 1787683061,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "ucl-lin2-cel-2026-08-25-lin2",
+    "title": "Will LASK Linz win on 2026-08-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26066.61,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787683061,
+    "fills": 1
   }
 ]
