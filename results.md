@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-24 21:57:58 (hora de Perú)
+Actualizado: 2026-08-24 22:00:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1058**  ($57,927,556 en total)
-- Resueltas: **1044** — 601 ganadas / 443 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1045** — 602 ganadas / 443 perdidas (**58%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 221
 
 ### Balance
 
-- **Resultado de los apostadores: +$537,482** sobre $57,439,062 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,725** sobre $102,700 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$539,119** sobre $57,464,702 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,718** sobre $102,800 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 221 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | — | ⏳ Pendiente |
+| hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | — | ⏳ Pendiente |
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels | Cleveland Guardians | 1.64 (61¢) | $56,829 | — | ⏳ Pendiente |
