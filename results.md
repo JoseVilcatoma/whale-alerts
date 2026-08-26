@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 23:24:32 (hora de Perú)
+Actualizado: 2026-08-25 23:26:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1099**  ($59,800,561 en total)
-- Resueltas: **1087** — 624 ganadas / 463 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Resueltas: **1088** — 625 ganadas / 463 perdidas (**57%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 226
 
 ### Balance
 
-- **Resultado de los apostadores: +$339,331** sobre $59,319,161 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,135** sobre $106,800 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$380,157** sobre $59,351,237 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,008** sobre $106,900 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 7 | 5 | 1 | 58% | $1,007,964 | -$479,921 |
+| wr0ngw4yb3tt0r | 8 | 5 | 0 | 62% | $1,007,964 | -$439,096 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | Sassy-Bucket | 10 | 8 | 1 | 56% | $800,938 | +$111,238 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | +$40,825 | ✅ Ganada |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |

@@ -51,10 +51,6 @@
     "username": "JnStrtPrdctnMrkts",
     "added_at": 1786951802.6923919
   },
-  "0x011f2d377e56119fb09196dffb0948ae55711122": {
-    "username": "11122",
-    "added_at": 1787113344.3913355
-  },
   "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c": {
     "username": "boyau",
     "added_at": 1787142149.6964285
@@ -482,5 +478,13 @@
   "0x397062018dfb77e855608fe23223592bc82c44ce": {
     "username": "11vsldfdsgfkjgos",
     "added_at": 1787703291.9841664
+  },
+  "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
+    "username": "GoalLineGhost",
+    "added_at": 1787718318.3981168
+  },
+  "0xe72bb501df5306c75c89383d48a1e81073fbb0a0": {
+    "username": "norrisfan",
+    "added_at": 1787718318.3981168
   }
 }
