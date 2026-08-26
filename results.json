@@ -17433,5 +17433,20 @@
     "status": "pending",
     "ultimo_fill": 1787780408,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2396,
+    "timestamp": 1787783835,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bos-mia-2026-08-26-spread-away-1pt5",
+    "title": "Spread: Boston Red Sox (-1.5)",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 28080.815999999995,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787783835,
+    "fills": 1
   }
 ]

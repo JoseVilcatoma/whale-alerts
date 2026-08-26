@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 17:42:17 (hora de Perú)
+Actualizado: 2026-08-26 17:44:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1159**  ($63,205,627 en total)
+- Apuestas registradas: **1160**  ($63,233,708 en total)
 - Resueltas: **1147** — 663 ganadas / 484 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 229
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 63 | 3 | 61% | $11,330,488 | +$410,734 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 38 | 0 | 57% | $3,788,701 | +$4,918 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 38 | 1 | 57% | $3,816,782 | +$4,918 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 2.33 (43¢) | $33,018 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | -$30,326 | ❌ Perdida |
-| ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | -$38,864 | ❌ Perdida |
