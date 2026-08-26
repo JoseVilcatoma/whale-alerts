@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 21:21:13 (hora de Perú)
+Actualizado: 2026-08-25 21:23:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1096**  ($59,661,654 en total)
-- Resueltas: **1082** — 621 ganadas / 461 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Resueltas: **1083** — 621 ganadas / 462 perdidas (**57%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 225
 
 ### Balance
 
-- **Resultado de los apostadores: +$350,486** sobre $59,107,314 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,248** sobre $106,300 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$293,056** sobre $59,164,744 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,348** sobre $106,400 (ROI **-6.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 20 | 15 | 2 | 57% | $2,129,756 | +$26,030 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 14 | 1 | 60% | $1,673,957 | +$164,742 |
+| pleaseplease123 | 21 | 15 | 0 | 58% | $1,673,957 | +$107,312 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | — | ⏳ Pendiente |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | — | ⏳ Pendiente |
