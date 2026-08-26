@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 13:50:45 (hora de Perú)
+Actualizado: 2026-08-26 13:52:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1144**  ($62,590,207 en total)
+- Apuestas registradas: **1145**  ($62,643,946 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 229
 
 ### Balance
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 1 | 67% | $399,926 | +$6,270 |
 | ferrariChampions2026 | 8 | 3 | 0 | 73% | $393,576 | -$64,332 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -59,7 +60,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | tennischamp | 9 | 0 | 1 | 100% | $375,233 | +$114,269 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | — | ⏳ Pendiente |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | +$40,071 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | +$29,400 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | -$30,289 | ❌ Perdida |
