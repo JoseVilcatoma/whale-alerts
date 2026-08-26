@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 13:17:25 (hora de Perú)
+Actualizado: 2026-08-26 13:19:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1139**  ($62,274,099 en total)
+- Apuestas registradas: **1142**  ($62,451,813 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 228
+- Pendientes: 30
+- Apostadores distintos: 229
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
-_(mostrando los 40 de mayor monto, de 228 en total)_
+_(mostrando los 40 de mayor monto, de 229 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
+| RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
+| RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.47 (68¢) | $48,091 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | -$30,289 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $30,892 | -$30,892 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Tomas Machac | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | -$54,600 | ❌ Perdida |
-| AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
-| AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |

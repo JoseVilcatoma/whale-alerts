@@ -17129,5 +17129,50 @@
     "status": "pending",
     "ultimo_fill": 1787768122,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2336,
+    "timestamp": 1787768270,
+    "username": "RegardedMoney",
+    "wallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "slug": "lal-rea-rso-2026-08-26-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 93222.6106,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787768270,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2337,
+    "timestamp": 1787768278,
+    "username": "RegardedMoney",
+    "wallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "slug": "lal-rea-rso-2026-08-26-draw",
+    "title": "Will Real Madrid CF vs. Real Sociedad de F\u00fatbol end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 44000.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1787768278,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2338,
+    "timestamp": 1787768289,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Madrid CF",
+    "side": "BUY",
+    "usd": 40491.775100000006,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787768289,
+    "fills": 1
   }
 ]
