@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 16:38:27 (hora de Perú)
+Actualizado: 2026-08-26 16:40:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1157**  ($63,129,966 en total)
+- Apuestas registradas: **1159**  ($63,205,627 en total)
 - Resueltas: **1129** — 648 ganadas / 481 perdidas (**57%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 229
 
 ### Balance
@@ -37,13 +37,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 8 | 5 | 1 | 62% | $1,056,500 | -$439,096 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
-| Sassy-Bucket | 10 | 9 | 1 | 53% | $844,938 | +$80,534 |
+| Sassy-Bucket | 10 | 9 | 2 | 53% | $871,456 | +$80,534 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 3 | 2 | 80% | $620,693 | +$137,802 |
 | kilian7kilian | 2 | 1 | 2 | ⚠️ 67% (3) | $619,340 | +$47,064 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 3 | 1 | 80% | $571,550 | +$137,802 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | — | ⏳ Pendiente |
+| Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | — | ⏳ Pendiente |
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | -$30,326 | ❌ Perdida |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | -$38,864 | ❌ Perdida |
-| Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | -$27,283 | ❌ Perdida |
-| 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |

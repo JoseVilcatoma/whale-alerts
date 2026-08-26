@@ -17403,5 +17403,35 @@
     "status": "pending",
     "ultimo_fill": 1787779060,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2375,
+    "timestamp": 1787780363,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-mil-nym-2026-08-26-total-8pt5",
+    "title": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26518.152,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787780363,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2376,
+    "timestamp": 1787780408,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-bucsa-vidmano-2026-08-26",
+    "title": "Monterrey Open: Cristina Bucsa vs Darja Vidmanova",
+    "outcome": "Cristina Bucsa",
+    "side": "BUY",
+    "usd": 49142.349999,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787780408,
+    "fills": 1
   }
 ]
