@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 23:26:36 (hora de Perú)
+Actualizado: 2026-08-25 23:28:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1099**  ($59,800,561 en total)
-- Resueltas: **1088** — 625 ganadas / 463 perdidas (**57%** de acierto)
-- Pendientes: 7
+- Resueltas: **1089** — 625 ganadas / 464 perdidas (**57%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 226
 
 ### Balance
 
-- **Resultado de los apostadores: +$380,157** sobre $59,351,237 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,008** sobre $106,900 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$321,157** sobre $59,410,237 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,108** sobre $107,000 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 21 | 15 | 1 | 58% | $2,129,756 | +$55,430 |
+| AV23IUa | 21 | 16 | 0 | 57% | $2,129,756 | -$3,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 21 | 15 | 0 | 58% | $1,673,957 | +$107,312 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Tomas Machac | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | -$54,600 | ❌ Perdida |
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
-| AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
+| AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | +$85,868 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | -$28,535 | ❌ Perdida |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | +$52,276 | 💰 Vendida antes |
