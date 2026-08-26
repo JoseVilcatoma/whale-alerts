@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 22:00:08 (hora de Perú)
+Actualizado: 2026-08-25 22:02:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1097**  ($59,737,654 en total)
+- Apuestas registradas: **1098**  ($59,773,278 en total)
 - Resueltas: **1087** — 624 ganadas / 463 perdidas (**57%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 225
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | +$40,061 | ✅ Ganada |
 | 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | +$1,598 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | +$19,794 | ✅ Ganada |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | +$16,192 | ✅ Ganada |
