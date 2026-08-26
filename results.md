@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 12:56:52 (hora de Perú)
+Actualizado: 2026-08-26 12:58:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1133**  ($61,651,320 en total)
+- Apuestas registradas: **1135**  ($61,956,047 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 228
 
 ### Balance
@@ -45,6 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
+| kilian7kilian | 2 | 1 | 1 | ⚠️ 67% (3) | $521,422 | +$47,064 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 3 | 0 | 77% | $477,550 | +$109,053 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
-| noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 
 _(mostrando los 40 de mayor monto, de 228 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | — | ⏳ Pendiente |
+| hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | -$28,535 | ❌ Perdida |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.08 (48¢) | $64,340 | +$52,276 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Mattia Bellucci vs Luciano Darderi | Luciano Darderi | 2.56 (39¢) | $28,989 | +$13,379 | 💰 Vendida antes |
-| vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |
-| norrisfan | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
