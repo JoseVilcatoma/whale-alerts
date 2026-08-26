@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 18:11:12 (hora de Perú)
+Actualizado: 2026-08-26 18:13:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1164**  ($63,420,433 en total)
+- Apuestas registradas: **1165**  ($63,506,691 en total)
 - Resueltas: **1148** — 663 ganadas / 485 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 229
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 63 | 3 | 61% | $11,330,488 | +$410,734 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 63 | 4 | 61% | $11,416,746 | +$410,734 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 38 | 2 | 57% | $3,848,115 | +$4,918 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $86,258 | — | ⏳ Pendiente |
 | Weaseloftheweek | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $37,595 | — | ⏳ Pendiente |
 | Winnerdinnerchickenjr | Houston Astros vs. New York Yankees | New York Yankees | 1.85 (54¢) | $43,723 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. New York Yankees | Houston Astros | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | +$9,999 | ✅ Ganada |
 | aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | -$51,414 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 3 Winner | KT Rolster | 1.39 (72¢) | $35,855 | -$35,855 | ❌ Perdida |
-| ferrariChampions2026 | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | KT Rolster | 1.20 (83¢) | $28,834 | +$5,906 | ✅ Ganada |
