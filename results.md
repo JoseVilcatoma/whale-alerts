@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 16:13:38 (hora de Perú)
+Actualizado: 2026-08-26 16:15:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1156**  ($63,094,402 en total)
-- Resueltas: **1117** — 639 ganadas / 478 perdidas (**57%** de acierto)
-- Pendientes: 35
+- Resueltas: **1118** — 640 ganadas / 478 perdidas (**57%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$133,629** sobre $60,956,409 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,949** sobre $109,400 (ROI **-7.3%**)
+- **Resultado de los apostadores: +$138,500** sobre $60,981,983 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,930** sobre $109,500 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
-| ferrariChampions2026 | 8 | 3 | 1 | 73% | $419,150 | -$64,332 |
+| ferrariChampions2026 | 9 | 3 | 0 | 75% | $419,150 | -$59,461 |
 | 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | xifutloong3 | 3 | 9 | 1 | 25% | $404,325 | -$243,015 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
-| ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | — | ⏳ Pendiente |
+| ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | — | ⏳ Pendiente |
