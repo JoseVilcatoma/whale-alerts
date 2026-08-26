@@ -17084,5 +17084,20 @@
     "status": "pending",
     "ultimo_fill": 1787767244,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2333,
+    "timestamp": 1787767715,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-hijikat-bonzi-2026-08-26",
+    "title": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
+    "outcome": "Rinky Hijikata",
+    "side": "BUY",
+    "usd": 52000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787767715,
+    "fills": 1
   }
 ]
