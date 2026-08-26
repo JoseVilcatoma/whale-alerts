@@ -17234,5 +17234,20 @@
     "status": "pending",
     "ultimo_fill": 1787771345,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2345,
+    "timestamp": 1787772379,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-lad-atl-2026-08-26-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30967.852300000002,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787772379,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 14:26:19 (hora de Perú)
+Actualizado: 2026-08-26 14:28:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1146**  ($62,686,725 en total)
+- Apuestas registradas: **1147**  ($62,717,693 en total)
 - Resueltas: **1110** — 635 ganadas / 475 perdidas (**57%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 229
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 15 | 2 | 58% | $1,748,146 | +$107,312 |
+| pleaseplease123 | 21 | 15 | 3 | 58% | $1,779,114 | +$107,312 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | +$31,404 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | +$40,071 | ✅ Ganada |
-| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | +$29,400 | ✅ Ganada |
