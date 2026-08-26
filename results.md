@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 17:06:45 (hora de Perú)
+Actualizado: 2026-08-26 17:40:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1159**  ($63,205,627 en total)
-- Resueltas: **1134** — 653 ganadas / 481 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Resueltas: **1147** — 663 ganadas / 484 perdidas (**58%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$130,733** sobre $61,824,691 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,987** sobre $111,100 (ROI **-7.2%**)
+- **Resultado de los apostadores: +$309,393** sobre $62,803,681 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,839** sobre $112,400 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,24 +24,24 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 97 | 63 | 5 | 61% | $11,330,488 | +$350,374 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 63 | 3 | 61% | $11,330,488 | +$410,734 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 38 | 0 | 57% | $3,788,701 | +$4,918 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 23 | 17 | 1 | 57% | $2,372,941 | -$77,243 |
+| AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 16 | 4 | 57% | $1,844,458 | +$75,902 |
+| pleaseplease123 | 22 | 16 | 3 | 58% | $1,844,458 | +$111,289 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 8 | 5 | 1 | 62% | $1,056,500 | -$439,096 |
+| wr0ngw4yb3tt0r | 9 | 5 | 0 | 64% | $1,056,500 | -$384,363 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | Sassy-Bucket | 10 | 9 | 2 | 53% | $871,456 | +$80,534 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 3 | 2 | 80% | $620,693 | +$137,802 |
-| kilian7kilian | 2 | 1 | 2 | ⚠️ 67% (3) | $619,340 | +$47,064 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 4 | 1 | 75% | $620,693 | +$107,802 |
+| kilian7kilian | 4 | 1 | 0 | ⚠️ 80% (5) | $619,340 | +$143,282 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
-| ferrariChampions2026 | 9 | 3 | 1 | 75% | $454,714 | -$59,461 |
+| ferrariChampions2026 | 10 | 3 | 0 | 77% | $454,714 | -$44,219 |
 | 0F62 | 8 | 1 | 0 | 89% | $407,903 | -$1,740 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | xifutloong3 | 3 | 9 | 1 | 25% | $404,325 | -$243,015 |
@@ -73,30 +73,30 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 |---|---|---|---|---|---|---|
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
-| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | — | ⏳ Pendiente |
-| pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | — | ⏳ Pendiente |
+| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | +$39,995 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | +$54,732 | ✅ Ganada |
+| pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | +$35,387 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | +$19,101 | ✅ Ganada |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | +$20,859 | ✅ Ganada |
 | RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | +$5,950 | ✅ Ganada |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.47 (68¢) | $48,091 | -$48,091 | ❌ Perdida |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
-| AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | — | ⏳ Pendiente |
-| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | — | ⏳ Pendiente |
-| hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.82 (55¢) | $30,000 | -$30,000 | ❌ Perdida |
+| AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | +$41,260 | ✅ Ganada |
+| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | +$56,223 | ✅ Ganada |
+| hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | +$11,400 | ✅ Ganada |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | +$21,002 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
@@ -108,8 +108,8 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.45 (69¢) | $28,847 | +$12,960 | ✅ Ganada |
 | 787-HUEV-W-ZOPE | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.28 (78¢) | $35,100 | +$9,900 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.75 (57¢) | $47,317 | +$35,695 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | — | ⏳ Pendiente |
-| RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | -$32,534 | ❌ Perdida |
+| RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | +$9,855 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | +$2,476 | ✅ Ganada |
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | -$29,117 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | -$27,263 | ❌ Perdida |
-| MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | — | ⏳ Pendiente |
+| MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | +$9,999 | ✅ Ganada |
 | aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | -$51,414 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 3 Winner | KT Rolster | 1.39 (72¢) | $35,855 | -$35,855 | ❌ Perdida |
 | ferrariChampions2026 | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | KT Rolster | 1.20 (83¢) | $28,834 | +$5,906 | ✅ Ganada |

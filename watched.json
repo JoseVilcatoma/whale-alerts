@@ -51,18 +51,6 @@
     "username": "JnStrtPrdctnMrkts",
     "added_at": 1786951802.6923919
   },
-  "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff": {
-    "username": "sulumos",
-    "added_at": 1787149368.5008092
-  },
-  "0xf1771327cccb5cda15e0eaa3c56755bbf3655f6a": {
-    "username": "dauntlesswitness",
-    "added_at": 1787178899.3306978
-  },
-  "0x6db983ff1cbc85249e64e6ccd101aaa613ba4ab5": {
-    "username": "tsihkodiives",
-    "added_at": 1787178899.3306978
-  },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1787193454.2432911
@@ -108,7 +96,7 @@
     "added_at": 1787254999.4757817
   },
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
-    "username": "quavoo",
+    "username": "nigiri99",
     "added_at": 1787265364.8953502
   },
   "0x143732d8a06bd1596c694f7873cd493be80aacfe": {
@@ -462,5 +450,9 @@
   "0xe72bb501df5306c75c89383d48a1e81073fbb0a0": {
     "username": "norrisfan",
     "added_at": 1787718318.3981168
+  },
+  "0x20b80ebb96e2051540e1d475e4ce122fc282aa04": {
+    "username": "tes21sa",
+    "added_at": 1787783890.0552866
   }
 }
