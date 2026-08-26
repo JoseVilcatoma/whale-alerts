@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 12:16:01 (hora de Perú)
+Actualizado: 2026-08-26 12:18:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1126**  ($61,258,700 en total)
+- Apuestas registradas: **1127**  ($61,289,236 en total)
 - Resueltas: **1107** — 634 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 228
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato | Vilius Gaubas | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.45 (69¢) | $28,847 | +$12,960 | ✅ Ganada |
 | 787-HUEV-W-ZOPE | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.28 (78¢) | $35,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 0x0b08…02ab | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $25,033 | +$14,081 | ✅ Ganada |
 | vito3corleone | Will LASK Linz win on 2026-08-25? | Yes | 1.96 (51¢) | $26,067 | +$25,044 | ✅ Ganada |
-| vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
