@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 10:26:02 (hora de Perú)
+Actualizado: 2026-08-26 10:28:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1120**  ($61,047,830 en total)
+- Apuestas registradas: **1121**  ($61,084,902 en total)
 - Resueltas: **1101** — 629 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 227
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | -$57,127 | ❌ Perdida |
 | kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
-| bloodmaster | LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs | Unicorns Of Love Sexy Edition | 1.32 (76¢) | $29,281 | +$9,247 | ✅ Ganada |
