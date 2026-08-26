@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 21:15:00 (hora de Perú)
+Actualizado: 2026-08-25 21:17:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1095**  ($59,602,780 en total)
+- Apuestas registradas: **1096**  ($59,661,654 en total)
 - Resueltas: **1082** — 621 ganadas / 461 perdidas (**57%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 225
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | — | ⏳ Pendiente |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.72 (58¢) | $27,335 | +$19,794 | ✅ Ganada |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | +$16,192 | ✅ Ganada |
 | Elaran1993 | US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez | Caroline Dolehide | 1.37 (73¢) | $25,542 | -$25,542 | ❌ Perdida |
-| vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | +$107,180 | ✅ Ganada |

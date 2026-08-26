@@ -16465,5 +16465,20 @@
     "status": "pending",
     "ultimo_fill": 1787707942,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1787710534,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "lal-rea-rso-2026-08-26-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 58874.561200000004,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1787710534,
+    "fills": 1
   }
 ]
