@@ -16822,8 +16822,25 @@
     "side": "BUY",
     "usd": 39497.789999,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1787756898,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 9874.45,
+    "precio_salida": 75
+  },
+  {
+    "telegram_msg_id": 2307,
+    "timestamp": 1787757648,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-mena-wehnelt-2026-08-26",
+    "title": "Augsburg: Facundo Mena vs Kai Wehnelt",
+    "outcome": "Facundo Mena",
+    "side": "BUY",
+    "usd": 228389.5147,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1787757640,
+    "fills": 2
   }
 ]
