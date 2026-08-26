@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 03:00:06 (hora de Perú)
+Actualizado: 2026-08-26 03:02:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1099**  ($59,800,561 en total)
+- Apuestas registradas: **1100**  ($59,839,424 en total)
 - Resueltas: **1092** — 626 ganadas / 466 perdidas (**57%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 226
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | — | ⏳ Pendiente |
 | Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | — | ⏳ Pendiente |
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | +$124,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | +$30,534 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch | Tom Gentzsch | 1.43 (70¢) | $27,671 | +$11,859 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $47,029 | +$40,061 | ✅ Ganada |
-| 0b1 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.06 (94¢) | $25,031 | +$1,598 | ✅ Ganada |

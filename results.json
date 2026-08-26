@@ -16525,5 +16525,20 @@
     "status": "pending",
     "ultimo_fill": 1787715800,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2278,
+    "timestamp": 1787731285,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-aur1-g2-2026-08-26",
+    "title": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 38863.5668,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787731285,
+    "fills": 1
   }
 ]
