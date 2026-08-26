@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 14:36:51 (hora de Perú)
+Actualizado: 2026-08-26 14:38:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1147**  ($62,717,693 en total)
-- Resueltas: **1111** — 635 ganadas / 476 perdidas (**57%** de acierto)
-- Pendientes: 32
+- Apuestas registradas: **1149**  ($62,800,229 en total)
+- Resueltas: **1112** — 636 ganadas / 476 perdidas (**57%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$184,424** sobre $60,655,521 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,779** sobre $109,000 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$191,430** sobre $60,706,900 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,766** sobre $109,100 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,11 +30,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 16 | 2 | 57% | $1,779,114 | +$75,902 |
+| pleaseplease123 | 21 | 16 | 3 | 57% | $1,813,114 | +$75,902 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 8 | 5 | 0 | 62% | $1,007,964 | -$439,096 |
+| wr0ngw4yb3tt0r | 8 | 5 | 1 | 62% | $1,056,500 | -$439,096 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | Sassy-Bucket | 10 | 9 | 0 | 53% | $800,938 | +$80,534 |
@@ -71,11 +71,13 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
-| Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | — | ⏳ Pendiente |
+| Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | +$31,404 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
-| Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | +$40,071 | ✅ Ganada |

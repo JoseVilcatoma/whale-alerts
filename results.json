@@ -17186,7 +17186,7 @@
     "side": "BUY",
     "usd": 51378.932,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787768718,
     "fills": 1
   },
@@ -17248,6 +17248,36 @@
     "odds_at_bet": 53,
     "status": "pending",
     "ultimo_fill": 1787772379,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2348,
+    "timestamp": 1787773127,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-chc-ari-2026-08-26",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 33999.63,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787773127,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2349,
+    "timestamp": 1787773133,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-ari-2026-08-26",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 48536.101886,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787773133,
     "fills": 1
   }
 ]
