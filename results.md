@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 08:59:39 (hora de Perú)
+Actualizado: 2026-08-26 09:01:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1110**  ($60,331,798 en total)
-- Resueltas: **1098** — 627 ganadas / 471 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Resueltas: **1100** — 628 ganadas / 472 perdidas (**57%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 227
 
 ### Balance
 
-- **Resultado de los apostadores: +$222,503** sobre $59,858,891 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,552** sobre $107,900 (ROI **-7.0%**)
+- **Resultado de los apostadores: +$176,995** sobre $59,939,139 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,632** sobre $108,100 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
-| ferrariChampions2026 | 7 | 3 | 1 | 70% | $393,576 | -$70,238 |
+| ferrariChampions2026 | 8 | 3 | 0 | 73% | $393,576 | -$64,332 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
 | n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | — | ⏳ Pendiente |
 | MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | — | ⏳ Pendiente |
-| aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | — | ⏳ Pendiente |
+| aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | -$51,414 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 3 Winner | KT Rolster | 1.39 (72¢) | $35,855 | -$35,855 | ❌ Perdida |
-| ferrariChampions2026 | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | KT Rolster | 1.20 (83¢) | $28,834 | — | ⏳ Pendiente |
+| ferrariChampions2026 | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | KT Rolster | 1.20 (83¢) | $28,834 | +$5,906 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | G2 | 1.92 (52¢) | $78,000 | +$72,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 2.33 (43¢) | $33,018 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
