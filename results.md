@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 13:29:59 (hora de Perú)
+Actualizado: 2026-08-26 13:32:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1143**  ($62,503,192 en total)
+- Apuestas registradas: **1144**  ($62,590,207 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 229
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 6 | 61% | $11,243,474 | +$376,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 7 | 61% | $11,330,488 | +$376,037 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | — | ⏳ Pendiente |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | +$29,400 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | -$30,289 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $30,892 | -$30,892 | ❌ Perdida |
