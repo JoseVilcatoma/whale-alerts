@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 16:11:31 (hora de Perú)
+Actualizado: 2026-08-26 16:13:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1156**  ($63,094,402 en total)
-- Resueltas: **1116** — 639 ganadas / 477 perdidas (**57%** de acierto)
-- Pendientes: 36
+- Resueltas: **1117** — 639 ganadas / 478 perdidas (**57%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$187,369** sobre $60,902,669 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,849** sobre $109,300 (ROI **-7.2%**)
+- **Resultado de los apostadores: +$133,629** sobre $60,956,409 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,949** sobre $109,400 (ROI **-7.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | xifutloong3 | 3 | 9 | 1 | 25% | $404,325 | -$243,015 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 1 | 67% | $399,926 | +$6,270 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | — | ⏳ Pendiente |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
