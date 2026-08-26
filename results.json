@@ -16750,5 +16750,35 @@
     "status": "pending",
     "ultimo_fill": 1787755417,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2302,
+    "timestamp": 1787755763,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-det-2026-08-26-total-7pt5",
+    "title": "Tampa Bay Rays vs. Detroit Tigers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31409.7321,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787755763,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2303,
+    "timestamp": 1787755858,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "lal-rea-rso-2026-08-26-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 65957.9343,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1787755858,
+    "fills": 1
   }
 ]

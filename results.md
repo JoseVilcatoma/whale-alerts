@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 09:49:10 (hora de Perú)
+Actualizado: 2026-08-26 09:51:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1114**  ($60,509,676 en total)
+- Apuestas registradas: **1116**  ($60,607,044 en total)
 - Resueltas: **1100** — 628 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 227
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 0 | 55% | $2,225,756 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 15 | 0 | 58% | $1,673,957 | +$107,312 |
+| pleaseplease123 | 21 | 15 | 1 | 58% | $1,705,367 | +$107,312 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
-| TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
+| 0F62 | 4 | 1 | 2 | ⚠️ 80% (5) | $283,776 | -$20,826 |
 
 _(mostrando los 40 de mayor monto, de 227 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $65,958 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | — | ⏳ Pendiente |
 | tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In | BNK FearX Youth | 1.52 (66¢) | $31,838 | -$31,838 | ❌ Perdida |
 | hd777 | Winston-Salem Open: Daniel Altmaier vs Francisco Comesana | Daniel Altmaier | 1.06 (94¢) | $25,640 | +$1,637 | ✅ Ganada |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
-| AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels | Cleveland Guardians | 1.64 (61¢) | $56,829 | +$36,333 | ✅ Ganada |
