@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 15:03:41 (hora de Perú)
+Actualizado: 2026-08-26 15:05:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1150**  ($62,898,148 en total)
+- Apuestas registradas: **1151**  ($62,929,492 en total)
 - Resueltas: **1113** — 637 ganadas / 476 perdidas (**57%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 229
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 16 | 3 | 57% | $1,813,114 | +$75,902 |
+| pleaseplease123 | 21 | 16 | 4 | 57% | $1,844,458 | +$75,902 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | +$40,825 | ✅ Ganada |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |
