@@ -17463,5 +17463,35 @@
     "status": "pending",
     "ultimo_fill": 1787784478,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2398,
+    "timestamp": 1787785291,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-hou-nyy-2026-08-26",
+    "title": "Houston Astros vs. New York Yankees",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "usd": 31333.019999999997,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787785291,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2399,
+    "timestamp": 1787785292,
+    "username": "Winnerdinnerchickenjr",
+    "wallet": "0x408fe71e6b5401ecd6733970cb6f1a25e984b2f4",
+    "slug": "mlb-hou-nyy-2026-08-26",
+    "title": "Houston Astros vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 43723.487599,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787785292,
+    "fills": 1
   }
 ]
