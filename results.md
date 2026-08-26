@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 16:17:40 (hora de Perú)
+Actualizado: 2026-08-26 16:20:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1156**  ($63,094,402 en total)
-- Resueltas: **1118** — 640 ganadas / 478 perdidas (**57%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **1157**  ($63,129,966 en total)
+- Resueltas: **1129** — 648 ganadas / 481 perdidas (**57%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$138,500** sobre $60,981,983 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,930** sobre $109,500 (ROI **-7.2%**)
+- **Resultado de los apostadores: +$69,870** sobre $61,584,864 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,114** sobre $110,600 (ROI **-7.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
-| ferrariChampions2026 | 9 | 3 | 0 | 75% | $419,150 | -$59,461 |
-| 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
+| ferrariChampions2026 | 9 | 3 | 1 | 75% | $454,714 | -$59,461 |
+| 0F62 | 8 | 1 | 0 | 89% | $407,903 | -$1,740 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | xifutloong3 | 3 | 9 | 1 | 25% | $404,325 | -$243,015 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | — | ⏳ Pendiente |
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
@@ -85,21 +86,21 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
-| NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | — | ⏳ Pendiente |
-| RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
-| RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | — | ⏳ Pendiente |
-| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.47 (68¢) | $48,091 | — | ⏳ Pendiente |
+| NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | +$20,859 | ✅ Ganada |
+| RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
+| RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | +$5,950 | ✅ Ganada |
+| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.47 (68¢) | $48,091 | -$48,091 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | — | ⏳ Pendiente |
 | hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
-| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
+| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $35,654 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | — | ⏳ Pendiente |
-| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | — | ⏳ Pendiente |
+| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | +$5,823 | ✅ Ganada |
 | Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato | Vilius Gaubas | 1.33 (75¢) | $30,000 | +$4,800 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.45 (69¢) | $28,847 | +$12,960 | ✅ Ganada |
@@ -109,14 +110,14 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
-| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | — | ⏳ Pendiente |
+| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | +$2,476 | ✅ Ganada |
 | kilian7kilian | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.30 (77¢) | $140,000 | +$41,818 | ✅ Ganada |
-| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $65,958 | — | ⏳ Pendiente |
+| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $65,958 | +$4,965 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | -$31,410 | ❌ Perdida |
 | tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | +$13,854 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | +$26,024 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | -$31,850 | ❌ Perdida |
-| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
+| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | -$29,117 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | -$27,263 | ❌ Perdida |
 | MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | -$38,864 | ❌ Perdida |
 | Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | -$27,283 | ❌ Perdida |
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | +$124,000 | ✅ Ganada |
