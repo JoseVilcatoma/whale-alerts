@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 02:08:41 (hora de Perú)
+Actualizado: 2026-08-26 02:10:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1099**  ($59,800,561 en total)
-- Resueltas: **1089** — 625 ganadas / 464 perdidas (**57%** de acierto)
-- Pendientes: 6
+- Resueltas: **1090** — 625 ganadas / 465 perdidas (**57%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 226
 
 ### Balance
 
-- **Resultado de los apostadores: +$321,157** sobre $59,410,237 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,108** sobre $107,000 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$290,453** sobre $59,440,941 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,208** sobre $107,100 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 8 | 5 | 0 | 62% | $1,007,964 | -$439,096 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
-| Sassy-Bucket | 10 | 8 | 1 | 56% | $800,938 | +$111,238 |
+| Sassy-Bucket | 10 | 9 | 0 | 53% | $800,938 | +$80,534 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
-| Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | — | ⏳ Pendiente |
+| Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | -$30,703 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | +$40,825 | ✅ Ganada |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
