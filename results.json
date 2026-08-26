@@ -16857,5 +16857,20 @@
     "status": "pending",
     "ultimo_fill": 1787758041,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2310,
+    "timestamp": 1787758422,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-chc-ari-2026-08-26-total-8pt5",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 32533.8027,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787758422,
+    "fills": 1
   }
 ]

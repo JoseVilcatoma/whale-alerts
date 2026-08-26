@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 10:32:06 (hora de Perú)
+Actualizado: 2026-08-26 10:34:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1121**  ($61,084,902 en total)
+- Apuestas registradas: **1122**  ($61,117,436 en total)
 - Resueltas: **1101** — 629 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 227
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 6 | 60% | $10,900,995 | +$370,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 0 | 55% | $2,225,756 | -$99,570 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | EV-Andars | Will Southampton FC win on 2026-08-25? | No | 1.89 (53¢) | $26,743 | +$23,715 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz | Alex Bolt | 2.86 (35¢) | $31,282 | -$31,282 | ❌ Perdida |
 | vito3corleone | Will Real Betis Balompié win on 2026-08-25? | No | 1.54 (65¢) | $57,127 | -$57,127 | ❌ Perdida |
-| kilian7kilian | US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori | Kei Nishikori | 1.37 (73¢) | $95,294 | +$35,246 | ✅ Ganada |
