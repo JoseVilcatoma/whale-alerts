@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 12:40:34 (hora de Perú)
+Actualizado: 2026-08-26 12:42:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1129**  ($61,439,995 en total)
+- Apuestas registradas: **1130**  ($61,486,659 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 228
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 3 | 61% | $10,929,842 | +$376,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 4 | 61% | $10,976,507 | +$376,037 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | — | ⏳ Pendiente |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | vito3corleone | Will Valencia CF win on 2026-08-25? | Yes | 2.78 (36¢) | $103,999 | -$103,999 | ❌ Perdida |
 | tikstt | Will Valencia CF win on 2026-08-25? | No | 1.54 (65¢) | $43,511 | +$23,429 | ✅ Ganada |
 | ndb1 | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $35,555 | +$20,000 | ✅ Ganada |
-| Paracellus | Will Valencia CF win on 2026-08-25? | No | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |

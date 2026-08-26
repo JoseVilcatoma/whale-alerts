@@ -16979,5 +16979,20 @@
     "status": "pending",
     "ultimo_fill": 1787765408,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2326,
+    "timestamp": 1787766051,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-furia-pain-2026-08-26-map-handicap-away-1pt5",
+    "title": "Map Handicap: FURIA (-1.5) vs paiN (+1.5)",
+    "outcome": "paiN",
+    "side": "BUY",
+    "usd": 46664.6085,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1787766051,
+    "fills": 1
   }
 ]
