@@ -16994,5 +16994,20 @@
     "status": "pending",
     "ultimo_fill": 1787766051,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2327,
+    "timestamp": 1787766045,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-furia-pain-2026-08-26",
+    "title": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 35653.770000000004,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1787766045,
+    "fills": 1
   }
 ]
