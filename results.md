@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 21:27:21 (hora de Perú)
+Actualizado: 2026-08-25 21:29:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1097**  ($59,737,654 en total)
-- Resueltas: **1083** — 621 ganadas / 462 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Resueltas: **1084** — 622 ganadas / 462 perdidas (**57%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 225
 
 ### Balance
 
-- **Resultado de los apostadores: +$293,056** sobre $59,164,744 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,348** sobre $106,400 (ROI **-6.9%**)
+- **Resultado de los apostadores: +$324,460** sobre $59,193,732 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,240** sobre $106,500 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |
-| winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | — | ⏳ Pendiente |
+| winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | +$31,404 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | — | ⏳ Pendiente |
