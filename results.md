@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 21:35:29 (hora de Perú)
+Actualizado: 2026-08-25 21:37:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1097**  ($59,737,654 en total)
-- Resueltas: **1085** — 623 ganadas / 462 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Resueltas: **1087** — 624 ganadas / 463 perdidas (**57%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 225
 
 ### Balance
 
-- **Resultado de los apostadores: +$353,860** sobre $59,234,332 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,168** sobre $106,600 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$339,331** sobre $59,319,161 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,135** sobre $106,800 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 92 | 61 | 3 | 60% | $10,527,779 | +$246,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 36 | 1 | 59% | $3,756,167 | +$92,051 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 15 | 1 | 58% | $2,129,756 | +$55,430 |
@@ -80,13 +80,13 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | -$57,430 | ❌ Perdida |
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | +$31,404 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
-| Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | — | ⏳ Pendiente |
+| Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | +$40,071 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | +$29,400 | ✅ Ganada |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | -$30,289 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $30,892 | -$30,892 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Tomas Machac | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | -$54,600 | ❌ Perdida |
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
 | AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | +$85,868 | ✅ Ganada |
