@@ -17009,5 +17009,35 @@
     "status": "pending",
     "ultimo_fill": 1787766045,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2328,
+    "timestamp": 1787766962,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-furia-pain-2026-08-26",
+    "title": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 79006.31210000001,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1787766962,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2329,
+    "timestamp": 1787767002,
+    "username": "cnyek",
+    "wallet": "0x65018f9fc473f6e920b8929a375d39c26a461220",
+    "slug": "ucl-lyo-fen-2026-08-26-team-to-advance",
+    "title": "Olympique Lyonnais vs. Fenerbah\u00e7e SK: Team to Advance",
+    "outcome": "Olympique Lyonnais",
+    "side": "BUY",
+    "usd": 49999.999999,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1787767002,
+    "fills": 1
   }
 ]
