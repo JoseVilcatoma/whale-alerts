@@ -16705,5 +16705,20 @@
     "status": "pending",
     "ultimo_fill": 1787753576,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2299,
+    "timestamp": 1787753869,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-hotu-k271-2026-08-26",
+    "title": "Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+    "outcome": "K27",
+    "side": "BUY",
+    "usd": 31850.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787753869,
+    "fills": 1
   }
 ]
