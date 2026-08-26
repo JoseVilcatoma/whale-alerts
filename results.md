@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 09:43:03 (hora de Perú)
+Actualizado: 2026-08-26 09:45:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1113**  ($60,424,572 en total)
+- Apuestas registradas: **1114**  ($60,509,676 en total)
 - Resueltas: **1100** — 628 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 227
 
 ### Balance
@@ -54,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
+| tennischamp | 9 | 0 | 1 | 100% | $375,233 | +$114,269 |
 | xifutloong3 | 3 | 9 | 0 | 25% | $372,988 | -$243,015 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 7 | 3 | 0 | 70% | $360,735 | +$58,683 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 0 | 67% | $346,187 | +$6,270 |
@@ -61,7 +62,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
-| tennischamp | 9 | 0 | 0 | 100% | $290,129 | +$114,269 |
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics | 2.38 (42¢) | $41,330 | -$41,330 | ❌ Perdida |
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels | Cleveland Guardians | 1.64 (61¢) | $56,829 | +$36,333 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,977 | +$27,470 | ✅ Ganada |
