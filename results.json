@@ -16570,5 +16570,20 @@
     "status": "pending",
     "ultimo_fill": 1787731806,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2281,
+    "timestamp": 1787731993,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-cle-laa-2026-08-26",
+    "title": "Cleveland Guardians vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 33018.2681,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787731993,
+    "fills": 1
   }
 ]

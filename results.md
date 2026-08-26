@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 03:12:24 (hora de Perú)
+Actualizado: 2026-08-26 03:14:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1102**  ($59,965,750 en total)
+- Apuestas registradas: **1103**  ($59,998,768 en total)
 - Resueltas: **1092** — 626 ganadas / 466 perdidas (**57%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 226
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 2 | 60% | $10,527,779 | +$370,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 3 | 60% | $10,560,798 | +$370,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
 | 111111111115 | 32 | 18 | 1 | 64% | $2,857,688 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 2.33 (43¢) | $33,018 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.08 (48¢) | $27,436 | +$29,722 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Washington Nationals: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $54,661 | -$54,661 | ❌ Perdida |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.85 (54¢) | $134,055 | +$114,195 | ✅ Ganada |
-| grek12 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.79 (56¢) | $38,862 | +$30,534 | ✅ Ganada |
