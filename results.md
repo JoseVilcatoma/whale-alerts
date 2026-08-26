@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 19:07:13 (hora de Perú)
+Actualizado: 2026-08-25 19:09:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1092**  ($59,491,000 en total)
+- Apuestas registradas: **1093**  ($59,540,000 en total)
 - Resueltas: **1076** — 620 ganadas / 456 perdidas (**58%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 224
+- Pendientes: 13
+- Apostadores distintos: 225
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | noway8 | 1 | 0 | 0 | ⚠️ 100% (1) | $290,000 | +$91,579 |
 | TennisLove | 4 | 0 | 0 | ⚠️ 100% (4) | $276,061 | +$123,563 |
 
-_(mostrando los 40 de mayor monto, de 224 en total)_
+_(mostrando los 40 de mayor monto, de 225 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 224 en total)_
 | vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | +$107,180 | ✅ Ganada |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | -$30,352 | ❌ Perdida |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | -$47,160 | ❌ Perdida |
-| tes21sa | Will RC Deportivo A Coruña win on 2026-08-24? | No | 1.39 (72¢) | $32,400 | +$12,600 | ✅ Ganada |

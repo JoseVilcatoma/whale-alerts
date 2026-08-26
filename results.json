@@ -16420,5 +16420,20 @@
     "status": "pending",
     "ultimo_fill": 1787699893,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2253,
+    "timestamp": 1787702926,
+    "username": "xbcasd",
+    "wallet": "0xb340ecd9e8b681562affbafe4a87514b31261ad1",
+    "slug": "lal-rea-rso-2026-08-26-total-1pt5",
+    "title": "Real Madrid CF vs. Real Sociedad de F\u00fatbol: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 48999.999998,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1787702926,
+    "fills": 1
   }
 ]
