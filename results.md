@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 20:40:00 (hora de Perú)
+Actualizado: 2026-08-25 20:42:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1095**  ($59,602,780 en total)
-- Resueltas: **1081** — 621 ganadas / 460 perdidas (**57%** de acierto)
-- Pendientes: 10
+- Resueltas: **1082** — 621 ganadas / 461 perdidas (**57%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 225
 
 ### Balance
 
-- **Resultado de los apostadores: +$390,479** sobre $59,067,320 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$7,148** sobre $106,200 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$350,486** sobre $59,107,314 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,248** sobre $106,300 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 92 | 61 | 2 | 60% | $10,451,779 | +$246,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 35 | 2 | 59% | $3,756,167 | +$132,045 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 36 | 1 | 59% | $3,756,167 | +$92,051 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 20 | 15 | 2 | 57% | $2,129,756 | +$26,030 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | — | ⏳ Pendiente |
 | winwin518168 | Spread: Dallas Wings (-8.5) | Dallas Wings | 2.08 (48¢) | $28,988 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | — | ⏳ Pendiente |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
