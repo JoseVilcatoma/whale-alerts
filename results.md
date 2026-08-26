@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 18:21:34 (hora de Perú)
+Actualizado: 2026-08-26 18:23:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1165**  ($63,506,691 en total)
-- Resueltas: **1149** — 663 ganadas / 486 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1151** — 664 ganadas / 487 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$232,375** sobre $62,880,700 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,039** sobre $112,600 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$205,738** sobre $62,954,815 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,088** sobre $112,800 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 22 | 16 | 4 | 58% | $1,918,532 | +$111,289 |
+| pleaseplease123 | 22 | 17 | 3 | 56% | $1,918,532 | +$68,510 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 10 | 3 | 0 | 77% | $454,714 | -$44,219 |
 | 0F62 | 8 | 1 | 0 | 89% | $407,903 | -$1,740 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
-| xifutloong3 | 3 | 9 | 1 | 25% | $404,325 | -$243,015 |
+| xifutloong3 | 4 | 9 | 0 | 31% | $404,325 | -$226,872 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | — | ⏳ Pendiente |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
-| xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
+| xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | +$16,143 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | +$54,732 | ✅ Ganada |
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | +$35,387 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
-| pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
+| pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | -$42,779 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | +$19,101 | ✅ Ganada |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
