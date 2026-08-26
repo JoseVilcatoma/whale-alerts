@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 20:27:39 (hora de Perú)
+Actualizado: 2026-08-25 20:29:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1093**  ($59,540,000 en total)
-- Resueltas: **1079** — 621 ganadas / 458 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1081** — 621 ganadas / 460 perdidas (**57%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 225
 
 ### Balance
 
-- **Resultado de los apostadores: +$476,372** sobre $58,981,428 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,948** sobre $106,000 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$390,479** sobre $59,067,320 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$7,148** sobre $106,200 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 92 | 61 | 2 | 60% | $10,451,779 | +$246,273 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 34 | 3 | 60% | $3,756,167 | +$162,937 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 35 | 2 | 59% | $3,756,167 | +$132,045 |
 | 111111111115 | 32 | 18 | 0 | 64% | $2,827,362 | +$949,651 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 20 | 14 | 3 | 59% | $2,129,756 | +$81,030 |
+| AV23IUa | 20 | 15 | 2 | 57% | $2,129,756 | +$26,030 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 21 | 14 | 1 | 60% | $1,673,957 | +$164,742 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -80,10 +80,10 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | — | ⏳ Pendiente |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Anna Bondar | Anna Bondar | 2.27 (44¢) | $30,289 | -$30,289 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $30,892 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.89 (53¢) | $30,892 | -$30,892 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Tomas Machac | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers | 1.67 (60¢) | $54,600 | — | ⏳ Pendiente |
-| AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
+| AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
 | AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | +$85,868 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | -$28,535 | ❌ Perdida |
