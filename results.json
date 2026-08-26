@@ -16717,7 +16717,7 @@
     "side": "BUY",
     "usd": 31850.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787753869,
     "fills": 1
   },
@@ -17218,6 +17218,21 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1787770358,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2343,
+    "timestamp": 1787771345,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-pit-sd-2026-08-26-total-8pt5",
+    "title": "Pittsburgh Pirates vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42779.265,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787771345,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 14:07:30 (hora de Perú)
+Actualizado: 2026-08-26 14:09:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1145**  ($62,643,946 en total)
-- Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
+- Apuestas registradas: **1146**  ($62,686,725 en total)
+- Resueltas: **1109** — 635 ganadas / 474 perdidas (**57%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$274,946** sobre $60,564,999 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,479** sobre $108,700 (ROI **-6.9%**)
+- **Resultado de los apostadores: +$243,096** sobre $60,596,849 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,579** sobre $108,800 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,11 +26,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 7 | 61% | $11,330,488 | +$376,037 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
-| 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
+| 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 15 | 1 | 58% | $1,705,367 | +$107,312 |
+| pleaseplease123 | 21 | 15 | 2 | 58% | $1,748,146 | +$107,312 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | — | ⏳ Pendiente |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | — | ⏳ Pendiente |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | — | ⏳ Pendiente |
 | tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | +$26,024 | ✅ Ganada |
-| SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | — | ⏳ Pendiente |
+| SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | -$31,850 | ❌ Perdida |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. St. Louis Cardinals: O/U 8.5 | Under 8.5 | 1.82 (55¢) | $39,994 | -$39,994 | ❌ Perdida |
 | Eztennis | Houston Astros vs. New York Yankees | Houston Astros | 2.33 (43¢) | $30,229 | +$40,071 | ✅ Ganada |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox | 1.72 (58¢) | $40,600 | +$29,400 | ✅ Ganada |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Los Angeles Dodgers vs. Atlanta Braves: 1st 5 Innings O/U 4.5 | Under 4.5 | 2.04 (49¢) | $55,422 | -$55,422 | ❌ Perdida |
