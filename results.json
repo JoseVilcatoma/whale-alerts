@@ -16991,7 +16991,7 @@
     "side": "BUY",
     "usd": 46664.6085,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787766051,
     "fills": 1
   },
@@ -17308,6 +17308,36 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1787774732,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2354,
+    "timestamp": 1787774950,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-phi-sea-2026-08-26",
+    "title": "Philadelphia Phillies vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 44000.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1787774950,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2355,
+    "timestamp": 1787774951,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bertola-wendelk-2026-08-25",
+    "title": "US Open, Qualification ATP: Remy Bertola vs Harry Wendelken",
+    "outcome": "Harry Wendelken",
+    "side": "BUY",
+    "usd": 25573.9344,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1787774951,
     "fills": 1
   }
 ]

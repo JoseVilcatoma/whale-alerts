@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 15:07:44 (hora de Perú)
+Actualizado: 2026-08-26 15:09:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1151**  ($62,929,492 en total)
-- Resueltas: **1113** — 637 ganadas / 476 perdidas (**57%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **1153**  ($62,999,066 en total)
+- Resueltas: **1114** — 637 ganadas / 477 perdidas (**57%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$205,284** sobre $60,792,005 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,749** sobre $109,200 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$158,619** sobre $60,838,669 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,849** sobre $109,300 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 62 | 7 | 61% | $11,330,488 | +$376,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 63 | 6 | 60% | $11,330,488 | +$329,372 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 8 | 5 | 1 | 62% | $1,056,500 | -$439,096 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
-| Sassy-Bucket | 10 | 9 | 0 | 53% | $800,938 | +$80,534 |
+| Sassy-Bucket | 10 | 9 | 1 | 53% | $844,938 | +$80,534 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | kilian7kilian | 2 | 1 | 2 | ⚠️ 67% (3) | $619,340 | +$47,064 |
@@ -50,10 +50,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
+| ferrariChampions2026 | 8 | 3 | 1 | 73% | $419,150 | -$64,332 |
 | 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 3 | 1 | 67% | $399,926 | +$6,270 |
-| ferrariChampions2026 | 8 | 3 | 0 | 73% | $393,576 | -$64,332 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | — | ⏳ Pendiente |
+| Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | — | ⏳ Pendiente |
@@ -91,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $35,654 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | — | ⏳ Pendiente |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | -$30,703 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | +$40,825 | ✅ Ganada |
-| xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
