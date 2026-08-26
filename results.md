@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 13:11:13 (hora de Perú)
+Actualizado: 2026-08-26 13:13:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1137**  ($62,196,007 en total)
+- Apuestas registradas: **1138**  ($62,226,007 en total)
 - Resueltas: **1108** — 635 ganadas / 473 perdidas (**57%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 228
 
 ### Balance
@@ -46,9 +46,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | kilian7kilian | 2 | 1 | 1 | ⚠️ 67% (3) | $521,422 | +$47,064 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 3 | 1 | 77% | $507,550 | +$109,053 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 10 | 3 | 0 | 77% | $477,550 | +$109,053 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | 0F62 | 4 | 1 | 4 | ⚠️ 80% (5) | $407,903 | -$20,826 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.82 (55¢) | $30,000 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
 | AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Daniil Glinka | 2.22 (45¢) | $70,256 | +$85,868 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka | Pedro Martinez | 1.96 (51¢) | $28,535 | -$28,535 | ❌ Perdida |
