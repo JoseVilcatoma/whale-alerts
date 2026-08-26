@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 18:04:59 (hora de Perú)
+Actualizado: 2026-08-26 18:07:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1163**  ($63,382,838 en total)
-- Resueltas: **1147** — 663 ganadas / 484 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1148** — 663 ganadas / 485 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$309,393** sobre $62,803,681 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,839** sobre $112,400 (ROI **-7.0%**)
+- **Resultado de los apostadores: +$265,393** sobre $62,847,681 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,939** sobre $112,500 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 9 | 5 | 0 | 64% | $1,056,500 | -$384,363 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
-| Sassy-Bucket | 10 | 9 | 2 | 53% | $871,456 | +$80,534 |
+| Sassy-Bucket | 10 | 10 | 1 | 50% | $871,456 | +$36,534 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 4 | 1 | 75% | $620,693 | +$107,802 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
-| Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | -$44,000 | ❌ Perdida |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | +$39,995 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | +$54,732 | ✅ Ganada |
