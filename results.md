@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 20:31:43 (hora de Perú)
+Actualizado: 2026-08-25 20:33:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1094**  ($59,572,076 en total)
+- Apuestas registradas: **1095**  ($59,602,780 en total)
 - Resueltas: **1081** — 621 ganadas / 460 perdidas (**57%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 225
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 7 | 5 | 1 | 58% | $1,007,964 | -$479,921 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
+| Sassy-Bucket | 10 | 8 | 1 | 56% | $800,938 | +$111,238 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| Sassy-Bucket | 10 | 8 | 0 | 56% | $770,235 | +$111,238 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | — | ⏳ Pendiente |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild | Thiago Seyboth Wild | 1.54 (65¢) | $30,072 | +$16,192 | ✅ Ganada |
 | Elaran1993 | US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez | Caroline Dolehide | 1.37 (73¢) | $25,542 | -$25,542 | ❌ Perdida |
 | vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | +$107,180 | ✅ Ganada |
-| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | -$30,352 | ❌ Perdida |
