@@ -16720,5 +16720,20 @@
     "status": "pending",
     "ultimo_fill": 1787753869,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2300,
+    "timestamp": 1787754884,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-navi-m80-2026-08-26-game1",
+    "title": "Counter-Strike: Natus Vincere vs M80 - Map 1 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 31807.578,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787754884,
+    "fills": 1
   }
 ]

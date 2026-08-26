@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 09:32:47 (hora de Perú)
+Actualizado: 2026-08-26 09:34:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1112**  ($60,392,764 en total)
+- Apuestas registradas: **1113**  ($60,424,572 en total)
 - Resueltas: **1100** — 628 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 227
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 4 | 60% | $10,640,798 | +$370,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 5 | 60% | $10,672,605 | +$370,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
 | 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | AV23IUa | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Over 6.5 | 1.89 (53¢) | $49,380 | +$43,790 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels | Cleveland Guardians | 1.64 (61¢) | $56,829 | +$36,333 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $30,977 | +$27,470 | ✅ Ganada |
-| pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Under 8.5 | 2.22 (45¢) | $33,591 | +$41,055 | ✅ Ganada |
