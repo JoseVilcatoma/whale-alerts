@@ -16949,5 +16949,35 @@
     "status": "pending",
     "ultimo_fill": 1787764673,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2324,
+    "timestamp": 1787765323,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "lal-rea-rso-2026-08-26-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 91228.2972,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1787765323,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2325,
+    "timestamp": 1787765408,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-furia-pain-2026-08-26",
+    "title": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 59530.464,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1787765408,
+    "fills": 1
   }
 ]
