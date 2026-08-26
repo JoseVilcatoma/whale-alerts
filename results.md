@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 15:52:54 (hora de Perú)
+Actualizado: 2026-08-26 15:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1156**  ($63,094,402 en total)
-- Resueltas: **1115** — 638 ganadas / 477 perdidas (**57%** de acierto)
-- Pendientes: 37
+- Resueltas: **1116** — 639 ganadas / 477 perdidas (**57%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$168,986** sobre $60,870,669 apostados (ROI **+0.3%**)
+- **Resultado de los apostadores: +$187,369** sobre $60,902,669 apostados (ROI **+0.3%**)
 - Copiando $100 fijo en cada una: **-$7,849** sobre $109,300 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 2 | 1 | 2 | ⚠️ 67% (3) | $619,340 | +$47,064 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 11 | 3 | 2 | 79% | $571,550 | +$119,419 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 3 | 1 | 80% | $571,550 | +$137,802 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
