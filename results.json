@@ -16810,5 +16810,20 @@
     "status": "pending",
     "ultimo_fill": 1787756838,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2306,
+    "timestamp": 1787756898,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-rincon-jordanl-2026-08-26",
+    "title": "US Open, Qualification ATP: Daniel Rincon vs Jordan Lee",
+    "outcome": "Daniel Rincon",
+    "side": "BUY",
+    "usd": 39497.789999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1787756898,
+    "fills": 1
   }
 ]
