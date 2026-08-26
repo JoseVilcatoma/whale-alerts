@@ -17339,5 +17339,20 @@
     "status": "pending",
     "ultimo_fill": 1787774951,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2356,
+    "timestamp": 1787775131,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-altmaie-buse-2026-08-26",
+    "title": "Winston-Salem Open: Daniel Altmaier vs Ignacio Buse",
+    "outcome": "Ignacio Buse",
+    "side": "BUY",
+    "usd": 31999.999998999996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1787775131,
+    "fills": 1
   }
 ]
