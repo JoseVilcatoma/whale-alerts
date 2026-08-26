@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 11:00:41 (hora de Perú)
+Actualizado: 2026-08-26 11:02:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1125**  ($61,228,700 en total)
-- Resueltas: **1101** — 629 ganadas / 472 perdidas (**57%** de acierto)
-- Pendientes: 20
+- Resueltas: **1104** — 631 ganadas / 473 perdidas (**57%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 228
 
 ### Balance
 
-- **Resultado de los apostadores: +$186,869** sobre $59,978,637 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,632** sobre $108,100 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$195,466** sobre $60,427,027 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,681** sobre $108,400 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 7 | 60% | $10,929,842 | +$370,273 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 94 | 62 | 5 | 60% | $10,929,842 | +$337,052 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 20 | 1 | 62% | $3,003,393 | +$955,471 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -76,17 +76,17 @@ _(mostrando los 40 de mayor monto, de 228 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.75 (57¢) | $47,317 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | — | ⏳ Pendiente |
-| kilian7kilian | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.30 (77¢) | $140,000 | — | ⏳ Pendiente |
+| kilian7kilian | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.30 (77¢) | $140,000 | +$41,818 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $65,958 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | — | ⏳ Pendiente |
 | tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
 | n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | — | ⏳ Pendiente |
 | MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | — | ⏳ Pendiente |
 | aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | -$51,414 | ❌ Perdida |
