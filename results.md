@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 16:40:29 (hora de Perú)
+Actualizado: 2026-08-26 16:42:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1159**  ($63,205,627 en total)
-- Resueltas: **1129** — 648 ganadas / 481 perdidas (**57%** de acierto)
-- Pendientes: 26
+- Resueltas: **1134** — 653 ganadas / 481 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$69,870** sobre $61,584,864 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,114** sobre $110,600 (ROI **-7.3%**)
+- **Resultado de los apostadores: +$130,733** sobre $61,824,691 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,987** sobre $111,100 (ROI **-7.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 96 | 63 | 6 | 60% | $11,330,488 | +$329,372 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 97 | 63 | 5 | 61% | $11,330,488 | +$350,374 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 1 | 58% | $3,788,701 | +$37,452 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
+| AV23IUa | 23 | 17 | 1 | 57% | $2,372,941 | -$77,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 21 | 16 | 4 | 57% | $1,844,458 | +$75,902 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -98,15 +98,15 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | — | ⏳ Pendiente |
 | hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | +$21,002 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
-| AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $35,654 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $35,654 | +$8,363 | ✅ Ganada |
+| AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | +$13,964 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | +$5,823 | ✅ Ganada |
-| Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | — | ⏳ Pendiente |
+| Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | +$7,634 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato | Vilius Gaubas | 1.33 (75¢) | $30,000 | +$4,800 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.45 (69¢) | $28,847 | +$12,960 | ✅ Ganada |
-| 787-HUEV-W-ZOPE | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.28 (78¢) | $35,100 | — | ⏳ Pendiente |
+| 787-HUEV-W-ZOPE | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.28 (78¢) | $35,100 | +$9,900 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.75 (57¢) | $47,317 | +$35,695 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | — | ⏳ Pendiente |
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | — | ⏳ Pendiente |
