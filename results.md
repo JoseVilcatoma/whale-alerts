@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-25 20:29:40 (hora de Perú)
+Actualizado: 2026-08-25 20:31:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1093**  ($59,540,000 en total)
+- Apuestas registradas: **1094**  ($59,572,076 en total)
 - Resueltas: **1081** — 621 ganadas / 460 perdidas (**57%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 225
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 7 | 5 | 0 | 58% | $975,887 | -$479,921 |
+| wr0ngw4yb3tt0r | 7 | 5 | 1 | 58% | $1,007,964 | -$479,921 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Weaseloftheweek | 9 | 11 | 0 | 45% | $880,940 | -$159,856 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates | 2.27 (44¢) | $32,077 | — | ⏳ Pendiente |
 | xbcasd | Real Madrid CF vs. Real Sociedad de Fútbol: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $49,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Winston-Salem Open: Mees Rottgering vs Tomas Machac | Mees Rottgering | 1.39 (72¢) | $118,951 | +$46,259 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $57,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 225 en total)_
 | Elaran1993 | US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez | Caroline Dolehide | 1.37 (73¢) | $25,542 | -$25,542 | ❌ Perdida |
 | vito3corleone | Fulham FC vs. Chelsea FC: O/U 4.5 | Over 4.5 | 2.04 (49¢) | $102,976 | +$107,180 | ✅ Ganada |
 | ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $30,352 | -$30,352 | ❌ Perdida |
-| ndb1 | Fulham FC vs. Chelsea FC: O/U 4.5 | Under 4.5 | 1.92 (52¢) | $47,160 | -$47,160 | ❌ Perdida |
