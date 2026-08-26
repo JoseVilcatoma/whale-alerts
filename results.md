@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 06:20:03 (hora de Perú)
+Actualizado: 2026-08-26 06:22:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1108**  ($60,224,535 en total)
-- Resueltas: **1093** — 626 ganadas / 467 perdidas (**57%** de acierto)
-- Pendientes: 11
+- Resueltas: **1094** — 626 ganadas / 468 perdidas (**57%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 227
 
 ### Balance
 
-- **Resultado de los apostadores: +$351,547** sobre $59,579,847 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,245** sobre $107,400 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$321,221** sobre $59,610,173 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,345** sobre $107,500 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 93 | 61 | 3 | 60% | $10,560,798 | +$370,273 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 37 | 0 | 58% | $3,756,167 | +$37,452 |
-| 111111111115 | 32 | 18 | 3 | 64% | $2,971,543 | +$949,651 |
+| 111111111115 | 32 | 19 | 2 | 63% | $2,971,543 | +$919,325 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 16 | 1 | 57% | $2,225,756 | -$3,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 227 en total)_
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | G2 | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 2.33 (43¢) | $33,018 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
-| SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | — | ⏳ Pendiente |
+| SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | -$30,326 | ❌ Perdida |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | — | ⏳ Pendiente |
 | Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | -$27,283 | ❌ Perdida |
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |
