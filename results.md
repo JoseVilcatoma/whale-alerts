@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 03:28:54 (hora de Perú)
+Actualizado: 2026-08-26 03:30:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1103**  ($59,998,768 en total)
-- Resueltas: **1092** — 626 ganadas / 466 perdidas (**57%** de acierto)
-- Pendientes: 7
+- Resueltas: **1093** — 626 ganadas / 467 perdidas (**57%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 226
 
 ### Balance
 
-- **Resultado de los apostadores: +$378,830** sobre $59,552,564 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,145** sobre $107,300 (ROI **-6.7%**)
+- **Resultado de los apostadores: +$351,547** sobre $59,579,847 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,245** sobre $107,400 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | AV23IUa | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 Winner | HANJIN BRION | 2.70 (37¢) | $30,326 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.13 (47¢) | $38,864 | — | ⏳ Pendiente |
-| Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | — | ⏳ Pendiente |
+| Donghui | Cleveland Guardians vs. Los Angeles Angels | Los Angeles Angels | 1.61 (62¢) | $27,283 | -$27,283 | ❌ Perdida |
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | +$124,000 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
