@@ -17356,5 +17356,20 @@
     "fills": 1,
     "profit_usd": 10366.2,
     "precio_salida": 94
+  },
+  {
+    "telegram_msg_id": 2358,
+    "timestamp": 1787776025,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-uchijim-havlick-2026-08-26",
+    "title": "US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova",
+    "outcome": "Lucie Havlickova",
+    "side": "BUY",
+    "usd": 31999.999999,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1787776025,
+    "fills": 1
   }
 ]

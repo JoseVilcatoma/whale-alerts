@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 15:26:03 (hora de Perú)
+Actualizado: 2026-08-26 15:28:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1154**  ($63,031,066 en total)
+- Apuestas registradas: **1155**  ($63,063,066 en total)
 - Resueltas: **1115** — 638 ganadas / 477 perdidas (**57%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 229
 
 ### Balance
@@ -43,9 +43,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 2 | 1 | 2 | ⚠️ 67% (3) | $619,340 | +$47,064 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 11 | 3 | 2 | 79% | $571,550 | +$119,419 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 11 | 3 | 1 | 79% | $539,550 | +$119,419 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | WTSA | 2 | 7 | 0 | 22% | $501,732 | -$183,244 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0F62 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs | 1.06 (94¢) | $35,623 | -$35,623 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.63 (38¢) | $76,000 | +$124,000 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.10 (91¢) | $58,875 | — | ⏳ Pendiente |
-| Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $30,703 | -$30,703 | ❌ Perdida |
