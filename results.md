@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 14:32:34 (hora de Perú)
+Actualizado: 2026-08-26 14:34:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1147**  ($62,717,693 en total)
-- Resueltas: **1110** — 635 ganadas / 475 perdidas (**57%** de acierto)
-- Pendientes: 33
+- Resueltas: **1111** — 635 ganadas / 476 perdidas (**57%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$215,833** sobre $60,624,112 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,679** sobre $108,900 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$184,424** sobre $60,655,521 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,779** sobre $109,000 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 21 | 17 | 3 | 55% | $2,372,941 | -$99,570 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 21 | 15 | 3 | 58% | $1,779,114 | +$107,312 |
+| pleaseplease123 | 21 | 16 | 2 | 57% | $1,779,114 | +$75,902 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | — | ⏳ Pendiente |
 | kilian7kilian | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.30 (77¢) | $140,000 | +$41,818 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $65,958 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.96 (51¢) | $31,410 | -$31,410 | ❌ Perdida |
 | tennischamp | US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov | Grigor Dimitrov | 1.16 (86¢) | $85,104 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Natus Vincere vs M80 - Map 1 Winner | Natus Vincere | 1.82 (55¢) | $31,808 | +$26,024 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | -$31,850 | ❌ Perdida |
