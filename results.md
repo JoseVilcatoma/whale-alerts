@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 14:20:03 (hora de Perú)
+Actualizado: 2026-08-26 14:22:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1146**  ($62,686,725 en total)
-- Resueltas: **1109** — 635 ganadas / 474 perdidas (**57%** de acierto)
-- Pendientes: 33
+- Resueltas: **1110** — 635 ganadas / 475 perdidas (**57%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$243,096** sobre $60,596,849 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,579** sobre $108,800 (ROI **-7.0%**)
+- **Resultado de los apostadores: +$215,833** sobre $60,624,112 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,679** sobre $108,900 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | -$31,850 | ❌ Perdida |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
-| n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | — | ⏳ Pendiente |
+| n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | -$27,263 | ❌ Perdida |
 | MrDouche | Will Real Madrid CF win on 2026-08-26? | Yes | 1.32 (76¢) | $31,664 | — | ⏳ Pendiente |
 | aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | -$51,414 | ❌ Perdida |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 3 Winner | KT Rolster | 1.39 (72¢) | $35,855 | -$35,855 | ❌ Perdida |
