@@ -16630,5 +16630,20 @@
     "status": "pending",
     "ultimo_fill": 1787738663,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2287,
+    "timestamp": 1787740917,
+    "username": "aaditp",
+    "wallet": "0x0d8cff78be3968f8ef6753c843fab7017b289555",
+    "slug": "lol-kt-bro2-2026-08-26",
+    "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 51414.189998999995,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787740917,
+    "fills": 1
   }
 ]

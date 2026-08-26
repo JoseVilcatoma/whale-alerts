@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 05:40:58 (hora de Perú)
+Actualizado: 2026-08-26 05:43:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1106**  ($60,141,457 en total)
+- Apuestas registradas: **1107**  ($60,192,871 en total)
 - Resueltas: **1093** — 626 ganadas / 467 perdidas (**57%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 226
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aaditp | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | HANJIN BRION | 1.56 (64¢) | $51,414 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 3 Winner | KT Rolster | 1.39 (72¢) | $35,855 | — | ⏳ Pendiente |
 | ferrariChampions2026 | LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In | KT Rolster | 1.20 (83¢) | $28,834 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A | G2 | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 226 en total)_
 | tennischamp | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.25 (80¢) | $34,536 | +$8,634 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds | 1.61 (62¢) | $43,714 | -$43,714 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners | Philadelphia Phillies | 1.92 (52¢) | $61,297 | -$61,297 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Seattle Mariners: O/U 6.5 | Under 6.5 | 2.13 (47¢) | $100,954 | -$100,954 | ❌ Perdida |
