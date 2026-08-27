@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 06:36:01 (hora de Perú)
+Actualizado: 2026-08-27 06:38:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1193**  ($65,313,294 en total)
+- Apuestas registradas: **1194**  ($65,348,294 en total)
 - Resueltas: **1176** — 681 ganadas / 495 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 233
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | 9z | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-08-16? | No | 1.96 (51¢) | $38,600 | — | ⏳ Pendiente |
 | HBAFlover98 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $27,691 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 | AV23IUa | Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi | Rinky Hijikata | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | +$41,260 | ✅ Ganada |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | +$56,223 | ✅ Ganada |
-| hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | +$11,400 | ✅ Ganada |
