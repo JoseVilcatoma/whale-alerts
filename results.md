@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 20:39:49 (hora de Perú)
+Actualizado: 2026-08-26 20:41:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1169**  ($63,708,570 en total)
-- Resueltas: **1155** — 666 ganadas / 489 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1156** — 667 ganadas / 489 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$139,794** sobre $63,154,329 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,071** sobre $113,200 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$160,128** sobre $63,182,410 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,999** sobre $113,300 (ROI **-7.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 65 | 2 | 60% | $11,416,746 | +$291,458 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 51 | 38 | 2 | 57% | $3,848,115 | +$4,918 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 38 | 1 | 58% | $3,848,115 | +$25,252 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | Winnerdinnerchickenjr | Houston Astros vs. New York Yankees | New York Yankees | 1.85 (54¢) | $43,723 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. New York Yankees | Houston Astros | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $74,074 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | +$20,334 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | -$49,142 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | +$28,728 | ✅ Ganada |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
