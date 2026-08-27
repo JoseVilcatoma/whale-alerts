@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 19:52:19 (hora de Perú)
+Actualizado: 2026-08-26 19:54:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1168**  ($63,679,073 en total)
+- Apuestas registradas: **1169**  ($63,708,570 en total)
 - Resueltas: **1152** — 664 ganadas / 488 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 229
 
 ### Balance
@@ -44,10 +44,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 4 | 1 | 0 | ⚠️ 80% (5) | $619,340 | +$143,282 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| 0F62 | 8 | 1 | 2 | 89% | $554,782 | -$1,740 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 2 | 7 | 1 | 22% | $531,232 | -$183,244 |
-| 0F62 | 8 | 1 | 1 | 89% | $525,285 | -$1,740 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | — | ⏳ Pendiente |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | — | ⏳ Pendiente |
 | WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | laozishudaosan | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage | K27 | 2.04 (49¢) | $31,850 | -$31,850 | ❌ Perdida |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.52 (66¢) | $29,117 | -$29,117 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Kai Wehnelt | 2.50 (40¢) | $80,000 | -$80,000 | ❌ Perdida |
-| n0tTODAY | Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A | Natus Vincere | 1.27 (79¢) | $27,263 | -$27,263 | ❌ Perdida |
