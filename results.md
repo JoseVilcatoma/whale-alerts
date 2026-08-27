@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 23:10:10 (hora de Perú)
+Actualizado: 2026-08-26 23:12:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1180**  ($64,483,559 en total)
-- Resueltas: **1165** — 672 ganadas / 493 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Resueltas: **1166** — 672 ganadas / 494 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 230
 
 ### Balance
 
-- **Resultado de los apostadores: +$106,756** sobre $63,625,043 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,943** sobre $114,200 (ROI **-7.0%**)
+- **Resultado de los apostadores: +$77,256** sobre $63,654,543 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,043** sobre $114,300 (ROI **-7.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | ferrariChampions2026 | 10 | 3 | 0 | 77% | $454,714 | -$44,219 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
-| tennischamp | 10 | 0 | 1 | 100% | $404,732 | +$128,123 |
+| tennischamp | 10 | 1 | 0 | 91% | $404,732 | +$98,624 |
 | xifutloong3 | 4 | 9 | 0 | 31% | $404,325 | -$226,872 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 1.45 (69¢) | $138,000 | -$138,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.47 (68¢) | $33,958 | — | ⏳ Pendiente |
 | laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | — | ⏳ Pendiente |
-| tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | — | ⏳ Pendiente |
+| tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | -$29,499 | ❌ Perdida |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | — | ⏳ Pendiente |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | — | ⏳ Pendiente |
 | WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
