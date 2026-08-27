@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 21:58:03 (hora de Perú)
+Actualizado: 2026-08-26 22:00:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1175**  ($64,004,067 en total)
-- Resueltas: **1161** — 671 ganadas / 490 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1162** — 672 ganadas / 490 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 230
 
 ### Balance
 
-- **Resultado de los apostadores: +$287,947** sobre $63,393,852 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,739** sobre $113,800 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$312,447** sobre $63,419,352 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,643** sobre $113,900 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | — | ⏳ Pendiente |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | — | ⏳ Pendiente |
 | WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| laozishudaosan | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| laozishudaosan | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $86,258 | -$86,258 | ❌ Perdida |
 | Weaseloftheweek | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $37,595 | +$40,728 | ✅ Ganada |
 | Winnerdinnerchickenjr | Houston Astros vs. New York Yankees | New York Yankees | 1.85 (54¢) | $43,723 | +$37,246 | ✅ Ganada |
