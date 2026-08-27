@@ -17640,7 +17640,7 @@
     "side": "BUY",
     "usd": 138000.0,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787798580,
     "fills": 1
   },
@@ -17655,7 +17655,7 @@
     "side": "BUY",
     "usd": 29782.5312,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787798696,
     "fills": 1
   },
@@ -17670,7 +17670,7 @@
     "side": "BUY",
     "usd": 37908.485,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1787798709,
     "fills": 1
   },
@@ -17718,5 +17718,20 @@
     "status": "pending",
     "ultimo_fill": 1787802740,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2430,
+    "timestamp": 1787802869,
+    "username": "aenews2",
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "slug": "wta-alexand-tauson-2026-08-26",
+    "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
+    "outcome": "Clara Tauson",
+    "side": "BUY",
+    "usd": 34292.413093999996,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1787802869,
+    "fills": 1
   }
 ]
