@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 22:49:34 (hora de Perú)
+Actualizado: 2026-08-26 22:51:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1177**  ($64,111,213 en total)
+- Apuestas registradas: **1178**  ($64,269,639 en total)
 - Resueltas: **1162** — 672 ganadas / 490 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 230
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 65 | 6 | 60% | $11,707,562 | +$291,458 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 65 | 7 | 60% | $11,865,989 | +$291,458 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $158,426 | — | ⏳ Pendiente |
 | Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 2.00 (50¢) | $37,908 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | +$9,855 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
-| 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | +$2,476 | ✅ Ganada |
