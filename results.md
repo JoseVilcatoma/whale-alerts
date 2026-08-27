@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 03:56:53 (hora de Perú)
+Actualizado: 2026-08-27 03:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1185**  ($64,983,238 en total)
+- Apuestas registradas: **1186**  ($65,014,064 en total)
 - Resueltas: **1174** — 680 ganadas / 494 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 231
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 103 | 67 | 5 | 61% | $12,476,288 | +$603,481 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
-| 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
+| 111111111115 | 33 | 21 | 1 | 61% | $3,034,219 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 231 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | — | ⏳ Pendiente |
 | kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | — | ⏳ Pendiente |
 | ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 231 en total)_
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | +$13,964 | ✅ Ganada |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $91,228 | +$5,823 | ✅ Ganada |
 | Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | +$7,634 | ✅ Ganada |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato | Vilius Gaubas | 1.33 (75¢) | $30,000 | +$4,800 | 💰 Vendida antes |
