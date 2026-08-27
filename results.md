@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 15:42:17 (hora de Perú)
+Actualizado: 2026-08-27 15:44:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1201**  ($66,280,184 en total)
+- Apuestas registradas: **1202**  ($66,332,184 en total)
 - Resueltas: **1189** — 685 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 234
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 234 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| flawfence | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $193,883 | — | ⏳ Pendiente |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | one8tyfive | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $27,966 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 234 en total)_
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | +$19,101 | ✅ Ganada |
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
-| NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | +$20,859 | ✅ Ganada |

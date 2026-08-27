@@ -18063,5 +18063,20 @@
     "status": "pending",
     "ultimo_fill": 1787863214,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2482,
+    "timestamp": 1787863459,
+    "username": "flawfence",
+    "wallet": "0x23d81ba9371e576015c1e562db09c689f56b0288",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 52000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787863459,
+    "fills": 1
   }
 ]
