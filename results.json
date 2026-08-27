@@ -17973,5 +17973,20 @@
     "status": "pending",
     "ultimo_fill": 1787830748,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2462,
+    "timestamp": 1787831952,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 64789.6126995,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1787831952,
+    "fills": 1
   }
 ]
