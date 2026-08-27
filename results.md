@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 18:15:34 (hora de Perú)
+Actualizado: 2026-08-27 18:17:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1217**  ($67,194,879 en total)
+- Apuestas registradas: **1219**  ($67,410,265 en total)
 - Resueltas: **1197** — 693 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 236
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 109 | 69 | 3 | 61% | $13,397,156 | +$685,937 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 109 | 69 | 4 | 61% | $13,517,542 | +$685,937 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 2 | 57% | $3,918,549 | -$6,081 |
 | 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 25 | 17 | 2 | 60% | $2,024,451 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| S-Works | 5 | 3 | 1 | 62% | $1,148,023 | -$295,321 |
+| S-Works | 5 | 3 | 2 | 62% | $1,243,023 | -$295,321 |
 | wr0ngw4yb3tt0r | 10 | 5 | 1 | 67% | $1,126,375 | -$347,277 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $120,386 | — | ⏳ Pendiente |
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $82,806 | — | ⏳ Pendiente |
 | ndb1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. New York Yankees | Houston Astros | 2.13 (47¢) | $31,333 | -$31,333 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $74,074 | +$63,100 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | +$20,334 | ✅ Ganada |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | -$49,142 | ❌ Perdida |
-| Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | +$28,728 | ✅ Ganada |

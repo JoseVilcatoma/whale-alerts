@@ -18303,5 +18303,35 @@
     "status": "pending",
     "ultimo_fill": 1787871948,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2506,
+    "timestamp": 1787872595,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 120385.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787872595,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2507,
+    "timestamp": 1787872613,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 95000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787872613,
+    "fills": 1
   }
 ]
