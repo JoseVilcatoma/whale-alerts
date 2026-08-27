@@ -17583,5 +17583,35 @@
     "status": "pending",
     "ultimo_fill": 1787791978,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2418,
+    "timestamp": 1787795660,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "wta-chwalin-parks-2026-08-26",
+    "title": "Monterrey Open: Maja Chwalinska vs Alycia Parks",
+    "outcome": "Maja Chwalinska",
+    "side": "BUY",
+    "usd": 29499.429500000002,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1787795660,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2419,
+    "timestamp": 1787795662,
+    "username": "laozishudaosan",
+    "wallet": "0xa08455c829a493054315e40e7817321e8c77bb99",
+    "slug": "wnba-tor-sea-2026-08-26-total-174pt5",
+    "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26349.485399999998,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787795662,
+    "fills": 1
   }
 ]
