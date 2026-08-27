@@ -17793,5 +17793,20 @@
     "status": "pending",
     "ultimo_fill": 1787813250,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2448,
+    "timestamp": 1787815839,
+    "username": "ValorieCat",
+    "wallet": "0xe07766251048429ae29ad4c250d905715792369b",
+    "slug": "cs2-vit-ice-2026-08-27",
+    "title": "Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 28007.289999,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1787815839,
+    "fills": 1
   }
 ]

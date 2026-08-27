@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 02:30:39 (hora de Perú)
+Actualizado: 2026-08-27 02:32:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1183**  ($64,914,231 en total)
+- Apuestas registradas: **1184**  ($64,942,238 en total)
 - Resueltas: **1174** — 680 ganadas / 494 perdidas (**58%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 230
+- Pendientes: 6
+- Apostadores distintos: 231
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
-_(mostrando los 40 de mayor monto, de 230 en total)_
+_(mostrando los 40 de mayor monto, de 231 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.25 (80¢) | $209,032 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | Rusik7 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.25 (80¢) | $30,536 | +$7,634 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato | Vilius Gaubas | 1.33 (75¢) | $30,000 | +$4,800 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.45 (69¢) | $28,847 | +$12,960 | ✅ Ganada |
-| 787-HUEV-W-ZOPE | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.28 (78¢) | $35,100 | +$9,900 | ✅ Ganada |
