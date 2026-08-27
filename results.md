@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 07:04:56 (hora de Perú)
+Actualizado: 2026-08-27 07:07:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1196**  ($65,439,376 en total)
-- Resueltas: **1176** — 681 ganadas / 495 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Resueltas: **1177** — 681 ganadas / 496 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 233
 
 ### Balance
 
-- **Resultado de los apostadores: +$649,207** sobre $64,356,808 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,337** sobre $115,300 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$618,381** sobre $64,387,634 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,437** sobre $115,400 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 104 | 67 | 6 | 61% | $12,574,815 | +$636,949 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
-| 111111111115 | 33 | 21 | 3 | 61% | $3,125,301 | +$923,621 |
+| 111111111115 | 33 | 22 | 2 | 60% | $3,125,301 | +$892,795 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 | LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Benito Sanchez Martinez | 1.52 (66¢) | $64,967 | +$33,468 | ✅ Ganada |
 | Weaseloftheweek | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Hynek Barton | 2.94 (34¢) | $68,000 | -$68,000 | ❌ Perdida |
-| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | — | ⏳ Pendiente |
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | -$30,826 | ❌ Perdida |
 | kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | — | ⏳ Pendiente |
 | ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
