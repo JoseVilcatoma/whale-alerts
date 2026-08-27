@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 17:19:24 (hora de Perú)
+Actualizado: 2026-08-27 17:21:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1213**  ($66,992,559 en total)
-- Resueltas: **1195** — 691 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1196** — 692 ganadas / 504 perdidas (**58%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 235
 
 ### Balance
 
-- **Resultado de los apostadores: +$620,069** sobre $65,946,962 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$7,641** sobre $117,200 (ROI **-6.5%**)
+- **Resultado de los apostadores: +$642,569** sobre $65,974,462 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,559** sobre $117,300 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | — | ⏳ Pendiente |
 | kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | — | ⏳ Pendiente |
-| Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Alycia Parks vs Ann Li | Ann Li | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | — | ⏳ Pendiente |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $28,632 | — | ⏳ Pendiente |
