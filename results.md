@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 01:55:49 (hora de Perú)
+Actualizado: 2026-08-27 01:57:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1183**  ($64,914,231 en total)
-- Resueltas: **1170** — 676 ganadas / 494 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1174** — 680 ganadas / 494 perdidas (**58%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 230
 
 ### Balance
 
-- **Resultado de los apostadores: +$182,863** sobre $63,825,300 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,771** sobre $114,700 (ROI **-6.8%**)
+- **Resultado de los apostadores: +$683,739** sobre $64,223,841 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$7,288** sobre $115,100 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 101 | 67 | 7 | 60% | $12,476,288 | +$173,231 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 103 | 67 | 5 | 61% | $12,476,288 | +$603,481 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -74,10 +74,10 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.25 (80¢) | $209,032 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | — | ⏳ Pendiente |
-| aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | — | ⏳ Pendiente |
-| Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | +$61,653 | ✅ Ganada |
+| aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | +$45,457 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | +$368,598 | ✅ Ganada |
+| Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | +$25,168 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | +$41,701 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 2.00 (50¢) | $37,908 | -$37,908 | ❌ Perdida |
 | mentionmarket | Minnesota Twins vs. Athletics | Minnesota Twins | 1.96 (51¢) | $29,783 | -$29,783 | ❌ Perdida |
