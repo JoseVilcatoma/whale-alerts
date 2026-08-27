@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 16:33:45 (hora de Perú)
+Actualizado: 2026-08-27 16:35:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1211**  ($66,911,724 en total)
+- Apuestas registradas: **1212**  ($66,940,559 en total)
 - Resueltas: **1194** — 690 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 235
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 107 | 69 | 5 | 61% | $13,397,156 | +$668,298 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 1 | 57% | $3,889,715 | -$6,081 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 2 | 57% | $3,918,549 | -$6,081 |
 | 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | — | ⏳ Pendiente |
 | kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
-| Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | -$44,000 | ❌ Perdida |
