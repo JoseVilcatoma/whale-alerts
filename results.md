@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 20:52:12 (hora de Perú)
+Actualizado: 2026-08-26 20:54:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1169**  ($63,708,570 en total)
-- Resueltas: **1156** — 667 ganadas / 489 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1159** — 670 ganadas / 489 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 229
 
 ### Balance
 
-- **Resultado de los apostadores: +$160,128** sobre $63,182,410 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,999** sobre $113,300 (ROI **-7.1%**)
+- **Resultado de los apostadores: +$282,034** sobre $63,318,796 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,725** sobre $113,600 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 22 | 17 | 3 | 56% | $1,918,532 | +$68,510 |
+| pleaseplease123 | 25 | 17 | 0 | 60% | $1,918,532 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | Weaseloftheweek | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $37,595 | +$40,728 | ✅ Ganada |
 | Winnerdinnerchickenjr | Houston Astros vs. New York Yankees | New York Yankees | 1.85 (54¢) | $43,723 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. New York Yankees | Houston Astros | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $74,074 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $74,074 | +$63,100 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | +$20,334 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | -$49,142 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | +$28,728 | ✅ Ganada |
@@ -89,11 +89,11 @@ _(mostrando los 40 de mayor monto, de 229 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | -$44,000 | ❌ Perdida |
-| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | +$31,344 | ✅ Ganada |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.41 (71¢) | $97,919 | +$39,995 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.13 (47¢) | $48,536 | +$54,732 | ✅ Ganada |
 | pleaseplease123 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.04 (49¢) | $34,000 | +$35,387 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $30,968 | +$27,462 | ✅ Ganada |
 | pleaseplease123 | Pittsburgh Pirates vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $42,779 | -$42,779 | ❌ Perdida |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | Will Olympique Lyonnais win on 2026-08-26? | Yes | 2.13 (47¢) | $53,739 | -$53,739 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $87,015 | +$19,101 | ✅ Ganada |
