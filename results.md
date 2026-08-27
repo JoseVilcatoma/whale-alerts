@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 06:33:56 (hora de Perú)
+Actualizado: 2026-08-27 06:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1192**  ($65,274,694 en total)
+- Apuestas registradas: **1193**  ($65,313,294 en total)
 - Resueltas: **1176** — 681 ganadas / 495 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 233
 
 ### Balance
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 25 | 17 | 0 | 60% | $1,918,532 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| wr0ngw4yb3tt0r | 9 | 5 | 1 | 64% | $1,095,100 | -$384,363 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
-| wr0ngw4yb3tt0r | 9 | 5 | 0 | 64% | $1,056,500 | -$384,363 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 10 | 0 | 52% | $871,456 | +$65,262 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-08-16? | No | 1.96 (51¢) | $38,600 | — | ⏳ Pendiente |
 | HBAFlover98 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $27,691 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 2.70 (37¢) | $33,560 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $187,961 | +$41,260 | ✅ Ganada |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes | 1.22 (82¢) | $256,127 | +$56,223 | ✅ Ganada |
 | hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | +$11,400 | ✅ Ganada |
-| cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | -$50,000 | ❌ Perdida |
