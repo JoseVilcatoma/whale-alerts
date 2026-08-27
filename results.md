@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 22:43:22 (hora de Perú)
+Actualizado: 2026-08-26 22:45:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1176**  ($64,085,017 en total)
+- Apuestas registradas: **1177**  ($64,111,213 en total)
 - Resueltas: **1162** — 672 ganadas / 490 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 230
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 2.00 (50¢) | $37,908 | — | ⏳ Pendiente |
 | mentionmarket | Minnesota Twins vs. Athletics | Minnesota Twins | 1.96 (51¢) | $29,783 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification ATP: Daniel Rincon vs Jordan Lee | Daniel Rincon | 1.67 (60¢) | $39,498 | +$9,874 | 💰 Vendida antes |
 | 0F62 | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.08 (93¢) | $32,898 | +$2,476 | ✅ Ganada |
-| kilian7kilian | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.30 (77¢) | $140,000 | +$41,818 | ✅ Ganada |
