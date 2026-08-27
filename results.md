@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 18:03:02 (hora de Perú)
+Actualizado: 2026-08-27 18:05:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1215**  ($67,060,033 en total)
+- Apuestas registradas: **1216**  ($67,112,074 en total)
 - Resueltas: **1196** — 692 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 236
 
 ### Balance
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
+| ndb1 | 3 | 6 | 1 | 33% | $510,881 | -$55,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
 | ferrariChampions2026 | 10 | 3 | 0 | 77% | $454,714 | -$44,219 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | tennischamp | 10 | 1 | 0 | 91% | $404,732 | +$98,624 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | — | ⏳ Pendiente |
 | AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | -$49,142 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | +$28,728 | ✅ Ganada |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
-| xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | +$16,143 | ✅ Ganada |
