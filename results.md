@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 22:59:51 (hora de Perú)
+Actualizado: 2026-08-26 23:01:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1179**  ($64,435,118 en total)
+- Apuestas registradas: **1180**  ($64,483,559 en total)
 - Resueltas: **1165** — 672 ganadas / 493 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 230
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 67 | 5 | 60% | $11,997,175 | +$115,549 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 67 | 6 | 60% | $12,045,616 | +$115,549 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | — | ⏳ Pendiente |
 | aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | — | ⏳ Pendiente |
 | Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze | Mariam Bolkvadze | 1.75 (57¢) | $47,317 | +$35,695 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $32,534 | -$32,534 | ❌ Perdida |
 | RegardedMoney | Will Real Madrid CF win on 2026-08-26? | Yes | 1.27 (79¢) | $37,072 | +$9,855 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena | 1.20 (83¢) | $228,390 | +$46,779 | ✅ Ganada |
