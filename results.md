@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 16:25:31 (hora de Perú)
+Actualizado: 2026-08-27 16:27:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1210**  ($66,880,449 en total)
+- Apuestas registradas: **1211**  ($66,911,724 en total)
 - Resueltas: **1194** — 690 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 235
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 25 | 17 | 1 | 60% | $1,990,461 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 10 | 5 | 0 | 67% | $1,095,100 | -$347,277 |
+| wr0ngw4yb3tt0r | 10 | 5 | 1 | 67% | $1,126,375 | -$347,277 |
 | S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | — | ⏳ Pendiente |
 | kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | — | ⏳ Pendiente |
 | Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
 | ferrariChampions2026 | US Open, Qualification ATP: Remy Bertola vs Harry Wendelken | Harry Wendelken | 1.19 (84¢) | $25,574 | +$4,871 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Mariners | Seattle Mariners | 2.27 (44¢) | $44,000 | -$44,000 | ❌ Perdida |
-| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $31,344 | +$31,344 | ✅ Ganada |
