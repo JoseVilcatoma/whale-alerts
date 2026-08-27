@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 16:15:17 (hora de Perú)
+Actualizado: 2026-08-27 16:17:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1208**  ($66,614,040 en total)
-- Resueltas: **1190** — 686 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1192** — 688 ganadas / 504 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 235
 
 ### Balance
 
-- **Resultado de los apostadores: +$495,170** sobre $65,179,659 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$7,702** sobre $116,700 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$605,375** sobre $65,758,236 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$7,664** sobre $116,900 (ROI **-6.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 106 | 69 | 6 | 61% | $13,397,156 | +$563,420 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 107 | 69 | 5 | 61% | $13,397,156 | +$668,298 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 1 | 57% | $3,889,715 | -$6,081 |
 | 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | flawfence | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $193,883 | — | ⏳ Pendiente |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| one8tyfive | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $27,966 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $550,611 | — | ⏳ Pendiente |
+| one8tyfive | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $27,966 | +$5,327 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $550,611 | +$104,878 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B | Team Falcons | 1.09 (92¢) | $41,847 | — | ⏳ Pendiente |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ | 2.50 (40¢) | $64,790 | +$97,184 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.54 (65¢) | $26,292 | +$14,157 | ✅ Ganada |
