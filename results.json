@@ -17898,5 +17898,20 @@
     "status": "pending",
     "ultimo_fill": 1787824829,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2457,
+    "timestamp": 1787828778,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
+    "outcome": "9z",
+    "side": "BUY",
+    "usd": 34909.559999000005,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1787828778,
+    "fills": 1
   }
 ]

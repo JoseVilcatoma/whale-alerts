@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 06:04:56 (hora de Perú)
+Actualizado: 2026-08-27 06:07:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1190**  ($65,212,094 en total)
+- Apuestas registradas: **1191**  ($65,247,003 en total)
 - Resueltas: **1176** — 681 ganadas / 495 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 232
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 232 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 2.70 (37¢) | $33,560 | — | ⏳ Pendiente |
 | LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Benito Sanchez Martinez | 1.52 (66¢) | $64,967 | +$33,468 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 232 en total)_
 | hansama231 | Will Real Madrid CF win on 2026-08-26? | Yes | 1.23 (81¢) | $48,600 | +$11,400 | ✅ Ganada |
 | cnyek | Olympique Lyonnais vs. Fenerbahçe SK: Team to Advance | Olympique Lyonnais | 1.49 (67¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | +$21,002 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
