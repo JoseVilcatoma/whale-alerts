@@ -18153,5 +18153,20 @@
     "status": "pending",
     "ultimo_fill": 1787865050,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2489,
+    "timestamp": 1787865285,
+    "username": "Nooserac",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "val-loud-fur-2026-08-27-game1",
+    "title": "Valorant: LOUD vs FURIA Esports - Map 1 Winner",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1787865285,
+    "fills": 1
   }
 ]
