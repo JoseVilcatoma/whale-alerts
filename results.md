@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 18:05:08 (hora de Perú)
+Actualizado: 2026-08-27 18:07:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1216**  ($67,112,074 en total)
-- Resueltas: **1196** — 692 ganadas / 504 perdidas (**58%** de acierto)
+- Apuestas registradas: **1217**  ($67,194,879 en total)
+- Resueltas: **1197** — 693 ganadas / 504 perdidas (**58%** de acierto)
 - Pendientes: 16
 - Apostadores distintos: 236
 
 ### Balance
 
-- **Resultado de los apostadores: +$642,569** sobre $65,974,462 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,559** sobre $117,300 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$656,569** sobre $66,010,462 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,520** sobre $117,400 (ROI **-6.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 108 | 69 | 4 | 61% | $13,397,156 | +$671,937 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 109 | 69 | 3 | 61% | $13,397,156 | +$685,937 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 2 | 57% | $3,918,549 | -$6,081 |
 | 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 25 | 17 | 2 | 60% | $2,024,451 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| S-Works | 5 | 3 | 1 | 62% | $1,148,023 | -$295,321 |
 | wr0ngw4yb3tt0r | 10 | 5 | 1 | 67% | $1,126,375 | -$347,277 |
-| S-Works | 5 | 3 | 0 | 62% | $1,065,217 | -$295,321 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 10 | 1 | 52% | $941,581 | +$65,262 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $82,806 | — | ⏳ Pendiente |
 | ndb1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | — | ⏳ Pendiente |
@@ -80,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 | kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | — | ⏳ Pendiente |
 | Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Alycia Parks vs Ann Li | Ann Li | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Alycia Parks vs Ann Li | Ann Li | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | — | ⏳ Pendiente |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $28,632 | — | ⏳ Pendiente |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $78,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Boston Red Sox (-1.5) | Miami Marlins | 1.72 (58¢) | $28,081 | +$20,334 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Monterrey Open: Cristina Bucsa vs Darja Vidmanova | Cristina Bucsa | 2.08 (48¢) | $49,142 | -$49,142 | ❌ Perdida |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $26,518 | +$28,728 | ✅ Ganada |
-| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |

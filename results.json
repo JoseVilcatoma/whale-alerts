@@ -18150,7 +18150,7 @@
     "side": "BUY",
     "usd": 36000.0,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787865050,
     "fills": 1
   },
@@ -18287,6 +18287,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1787871807,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2504,
+    "timestamp": 1787871948,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 82805.59920000001,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787871948,
     "fills": 1
   }
 ]
