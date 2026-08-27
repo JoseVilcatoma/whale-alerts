@@ -17553,5 +17553,20 @@
     "status": "pending",
     "ultimo_fill": 1787788902,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2409,
+    "timestamp": 1787789693,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "lal-bar-bil-2026-08-27-bil",
+    "title": "Will Athletic Club win on 2026-08-27?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 90363.1431,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1787789693,
+    "fills": 1
   }
 ]
