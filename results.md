@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 16:21:26 (hora de Perú)
+Actualizado: 2026-08-27 16:23:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1210**  ($66,880,449 en total)
-- Resueltas: **1192** — 688 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1194** — 690 ganadas / 504 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 235
 
 ### Balance
 
-- **Resultado de los apostadores: +$605,375** sobre $65,758,236 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$7,664** sobre $116,900 (ROI **-6.6%**)
+- **Resultado de los apostadores: +$616,430** sobre $65,905,115 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$7,649** sobre $117,100 (ROI **-6.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0F62 | 8 | 1 | 2 | 89% | $554,782 | -$1,740 |
+| 0F62 | 10 | 1 | 0 | 91% | $554,782 | +$9,316 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
@@ -112,8 +112,8 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.47 (68¢) | $33,958 | +$15,980 | ✅ Ganada |
 | laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | +$27,425 | ✅ Ganada |
 | tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | -$29,499 | ❌ Perdida |
-| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | — | ⏳ Pendiente |
-| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | — | ⏳ Pendiente |
+| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | +$2,220 | ✅ Ganada |
+| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | +$8,835 | ✅ Ganada |
 | WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | laozishudaosan | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $86,258 | -$86,258 | ❌ Perdida |
