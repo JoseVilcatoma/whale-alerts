@@ -17643,5 +17643,35 @@
     "status": "pending",
     "ultimo_fill": 1787798580,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2424,
+    "timestamp": 1787798696,
+    "username": "mentionmarket",
+    "wallet": "0xc3acf5878a03523d09a3ac859943445d7baeb964",
+    "slug": "mlb-min-oak-2026-08-26",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 29782.5312,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1787798696,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2425,
+    "timestamp": 1787798709,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-min-oak-2026-08-26",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 37908.485,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787798709,
+    "fills": 1
   }
 ]
