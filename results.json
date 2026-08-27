@@ -17868,5 +17868,20 @@
     "status": "pending",
     "ultimo_fill": 1787823588,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2453,
+    "timestamp": 1787824028,
+    "username": "LOL-eric",
+    "wallet": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd1409",
+    "slug": "lol-ns-fox1-2026-08-27",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "usd": 31502.326799999995,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787824028,
+    "fills": 1
   }
 ]

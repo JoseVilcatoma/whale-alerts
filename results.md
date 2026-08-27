@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 04:46:18 (hora de Perú)
+Actualizado: 2026-08-27 04:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1188**  ($65,147,031 en total)
+- Apuestas registradas: **1189**  ($65,178,533 en total)
 - Resueltas: **1174** — 680 ganadas / 494 perdidas (**58%** de acierto)
-- Pendientes: 10
-- Apostadores distintos: 231
+- Pendientes: 11
+- Apostadores distintos: 232
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
-_(mostrando los 40 de mayor monto, de 231 en total)_
+_(mostrando los 40 de mayor monto, de 232 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Benito Sanchez Martinez | 1.52 (66¢) | $64,967 | — | ⏳ Pendiente |
 | Weaseloftheweek | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Hynek Barton | 2.94 (34¢) | $68,000 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 231 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.27 (79¢) | $79,006 | +$21,002 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Map Handicap: FURIA (-1.5) vs paiN (+1.5) | paiN | 2.22 (45¢) | $46,665 | -$46,665 | ❌ Perdida |
 | AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $35,654 | +$8,363 | ✅ Ganada |
-| AV23IUa | Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A | FURIA | 1.23 (81¢) | $59,530 | +$13,964 | ✅ Ganada |
