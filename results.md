@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 15:38:10 (hora de Perú)
+Actualizado: 2026-08-27 15:40:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1199**  ($66,059,801 en total)
+- Apuestas registradas: **1200**  ($66,086,301 en total)
 - Resueltas: **1189** — 685 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 234
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 234 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | one8tyfive | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $27,966 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $550,611 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B | Team Falcons | 1.09 (92¢) | $41,847 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 234 en total)_
 | Feromont | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays | 1.14 (88¢) | $51,379 | +$7,006 | ✅ Ganada |
 | NiNo999 | Spread: Real Madrid CF (-1.5) | Real Madrid CF | 1.52 (66¢) | $40,492 | +$20,859 | ✅ Ganada |
 | RegardedMoney | Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
-| RegardedMoney | Will Real Sociedad de Fútbol win on 2026-08-26? | No | 1.06 (94¢) | $93,223 | +$5,950 | ✅ Ganada |
