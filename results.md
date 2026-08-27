@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-26 23:30:07 (hora de Perú)
+Actualizado: 2026-08-27 01:39:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1180**  ($64,483,559 en total)
-- Resueltas: **1166** — 672 ganadas / 494 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1170** — 676 ganadas / 494 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 230
 
 ### Balance
 
-- **Resultado de los apostadores: +$77,256** sobre $63,654,543 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,043** sobre $114,300 (ROI **-7.0%**)
+- **Resultado de los apostadores: +$182,863** sobre $63,825,300 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,771** sobre $114,700 (ROI **-6.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 99 | 67 | 6 | 60% | $12,045,616 | +$115,549 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 101 | 67 | 4 | 60% | $12,045,616 | +$173,231 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
 | 111111111115 | 33 | 21 | 0 | 61% | $3,003,393 | +$923,621 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 8 | 1 | 2 | 89% | $554,782 | -$1,740 |
 | SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| WTSA | 2 | 7 | 1 | 22% | $531,232 | -$183,244 |
+| WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | ndb1 | 3 | 6 | 0 | 33% | $458,840 | -$55,246 |
@@ -75,16 +75,16 @@ _(mostrando los 40 de mayor monto, de 230 en total)_
 | aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | — | ⏳ Pendiente |
 | Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | +$41,701 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 2.00 (50¢) | $37,908 | -$37,908 | ❌ Perdida |
 | mentionmarket | Minnesota Twins vs. Athletics | Minnesota Twins | 1.96 (51¢) | $29,783 | -$29,783 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 1.45 (69¢) | $138,000 | -$138,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.47 (68¢) | $33,958 | — | ⏳ Pendiente |
-| laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.47 (68¢) | $33,958 | +$15,980 | ✅ Ganada |
+| laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | +$27,425 | ✅ Ganada |
 | tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | -$29,499 | ❌ Perdida |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | — | ⏳ Pendiente |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | — | ⏳ Pendiente |
-| WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | laozishudaosan | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Under 8.5 | 1.96 (51¢) | $86,258 | -$86,258 | ❌ Perdida |
 | Weaseloftheweek | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $37,595 | +$40,728 | ✅ Ganada |
