@@ -18013,10 +18013,25 @@
     "title": "Baltimore Orioles vs. St. Louis Cardinals",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "usd": 25200.0,
+    "usd": 550611.165,
     "odds_at_bet": 84,
     "status": "pending",
-    "ultimo_fill": 1787862209,
+    "ultimo_fill": 1787862231,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 2479,
+    "timestamp": 1787862247,
+    "username": "one8tyfive",
+    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
+    "slug": "mlb-bal-stl-2026-08-27",
+    "title": "Baltimore Orioles vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 27966.387,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1787862247,
     "fills": 1
   }
 ]
