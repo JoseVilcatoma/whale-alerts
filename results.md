@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 17:44:19 (hora de Perú)
+Actualizado: 2026-08-27 17:46:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1213**  ($66,992,559 en total)
+- Apuestas registradas: **1214**  ($67,026,549 en total)
 - Resueltas: **1196** — 692 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 235
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 1 | 56% | $2,424,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 25 | 17 | 1 | 60% | $1,990,461 | +$190,416 |
+| pleaseplease123 | 25 | 17 | 2 | 60% | $2,024,451 | +$190,416 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 10 | 5 | 1 | 67% | $1,126,375 | -$347,277 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | — | ⏳ Pendiente |
 | AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 235 en total)_
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.43 (70¢) | $35,564 | +$15,242 | ✅ Ganada |
 | xifutloong3 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres | 1.52 (66¢) | $31,337 | +$16,143 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova | Lucie Havlickova | 2.13 (47¢) | $32,000 | +$18,383 | 💰 Vendida antes |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Winston-Salem Open: Daniel Altmaier vs Ignacio Buse | Ignacio Buse | 1.41 (71¢) | $32,000 | +$10,366 | 💰 Vendida antes |
