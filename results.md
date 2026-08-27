@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 07:31:34 (hora de Perú)
+Actualizado: 2026-08-27 15:07:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1196**  ($65,439,376 en total)
-- Resueltas: **1177** — 681 ganadas / 496 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Resueltas: **1189** — 685 ganadas / 504 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 233
 
 ### Balance
 
-- **Resultado de los apostadores: +$618,381** sobre $64,387,634 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,437** sobre $115,400 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$458,083** sobre $65,141,059 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$7,799** sobre $116,600 (ROI **-6.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 104 | 67 | 6 | 61% | $12,574,815 | +$636,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 106 | 69 | 2 | 61% | $12,574,815 | +$563,420 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 0 | 57% | $3,848,115 | -$6,081 |
-| 111111111115 | 33 | 22 | 2 | 60% | $3,125,301 | +$892,795 |
+| 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 0 | 56% | $2,372,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,22 +71,22 @@ _(mostrando los 40 de mayor monto, de 233 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ | 2.50 (40¢) | $64,790 | — | ⏳ Pendiente |
-| SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.54 (65¢) | $26,292 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | 9z | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
+| SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ | 2.50 (40¢) | $64,790 | +$97,184 | ✅ Ganada |
+| SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.54 (65¢) | $26,292 | +$14,157 | ✅ Ganada |
+| ExplosiveNinja | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | 9z | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-08-16? | No | 1.96 (51¢) | $38,600 | — | ⏳ Pendiente |
-| HBAFlover98 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $27,691 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 2.70 (37¢) | $33,560 | — | ⏳ Pendiente |
-| LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | — | ⏳ Pendiente |
+| HBAFlover98 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $27,691 | -$27,691 | ❌ Perdida |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | -$34,910 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 2.70 (37¢) | $33,560 | +$57,143 | ✅ Ganada |
+| LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | -$31,502 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Benito Sanchez Martinez | 1.52 (66¢) | $64,967 | +$33,468 | ✅ Ganada |
 | Weaseloftheweek | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Hynek Barton | 2.94 (34¢) | $68,000 | -$68,000 | ❌ Perdida |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | -$30,826 | ❌ Perdida |
-| kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | — | ⏳ Pendiente |
-| ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.25 (80¢) | $209,032 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | — | ⏳ Pendiente |
+| kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | -$41,000 | ❌ Perdida |
+| ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | -$28,007 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | +$117,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.25 (80¢) | $209,032 | -$209,032 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | -$38,640 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | +$61,653 | ✅ Ganada |
 | aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | +$45,457 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | +$368,598 | ✅ Ganada |
