@@ -18558,5 +18558,20 @@
     "status": "pending",
     "ultimo_fill": 1787915424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2553,
+    "timestamp": 1787917211,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-bro2-fox1-2026-08-28",
+    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "usd": 27969.035400000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787917211,
+    "fills": 1
   }
 ]
