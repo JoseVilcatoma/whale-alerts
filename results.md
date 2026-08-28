@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 04:55:06 (hora de Perú)
+Actualizado: 2026-08-28 04:57:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1230**  ($67,978,403 en total)
+- Apuestas registradas: **1231**  ($68,003,603 en total)
 - Resueltas: **1221** — 711 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 238
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.41 (71¢) | $35,808 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 | mentionmarket | Minnesota Twins vs. Athletics | Minnesota Twins | 1.96 (51¢) | $29,783 | -$29,783 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 1.45 (69¢) | $138,000 | -$138,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.47 (68¢) | $33,958 | +$15,980 | ✅ Ganada |
-| laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | +$27,425 | ✅ Ganada |
