@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 08:37:00 (hora de Perú)
+Actualizado: 2026-08-28 08:39:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1236**  ($68,330,073 en total)
-- Resueltas: **1228** — 716 ganadas / 512 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Resueltas: **1229** — 716 ganadas / 513 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 239
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,498,624** sobre $67,941,390 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,407** sobre $120,500 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,470,654** sobre $67,969,359 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,507** sobre $120,600 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | — | ⏳ Pendiente |
-| zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | — | ⏳ Pendiente |
+| zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | +$15,122 | ✅ Ganada |
