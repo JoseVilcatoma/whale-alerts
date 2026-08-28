@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 17:22:43 (hora de Perú)
+Actualizado: 2026-08-28 17:24:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1242**  ($68,631,970 en total)
+- Apuestas registradas: **1243**  ($68,665,970 en total)
 - Resueltas: **1231** — 718 ganadas / 513 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 239
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| wr0ngw4yb3tt0r | 11 | 5 | 0 | 69% | $1,126,375 | -$318,408 |
+| wr0ngw4yb3tt0r | 11 | 5 | 1 | 69% | $1,160,375 | -$318,408 |
 | kilian7kilian | 6 | 1 | 1 | ⚠️ 86% (7) | $1,090,137 | +$437,538 |
 | Weaseloftheweek | 10 | 12 | 1 | 45% | $1,036,787 | -$187,128 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | -$30,826 | ❌ Perdida |
 | kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | -$41,000 | ❌ Perdida |
 | ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | -$28,007 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.64 (61¢) | $183,000 | +$117,000 | ✅ Ganada |

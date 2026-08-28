@@ -18678,5 +18678,20 @@
     "status": "pending",
     "ultimo_fill": 1787953846,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2570,
+    "timestamp": 1787955863,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tex-mil-2026-08-28-spread-home-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 33999.884533000004,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787955863,
+    "fills": 1
   }
 ]
