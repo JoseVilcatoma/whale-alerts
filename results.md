@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 20:10:50 (hora de Perú)
+Actualizado: 2026-08-27 20:12:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1221**  ($67,483,940 en total)
-- Resueltas: **1197** — 693 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **1198** — 694 ganadas / 504 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 237
 
 ### Balance
 
-- **Resultado de los apostadores: +$656,569** sobre $66,010,462 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,520** sobre $117,400 (ROI **-6.4%**)
+- **Resultado de los apostadores: +$691,946** sobre $66,044,452 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,416** sobre $117,500 (ROI **-6.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 23 | 18 | 1 | 56% | $2,424,941 | -$129,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| pleaseplease123 | 25 | 17 | 2 | 60% | $2,024,451 | +$190,416 |
+| pleaseplease123 | 26 | 17 | 1 | 60% | $2,024,451 | +$225,794 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 5 | 3 | 2 | 62% | $1,243,023 | -$295,321 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 237 en total)_
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $82,806 | — | ⏳ Pendiente |
 | ndb1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | +$35,377 | ✅ Ganada |
 | AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | — | ⏳ Pendiente |
