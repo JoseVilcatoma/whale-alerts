@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 07:08:48 (hora de Perú)
+Actualizado: 2026-08-28 07:10:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1235**  ($68,161,884 en total)
-- Resueltas: **1223** — 713 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1224** — 713 ganadas / 511 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 239
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,500,994** sobre $67,777,837 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,356** sobre $120,000 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,475,807** sobre $67,803,024 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,456** sobre $120,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.41 (71¢) | $35,808 | — | ⏳ Pendiente |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | — | ⏳ Pendiente |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | -$25,187 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | +$17,092 | ✅ Ganada |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner | BNK FEARX | 1.85 (54¢) | $79,515 | +$67,735 | ✅ Ganada |
 | fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
