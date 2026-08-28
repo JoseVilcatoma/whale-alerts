@@ -55,18 +55,6 @@
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "added_at": 1787323112.7327611
   },
-  "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": {
-    "username": "vitalik-butterplug",
-    "added_at": 1787324918.3282282
-  },
-  "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
-    "username": "Wiretransferxyz",
-    "added_at": 1787329580.6166523
-  },
-  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
-    "username": "OOOwhyOOO",
-    "added_at": 1787332285.8498223
-  },
   "0x91dda263d251e7f771ea333f8cb6b6066761600b": {
     "username": "murgionsek",
     "added_at": 1787348001.3797603
@@ -422,5 +410,9 @@
   "0xc3acf5878a03523d09a3ac859943445d7baeb964": {
     "username": "mentionmarket",
     "added_at": 1787901476.0311897
+  },
+  "0xc9a24fa249cf907c598544a4d46c077c1edf77d3": {
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "added_at": 1787950981.1779726
   }
 }

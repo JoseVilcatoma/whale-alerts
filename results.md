@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 09:20:00 (hora de Perú)
+Actualizado: 2026-08-28 16:05:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1236**  ($68,330,073 en total)
-- Resueltas: **1229** — 716 ganadas / 513 perdidas (**58%** de acierto)
-- Pendientes: 3
+- Resueltas: **1231** — 718 ganadas / 513 perdidas (**58%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 239
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,470,654** sobre $67,969,359 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,507** sobre $120,600 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,611,805** sobre $68,187,327 apostados (ROI **+2.4%**)
+- Copiando $100 fijo en cada una: **-$6,396** sobre $120,800 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 5 | 0 | 69% | $1,126,375 | -$318,408 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
-| kilian7kilian | 5 | 1 | 1 | ⚠️ 83% (6) | $982,009 | +$315,745 |
+| kilian7kilian | 6 | 1 | 0 | ⚠️ 86% (7) | $982,009 | +$437,538 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | — | ⏳ Pendiente |
+| kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
 | zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | +$19,359 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | +$15,122 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | -$26,732 | ❌ Perdida |
