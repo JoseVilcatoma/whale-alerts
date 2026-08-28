@@ -18783,5 +18783,20 @@
     "status": "pending",
     "ultimo_fill": 1787957664,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2577,
+    "timestamp": 1787957980,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-col-atl-2026-08-28-total-8pt5",
+    "title": "Colorado Rockies vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 45176.572,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787957980,
+    "fills": 1
   }
 ]
