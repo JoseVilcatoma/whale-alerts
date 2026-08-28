@@ -18753,5 +18753,20 @@
     "status": "pending",
     "ultimo_fill": 1787956138,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2575,
+    "timestamp": 1787956435,
+    "username": "0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123",
+    "wallet": "0xf6683d202f76fc9b79e5be716ce8519dab5b5c69",
+    "slug": "mlb-bal-oak-2026-08-28",
+    "title": "Baltimore Orioles vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 115490.34559999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787956435,
+    "fills": 1
   }
 ]
