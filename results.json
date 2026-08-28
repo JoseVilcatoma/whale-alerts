@@ -18543,5 +18543,20 @@
     "status": "pending",
     "ultimo_fill": 1787914295,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2550,
+    "timestamp": 1787915424,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-kc-cle-2026-08-28",
+    "title": "Kansas City Royals vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 29906.8784,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787915424,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 06:09:05 (hora de Perú)
+Actualizado: 2026-08-28 06:11:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1233**  ($68,104,008 en total)
+- Apuestas registradas: **1234**  ($68,133,915 en total)
 - Resueltas: **1221** — 711 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 238
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| SDTrading | 9 | 9 | 1 | 50% | $572,816 | -$27,589 |
 | 0F62 | 10 | 1 | 0 | 91% | $554,782 | +$9,316 |
-| SDTrading | 9 | 9 | 0 | 50% | $542,909 | -$27,589 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 | Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | +$25,168 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Toronto Tempo vs. Seattle Storm | Seattle Storm | 1.52 (66¢) | $80,950 | +$41,701 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Minnesota Twins vs. Athletics | Minnesota Twins | 2.00 (50¢) | $37,908 | -$37,908 | ❌ Perdida |
-| mentionmarket | Minnesota Twins vs. Athletics | Minnesota Twins | 1.96 (51¢) | $29,783 | -$29,783 | ❌ Perdida |
