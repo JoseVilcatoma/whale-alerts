@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 16:19:19 (hora de Perú)
+Actualizado: 2026-08-28 16:21:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1238**  ($68,472,041 en total)
+- Apuestas registradas: **1239**  ($68,502,540 en total)
 - Resueltas: **1231** — 718 ganadas / 513 perdidas (**58%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 239
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | ferrariChampions2026 | 10 | 3 | 1 | 77% | $488,555 | -$44,219 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
+| tennischamp | 10 | 1 | 1 | 91% | $435,232 | +$98,624 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
-| tennischamp | 10 | 1 | 0 | 91% | $404,732 | +$98,624 |
 | xifutloong3 | 4 | 9 | 0 | 31% | $404,325 | -$226,872 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | — | ⏳ Pendiente |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | — | ⏳ Pendiente |
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.25 (80¢) | $209,032 | -$209,032 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | -$38,640 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | +$61,653 | ✅ Ganada |
-| aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | +$45,457 | ✅ Ganada |

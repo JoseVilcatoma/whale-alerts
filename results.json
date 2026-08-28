@@ -18618,5 +18618,20 @@
     "status": "pending",
     "ultimo_fill": 1787951172,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2566,
+    "timestamp": 1787952017,
+    "username": "tennischamp",
+    "wallet": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+    "slug": "mlb-lad-det-2026-08-28",
+    "title": "Los Angeles Dodgers vs. Detroit Tigers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 30499.6545,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1787952017,
+    "fills": 1
   }
 ]
