@@ -18588,5 +18588,35 @@
     "status": "won",
     "ultimo_fill": 1787921938,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2564,
+    "timestamp": 1787951172,
+    "username": "kilian7kilian",
+    "wallet": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+    "slug": "atp-buse-bonzi-2026-08-28",
+    "title": "Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi",
+    "outcome": "Ignacio Buse",
+    "side": "BUY",
+    "usd": 108127.55209969552,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1787951170,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 2565,
+    "timestamp": 1787951172,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-buse-bonzi-2026-08-28",
+    "title": "Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "usd": 33840.425,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1787951172,
+    "fills": 1
   }
 ]

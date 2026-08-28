@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 16:07:06 (hora de Perú)
+Actualizado: 2026-08-28 16:09:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1236**  ($68,330,073 en total)
+- Apuestas registradas: **1238**  ($68,472,041 en total)
 - Resueltas: **1231** — 718 ganadas / 513 perdidas (**58%** de acierto)
-- Pendientes: 1
+- Pendientes: 3
 - Apostadores distintos: 239
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 5 | 0 | 69% | $1,126,375 | -$318,408 |
+| kilian7kilian | 6 | 1 | 1 | ⚠️ 86% (7) | $1,090,137 | +$437,538 |
 | Weaseloftheweek | 10 | 12 | 0 | 45% | $986,535 | -$187,128 |
-| kilian7kilian | 6 | 1 | 0 | ⚠️ 86% (7) | $982,009 | +$437,538 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
+| ferrariChampions2026 | 10 | 3 | 1 | 77% | $488,555 | -$44,219 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| ferrariChampions2026 | 10 | 3 | 0 | 77% | $454,714 | -$44,219 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | tennischamp | 10 | 1 | 0 | 91% | $404,732 | +$98,624 |
 | xifutloong3 | 4 | 9 | 0 | 31% | $404,325 | -$226,872 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | — | ⏳ Pendiente |
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
 | zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.82 (55¢) | $38,640 | -$38,640 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $48,441 | +$61,653 | ✅ Ganada |
 | aenews2 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.33 (43¢) | $34,292 | +$45,457 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 2.27 (44¢) | $289,612 | +$368,598 | ✅ Ganada |
-| Donghui | Monterrey Open: Ekaterina Alexandrova vs Clara Tauson | Clara Tauson | 1.96 (51¢) | $26,196 | +$25,168 | ✅ Ganada |
