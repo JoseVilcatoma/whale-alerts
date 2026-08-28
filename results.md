@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 08:06:15 (hora de Perú)
+Actualizado: 2026-08-28 08:08:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1236**  ($68,330,073 en total)
-- Resueltas: **1226** — 715 ganadas / 511 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Resueltas: **1228** — 716 ganadas / 512 perdidas (**58%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 239
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,505,555** sobre $67,889,458 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,386** sobre $120,300 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,498,624** sobre $67,941,390 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,407** sobre $120,500 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,8 +76,8 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | +$15,122 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | — | ⏳ Pendiente |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | — | ⏳ Pendiente |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | -$26,732 | ❌ Perdida |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.41 (71¢) | $35,808 | +$14,626 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | -$25,187 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | +$17,092 | ✅ Ganada |
