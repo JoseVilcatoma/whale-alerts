@@ -18738,5 +18738,20 @@
     "status": "pending",
     "ultimo_fill": 1787956129,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2574,
+    "timestamp": 1787956138,
+    "username": "k-g-s",
+    "wallet": "0x188f5f37f2592a9048db4aa5aaf066347c00c19d",
+    "slug": "mlb-sea-tor-2026-08-28",
+    "title": "Seattle Mariners vs. Toronto Blue Jays",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 28042.999998999996,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1787956138,
+    "fills": 1
   }
 ]
