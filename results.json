@@ -18513,5 +18513,20 @@
     "status": "pending",
     "ultimo_fill": 1787910909,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2548,
+    "timestamp": 1787911399,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "lol-tt-ig1-2026-08-28-game2",
+    "title": "LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 50626.0447,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1787911399,
+    "fills": 1
   }
 ]
