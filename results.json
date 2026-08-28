@@ -18423,5 +18423,20 @@
     "status": "lost",
     "ultimo_fill": 1787881082,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2541,
+    "timestamp": 1787904449,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-bro2-fox1-2026-08-28-game1",
+    "title": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 79514.7505,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787904457,
+    "fills": 2
   }
 ]
