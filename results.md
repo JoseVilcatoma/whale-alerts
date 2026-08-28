@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 04:04:02 (hora de Perú)
+Actualizado: 2026-08-28 04:06:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1226**  ($67,833,454 en total)
+- Apuestas registradas: **1227**  ($67,858,641 en total)
 - Resueltas: **1221** — 711 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 1
-- Apostadores distintos: 237
+- Pendientes: 2
+- Apostadores distintos: 238
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
-_(mostrando los 40 de mayor monto, de 237 en total)_
+_(mostrando los 40 de mayor monto, de 238 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner | BNK FEARX | 1.85 (54¢) | $79,515 | — | ⏳ Pendiente |
 | fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | -$90,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 237 en total)_
 | tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | -$29,499 | ❌ Perdida |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | +$2,220 | ✅ Ganada |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | +$8,835 | ✅ Ganada |
-| WTSA | Will Deportivo Toluca FC win on 2026-08-26? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |

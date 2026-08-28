@@ -18438,5 +18438,20 @@
     "status": "pending",
     "ultimo_fill": 1787904457,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2543,
+    "timestamp": 1787907882,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "lol-bro2-fox1-2026-08-28-game2",
+    "title": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 25186.8009,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787907882,
+    "fills": 1
   }
 ]
