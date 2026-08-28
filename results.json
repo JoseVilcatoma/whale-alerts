@@ -18453,5 +18453,20 @@
     "status": "pending",
     "ultimo_fill": 1787907882,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2544,
+    "timestamp": 1787907738,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-aur1-dendel-2026-08-28",
+    "title": "Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 57221.44890000001,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1787907738,
+    "fills": 1
   }
 ]

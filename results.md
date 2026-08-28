@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 04:06:04 (hora de Perú)
+Actualizado: 2026-08-28 04:08:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1227**  ($67,858,641 en total)
+- Apuestas registradas: **1228**  ($67,915,863 en total)
 - Resueltas: **1221** — 711 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 238
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 111 | 71 | 2 | 61% | $13,685,941 | +$809,857 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 111 | 71 | 3 | 61% | $13,743,162 | +$809,857 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 0 | 58% | $3,918,549 | +$58,936 |
 | 111111111115 | 35 | 22 | 1 | 61% | $3,204,815 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | — | ⏳ Pendiente |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner | BNK FEARX | 1.85 (54¢) | $79,515 | — | ⏳ Pendiente |
 | fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | -$90,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 | laozishudaosan | Toronto Tempo vs. Seattle Storm: O/U 174.5 | Under 174.5 | 2.04 (49¢) | $26,349 | +$27,425 | ✅ Ganada |
 | tennischamp | Monterrey Open: Maja Chwalinska vs Alycia Parks | Maja Chwalinska | 1.27 (79¢) | $29,499 | -$29,499 | ❌ Perdida |
 | 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $29,497 | +$2,220 | ✅ Ganada |
-| 0F62 | Will Athletic Club win on 2026-08-27? | No | 1.08 (93¢) | $117,382 | +$8,835 | ✅ Ganada |
