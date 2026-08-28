@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 19:28:53 (hora de Perú)
+Actualizado: 2026-08-27 19:30:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1220**  ($67,458,664 en total)
+- Apuestas registradas: **1221**  ($67,483,940 en total)
 - Resueltas: **1197** — 693 ganadas / 504 perdidas (**58%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 236
+- Pendientes: 20
+- Apostadores distintos: 237
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 | dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
-_(mostrando los 40 de mayor monto, de 236 en total)_
+_(mostrando los 40 de mayor monto, de 237 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IdentityV | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.52 (66¢) | $25,275 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.22 (45¢) | $48,399 | — | ⏳ Pendiente |
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $95,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $120,386 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 236 en total)_
 | Weaseloftheweek | Milwaukee Brewers vs. New York Mets: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $37,595 | +$40,728 | ✅ Ganada |
 | Winnerdinnerchickenjr | Houston Astros vs. New York Yankees | New York Yankees | 1.85 (54¢) | $43,723 | +$37,246 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. New York Yankees | Houston Astros | 2.13 (47¢) | $31,333 | -$31,333 | ❌ Perdida |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $74,074 | +$63,100 | ✅ Ganada |
