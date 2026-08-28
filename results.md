@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 06:37:55 (hora de Perú)
+Actualizado: 2026-08-28 06:39:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1234**  ($68,133,915 en total)
-- Resueltas: **1222** — 712 ganadas / 510 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1223** — 713 ganadas / 510 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 238
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,483,902** sobre $67,720,615 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,386** sobre $119,900 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,500,994** sobre $67,777,837 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,356** sobre $120,000 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 111 | 71 | 3 | 61% | $13,743,162 | +$809,857 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 112 | 71 | 2 | 61% | $13,743,162 | +$826,949 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 0 | 58% | $3,918,549 | +$58,936 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 238 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.41 (71¢) | $35,808 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | +$17,092 | ✅ Ganada |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner | BNK FEARX | 1.85 (54¢) | $79,515 | +$67,735 | ✅ Ganada |
 | fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | -$90,000 | ❌ Perdida |
