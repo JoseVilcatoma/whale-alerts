@@ -23,10 +23,6 @@
     "username": "Mysaria",
     "added_at": 1786412382.9583848
   },
-  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
-    "username": "donthackme",
-    "added_at": 1786425432.4631479
-  },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "SPCEXBUYER",
     "added_at": 1786714708.2799232
@@ -54,14 +50,6 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1787286377.125303
-  },
-  "0xc35049bc7b6bd28a49a40b261466ca91aad63669": {
-    "username": "ScroooogeMcDuck",
-    "added_at": 1787287280.282755
-  },
-  "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3": {
-    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-    "added_at": 1787292698.6825852
   },
   "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82": {
     "username": "justdance",
@@ -434,5 +422,9 @@
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1787876466.3365436
+  },
+  "0xc3acf5878a03523d09a3ac859943445d7baeb964": {
+    "username": "mentionmarket",
+    "added_at": 1787901476.0311897
   }
 }

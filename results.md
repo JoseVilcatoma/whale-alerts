@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-27 20:58:57 (hora de Perú)
+Actualizado: 2026-08-28 02:19:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1225**  ($67,753,940 en total)
-- Resueltas: **1215** — 709 ganadas / 506 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Resueltas: **1221** — 711 ganadas / 510 perdidas (**58%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 237
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,621,150** sobre $67,300,666 apostados (ROI **+2.4%**)
-- Copiando $100 fijo en cada una: **-$6,256** sobre $119,200 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,416,167** sobre $67,641,101 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,472** sobre $119,800 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 111 | 70 | 3 | 61% | $13,685,941 | +$929,857 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 52 | 39 | 2 | 57% | $3,918,549 | -$6,081 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 111 | 71 | 2 | 61% | $13,685,941 | +$809,857 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 0 | 58% | $3,918,549 | +$58,936 |
 | 111111111115 | 35 | 22 | 0 | 61% | $3,125,301 | +$1,004,136 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 24 | 18 | 0 | 57% | $2,424,941 | -$81,243 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 237 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | — | ⏳ Pendiente |
-| Nooserac | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
+| fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
+| coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | -$90,000 | ❌ Perdida |
+| Nooserac | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $120,000 | -$120,000 | ❌ Perdida |
 | IdentityV | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.52 (66¢) | $25,275 | +$13,021 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.22 (45¢) | $48,399 | -$48,399 | ❌ Perdida |
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $95,000 | +$95,000 | ✅ Ganada |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 237 en total)_
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | +$32,171 | ✅ Ganada |
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | +$35,377 | ✅ Ganada |
 | AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | +$26,617 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | +$28,869 | ✅ Ganada |
 | kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | +$172,463 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | +$66,396 | ✅ Ganada |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 237 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | -$70,124 | ❌ Perdida |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $28,632 | +$26,429 | ✅ Ganada |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $78,000 | +$72,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
 | flawfence | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $193,883 | +$171,934 | ✅ Ganada |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
