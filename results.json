@@ -18693,5 +18693,50 @@
     "status": "pending",
     "ultimo_fill": 1787955863,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2571,
+    "timestamp": 1787956039,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-mia-wsh-2026-08-28-total-8pt5",
+    "title": "Miami Marlins vs. Washington Nationals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1787956039,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2572,
+    "timestamp": 1787956062,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-col-atl-2026-08-28",
+    "title": "Colorado Rockies vs. Atlanta Braves",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1787956062,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2573,
+    "timestamp": 1787956129,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-bos-nyy-2026-08-28",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 27289.174,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1787956129,
+    "fills": 1
   }
 ]

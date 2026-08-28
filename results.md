@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 17:26:49 (hora de Perú)
+Actualizado: 2026-08-28 17:28:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1243**  ($68,665,970 en total)
+- Apuestas registradas: **1246**  ($68,750,259 en total)
 - Resueltas: **1231** — 718 ganadas / 513 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Pendientes: 11
 - Apostadores distintos: 239
 
 ### Balance
@@ -25,10 +25,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 112 | 71 | 3 | 61% | $13,775,162 | +$826,949 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 0 | 58% | $3,918,549 | +$58,936 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 1 | 58% | $3,950,549 | +$58,936 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 24 | 18 | 0 | 57% | $2,424,941 | -$81,243 |
+| AV23IUa | 24 | 18 | 1 | 57% | $2,449,941 | -$81,243 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | pleaseplease123 | 27 | 17 | 1 | 61% | $2,071,630 | +$292,190 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
+| AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 239 en total)_
 | LOL-eric | LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In | Nongshim Red Force | 1.75 (57¢) | $31,502 | -$31,502 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Benito Sanchez Martinez | 1.52 (66¢) | $64,967 | +$33,468 | ✅ Ganada |
 | Weaseloftheweek | Augsburg: Benito Sanchez Martinez vs Hynek Barton | Hynek Barton | 2.94 (34¢) | $68,000 | -$68,000 | ❌ Perdida |
-| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner | Nongshim Red Force | 1.82 (55¢) | $30,826 | -$30,826 | ❌ Perdida |
-| kahe | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $41,000 | -$41,000 | ❌ Perdida |
-| ValorieCat | Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B | Vitality | 1.16 (86¢) | $28,007 | -$28,007 | ❌ Perdida |
