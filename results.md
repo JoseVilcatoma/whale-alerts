@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 18:43:16 (hora de Perú)
+Actualizado: 2026-08-28 18:45:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1250**  ($68,968,969 en total)
+- Apuestas registradas: **1251**  ($68,994,260 en total)
 - Resueltas: **1233** — 719 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 242
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 10 | 4 | 0 | 71% | $488,555 | -$78,060 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | tennischamp | 10 | 1 | 1 | 91% | $435,232 | +$98,624 |
+| xifutloong3 | 4 | 9 | 1 | 31% | $429,615 | -$226,872 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
-| xifutloong3 | 4 | 9 | 0 | 31% | $404,325 | -$226,872 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | — | ⏳ Pendiente |
 | Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 | ExplosiveNinja | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | 9z | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-08-16? | No | 1.96 (51¢) | $38,600 | +$37,086 | ✅ Ganada |
 | HBAFlover98 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $27,691 | -$27,691 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | 9z | 1.61 (62¢) | $34,910 | -$34,910 | ❌ Perdida |
