@@ -18633,5 +18633,50 @@
     "status": "pending",
     "ultimo_fill": 1787952017,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2567,
+    "timestamp": 1787953839,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-was-bal-2026-08-28",
+    "title": "Commanders vs. Ravens",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1787953839,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2568,
+    "timestamp": 1787953846,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sd-tb-2026-08-28",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 47178.391200000005,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1787953846,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2569,
+    "timestamp": 1787953846,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-sd-tb-2026-08-28",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 50251.698000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787953846,
+    "fills": 1
   }
 ]
