@@ -20148,5 +20148,20 @@
     "status": "pending",
     "ultimo_fill": 1788034991,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2742,
+    "timestamp": 1788035933,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-sd-tb-2026-08-29",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 27067.009200000004,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1788035933,
+    "fills": 1
   }
 ]
