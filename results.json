@@ -19053,5 +19053,20 @@
     "status": "pending",
     "ultimo_fill": 1787991929,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2621,
+    "timestamp": 1787993391,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "cs2-vit-9z-2026-08-29-map-handicap-away-1pt5",
+    "title": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 33917.393,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1787993391,
+    "fills": 1
   }
 ]
