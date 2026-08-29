@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 19:09:58 (hora de Perú)
+Actualizado: 2026-08-28 19:12:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1253**  ($69,068,521 en total)
+- Apuestas registradas: **1254**  ($69,206,760 en total)
 - Resueltas: **1233** — 719 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 242
 
 ### Balance
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
+| 007theone1 | 5 | 0 | 1 | ⚠️ 100% (5) | $372,053 | +$73,440 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
-| dauntlesswitness | 4 | 2 | 0 | ⚠️ 67% (6) | $299,201 | -$34,685 |
 
 _(mostrando los 40 de mayor monto, de 242 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | — | ⏳ Pendiente |
 | 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | — | ⏳ Pendiente |
 | 0F62 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.11 (90¢) | $42,607 | — | ⏳ Pendiente |
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B | Team Falcons | 1.09 (92¢) | $41,847 | +$3,639 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ | 2.50 (40¢) | $64,790 | +$97,184 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | MOUZ | 1.54 (65¢) | $26,292 | +$14,157 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B | 9z | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
