@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 10:48:20 (hora de Perú)
+Actualizado: 2026-08-29 10:50:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1292**  ($71,194,566 en total)
+- Apuestas registradas: **1293**  ($71,297,126 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 250
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 0 | 59% | $2,138,830 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
+| ripley86alien | 9 | 3 | 1 | 75% | $1,694,270 | +$1,026,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
 | Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
 | zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | -$29,907 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | +$19,359 | ✅ Ganada |
