@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 02:46:53 (hora de Perú)
+Actualizado: 2026-08-29 02:48:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1264**  ($69,631,195 en total)
+- Apuestas registradas: **1265**  ($69,665,195 en total)
 - Resueltas: **1254** — 731 ganadas / 523 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 245
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | goweibo123 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $61,151 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 | Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Alycia Parks vs Ann Li | Ann Li | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | -$70,124 | ❌ Perdida |
-| casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $28,632 | +$26,429 | ✅ Ganada |
