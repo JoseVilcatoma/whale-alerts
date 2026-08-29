@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:04:59 (hora de Perú)
+Actualizado: 2026-08-28 21:07:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1259**  ($69,443,224 en total)
-- Resueltas: **1238** — 723 ganadas / 515 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Resueltas: **1240** — 724 ganadas / 516 perdidas (**58%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,757,007** sobre $68,491,878 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$6,198** sobre $121,500 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,752,636** sobre $68,589,308 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$6,213** sobre $121,700 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,14 +29,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
-| pleaseplease123 | 27 | 17 | 2 | 61% | $2,138,830 | +$292,190 |
+| pleaseplease123 | 27 | 18 | 1 | 60% | $2,138,830 | +$245,012 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 5 | 1 | 69% | $1,160,375 | -$318,408 |
 | kilian7kilian | 7 | 1 | 0 | 88% | $1,090,137 | +$550,078 |
-| Weaseloftheweek | 10 | 12 | 1 | 45% | $1,036,787 | -$187,128 |
+| Weaseloftheweek | 11 | 12 | 0 | 48% | $1,036,787 | -$144,321 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
@@ -88,8 +88,8 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
-| pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
-| Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | -$47,178 | ❌ Perdida |
+| Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | +$42,807 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | +$17,912 | ✅ Ganada |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
