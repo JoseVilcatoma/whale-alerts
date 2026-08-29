@@ -19788,5 +19788,20 @@
     "status": "pending",
     "ultimo_fill": 1788027795,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2700,
+    "timestamp": 1788028190,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "lal-sev-mad-2026-08-29-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788028190,
+    "fills": 1
   }
 ]
