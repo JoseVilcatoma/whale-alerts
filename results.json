@@ -19983,5 +19983,20 @@
     "status": "pending",
     "ultimo_fill": 1788030931,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2719,
+    "timestamp": 1788031625,
+    "username": "0x6db5\u2026e279",
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "slug": "cfb-ncar-tcu-2026-08-29",
+    "title": "North Carolina vs. TCU",
+    "outcome": "North Carolina",
+    "side": "BUY",
+    "usd": 74999.39998899998,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1788031625,
+    "fills": 1
   }
 ]

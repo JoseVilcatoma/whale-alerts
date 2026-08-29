@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:26:30 (hora de Perú)
+Actualizado: 2026-08-29 14:28:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1329**  ($73,184,464 en total)
+- Apuestas registradas: **1330**  ($73,259,463 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 35
-- Apostadores distintos: 254
+- Pendientes: 36
+- Apostadores distintos: 255
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
-_(mostrando los 40 de mayor monto, de 254 en total)_
+_(mostrando los 40 de mayor monto, de 255 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | — | ⏳ Pendiente |
 | 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Club Atlético de Madrid win on 2026-08-29? | No | 2.04 (49¢) | $36,285 | — | ⏳ Pendiente |
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 254 en total)_
 | wr0ngw4yb3tt0r | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Alex Perez | 2.94 (34¢) | $48,243 | -$48,243 | ❌ Perdida |
 | Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | +$38,636 | ✅ Ganada |
 | kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | -$398,652 | ❌ Perdida |
-| AnonymousUsername | Will Nottingham Forest FC win on 2026-08-29? | No | 1.16 (86¢) | $31,789 | +$5,175 | ✅ Ganada |
