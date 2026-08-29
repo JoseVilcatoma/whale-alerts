@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:47:00 (hora de Perú)
+Actualizado: 2026-08-29 15:49:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1341**  ($73,689,513 en total)
-- Resueltas: **1302** — 760 ganadas / 542 perdidas (**58%** de acierto)
-- Pendientes: 35
+- Resueltas: **1303** — 760 ganadas / 543 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,192,918** sobre $71,789,750 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,999** sobre $127,900 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,163,700** sobre $71,818,968 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,099** sobre $128,000 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 25 | 19 | 4 | 57% | $2,755,428 | -$86,272 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
+| pleaseplease123 | 27 | 20 | 1 | 57% | $2,196,980 | +$148,594 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 3 | 2 | 79% | $2,050,985 | +$1,101,246 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | +$43,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Racing Club de Lens win on 2026-08-29? | No | 1.32 (76¢) | $69,783 | +$22,037 | ✅ Ganada |
 | 0x0b08…02ab | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $44,551 | -$44,551 | ❌ Perdida |
-| pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | — | ⏳ Pendiente |
+| pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | -$29,218 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 1.52 (66¢) | $30,645 | +$15,787 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will ACF Fiorentina win on 2026-08-29? | Yes | 1.82 (55¢) | $32,992 | -$32,992 | ❌ Perdida |
 | NiNo999 | Will ACF Fiorentina win on 2026-08-29? | No | 2.22 (45¢) | $25,000 | +$30,556 | ✅ Ganada |
