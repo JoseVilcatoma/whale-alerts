@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 12:56:36 (hora de Perú)
+Actualizado: 2026-08-29 12:58:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1312**  ($72,114,226 en total)
+- Apuestas registradas: **1313**  ($72,146,626 en total)
 - Resueltas: **1284** — 749 ganadas / 535 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 251
 
 ### Balance
@@ -41,10 +41,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
+| SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| SDTrading | 9 | 10 | 1 | 47% | $605,751 | -$57,496 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | — | ⏳ Pendiente |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | -$36,967 | ❌ Perdida |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | +$15,360 | ✅ Ganada |
-| 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | +$6,029 | ✅ Ganada |
