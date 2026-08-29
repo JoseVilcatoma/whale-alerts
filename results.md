@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:43:34 (hora de Perú)
+Actualizado: 2026-08-29 13:45:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1325**  ($72,995,717 en total)
-- Resueltas: **1286** — 749 ganadas / 537 perdidas (**58%** de acierto)
-- Pendientes: 35
+- Resueltas: **1288** — 750 ganadas / 538 perdidas (**58%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 253
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,097,537** sobre $71,019,443 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,058** sobre $126,300 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,088,713** sobre $71,073,721 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,080** sobre $126,500 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 7 | 0 | 61% | $1,208,618 | -$400,650 |
 | Weaseloftheweek | 11 | 12 | 1 | 48% | $1,080,860 | -$144,321 |
-| vito3corleone | 8 | 4 | 2 | 67% | $1,012,325 | +$537,348 |
+| vito3corleone | 8 | 5 | 1 | 62% | $1,012,325 | +$508,525 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
@@ -97,12 +97,12 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 1.52 (66¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will ACF Fiorentina win on 2026-08-29? | Yes | 1.82 (55¢) | $32,992 | — | ⏳ Pendiente |
 | NiNo999 | Will ACF Fiorentina win on 2026-08-29? | No | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-08-29? | No | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-08-29? | No | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | NiNo999 | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $26,108 | -$26,108 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | — | ⏳ Pendiente |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | — | ⏳ Pendiente |
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
-| vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | — | ⏳ Pendiente |
+| vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | -$28,824 | ❌ Perdida |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
 | Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
