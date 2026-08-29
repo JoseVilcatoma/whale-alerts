@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:56:42 (hora de Perú)
+Actualizado: 2026-08-29 00:09:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1260**  ($69,474,424 en total)
-- Resueltas: **1248** — 729 ganadas / 519 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1252** — 729 ganadas / 523 perdidas (**58%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,721,657** sobre $68,839,189 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,286** sobre $122,500 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,463,053** sobre $69,097,793 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,686** sobre $122,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 71 | 2 | 61% | $13,775,162 | +$844,949 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 40 | 1 | 58% | $4,032,693 | +$62,432 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 0 | 57% | $4,032,693 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
-| pleaseplease123 | 27 | 18 | 1 | 60% | $2,138,830 | +$245,012 |
+| pleaseplease123 | 27 | 19 | 0 | 59% | $2,138,830 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -73,9 +73,9 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 |---|---|---|---|---|---|---|
 | sulumos | Will Racing Club de Lens win on 2026-08-29? | No | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | ethanaz | Texans vs. Panthers | Panthers | 1.25 (80¢) | $28,997 | +$7,249 | ✅ Ganada |
-| Holtur95 | Monterrey Open: Nikola Bartunkova vs Elise Mertens | Nikola Bartunkova | 1.85 (54¢) | $38,947 | — | ⏳ Pendiente |
-| pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | — | ⏳ Pendiente |
+| Holtur95 | Monterrey Open: Nikola Bartunkova vs Elise Mertens | Nikola Bartunkova | 1.85 (54¢) | $38,947 | -$38,947 | ❌ Perdida |
+| pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | -$67,200 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | -$36,967 | ❌ Perdida |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | — | ⏳ Pendiente |
 | 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | +$6,029 | ✅ Ganada |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | +$25,291 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | +$35,496 | ✅ Ganada |
 | Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
-| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | — | ⏳ Pendiente |
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | -$115,490 | ❌ Perdida |
 | k-g-s | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners | 2.27 (44¢) | $28,043 | -$28,043 | ❌ Perdida |
 | monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | +$19,761 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
