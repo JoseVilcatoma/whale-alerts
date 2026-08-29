@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:32:34 (hora de Perú)
+Actualizado: 2026-08-29 15:34:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1340**  ($73,662,446 en total)
-- Resueltas: **1301** — 759 ganadas / 542 perdidas (**58%** de acierto)
-- Pendientes: 35
+- Resueltas: **1302** — 760 ganadas / 542 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,188,118** sobre $71,764,550 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$7,018** sobre $127,800 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,192,918** sobre $71,789,750 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,999** sobre $127,900 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| 0b1 | 15 | 0 | 4 | 100% | $646,452 | +$58,994 |
+| 0b1 | 16 | 0 | 3 | 100% | $646,452 | +$63,794 |
 | SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | — | ⏳ Pendiente |
 | RN1 | Will Sevilla FC vs. Club Atlético de Madrid end in a draw? | No | 1.39 (72¢) | $25,774 | — | ⏳ Pendiente |
 | 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | +$4,787 | ✅ Ganada |
-| 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
+| 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Club Atlético de Madrid win on 2026-08-29? | No | 2.04 (49¢) | $36,285 | — | ⏳ Pendiente |
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | — | ⏳ Pendiente |
