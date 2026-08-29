@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 04:13:05 (hora de Perú)
+Actualizado: 2026-08-29 04:15:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1268**  ($69,756,235 en total)
+- Apuestas registradas: **1271**  ($70,288,409 en total)
 - Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 245
+- Pendientes: 11
+- Apostadores distintos: 246
 
 ### Balance
 
@@ -32,10 +32,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 27 | 19 | 0 | 59% | $2,138,830 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
+| kilian7kilian | 7 | 1 | 1 | 88% | $1,488,789 | +$550,078 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 6 | 0 | 65% | $1,160,375 | -$352,408 |
-| kilian7kilian | 7 | 1 | 0 | 88% | $1,090,137 | +$550,078 |
 | Weaseloftheweek | 11 | 12 | 0 | 48% | $1,036,787 | -$144,321 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
@@ -62,15 +62,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 2 | 3 | ⚠️ 60% (5) | $330,403 | -$2,370 |
 | sulumos | 0 | 5 | 2 | ⚠️ 0% (5) | $317,923 | -$260,800 |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 
-_(mostrando los 40 de mayor monto, de 245 en total)_
+_(mostrando los 40 de mayor monto, de 246 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | — | ⏳ Pendiente |
+| AnonymousUsername | Will Nottingham Forest FC win on 2026-08-29? | No | 1.16 (86¢) | $31,789 | — | ⏳ Pendiente |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.86 (35¢) | $101,732 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality | 1.89 (53¢) | $33,917 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B | Vitality | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 | pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | +$35,377 | ✅ Ganada |
 | AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $28,835 | +$26,617 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $31,275 | +$28,869 | ✅ Ganada |
-| kilian7kilian | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $194,480 | +$172,463 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | +$66,396 | ✅ Ganada |
