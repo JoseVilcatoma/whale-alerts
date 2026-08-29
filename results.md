@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 11:29:09 (hora de Perú)
+Actualizado: 2026-08-29 11:31:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1302**  ($71,635,324 en total)
+- Apuestas registradas: **1303**  ($71,664,541 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 251
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
-| pleaseplease123 | 27 | 19 | 0 | 59% | $2,138,830 | +$177,812 |
+| pleaseplease123 | 27 | 19 | 1 | 59% | $2,168,047 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 2 | 75% | $1,783,702 | +$1,026,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 1.52 (66¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will ACF Fiorentina win on 2026-08-29? | Yes | 1.82 (55¢) | $32,992 | — | ⏳ Pendiente |
 | NiNo999 | Will ACF Fiorentina win on 2026-08-29? | No | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | +$19,761 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | -$34,000 | ❌ Perdida |
