@@ -18933,5 +18933,20 @@
     "status": "won",
     "ultimo_fill": 1787968724,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2602,
+    "timestamp": 1787970507,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "fl1-str-rcl-2026-08-29-rcl",
+    "title": "Will Racing Club de Lens win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31200.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1787970507,
+    "fills": 1
   }
 ]

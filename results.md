@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:27:51 (hora de Perú)
+Actualizado: 2026-08-28 21:29:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1259**  ($69,443,224 en total)
+- Apuestas registradas: **1260**  ($69,474,424 en total)
 - Resueltas: **1246** — 728 ganadas / 518 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 243
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Will Racing Club de Lens win on 2026-08-29? | No | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
 | ethanaz | Texans vs. Panthers | Panthers | 1.25 (80¢) | $28,997 | +$7,249 | ✅ Ganada |
 | Holtur95 | Monterrey Open: Nikola Bartunkova vs Elise Mertens | Nikola Bartunkova | 1.85 (54¢) | $38,947 | — | ⏳ Pendiente |
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
 | flawfence | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $193,883 | +$171,934 | ✅ Ganada |
-| texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
