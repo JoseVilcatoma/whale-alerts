@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 20:16:48 (hora de Perú)
+Actualizado: 2026-08-28 20:18:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1255**  ($69,271,113 en total)
-- Resueltas: **1233** — 719 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Resueltas: **1234** — 720 ganadas / 514 perdidas (**58%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 242
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,690,506** sobre $68,329,295 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,392** sobre $121,000 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,726,001** sobre $68,374,471 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$6,313** sobre $121,100 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 112 | 71 | 3 | 61% | $13,775,162 | +$826,949 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 54 | 39 | 2 | 58% | $3,995,726 | +$58,936 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 39 | 1 | 59% | $3,995,726 | +$94,432 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 24 | 18 | 2 | 57% | $2,514,294 | -$81,243 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 | 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | — | ⏳ Pendiente |
 | 0F62 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.11 (90¢) | $42,607 | — | ⏳ Pendiente |
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | +$35,496 | ✅ Ganada |
 | Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | — | ⏳ Pendiente |
 | k-g-s | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners | 2.27 (44¢) | $28,043 | — | ⏳ Pendiente |
