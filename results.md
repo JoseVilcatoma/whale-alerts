@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 05:33:25 (hora de Perú)
+Actualizado: 2026-08-29 05:35:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1277**  ($70,596,206 en total)
+- Apuestas registradas: **1278**  ($70,638,664 en total)
 - Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 246
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Liverpool FC (-1.5) | Nottingham Forest FC | 1.75 (57¢) | $31,514 | — | ⏳ Pendiente |
 | NiNo999 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.27 (44¢) | $50,000 | — | ⏳ Pendiente |
 | NiNo999 | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $75,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 | IdentityV | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.52 (66¢) | $25,275 | +$13,021 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.22 (45¢) | $48,399 | -$48,399 | ❌ Perdida |
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $95,000 | +$95,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 2.00 (50¢) | $120,386 | +$120,386 | ✅ Ganada |

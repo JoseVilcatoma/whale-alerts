@@ -19203,5 +19203,20 @@
     "status": "pending",
     "ultimo_fill": 1787998892,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2631,
+    "timestamp": 1787999469,
+    "username": "fkcvffcjt",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "ufc-yan2-den5-2026-08-29",
+    "title": "UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card)",
+    "outcome": "Yan Xiaonan",
+    "side": "BUY",
+    "usd": 42457.909199999995,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787999469,
+    "fills": 1
   }
 ]
