@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 01:47:33 (hora de Perú)
+Actualizado: 2026-08-29 01:49:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1261**  ($69,504,470 en total)
-- Resueltas: **1252** — 729 ganadas / 523 perdidas (**58%** de acierto)
-- Pendientes: 5
+- Resueltas: **1254** — 731 ganadas / 523 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,463,053** sobre $69,097,793 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$6,686** sobre $122,900 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,498,413** sobre $69,266,032 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,608** sobre $123,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 007theone1 | 5 | 0 | 1 | ⚠️ 100% (5) | $372,053 | +$73,440 |
+| 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
@@ -78,12 +78,12 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | -$67,200 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | -$36,967 | ❌ Perdida |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | — | ⏳ Pendiente |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | +$15,360 | ✅ Ganada |
 | 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | +$6,029 | ✅ Ganada |
 | 0F62 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.11 (90¢) | $42,607 | +$4,734 | ✅ Ganada |
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | +$25,291 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | +$35,496 | ✅ Ganada |
-| Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
+| Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | -$115,490 | ❌ Perdida |
 | k-g-s | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners | 2.27 (44¢) | $28,043 | -$28,043 | ❌ Perdida |
 | monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | +$19,761 | ✅ Ganada |
