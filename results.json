@@ -18963,5 +18963,20 @@
     "status": "pending",
     "ultimo_fill": 1787982451,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2613,
+    "timestamp": 1787986210,
+    "username": "goweibo123",
+    "wallet": "0x893004f8d3297c5f79b7ad1264daa3f78b2918db",
+    "slug": "lol-t1-fox1-2026-08-29",
+    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 61150.683,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1787986210,
+    "fills": 1
   }
 ]
