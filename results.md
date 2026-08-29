@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:01:14 (hora de Perú)
+Actualizado: 2026-08-29 18:03:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1349**  ($74,103,116 en total)
+- Apuestas registradas: **1352**  ($74,251,088 en total)
 - Resueltas: **1324** — 773 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Pendientes: 24
 - Apostadores distintos: 255
 
 ### Balance
@@ -40,15 +40,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| 0b1 | 18 | 0 | 3 | 100% | $709,098 | +$68,557 |
+| 0b1 | 18 | 0 | 4 | 100% | $746,008 | +$68,557 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
+| WTSA | 3 | 7 | 1 | 30% | $607,523 | -$162,744 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
 | xifutloong3 | 5 | 9 | 3 | 36% | $513,691 | -$201,581 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
+| NiNo999 | 3 | 4 | 1 | ⚠️ 43% (7) | $348,618 | -$121,098 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
-| ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
 _(mostrando los 40 de mayor monto, de 255 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | — | ⏳ Pendiente |
+| NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | — | ⏳ Pendiente |
+| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | — | ⏳ Pendiente |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | -$25,742 | ❌ Perdida |
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | -$28,824 | ❌ Perdida |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | +$39,884 | ✅ Ganada |
-| Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | +$14,610 | ✅ Ganada |
-| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | +$35,680 | ✅ Ganada |
-| BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | +$8,374 | ✅ Ganada |

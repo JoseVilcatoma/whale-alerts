@@ -20283,5 +20283,50 @@
     "status": "pending",
     "ultimo_fill": 1788044283,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2774,
+    "timestamp": 1788044501,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "mls-mia-mim-2026-08-29-spread-home-1pt5",
+    "title": "Spread: Inter Miami CF (-1.5)",
+    "outcome": "Inter Miami CF",
+    "side": "BUY",
+    "usd": 76290.865,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788044501,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2775,
+    "timestamp": 1788044521,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "wta-parry-mertens-2026-08-29",
+    "title": "Monterrey Open: Diane Parry vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 34770.3434,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788044521,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2776,
+    "timestamp": 1788044541,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "cfb-sacst-emich-2026-08-29",
+    "title": "Sacramento State Hornets vs. Eastern Michigan",
+    "outcome": "Eastern Michigan",
+    "side": "BUY",
+    "usd": 36910.92,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1788044541,
+    "fills": 1
   }
 ]
