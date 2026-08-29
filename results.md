@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 03:36:06 (hora de Perú)
+Actualizado: 2026-08-29 03:38:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1267**  ($69,722,318 en total)
-- Resueltas: **1255** — 731 ganadas / 524 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 245
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,470,838** sobre $69,293,606 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$6,708** sobre $123,200 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,432,838** sobre $69,331,606 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,808** sobre $123,300 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 | sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | -$27,574 | ❌ Perdida |
-| Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
+| Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
 | goweibo123 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $61,151 | — | ⏳ Pendiente |
 | gransaaa | Spread: Juventus FC (-1.5) | Juventus FC | 1.79 (56¢) | $30,046 | — | ⏳ Pendiente |
 | sulumos | Will Racing Club de Lens win on 2026-08-29? | No | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
