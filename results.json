@@ -19308,5 +19308,35 @@
     "status": "lost",
     "ultimo_fill": 1788001097,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2656,
+    "timestamp": 1788014988,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "cs2-fut-lvg-2026-08-29",
+    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 98800.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1788014988,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2657,
+    "timestamp": 1788014266,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "cs2-fut-lvg-2026-08-29",
+    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "usd": 35062.6262,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788014266,
+    "fills": 1
   }
 ]
