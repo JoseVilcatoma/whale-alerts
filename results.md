@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:16:12 (hora de Perú)
+Actualizado: 2026-08-29 15:18:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1338**  ($73,599,700 en total)
+- Apuestas registradas: **1339**  ($73,631,754 en total)
 - Resueltas: **1300** — 758 ganadas / 542 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 255
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | — | ⏳ Pendiente |
 | Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | — | ⏳ Pendiente |
 | 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | Jsram | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | +$48,646 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | +$13,400 | ✅ Ganada |
-| flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
