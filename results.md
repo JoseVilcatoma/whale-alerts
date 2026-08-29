@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 05:48:05 (hora de Perú)
+Actualizado: 2026-08-29 05:50:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1279**  ($70,663,664 en total)
+- Apuestas registradas: **1280**  ($70,708,523 en total)
 - Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 246
 
 ### Balance
@@ -60,9 +60,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 2 | 4 | ⚠️ 60% (5) | $375,262 | -$2,370 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 2 | 3 | ⚠️ 60% (5) | $330,403 | -$2,370 |
 | sulumos | 0 | 5 | 2 | ⚠️ 0% (5) | $317,923 | -$260,800 |
 
 _(mostrando los 40 de mayor monto, de 246 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | — | ⏳ Pendiente |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | — | ⏳ Pendiente |
 | fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Liverpool FC (-1.5) | Nottingham Forest FC | 1.75 (57¢) | $31,514 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 | Nooserac | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $120,000 | -$120,000 | ❌ Perdida |
 | IdentityV | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.52 (66¢) | $25,275 | +$13,021 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.22 (45¢) | $48,399 | -$48,399 | ❌ Perdida |
