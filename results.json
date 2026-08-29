@@ -19248,5 +19248,20 @@
     "status": "pending",
     "ultimo_fill": 1788000537,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2634,
+    "timestamp": 1788000799,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-cov-hul-2026-08-29-total-2pt5",
+    "title": "Coventry City FC vs. Hull City AFC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 48646.2,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788000799,
+    "fills": 1
   }
 ]
