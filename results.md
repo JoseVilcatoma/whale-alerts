@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 10:50:20 (hora de Perú)
+Actualizado: 2026-08-29 10:52:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1293**  ($71,297,126 en total)
+- Apuestas registradas: **1295**  ($71,351,692 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 250
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | wr0ngw4yb3tt0r | 11 | 7 | 0 | 61% | $1,208,618 | -$400,650 |
 | Weaseloftheweek | 11 | 12 | 0 | 48% | $1,036,787 | -$144,321 |
-| vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
+| vito3corleone | 8 | 4 | 2 | 67% | $1,012,325 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
+| vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | — | ⏳ Pendiente |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
 | Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
-| zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
-| SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | -$29,907 | ❌ Perdida |
