@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:59:32 (hora de Perú)
+Actualizado: 2026-08-29 15:01:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1334**  ($73,440,023 en total)
-- Resueltas: **1291** — 752 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 39
+- Resueltas: **1296** — 755 ganadas / 541 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,100,886** sobre $71,180,625 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,028** sobre $126,800 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,100,595** sobre $71,527,357 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,143** sobre $127,300 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,13 +31,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 25 | 18 | 4 | 58% | $2,686,105 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 9 | 3 | 4 | 75% | $2,050,985 | +$1,026,583 |
+| ripley86alien | 11 | 3 | 2 | 79% | $2,050,985 | +$1,101,246 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 7 | 1 | 61% | $1,244,902 | -$400,650 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 12 | 1 | 48% | $1,080,860 | -$144,321 |
-| vito3corleone | 8 | 5 | 1 | 62% | $1,012,325 | +$508,525 |
+| vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-08-29? | No | 1.10 (91¢) | $82,850 | — | ⏳ Pendiente |
 | 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | — | ⏳ Pendiente |
 | RN1 | Will Sevilla FC vs. Club Atlético de Madrid end in a draw? | No | 1.39 (72¢) | $25,774 | — | ⏳ Pendiente |
-| 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | — | ⏳ Pendiente |
+| 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | +$4,787 | ✅ Ganada |
 | 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Club Atlético de Madrid win on 2026-08-29? | No | 2.04 (49¢) | $36,285 | — | ⏳ Pendiente |
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | — | ⏳ Pendiente |
@@ -108,11 +108,11 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | NiNo999 | Will ACF Fiorentina win on 2026-08-29? | No | 2.22 (45¢) | $25,000 | +$30,556 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-08-29? | No | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | NiNo999 | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $26,108 | -$26,108 | ❌ Perdida |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | — | ⏳ Pendiente |
-| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | — | ⏳ Pendiente |
-| vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | -$54,000 | ❌ Perdida |
+| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | +$34,779 | ✅ Ganada |
+| vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | -$25,742 | ❌ Perdida |
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | -$28,824 | ❌ Perdida |
-| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
+| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | +$39,884 | ✅ Ganada |
 | Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | +$14,610 | ✅ Ganada |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | +$8,374 | ✅ Ganada |
