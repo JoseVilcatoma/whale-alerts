@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:32:45 (hora de Perú)
+Actualizado: 2026-08-29 14:34:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1330**  ($73,259,463 en total)
+- Apuestas registradas: **1331**  ($73,285,237 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 255
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Will Sevilla FC vs. Club Atlético de Madrid end in a draw? | No | 1.39 (72¢) | $25,774 | — | ⏳ Pendiente |
 | 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | — | ⏳ Pendiente |
 | 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Club Atlético de Madrid win on 2026-08-29? | No | 2.04 (49¢) | $36,285 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | ferrariChampions2026 | UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card) | Levi Rodrigues Jr. | 2.56 (39¢) | $28,041 | -$28,041 | ❌ Perdida |
 | wr0ngw4yb3tt0r | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Alex Perez | 2.94 (34¢) | $48,243 | -$48,243 | ❌ Perdida |
 | Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | +$38,636 | ✅ Ganada |
-| kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | -$398,652 | ❌ Perdida |
