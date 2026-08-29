@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 11:56:15 (hora de Perú)
+Actualizado: 2026-08-29 11:58:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1309**  ($71,974,836 en total)
-- Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Resueltas: **1274** — 740 ganadas / 534 perdidas (**58%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 251
 
 ### Balance
 
-- **Resultado de los apostadores: +$836,505** sobre $70,380,997 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$7,392** sobre $125,000 (ROI **-5.9%**)
+- **Resultado de los apostadores: +$885,151** sobre $70,429,643 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$7,292** sobre $125,100 (ROI **-5.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
-| Jsram | 4 | 1 | 1 | ⚠️ 80% (5) | $345,986 | +$59,926 |
+| Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
 _(mostrando los 40 de mayor monto, de 251 en total)_
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | solo88888 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | BNK FEARX | 1.41 (71¢) | $32,503 | -$32,503 | ❌ Perdida |
 | myzbsq | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | Top Esports | 4.35 (23¢) | $52,148 | — | ⏳ Pendiente |
 | Jsram | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | — | ⏳ Pendiente |
+| Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | +$48,646 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | — | ⏳ Pendiente |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
 | fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | -$42,458 | ❌ Perdida |
