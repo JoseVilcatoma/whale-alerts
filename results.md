@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:34:14 (hora de Perú)
+Actualizado: 2026-08-29 18:36:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1358**  ($74,616,787 en total)
-- Resueltas: **1327** — 775 ganadas / 552 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Resueltas: **1328** — 776 ganadas / 552 perdidas (**58%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$970,951** sobre $73,134,145 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$6,968** sobre $130,400 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,051,951** sobre $73,203,145 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$6,850** sobre $130,500 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | -$32,400 | ❌ Perdida |
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | -$44,073 | ❌ Perdida |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
-| justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
+| justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
 | pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | +$35,354 | ✅ Ganada |
