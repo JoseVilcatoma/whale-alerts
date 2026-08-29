@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 04:35:48 (hora de Perú)
+Actualizado: 2026-08-29 04:37:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1272**  ($70,363,409 en total)
+- Apuestas registradas: **1274**  ($70,439,692 en total)
 - Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 14
 - Apostadores distintos: 246
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 1 | 1 | 88% | $1,488,789 | +$550,078 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| wr0ngw4yb3tt0r | 11 | 6 | 0 | 65% | $1,160,375 | -$352,408 |
+| wr0ngw4yb3tt0r | 11 | 6 | 1 | 65% | $1,208,618 | -$352,408 |
 | Weaseloftheweek | 11 | 12 | 0 | 48% | $1,036,787 | -$144,321 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
+| ferrariChampions2026 | 10 | 4 | 1 | 71% | $516,596 | -$78,060 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
-| ferrariChampions2026 | 10 | 4 | 0 | 71% | $488,555 | -$78,060 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | gransaaa | 4 | 5 | 1 | 44% | $436,239 | -$73,432 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card) | Levi Rodrigues Jr. | 2.56 (39¢) | $28,041 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Alex Perez | 2.94 (34¢) | $48,243 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | — | ⏳ Pendiente |
 | kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Nottingham Forest FC win on 2026-08-29? | No | 1.16 (86¢) | $31,789 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 | S-Works | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $82,806 | +$79,558 | ✅ Ganada |
 | ndb1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $52,041 | +$50,000 | ✅ Ganada |
 | Bertapotamous | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.96 (51¢) | $33,484 | +$32,171 | ✅ Ganada |
-| pleaseplease123 | Kansas City Royals vs. Toronto Blue Jays: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $33,990 | +$35,377 | ✅ Ganada |
-| AV23IUa | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |

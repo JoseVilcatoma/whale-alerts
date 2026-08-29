@@ -19128,5 +19128,35 @@
     "status": "pending",
     "ultimo_fill": 1787996076,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2626,
+    "timestamp": 1787996162,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-ale7-sum-2026-08-29",
+    "title": "UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card)",
+    "outcome": "Alex Perez",
+    "side": "BUY",
+    "usd": 48242.51840000001,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1787996162,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2627,
+    "timestamp": 1787996205,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-celiu-lev1-2026-08-29",
+    "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
+    "outcome": "Levi Rodrigues Jr.",
+    "side": "BUY",
+    "usd": 28041.0546,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1787996205,
+    "fills": 1
   }
 ]
