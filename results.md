@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 20:52:26 (hora de Perú)
+Actualizado: 2026-08-28 20:54:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1258**  ($69,414,227 en total)
-- Resueltas: **1236** — 722 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Resueltas: **1237** — 723 ganadas / 514 perdidas (**58%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,761,914** sobre $68,436,971 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$6,198** sobre $121,300 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,786,914** sobre $68,461,971 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$6,098** sobre $121,400 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 39 | 2 | 59% | $4,032,693 | +$94,432 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 24 | 18 | 2 | 57% | $2,514,294 | -$81,243 |
+| AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
 | pleaseplease123 | 27 | 17 | 2 | 61% | $2,138,830 | +$292,190 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | k-g-s | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners | 2.27 (44¢) | $28,043 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
-| AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
