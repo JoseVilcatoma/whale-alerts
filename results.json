@@ -18918,5 +18918,20 @@
     "status": "pending",
     "ultimo_fill": 1787967503,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2593,
+    "timestamp": 1787968724,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-hou-car-2026-08-28",
+    "title": "Texans vs. Panthers",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 28997.008,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1787968724,
+    "fills": 1
   }
 ]
