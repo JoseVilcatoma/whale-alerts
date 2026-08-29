@@ -19713,5 +19713,20 @@
     "status": "pending",
     "ultimo_fill": 1788024710,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2694,
+    "timestamp": 1788025739,
+    "username": "Weaseloftheweek",
+    "wallet": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+    "slug": "mlb-pit-stl-2026-08-29",
+    "title": "Pittsburgh Pirates vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 44073.4662,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788025739,
+    "fills": 1
   }
 ]
