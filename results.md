@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:40:12 (hora de Perú)
+Actualizado: 2026-08-28 21:42:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1260**  ($69,474,424 en total)
-- Resueltas: **1246** — 728 ganadas / 518 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1247** — 729 ganadas / 518 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,749,628** sobre $68,773,534 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,205** sobre $122,300 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,755,657** sobre $68,805,189 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$6,186** sobre $122,400 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| 0F62 | 11 | 1 | 1 | 92% | $629,043 | +$14,050 |
+| 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | — | ⏳ Pendiente |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | — | ⏳ Pendiente |
-| 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | — | ⏳ Pendiente |
+| 0F62 | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $31,654 | +$6,029 | ✅ Ganada |
 | 0F62 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.11 (90¢) | $42,607 | +$4,734 | ✅ Ganada |
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | +$25,291 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | +$35,496 | ✅ Ganada |
