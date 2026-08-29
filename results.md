@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 16:07:30 (hora de Perú)
+Actualizado: 2026-08-29 16:09:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1343**  ($73,781,248 en total)
-- Resueltas: **1313** — 766 ganadas / 547 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Resueltas: **1315** — 768 ganadas / 547 perdidas (**58%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,128,670** sobre $72,510,727 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,905** sobre $129,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,172,363** sobre $72,575,716 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,771** sobre $129,200 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | 0b1 | 16 | 0 | 4 | 100% | $672,592 | +$63,794 |
-| SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
+| SDTrading | 10 | 10 | 1 | 50% | $638,151 | -$21,816 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | — | ⏳ Pendiente |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | — | ⏳ Pendiente |
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | — | ⏳ Pendiente |
-| fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | — | ⏳ Pendiente |
+| fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |
 | Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | +$18,930 | ✅ Ganada |
 | 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | -$28,824 | ❌ Perdida |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | +$39,884 | ✅ Ganada |
 | Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | +$14,610 | ✅ Ganada |
-| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
+| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | +$35,680 | ✅ Ganada |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | +$8,374 | ✅ Ganada |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $31,409 | +$9,382 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.33 (75¢) | $26,110 | +$8,703 | ✅ Ganada |
