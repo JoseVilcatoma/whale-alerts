@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 02:50:59 (hora de Perú)
+Actualizado: 2026-08-29 02:53:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1265**  ($69,665,195 en total)
-- Resueltas: **1254** — 731 ganadas / 523 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Resueltas: **1255** — 731 ganadas / 524 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 245
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,498,413** sobre $69,266,032 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,608** sobre $123,100 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,470,838** sobre $69,293,606 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,708** sobre $123,200 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
-| timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | — | ⏳ Pendiente |
+| timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | -$27,574 | ❌ Perdida |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | goweibo123 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $61,151 | — | ⏳ Pendiente |
 | gransaaa | Spread: Juventus FC (-1.5) | Juventus FC | 1.79 (56¢) | $30,046 | — | ⏳ Pendiente |
