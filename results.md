@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 17:14:34 (hora de Perú)
+Actualizado: 2026-08-29 17:16:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1346**  ($73,916,864 en total)
+- Apuestas registradas: **1346**  ($73,959,808 en total)
 - Resueltas: **1322** — 771 ganadas / 551 perdidas (**58%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 255
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 11 | 7 | 2 | 61% | $1,310,253 | -$400,650 |
+| wr0ngw4yb3tt0r | 11 | 7 | 2 | 61% | $1,353,197 | -$400,650 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 |---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | — | ⏳ Pendiente |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,351 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | — | ⏳ Pendiente |
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | — | ⏳ Pendiente |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | — | ⏳ Pendiente |

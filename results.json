@@ -20203,11 +20203,11 @@
     "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "usd": 65350.9944,
+    "usd": 108294.9912,
     "odds_at_bet": 54,
     "status": "pending",
-    "ultimo_fill": 1788040512,
-    "fills": 2
+    "ultimo_fill": 1788040584,
+    "fills": 3
   },
   {
     "telegram_msg_id": 2764,
