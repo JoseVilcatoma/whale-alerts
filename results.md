@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:37:29 (hora de Perú)
+Actualizado: 2026-08-29 13:39:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1319**  ($72,571,815 en total)
+- Apuestas registradas: **1322**  ($72,826,995 en total)
 - Resueltas: **1284** — 749 ganadas / 535 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Pendientes: 34
 - Apostadores distintos: 252
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 25 | 18 | 2 | 58% | $2,544,323 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 9 | 3 | 3 | 75% | $1,893,052 | +$1,026,583 |
+| ripley86alien | 9 | 3 | 4 | 75% | $2,050,985 | +$1,026,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 252 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | — | ⏳ Pendiente |
+| ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | — | ⏳ Pendiente |
+| NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 252 en total)_
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
 | timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | -$27,574 | ❌ Perdida |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
-| goweibo123 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $61,151 | +$10,791 | ✅ Ganada |
-| gransaaa | Spread: Juventus FC (-1.5) | Juventus FC | 1.79 (56¢) | $30,046 | — | ⏳ Pendiente |
-| sulumos | Will Racing Club de Lens win on 2026-08-29? | No | 1.92 (52¢) | $31,200 | +$28,800 | ✅ Ganada |
