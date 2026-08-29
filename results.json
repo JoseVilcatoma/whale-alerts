@@ -19803,5 +19803,20 @@
     "status": "pending",
     "ultimo_fill": 1788028190,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2701,
+    "timestamp": 1788028509,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "fl1-lyo-hac-2026-08-29-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 62000.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1788028509,
+    "fills": 1
   }
 ]
