@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 20:44:02 (hora de Perú)
+Actualizado: 2026-08-28 20:46:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1258**  ($69,414,227 en total)
-- Resueltas: **1235** — 721 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Resueltas: **1236** — 722 ganadas / 514 perdidas (**58%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,744,001** sobre $68,406,471 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,257** sobre $121,200 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,761,914** sobre $68,436,971 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$6,198** sobre $121,300 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | ferrariChampions2026 | 10 | 4 | 0 | 71% | $488,555 | -$78,060 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| tennischamp | 10 | 1 | 1 | 91% | $435,232 | +$98,624 |
+| tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | xifutloong3 | 4 | 9 | 1 | 31% | $429,615 | -$226,872 |
 | gransaaa | 4 | 5 | 0 | 44% | $406,193 | -$73,432 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 0 | 60% | $399,926 | -$47,470 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
-| tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | — | ⏳ Pendiente |
+| tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | +$17,912 | ✅ Ganada |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
