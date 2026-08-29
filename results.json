@@ -20343,5 +20343,35 @@
     "status": "pending",
     "ultimo_fill": 1788045081,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2778,
+    "timestamp": 1788045111,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-parry-mertens-2026-08-29",
+    "title": "Monterrey Open: Diane Parry vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "usd": 27869.303999999996,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788045111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2779,
+    "timestamp": 1788045188,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-mayo-andrade-2026-08-29",
+    "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
+    "outcome": "Andres Andrade",
+    "side": "BUY",
+    "usd": 29999.999999,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788045188,
+    "fills": 1
   }
 ]
