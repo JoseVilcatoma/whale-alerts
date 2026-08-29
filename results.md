@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:25:46 (hora de Perú)
+Actualizado: 2026-08-28 21:27:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1259**  ($69,443,224 en total)
-- Resueltas: **1245** — 727 ganadas / 518 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Resueltas: **1246** — 728 ganadas / 518 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,742,378** sobre $68,744,537 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,230** sobre $122,200 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,749,628** sobre $68,773,534 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$6,205** sobre $122,300 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ethanaz | Texans vs. Panthers | Panthers | 1.25 (80¢) | $28,997 | — | ⏳ Pendiente |
+| ethanaz | Texans vs. Panthers | Panthers | 1.25 (80¢) | $28,997 | +$7,249 | ✅ Ganada |
 | Holtur95 | Monterrey Open: Nikola Bartunkova vs Elise Mertens | Nikola Bartunkova | 1.85 (54¢) | $38,947 | — | ⏳ Pendiente |
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | — | ⏳ Pendiente |
