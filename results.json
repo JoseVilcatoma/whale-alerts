@@ -20388,5 +20388,20 @@
     "status": "pending",
     "ultimo_fill": 1788045302,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2782,
+    "timestamp": 1788045591,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "cfb-sacst-emich-2026-08-29",
+    "title": "Sacramento State Hornets vs. Eastern Michigan",
+    "outcome": "Eastern Michigan",
+    "side": "BUY",
+    "usd": 25230.9638,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788045591,
+    "fills": 1
   }
 ]
