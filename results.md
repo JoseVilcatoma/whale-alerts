@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 11:49:58 (hora de Perú)
+Actualizado: 2026-08-29 11:52:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1308**  ($71,945,903 en total)
+- Apuestas registradas: **1309**  ($71,974,836 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 251
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | AV23IUa | 25 | 18 | 2 | 58% | $2,544,323 | -$56,243 |
-| pleaseplease123 | 27 | 19 | 1 | 59% | $2,168,047 | +$177,812 |
+| pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 2 | 75% | $1,783,702 | +$1,026,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | 0F62 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.11 (90¢) | $42,607 | +$4,734 | ✅ Ganada |
 | xifutloong3 | Houston Astros vs. New York Mets | Houston Astros | 2.00 (50¢) | $25,291 | +$25,291 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $45,177 | +$35,496 | ✅ Ganada |
-| Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
