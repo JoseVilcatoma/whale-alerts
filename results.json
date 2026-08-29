@@ -19938,5 +19938,20 @@
     "status": "pending",
     "ultimo_fill": 1788029883,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2716,
+    "timestamp": 1788030013,
+    "username": "bluemario",
+    "wallet": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+    "slug": "lal-sev-mad-2026-08-29-total-2pt5",
+    "title": "Sevilla FC vs. Club Atl\u00e9tico de Madrid: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 96198.21900000001,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788030013,
+    "fills": 1
   }
 ]
