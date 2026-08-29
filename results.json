@@ -19878,5 +19878,35 @@
     "status": "pending",
     "ultimo_fill": 1788028764,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2706,
+    "timestamp": 1788028812,
+    "username": "coltsmildx",
+    "wallet": "0xeafc018ccbca46db203ba57c3e798ce0e84fe4c4",
+    "slug": "mlb-col-atl-2026-08-29",
+    "title": "Colorado Rockies vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 26939.949999,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1788028812,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2707,
+    "timestamp": 1788028864,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-fery-buse-2026-08-29",
+    "title": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
+    "outcome": "Arthur Fery",
+    "side": "BUY",
+    "usd": 93412.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788028868,
+    "fills": 2
   }
 ]

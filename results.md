@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:39:34 (hora de Perú)
+Actualizado: 2026-08-29 13:41:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1322**  ($72,826,995 en total)
+- Apuestas registradas: **1324**  ($72,947,347 en total)
 - Resueltas: **1284** — 749 ganadas / 535 perdidas (**58%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 252
+- Pendientes: 36
+- Apostadores distintos: 253
 
 ### Balance
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 25 | 18 | 2 | 58% | $2,544,323 | -$56,243 |
+| AV23IUa | 25 | 18 | 3 | 58% | $2,637,735 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 4 | 75% | $2,050,985 | +$1,026,583 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
-_(mostrando los 40 de mayor monto, de 252 en total)_
+_(mostrando los 40 de mayor monto, de 253 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | — | ⏳ Pendiente |
+| coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | — | ⏳ Pendiente |
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | — | ⏳ Pendiente |
 | NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 252 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B | Vitality | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | +$5,309 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
-| timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | -$27,574 | ❌ Perdida |
-| Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | -$38,000 | ❌ Perdida |
