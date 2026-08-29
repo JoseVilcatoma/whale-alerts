@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 01:55:43 (hora de Perú)
+Actualizado: 2026-08-29 01:57:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1262**  ($69,565,621 en total)
+- Apuestas registradas: **1263**  ($69,603,621 en total)
 - Resueltas: **1254** — 731 ganadas / 523 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 244
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 244 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
 | goweibo123 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $61,151 | — | ⏳ Pendiente |
 | gransaaa | Spread: Juventus FC (-1.5) | Juventus FC | 1.79 (56¢) | $30,046 | — | ⏳ Pendiente |
 | sulumos | Will Racing Club de Lens win on 2026-08-29? | No | 1.92 (52¢) | $31,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 244 en total)_
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | -$70,124 | ❌ Perdida |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $28,632 | +$26,429 | ✅ Ganada |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $78,000 | +$72,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5 | Under 6.5 | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
