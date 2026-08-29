@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 10:52:25 (hora de Perú)
+Actualizado: 2026-08-29 10:54:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1295**  ($71,351,692 en total)
+- Apuestas registradas: **1296**  ($71,441,123 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 250
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 25 | 18 | 1 | 58% | $2,514,294 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 0 | 59% | $2,138,830 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 9 | 3 | 1 | 75% | $1,694,270 | +$1,026,583 |
+| ripley86alien | 9 | 3 | 2 | 75% | $1,783,702 | +$1,026,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | — | ⏳ Pendiente |
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | — | ⏳ Pendiente |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 | tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | +$17,912 | ✅ Ganada |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |
-| kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
