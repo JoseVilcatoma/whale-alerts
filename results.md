@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:13:43 (hora de Perú)
+Actualizado: 2026-08-29 18:15:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1355**  ($74,341,940 en total)
+- Apuestas registradas: **1356**  ($74,371,047 en total)
 - Resueltas: **1324** — 773 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 255
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| 0b1 | 18 | 0 | 4 | 100% | $746,008 | +$68,557 |
+| 0b1 | 18 | 0 | 5 | 100% | $775,115 | +$68,557 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 1 | 71% | $650,693 | +$58,660 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade | 1.79 (56¢) | $30,000 | — | ⏳ Pendiente |
 | HMLSF | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $27,869 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-08-29? | No | 1.79 (56¢) | $25,455 | +$20,000 | ✅ Ganada |
 | NiNo999 | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $26,108 | -$26,108 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | -$54,000 | ❌ Perdida |
-| ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | +$34,779 | ✅ Ganada |
