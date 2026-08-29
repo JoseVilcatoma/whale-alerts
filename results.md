@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 20:54:31 (hora de Perú)
+Actualizado: 2026-08-28 20:56:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1258**  ($69,414,227 en total)
-- Resueltas: **1237** — 723 ganadas / 514 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Resueltas: **1238** — 723 ganadas / 515 perdidas (**58%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,786,914** sobre $68,461,971 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$6,098** sobre $121,400 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,757,007** sobre $68,491,878 apostados (ROI **+2.6%**)
+- Copiando $100 fijo en cada una: **-$6,198** sobre $121,500 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| SDTrading | 9 | 9 | 1 | 50% | $572,816 | -$27,589 |
+| SDTrading | 9 | 10 | 0 | 47% | $572,816 | -$57,496 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |
 | kilian7kilian | Counter-Strike: G2 vs Spirit - Map 2 Winner | Spirit | 1.72 (58¢) | $168,189 | +$121,792 | ✅ Ganada |
 | zofgkt1111 | LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In | HANJIN BRION | 1.85 (54¢) | $27,969 | -$27,969 | ❌ Perdida |
-| SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | — | ⏳ Pendiente |
+| SDTrading | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.79 (56¢) | $29,907 | -$29,907 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A | Spirit | 1.39 (72¢) | $49,779 | +$19,359 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | +$15,122 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
