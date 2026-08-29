@@ -18993,5 +18993,20 @@
     "status": "pending",
     "ultimo_fill": 1787986631,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2615,
+    "timestamp": 1787986798,
+    "username": "timezonewarrior",
+    "wallet": "0x8f8c0eb3c2450ae709c2369bb61dd1b049e9e275",
+    "slug": "ufc-din2-camnel-2026-08-29",
+    "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
+    "outcome": "Ding Meng",
+    "side": "BUY",
+    "usd": 27574.204000000005,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1787986798,
+    "fills": 1
   }
 ]
