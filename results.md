@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:14:04 (hora de Perú)
+Actualizado: 2026-08-29 15:16:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1337**  ($73,571,305 en total)
-- Resueltas: **1296** — 755 ganadas / 541 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Apuestas registradas: **1338**  ($73,599,700 en total)
+- Resueltas: **1300** — 758 ganadas / 542 perdidas (**58%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,100,595** sobre $71,527,357 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,143** sobre $127,300 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,172,330** sobre $71,733,905 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,070** sobre $127,700 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 115 | 72 | 6 | 61% | $14,088,259 | +$842,697 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 25 | 18 | 5 | 58% | $2,755,428 | -$56,243 |
+| AV23IUa | 25 | 19 | 4 | 57% | $2,755,428 | -$86,272 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -50,11 +50,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 7 | 2 | 2 | 78% | $512,260 | +$238,838 |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | xifutloong3 | 5 | 9 | 1 | 36% | $455,932 | -$201,581 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 6 | 4 | 1 | 60% | $439,446 | -$47,470 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 7 | 4 | 0 | 64% | $439,446 | -$24,259 |
 | gransaaa | 4 | 5 | 1 | 44% | $436,239 | -$73,432 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | — | ⏳ Pendiente |
 | 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
 | AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $69,323 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | — | ⏳ Pendiente |
 | NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
-| HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | — | ⏳ Pendiente |
+| HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | — | ⏳ Pendiente |
@@ -100,9 +101,9 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | — | ⏳ Pendiente |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | — | ⏳ Pendiente |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | +$35,354 | ✅ Ganada |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | +$43,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Racing Club de Lens win on 2026-08-29? | No | 1.32 (76¢) | $69,783 | +$22,037 | ✅ Ganada |
 | 0x0b08…02ab | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $44,551 | -$44,551 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | +$48,646 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | +$13,400 | ✅ Ganada |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
-| fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | -$42,458 | ❌ Perdida |
