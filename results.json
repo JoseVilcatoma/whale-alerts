@@ -18873,5 +18873,35 @@
     "status": "pending",
     "ultimo_fill": 1787965878,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2586,
+    "timestamp": 1787967252,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-phi-laa-2026-08-28",
+    "title": "Philadelphia Phillies vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "usd": 36967.3536,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787967252,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2587,
+    "timestamp": 1787967329,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-bal-oak-2026-08-28",
+    "title": "Baltimore Orioles vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 67200.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1787967329,
+    "fills": 1
   }
 ]
