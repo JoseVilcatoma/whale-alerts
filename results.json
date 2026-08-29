@@ -19923,5 +19923,20 @@
     "status": "pending",
     "ultimo_fill": 1788028965,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2715,
+    "timestamp": 1788029883,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-navi-gx-2026-08-29",
+    "title": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 31063.43739,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788029883,
+    "fills": 1
   }
 ]

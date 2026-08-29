@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:57:54 (hora de Perú)
+Actualizado: 2026-08-29 13:59:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1325**  ($72,995,717 en total)
+- Apuestas registradas: **1326**  ($73,026,781 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 253
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | — | ⏳ Pendiente |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $48,371 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | — | ⏳ Pendiente |
 | coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.86 (35¢) | $101,732 | +$188,932 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality | 1.89 (53¢) | $33,917 | +$30,078 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B | Vitality | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
-| sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | +$5,309 | ✅ Ganada |
