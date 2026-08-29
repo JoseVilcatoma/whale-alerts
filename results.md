@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 17:07:30 (hora de Perú)
+Actualizado: 2026-08-29 17:09:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1346**  ($73,916,864 en total)
-- Resueltas: **1321** — 770 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 21
+- Resueltas: **1322** — 771 ganadas / 551 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$924,497** sobre $72,950,424 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$7,122** sobre $129,800 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$949,143** sobre $72,979,357 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$7,037** sobre $129,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 25 | 21 | 2 | 54% | $2,755,428 | -$228,055 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| pleaseplease123 | 27 | 20 | 1 | 57% | $2,196,980 | +$148,594 |
+| pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | -$44,073 | ❌ Perdida |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | — | ⏳ Pendiente |
-| pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | +$35,354 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | +$43,200 | ✅ Ganada |
