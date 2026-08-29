@@ -19188,5 +19188,20 @@
     "status": "pending",
     "ultimo_fill": 1787997069,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2630,
+    "timestamp": 1787998892,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-liv-not-2026-08-29-spread-home-1pt5",
+    "title": "Spread: Liverpool FC (-1.5)",
+    "outcome": "Nottingham Forest FC",
+    "side": "BUY",
+    "usd": 31513.669799999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1787998892,
+    "fills": 1
   }
 ]
