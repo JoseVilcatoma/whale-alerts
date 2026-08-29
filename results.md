@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 11:43:40 (hora de Perú)
+Actualizado: 2026-08-29 11:45:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1305**  ($71,778,876 en total)
+- Apuestas registradas: **1306**  ($71,855,676 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 251
 
 ### Balance
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 5 | 2 | 3 | ⚠️ 71% (7) | $452,062 | +$36,507 |
 | gransaaa | 4 | 5 | 1 | 44% | $436,239 | -$73,432 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | xifutloong3 | 5 | 9 | 0 | 36% | $429,615 | -$201,581 |
@@ -60,7 +61,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 5 | 2 | 2 | ⚠️ 71% (7) | $375,262 | +$36,507 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | Jsram | 4 | 1 | 1 | ⚠️ 80% (5) | $345,986 | +$59,926 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Racing Club de Lens win on 2026-08-29? | No | 1.32 (76¢) | $69,783 | — | ⏳ Pendiente |
 | 0x0b08…02ab | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $44,551 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | Tantula | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Baltimore Orioles vs. Athletics | Athletics | 2.04 (49¢) | $115,490 | -$115,490 | ❌ Perdida |
 | k-g-s | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners | 2.27 (44¢) | $28,043 | -$28,043 | ❌ Perdida |
-| monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | +$19,761 | ✅ Ganada |

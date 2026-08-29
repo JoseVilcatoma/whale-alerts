@@ -19623,5 +19623,20 @@
     "status": "pending",
     "ultimo_fill": 1788020989,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2677,
+    "timestamp": 1788021855,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "cs2-lgc-fal2-2026-08-29",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 76800.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788021855,
+    "fills": 1
   }
 ]
