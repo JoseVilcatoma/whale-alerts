@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 10:13:07 (hora de Perú)
+Actualizado: 2026-08-29 10:15:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1287**  ($71,027,164 en total)
+- Apuestas registradas: **1289**  ($71,084,684 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 249
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 71 | 2 | 61% | $13,775,162 | +$844,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 71 | 3 | 61% | $13,801,273 | +$844,949 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 249 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $31,409 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.33 (75¢) | $26,110 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,481 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.32 (76¢) | $98,800 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.69 (59¢) | $35,063 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 249 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 2 Winner | Invictus Gaming | 1.30 (77¢) | $50,626 | +$15,122 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | HANJIN BRION | 1.79 (56¢) | $25,200 | +$19,800 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner | BNK FEARX | 2.08 (48¢) | $26,732 | -$26,732 | ❌ Perdida |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: ThunderTalk Gaming vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.41 (71¢) | $35,808 | +$14,626 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner | BNK FEARX | 1.75 (57¢) | $25,187 | -$25,187 | ❌ Perdida |
