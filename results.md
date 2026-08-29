@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:55:21 (hora de Perú)
+Actualizado: 2026-08-29 14:57:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1334**  ($73,440,023 en total)
-- Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 40
+- Resueltas: **1291** — 752 ganadas / 539 perdidas (**58%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,086,276** sobre $71,131,713 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,057** sobre $126,700 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,100,886** sobre $71,180,625 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,028** sobre $126,800 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | -$28,824 | ❌ Perdida |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $102,560 | — | ⏳ Pendiente |
-| Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | — | ⏳ Pendiente |
+| Flaznorp | Will Hull City AFC win on 2026-08-29? | Yes | 1.30 (77¢) | $48,911 | +$14,610 | ✅ Ganada |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | +$8,374 | ✅ Ganada |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $31,409 | +$9,382 | ✅ Ganada |
