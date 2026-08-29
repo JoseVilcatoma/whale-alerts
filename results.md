@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:05:44 (hora de Perú)
+Actualizado: 2026-08-29 15:07:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1334**  ($73,440,023 en total)
+- Apuestas registradas: **1337**  ($73,571,305 en total)
 - Resueltas: **1296** — 755 ganadas / 541 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Pendientes: 37
 - Apostadores distintos: 255
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 115 | 72 | 5 | 61% | $14,057,259 | +$842,697 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 115 | 72 | 6 | 61% | $14,088,259 | +$842,697 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
+| AV23IUa | 25 | 18 | 5 | 58% | $2,755,428 | -$56,243 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 25 | 18 | 4 | 58% | $2,686,105 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 3 | 2 | 79% | $2,050,985 | +$1,101,246 |
@@ -41,10 +41,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
+| 0b1 | 15 | 0 | 4 | 100% | $646,452 | +$58,994 |
 | SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
-| 0b1 | 15 | 0 | 3 | 100% | $615,492 | +$58,994 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
+| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $69,323 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.39 (72¢) | $39,715 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-08-29? | No | 1.10 (91¢) | $82,850 | — | ⏳ Pendiente |
 | 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | +$13,400 | ✅ Ganada |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
 | fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | -$42,458 | ❌ Perdida |
-| plonker2026 | Spread: Liverpool FC (-1.5) | Nottingham Forest FC | 1.75 (57¢) | $31,514 | +$23,773 | ✅ Ganada |
-| NiNo999 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
-| NiNo999 | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $75,000 | -$75,000 | ❌ Perdida |
