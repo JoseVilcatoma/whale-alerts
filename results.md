@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 17:34:54 (hora de Perú)
+Actualizado: 2026-08-29 17:36:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1347**  ($73,996,314 en total)
-- Resueltas: **1323** — 772 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **1324** — 773 ganadas / 551 perdidas (**58%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$951,200** sobre $73,011,578 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$7,031** sobre $130,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$953,907** sobre $73,047,542 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$7,023** sobre $130,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
-| 0b1 | 17 | 0 | 4 | 100% | $709,098 | +$65,850 |
+| 0b1 | 18 | 0 | 3 | 100% | $709,098 | +$68,557 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | +$138,000 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | — | ⏳ Pendiente |
+| 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | +$2,707 | ✅ Ganada |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.47 (68¢) | $109,350 | -$109,350 | ❌ Perdida |
 | Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | +$96,074 | ✅ Ganada |
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | -$32,400 | ❌ Perdida |
