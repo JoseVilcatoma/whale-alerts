@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 12:19:00 (hora de Perú)
+Actualizado: 2026-08-29 12:21:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1310**  ($72,043,836 en total)
-- Resueltas: **1274** — 740 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 32
+- Resueltas: **1277** — 742 ganadas / 535 perdidas (**58%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 251
 
 ### Balance
 
-- **Resultado de los apostadores: +$885,151** sobre $70,429,643 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$7,292** sobre $125,100 (ROI **-5.8%**)
+- **Resultado de los apostadores: +$1,035,334** sobre $70,628,383 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,176** sobre $125,400 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | 0b1 | 15 | 0 | 0 | 100% | $522,108 | +$58,994 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 5 | 2 | 4 | ⚠️ 71% (7) | $512,260 | +$36,507 |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 7 | 2 | 2 | 78% | $512,260 | +$238,838 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | gransaaa | 4 | 5 | 1 | 44% | $436,239 | -$73,432 |
@@ -98,10 +98,10 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.32 (76¢) | $98,800 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.69 (59¢) | $35,063 | — | ⏳ Pendiente |
 | solo88888 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | BNK FEARX | 1.41 (71¢) | $32,503 | -$32,503 | ❌ Perdida |
-| myzbsq | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | Top Esports | 4.35 (23¢) | $52,148 | — | ⏳ Pendiente |
+| myzbsq | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | Top Esports | 4.35 (23¢) | $52,148 | -$52,148 | ❌ Perdida |
 | Jsram | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | +$48,646 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | — | ⏳ Pendiente |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | +$13,400 | ✅ Ganada |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
 | fkcvffcjt | UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card) | Yan Xiaonan | 1.75 (57¢) | $42,458 | -$42,458 | ❌ Perdida |
 | plonker2026 | Spread: Liverpool FC (-1.5) | Nottingham Forest FC | 1.75 (57¢) | $31,514 | +$23,773 | ✅ Ganada |
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | +$38,636 | ✅ Ganada |
 | kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | -$398,652 | ❌ Perdida |
 | AnonymousUsername | Will Nottingham Forest FC win on 2026-08-29? | No | 1.16 (86¢) | $31,789 | +$5,175 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.86 (35¢) | $101,732 | — | ⏳ Pendiente |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.86 (35¢) | $101,732 | +$188,932 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality | 1.89 (53¢) | $33,917 | +$30,078 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B | Vitality | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | +$5,309 | ✅ Ganada |
