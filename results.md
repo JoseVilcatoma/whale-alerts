@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 15:51:06 (hora de Perú)
+Actualizado: 2026-08-29 15:53:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1341**  ($73,689,513 en total)
+- Apuestas registradas: **1342**  ($73,715,653 en total)
 - Resueltas: **1303** — 760 ganadas / 543 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 255
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| 0b1 | 16 | 0 | 3 | 100% | $646,452 | +$63,794 |
+| 0b1 | 16 | 0 | 4 | 100% | $672,592 | +$63,794 |
 | SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | — | ⏳ Pendiente |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | — | ⏳ Pendiente |
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | — | ⏳ Pendiente |
 | fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.69 (59¢) | $35,063 | +$24,366 | ✅ Ganada |
 | solo88888 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | BNK FEARX | 1.41 (71¢) | $32,503 | -$32,503 | ❌ Perdida |
 | myzbsq | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | Top Esports | 4.35 (23¢) | $52,148 | -$52,148 | ❌ Perdida |
-| Jsram | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | -$25,000 | ❌ Perdida |
