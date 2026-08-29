@@ -19743,5 +19743,20 @@
     "status": "pending",
     "ultimo_fill": 1788026231,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2697,
+    "timestamp": 1788027501,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "sea-juv-par-2026-08-29-spread-home-1pt5",
+    "title": "Spread: Juventus FC (-1.5)",
+    "outcome": "Juventus FC",
+    "side": "BUY",
+    "usd": 127354.37039999999,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788027501,
+    "fills": 1
   }
 ]

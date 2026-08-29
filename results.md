@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:16:56 (hora de Perú)
+Actualizado: 2026-08-29 13:18:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1313**  ($72,146,626 en total)
+- Apuestas registradas: **1314**  ($72,273,981 en total)
 - Resueltas: **1284** — 749 ganadas / 535 perdidas (**58%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 251
+- Pendientes: 26
+- Apostadores distintos: 252
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
-_(mostrando los 40 de mayor monto, de 251 en total)_
+_(mostrando los 40 de mayor monto, de 252 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | — | ⏳ Pendiente |
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | — | ⏳ Pendiente |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 251 en total)_
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | -$67,200 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | -$36,967 | ❌ Perdida |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Winston-Salem Open: James Duckworth vs Arthur Fery | Arthur Fery | 1.11 (90¢) | $138,239 | +$15,360 | ✅ Ganada |
