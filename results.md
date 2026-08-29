@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 16:54:52 (hora de Perú)
+Actualizado: 2026-08-29 16:56:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1343**  ($73,781,248 en total)
-- Resueltas: **1320** — 770 ganadas / 550 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **1345**  ($73,883,181 en total)
+- Resueltas: **1321** — 770 ganadas / 551 perdidas (**58%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,017,909** sobre $72,857,012 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$7,022** sobre $129,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$924,497** sobre $72,950,424 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$7,122** sobre $129,800 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,18 +27,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 117 | 72 | 4 | 62% | $14,088,259 | +$866,678 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 25 | 20 | 3 | 56% | $2,755,428 | -$134,643 |
+| AV23IUa | 25 | 21 | 2 | 54% | $2,755,428 | -$228,055 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | pleaseplease123 | 27 | 20 | 1 | 57% | $2,196,980 | +$148,594 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 11 | 7 | 1 | 61% | $1,244,902 | -$400,650 |
+| wr0ngw4yb3tt0r | 11 | 7 | 2 | 61% | $1,310,253 | -$400,650 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
-| Sassy-Bucket | 11 | 11 | 0 | 50% | $941,581 | -$4,862 |
+| Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | beachboy4 | 6 | 8 | 0 | 43% | $778,900 | -$58,831 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | 0b1 | 16 | 0 | 4 | 100% | $672,592 | +$63,794 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $65,351 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | — | ⏳ Pendiente |
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | — | ⏳ Pendiente |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | — | ⏳ Pendiente |
@@ -90,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | -$96,198 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | +$25,416 | ✅ Ganada |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $48,371 | -$48,371 | ❌ Perdida |
-| AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | — | ⏳ Pendiente |
+| AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | -$93,412 | ❌ Perdida |
 | coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | — | ⏳ Pendiente |
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | -$52,500 | ❌ Perdida |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | -$157,933 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.33 (75¢) | $26,110 | +$8,703 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $26,481 | — | ⏳ Pendiente |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.32 (76¢) | $98,800 | +$31,200 | ✅ Ganada |
-| BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.69 (59¢) | $35,063 | +$24,366 | ✅ Ganada |
-| solo88888 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | BNK FEARX | 1.41 (71¢) | $32,503 | -$32,503 | ❌ Perdida |

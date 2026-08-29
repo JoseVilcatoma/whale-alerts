@@ -19905,7 +19905,7 @@
     "side": "BUY",
     "usd": 93412.0,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788028868,
     "fills": 2
   },
@@ -20192,6 +20192,36 @@
     "odds_at_bet": 79,
     "status": "pending",
     "ultimo_fill": 1788037145,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2763,
+    "timestamp": 1788040512,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-nyy-2026-08-29-total-7pt5",
+    "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 65350.9944,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788040512,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 2764,
+    "timestamp": 1788040582,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bos-nyy-2026-08-29-total-7pt5",
+    "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36581.9232,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1788040582,
     "fills": 1
   }
 ]
