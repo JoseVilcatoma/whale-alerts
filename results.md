@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:38:49 (hora de Perú)
+Actualizado: 2026-08-29 14:40:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1331**  ($73,285,237 en total)
+- Apuestas registradas: **1332**  ($73,317,458 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 255
 
 ### Balance
@@ -44,9 +44,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 9 | 10 | 2 | 47% | $638,151 | -$57,496 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
+| 0b1 | 15 | 0 | 3 | 100% | $615,492 | +$58,994 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0b1 | 15 | 0 | 2 | 100% | $583,272 | +$58,994 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | — | ⏳ Pendiente |
 | RN1 | Will Sevilla FC vs. Club Atlético de Madrid end in a draw? | No | 1.39 (72¢) | $25,774 | — | ⏳ Pendiente |
 | 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | — | ⏳ Pendiente |
 | 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | NiNo999 | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $75,000 | -$75,000 | ❌ Perdida |
 | ferrariChampions2026 | UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card) | Levi Rodrigues Jr. | 2.56 (39¢) | $28,041 | -$28,041 | ❌ Perdida |
 | wr0ngw4yb3tt0r | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Alex Perez | 2.94 (34¢) | $48,243 | -$48,243 | ❌ Perdida |
-| Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | +$38,636 | ✅ Ganada |
