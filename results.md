@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:26:01 (hora de Perú)
+Actualizado: 2026-08-29 18:28:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1357**  ($74,396,278 en total)
-- Resueltas: **1325** — 774 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 28
+- Resueltas: **1327** — 775 ganadas / 552 perdidas (**58%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$967,850** sobre $73,074,609 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$6,972** sobre $130,200 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$970,951** sobre $73,134,145 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$6,968** sobre $130,400 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 117 | 72 | 4 | 62% | $14,088,259 | +$866,678 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 3 | 57% | $4,170,115 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 25 | 21 | 3 | 54% | $2,784,272 | -$228,055 |
+| AV23IUa | 25 | 22 | 2 | 53% | $2,784,272 | -$256,899 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
-| xifutloong3 | 6 | 9 | 2 | 40% | $513,691 | -$187,637 |
+| xifutloong3 | 7 | 9 | 1 | 44% | $513,691 | -$155,693 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | — | ⏳ Pendiente |
-| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | — | ⏳ Pendiente |
+| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | -$28,844 | ❌ Perdida |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | — | ⏳ Pendiente |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | — | ⏳ Pendiente |
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | — | ⏳ Pendiente |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | +$13,944 | ✅ Ganada |
-| xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | — | ⏳ Pendiente |
+| xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | +$31,945 | ✅ Ganada |
 | fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |
 | Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | +$18,930 | ✅ Ganada |
 | 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
