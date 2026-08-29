@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 13:41:33 (hora de Perú)
+Actualizado: 2026-08-29 13:43:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1324**  ($72,947,347 en total)
-- Resueltas: **1284** — 749 ganadas / 535 perdidas (**58%** de acierto)
-- Pendientes: 36
+- Apuestas registradas: **1325**  ($72,995,717 en total)
+- Resueltas: **1286** — 749 ganadas / 537 perdidas (**58%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 253
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,168,196** sobre $70,948,783 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,858** sobre $126,100 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,097,537** sobre $71,019,443 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,058** sobre $126,300 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
-| AV23IUa | 25 | 18 | 3 | 58% | $2,637,735 | -$56,243 |
+| AV23IUa | 25 | 18 | 4 | 58% | $2,686,105 | -$56,243 |
 | pleaseplease123 | 27 | 19 | 2 | 59% | $2,196,980 | +$177,812 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 9 | 3 | 4 | 75% | $2,050,985 | +$1,026,583 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $48,371 | — | ⏳ Pendiente |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | — | ⏳ Pendiente |
 | coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | — | ⏳ Pendiente |
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | — | ⏳ Pendiente |
@@ -91,13 +92,13 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Racing Club de Lens win on 2026-08-29? | No | 1.32 (76¢) | $69,783 | +$22,037 | ✅ Ganada |
-| 0x0b08…02ab | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $44,551 | — | ⏳ Pendiente |
+| 0x0b08…02ab | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $44,551 | -$44,551 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $29,218 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5 | Under 8.5 | 1.52 (66¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will ACF Fiorentina win on 2026-08-29? | Yes | 1.82 (55¢) | $32,992 | — | ⏳ Pendiente |
 | NiNo999 | Will ACF Fiorentina win on 2026-08-29? | No | 2.22 (45¢) | $25,000 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-08-29? | No | 1.79 (56¢) | $25,455 | — | ⏳ Pendiente |
-| NiNo999 | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $26,108 | — | ⏳ Pendiente |
+| NiNo999 | Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw? | Yes | 3.70 (27¢) | $26,108 | -$26,108 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | — | ⏳ Pendiente |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | — | ⏳ Pendiente |
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 253 en total)_
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality | 1.89 (53¢) | $33,917 | +$30,078 | ✅ Ganada |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B | Vitality | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | +$5,309 | ✅ Ganada |
-| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | +$6,000 | ✅ Ganada |
