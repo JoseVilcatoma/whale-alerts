@@ -19758,5 +19758,35 @@
     "status": "pending",
     "ultimo_fill": 1788027501,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2698,
+    "timestamp": 1788027905,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "tur-gal-goz-2026-08-29-goz",
+    "title": "Will G\u00f6ztepe SK win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 35964.03,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1788027905,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2699,
+    "timestamp": 1788027795,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "fl1-lyo-hac-2026-08-29-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 109349.84489348515,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1788027795,
+    "fills": 1
   }
 ]
