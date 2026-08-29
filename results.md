@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 05:56:29 (hora de Perú)
+Actualizado: 2026-08-29 05:58:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1281**  ($70,757,170 en total)
+- Apuestas registradas: **1284**  ($70,866,821 en total)
 - Resueltas: **1256** — 731 ganadas / 525 perdidas (**58%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 246
+- Pendientes: 24
+- Apostadores distintos: 248
 
 ### Balance
 
@@ -62,15 +62,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 2 | 4 | ⚠️ 60% (5) | $375,262 | -$2,370 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
+| Jsram | 3 | 0 | 3 | ⚠️ 100% (3) | $345,986 | +$46,290 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
-| Jsram | 3 | 0 | 2 | ⚠️ 100% (3) | $320,986 | +$46,290 |
 
-_(mostrando los 40 de mayor monto, de 246 en total)_
+_(mostrando los 40 de mayor monto, de 248 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| solo88888 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | BNK FEARX | 1.41 (71¢) | $32,503 | — | ⏳ Pendiente |
+| myzbsq | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | Top Esports | 4.35 (23¢) | $52,148 | — | ⏳ Pendiente |
+| Jsram | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | — | ⏳ Pendiente |
 | Jsram | Coventry City FC vs. Hull City AFC: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $48,646 | — | ⏳ Pendiente |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 1.30 (77¢) | $44,860 | — | ⏳ Pendiente |
 | flawfence | Will Liverpool FC win on 2026-08-29? | Yes | 1.49 (67¢) | $25,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 246 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.30 (77¢) | $57,221 | +$17,092 | ✅ Ganada |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner | BNK FEARX | 1.85 (54¢) | $79,515 | +$67,735 | ✅ Ganada |
 | fkcvffcjt | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
-| coali10 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $90,000 | -$90,000 | ❌ Perdida |
-| Nooserac | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Raiders | Raiders | 1.67 (60¢) | $120,000 | -$120,000 | ❌ Perdida |

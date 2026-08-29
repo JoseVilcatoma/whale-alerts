@@ -19263,5 +19263,50 @@
     "status": "pending",
     "ultimo_fill": 1788000799,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2635,
+    "timestamp": 1788000999,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-liv-not-2026-08-29-liv",
+    "title": "Will Liverpool FC win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25000.004800000002,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1788000999,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2636,
+    "timestamp": 1788001043,
+    "username": "myzbsq",
+    "wallet": "0x9468bb7e53c8a5f13cc283f2aed950ebf9865d4b",
+    "slug": "lol-tes-lgd-2026-08-29",
+    "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 52147.79720000001,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "ultimo_fill": 1788001043,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2637,
+    "timestamp": 1788001097,
+    "username": "solo88888",
+    "wallet": "0xab444cf90149a8128eb510099e5917f521547ffe",
+    "slug": "lol-t1-fox1-2026-08-29",
+    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "usd": 32503.466299999996,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1788001097,
+    "fills": 1
   }
 ]
