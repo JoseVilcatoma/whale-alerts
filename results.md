@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 10:56:26 (hora de Perú)
+Actualizado: 2026-08-29 10:58:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1296**  ($71,441,123 en total)
+- Apuestas registradas: **1297**  ($71,495,123 en total)
 - Resueltas: **1273** — 739 ganadas / 534 perdidas (**58%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 250
+- Pendientes: 20
+- Apostadores distintos: 251
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Jsram | 4 | 1 | 1 | ⚠️ 80% (5) | $345,986 | +$59,926 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
 
-_(mostrando los 40 de mayor monto, de 250 en total)_
+_(mostrando los 40 de mayor monto, de 251 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will BV Borussia 09 Dortmund win on 2026-08-29? | No | 3.70 (27¢) | $54,000 | — | ⏳ Pendiente |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026-08-29? | Yes | 1.39 (72¢) | $89,432 | — | ⏳ Pendiente |
 | vito3corleone | Will Udinese Calcio win on 2026-08-29? | No | 1.59 (63¢) | $25,742 | — | ⏳ Pendiente |
 | vito3corleone | Will AC Monza win on 2026-08-29? | Yes | 3.12 (32¢) | $28,824 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 250 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | +$17,912 | ✅ Ganada |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
-| ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |

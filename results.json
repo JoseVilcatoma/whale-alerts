@@ -19488,5 +19488,20 @@
     "status": "pending",
     "ultimo_fill": 1788018789,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2668,
+    "timestamp": 1788019035,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "bun-dor-hsv-2026-08-29-dor",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 54000.0,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1788019035,
+    "fills": 1
   }
 ]
