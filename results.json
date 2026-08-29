@@ -19113,5 +19113,20 @@
     "status": "pending",
     "ultimo_fill": 1787994887,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 2625,
+    "timestamp": 1787996076,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ufc-ale7-sum-2026-08-29",
+    "title": "UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card)",
+    "outcome": "Sumudaerji",
+    "side": "BUY",
+    "usd": 74999.99999899999,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1787996076,
+    "fills": 1
   }
 ]
