@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 17:36:57 (hora de Perú)
+Actualizado: 2026-08-29 17:38:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1347**  ($73,996,314 en total)
+- Apuestas registradas: **1348**  ($74,025,158 en total)
 - Resueltas: **1324** — 773 ganadas / 551 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 255
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 117 | 72 | 4 | 62% | $14,088,259 | +$866,678 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 25 | 21 | 2 | 54% | $2,755,428 | -$228,055 |
+| AV23IUa | 25 | 21 | 3 | 54% | $2,784,272 | -$228,055 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | — | ⏳ Pendiente |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | — | ⏳ Pendiente |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.08 (48¢) | $32,935 | +$35,680 | ✅ Ganada |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $28,035 | +$8,374 | ✅ Ganada |
 | BillyGating | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.30 (77¢) | $31,409 | +$9,382 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B | FUT Esports | 1.33 (75¢) | $26,110 | +$8,703 | ✅ Ganada |
