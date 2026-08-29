@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 03:01:13 (hora de Perú)
+Actualizado: 2026-08-29 03:03:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1265**  ($69,665,195 en total)
+- Apuestas registradas: **1266**  ($69,691,118 en total)
 - Resueltas: **1255** — 731 ganadas / 524 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 245
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | ChinesePro | 2 | 6 | 0 | 25% | $337,138 | -$203,138 |
+| sulumos | 0 | 5 | 2 | ⚠️ 0% (5) | $317,923 | -$260,800 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
-| vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 
 _(mostrando los 40 de mayor monto, de 245 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.20 (83¢) | $25,922 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs | T1 | 1.18 (85¢) | $34,000 | — | ⏳ Pendiente |
 | timezonewarrior | UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims) | Ding Meng | 1.79 (56¢) | $27,574 | -$27,574 | ❌ Perdida |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims) | Lawrence Lui | 1.32 (76¢) | $38,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 245 en total)_
 | pleaseplease123 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.92 (52¢) | $71,930 | +$66,396 | ✅ Ganada |
 | Nooserac | Valorant: LOUD vs FURIA Esports - Map 1 Winner | LOUD | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Monterrey Open: Alycia Parks vs Ann Li | Ann Li | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
-| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers | 2.08 (48¢) | $70,124 | -$70,124 | ❌ Perdida |
