@@ -20223,5 +20223,20 @@
     "status": "pending",
     "ultimo_fill": 1788040582,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2766,
+    "timestamp": 1788040676,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "boxing-itauma-hrgovi-2026-08-29",
+    "title": "Moises Itauma vs. Filip Hrgovic",
+    "outcome": "Moises Itauma",
+    "side": "BUY",
+    "usd": 33683.681,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1788040676,
+    "fills": 1
   }
 ]
