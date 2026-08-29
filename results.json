@@ -18858,5 +18858,20 @@
     "status": "pending",
     "ultimo_fill": 1787962299,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2584,
+    "timestamp": 1787965878,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "tur-gal-goz-2026-08-29-gal",
+    "title": "Will Galatasaray SK win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 64353.155999999995,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1787965878,
+    "fills": 1
   }
 ]
