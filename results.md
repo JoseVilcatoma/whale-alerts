@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 21:48:27 (hora de Perú)
+Actualizado: 2026-08-28 21:50:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1260**  ($69,474,424 en total)
-- Resueltas: **1247** — 729 ganadas / 518 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1248** — 729 ganadas / 519 perdidas (**58%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,755,657** sobre $68,805,189 apostados (ROI **+2.6%**)
-- Copiando $100 fijo en cada una: **-$6,186** sobre $122,400 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,721,657** sobre $68,839,189 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$6,286** sobre $122,500 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 9 | 3 | 0 | 75% | $1,591,711 | +$1,026,583 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| wr0ngw4yb3tt0r | 11 | 5 | 1 | 69% | $1,160,375 | -$318,408 |
+| wr0ngw4yb3tt0r | 11 | 6 | 0 | 65% | $1,160,375 | -$352,408 |
 | kilian7kilian | 7 | 1 | 0 | 88% | $1,090,137 | +$550,078 |
 | Weaseloftheweek | 11 | 12 | 0 | 48% | $1,036,787 | -$144,321 |
 | vito3corleone | 8 | 4 | 0 | 67% | $957,759 | +$537,348 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 243 en total)_
 | monkeymashingkeyboard | Boston Red Sox vs. New York Yankees | New York Yankees | 1.72 (58¢) | $27,289 | +$19,761 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | AV23IUa | Miami Marlins vs. Washington Nationals: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | -$34,000 | ❌ Perdida |
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | -$47,178 | ❌ Perdida |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | +$42,807 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
