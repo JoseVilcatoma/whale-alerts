@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:40:19 (hora de Perú)
+Actualizado: 2026-08-29 18:42:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1360**  ($74,682,307 en total)
+- Apuestas registradas: **1360**  ($74,715,907 en total)
 - Resueltas: **1332** — 779 ganadas / 553 perdidas (**58%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 255
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | 0b1 | 18 | 0 | 6 | 100% | $800,346 | +$68,557 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| WTSA | 3 | 7 | 3 | 30% | $673,042 | -$162,744 |
+| WTSA | 3 | 7 | 3 | 30% | $706,642 | -$162,744 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 1 | 71% | $650,693 | +$58,660 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $35,520 | — | ⏳ Pendiente |
+| WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | — | ⏳ Pendiente |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | — | ⏳ Pendiente |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.16 (86¢) | $25,231 | — | ⏳ Pendiente |
