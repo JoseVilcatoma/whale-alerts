@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-28 20:37:44 (hora de Perú)
+Actualizado: 2026-08-28 20:39:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1257**  ($69,375,281 en total)
-- Resueltas: **1234** — 720 ganadas / 514 perdidas (**58%** de acierto)
+- Apuestas registradas: **1258**  ($69,414,227 en total)
+- Resueltas: **1235** — 721 ganadas / 514 perdidas (**58%** de acierto)
 - Pendientes: 19
-- Apostadores distintos: 242
+- Apostadores distintos: 243
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,726,001** sobre $68,374,471 apostados (ROI **+2.5%**)
-- Copiando $100 fijo en cada una: **-$6,313** sobre $121,100 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,744,001** sobre $68,406,471 apostados (ROI **+2.5%**)
+- Copiando $100 fijo en cada una: **-$6,257** sobre $121,200 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 112 | 71 | 3 | 61% | $13,775,162 | +$826,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 113 | 71 | 2 | 61% | $13,775,162 | +$844,949 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 39 | 2 | 59% | $4,032,693 | +$94,432 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 2 | 0 | ⚠️ 67% (6) | $311,401 | +$1,534 |
 | vd777bond | 2 | 1 | 0 | ⚠️ 67% (3) | $308,646 | +$94,674 |
 
-_(mostrando los 40 de mayor monto, de 242 en total)_
+_(mostrando los 40 de mayor monto, de 243 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Holtur95 | Monterrey Open: Nikola Bartunkova vs Elise Mertens | Nikola Bartunkova | 1.85 (54¢) | $38,947 | — | ⏳ Pendiente |
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics | 2.08 (48¢) | $67,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Philadelphia Phillies vs. Los Angeles Angels | Los Angeles Angels | 2.08 (48¢) | $36,967 | — | ⏳ Pendiente |
 | AV23IUa | Will Galatasaray SK win on 2026-08-29? | Yes | 1.43 (70¢) | $64,353 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Texas Rangers | 1.92 (52¢) | $34,000 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.17 (46¢) | $47,178 | — | ⏳ Pendiente |
 | Weaseloftheweek | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.85 (54¢) | $50,252 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Ravens | Ravens | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | tennischamp | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.59 (63¢) | $30,500 | — | ⏳ Pendiente |
 | kilian7kilian | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Ignacio Buse | 2.04 (49¢) | $108,128 | +$112,541 | ✅ Ganada |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi | Benjamin Bonzi | 2.63 (38¢) | $33,840 | -$33,840 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 242 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $193,883 | +$171,934 | ✅ Ganada |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | one8tyfive | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $27,966 | +$5,327 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Baltimore Orioles vs. St. Louis Cardinals | St. Louis Cardinals | 1.19 (84¢) | $550,611 | +$104,878 | ✅ Ganada |

@@ -18645,7 +18645,7 @@
     "side": "BUY",
     "usd": 32000.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1787953839,
     "fills": 1
   },
@@ -18902,6 +18902,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1787967329,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2588,
+    "timestamp": 1787967503,
+    "username": "Holtur95",
+    "wallet": "0xc547c8ccede79ecf811fb86634c8027a29e7c7f0",
+    "slug": "wta-bartunk-mertens-2026-08-28",
+    "title": "Monterrey Open: Nikola Bartunkova vs Elise Mertens",
+    "outcome": "Nikola Bartunkova",
+    "side": "BUY",
+    "usd": 38946.70999899999,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1787967503,
     "fills": 1
   }
 ]
