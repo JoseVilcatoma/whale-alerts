@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:14:17 (hora de Perú)
+Actualizado: 2026-08-29 14:16:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1328**  ($73,159,264 en total)
+- Apuestas registradas: **1329**  ($73,184,464 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 254
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 0 | 71% | $620,693 | +$58,660 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0b1 | 15 | 0 | 1 | 100% | $558,072 | +$58,994 |
+| 0b1 | 15 | 0 | 2 | 100% | $583,272 | +$58,994 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | WTSA | 3 | 7 | 0 | 30% | $531,232 | -$162,744 |
 | ferrariChampions2026 | 10 | 5 | 0 | 67% | $516,596 | -$106,101 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 254 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Club Atlético de Madrid win on 2026-08-29? | No | 2.04 (49¢) | $36,285 | — | ⏳ Pendiente |
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 254 en total)_
 | Jsram | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Sumudaerji | 1.52 (66¢) | $75,000 | +$38,636 | ✅ Ganada |
 | kilian7kilian | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $398,652 | -$398,652 | ❌ Perdida |
 | AnonymousUsername | Will Nottingham Forest FC win on 2026-08-29? | No | 1.16 (86¢) | $31,789 | +$5,175 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.86 (35¢) | $101,732 | +$188,932 | ✅ Ganada |
