@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 16:01:24 (hora de Perú)
+Actualizado: 2026-08-29 16:03:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1343**  ($73,781,248 en total)
-- Resueltas: **1304** — 761 ganadas / 543 perdidas (**58%** de acierto)
-- Pendientes: 35
+- Resueltas: **1307** — 764 ganadas / 543 perdidas (**58%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,189,115** sobre $71,850,032 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$7,017** sobre $128,100 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,339,893** sobre $72,052,179 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,794** sobre $128,400 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 7 | 4 | 0 | 64% | $439,446 | -$24,259 |
-| gransaaa | 4 | 5 | 1 | 44% | $436,239 | -$73,432 |
+| gransaaa | 5 | 5 | 0 | 50% | $436,239 | -$49,825 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -94,13 +94,13 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | — | ⏳ Pendiente |
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | — | ⏳ Pendiente |
-| NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | — | ⏳ Pendiente |
+| NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | +$31,096 | ✅ Ganada |
 | HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | — | ⏳ Pendiente |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | — | ⏳ Pendiente |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.47 (68¢) | $109,350 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | +$96,074 | ✅ Ganada |
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | — | ⏳ Pendiente |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
