@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 14:53:15 (hora de Perú)
+Actualizado: 2026-08-29 14:55:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1332**  ($73,317,458 en total)
+- Apuestas registradas: **1334**  ($73,440,023 en total)
 - Resueltas: **1290** — 751 ganadas / 539 perdidas (**58%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 255
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 115 | 72 | 3 | 61% | $13,934,693 | +$842,697 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 115 | 72 | 5 | 61% | $14,057,259 | +$842,697 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 1 | 57% | $4,059,174 | +$25,464 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.39 (72¢) | $39,715 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-08-29? | No | 1.10 (91¢) | $82,850 | — | ⏳ Pendiente |
 | 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | — | ⏳ Pendiente |
 | RN1 | Will Sevilla FC vs. Club Atlético de Madrid end in a draw? | No | 1.39 (72¢) | $25,774 | — | ⏳ Pendiente |
 | 0x6db5…e279 | North Carolina vs. TCU | North Carolina | 1.06 (94¢) | $74,999 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | plonker2026 | Spread: Liverpool FC (-1.5) | Nottingham Forest FC | 1.75 (57¢) | $31,514 | +$23,773 | ✅ Ganada |
 | NiNo999 | Spread: Liverpool FC (-1.5) | Liverpool FC | 2.27 (44¢) | $50,000 | -$50,000 | ❌ Perdida |
 | NiNo999 | Will Liverpool FC win on 2026-08-29? | Yes | 1.45 (69¢) | $75,000 | -$75,000 | ❌ Perdida |
-| ferrariChampions2026 | UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card) | Levi Rodrigues Jr. | 2.56 (39¢) | $28,041 | -$28,041 | ❌ Perdida |
-| wr0ngw4yb3tt0r | UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card) | Alex Perez | 2.94 (34¢) | $48,243 | -$48,243 | ❌ Perdida |
