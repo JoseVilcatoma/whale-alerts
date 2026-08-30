@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 00:26:35 (hora de Perú)
+Actualizado: 2026-08-30 00:28:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1366**  ($75,025,873 en total)
-- Resueltas: **1356** — 797 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Resueltas: **1358** — 799 ganadas / 559 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,415,794** sobre $74,603,068 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,293** sobre $133,200 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$1,441,747** sobre $74,659,577 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,201** sobre $133,400 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| ferrariChampions2026 | 10 | 5 | 1 | 67% | $543,105 | -$106,101 |
+| ferrariChampions2026 | 11 | 5 | 0 | 69% | $543,105 | -$93,626 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | xifutloong3 | 8 | 9 | 0 | 47% | $513,691 | -$135,015 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | — | ⏳ Pendiente |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | — | ⏳ Pendiente |
 | kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
+| coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | +$54,308 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | +$90,067 | ✅ Ganada |
