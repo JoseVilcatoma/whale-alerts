@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 18:59:14 (hora de Perú)
+Actualizado: 2026-08-29 19:01:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1362**  ($74,770,907 en total)
-- Resueltas: **1332** — 779 ganadas / 553 perdidas (**58%** de acierto)
-- Pendientes: 26
+- Resueltas: **1333** — 780 ganadas / 553 perdidas (**59%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,082,210** sobre $73,396,003 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$6,832** sobre $130,900 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,089,006** sobre $73,426,962 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$6,810** sobre $131,000 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | beachboy4 | 6 | 8 | 1 | 43% | $999,409 | -$58,831 |
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
-| 0b1 | 18 | 0 | 6 | 100% | $800,346 | +$68,557 |
+| 0b1 | 19 | 0 | 5 | 100% | $800,346 | +$75,353 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | WTSA | 3 | 7 | 3 | 30% | $706,642 | -$162,744 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 5 | 1 | 71% | $650,693 | +$58,660 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | +$31,945 | ✅ Ganada |
 | fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |
 | Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | +$18,930 | ✅ Ganada |
-| 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | — | ⏳ Pendiente |
+| 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | +$6,796 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | -$31,000 | ❌ Perdida |
 | AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $69,323 | +$31,145 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.39 (72¢) | $39,715 | — | ⏳ Pendiente |
