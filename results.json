@@ -20690,5 +20690,20 @@
     "status": "pending",
     "ultimo_fill": 1788088602,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2839,
+    "timestamp": 1788088877,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-m80-aur1-2026-08-30",
+    "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 31080.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788088877,
+    "fills": 1
   }
 ]
