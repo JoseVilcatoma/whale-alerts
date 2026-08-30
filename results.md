@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:43:42 (hora de Perú)
+Actualizado: 2026-08-30 07:45:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1397**  ($76,467,545 en total)
+- Apuestas registradas: **1398**  ($76,505,193 en total)
 - Resueltas: **1363** — 802 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 260
+- Pendientes: 31
+- Apostadores distintos: 261
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 
-_(mostrando los 40 de mayor monto, de 260 en total)_
+_(mostrando los 40 de mayor monto, de 261 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | — | ⏳ Pendiente |
 | ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Fulham FC win on 2026-08-30? | No | 1.39 (72¢) | $80,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | +$13,944 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | +$31,945 | ✅ Ganada |
 | fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |
-| Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | +$18,930 | ✅ Ganada |
