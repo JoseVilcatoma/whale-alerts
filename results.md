@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 16:13:40 (hora de Perú)
+Actualizado: 2026-08-30 16:15:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1446**  ($78,847,309 en total)
+- Apuestas registradas: **1447**  ($78,872,377 en total)
 - Resueltas: **1424** — 835 ganadas / 589 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 264
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 122 | 77 | 5 | 61% | $14,562,482 | +$728,064 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 122 | 77 | 6 | 61% | $14,587,550 | +$728,064 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 43 | 1 | 57% | $4,275,218 | +$106,383 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.35 (74¢) | $25,068 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.69 (59¢) | $50,000 | — | ⏳ Pendiente |
 | AV23IUa | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 2.00 (50¢) | $41,005 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.00 (50¢) | $51,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | -$46,416 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | -$56,271 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
-| RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
