@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 06:12:45 (hora de Perú)
+Actualizado: 2026-08-30 06:14:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1374**  ($75,294,515 en total)
+- Apuestas registradas: **1375**  ($75,337,528 en total)
 - Resueltas: **1359** — 799 ganadas / 560 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 257
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 257 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 257 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | +$138,000 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
 | 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | +$2,707 | ✅ Ganada |
-| ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.47 (68¢) | $109,350 | -$109,350 | ❌ Perdida |
