@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 21:33:53 (hora de Perú)
+Actualizado: 2026-08-29 21:36:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1364**  ($74,950,041 en total)
-- Resueltas: **1342** — 786 ganadas / 556 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Resueltas: **1347** — 790 ganadas / 557 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,109,664** sobre $73,748,700 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$6,909** sobre $131,800 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,191,619** sobre $74,062,369 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,634** sobre $132,300 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,21 +25,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 117 | 73 | 3 | 62% | $14,088,259 | +$835,678 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 55 | 41 | 3 | 57% | $4,170,115 | +$25,464 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 57 | 41 | 1 | 58% | $4,170,115 | +$145,190 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 26 | 22 | 1 | 54% | $2,784,272 | -$225,754 |
+| AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 11 | 7 | 2 | 61% | $1,353,197 | -$400,650 |
+| wr0ngw4yb3tt0r | 11 | 8 | 1 | 58% | $1,353,197 | -$508,945 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | beachboy4 | 6 | 8 | 2 | 43% | $1,152,034 | -$58,831 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
-| Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
+| Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
 | WTSA | 4 | 7 | 2 | 36% | $706,642 | -$86,454 |
@@ -86,12 +86,12 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | +$11,656 | ✅ Ganada |
 | NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | — | ⏳ Pendiente |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | +$76,291 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | +$95,282 | ✅ Ganada |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | -$28,844 | ❌ Perdida |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | +$12,826 | ✅ Ganada |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | -$33,684 | ❌ Perdida |
-| Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | — | ⏳ Pendiente |
+| Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | +$42,944 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | -$108,295 | ❌ Perdida |
 | bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | +$17,437 | ✅ Ganada |
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | -$26,140 | ❌ Perdida |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | +$13,944 | ✅ Ganada |
