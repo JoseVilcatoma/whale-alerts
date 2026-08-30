@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 08:47:36 (hora de Perú)
+Actualizado: 2026-08-30 08:49:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1403**  ($76,669,223 en total)
+- Apuestas registradas: **1404**  ($76,712,733 en total)
 - Resueltas: **1366** — 804 ganadas / 562 perdidas (**59%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 261
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 1 | 58% | $4,249,761 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 3 | 71% | $3,027,635 | +$535,497 |
-| AV23IUa | 27 | 22 | 2 | 55% | $2,938,377 | -$198,174 |
+| AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $43,510 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | — | ⏳ Pendiente |
 | sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | +$12,826 | ✅ Ganada |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | -$33,684 | ❌ Perdida |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | +$42,944 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | -$108,295 | ❌ Perdida |
