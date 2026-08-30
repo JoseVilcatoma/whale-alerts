@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 17:12:52 (hora de Perú)
+Actualizado: 2026-08-30 17:14:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1448**  ($78,934,122 en total)
+- Apuestas registradas: **1449**  ($78,994,122 en total)
 - Resueltas: **1431** — 838 ganadas / 593 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 264
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 43 | 2 | 57% | $4,336,963 | +$106,383 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 29 | 23 | 1 | 56% | $3,022,891 | -$111,274 |
+| AV23IUa | 29 | 23 | 2 | 56% | $3,082,891 | -$111,274 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 1 | 69% | $2,077,360 | +$833,963 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.35 (74¢) | $25,068 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.69 (59¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | -$27,504 | ❌ Perdida |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | +$205,260 | ✅ Ganada |
 | Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | -$46,416 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | -$56,271 | ❌ Perdida |
