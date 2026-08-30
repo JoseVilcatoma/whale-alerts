@@ -20630,5 +20630,20 @@
     "status": "pending",
     "ultimo_fill": 1788078936,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2835,
+    "timestamp": 1788085016,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ly-tl2-2026-08-30",
+    "title": "LoL: LYON vs Team Liquid (BO3) - LCS Regular Season",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "usd": 30305.9107,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788085016,
+    "fills": 1
   }
 ]
