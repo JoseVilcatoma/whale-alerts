@@ -20555,5 +20555,20 @@
     "status": "pending",
     "ultimo_fill": 1788068680,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2829,
+    "timestamp": 1788073068,
+    "username": "crisp1973",
+    "wallet": "0xde3131239a358be036397ee2c152e256e6b3df79",
+    "slug": "bun-aug-s04-2026-08-30-aug",
+    "title": "Will FC Augsburg win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39864.848099999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788073068,
+    "fills": 1
   }
 ]
