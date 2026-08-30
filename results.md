@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 11:02:42 (hora de Perú)
+Actualizado: 2026-08-30 11:04:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1429**  ($77,961,649 en total)
+- Apuestas registradas: **1431**  ($78,059,177 en total)
 - Resueltas: **1377** — 812 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 263
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 74 | 5 | 62% | $14,387,819 | +$886,804 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
+| 3edmond.dantes | 16 | 6 | 5 | 73% | $3,224,860 | +$566,608 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| 3edmond.dantes | 16 | 6 | 4 | 73% | $3,173,329 | +$566,608 |
 | AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $51,531 | — | ⏳ Pendiente |
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | — | ⏳ Pendiente |
 | Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | +$18,519 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | -$28,724 | ❌ Perdida |
-| predictionlegend | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.27 (44¢) | $29,038 | — | ⏳ Pendiente |
