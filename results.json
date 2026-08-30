@@ -21847,5 +21847,20 @@
     "status": "pending",
     "ultimo_fill": 1788131218,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2999,
+    "timestamp": 1788131444,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tirante-mannari-2026-08-30",
+    "title": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "usd": 39000.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788131444,
+    "fills": 1
   }
 ]
