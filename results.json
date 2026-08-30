@@ -20480,5 +20480,20 @@
     "status": "pending",
     "ultimo_fill": 1788047496,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2800,
+    "timestamp": 1788052914,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-col-rsl-2026-08-29-col",
+    "title": "Will Colorado Rapids SC win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 57577.09,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788052931,
+    "fills": 2
   }
 ]
