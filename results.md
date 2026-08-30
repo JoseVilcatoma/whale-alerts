@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:00:23 (hora de Perú)
+Actualizado: 2026-08-30 07:02:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1383**  ($75,606,583 en total)
+- Apuestas registradas: **1384**  ($75,664,583 en total)
 - Resueltas: **1360** — 799 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 260
 
 ### Balance
@@ -57,13 +57,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 5 | 5 | 1 | 50% | $462,990 | -$49,825 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
+| ChinesePro | 2 | 6 | 1 | 25% | $395,138 | -$203,138 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
-| Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
 _(mostrando los 40 de mayor monto, de 260 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | bluemario | Sevilla FC vs. Club Atlético de Madrid: O/U 2.5 | Under 2.5 | 1.85 (54¢) | $96,198 | -$96,198 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | +$25,416 | ✅ Ganada |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $48,371 | -$48,371 | ❌ Perdida |
-| AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | -$93,412 | ❌ Perdida |
