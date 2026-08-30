@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 01:03:27 (hora de Perú)
+Actualizado: 2026-08-30 01:05:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1367**  ($75,053,733 en total)
-- Resueltas: **1358** — 799 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Resueltas: **1359** — 799 ganadas / 560 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 256
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,441,747** sobre $74,659,577 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,201** sobre $133,400 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$1,392,666** sobre $74,708,657 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,301** sobre $133,500 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 2 | 62% | $14,088,259 | +$851,123 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 41 | 1 | 59% | $4,219,195 | +$180,922 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 256 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Shori888 | Will FC Augsburg win on 2026-08-30? | Yes | 2.33 (43¢) | $27,860 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | -$49,080 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | — | ⏳ Pendiente |
