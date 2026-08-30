@@ -21755,5 +21755,20 @@
     "status": "pending",
     "ultimo_fill": 1788124511,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2978,
+    "timestamp": 1788124965,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cin-chc-2026-08-30-spread-home-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "usd": 61745.01039999999,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788124965,
+    "fills": 1
   }
 ]
