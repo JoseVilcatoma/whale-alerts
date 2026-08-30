@@ -21560,5 +21560,20 @@
     "status": "pending",
     "ultimo_fill": 1788114673,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2923,
+    "timestamp": 1788114706,
+    "username": "dsasdaas",
+    "wallet": "0x1e52bbdf389526f57abc62641d518868f4c5eb43",
+    "slug": "cs2-vit-lgc-2026-08-30",
+    "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 28328.335333,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1788114706,
+    "fills": 1
   }
 ]

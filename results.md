@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 13:31:24 (hora de Perú)
+Actualizado: 2026-08-30 13:33:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1434**  ($78,395,246 en total)
+- Apuestas registradas: **1435**  ($78,423,574 en total)
 - Resueltas: **1384** — 816 ganadas / 568 perdidas (**59%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 263
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dsasdaas | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.18 (85¢) | $28,328 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.19 (84¢) | $44,438 | — | ⏳ Pendiente |
 | ripley86alien | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $26,376 | — | ⏳ Pendiente |
 | gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | +$10,920 | ✅ Ganada |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
-| CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
