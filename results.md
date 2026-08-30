@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 00:14:15 (hora de Perú)
+Actualizado: 2026-08-30 00:16:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1366**  ($75,025,873 en total)
-- Resueltas: **1355** — 796 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 7
+- Resueltas: **1356** — 797 ganadas / 559 perdidas (**59%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,380,062** sobre $74,570,085 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,401** sobre $133,100 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,415,794** sobre $74,603,068 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,293** sobre $133,200 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 2 | 62% | $14,088,259 | +$851,123 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 57 | 41 | 2 | 58% | $4,219,195 | +$145,190 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 41 | 1 | 59% | $4,219,195 | +$180,922 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | +$5,136 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
 | HMLSF | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $27,869 | +$464 | 💰 Vendida antes |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | +$35,731 | ✅ Ganada |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | +$11,656 | ✅ Ganada |
 | NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | -$34,770 | ❌ Perdida |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | +$76,291 | ✅ Ganada |
