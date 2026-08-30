@@ -21335,5 +21335,20 @@
     "status": "pending",
     "ultimo_fill": 1788102193,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2900,
+    "timestamp": 1788103670,
+    "username": "n0tTODAY",
+    "wallet": "0x89a636baae1c31a712eff86c564601ac4135429a",
+    "slug": "epl-mun-ips-2026-08-30-draw",
+    "title": "Will Manchester United FC vs. Ipswich Town FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 45920.0,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1788103670,
+    "fills": 1
   }
 ]
