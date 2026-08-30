@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 22:25:12 (hora de Perú)
+Actualizado: 2026-08-29 22:27:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1364**  ($74,950,041 en total)
-- Resueltas: **1354** — 795 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Resueltas: **1355** — 796 ganadas / 559 perdidas (**59%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,289,995** sobre $74,349,576 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,442** sobre $133,000 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,380,062** sobre $74,570,085 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,401** sobre $133,100 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 9 | 0 | 55% | $1,353,197 | -$545,230 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| beachboy4 | 6 | 8 | 2 | 43% | $1,152,034 | -$58,831 |
+| beachboy4 | 7 | 8 | 1 | 47% | $1,152,034 | +$31,236 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | +$54,308 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | — | ⏳ Pendiente |
+| beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | +$90,067 | ✅ Ganada |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.16 (86¢) | $25,231 | +$4,107 | ✅ Ganada |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | +$5,136 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
