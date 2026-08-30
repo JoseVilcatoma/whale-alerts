@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 02:27:18 (hora de Perú)
+Actualizado: 2026-08-30 02:29:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1368**  ($75,093,598 en total)
+- Apuestas registradas: **1369**  ($75,127,231 en total)
 - Resueltas: **1359** — 799 ganadas / 560 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 256
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 1 | 100% | $742,632 | +$73,744 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 256 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | — | ⏳ Pendiente |
 | crisp1973 | Will FC Augsburg win on 2026-08-30? | No | 1.75 (57¢) | $39,865 | — | ⏳ Pendiente |
 | Shori888 | Will FC Augsburg win on 2026-08-30? | Yes | 2.33 (43¢) | $27,860 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | -$49,080 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 256 en total)_
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | -$44,073 | ❌ Perdida |
 | xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | +$20,678 | ✅ Ganada |
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
-| pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |

@@ -20570,5 +20570,20 @@
     "status": "pending",
     "ultimo_fill": 1788073068,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2830,
+    "timestamp": 1788074867,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "epl-che-bri-2026-08-30-total-1pt5",
+    "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 33633.6694,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1788074867,
+    "fills": 1
   }
 ]
