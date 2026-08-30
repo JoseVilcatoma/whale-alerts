@@ -20585,5 +20585,20 @@
     "status": "pending",
     "ultimo_fill": 1788074867,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2831,
+    "timestamp": 1788077086,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "sea-cag-int-2026-08-30-spread-away-1pt5",
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "FC Internazionale Milano",
+    "side": "BUY",
+    "usd": 29038.123399999997,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1788077086,
+    "fills": 1
   }
 ]
