@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:41:33 (hora de Perú)
+Actualizado: 2026-08-30 07:43:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1393**  ($76,266,410 en total)
+- Apuestas registradas: **1397**  ($76,467,545 en total)
 - Resueltas: **1363** — 802 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Pendientes: 30
 - Apostadores distintos: 260
 
 ### Balance
@@ -27,14 +27,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 8 | 62% | $14,358,106 | +$851,123 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| 3edmond.dantes | 15 | 6 | 1 | 71% | $2,890,151 | +$535,497 |
+| 3edmond.dantes | 15 | 6 | 3 | 71% | $3,027,635 | +$535,497 |
 | AV23IUa | 27 | 22 | 1 | 55% | $2,888,272 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 11 | 9 | 0 | 55% | $1,353,197 | -$545,230 |
+| wr0ngw4yb3tt0r | 11 | 9 | 1 | 55% | $1,390,442 | -$545,230 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | beachboy4 | 8 | 8 | 0 | 50% | $1,152,034 | +$183,862 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 5 | 5 | 1 | 50% | $462,990 | -$49,825 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| ChinesePro | 2 | 6 | 1 | 25% | $395,138 | -$203,138 |
+| ChinesePro | 2 | 6 | 2 | 25% | $421,545 | -$203,138 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Fulham FC win on 2026-08-30? | No | 1.39 (72¢) | $80,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $37,245 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $81,220 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | +$31,945 | ✅ Ganada |
 | fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |
 | Flaznorp | Juventus FC vs. Parma Calcio 1913: O/U 1.5 | Over 1.5 | 1.67 (60¢) | $28,395 | +$18,930 | ✅ Ganada |
-| 0b1 | North Carolina State vs. Virginia | Virginia | 1.22 (82¢) | $30,960 | +$6,796 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. Atlanta Braves | Colorado Rockies | 3.23 (31¢) | $31,000 | -$31,000 | ❌ Perdida |
-| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $69,323 | +$31,145 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.39 (72¢) | $39,715 | +$15,445 | ✅ Ganada |
