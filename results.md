@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 14:54:08 (hora de Perú)
+Actualizado: 2026-08-30 14:56:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1441**  ($78,642,079 en total)
-- Resueltas: **1405** — 825 ganadas / 580 perdidas (**59%** de acierto)
-- Pendientes: 32
+- Resueltas: **1406** — 826 ganadas / 580 perdidas (**59%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,270,044** sobre $77,278,540 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,662** sobre $138,100 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,286,544** sobre $77,312,040 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,613** sobre $138,200 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 76 | 5 | 61% | $14,474,257 | +$749,313 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
-| 3edmond.dantes | 18 | 8 | 1 | 69% | $3,460,415 | +$448,787 |
+| 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 28 | 22 | 2 | 56% | $2,981,887 | -$102,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton | 1.75 (57¢) | $34,994 | -$34,994 | ❌ Perdida |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | +$16,500 | ✅ Ganada |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | +$3,569 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | -$48,414 | ❌ Perdida |
