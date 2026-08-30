@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 17:25:56 (hora de Perú)
+Actualizado: 2026-08-30 17:27:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1449**  ($78,994,122 en total)
-- Resueltas: **1431** — 838 ganadas / 593 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1432** — 839 ganadas / 593 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$966,312** sobre $78,360,274 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$7,384** sobre $140,700 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$985,046** sobre $78,390,839 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$7,323** sobre $140,800 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 122 | 78 | 5 | 61% | $14,587,550 | +$676,864 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 43 | 2 | 57% | $4,336,963 | +$106,383 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 29 | 23 | 2 | 56% | $3,082,891 | -$111,274 |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | -$50,105 | ❌ Perdida |
 | sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | -$25,760 | ❌ Perdida |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | +$18,734 | ✅ Ganada |
 | SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | +$30,600 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | +$34,752 | ✅ Ganada |
 | ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | -$26,407 | ❌ Perdida |
