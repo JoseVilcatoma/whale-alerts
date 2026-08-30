@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 13:53:53 (hora de Perú)
+Actualizado: 2026-08-30 13:55:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1437**  ($78,495,293 en total)
-- Resueltas: **1385** — 817 ganadas / 568 perdidas (**59%** de acierto)
-- Pendientes: 48
+- Resueltas: **1391** — 820 ganadas / 571 perdidas (**59%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 263
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,638,853** sobre $75,911,039 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,205** sobre $136,100 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$1,232,220** sobre $76,490,175 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,316** sobre $136,700 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 74 | 7 | 62% | $14,474,257 | +$886,804 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
-| 3edmond.dantes | 16 | 6 | 5 | 73% | $3,460,415 | +$566,608 |
+| 3edmond.dantes | 16 | 8 | 3 | 67% | $3,460,415 | +$167,328 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
-| gransaaa | 5 | 5 | 1 | 50% | $462,990 | -$49,825 |
+| gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | ChinesePro | 2 | 6 | 2 | 25% | $421,545 | -$203,138 |
 | NiNo999 | 3 | 6 | 0 | 33% | $383,612 | -$190,862 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| RegardedMoney | 6 | 0 | 1 | ⚠️ 100% (6) | $374,880 | +$91,081 |
+| RegardedMoney | 6 | 1 | 0 | ⚠️ 86% (7) | $374,880 | +$16,535 |
 
 _(mostrando los 40 de mayor monto, de 263 en total)_
 
@@ -77,13 +77,13 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.19 (84¢) | $44,438 | — | ⏳ Pendiente |
 | ripley86alien | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $26,376 | — | ⏳ Pendiente |
 | gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $287,086 | — | ⏳ Pendiente |
-| RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | — | ⏳ Pendiente |
-| Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | +$30,665 | ✅ Ganada |
+| 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $287,086 | -$287,086 | ❌ Perdida |
+| RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | -$74,546 | ❌ Perdida |
+| Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | +$20,818 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | — | ⏳ Pendiente |
 | mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.63 (38¢) | $112,194 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.63 (38¢) | $112,194 | -$112,194 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $25,458 | — | ⏳ Pendiente |
 | mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.79 (56¢) | $110,733 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Medjedovic | Kamil Majchrzak | 1.28 (78¢) | $110,658 | +$31,211 | ✅ Ganada |
