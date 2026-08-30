@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 15:26:47 (hora de Perú)
+Actualizado: 2026-08-30 15:28:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1442**  ($78,668,079 en total)
+- Apuestas registradas: **1443**  ($78,705,104 en total)
 - Resueltas: **1417** — 832 ganadas / 585 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 264
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 77 | 4 | 61% | $14,474,257 | +$719,600 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 77 | 5 | 61% | $14,511,282 | +$719,600 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaume Munar vs Terence Atmane | Terence Atmane | 1.61 (62¢) | $37,025 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Jaume Munar vs Terence Atmane | Jaume Munar | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | +$19,527 | ✅ Ganada |
 | AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | +$96,000 | ✅ Ganada |
 | ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
-| Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
