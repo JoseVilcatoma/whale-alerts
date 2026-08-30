@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 09:58:47 (hora de Perú)
+Actualizado: 2026-08-30 10:00:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1415**  ($77,096,474 en total)
+- Apuestas registradas: **1417**  ($77,160,974 en total)
 - Resueltas: **1369** — 806 ganadas / 563 perdidas (**59%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 262
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 9 | 1 | 55% | $1,390,442 | -$545,230 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| vito3corleone | 8 | 6 | 5 | 57% | $1,185,690 | +$482,783 |
 | beachboy4 | 8 | 8 | 0 | 50% | $1,152,034 | +$183,862 |
-| vito3corleone | 8 | 6 | 4 | 57% | $1,150,190 | +$482,783 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
+| flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton | 1.75 (57¢) | $34,994 | — | ⏳ Pendiente |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | +$54,308 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | +$90,067 | ✅ Ganada |
-| 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.16 (86¢) | $25,231 | +$4,107 | ✅ Ganada |
-| 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | +$5,136 | ✅ Ganada |
