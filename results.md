@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 08:53:37 (hora de Perú)
+Actualizado: 2026-08-30 08:55:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1404**  ($76,712,733 en total)
+- Apuestas registradas: **1405**  ($76,741,218 en total)
 - Resueltas: **1366** — 804 ganadas / 562 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 261
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 1 | 100% | $742,632 | +$73,744 |
+| SDTrading | 10 | 11 | 3 | 48% | $724,237 | -$54,216 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
-| SDTrading | 10 | 11 | 2 | 48% | $695,751 | -$54,216 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $43,510 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | — | ⏳ Pendiente |
 | sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | -$28,844 | ❌ Perdida |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | +$12,826 | ✅ Ganada |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | -$33,684 | ❌ Perdida |
-| Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | +$42,944 | ✅ Ganada |
