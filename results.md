@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:15:15 (hora de Perú)
+Actualizado: 2026-08-30 10:17:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1419**  ($77,325,474 en total)
-- Resueltas: **1371** — 808 ganadas / 563 perdidas (**59%** de acierto)
-- Pendientes: 44
+- Resueltas: **1375** — 810 ganadas / 565 perdidas (**59%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 262
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,662,984** sobre $75,317,831 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,031** sobre $134,700 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$1,649,881** sobre $75,437,040 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,106** sobre $135,100 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 120 | 74 | 5 | 62% | $14,358,106 | +$864,430 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 74 | 4 | 62% | $14,358,106 | +$886,804 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 1 | 58% | $4,249,761 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 16 | 6 | 3 | 73% | $3,061,135 | +$566,608 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 9 | 1 | 55% | $1,390,442 | -$545,230 |
-| vito3corleone | 8 | 6 | 6 | 57% | $1,292,190 | +$482,783 |
+| vito3corleone | 8 | 8 | 4 | 50% | $1,292,190 | +$428,785 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | beachboy4 | 8 | 8 | 0 | 50% | $1,152,034 | +$183,862 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | — | ⏳ Pendiente |
-| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | — | ⏳ Pendiente |
-| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | — | ⏳ Pendiente |
+| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | -$27,007 | ❌ Perdida |
+| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | -$26,990 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $43,510 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | — | ⏳ Pendiente |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | — | ⏳ Pendiente |
 | Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
 | RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
 | suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | — | ⏳ Pendiente |
 | AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | — | ⏳ Pendiente |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | +$10,920 | ✅ Ganada |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
-| CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | — | ⏳ Pendiente |
+| CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | +$18,519 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | -$28,724 | ❌ Perdida |
