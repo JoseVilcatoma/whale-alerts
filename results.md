@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 09:38:12 (hora de Perú)
+Actualizado: 2026-08-30 09:40:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1410**  ($76,896,700 en total)
+- Apuestas registradas: **1411**  ($76,944,113 en total)
 - Resueltas: **1369** — 806 ganadas / 563 perdidas (**59%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 262
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 6 | 2 | 57% | $1,066,322 | +$482,783 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 1 | 100% | $742,632 | +$73,744 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 2 | 100% | $790,044 | +$73,744 |
 | SDTrading | 10 | 11 | 3 | 48% | $724,237 | -$54,216 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | HMLSF | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $27,869 | +$464 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | +$35,731 | ✅ Ganada |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | +$11,656 | ✅ Ganada |
-| NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | -$34,770 | ❌ Perdida |
