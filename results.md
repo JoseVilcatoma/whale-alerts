@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:19:24 (hora de Perú)
+Actualizado: 2026-08-30 10:21:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1419**  ($77,325,474 en total)
-- Resueltas: **1376** — 811 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 39
+- Resueltas: **1377** — 812 ganadas / 565 perdidas (**59%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 262
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,657,264** sobre $75,470,674 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,084** sobre $135,200 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$1,676,791** sobre $75,503,923 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,025** sobre $135,300 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
 | RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
-| suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | — | ⏳ Pendiente |
+| suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | +$19,527 | ✅ Ganada |
 | AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | — | ⏳ Pendiente |
 | ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
