@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 03:35:06 (hora de Perú)
+Actualizado: 2026-08-30 03:37:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1371**  ($75,184,993 en total)
+- Apuestas registradas: **1372**  ($75,233,993 en total)
 - Resueltas: **1359** — 799 ganadas / 560 perdidas (**59%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 256
+- Pendientes: 9
+- Apostadores distintos: 257
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
-_(mostrando los 40 de mayor monto, de 256 en total)_
+_(mostrando los 40 de mayor monto, de 257 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | — | ⏳ Pendiente |
 | predictionlegend | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.27 (44¢) | $29,038 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 256 en total)_
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.47 (68¢) | $109,350 | -$109,350 | ❌ Perdida |
 | Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | +$96,074 | ✅ Ganada |
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | -$32,400 | ❌ Perdida |
-| Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | -$44,073 | ❌ Perdida |
