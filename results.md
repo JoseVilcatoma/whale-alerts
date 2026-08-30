@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 20:58:14 (hora de Perú)
+Actualizado: 2026-08-29 21:00:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1364**  ($74,950,041 en total)
-- Resueltas: **1338** — 782 ganadas / 556 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Resueltas: **1339** — 783 ganadas / 556 perdidas (**58%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,012,474** sobre $73,581,161 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$7,075** sobre $131,400 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,088,764** sobre $73,657,452 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$6,975** sobre $131,500 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | 0b1 | 20 | 1 | 3 | 95% | $800,346 | +$62,040 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| WTSA | 3 | 7 | 3 | 30% | $706,642 | -$162,744 |
+| WTSA | 4 | 7 | 2 | 36% | $706,642 | -$86,454 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | — | ⏳ Pendiente |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | — | ⏳ Pendiente |
 | NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | — | ⏳ Pendiente |
-| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | — | ⏳ Pendiente |
+| WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | +$76,291 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | -$28,844 | ❌ Perdida |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | +$12,826 | ✅ Ganada |
