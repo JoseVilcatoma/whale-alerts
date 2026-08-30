@@ -21542,7 +21542,7 @@
     "side": "BUY",
     "usd": 26375.6556,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788114568,
     "fills": 1
   },
@@ -21587,7 +21587,7 @@
     "side": "BUY",
     "usd": 42000.0,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788115091,
     "fills": 1
   },
@@ -21602,7 +21602,7 @@
     "side": "BUY",
     "usd": 29718.62,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788115536,
     "fills": 1
   },
@@ -21784,6 +21784,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1788127991,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2990,
+    "timestamp": 1788129879,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-navarro-boisson-2026-08-30",
+    "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+    "outcome": "Emma Navarro",
+    "side": "BUY",
+    "usd": 49999.999998,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1788129879,
     "fills": 1
   }
 ]
