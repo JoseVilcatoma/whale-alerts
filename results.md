@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 16:40:10 (hora de Perú)
+Actualizado: 2026-08-30 16:42:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1448**  ($78,934,122 en total)
-- Resueltas: **1428** — 836 ganadas / 592 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **1429** — 836 ganadas / 593 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$972,676** sobre $78,242,484 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$7,345** sobre $140,400 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$943,427** sobre $78,271,733 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$7,445** sobre $140,500 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | — | ⏳ Pendiente |
-| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | — | ⏳ Pendiente |
+| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | -$29,249 | ❌ Perdida |
 | Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | dsasdaas | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.18 (85¢) | $28,328 | +$4,999 | ✅ Ganada |
