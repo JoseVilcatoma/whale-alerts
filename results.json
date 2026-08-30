@@ -21365,5 +21365,20 @@
     "status": "pending",
     "ultimo_fill": 1788103803,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2902,
+    "timestamp": 1788104319,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-majchrz-medjedo-2026-08-30",
+    "title": "US Open ATP: Kamil Majchrzak vs Hamad Medjedovic",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "usd": 110658.4852,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1788104328,
+    "fills": 2
   }
 ]
