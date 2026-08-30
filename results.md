@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 14:31:08 (hora de Perú)
+Actualizado: 2026-08-30 14:33:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1441**  ($78,642,079 en total)
-- Resueltas: **1391** — 820 ganadas / 571 perdidas (**59%** de acierto)
-- Pendientes: 46
+- Resueltas: **1392** — 821 ganadas / 571 perdidas (**59%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,232,220** sobre $76,490,175 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,316** sobre $136,700 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$1,262,820** sobre $76,519,575 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,212** sobre $136,800 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 12 | 11 | 1 | 52% | $1,007,158 | +$38,082 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 11 | 0 | 1 | 100% | $844,642 | +$84,696 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
-| SDTrading | 10 | 11 | 3 | 48% | $724,237 | -$54,216 |
+| SDTrading | 11 | 11 | 2 | 50% | $724,237 | -$23,616 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | -$25,760 | ❌ Perdida |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | — | ⏳ Pendiente |
-| SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
+| SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | +$30,600 | ✅ Ganada |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | — | ⏳ Pendiente |
 | ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | — | ⏳ Pendiente |
