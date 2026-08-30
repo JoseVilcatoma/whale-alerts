@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:46:09 (hora de Perú)
+Actualizado: 2026-08-30 10:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1423**  ($77,658,677 en total)
+- Apuestas registradas: **1424**  ($77,684,135 en total)
 - Resueltas: **1377** — 812 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 263
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 74 | 4 | 62% | $14,358,106 | +$886,804 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 1 | 58% | $4,249,761 | +$131,841 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 16 | 6 | 3 | 73% | $3,061,135 | +$566,608 |
 | AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $25,458 | — | ⏳ Pendiente |
 | mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.79 (56¢) | $110,733 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Medjedovic | Kamil Majchrzak | 1.28 (78¢) | $110,658 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | Shori888 | Will FC Augsburg win on 2026-08-30? | Yes | 2.33 (43¢) | $27,860 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | -$49,080 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
