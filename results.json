@@ -20910,10 +20910,25 @@
     "title": "Will Sunderland AFC win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 102721.84,
+    "usd": 154845.58,
     "odds_at_bet": 43,
     "status": "pending",
-    "ultimo_fill": 1788093444,
+    "ultimo_fill": 1788093457,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 2858,
+    "timestamp": 1788093549,
+    "username": "GrizzliesSuck",
+    "wallet": "0x412fe1a101554f0b382181c3af932e4b2d8030fa",
+    "slug": "epl-che-bri-2026-08-30-che",
+    "title": "Will Chelsea FC win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27504.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788093549,
     "fills": 1
   }
 ]

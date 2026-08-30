@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:37:27 (hora de Perú)
+Actualizado: 2026-08-30 07:39:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1391**  ($76,105,562 en total)
+- Apuestas registradas: **1392**  ($76,185,190 en total)
 - Resueltas: **1363** — 802 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 260
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 7 | 62% | $14,276,886 | +$851,123 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
+| 3edmond.dantes | 15 | 6 | 1 | 71% | $2,890,151 | +$535,497 |
 | AV23IUa | 27 | 22 | 1 | 55% | $2,888,272 | -$198,174 |
-| 3edmond.dantes | 15 | 6 | 1 | 71% | $2,838,028 | +$535,497 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $102,722 | — | ⏳ Pendiente |
+| GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | — | ⏳ Pendiente |
 | Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.45 (69¢) | $69,323 | +$31,145 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.39 (72¢) | $39,715 | +$15,445 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-08-29? | No | 1.10 (91¢) | $82,850 | +$8,194 | ✅ Ganada |
-| 0b1 | Lions vs. Colts | Lions | 1.06 (94¢) | $32,221 | +$2,057 | ✅ Ganada |
