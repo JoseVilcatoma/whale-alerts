@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 21:56:46 (hora de Perú)
+Actualizado: 2026-08-29 22:00:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1364**  ($74,950,041 en total)
-- Resueltas: **1348** — 791 ganadas / 557 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Resueltas: **1349** — 792 ganadas / 557 perdidas (**59%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,212,297** sobre $74,088,686 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,556** sobre $132,400 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,242,297** sobre $74,118,686 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,456** sobre $132,500 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 0 | 100% | $708,998 | +$73,744 |
-| WTSA | 4 | 7 | 2 | 36% | $706,642 | -$86,454 |
+| WTSA | 5 | 7 | 1 | 42% | $706,642 | -$56,454 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
 | SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | — | ⏳ Pendiente |
-| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | beachboy4 | Will Inter Miami CF win on 2026-08-29? | Yes | 1.41 (71¢) | $220,509 | — | ⏳ Pendiente |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.16 (86¢) | $25,231 | +$4,107 | ✅ Ganada |
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | +$5,136 | ✅ Ganada |
