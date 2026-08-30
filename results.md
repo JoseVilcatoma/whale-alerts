@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 14:47:50 (hora de Perú)
+Actualizado: 2026-08-30 14:49:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1441**  ($78,642,079 en total)
-- Resueltas: **1392** — 821 ganadas / 571 perdidas (**59%** de acierto)
-- Pendientes: 45
+- Resueltas: **1405** — 825 ganadas / 580 perdidas (**59%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,262,820** sobre $76,519,575 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,212** sobre $136,800 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$1,270,044** sobre $77,278,540 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,662** sobre $138,100 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,17 +24,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 74 | 7 | 62% | $14,474,257 | +$886,804 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 76 | 5 | 61% | $14,474,257 | +$749,313 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
-| 3edmond.dantes | 16 | 8 | 3 | 67% | $3,460,415 | +$167,328 |
+| 3edmond.dantes | 18 | 8 | 1 | 69% | $3,460,415 | +$448,787 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
+| AV23IUa | 28 | 22 | 2 | 56% | $2,981,887 | -$102,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 1 | 69% | $2,077,360 | +$833,963 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| wr0ngw4yb3tt0r | 11 | 9 | 1 | 55% | $1,390,442 | -$545,230 |
+| wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
 | beachboy4 | 10 | 8 | 0 | 56% | $1,328,584 | +$230,529 |
 | vito3corleone | 8 | 8 | 4 | 50% | $1,292,190 | +$428,785 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| ChinesePro | 2 | 6 | 2 | 25% | $421,545 | -$203,138 |
+| ChinesePro | 2 | 8 | 0 | 20% | $421,545 | -$287,545 |
 | NiNo999 | 3 | 6 | 0 | 33% | $383,612 | -$190,862 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -114,20 +114,20 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | +$30,600 | ✅ Ganada |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | — | ⏳ Pendiente |
-| ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | — | ⏳ Pendiente |
+| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | +$34,752 | ✅ Ganada |
+| ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | -$26,407 | ❌ Perdida |
+| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | +$76,199 | ✅ Ganada |
 | 3edmond.dantes | Will Fulham FC win on 2026-08-30? | No | 1.39 (72¢) | $80,000 | +$31,111 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $37,245 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $81,220 | — | ⏳ Pendiente |
-| GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | — | ⏳ Pendiente |
-| Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $37,245 | -$37,245 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $81,220 | -$81,220 | ❌ Perdida |
+| GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | -$27,504 | ❌ Perdida |
+| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | +$205,260 | ✅ Ganada |
+| Netrol | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $46,416 | -$46,416 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | -$56,271 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
 | RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
 | suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | +$19,527 | ✅ Ganada |
-| AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | — | ⏳ Pendiente |
-| ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | +$96,000 | ✅ Ganada |
+| ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | -$27,867 | ❌ Perdida |
