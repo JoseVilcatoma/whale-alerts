@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 18:04:27 (hora de Perú)
+Actualizado: 2026-08-30 18:06:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1452**  ($79,173,609 en total)
-- Resueltas: **1439** — 842 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1440** — 843 ganadas / 597 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$976,720** sobre $78,611,964 apostados (ROI **+1.2%**)
+- **Resultado de los apostadores: +$984,691** sobre $78,661,964 apostados (ROI **+1.3%**)
 - Copiando $100 fijo en cada una: **-$7,354** sobre $141,500 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 12 | 11 | 1 | 52% | $1,007,158 | +$38,082 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 2 | 67% | $750,693 | +$28,660 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 6 | 1 | 68% | $750,693 | +$36,631 |
 | SDTrading | 11 | 13 | 0 | 46% | $724,237 | -$80,301 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.35 (74¢) | $25,068 | — | ⏳ Pendiente |
