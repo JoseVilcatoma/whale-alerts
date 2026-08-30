@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 17:50:23 (hora de Perú)
+Actualizado: 2026-08-30 17:52:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1451**  ($79,142,247 en total)
-- Resueltas: **1438** — 842 ganadas / 596 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1439** — 842 ganadas / 597 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,006,419** sobre $78,582,265 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$7,254** sobre $141,400 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$976,720** sobre $78,611,964 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$7,354** sobre $141,500 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | dsasdaas | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.18 (85¢) | $28,328 | +$4,999 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.19 (84¢) | $44,438 | +$8,464 | ✅ Ganada |
 | ripley86alien | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $26,376 | +$36,424 | ✅ Ganada |
-| gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | — | ⏳ Pendiente |
+| gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | -$29,700 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | +$30,665 | ✅ Ganada |
 | 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $287,086 | -$287,086 | ❌ Perdida |
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | -$74,546 | ❌ Perdida |
