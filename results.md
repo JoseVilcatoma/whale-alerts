@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 00:42:58 (hora de Perú)
+Actualizado: 2026-08-30 00:45:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1366**  ($75,025,873 en total)
+- Apuestas registradas: **1367**  ($75,053,733 en total)
 - Resueltas: **1358** — 799 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 4
-- Apostadores distintos: 255
+- Pendientes: 5
+- Apostadores distintos: 256
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
-_(mostrando los 40 de mayor monto, de 255 en total)_
+_(mostrando los 40 de mayor monto, de 256 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Shori888 | Will FC Augsburg win on 2026-08-30? | Yes | 2.33 (43¢) | $27,860 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | — | ⏳ Pendiente |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
 | pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | +$35,354 | ✅ Ganada |
