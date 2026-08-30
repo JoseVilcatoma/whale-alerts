@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 06:29:12 (hora de Perú)
+Actualizado: 2026-08-30 06:31:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1377**  ($75,397,518 en total)
+- Apuestas registradas: **1378**  ($75,427,162 en total)
 - Resueltas: **1360** — 799 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 258
+- Pendientes: 14
+- Apostadores distintos: 259
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
-_(mostrando los 40 de mayor monto, de 258 en total)_
+_(mostrando los 40 de mayor monto, de 259 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | — | ⏳ Pendiente |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 258 en total)_
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | -$157,933 | ❌ Perdida |
 | NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | +$31,096 | ✅ Ganada |
 | HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | +$138,000 | ✅ Ganada |
