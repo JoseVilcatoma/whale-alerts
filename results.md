@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 20:26:45 (hora de Perú)
+Actualizado: 2026-08-29 20:28:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1363**  ($74,828,484 en total)
+- Apuestas registradas: **1363**  ($74,923,532 en total)
 - Resueltas: **1337** — 782 ganadas / 555 perdidas (**58%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 255
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 7 | 2 | 61% | $1,353,197 | -$400,650 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| beachboy4 | 6 | 8 | 2 | 43% | $1,152,034 | -$58,831 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
-| beachboy4 | 6 | 8 | 2 | 43% | $1,056,986 | -$58,831 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 11 | 11 | 1 | 50% | $978,162 | -$4,862 |
 | 0b1 | 20 | 1 | 3 | 95% | $800,346 | +$62,040 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $57,577 | — | ⏳ Pendiente |
+| beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | — | ⏳ Pendiente |
 | kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | — | ⏳ Pendiente |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | — | ⏳ Pendiente |
