@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 08:35:16 (hora de Perú)
+Actualizado: 2026-08-30 08:37:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1398**  ($76,505,193 en total)
-- Resueltas: **1363** — 802 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Apuestas registradas: **1399**  ($76,534,593 en total)
+- Resueltas: **1365** — 804 ganadas / 561 perdidas (**59%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 261
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,592,568** sobre $74,964,006 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$6,097** sobre $133,900 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$1,633,741** sobre $75,033,500 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$5,980** sobre $134,100 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 8 | 62% | $14,358,106 | +$851,123 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 120 | 73 | 6 | 62% | $14,358,106 | +$892,296 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 3 | 71% | $3,027,635 | +$535,497 |
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 1 | 100% | $742,632 | +$73,744 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
+| SDTrading | 10 | 11 | 1 | 48% | $667,551 | -$54,216 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
-| SDTrading | 10 | 11 | 0 | 48% | $638,151 | -$54,216 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | — | ⏳ Pendiente |
 | ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | — | ⏳ Pendiente |
@@ -88,9 +89,9 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 | ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | +$15,840 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | +$25,333 | ✅ Ganada |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | — | ⏳ Pendiente |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 | 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | -$26,140 | ❌ Perdida |
 | xifutloong3 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 1.52 (66¢) | $27,067 | +$13,944 | ✅ Ganada |
 | xifutloong3 | Miami Marlins vs. Washington Nationals | Washington Nationals | 2.04 (49¢) | $30,692 | +$31,945 | ✅ Ganada |
-| fkcvffcjt | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 1.25 (80¢) | $32,053 | +$8,013 | ✅ Ganada |

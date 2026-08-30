@@ -20732,7 +20732,7 @@
     "side": "BUY",
     "usd": 41333.3292,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788089822,
     "fills": 1
   },
@@ -20762,7 +20762,7 @@
     "side": "BUY",
     "usd": 28160.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788090863,
     "fills": 1
   },
@@ -21019,6 +21019,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1788093863,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2865,
+    "timestamp": 1788096969,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mia-wsh-2026-08-30",
+    "title": "Miami Marlins vs. Washington Nationals",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "usd": 29400.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788096969,
     "fills": 1
   }
 ]
