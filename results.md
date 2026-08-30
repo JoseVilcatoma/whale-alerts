@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 18:22:59 (hora de Perú)
+Actualizado: 2026-08-30 18:25:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1454**  ($79,249,008 en total)
+- Apuestas registradas: **1455**  ($79,292,793 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 264
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
+| ferrariChampions2026 | 11 | 5 | 1 | 69% | $586,890 | -$93,626 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| ferrariChampions2026 | 11 | 5 | 0 | 69% | $543,105 | -$93,626 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | xifutloong3 | 8 | 9 | 0 | 47% | $513,691 | -$135,015 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | +$34,752 | ✅ Ganada |
 | ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | -$26,407 | ❌ Perdida |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | +$76,199 | ✅ Ganada |
-| 3edmond.dantes | Will Fulham FC win on 2026-08-30? | No | 1.39 (72¢) | $80,000 | +$31,111 | ✅ Ganada |
