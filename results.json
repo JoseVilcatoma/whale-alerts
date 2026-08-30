@@ -21515,5 +21515,20 @@
     "status": "pending",
     "ultimo_fill": 1788105822,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2920,
+    "timestamp": 1788114535,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "sea-cag-int-2026-08-30-int",
+    "title": "Will FC Internazionale Milano win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29699.699999999997,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1788114535,
+    "fills": 1
   }
 ]

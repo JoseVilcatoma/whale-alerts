@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 13:27:17 (hora de Perú)
+Actualizado: 2026-08-30 13:29:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1431**  ($78,294,732 en total)
+- Apuestas registradas: **1432**  ($78,324,432 en total)
 - Resueltas: **1384** — 816 ganadas / 568 perdidas (**59%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 263
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $287,086 | — | ⏳ Pendiente |
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | +$18,519 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
