@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 08:43:26 (hora de Perú)
+Actualizado: 2026-08-30 08:45:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1401**  ($76,593,358 en total)
+- Apuestas registradas: **1403**  ($76,669,223 en total)
 - Resueltas: **1366** — 804 ganadas / 562 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 261
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 1 | 58% | $4,249,761 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | 3edmond.dantes | 15 | 6 | 3 | 71% | $3,027,635 | +$535,497 |
-| AV23IUa | 27 | 22 | 1 | 55% | $2,888,272 | -$198,174 |
+| AV23IUa | 27 | 22 | 2 | 55% | $2,938,377 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 0 | 69% | $2,050,985 | +$833,963 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | — | ⏳ Pendiente |
+| sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | — | ⏳ Pendiente |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | — | ⏳ Pendiente |
 | SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 261 en total)_
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | -$33,684 | ❌ Perdida |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | +$42,944 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | -$108,295 | ❌ Perdida |
-| bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | +$17,437 | ✅ Ganada |
-| 0b1 | Kansas City Royals vs. Cleveland Guardians | Cleveland Guardians | 1.15 (87¢) | $26,140 | -$26,140 | ❌ Perdida |
