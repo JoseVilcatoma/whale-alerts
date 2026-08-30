@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:02:53 (hora de Perú)
+Actualizado: 2026-08-30 10:04:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1418**  ($77,267,474 en total)
+- Apuestas registradas: **1419**  ($77,325,474 en total)
 - Resueltas: **1369** — 806 ganadas / 563 perdidas (**59%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 262
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | +$54,308 | ✅ Ganada |
-| WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
