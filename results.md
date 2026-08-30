@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:21:10 (hora de Perú)
+Actualizado: 2026-08-30 07:23:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1384**  ($75,664,583 en total)
-- Resueltas: **1361** — 800 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Resueltas: **1363** — 802 ganadas / 561 perdidas (**59%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 260
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,414,943** sobre $74,786,381 apostados (ROI **+1.9%**)
-- Copiando $100 fijo en cada una: **-$6,297** sobre $133,700 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$1,592,568** sobre $74,964,006 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,097** sobre $133,900 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 9 | 0 | 55% | $1,353,197 | -$545,230 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| beachboy4 | 7 | 8 | 1 | 47% | $1,152,034 | +$31,236 |
+| beachboy4 | 8 | 8 | 0 | 50% | $1,152,034 | +$183,862 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | vito3corleone | 8 | 6 | 0 | 57% | $1,012,325 | +$482,783 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
@@ -92,8 +92,8 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | -$49,080 | ❌ Perdida |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
-| beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | — | ⏳ Pendiente |
-| kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | +$152,625 | ✅ Ganada |
+| kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
 | WTSA | Will Nashville SC win on 2026-08-29? | Yes | 1.79 (56¢) | $69,120 | +$54,308 | ✅ Ganada |
 | WTSA | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
