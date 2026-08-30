@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 15:41:05 (hora de Perú)
+Actualizado: 2026-08-30 15:43:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1443**  ($78,705,104 en total)
+- Apuestas registradas: **1445**  ($78,797,309 en total)
 - Resueltas: **1417** — 832 ganadas / 585 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 264
 
 ### Balance
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 77 | 5 | 61% | $14,511,282 | +$719,600 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 121 | 77 | 6 | 61% | $14,562,482 | +$719,600 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 2 | 58% | $4,275,218 | +$131,841 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 28 | 22 | 2 | 56% | $2,981,887 | -$102,174 |
+| AV23IUa | 28 | 22 | 3 | 56% | $3,022,891 | -$102,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 11 | 5 | 1 | 69% | $2,077,360 | +$833,963 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 2.00 (50¢) | $41,005 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.00 (50¢) | $51,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaume Munar vs Terence Atmane | Terence Atmane | 1.61 (62¢) | $37,025 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Jaume Munar vs Terence Atmane | Jaume Munar | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
 | RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
 | suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | +$19,527 | ✅ Ganada |
-| AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | +$96,000 | ✅ Ganada |
-| ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |

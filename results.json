@@ -21695,5 +21695,35 @@
     "status": "pending",
     "ultimo_fill": 1788121635,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2965,
+    "timestamp": 1788122581,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-sd-tb-2026-08-30",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 41004.67758,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788122581,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2966,
+    "timestamp": 1788122581,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sd-tb-2026-08-30",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 51199.99999900001,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788122581,
+    "fills": 1
   }
 ]
