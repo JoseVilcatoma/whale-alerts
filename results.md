@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 07:17:08 (hora de Perú)
+Actualizado: 2026-08-30 07:19:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1384**  ($75,664,583 en total)
-- Resueltas: **1360** — 799 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **1361** — 800 ganadas / 561 perdidas (**59%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 260
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,363,943** sobre $74,737,381 apostados (ROI **+1.8%**)
-- Copiando $100 fijo en cada una: **-$6,401** sobre $133,600 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,414,943** sobre $74,786,381 apostados (ROI **+1.9%**)
+- Copiando $100 fijo en cada una: **-$6,297** sobre $133,700 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 260 en total)_
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | -$28,724 | ❌ Perdida |
 | predictionlegend | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.27 (44¢) | $29,038 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | — | ⏳ Pendiente |
