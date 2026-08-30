@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 09:34:06 (hora de Perú)
+Actualizado: 2026-08-30 09:36:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1410**  ($76,896,700 en total)
-- Resueltas: **1366** — 804 ganadas / 562 perdidas (**59%** de acierto)
-- Pendientes: 40
+- Resueltas: **1369** — 806 ganadas / 563 perdidas (**59%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 262
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,605,874** sobre $75,061,367 apostados (ROI **+2.1%**)
-- Copiando $100 fijo en cada una: **-$6,080** sobre $134,200 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$1,604,734** sobre $75,174,507 apostados (ROI **+2.1%**)
+- Copiando $100 fijo en cada una: **-$6,113** sobre $134,500 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,13 +98,13 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | — | ⏳ Pendiente |
 | AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | — | ⏳ Pendiente |
 | ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | — | ⏳ Pendiente |
-| Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | — | ⏳ Pendiente |
+| Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | -$27,867 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | +$15,840 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | -$28,860 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | +$25,333 | ✅ Ganada |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | — | ⏳ Pendiente |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | +$10,920 | ✅ Ganada |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | — | ⏳ Pendiente |
