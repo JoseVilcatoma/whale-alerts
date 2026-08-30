@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 06:35:18 (hora de Perú)
+Actualizado: 2026-08-30 06:37:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1378**  ($75,427,162 en total)
+- Apuestas registradas: **1379**  ($75,468,496 en total)
 - Resueltas: **1360** — 799 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 259
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 2 | 62% | $14,088,259 | +$851,123 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 3 | 62% | $14,129,592 | +$851,123 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 259 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | — | ⏳ Pendiente |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.35 (74¢) | $31,080 | — | ⏳ Pendiente |
 | bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 259 en total)_
 | NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | -$52,500 | ❌ Perdida |
 | ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | -$157,933 | ❌ Perdida |
 | NiNo999 | Spread: Juventus FC (-1.5) | Juventus FC | 1.69 (59¢) | $44,747 | +$31,096 | ✅ Ganada |
-| HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
