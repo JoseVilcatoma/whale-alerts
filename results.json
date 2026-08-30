@@ -21665,5 +21665,20 @@
     "status": "pending",
     "ultimo_fill": 1788118169,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 2963,
+    "timestamp": 1788121462,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "atp-munar-atmane-2026-08-30",
+    "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+    "outcome": "Jaume Munar",
+    "side": "BUY",
+    "usd": 25999.99,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1788121462,
+    "fills": 1
   }
 ]

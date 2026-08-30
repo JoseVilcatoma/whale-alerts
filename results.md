@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 15:22:37 (hora de Perú)
+Actualizado: 2026-08-30 15:24:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1441**  ($78,642,079 en total)
+- Apuestas registradas: **1442**  ($78,668,079 en total)
 - Resueltas: **1417** — 832 ganadas / 585 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 264
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BillyGating | US Open ATP: Jaume Munar vs Terence Atmane | Jaume Munar | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | AV23IUa | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $104,000 | +$96,000 | ✅ Ganada |
 | ChinesePro | Will Sunderland AFC win on 2026-08-30? | No | 1.72 (58¢) | $58,000 | -$58,000 | ❌ Perdida |
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | -$27,867 | ❌ Perdida |
