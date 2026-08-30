@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 14:22:53 (hora de Perú)
+Actualizado: 2026-08-30 14:24:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1439**  ($78,553,538 en total)
+- Apuestas registradas: **1440**  ($78,587,481 en total)
 - Resueltas: **1391** — 820 ganadas / 571 perdidas (**59%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 264
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | — | ⏳ Pendiente |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | — | ⏳ Pendiente |
 | Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | +$16,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | -$27,867 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | +$15,840 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | -$28,860 | ❌ Perdida |
