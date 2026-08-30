@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 19:46:44 (hora de Perú)
+Actualizado: 2026-08-29 19:48:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1362**  ($74,770,907 en total)
-- Resueltas: **1334** — 780 ganadas / 554 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Resueltas: **1335** — 780 ganadas / 555 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,062,866** sobre $73,453,102 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$6,910** sobre $131,100 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,029,183** sobre $73,486,786 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$7,010** sobre $131,200 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.50 (40¢) | $28,844 | -$28,844 | ❌ Perdida |
 | 0b1 | Jacksonville State vs. North Dakota State Bison | North Dakota State Bison | 1.35 (74¢) | $36,506 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma | 1.18 (85¢) | $33,684 | -$33,684 | ❌ Perdida |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $36,582 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. New York Yankees: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $108,295 | — | ⏳ Pendiente |
 | bloodmaster | LoL: Team Liquid vs Shopify Rebellion - Game 2 Winner | Team Liquid | 1.27 (79¢) | $65,595 | +$17,437 | ✅ Ganada |
