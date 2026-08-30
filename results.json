@@ -20777,7 +20777,7 @@
     "side": "BUY",
     "usd": 27866.946599999996,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788090884,
     "fills": 1
   },
@@ -21034,6 +21034,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1788096969,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2868,
+    "timestamp": 1788097085,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-lad-det-2026-08-30",
+    "title": "Los Angeles Dodgers vs. Detroit Tigers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 30565.231200000002,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1788097085,
     "fills": 1
   }
 ]
