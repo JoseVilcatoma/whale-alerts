@@ -21350,5 +21350,20 @@
     "status": "pending",
     "ultimo_fill": 1788103670,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2901,
+    "timestamp": 1788103803,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-shimabu-rinderk-2026-08-30",
+    "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
+    "outcome": "Arthur Rinderknech",
+    "side": "BUY",
+    "usd": 65891.32089999999,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1788103803,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:29:43 (hora de Perú)
+Actualizado: 2026-08-30 10:31:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1420**  ($77,371,394 en total)
+- Apuestas registradas: **1421**  ($77,437,285 en total)
 - Resueltas: **1377** — 812 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 262
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 9 | 1 | 55% | $1,390,442 | -$545,230 |
 | vito3corleone | 8 | 8 | 4 | 50% | $1,292,190 | +$428,785 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| beachboy4 | 8 | 8 | 0 | 50% | $1,152,034 | +$183,862 |
+| beachboy4 | 8 | 8 | 1 | 50% | $1,217,926 | +$183,862 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | — | ⏳ Pendiente |
 | n0tTODAY | Will Manchester United FC vs. Ipswich Town FC end in a draw? | No | 1.22 (82¢) | $45,920 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | — | ⏳ Pendiente |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | +$12,475 | ✅ Ganada |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | +$152,625 | ✅ Ganada |
 | kluckkluck | Will CR Vasco da Gama win on 2026-08-29? | Yes | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| coltsmildx | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.45 (69¢) | $30,000 | +$13,478 | ✅ Ganada |
