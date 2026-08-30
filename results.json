@@ -21892,5 +21892,35 @@
     "status": "pending",
     "ultimo_fill": 1788132421,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3003,
+    "timestamp": 1788133104,
+    "username": "AGUGava",
+    "wallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+    "slug": "atp-tirante-mannari-2026-08-30",
+    "title": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
+    "outcome": "Adrian Mannarino",
+    "side": "BUY",
+    "usd": 25471.615800000003,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788133104,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3004,
+    "timestamp": 1788133109,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-navone-djokovi-2026-08-30",
+    "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "usd": 29339.486753999998,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1788133109,
+    "fills": 1
   }
 ]

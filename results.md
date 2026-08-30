@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 18:37:26 (hora de Perú)
+Actualizado: 2026-08-30 18:39:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1456**  ($79,317,966 en total)
+- Apuestas registradas: **1458**  ($79,372,777 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 264
+- Pendientes: 13
+- Apostadores distintos: 265
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 5 | 61% | $14,657,912 | +$697,839 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 6 | 61% | $14,687,252 | +$697,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 | RegardedMoney | 6 | 1 | 0 | ⚠️ 86% (7) | $374,880 | +$16,535 |
 
-_(mostrando los 40 de mayor monto, de 264 en total)_
+_(mostrando los 40 de mayor monto, de 265 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | — | ⏳ Pendiente |
+| AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | — | ⏳ Pendiente |
 | kekasaur | Deportivo Toluca FC vs. FC Juárez: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $25,173 | — | ⏳ Pendiente |
 | ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | +$18,734 | ✅ Ganada |
 | SDTrading | Miami Marlins vs. Washington Nationals | Miami Marlins | 2.04 (49¢) | $29,400 | +$30,600 | ✅ Ganada |
-| 0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396 | Will Chelsea FC win on 2026-08-30? | Yes | 1.92 (52¢) | $37,648 | +$34,752 | ✅ Ganada |
-| ChinesePro | Will Chelsea FC win on 2026-08-30? | No | 2.13 (47¢) | $26,407 | -$26,407 | ❌ Perdida |
