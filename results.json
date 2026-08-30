@@ -21605,5 +21605,20 @@
     "status": "pending",
     "ultimo_fill": 1788115536,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2933,
+    "timestamp": 1788116240,
+    "username": "0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276",
+    "wallet": "0xb38a4db7a7c94973193ee586865c8c3d05563293",
+    "slug": "wnba-min-atl-2026-08-30",
+    "title": "Minnesota Lynx vs. Atlanta Dream",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "usd": 29249.43,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788116240,
+    "fills": 1
   }
 ]
