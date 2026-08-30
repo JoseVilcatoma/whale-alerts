@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:17:21 (hora de Perú)
+Actualizado: 2026-08-30 10:19:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1419**  ($77,325,474 en total)
-- Resueltas: **1375** — 810 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 40
+- Resueltas: **1376** — 811 ganadas / 565 perdidas (**59%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 262
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,649,881** sobre $75,437,040 apostados (ROI **+2.2%**)
-- Copiando $100 fijo en cada una: **-$6,106** sobre $135,100 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$1,657,264** sobre $75,470,674 apostados (ROI **+2.2%**)
+- Copiando $100 fijo en cada una: **-$6,084** sobre $135,200 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 9 | 0 | 2 | 100% | $790,044 | +$73,744 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 10 | 0 | 1 | 100% | $790,044 | +$81,127 |
 | SDTrading | 10 | 11 | 3 | 48% | $724,237 | -$54,216 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | -$28,724 | ❌ Perdida |
 | predictionlegend | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.27 (44¢) | $29,038 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | +$7,383 | ✅ Ganada |
 | crisp1973 | Will FC Augsburg win on 2026-08-30? | No | 1.75 (57¢) | $39,865 | — | ⏳ Pendiente |
 | Shori888 | Will FC Augsburg win on 2026-08-30? | Yes | 2.33 (43¢) | $27,860 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | -$49,080 | ❌ Perdida |
