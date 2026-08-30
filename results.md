@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 09:42:20 (hora de Perú)
+Actualizado: 2026-08-30 09:44:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1412**  ($76,996,169 en total)
+- Apuestas registradas: **1413**  ($77,029,669 en total)
 - Resueltas: **1369** — 806 ganadas / 563 perdidas (**59%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 262
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 120 | 74 | 5 | 62% | $14,358,106 | +$864,430 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 1 | 58% | $4,249,761 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| 3edmond.dantes | 15 | 6 | 3 | 71% | $3,027,635 | +$535,497 |
+| 3edmond.dantes | 15 | 6 | 4 | 71% | $3,061,135 | +$535,497 |
 | AV23IUa | 27 | 22 | 3 | 55% | $2,981,887 | -$198,174 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.18 (85¢) | $29,107 | +$5,136 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade | 1.79 (56¢) | $30,000 | -$30,000 | ❌ Perdida |
 | HMLSF | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $27,869 | +$464 | 💰 Vendida antes |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Athletics: O/U 9.5 | Under 9.5 | 2.08 (48¢) | $32,983 | +$35,731 | ✅ Ganada |
