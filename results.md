@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 09:19:50 (hora de Perú)
+Actualizado: 2026-08-30 09:21:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1408**  ($76,820,221 en total)
+- Apuestas registradas: **1409**  ($76,848,286 en total)
 - Resueltas: **1366** — 804 ganadas / 562 perdidas (**59%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 262
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | — | ⏳ Pendiente |
 | YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | — | ⏳ Pendiente |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 262 en total)_
 | 0b1 | Sacramento State Hornets vs. Eastern Michigan | Eastern Michigan | 1.32 (76¢) | $36,911 | +$11,656 | ✅ Ganada |
 | NiNo999 | Monterrey Open: Diane Parry vs Elise Mertens | Elise Mertens | 1.67 (60¢) | $34,770 | -$34,770 | ❌ Perdida |
 | WTSA | Spread: Inter Miami CF (-1.5) | Inter Miami CF | 2.00 (50¢) | $76,291 | +$76,291 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. New York Yankees: O/U 7.5 | Over 7.5 | 2.22 (45¢) | $77,958 | +$95,282 | ✅ Ganada |
