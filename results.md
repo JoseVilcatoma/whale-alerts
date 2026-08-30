@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 15:12:27 (hora de Perú)
+Actualizado: 2026-08-30 15:14:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1441**  ($78,642,079 en total)
-- Resueltas: **1406** — 826 ganadas / 580 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Resueltas: **1415** — 832 ganadas / 583 perdidas (**59%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,286,544** sobre $77,312,040 apostados (ROI **+1.7%**)
-- Copiando $100 fijo en cada una: **-$6,613** sobre $138,200 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,294,409** sobre $77,717,637 apostados (ROI **+1.7%**)
+- Copiando $100 fijo en cada una: **-$6,600** sobre $139,100 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
 | beachboy4 | 10 | 8 | 0 | 56% | $1,328,584 | +$230,529 |
-| vito3corleone | 8 | 8 | 4 | 50% | $1,292,190 | +$428,785 |
+| vito3corleone | 12 | 8 | 0 | 60% | $1,292,190 | +$523,806 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 12 | 11 | 1 | 52% | $1,007,158 | +$38,082 |
@@ -93,18 +93,18 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Medjedovic | Kamil Majchrzak | 1.28 (78¢) | $110,658 | +$31,211 | ✅ Ganada |
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | +$15,456 | ✅ Ganada |
 | n0tTODAY | Will Manchester United FC vs. Ipswich Town FC end in a draw? | No | 1.22 (82¢) | $45,920 | +$10,080 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | — | ⏳ Pendiente |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | — | ⏳ Pendiente |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
-| flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | -$58,000 | ❌ Perdida |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | +$43,500 | ✅ Ganada |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
+| flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
 | NiNo999 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton | 1.75 (57¢) | $34,994 | -$34,994 | ❌ Perdida |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | — | ⏳ Pendiente |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | +$13,633 | ✅ Ganada |
 | 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | +$16,500 | ✅ Ganada |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | — | ⏳ Pendiente |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | +$23,388 | ✅ Ganada |
 | Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | +$3,569 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | -$48,414 | ❌ Perdida |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | +$10,914 | ✅ Ganada |
-| YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | — | ⏳ Pendiente |
+| YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | +$2,778 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | -$27,007 | ❌ Perdida |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | -$26,990 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | — | ⏳ Pendiente |
