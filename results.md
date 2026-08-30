@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 15:59:31 (hora de Perú)
+Actualizado: 2026-08-30 16:01:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1445**  ($78,797,309 en total)
+- Apuestas registradas: **1446**  ($78,847,309 en total)
 - Resueltas: **1419** — 832 ganadas / 587 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 264
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | SDTrading | 11 | 13 | 0 | 46% | $724,237 | -$80,301 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 0 | 67% | $650,693 | +$28,660 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 12 | 6 | 1 | 67% | $700,693 | +$28,660 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.69 (59¢) | $50,000 | — | ⏳ Pendiente |
 | AV23IUa | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 2.00 (50¢) | $41,005 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.00 (50¢) | $51,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaume Munar vs Terence Atmane | Terence Atmane | 1.61 (62¢) | $37,025 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sunderland AFC win on 2026-08-30? | No | 1.75 (57¢) | $56,271 | -$56,271 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brentford FC win on 2026-08-30? | No | 1.64 (61¢) | $34,996 | +$22,374 | ✅ Ganada |
 | RegardedMoney | Will Fulham FC win on 2026-08-30? | No | 1.43 (70¢) | $63,325 | +$27,139 | ✅ Ganada |
-| suntori | Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score | Yes | 1.59 (63¢) | $33,249 | +$19,527 | ✅ Ganada |
