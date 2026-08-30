@@ -20675,5 +20675,20 @@
     "status": "pending",
     "ultimo_fill": 1788088392,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2838,
+    "timestamp": 1788088602,
+    "username": "bambambole",
+    "wallet": "0x087d5d7939d4757a4eb508c67028073eb900b872",
+    "slug": "epl-sun-ful-2026-08-30-sun",
+    "title": "Will Sunderland AFC win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28910.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788088602,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 06:14:50 (hora de Perú)
+Actualizado: 2026-08-30 06:16:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1375**  ($75,337,528 en total)
+- Apuestas registradas: **1376**  ($75,366,438 en total)
 - Resueltas: **1359** — 799 ganadas / 560 perdidas (**59%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 257
+- Pendientes: 13
+- Apostadores distintos: 258
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
-_(mostrando los 40 de mayor monto, de 257 en total)_
+_(mostrando los 40 de mayor monto, de 258 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bambambole | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $28,910 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Sunderland AFC win on 2026-08-30? | No | 1.69 (59¢) | $43,014 | — | ⏳ Pendiente |
 | CongoleseBorat | Will Brentford FC win on 2026-08-30? | No | 1.61 (62¢) | $30,216 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: LYON vs Team Liquid (BO3) - LCS Regular Season | Team Liquid | 2.08 (48¢) | $30,306 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 257 en total)_
 | HMLSF | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $39,521 | +$23,210 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Olympique Lyonnais win on 2026-08-29? | No | 3.23 (31¢) | $62,000 | +$138,000 | ✅ Ganada |
 | predictionlegend | Will Club Atlético de Madrid win on 2026-08-29? | Yes | 1.96 (51¢) | $51,000 | +$49,000 | ✅ Ganada |
-| 0b1 | Will Göztepe SK win on 2026-08-29? | No | 1.08 (93¢) | $35,964 | +$2,707 | ✅ Ganada |
