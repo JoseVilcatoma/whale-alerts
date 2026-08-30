@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 21:44:20 (hora de Perú)
+Actualizado: 2026-08-29 21:46:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1364**  ($74,950,041 en total)
-- Resueltas: **1347** — 790 ganadas / 557 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Resueltas: **1348** — 791 ganadas / 557 perdidas (**59%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 255
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,191,619** sobre $74,062,369 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$6,634** sobre $132,300 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,212,297** sobre $74,088,686 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$6,556** sobre $132,400 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | ferrariChampions2026 | 10 | 5 | 1 | 67% | $543,105 | -$106,101 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| xifutloong3 | 7 | 9 | 1 | 44% | $513,691 | -$155,693 |
+| xifutloong3 | 8 | 9 | 0 | 47% | $513,691 | -$135,015 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | Kch-Temp | Spread: Juventus FC (-1.5) | Juventus FC | 1.75 (57¢) | $127,354 | +$96,074 | ✅ Ganada |
 | SDTrading | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $32,400 | -$32,400 | ❌ Perdida |
 | Weaseloftheweek | Pittsburgh Pirates vs. St. Louis Cardinals | St. Louis Cardinals | 1.85 (54¢) | $44,073 | -$44,073 | ❌ Perdida |
-| xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | — | ⏳ Pendiente |
+| xifutloong3 | Boston Red Sox vs. New York Yankees | New York Yankees | 1.79 (56¢) | $26,317 | +$20,678 | ✅ Ganada |
 | justwins | Colorado Rockies vs. Atlanta Braves: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $69,000 | +$81,000 | ✅ Ganada |
 | pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
