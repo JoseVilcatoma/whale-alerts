@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 16:32:07 (hora de Perú)
+Actualizado: 2026-08-30 16:34:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1448**  ($78,934,122 en total)
-- Resueltas: **1426** — 836 ganadas / 590 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Resueltas: **1428** — 836 ganadas / 592 perdidas (**59%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,111,910** sobre $78,103,250 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$7,145** sobre $140,200 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$972,676** sobre $78,242,484 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$7,345** sobre $140,400 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,10 +93,10 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | -$74,546 | ❌ Perdida |
 | Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | +$20,818 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | -$29,712 | ❌ Perdida |
-| mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
+| mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.63 (38¢) | $112,194 | -$112,194 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $25,458 | -$25,458 | ❌ Perdida |
-| mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.79 (56¢) | $110,733 | — | ⏳ Pendiente |
+| mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.79 (56¢) | $110,733 | -$110,733 | ❌ Perdida |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Medjedovic | Kamil Majchrzak | 1.28 (78¢) | $110,658 | +$31,211 | ✅ Ganada |
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | +$15,456 | ✅ Ganada |
 | n0tTODAY | Will Manchester United FC vs. Ipswich Town FC end in a draw? | No | 1.22 (82¢) | $45,920 | +$10,080 | ✅ Ganada |
