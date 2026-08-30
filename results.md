@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 14:10:18 (hora de Perú)
+Actualizado: 2026-08-30 14:12:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1438**  ($78,524,542 en total)
+- Apuestas registradas: **1439**  ($78,553,538 en total)
 - Resueltas: **1391** — 820 ganadas / 571 perdidas (**59%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 264
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 8 | 8 | 4 | 50% | $1,292,190 | +$428,785 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
-| Sassy-Bucket | 12 | 11 | 0 | 52% | $978,162 | +$38,082 |
+| Sassy-Bucket | 12 | 11 | 1 | 52% | $1,007,158 | +$38,082 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 11 | 0 | 0 | 100% | $790,044 | +$84,696 |
 | SDTrading | 10 | 11 | 3 | 48% | $724,237 | -$54,216 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | — | ⏳ Pendiente |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | — | ⏳ Pendiente |
 | Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | -$27,867 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | +$15,840 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | -$28,860 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | +$25,333 | ✅ Ganada |

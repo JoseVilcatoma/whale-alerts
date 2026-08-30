@@ -21620,5 +21620,20 @@
     "status": "pending",
     "ultimo_fill": 1788116240,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2934,
+    "timestamp": 1788117088,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-phi-laa-2026-08-30",
+    "title": "Philadelphia Phillies vs. Los Angeles Angels",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 28996.039682,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788117088,
+    "fills": 1
   }
 ]
