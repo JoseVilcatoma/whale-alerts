@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 17:46:16 (hora de Perú)
+Actualizado: 2026-08-30 17:48:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1450**  ($79,044,122 en total)
+- Apuestas registradas: **1451**  ($79,142,247 en total)
 - Resueltas: **1438** — 842 ganadas / 596 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 264
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 29 | 23 | 2 | 56% | $3,082,891 | -$111,274 |
+| AV23IUa | 29 | 23 | 3 | 56% | $3,181,016 | -$111,274 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | — | ⏳ Pendiente |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | wr0ngw4yb3tt0r | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $37,245 | -$37,245 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $81,220 | -$81,220 | ❌ Perdida |
 | GrizzliesSuck | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $27,504 | -$27,504 | ❌ Perdida |
-| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $154,846 | +$205,260 | ✅ Ganada |

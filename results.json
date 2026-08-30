@@ -21800,5 +21800,20 @@
     "status": "pending",
     "ultimo_fill": 1788129879,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2994,
+    "timestamp": 1788130020,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-landalu-fearnle-2026-08-30",
+    "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
+    "outcome": "Martin Landaluce",
+    "side": "BUY",
+    "usd": 98125.00030000001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788130020,
+    "fills": 1
   }
 ]
