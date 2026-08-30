@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-29 22:41:37 (hora de Perú)
+Actualizado: 2026-08-29 22:43:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1365**  ($74,976,793 en total)
+- Apuestas registradas: **1366**  ($75,025,873 en total)
 - Resueltas: **1355** — 796 ganadas / 559 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 255
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 2 | 62% | $14,088,259 | +$851,123 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 57 | 41 | 1 | 58% | $4,170,115 | +$145,190 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 57 | 41 | 2 | 58% | $4,219,195 | +$145,190 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
 | 3edmond.dantes | 15 | 6 | 0 | 71% | $2,735,306 | +$535,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Memphis vs. UNLV Runnin' | UNLV Runnin' | 1.30 (77¢) | $49,080 | — | ⏳ Pendiente |
 | gransaaa | Will SSC Napoli win on 2026-08-30? | No | 1.59 (63¢) | $26,752 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.47 (68¢) | $26,509 | — | ⏳ Pendiente |
 | beachboy4 | Will Colorado Rapids SC win on 2026-08-29? | Yes | 2.00 (50¢) | $152,625 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 255 en total)_
 | pleaseplease123 | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $28,933 | +$24,646 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Legacy | 2.70 (37¢) | $30,029 | -$30,029 | ❌ Perdida |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.59 (63¢) | $60,198 | +$35,354 | ✅ Ganada |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.56 (64¢) | $76,800 | +$43,200 | ✅ Ganada |
