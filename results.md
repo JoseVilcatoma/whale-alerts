@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 10:54:26 (hora de Perú)
+Actualizado: 2026-08-30 10:56:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1428**  ($77,887,103 en total)
+- Apuestas registradas: **1429**  ($77,961,649 en total)
 - Resueltas: **1377** — 812 ganadas / 565 perdidas (**59%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 263
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| 007theone1 | 6 | 0 | 0 | ⚠️ 100% (6) | $372,053 | +$88,800 |
+| RegardedMoney | 6 | 0 | 1 | ⚠️ 100% (6) | $374,880 | +$91,081 |
 
 _(mostrando los 40 de mayor monto, de 263 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | — | ⏳ Pendiente |
 | Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | — | ⏳ Pendiente |
 | mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 263 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A | G2 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Winner | Dplus KIA | 1.56 (64¢) | $28,724 | -$28,724 | ❌ Perdida |
 | predictionlegend | Spread: FC Internazionale Milano (-1.5) | FC Internazionale Milano | 2.27 (44¢) | $29,038 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5 | Over 1.5 | 1.22 (82¢) | $33,634 | +$7,383 | ✅ Ganada |
