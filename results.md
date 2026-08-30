@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 16:44:13 (hora de Perú)
+Actualizado: 2026-08-30 16:46:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1448**  ($78,934,122 en total)
-- Resueltas: **1430** — 837 ganadas / 593 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1431** — 838 ganadas / 593 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 264
 
 ### Balance
 
-- **Resultado de los apostadores: +$960,912** sobre $78,305,676 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$7,394** sobre $140,600 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$966,312** sobre $78,360,274 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$7,384** sobre $140,700 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 12 | 11 | 1 | 52% | $1,007,158 | +$38,082 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 11 | 0 | 1 | 100% | $844,642 | +$84,696 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
 | SDTrading | 11 | 13 | 0 | 46% | $724,237 | -$80,301 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Padres vs. Tampa Bay Rays | San Diego Padres | 2.00 (50¢) | $51,200 | -$51,200 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaume Munar vs Terence Atmane | Terence Atmane | 1.61 (62¢) | $37,025 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Jaume Munar vs Terence Atmane | Jaume Munar | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | +$5,400 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | +$17,486 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | — | ⏳ Pendiente |
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | -$29,249 | ❌ Perdida |
