@@ -20750,5 +20750,50 @@
     "status": "pending",
     "ultimo_fill": 1788090119,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 2844,
+    "timestamp": 1788090863,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-we-2026-08-30",
+    "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "usd": 28160.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788090863,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2845,
+    "timestamp": 1788090884,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-jdg-we-2026-08-30-game4",
+    "title": "LoL: JD Gaming vs Team WE - Game 4 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "usd": 27866.946599999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788090884,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 2846,
+    "timestamp": 1788090955,
+    "username": "Malfunction.",
+    "wallet": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+    "slug": "cs2-m80-aur1-2026-08-30",
+    "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 53200.0,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1788090955,
+    "fills": 1
   }
 ]

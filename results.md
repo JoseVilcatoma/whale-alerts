@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 06:54:04 (hora de Perú)
+Actualizado: 2026-08-30 06:56:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1380**  ($75,497,356 en total)
+- Apuestas registradas: **1383**  ($75,606,583 en total)
 - Resueltas: **1360** — 799 ganadas / 561 perdidas (**59%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 259
+- Pendientes: 19
+- Apostadores distintos: 260
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 3 | 62% | $14,129,592 | +$851,123 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 118 | 73 | 5 | 62% | $14,185,619 | +$851,123 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 58 | 42 | 0 | 58% | $4,219,195 | +$131,841 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | AV23IUa | 27 | 22 | 0 | 55% | $2,784,272 | -$198,174 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 3 | 5 | 0 | 38% | $348,618 | -$155,868 |
 | Jsram | 5 | 1 | 0 | ⚠️ 83% (6) | $345,986 | +$108,572 |
 
-_(mostrando los 40 de mayor monto, de 259 en total)_
+_(mostrando los 40 de mayor monto, de 260 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Malfunction. | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 1.32 (76¢) | $53,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE - Game 4 Winner | JD Gaming | 1.75 (57¢) | $27,867 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.56 (64¢) | $28,160 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | M80 | 4.00 (25¢) | $28,860 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs | Team WE | 1.61 (62¢) | $41,333 | — | ⏳ Pendiente |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SS Lazio (-1.5) | Genoa CFC | 1.18 (85¢) | $29,644 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 259 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season | Natus Vincere | 1.82 (55¢) | $31,063 | +$25,416 | ✅ Ganada |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $48,371 | -$48,371 | ❌ Perdida |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignacio Buse | Arthur Fery | 1.82 (55¢) | $93,412 | -$93,412 | ❌ Perdida |
-| coltsmildx | Colorado Rockies vs. Atlanta Braves | Atlanta Braves | 1.47 (68¢) | $26,940 | +$12,678 | ✅ Ganada |
-| NiNo999 | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $52,500 | -$52,500 | ❌ Perdida |
-| ripley86alien | Will Olympique Lyonnais win on 2026-08-29? | Yes | 1.45 (69¢) | $157,933 | -$157,933 | ❌ Perdida |
