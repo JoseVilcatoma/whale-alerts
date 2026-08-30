@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 18:06:31 (hora de Perú)
+Actualizado: 2026-08-30 18:08:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1452**  ($79,173,609 en total)
+- Apuestas registradas: **1453**  ($79,210,008 en total)
 - Resueltas: **1440** — 843 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 264
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 264 en total)_
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes | 2.33 (43¢) | $57,483 | +$76,199 | ✅ Ganada |
 | 3edmond.dantes | Will Fulham FC win on 2026-08-30? | No | 1.39 (72¢) | $80,000 | +$31,111 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $37,245 | -$37,245 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Chelsea FC win on 2026-08-30? | No | 2.08 (48¢) | $81,220 | -$81,220 | ❌ Perdida |
