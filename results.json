@@ -20495,5 +20495,20 @@
     "status": "pending",
     "ultimo_fill": 1788052842,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 2802,
+    "timestamp": 1788055093,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-laa-2026-08-29",
+    "title": "Philadelphia Phillies vs. Los Angeles Angels",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 26509.092800000002,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1788055093,
+    "fills": 1
   }
 ]
