@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:44:18 (hora de Perú)
+Actualizado: 2026-08-31 16:46:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1508**  ($82,243,276 en total)
-- Resueltas: **1490** — 868 ganadas / 622 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1492** — 868 ganadas / 624 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 274
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,085,656** sobre $81,375,113 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,168** sobre $146,500 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$943,746** sobre $81,517,023 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,368** sobre $146,700 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
-| AV23IUa | 32 | 26 | 4 | 55% | $3,655,985 | -$128,542 |
+| AV23IUa | 32 | 27 | 3 | 54% | $3,655,985 | -$226,667 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 2 | 58% | $2,271,010 | +$173,240 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| ferrariChampions2026 | 11 | 5 | 1 | 69% | $586,890 | -$93,626 |
+| ferrariChampions2026 | 11 | 6 | 0 | 65% | $586,890 | -$137,411 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
@@ -124,10 +124,10 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | -$29,339 | ❌ Perdida |
 | AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | +$24,473 | ✅ Ganada |
 | kekasaur | Deportivo Toluca FC vs. FC Juárez: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $25,173 | -$25,173 | ❌ Perdida |
-| ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | — | ⏳ Pendiente |
+| ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | -$43,785 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | -$39,000 | ❌ Perdida |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | -$36,398 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | -$31,362 | ❌ Perdida |
-| AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | -$98,125 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
