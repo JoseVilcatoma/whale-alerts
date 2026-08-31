@@ -22267,5 +22267,20 @@
     "status": "pending",
     "ultimo_fill": 1788186862,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3049,
+    "timestamp": 1788187781,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-kraus-muchova-2026-08-30-set-handicap-away-1pt5",
+    "title": "Set Handicap: Muchova (-1.5) vs Kraus (+1.5)",
+    "outcome": "Muchova",
+    "side": "BUY",
+    "usd": 27371.6124,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1788187781,
+    "fills": 1
   }
 ]
