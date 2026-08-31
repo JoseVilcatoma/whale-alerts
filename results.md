@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 09:06:29 (hora de Perú)
+Actualizado: 2026-08-31 09:08:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1476**  ($80,068,987 en total)
+- Apuestas registradas: **1478**  ($80,128,949 en total)
 - Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 268
+- Pendientes: 15
+- Apostadores distintos: 269
 
 ### Balance
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 30 | 25 | 3 | 55% | $3,344,501 | -$181,614 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
+| pleaseplease123 | 28 | 20 | 1 | 58% | $2,231,780 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 
-_(mostrando los 40 de mayor monto, de 268 en total)_
+_(mostrando los 40 de mayor monto, de 269 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $26,040 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $48,152 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | +$15,456 | ✅ Ganada |
 | n0tTODAY | Will Manchester United FC vs. Ipswich Town FC end in a draw? | No | 1.22 (82¢) | $45,920 | +$10,080 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | -$58,000 | ❌ Perdida |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | +$43,500 | ✅ Ganada |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
