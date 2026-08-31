@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 21:26:48 (hora de Perú)
+Actualizado: 2026-08-30 21:28:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1464**  ($79,593,924 en total)
+- Apuestas registradas: **1465**  ($79,628,523 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 266
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 7 | 61% | $14,721,191 | +$697,839 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 8 | 61% | $14,755,790 | +$697,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 29 | 23 | 4 | 56% | $3,245,404 | -$111,274 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | — | ⏳ Pendiente |
 | vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | +$2,778 | ✅ Ganada |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | -$27,007 | ❌ Perdida |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | -$26,990 | ❌ Perdida |
-| SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | -$28,485 | ❌ Perdida |
