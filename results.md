@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 20:53:56 (hora de Perú)
+Actualizado: 2026-08-30 20:55:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1461**  ($79,463,822 en total)
+- Apuestas registradas: **1462**  ($79,497,761 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 265
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 6 | 61% | $14,687,252 | +$697,839 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 7 | 61% | $14,721,191 | +$697,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | — | ⏳ Pendiente |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | — | ⏳ Pendiente |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 | SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | -$28,485 | ❌ Perdida |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $43,510 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | -$50,105 | ❌ Perdida |
-| sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | -$25,760 | ❌ Perdida |
