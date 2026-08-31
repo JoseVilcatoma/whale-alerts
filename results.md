@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 17:07:10 (hora de Perú)
+Actualizado: 2026-08-31 17:09:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1510**  ($82,357,974 en total)
+- Apuestas registradas: **1511**  ($82,449,649 en total)
 - Resueltas: **1495** — 871 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 274
 
 ### Balance
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
+| beachboy4 | 10 | 8 | 2 | 56% | $1,472,251 | +$230,529 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
-| beachboy4 | 10 | 8 | 1 | 56% | $1,380,576 | +$230,529 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | — | ⏳ Pendiente |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | -$39,000 | ❌ Perdida |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | -$36,398 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | -$31,362 | ❌ Perdida |
-| AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | -$98,125 | ❌ Perdida |
