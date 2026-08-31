@@ -22117,5 +22117,35 @@
     "status": "pending",
     "ultimo_fill": 1788172880,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3035,
+    "timestamp": 1788173219,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-g2-aur1-2026-08-31",
+    "title": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 45239.53280000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788173219,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3036,
+    "timestamp": 1788173247,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-g2-aur1-2026-08-31",
+    "title": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "usd": 54499.5484,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1788173247,
+    "fills": 1
   }
 ]

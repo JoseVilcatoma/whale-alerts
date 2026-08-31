@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 05:46:49 (hora de Perú)
+Actualizado: 2026-08-31 05:48:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1471**  ($79,841,199 en total)
+- Apuestas registradas: **1473**  ($79,940,938 en total)
 - Resueltas: **1456** — 850 ganadas / 606 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 268
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 125 | 82 | 5 | 60% | $14,850,010 | +$627,023 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 125 | 82 | 6 | 60% | $14,904,509 | +$627,023 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
-| AV23IUa | 29 | 25 | 2 | 54% | $3,245,404 | -$214,784 |
+| AV23IUa | 29 | 25 | 3 | 54% | $3,290,644 | -$214,784 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
 | AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | — | ⏳ Pendiente |
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 | flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
 | NiNo999 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton | 1.75 (57¢) | $34,994 | -$34,994 | ❌ Perdida |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | +$13,633 | ✅ Ganada |
-| 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | +$16,500 | ✅ Ganada |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | +$23,388 | ✅ Ganada |
