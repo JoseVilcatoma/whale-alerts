@@ -22537,5 +22537,35 @@
     "status": "pending",
     "ultimo_fill": 1788196221,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3091,
+    "timestamp": 1788208180,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "atp-hanfman-tabilo-2026-08-30",
+    "title": "US Open ATP: Yannick Hanfmann vs Alejandro Tabilo",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "usd": 71210.47439999999,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1788208180,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3092,
+    "timestamp": 1788207732,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-min-2026-08-31",
+    "title": "Detroit Tigers vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 39229.228800000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788207732,
+    "fills": 1
   }
 ]
