@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 23:27:57 (hora de Perú)
+Actualizado: 2026-08-30 23:30:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1468**  ($79,755,188 en total)
-- Resueltas: **1448** — 847 ganadas / 601 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Resueltas: **1454** — 848 ganadas / 606 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 266
 
 ### Balance
 
-- **Resultado de los apostadores: +$913,540** sobre $78,986,725 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$7,526** sobre $142,300 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$796,346** sobre $79,174,452 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,909** sobre $142,900 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 124 | 79 | 9 | 61% | $14,850,010 | +$715,323 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 124 | 82 | 6 | 60% | $14,850,010 | +$620,023 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 29 | 25 | 2 | 54% | $3,245,404 | -$214,784 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | ChinesePro | 2 | 8 | 0 | 20% | $421,545 | -$287,545 |
 | NiNo999 | 4 | 6 | 0 | 40% | $418,612 | -$175,862 |
-| 007theone1 | 6 | 0 | 1 | ⚠️ 100% (6) | $404,498 | +$88,800 |
+| 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
@@ -72,22 +72,22 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | — | ⏳ Pendiente |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | — | ⏳ Pendiente |
-| vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | -$34,599 | ❌ Perdida |
+| vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | -$31,775 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | +$17,484 | ✅ Ganada |
-| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | — | ⏳ Pendiente |
+| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | -$28,206 | ❌ Perdida |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | -$29,339 | ❌ Perdida |
 | AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | — | ⏳ Pendiente |
 | kekasaur | Deportivo Toluca FC vs. FC Juárez: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $25,173 | -$25,173 | ❌ Perdida |
 | ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | -$36,398 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | -$31,362 | ❌ Perdida |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
