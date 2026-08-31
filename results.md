@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 18:56:24 (hora de Perú)
+Actualizado: 2026-08-31 18:58:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1518**  ($82,691,627 en total)
-- Resueltas: **1501** — 876 ganadas / 625 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Resueltas: **1502** — 877 ganadas / 625 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,019,897** sobre $82,013,345 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,274** sobre $147,600 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,034,561** sobre $82,065,337 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,246** sobre $147,700 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| beachboy4 | 10 | 8 | 2 | 56% | $1,472,251 | +$230,529 |
+| beachboy4 | 11 | 8 | 1 | 58% | $1,472,251 | +$245,194 |
 | wr0ngw4yb3tt0r | 11 | 10 | 1 | 52% | $1,439,027 | -$582,474 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | +$19,879 | ✅ Ganada |
 | SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | — | ⏳ Pendiente |
