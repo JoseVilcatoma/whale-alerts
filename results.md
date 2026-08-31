@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 09:16:55 (hora de Perú)
+Actualizado: 2026-08-31 09:19:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1479**  ($80,171,349 en total)
+- Apuestas registradas: **1480**  ($80,220,259 en total)
 - Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 269
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 30 | 25 | 3 | 55% | $3,344,501 | -$181,614 |
-| 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
+| 111111111115 | 36 | 22 | 1 | 62% | $3,253,725 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 1 | 58% | $2,231,780 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | — | ⏳ Pendiente |
 | ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 | mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.79 (56¢) | $110,733 | -$110,733 | ❌ Perdida |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Medjedovic | Kamil Majchrzak | 1.28 (78¢) | $110,658 | +$31,211 | ✅ Ganada |
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur Rinderknech | Arthur Rinderknech | 1.23 (81¢) | $65,891 | +$15,456 | ✅ Ganada |
-| n0tTODAY | Will Manchester United FC vs. Ipswich Town FC end in a draw? | No | 1.22 (82¢) | $45,920 | +$10,080 | ✅ Ganada |
