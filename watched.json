@@ -55,22 +55,6 @@
     "username": "jjj1995",
     "added_at": 1787458320.364054
   },
-  "0x3d8a89a20aa73fba0f30d080e8120de9f9555724": {
-    "username": "Poyo",
-    "added_at": 1787552299.866337
-  },
-  "0x0f35109cc3ceaf729609c3109310791bd616c84a": {
-    "username": "",
-    "added_at": 1787552299.866337
-  },
-  "0x782186952ef2ca75ea91c95aef25bbdcffb4bb1a": {
-    "username": "thif - 33063",
-    "added_at": 1787552299.866337
-  },
-  "0x95b198f900d19a80d3d7e47b7b17708af254f9ac": {
-    "username": "thepicklebomber - 3805",
-    "added_at": 1787552299.866337
-  },
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1787555908.634662
@@ -422,5 +406,9 @@
   "0xbe7ef1907a730226453814dedeee3995c0656d00": {
     "username": "NO.9kami",
     "added_at": 1788150179.3026648
+  },
+  "0x1610db79f753a80207e1d66716be9e91e627ae49": {
+    "username": "HMLSF",
+    "added_at": 1788157403.2458355
   }
 }
