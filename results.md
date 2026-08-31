@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 18:02:53 (hora de Perú)
+Actualizado: 2026-08-31 18:04:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1517**  ($82,655,627 en total)
-- Resueltas: **1495** — 871 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Resueltas: **1497** — 872 ganadas / 625 perdidas (**58%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,016,098** sobre $81,777,130 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,308** sobre $147,000 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$984,966** sobre $81,890,113 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,393** sobre $147,200 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 3 | 59% | $15,139,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 1 | 58% | $4,367,849 | +$168,024 |
-| AV23IUa | 33 | 27 | 4 | 55% | $3,727,694 | -$163,381 |
+| AV23IUa | 33 | 28 | 3 | 54% | $3,727,694 | -$205,153 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 3 | 58% | $2,343,936 | +$173,240 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
-| 0b1 | 23 | 2 | 3 | 92% | $953,477 | +$56,900 |
+| 0b1 | 24 | 2 | 2 | 92% | $953,477 | +$67,540 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
 | SDTrading | 11 | 13 | 1 | 46% | $750,155 | -$80,301 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | — | ⏳ Pendiente |
-| AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | — | ⏳ Pendiente |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | — | ⏳ Pendiente |
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
-| 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | — | ⏳ Pendiente |
+| 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | +$10,641 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
 | ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | +$10,460 | ✅ Ganada |
