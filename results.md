@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 10:30:29 (hora de Perú)
+Actualizado: 2026-08-31 10:32:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1486**  ($80,490,518 en total)
+- Apuestas registradas: **1487**  ($80,528,018 en total)
 - Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 269
 
 ### Balance
@@ -56,9 +56,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
+| NiNo999 | 4 | 6 | 1 | 40% | $456,112 | -$175,862 |
 | ChinesePro | 2 | 8 | 1 | 20% | $451,421 | -$287,545 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| NiNo999 | 4 | 6 | 0 | 40% | $418,612 | -$175,862 |
 | 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NiNo999 | Will AS Roma win on 2026-08-31? | Yes | 1.49 (67¢) | $37,500 | — | ⏳ Pendiente |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.22 (45¢) | $31,374 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | — | ⏳ Pendiente |
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 | 3edmond.dantes | Will SSC Napoli win on 2026-08-30? | Yes | 2.50 (40¢) | $287,086 | -$287,086 | ❌ Perdida |
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | -$74,546 | ❌ Perdida |
 | Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | +$20,818 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | -$29,712 | ❌ Perdida |
