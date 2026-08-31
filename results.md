@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:50:32 (hora de Perú)
+Actualizado: 2026-08-31 16:52:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1508**  ($82,243,276 en total)
-- Resueltas: **1493** — 869 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Resueltas: **1495** — 871 ganadas / 624 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 274
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,007,032** sobre $81,706,882 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,334** sobre $146,800 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,016,098** sobre $81,777,130 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,308** sobre $147,000 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.22 (45¢) | $31,374 | +$38,347 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | +$15,680 | ✅ Ganada |
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | +$6,872 | ✅ Ganada |
-| Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | — | ⏳ Pendiente |
+| Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | +$4,975 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | +$14,101 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.23 (81¢) | $45,648 | +$10,707 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | +$18,090 | ✅ Ganada |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | +$60,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | -$54,500 | ❌ Perdida |
 | AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | +$35,545 | ✅ Ganada |
-| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
+| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | +$15,350 | ✅ Ganada |
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | -$29,876 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
