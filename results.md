@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 06:56:22 (hora de Perú)
+Actualizado: 2026-08-31 06:58:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1475**  ($80,042,947 en total)
-- Resueltas: **1458** — 851 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 268
 
 ### Balance
 
-- **Resultado de los apostadores: +$814,271** sobre $79,360,898 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,837** sobre $143,300 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$829,620** sobre $79,387,034 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,778** sobre $143,400 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
-| AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | — | ⏳ Pendiente |
+| AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | +$15,350 | ✅ Ganada |
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
