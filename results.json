@@ -22412,10 +22412,25 @@
     "title": "Will CA Osasuna win on 2026-08-31?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 105540.92,
+    "usd": 294184.53569999995,
     "odds_at_bet": 43,
     "status": "pending",
-    "ultimo_fill": 1788195020,
+    "ultimo_fill": 1788195155,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 3063,
+    "timestamp": 1788195111,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lal-osa-get-2026-08-31-osa",
+    "title": "Will CA Osasuna win on 2026-08-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 56000.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788195111,
     "fills": 1
   }
 ]
