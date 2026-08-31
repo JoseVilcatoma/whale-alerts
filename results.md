@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 22:21:28 (hora de Perú)
+Actualizado: 2026-08-30 22:23:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1466**  ($79,679,743 en total)
+- Apuestas registradas: **1467**  ($79,712,188 en total)
 - Resueltas: **1445** — 845 ganadas / 600 perdidas (**58%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 266
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | ChinesePro | 2 | 8 | 0 | 20% | $421,545 | -$287,545 |
 | NiNo999 | 3 | 6 | 1 | 33% | $418,612 | -$190,862 |
+| 007theone1 | 6 | 0 | 1 | ⚠️ 100% (6) | $404,498 | +$88,800 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
-| RegardedMoney | 6 | 1 | 0 | ⚠️ 86% (7) | $374,880 | +$16,535 |
 
 _(mostrando los 40 de mayor monto, de 266 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | — | ⏳ Pendiente |
 | vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | -$48,414 | ❌ Perdida |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | +$10,914 | ✅ Ganada |
 | YEEES-but-why | Will Real Madrid CF win on 2026-08-30? | Yes | 1.11 (90¢) | $25,005 | +$2,778 | ✅ Ganada |
-| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $27,007 | -$27,007 | ❌ Perdida |
