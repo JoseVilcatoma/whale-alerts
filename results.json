@@ -22732,5 +22732,35 @@
     "status": "pending",
     "ultimo_fill": 1788214166,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3114,
+    "timestamp": 1788214477,
+    "username": "no1dodgersfan",
+    "wallet": "0xb8ef617fd5d960e61e56c50d2971697300b32864",
+    "slug": "mlb-nym-tb-2026-08-31",
+    "title": "New York Mets vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 25427.43,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788214477,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3115,
+    "timestamp": 1788214502,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-darderi-wendelk-2026-08-30",
+    "title": "US Open ATP: Luciano Darderi vs Harry Wendelken",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 40999.999997,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1788214502,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 17:13:26 (hora de Perú)
+Actualizado: 2026-08-31 17:15:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1512**  ($82,479,586 en total)
+- Apuestas registradas: **1514**  ($82,546,013 en total)
 - Resueltas: **1495** — 871 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 274
+- Pendientes: 15
+- Apostadores distintos: 275
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 3 | 59% | $15,139,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | AV23IUa | 33 | 27 | 4 | 55% | $3,727,694 | -$163,381 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 
-_(mostrando los 40 de mayor monto, de 274 en total)_
+_(mostrando los 40 de mayor monto, de 275 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | — | ⏳ Pendiente |
+| no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | +$24,473 | ✅ Ganada |
 | kekasaur | Deportivo Toluca FC vs. FC Juárez: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $25,173 | -$25,173 | ❌ Perdida |
 | ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | -$43,785 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | -$39,000 | ❌ Perdida |
-| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | -$36,398 | ❌ Perdida |
