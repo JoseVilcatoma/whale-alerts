@@ -22522,5 +22522,20 @@
     "status": "pending",
     "ultimo_fill": 1788195974,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3070,
+    "timestamp": 1788196221,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "epl-ast-ars-2026-08-31-ars",
+    "title": "Will Arsenal FC win on 2026-08-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 120697.49999999999,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1788196221,
+    "fills": 1
   }
 ]

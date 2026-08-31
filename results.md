@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 12:09:23 (hora de Perú)
+Actualizado: 2026-08-31 12:11:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1498**  ($81,614,213 en total)
+- Apuestas registradas: **1499**  ($81,734,911 en total)
 - Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 273
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 126 | 84 | 5 | 60% | $14,977,529 | +$535,404 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 126 | 84 | 6 | 60% | $15,098,226 | +$535,404 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 31 | 25 | 3 | 55% | $3,387,708 | -$146,069 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | — | ⏳ Pendiente |
 | ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | — | ⏳ Pendiente |
 | lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | — | ⏳ Pendiente |
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 | BillyGating | US Open ATP: Jaume Munar vs Terence Atmane | Jaume Munar | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | +$5,400 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | +$17,486 | ✅ Ganada |
-| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | +$18,538 | ✅ Ganada |
