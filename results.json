@@ -22582,5 +22582,20 @@
     "status": "pending",
     "ultimo_fill": 1788209289,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3094,
+    "timestamp": 1788209863,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "atp-blockx-barrios-2026-08-30",
+    "title": "US Open ATP: Alexander Blockx vs Tomas Barrios",
+    "outcome": "Alexander Blockx",
+    "side": "BUY",
+    "usd": 25737.3606,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1788209863,
+    "fills": 1
   }
 ]
