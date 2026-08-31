@@ -22597,5 +22597,20 @@
     "status": "pending",
     "ultimo_fill": 1788209863,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3100,
+    "timestamp": 1788211388,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sd-cin-2026-08-31",
+    "title": "San Diego Padres vs. Cincinnati Reds",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 25918.193199999998,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788211388,
+    "fills": 1
   }
 ]
