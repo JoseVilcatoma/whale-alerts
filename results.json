@@ -22627,5 +22627,20 @@
     "status": "pending",
     "ultimo_fill": 1788211919,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3102,
+    "timestamp": 1788212259,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-dimitro-popyrin-2026-08-30",
+    "title": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
+    "outcome": "Alexei Popyrin",
+    "side": "BUY",
+    "usd": 52067.322,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1788212259,
+    "fills": 1
   }
 ]
