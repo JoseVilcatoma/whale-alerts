@@ -22402,5 +22402,20 @@
     "status": "pending",
     "ultimo_fill": 1788193751,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3062,
+    "timestamp": 1788195020,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "lal-osa-get-2026-08-31-osa",
+    "title": "Will CA Osasuna win on 2026-08-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 105540.92,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1788195020,
+    "fills": 1
   }
 ]

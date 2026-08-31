@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 11:48:29 (hora de Perú)
+Actualizado: 2026-08-31 11:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1490**  ($80,705,897 en total)
+- Apuestas registradas: **1491**  ($80,811,438 en total)
 - Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 271
 
 ### Balance
@@ -34,9 +34,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| vito3corleone | 12 | 8 | 1 | 60% | $1,397,731 | +$523,806 |
 | wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
 | beachboy4 | 10 | 8 | 0 | 56% | $1,328,584 | +$230,529 |
-| vito3corleone | 12 | 8 | 0 | 60% | $1,292,190 | +$523,806 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 271 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $105,541 | — | ⏳ Pendiente |
 | predictionlegend | Will CA Osasuna win on 2026-08-31? | No | 1.75 (57¢) | $63,499 | — | ⏳ Pendiente |
 | alexdave888 | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.56 (39¢) | $27,583 | — | ⏳ Pendiente |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 271 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.19 (84¢) | $44,438 | +$8,464 | ✅ Ganada |
 | ripley86alien | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $26,376 | +$36,424 | ✅ Ganada |
 | gambamaster | Will FC Internazionale Milano win on 2026-08-30? | No | 3.33 (30¢) | $29,700 | -$29,700 | ❌ Perdida |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-08-30? | No | 1.67 (60¢) | $45,997 | +$30,665 | ✅ Ganada |
