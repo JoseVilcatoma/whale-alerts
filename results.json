@@ -22642,5 +22642,35 @@
     "status": "pending",
     "ultimo_fill": 1788212259,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3103,
+    "timestamp": 1788212297,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-burruch-khachan-2026-08-30",
+    "title": "US Open ATP: Roman Andres Burruchaga vs Karen Khachanov",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "usd": 51992.2987,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1788212297,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3104,
+    "timestamp": 1788212390,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-mil-chc-2026-08-31",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 25999.999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788212390,
+    "fills": 1
   }
 ]
