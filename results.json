@@ -22477,5 +22477,50 @@
     "status": "pending",
     "ultimo_fill": 1788195374,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3067,
+    "timestamp": 1788195937,
+    "username": "lolsterfun",
+    "wallet": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
+    "slug": "epl-ast-ars-2026-08-31-ars",
+    "title": "Will Arsenal FC win on 2026-08-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 162990.144,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788195937,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3068,
+    "timestamp": 1788195937,
+    "username": "ChinesePro",
+    "wallet": "0x37e053beabee77acc15e641dfe8e395b2b2d024e",
+    "slug": "epl-ast-ars-2026-08-31-ars",
+    "title": "Will Arsenal FC win on 2026-08-31?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1788195937,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3069,
+    "timestamp": 1788195974,
+    "username": "ssj3",
+    "wallet": "0x1a9567b6373a835a7425381406e1a952ccf73a16",
+    "slug": "wta-bejlek-bucsa-2026-08-30",
+    "title": "US Open WTA: Sara Bejlek vs Cristina Bucsa",
+    "outcome": "Cristina Bucsa",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1788195974,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 12:05:17 (hora de Perú)
+Actualizado: 2026-08-31 12:07:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1495**  ($81,311,223 en total)
+- Apuestas registradas: **1498**  ($81,614,213 en total)
 - Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 272
+- Pendientes: 31
+- Apostadores distintos: 273
 
 ### Balance
 
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 11 | 5 | 1 | 69% | $586,890 | -$93,626 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
+| ChinesePro | 2 | 8 | 2 | 20% | $521,421 | -$287,545 |
 | xifutloong3 | 8 | 9 | 0 | 47% | $513,691 | -$135,015 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
@@ -57,7 +58,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | NiNo999 | 4 | 6 | 1 | 40% | $456,112 | -$175,862 |
-| ChinesePro | 2 | 8 | 1 | 20% | $451,421 | -$287,545 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | sulumos | 2 | 6 | 1 | 25% | $399,683 | -$252,451 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 
-_(mostrando los 40 de mayor monto, de 272 en total)_
+_(mostrando los 40 de mayor monto, de 273 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | — | ⏳ Pendiente |
+| lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | — | ⏳ Pendiente |
+| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $70,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Otto Virtanen vs Andrey Rublev | Otto Virtanen | 1.67 (60¢) | $43,207 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $80,979 | — | ⏳ Pendiente |
 | exstnc | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $25,984 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 272 en total)_
 | Roadto1mlesgooo | RC Celta de Vigo vs. Athletic Club: O/U 0.5 | Over 0.5 | 1.10 (91¢) | $54,598 | +$5,400 | ✅ Ganada |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Will RC Celta de Vigo win on 2026-08-30? | No | 1.52 (66¢) | $33,943 | +$17,486 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles Angels | Philadelphia Phillies | 1.64 (61¢) | $28,996 | +$18,538 | ✅ Ganada |
-| 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | -$29,249 | ❌ Perdida |
-| Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | -$29,719 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
