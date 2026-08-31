@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 20:25:04 (hora de Perú)
+Actualizado: 2026-08-30 20:27:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1459**  ($79,407,777 en total)
+- Apuestas registradas: **1460**  ($79,435,616 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 265
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | — | ⏳ Pendiente |
 | AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 | AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | -$50,105 | ❌ Perdida |
 | sulumos | Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5) | Inner Circle Esports | 1.79 (56¢) | $25,760 | -$25,760 | ❌ Perdida |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox | 2.13 (47¢) | $28,200 | -$28,200 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Detroit Tigers | Los Angeles Dodgers | 1.61 (62¢) | $30,565 | +$18,734 | ✅ Ganada |
