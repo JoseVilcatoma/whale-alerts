@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:48:32 (hora de Perú)
+Actualizado: 2026-08-31 16:50:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1508**  ($82,243,276 en total)
-- Resueltas: **1492** — 868 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1493** — 869 ganadas / 624 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 274
 
 ### Balance
 
-- **Resultado de los apostadores: +$943,746** sobre $81,517,023 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,368** sobre $146,700 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,007,032** sobre $81,706,882 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,334** sobre $146,800 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
-| AV23IUa | 32 | 27 | 3 | 54% | $3,655,985 | -$226,667 |
+| AV23IUa | 33 | 27 | 2 | 55% | $3,655,985 | -$163,381 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 2 | 58% | $2,271,010 | +$173,240 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | — | ⏳ Pendiente |
 | SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | — | ⏳ Pendiente |
-| AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | — | ⏳ Pendiente |
+| AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
 | 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
