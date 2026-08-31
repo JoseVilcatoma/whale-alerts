@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 21:58:56 (hora de Perú)
+Actualizado: 2026-08-30 22:00:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1466**  ($79,679,743 en total)
-- Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **1445** — 845 ganadas / 600 perdidas (**58%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 266
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,003,229** sobre $78,690,960 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$7,290** sobre $141,600 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$906,229** sobre $78,892,613 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$7,521** sobre $142,000 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 9 | 61% | $14,807,010 | +$697,839 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
-| AV23IUa | 29 | 23 | 4 | 56% | $3,245,404 | -$111,274 |
+| AV23IUa | 29 | 25 | 2 | 54% | $3,245,404 | -$214,784 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -84,12 +84,12 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | kekasaur | Deportivo Toluca FC vs. FC Juárez: O/U 3.5 | Under 3.5 | 1.75 (57¢) | $25,173 | — | ⏳ Pendiente |
 | ferrariChampions2026 | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.85 (54¢) | $43,785 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.54 (65¢) | $39,000 | — | ⏳ Pendiente |
-| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | — | ⏳ Pendiente |
+| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.69 (59¢) | $36,398 | -$36,398 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
-| AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | — | ⏳ Pendiente |
+| AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | +$42,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.35 (74¢) | $25,068 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.69 (59¢) | $50,000 | — | ⏳ Pendiente |
 | AV23IUa | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 2.00 (50¢) | $41,005 | +$41,005 | ✅ Ganada |
