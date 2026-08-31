@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 21:18:27 (hora de Perú)
+Actualizado: 2026-08-30 21:20:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1462**  ($79,497,761 en total)
+- Apuestas registradas: **1463**  ($79,562,149 en total)
 - Resueltas: **1441** — 844 ganadas / 597 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 265
 
 ### Balance
@@ -27,8 +27,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 123 | 79 | 7 | 61% | $14,721,191 | +$697,839 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 59 | 43 | 1 | 58% | $4,336,963 | +$125,117 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
+| AV23IUa | 29 | 23 | 4 | 56% | $3,245,404 | -$111,274 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
-| AV23IUa | 29 | 23 | 3 | 56% | $3,181,016 | -$111,274 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | — | ⏳ Pendiente |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | — | ⏳ Pendiente |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 265 en total)_
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes | 1.43 (70¢) | $26,990 | -$26,990 | ❌ Perdida |
 | SDTrading | Kansas City Royals vs. Cleveland Guardians: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $28,485 | -$28,485 | ❌ Perdida |
 | AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $43,510 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Legacy | 3.57 (28¢) | $50,105 | -$50,105 | ❌ Perdida |
