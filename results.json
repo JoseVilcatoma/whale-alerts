@@ -22252,5 +22252,20 @@
     "status": "pending",
     "ultimo_fill": 1788185897,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3048,
+    "timestamp": 1788186862,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-virtane-rublev-2026-08-31",
+    "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "usd": 45647.714131,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1788186862,
+    "fills": 1
   }
 ]
