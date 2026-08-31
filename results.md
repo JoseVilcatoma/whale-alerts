@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 01:13:19 (hora de Perú)
+Actualizado: 2026-08-31 01:15:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1469**  ($79,785,063 en total)
-- Resueltas: **1454** — 848 ganadas / 606 perdidas (**58%** de acierto)
-- Pendientes: 11
+- Resueltas: **1455** — 849 ganadas / 606 perdidas (**58%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 266
 
 ### Balance
 
-- **Resultado de los apostadores: +$796,346** sobre $79,174,452 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$7,909** sobre $142,900 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$825,321** sobre $79,202,290 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$7,805** sobre $143,000 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | +$17,484 | ✅ Ganada |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | -$28,206 | ❌ Perdida |
-| kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | — | ⏳ Pendiente |
+| kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | +$28,975 | ✅ Ganada |
 | NiNo999 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.12 (89¢) | $29,339 | -$29,339 | ❌ Perdida |
 | AGUGava | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Adrian Mannarino | 1.96 (51¢) | $25,472 | — | ⏳ Pendiente |
