@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 05:52:55 (hora de Perú)
+Actualizado: 2026-08-31 05:54:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1473**  ($79,940,938 en total)
+- Apuestas registradas: **1474**  ($79,994,796 en total)
 - Resueltas: **1456** — 850 ganadas / 606 perdidas (**58%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 268
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 125 | 82 | 6 | 60% | $14,904,509 | +$627,023 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
-| AV23IUa | 29 | 25 | 3 | 54% | $3,290,644 | -$214,784 |
+| AV23IUa | 29 | 25 | 4 | 54% | $3,344,501 | -$214,784 |
 | 111111111115 | 36 | 22 | 0 | 62% | $3,204,815 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 0 | 58% | $2,196,980 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
 | flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
 | NiNo999 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton | 1.75 (57¢) | $34,994 | -$34,994 | ❌ Perdida |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.43 (70¢) | $31,811 | +$13,633 | ✅ Ganada |
