@@ -22327,5 +22327,20 @@
     "status": "pending",
     "ultimo_fill": 1788188590,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3053,
+    "timestamp": 1788189321,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-fal2-2026-08-31-game2",
+    "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 31374.45,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1788189321,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 10:13:37 (hora de Perú)
+Actualizado: 2026-08-31 10:15:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1485**  ($80,459,144 en total)
+- Apuestas registradas: **1486**  ($80,490,518 en total)
 - Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 269
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 30 | 25 | 3 | 55% | $3,344,501 | -$181,614 |
-| 111111111115 | 36 | 22 | 1 | 62% | $3,253,725 | +$1,071,871 |
+| 111111111115 | 36 | 22 | 2 | 62% | $3,285,100 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 1 | 58% | $2,231,780 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.22 (45¢) | $31,374 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | — | ⏳ Pendiente |
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | — | ⏳ Pendiente |
 | Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 269 en total)_
 | RegardedMoney | Will SSC Napoli win on 2026-08-30? | Yes | 2.56 (39¢) | $74,546 | -$74,546 | ❌ Perdida |
 | Netrol | Will SSC Napoli win on 2026-08-30? | No | 1.64 (61¢) | $32,561 | +$20,818 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Como 1907 win on 2026-08-30? | No | 1.45 (69¢) | $29,712 | -$29,712 | ❌ Perdida |
-| mikesports | Boston Red Sox vs. New York Yankees | Boston Red Sox | 1.75 (57¢) | $28,500 | -$28,500 | ❌ Perdida |
