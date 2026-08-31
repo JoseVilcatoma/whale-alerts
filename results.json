@@ -22102,5 +22102,20 @@
     "status": "pending",
     "ultimo_fill": 1788172861,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3034,
+    "timestamp": 1788172880,
+    "username": "0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816",
+    "wallet": "0x5016c48436ab3efa2ab54b117d0c08fa1a4a1eeb",
+    "slug": "lal-bar-ray-2026-08-31-bar",
+    "title": "Will FC Barcelona win on 2026-08-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29999.999993039997,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1788172880,
+    "fills": 1
   }
 ]
