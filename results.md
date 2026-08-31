@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:17:20 (hora de Perú)
+Actualizado: 2026-08-31 16:19:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1503**  ($82,060,946 en total)
-- Resueltas: **1485** — 866 ganadas / 619 perdidas (**58%** de acierto)
-- Pendientes: 14
+- Resueltas: **1490** — 868 ganadas / 622 perdidas (**58%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 273
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,161,349** sobre $80,904,753 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$7,985** sobre $146,000 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,085,656** sobre $81,375,113 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,168** sobre $146,500 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 86 | 3 | 60% | $15,098,226 | +$482,043 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | AV23IUa | 32 | 26 | 2 | 55% | $3,577,566 | -$128,542 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 11 | 5 | 1 | 69% | $586,890 | -$93,626 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| ChinesePro | 2 | 8 | 2 | 20% | $521,421 | -$287,545 |
+| ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | xifutloong3 | 8 | 9 | 0 | 47% | $513,691 | -$135,015 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
@@ -75,10 +75,10 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | — | ⏳ Pendiente |
 | pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
 | ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | +$10,460 | ✅ Ganada |
-| lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | — | ⏳ Pendiente |
-| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $70,000 | — | ⏳ Pendiente |
+| lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | +$91,682 | ✅ Ganada |
+| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $70,000 | -$70,000 | ❌ Perdida |
 | AV23IUa | US Open ATP: Otto Virtanen vs Andrey Rublev | Otto Virtanen | 1.67 (60¢) | $43,207 | -$43,207 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $80,979 | -$80,979 | ❌ Perdida |
 | exstnc | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $25,984 | -$25,984 | ❌ Perdida |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 | vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $399,156 | +$529,114 | ✅ Ganada |
 | predictionlegend | Will CA Osasuna win on 2026-08-31? | No | 1.75 (57¢) | $63,499 | -$63,499 | ❌ Perdida |
 | alexdave888 | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.56 (39¢) | $27,583 | +$43,142 | ✅ Ganada |
-| 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | — | ⏳ Pendiente |
+| 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | +$53,198 | ✅ Ganada |
 | NiNo999 | Will AS Roma win on 2026-08-31? | Yes | 1.49 (67¢) | $37,500 | +$18,470 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.22 (45¢) | $31,374 | +$38,347 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | +$15,680 | ✅ Ganada |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 | AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | +$35,545 | ✅ Ganada |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
 | AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | +$15,350 | ✅ Ganada |
-| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | — | ⏳ Pendiente |
+| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | -$29,876 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | -$51,220 | ❌ Perdida |
