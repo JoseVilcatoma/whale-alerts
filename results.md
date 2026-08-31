@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 11:42:12 (hora de Perú)
+Actualizado: 2026-08-31 11:44:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1490**  ($80,705,897 en total)
-- Resueltas: **1462** — 854 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 24
+- Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 271
 
 ### Balance
 
-- **Resultado de los apostadores: +$848,500** sobre $79,534,925 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$7,721** sobre $143,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$862,600** sobre $79,562,297 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$7,670** sobre $143,800 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 125 | 84 | 6 | 60% | $14,977,529 | +$521,303 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 126 | 84 | 5 | 60% | $14,977,529 | +$535,404 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | AV23IUa | 31 | 25 | 2 | 55% | $3,344,501 | -$146,069 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 271 en total)_
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | — | ⏳ Pendiente |
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | — | ⏳ Pendiente |
 | Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | +$14,101 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.23 (81¢) | $45,648 | — | ⏳ Pendiente |
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | — | ⏳ Pendiente |
