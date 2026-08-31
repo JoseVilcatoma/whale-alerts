@@ -22777,5 +22777,20 @@
     "status": "pending",
     "ultimo_fill": 1788214637,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3117,
+    "timestamp": 1788216104,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sf-atl-2026-06-18",
+    "title": "San Francisco Giants vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 48585.128000000004,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1788216104,
+    "fills": 1
   }
 ]
