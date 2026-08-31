@@ -22087,5 +22087,20 @@
     "status": "pending",
     "ultimo_fill": 1788150807,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3033,
+    "timestamp": 1788172861,
+    "username": "AgricultureSecretary",
+    "wallet": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
+    "slug": "atp-matsuda-meng-2026-08-30",
+    "title": "Zhangjiagang: Koki Matsuda vs Fanming Meng",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "usd": 26135.722900000004,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788172861,
+    "fills": 1
   }
 ]

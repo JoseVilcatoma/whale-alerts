@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 05:40:41 (hora de Perú)
+Actualizado: 2026-08-31 05:42:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1469**  ($79,785,063 en total)
+- Apuestas registradas: **1470**  ($79,811,199 en total)
 - Resueltas: **1456** — 850 ganadas / 606 perdidas (**58%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 266
+- Pendientes: 10
+- Apostadores distintos: 267
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 10 | 0 | 0 | 100% | $380,565 | +$267,936 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 4 | 8 | 0 | 33% | $378,000 | -$163,355 |
 
-_(mostrando los 40 de mayor monto, de 266 en total)_
+_(mostrando los 40 de mayor monto, de 267 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | — | ⏳ Pendiente |
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | 3edmond.dantes | Will AFC Ajax win on 2026-08-30? | Yes | 1.49 (67¢) | $33,500 | +$16,500 | ✅ Ganada |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | +$23,388 | ✅ Ganada |
 | Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | +$3,569 | ✅ Ganada |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | -$48,414 | ❌ Perdida |
