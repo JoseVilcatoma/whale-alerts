@@ -21997,5 +21997,20 @@
     "status": "pending",
     "ultimo_fill": 1788142715,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3010,
+    "timestamp": 1788143156,
+    "username": "vvyvv",
+    "wallet": "0xfb8f2d1cd6636fbe404d671a7350f571f42d842b",
+    "slug": "atp-navone-djokovi-2026-08-30",
+    "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "usd": 31774.589995000002,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1788143156,
+    "fills": 1
   }
 ]
