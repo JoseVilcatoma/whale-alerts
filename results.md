@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 11:52:43 (hora de Perú)
+Actualizado: 2026-08-31 11:54:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1492**  ($81,056,082 en total)
+- Apuestas registradas: **1494**  ($81,223,134 en total)
 - Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 271
+- Pendientes: 27
+- Apostadores distintos: 272
 
 ### Balance
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 28 | 20 | 1 | 58% | $2,231,780 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
-| vito3corleone | 12 | 8 | 1 | 60% | $1,586,374 | +$523,806 |
+| vito3corleone | 12 | 8 | 1 | 60% | $1,646,463 | +$523,806 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
@@ -65,14 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 | StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 
-_(mostrando los 40 de mayor monto, de 271 en total)_
+_(mostrando los 40 de mayor monto, de 272 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $80,979 | — | ⏳ Pendiente |
+| exstnc | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $25,984 | — | ⏳ Pendiente |
 | sulumos | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
-| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $294,185 | — | ⏳ Pendiente |
+| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $354,273 | — | ⏳ Pendiente |
 | predictionlegend | Will CA Osasuna win on 2026-08-31? | No | 1.75 (57¢) | $63,499 | — | ⏳ Pendiente |
 | alexdave888 | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.56 (39¢) | $27,583 | — | ⏳ Pendiente |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 271 en total)_
 | Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | -$29,719 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
 | dsasdaas | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.18 (85¢) | $28,328 | +$4,999 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.19 (84¢) | $44,438 | +$8,464 | ✅ Ganada |
-| ripley86alien | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $26,376 | +$36,424 | ✅ Ganada |
