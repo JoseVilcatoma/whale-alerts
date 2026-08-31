@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 08:00:22 (hora de Perú)
+Actualizado: 2026-08-31 08:02:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1475**  ($80,042,947 en total)
+- Apuestas registradas: **1476**  ($80,068,987 en total)
 - Resueltas: **1459** — 852 ganadas / 607 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 268
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
-| 0b1 | 23 | 1 | 0 | 96% | $800,346 | +$82,940 |
+| 0b1 | 23 | 1 | 1 | 96% | $826,386 | +$82,940 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 6 | 1 | 68% | $750,693 | +$36,631 |
 | SDTrading | 11 | 13 | 0 | 46% | $724,237 | -$80,301 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $26,040 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $48,152 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 268 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $58,000 | -$58,000 | ❌ Perdida |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $106,500 | +$43,500 | ✅ Ganada |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
-| flawfence | Will Stade Rennais FC 1901 win on 2026-08-30? | No | 3.45 (29¢) | $29,000 | -$29,000 | ❌ Perdida |
