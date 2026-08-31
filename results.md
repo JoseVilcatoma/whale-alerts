@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:58:52 (hora de Perú)
+Actualizado: 2026-08-31 17:00:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1508**  ($82,243,276 en total)
+- Apuestas registradas: **1509**  ($82,285,048 en total)
 - Resueltas: **1495** — 871 ganadas / 624 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 274
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
-| AV23IUa | 33 | 27 | 2 | 55% | $3,655,985 | -$163,381 |
+| AV23IUa | 33 | 27 | 3 | 55% | $3,697,757 | -$163,381 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 2 | 58% | $2,271,010 | +$173,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | — | ⏳ Pendiente |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 274 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.19 (84¢) | $31,362 | -$31,362 | ❌ Perdida |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob Fearnley | Martin Landaluce | 1.89 (53¢) | $98,125 | -$98,125 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Lois Boisson | Emma Navarro | 1.45 (69¢) | $50,000 | +$7,971 | 💰 Vendida antes |
-| AV23IUa | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs | 1.67 (60¢) | $60,000 | -$60,000 | ❌ Perdida |
