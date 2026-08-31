@@ -21889,7 +21889,7 @@
     "side": "BUY",
     "usd": 25172.914699999998,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788132421,
     "fills": 1
   },
@@ -22056,6 +22056,21 @@
     "odds_at_bet": 46,
     "status": "pending",
     "ultimo_fill": 1788146565,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3019,
+    "timestamp": 1788149444,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-william-kenin-2026-08-30",
+    "title": "US Open WTA: Venus Williams vs Sofia Kenin",
+    "outcome": "Sofia Kenin",
+    "side": "BUY",
+    "usd": 43000.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788149444,
     "fills": 1
   }
 ]
