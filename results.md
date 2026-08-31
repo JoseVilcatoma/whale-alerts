@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 11:54:51 (hora de Perú)
+Actualizado: 2026-08-31 11:56:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1494**  ($81,223,134 en total)
+- Apuestas registradas: **1495**  ($81,311,223 en total)
 - Resueltas: **1463** — 855 ganadas / 608 perdidas (**58%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 272
 
 ### Balance
@@ -27,12 +27,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 126 | 84 | 5 | 60% | $14,977,529 | +$535,404 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
-| AV23IUa | 31 | 25 | 2 | 55% | $3,344,501 | -$146,069 |
+| AV23IUa | 31 | 25 | 3 | 55% | $3,387,708 | -$146,069 |
 | 111111111115 | 36 | 22 | 2 | 62% | $3,285,100 | +$1,071,871 |
 | pleaseplease123 | 28 | 20 | 1 | 58% | $2,231,780 | +$173,240 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
-| vito3corleone | 12 | 8 | 1 | 60% | $1,646,463 | +$523,806 |
+| vito3corleone | 12 | 8 | 1 | 60% | $1,691,346 | +$523,806 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | wr0ngw4yb3tt0r | 11 | 10 | 0 | 52% | $1,390,442 | -$582,474 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 272 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Otto Virtanen vs Andrey Rublev | Otto Virtanen | 1.67 (60¢) | $43,207 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $80,979 | — | ⏳ Pendiente |
 | exstnc | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $25,984 | — | ⏳ Pendiente |
 | sulumos | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
-| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $354,273 | — | ⏳ Pendiente |
+| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $399,156 | — | ⏳ Pendiente |
 | predictionlegend | Will CA Osasuna win on 2026-08-31? | No | 1.75 (57¢) | $63,499 | — | ⏳ Pendiente |
 | alexdave888 | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.56 (39¢) | $27,583 | — | ⏳ Pendiente |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 272 en total)_
 | 0xb38A4DB7A7C94973193eE586865C8C3D05563293-1772574388276 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx | 1.69 (59¢) | $29,249 | -$29,249 | ❌ Perdida |
 | Daemon99 | Will SS Lazio win on 2026-08-30? | No | 1.72 (58¢) | $29,719 | -$29,719 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will SS Lazio win on 2026-08-30? | Yes | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
-| dsasdaas | Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B | Vitality | 1.18 (85¢) | $28,328 | +$4,999 | ✅ Ganada |
