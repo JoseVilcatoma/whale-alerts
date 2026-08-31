@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-30 23:32:11 (hora de Perú)
+Actualizado: 2026-08-30 23:34:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1468**  ($79,755,188 en total)
+- Apuestas registradas: **1469**  ($79,785,063 en total)
 - Resueltas: **1454** — 848 ganadas / 606 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 266
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
+| ChinesePro | 2 | 8 | 1 | 20% | $451,421 | -$287,545 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| ChinesePro | 2 | 8 | 0 | 20% | $421,545 | -$287,545 |
 | NiNo999 | 4 | 6 | 0 | 40% | $418,612 | -$175,862 |
 | 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 266 en total)_
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-08-30? | Yes | 1.45 (69¢) | $52,056 | +$23,388 | ✅ Ganada |
 | Roadto1mlesgooo | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over 1.5 | 1.08 (93¢) | $47,412 | +$3,569 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | Inner Circle Esports | 3.70 (27¢) | $48,414 | -$48,414 | ❌ Perdida |
-| ExplosiveNinja | Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B | FUT Esports | 1.39 (72¢) | $28,065 | +$10,914 | ✅ Ganada |
