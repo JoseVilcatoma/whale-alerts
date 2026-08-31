@@ -22612,5 +22612,20 @@
     "status": "pending",
     "ultimo_fill": 1788211388,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3101,
+    "timestamp": 1788211919,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-darderi-wendelk-2026-08-30",
+    "title": "US Open ATP: Luciano Darderi vs Harry Wendelken",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "usd": 26351.497674000002,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788211919,
+    "fills": 1
   }
 ]

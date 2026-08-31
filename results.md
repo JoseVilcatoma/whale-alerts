@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 16:31:49 (hora de Perú)
+Actualizado: 2026-08-31 16:33:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1504**  ($82,086,865 en total)
+- Apuestas registradas: **1505**  ($82,113,216 en total)
 - Resueltas: **1490** — 868 ganadas / 622 perdidas (**58%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 273
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 127 | 87 | 2 | 59% | $15,098,226 | +$361,345 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 0 | 58% | $4,336,963 | +$168,024 |
-| AV23IUa | 32 | 26 | 2 | 55% | $3,577,566 | -$128,542 |
+| AV23IUa | 32 | 26 | 3 | 55% | $3,603,918 | -$128,542 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 2 | 58% | $2,271,010 | +$173,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | — | ⏳ Pendiente |
 | SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | — | ⏳ Pendiente |
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 273 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chicago Cubs (-1.5) | Cincinnati Reds | 1.69 (59¢) | $61,745 | +$42,908 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.35 (74¢) | $25,068 | -$25,068 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino | Thiago Agustin Tirante | 1.69 (59¢) | $50,000 | -$50,000 | ❌ Perdida |
-| AV23IUa | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays | 2.00 (50¢) | $41,005 | +$41,005 | ✅ Ganada |
