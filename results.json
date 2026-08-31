@@ -22357,5 +22357,20 @@
     "status": "pending",
     "ultimo_fill": 1788190314,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3058,
+    "timestamp": 1788193334,
+    "username": "0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028",
+    "wallet": "0x9a2d1b879ca2cfd93f53c02eb7736c3ff16cd195",
+    "slug": "epl-ast-ars-2026-08-31-spread-away-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Aston Villa FC",
+    "side": "BUY",
+    "usd": 86797.31539999999,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1788193334,
+    "fills": 2
   }
 ]
