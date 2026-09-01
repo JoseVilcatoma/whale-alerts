@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 15:10:04 (hora de Perú)
+Actualizado: 2026-09-01 15:12:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1550**  ($84,120,121 en total)
+- Apuestas registradas: **1552**  ($84,184,966 en total)
 - Resueltas: **1533** — 899 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 279
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| beachboy4 | 12 | 8 | 2 | 60% | $1,638,332 | +$274,144 |
+| beachboy4 | 12 | 8 | 3 | 60% | $1,669,078 | +$274,144 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 11 | 0 | 50% | $1,439,027 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | — | ⏳ Pendiente |
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 | AV23IUa | US Open ATP: Otto Virtanen vs Andrey Rublev | Otto Virtanen | 1.67 (60¢) | $43,207 | -$43,207 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $80,979 | -$80,979 | ❌ Perdida |
 | exstnc | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $25,984 | -$25,984 | ❌ Perdida |
-| sulumos | Will CA Osasuna win on 2026-08-31? | No | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
-| vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $399,156 | +$529,114 | ✅ Ganada |
