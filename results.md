@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 16:46:11 (hora de Perú)
+Actualizado: 2026-09-01 16:48:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1558**  ($84,408,557 en total)
+- Apuestas registradas: **1560**  ($84,504,468 en total)
 - Resueltas: **1535** — 901 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 279
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 12 | 8 | 7 | 60% | $1,817,668 | +$274,144 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| wr0ngw4yb3tt0r | 11 | 11 | 0 | 50% | $1,439,027 | -$631,060 |
+| wr0ngw4yb3tt0r | 11 | 11 | 1 | 50% | $1,484,938 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 12 | 13 | 0 | 48% | $1,106,265 | -$162,990 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 1 | 100% | $886,988 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 1 | 65% | $800,693 | -$13,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | — | ⏳ Pendiente |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | +$3,510 | ✅ Ganada |
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
 | 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | +$10,641 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | +$33,417 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
