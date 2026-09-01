@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 17:00:56 (hora de Perú)
+Actualizado: 2026-09-01 17:03:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1561**  ($84,532,368 en total)
-- Resueltas: **1535** — 901 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Resueltas: **1536** — 902 ganadas / 634 perdidas (**59%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,331,303** sobre $83,420,996 apostados (ROI **+1.6%**)
+- **Resultado de los apostadores: +$1,341,303** sobre $83,470,996 apostados (ROI **+1.6%**)
 - Copiando $100 fijo en cada una: **-$7,810** sobre $151,000 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 1 | 100% | $886,988 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 1 | 65% | $800,693 | -$13,369 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | +$10,000 | 💰 Vendida antes |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | — | ⏳ Pendiente |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | — | ⏳ Pendiente |
