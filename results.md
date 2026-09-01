@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 15:47:27 (hora de Perú)
+Actualizado: 2026-09-01 15:49:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1555**  ($84,308,503 en total)
+- Apuestas registradas: **1556**  ($84,333,557 en total)
 - Resueltas: **1534** — 900 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 279
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 31 | 20 | 0 | 61% | $2,343,936 | +$293,980 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
-| beachboy4 | 12 | 8 | 6 | 60% | $1,792,615 | +$274,144 |
+| beachboy4 | 12 | 8 | 7 | 60% | $1,817,668 | +$274,144 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 11 | 0 | 50% | $1,439,027 | -$631,060 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $55,417 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
 | ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | +$10,460 | ✅ Ganada |
 | lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | +$91,682 | ✅ Ganada |
-| ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $70,000 | -$70,000 | ❌ Perdida |
