@@ -23407,5 +23407,20 @@
     "status": "pending",
     "ultimo_fill": 1788297092,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3202,
+    "timestamp": 1788297452,
+    "username": "Kosherlocks",
+    "wallet": "0x82398835fe16616214d928ba87127e28fc1cd9a3",
+    "slug": "mlb-oak-tex-2026-09-01",
+    "title": "Athletics vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 49999.999998,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1788297452,
+    "fills": 1
   }
 ]
