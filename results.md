@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 22:43:50 (hora de Perú)
+Actualizado: 2026-08-31 22:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1524**  ($82,966,235 en total)
+- Apuestas registradas: **1525**  ($83,006,539 en total)
 - Resueltas: **1515** — 885 ganadas / 630 perdidas (**58%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 275
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 1 | 58% | $4,406,096 | +$137,139 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 2 | 58% | $4,446,401 | +$137,139 |
 | AV23IUa | 35 | 29 | 2 | 55% | $3,875,291 | -$122,647 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | — | ⏳ Pendiente |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.08 (93¢) | $33,884 | +$2,550 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | -$51,220 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | -$34,599 | ❌ Perdida |
