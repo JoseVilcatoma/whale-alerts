@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 23:41:11 (hora de Perú)
+Actualizado: 2026-08-31 23:43:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1525**  ($83,006,539 en total)
-- Resueltas: **1515** — 885 ganadas / 630 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Resueltas: **1518** — 886 ganadas / 632 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,152,279** sobre $82,612,672 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,118** sobre $149,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,090,623** sobre $82,705,799 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,303** sobre $149,300 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 2 | 58% | $4,446,401 | +$137,139 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 45 | 1 | 57% | $4,446,401 | +$98,892 |
 | AV23IUa | 35 | 29 | 2 | 55% | $3,875,291 | -$122,647 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
 | SDTrading | 12 | 13 | 0 | 48% | $750,155 | -$61,533 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
-| ferrariChampions2026 | 12 | 6 | 1 | 67% | $648,154 | -$134,861 |
+| ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -72,11 +72,11 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | — | ⏳ Pendiente |
-| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | — | ⏳ Pendiente |
+| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | +$4,091 | ✅ Ganada |
 | AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.08 (93¢) | $33,884 | +$2,550 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | — | ⏳ Pendiente |
-| thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | -$38,247 | ❌ Perdida |
+| thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | — | ⏳ Pendiente |
 | xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | -$36,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $30,886 | -$30,886 | ❌ Perdida |
