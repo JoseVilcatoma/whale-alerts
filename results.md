@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 11:26:18 (hora de Perú)
+Actualizado: 2026-09-01 11:28:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1538**  ($83,579,910 en total)
+- Apuestas registradas: **1539**  ($83,615,304 en total)
 - Resueltas: **1528** — 894 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 277
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
-| 0b1 | 26 | 2 | 0 | 93% | $953,477 | +$72,974 |
+| 0b1 | 26 | 2 | 1 | 93% | $988,871 | +$72,974 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | +$14,101 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.23 (81¢) | $45,648 | +$10,707 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | +$18,090 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | -$42,400 | ❌ Perdida |
