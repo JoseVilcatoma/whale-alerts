@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 21:01:32 (hora de Perú)
+Actualizado: 2026-08-31 21:03:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1521**  ($82,842,226 en total)
-- Resueltas: **1509** — 880 ganadas / 629 perdidas (**58%** de acierto)
-- Pendientes: 8
+- Resueltas: **1510** — 880 ganadas / 630 perdidas (**58%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$999,754** sobre $82,339,880 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,416** sobre $148,400 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$969,817** sobre $82,369,816 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,516** sobre $148,500 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 1 | 58% | $4,406,096 | +$137,139 |
-| AV23IUa | 34 | 28 | 3 | 55% | $3,812,546 | -$185,274 |
+| AV23IUa | 34 | 29 | 2 | 54% | $3,812,546 | -$215,211 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 30 | 20 | 1 | 60% | $2,343,936 | +$260,563 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0b1 | US Open WTA: Sloane Stephens vs Clara Tauson | Sloane Stephens | 1.06 (94¢) | $30,143 | +$1,924 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |
 | no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | -$25,427 | ❌ Perdida |
-| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | — | ⏳ Pendiente |
+| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | -$29,937 | ❌ Perdida |
 | beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | +$62,122 | ✅ Ganada |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
