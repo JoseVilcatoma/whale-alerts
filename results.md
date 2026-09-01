@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 20:11:36 (hora de Perú)
+Actualizado: 2026-08-31 20:13:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1518**  ($82,691,627 en total)
+- Apuestas registradas: **1519**  ($82,776,479 en total)
 - Resueltas: **1502** — 877 ganadas / 625 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 275
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 1 | 58% | $4,367,849 | +$168,024 |
-| AV23IUa | 34 | 28 | 2 | 55% | $3,727,694 | -$185,274 |
+| AV23IUa | 34 | 28 | 3 | 55% | $3,812,546 | -$185,274 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 28 | 20 | 3 | 58% | $2,343,936 | +$173,240 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | — | ⏳ Pendiente |
 | xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $30,886 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Atlanta Braves | Atlanta Braves | 1.32 (76¢) | $48,585 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | +$17,484 | ✅ Ganada |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | -$28,206 | ❌ Perdida |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No | 2.04 (49¢) | $27,839 | +$28,975 | ✅ Ganada |
-| NiNo999 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
