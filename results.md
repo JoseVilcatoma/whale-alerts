@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 08:43:57 (hora de Perú)
+Actualizado: 2026-09-01 08:46:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1533**  ($83,340,393 en total)
-- Resueltas: **1525** — 891 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Resueltas: **1526** — 892 ganadas / 634 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 276
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,208,967** sobre $83,091,014 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,207** sobre $150,000 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,213,310** sobre $83,140,961 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,199** sobre $150,100 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | NiNo999 | 5 | 6 | 0 | 45% | $456,112 | -$157,392 |
-| 007theone1 | 7 | 0 | 1 | ⚠️ 100% (7) | $454,446 | +$126,888 |
+| 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | sulumos | 2 | 7 | 0 | 22% | $399,683 | -$308,451 |
 | 11vsldfdsgfkjgos | 6 | 1 | 1 | ⚠️ 86% (7) | $394,402 | +$69,975 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 276 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | — | ⏳ Pendiente |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | — | ⏳ Pendiente |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | +$4,343 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 2.38 (42¢) | $31,290 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | +$19,306 | ✅ Ganada |
