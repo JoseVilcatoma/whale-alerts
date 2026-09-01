@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 20:38:42 (hora de Perú)
+Actualizado: 2026-08-31 20:40:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1520**  ($82,803,979 en total)
-- Resueltas: **1504** — 878 ganadas / 626 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1505** — 878 ganadas / 627 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,048,098** sobre $82,186,848 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,261** sobre $147,900 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,017,213** sobre $82,217,734 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,361** sobre $148,000 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 43 | 1 | 58% | $4,367,849 | +$168,024 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 0 | 58% | $4,367,849 | +$137,139 |
 | AV23IUa | 34 | 28 | 3 | 55% | $3,812,546 | -$185,274 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | — | ⏳ Pendiente |
 | xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $30,886 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $30,886 | -$30,886 | ❌ Perdida |
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Atlanta Braves | Atlanta Braves | 1.32 (76¢) | $48,585 | -$48,585 | ❌ Perdida |
 | 0b1 | US Open WTA: Sloane Stephens vs Clara Tauson | Sloane Stephens | 1.06 (94¢) | $30,143 | +$1,924 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |
