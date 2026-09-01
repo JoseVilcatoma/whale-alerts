@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 08:07:14 (hora de Perú)
+Actualizado: 2026-09-01 08:09:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1531**  ($83,261,087 en total)
+- Apuestas registradas: **1532**  ($83,311,034 en total)
 - Resueltas: **1525** — 891 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 275
 
 ### Balance
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | NiNo999 | 5 | 6 | 0 | 45% | $456,112 | -$157,392 |
+| 007theone1 | 7 | 0 | 1 | ⚠️ 100% (7) | $454,446 | +$126,888 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | sulumos | 2 | 7 | 0 | 22% | $399,683 | -$308,451 |
 | 11vsldfdsgfkjgos | 6 | 1 | 1 | ⚠️ 86% (7) | $394,402 | +$69,975 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 2.38 (42¢) | $31,290 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | +$19,306 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $48,152 | +$37,834 | ✅ Ganada |
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | +$60,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | -$54,500 | ❌ Perdida |
-| AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | +$35,545 | ✅ Ganada |
