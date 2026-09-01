@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 11:09:53 (hora de Perú)
+Actualizado: 2026-09-01 11:11:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1537**  ($83,547,510 en total)
+- Apuestas registradas: **1538**  ($83,579,910 en total)
 - Resueltas: **1528** — 894 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 277
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0b1 | 26 | 2 | 0 | 93% | $953,477 | +$72,974 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
-| SDTrading | 12 | 13 | 1 | 48% | $776,099 | -$61,533 |
+| SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
 | Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.23 (81¢) | $45,648 | +$10,707 | ✅ Ganada |
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | +$18,090 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | -$42,400 | ❌ Perdida |
-| ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | -$25,162 | ❌ Perdida |
