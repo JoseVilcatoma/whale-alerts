@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 13:16:32 (hora de Perú)
+Actualizado: 2026-09-01 13:18:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1544**  ($83,788,170 en total)
+- Apuestas registradas: **1545**  ($83,830,516 en total)
 - Resueltas: **1531** — 897 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 278
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 11 | 13 | 1 | 46% | $1,106,265 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0b1 | 27 | 2 | 0 | 93% | $988,871 | +$86,065 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 1 | 100% | $886,988 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 278 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 1.25 (80¢) | $42,631 | — | ⏳ Pendiente |
 | Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 278 en total)_
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | +$53,198 | ✅ Ganada |
 | NiNo999 | Will AS Roma win on 2026-08-31? | Yes | 1.49 (67¢) | $37,500 | +$18,470 | ✅ Ganada |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.22 (45¢) | $31,374 | +$38,347 | ✅ Ganada |
-| 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | +$15,680 | ✅ Ganada |
