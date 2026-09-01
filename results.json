@@ -23197,5 +23197,20 @@
     "status": "pending",
     "ultimo_fill": 1788285118,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3184,
+    "timestamp": 1788285481,
+    "username": "afraz",
+    "wallet": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+    "slug": "atp-comesan-cobolli-2026-08-30",
+    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "usd": 42631.00999580374,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1788285481,
+    "fills": 1
   }
 ]
