@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 17:05:09 (hora de Perú)
+Actualizado: 2026-09-01 17:07:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1561**  ($84,532,368 en total)
-- Resueltas: **1536** — 902 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **1537** — 903 ganadas / 634 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,341,303** sobre $83,470,996 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$7,810** sobre $151,000 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,344,006** sobre $83,513,343 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,803** sobre $151,100 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 12 | 13 | 0 | 48% | $1,106,265 | -$162,990 |
 | 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 1 | 100% | $886,988 | +$90,095 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | +$2,703 | ✅ Ganada |
 | afraz | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 1.25 (80¢) | $42,631 | +$10,658 | ✅ Ganada |
 | Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | +$25,405 | ✅ Ganada |
