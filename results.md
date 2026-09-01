@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 00:23:56 (hora de Perú)
+Actualizado: 2026-09-01 00:25:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1525**  ($83,006,539 en total)
-- Resueltas: **1520** — 887 ganadas / 633 perdidas (**58%** de acierto)
-- Pendientes: 1
+- Resueltas: **1521** — 888 ganadas / 633 perdidas (**58%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,135,171** sobre $82,830,955 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,303** sobre $149,500 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,172,021** sobre $82,893,700 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,244** sobre $149,600 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 46 | 0 | 57% | $4,446,401 | +$58,587 |
-| AV23IUa | 36 | 29 | 1 | 55% | $3,875,291 | -$37,794 |
+| AV23IUa | 37 | 29 | 0 | 56% | $3,875,291 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 0 | 61% | $2,343,936 | +$293,980 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | -$40,304 | ❌ Perdida |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | +$4,091 | ✅ Ganada |
-| AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | +$36,850 | ✅ Ganada |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.08 (93¢) | $33,884 | +$2,550 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | -$38,247 | ❌ Perdida |
 | thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
