@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 12:15:40 (hora de Perú)
+Actualizado: 2026-09-01 12:17:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1540**  ($83,648,629 en total)
+- Apuestas registradas: **1541**  ($83,675,902 en total)
 - Resueltas: **1528** — 894 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 277
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | — | ⏳ Pendiente |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | — | ⏳ Pendiente |
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | +$6,872 | ✅ Ganada |
 | Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | +$4,975 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | +$14,101 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.23 (81¢) | $45,648 | +$10,707 | ✅ Ganada |
