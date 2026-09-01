@@ -22942,5 +22942,20 @@
     "status": "pending",
     "ultimo_fill": 1788250382,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 3156,
+    "timestamp": 1788257177,
+    "username": "alexdave888",
+    "wallet": "0xa4fd70a8d79c3433ca2eb967ee605a356986748b",
+    "slug": "lol-gen-kt-2026-09-01-game3",
+    "title": "LoL: Gen.G vs KT Rolster - Game 3 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "usd": 32457.645,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1788257177,
+    "fills": 1
   }
 ]
