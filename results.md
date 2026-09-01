@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 14:14:24 (hora de Perú)
+Actualizado: 2026-09-01 14:16:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1547**  ($83,996,597 en total)
+- Apuestas registradas: **1548**  ($84,026,647 en total)
 - Resueltas: **1531** — 897 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 278
+- Pendientes: 13
+- Apostadores distintos: 279
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 278 en total)_
+_(mostrando los 40 de mayor monto, de 279 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 278 en total)_
 | vito3corleone | Will CA Osasuna win on 2026-08-31? | Yes | 2.33 (43¢) | $399,156 | +$529,114 | ✅ Ganada |
 | predictionlegend | Will CA Osasuna win on 2026-08-31? | No | 1.75 (57¢) | $63,499 | -$63,499 | ❌ Perdida |
 | alexdave888 | Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner | MOUZ | 2.56 (39¢) | $27,583 | +$43,142 | ✅ Ganada |
-| 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Spread: Arsenal FC (-1.5) | Aston Villa FC | 1.61 (62¢) | $86,797 | +$53,198 | ✅ Ganada |
