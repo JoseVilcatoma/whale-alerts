@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 21:05:41 (hora de Perú)
+Actualizado: 2026-08-31 21:07:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1521**  ($82,842,226 en total)
+- Apuestas registradas: **1522**  ($82,876,111 en total)
 - Resueltas: **1510** — 880 ganadas / 630 perdidas (**58%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 275
 
 ### Balance
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 12 | 13 | 0 | 48% | $750,155 | -$61,533 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
+| ferrariChampions2026 | 11 | 6 | 1 | 65% | $620,775 | -$137,411 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| ferrariChampions2026 | 11 | 6 | 0 | 65% | $586,890 | -$137,411 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | xifutloong3 | 8 | 10 | 0 | 44% | $549,691 | -$171,015 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.08 (93¢) | $33,884 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.27 (79¢) | $34,599 | -$34,599 | ❌ Perdida |
 | vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | -$31,775 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | +$33,170 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | +$17,484 | ✅ Ganada |
