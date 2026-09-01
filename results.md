@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 20:55:20 (hora de Perú)
+Actualizado: 2026-08-31 20:57:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1520**  ($82,803,979 en total)
-- Resueltas: **1507** — 878 ganadas / 629 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Apuestas registradas: **1521**  ($82,842,226 en total)
+- Resueltas: **1509** — 880 ganadas / 629 perdidas (**58%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$955,785** sobre $82,279,161 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,561** sobre $148,200 (ROI **-5.8%**)
+- **Resultado de los apostadores: +$999,754** sobre $82,339,880 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,416** sobre $148,400 (ROI **-5.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 128 | 87 | 2 | 60% | $15,139,226 | +$370,963 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 0 | 58% | $4,367,849 | +$137,139 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 44 | 1 | 58% | $4,406,096 | +$137,139 |
 | AV23IUa | 34 | 28 | 3 | 55% | $3,812,546 | -$185,274 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 29 | 20 | 2 | 59% | $2,343,936 | +$235,363 |
+| pleaseplease123 | 30 | 20 | 1 | 60% | $2,343,936 | +$260,563 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 26 | 2 | 0 | 93% | $953,477 | +$72,974 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
-| SDTrading | 11 | 13 | 1 | 46% | $750,155 | -$80,301 |
+| SDTrading | 12 | 13 | 0 | 48% | $750,155 | -$61,533 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | — | ⏳ Pendiente |
 | thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | — | ⏳ Pendiente |
 | xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | -$36,000 | ❌ Perdida |
@@ -87,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | +$19,879 | ✅ Ganada |
-| SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | — | ⏳ Pendiente |
+| SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | +$18,768 | ✅ Ganada |
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | +$3,510 | ✅ Ganada |
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
 | 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | +$10,641 | ✅ Ganada |
@@ -114,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | +$18,090 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | -$42,400 | ❌ Perdida |
 | ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | -$25,162 | ❌ Perdida |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
 | 0b1 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $26,040 | -$26,040 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $48,152 | +$37,834 | ✅ Ganada |
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | +$60,733 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | vvyvv | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.11 (90¢) | $31,775 | -$31,775 | ❌ Perdida |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | Spirit | 1.52 (66¢) | $64,388 | +$33,170 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs J.J. Wolf | Alexander Bublik | 1.52 (66¢) | $33,939 | +$17,484 | ✅ Ganada |
-| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djokovic | Novak Djokovic | 1.25 (80¢) | $28,206 | -$28,206 | ❌ Perdida |
