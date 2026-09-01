@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 12:52:48 (hora de Perú)
+Actualizado: 2026-09-01 12:54:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1543**  ($83,745,539 en total)
-- Resueltas: **1528** — 894 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Resueltas: **1531** — 897 ganadas / 634 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 277
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,267,188** sobre $83,199,683 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,022** sobre $150,300 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,288,857** sobre $83,295,674 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,957** sobre $150,600 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 11 | 13 | 1 | 46% | $1,106,265 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
-| 0b1 | 26 | 2 | 1 | 93% | $988,871 | +$72,974 |
+| 0b1 | 27 | 2 | 0 | 93% | $988,871 | +$86,065 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
@@ -73,9 +73,9 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 |---|---|---|---|---|---|---|
 | Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | — | ⏳ Pendiente |
-| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | — | ⏳ Pendiente |
-| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | — | ⏳ Pendiente |
+| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | +$2,697 | ✅ Ganada |
+| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
+| 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | +$13,091 | ✅ Ganada |
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
