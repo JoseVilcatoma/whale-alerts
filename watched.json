@@ -11,10 +11,6 @@
     "username": "UpTheBlues",
     "added_at": 1787595515.7078223
   },
-  "0x682005011dd19c1e986cb060ed6ab83845f21c19": {
-    "username": "winwin518168",
-    "added_at": 1787635536.913267
-  },
   "0x4ab9b54427ec4b7f3646b1a0ef1bed73bc708ebe": {
     "username": "RWCS",
     "added_at": 1787668819.4819016
@@ -534,5 +530,9 @@
   "0xc430e5b17128df7ce78d69fa28bc7de038641ebf": {
     "username": "Gourmet1",
     "added_at": 1788237055.8804884
+  },
+  "0x1d1ade627d0bb0205758580b20d808573e720df6": {
+    "username": "Pwaddler",
+    "added_at": 1788240663.3621557
   }
 }
