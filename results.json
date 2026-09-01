@@ -23062,5 +23062,20 @@
     "status": "pending",
     "ultimo_fill": 1788270875,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3170,
+    "timestamp": 1788273319,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "mlb-nym-tb-2026-09-01",
+    "title": "New York Mets vs. Tampa Bay Rays",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 40468.8574,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1788273319,
+    "fills": 1
   }
 ]

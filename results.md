@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 09:33:39 (hora de Perú)
+Actualizado: 2026-09-01 09:35:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1534**  ($83,367,826 en total)
+- Apuestas registradas: **1535**  ($83,408,295 en total)
 - Resueltas: **1526** — 892 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 4
-- Apostadores distintos: 276
+- Pendientes: 5
+- Apostadores distintos: 277
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 276 en total)_
+_(mostrando los 40 de mayor monto, de 277 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 1.39 (72¢) | $27,432 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | — | ⏳ Pendiente |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | +$4,343 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 276 en total)_
 | ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | -$25,162 | ❌ Perdida |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
 | 0b1 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $26,040 | -$26,040 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $48,152 | +$37,834 | ✅ Ganada |
