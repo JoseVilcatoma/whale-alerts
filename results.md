@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 16:33:36 (hora de Perú)
+Actualizado: 2026-09-01 16:35:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1558**  ($84,408,557 en total)
-- Resueltas: **1534** — 900 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **1535** — 901 ganadas / 634 perdidas (**59%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 279
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,327,130** sobre $83,393,069 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$7,825** sobre $150,900 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,331,303** sobre $83,420,996 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,810** sobre $151,000 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Weaseloftheweek | 12 | 13 | 0 | 48% | $1,106,265 | -$162,990 |
-| 0b1 | 27 | 2 | 1 | 93% | $1,016,798 | +$86,065 |
+| 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 1 | 100% | $886,988 | +$90,095 |
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 279 en total)_
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | — | ⏳ Pendiente |
 | Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | — | ⏳ Pendiente |
+| 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | +$4,173 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | — | ⏳ Pendiente |
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | — | ⏳ Pendiente |
