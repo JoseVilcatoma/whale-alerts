@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 10:02:19 (hora de Perú)
+Actualizado: 2026-09-01 10:04:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1536**  ($83,502,664 en total)
+- Apuestas registradas: **1537**  ($83,547,510 en total)
 - Resueltas: **1526** — 892 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 277
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
 | Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 1.39 (72¢) | $27,432 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ | 1.37 (73¢) | $48,910 | +$18,090 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | -$42,400 | ❌ Perdida |
 | ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | -$25,162 | ❌ Perdida |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |

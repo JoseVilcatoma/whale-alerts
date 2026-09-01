@@ -23092,5 +23092,20 @@
     "status": "pending",
     "ultimo_fill": 1788274414,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3172,
+    "timestamp": 1788275004,
+    "username": "jtwyslljy",
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "slug": "atp-sweeny-moutet-2026-08-30",
+    "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+    "outcome": "Corentin Moutet",
+    "side": "BUY",
+    "usd": 44846.37,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1788275004,
+    "fills": 1
   }
 ]
