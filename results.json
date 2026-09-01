@@ -22837,5 +22837,20 @@
     "status": "pending",
     "ultimo_fill": 1788225179,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3130,
+    "timestamp": 1788226617,
+    "username": "thatguythatguy",
+    "wallet": "0x31706006a0ef88b2b8f6d093efbc83b359fbc6a0",
+    "slug": "mlb-nyy-laa-2026-08-31",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "usd": 27500.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788226617,
+    "fills": 1
   }
 ]
