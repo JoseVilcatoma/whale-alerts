@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 17:31:52 (hora de Perú)
+Actualizado: 2026-09-01 17:33:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1564**  ($84,763,930 en total)
+- Apuestas registradas: **1565**  ($84,809,930 en total)
 - Resueltas: **1537** — 903 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 280
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
-| ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
+| ferrariChampions2026 | 13 | 6 | 1 | 68% | $694,154 | -$130,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | — | ⏳ Pendiente |
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | +$24,980 | ✅ Ganada |
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | +$92,564 | ✅ Ganada |
-| AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | +$19,879 | ✅ Ganada |
