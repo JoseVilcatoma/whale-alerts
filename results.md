@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 18:12:41 (hora de Perú)
+Actualizado: 2026-09-01 18:14:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1565**  ($84,809,930 en total)
-- Resueltas: **1538** — 903 ganadas / 635 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **1543** — 908 ganadas / 635 perdidas (**59%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,278,459** sobre $83,578,889 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,903** sobre $151,200 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,328,558** sobre $83,758,225 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,762** sobre $151,700 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 31 | 20 | 0 | 61% | $2,343,936 | +$293,980 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
-| beachboy4 | 12 | 8 | 7 | 60% | $1,817,668 | +$274,144 |
+| beachboy4 | 17 | 8 | 2 | 68% | $1,817,668 | +$324,242 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 11 | 1 | 50% | $1,484,938 | -$631,060 |
@@ -80,12 +80,12 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | — | ⏳ Pendiente |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $55,417 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | +$7,483 | ✅ Ganada |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | +$8,399 | ✅ Ganada |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $55,417 | +$14,731 | ✅ Ganada |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | +$10,301 | ✅ Ganada |
 | Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | +$9,184 | ✅ Ganada |
 | 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | +$4,173 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | -$65,547 | ❌ Perdida |
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
