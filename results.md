@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 06:23:52 (hora de Perú)
+Actualizado: 2026-09-01 06:25:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1529**  ($83,203,853 en total)
-- Resueltas: **1521** — 888 ganadas / 633 perdidas (**58%** de acierto)
-- Pendientes: 4
+- Resueltas: **1522** — 889 ganadas / 633 perdidas (**58%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,172,021** sobre $82,893,700 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,244** sobre $149,600 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,206,311** sobre $82,986,409 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,207** sobre $149,700 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 3 Winner | Gen.G | 1.39 (72¢) | $40,647 | — | ⏳ Pendiente |
 | alexdave888 | LoL: Gen.G vs KT Rolster - Game 3 Winner | KT Rolster | 3.03 (33¢) | $32,458 | — | ⏳ Pendiente |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.37 (73¢) | $92,709 | — | ⏳ Pendiente |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.37 (73¢) | $92,709 | +$34,290 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | -$40,304 | ❌ Perdida |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | +$4,091 | ✅ Ganada |
 | AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | +$36,850 | ✅ Ganada |
