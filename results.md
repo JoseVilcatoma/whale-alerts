@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 03:10:12 (hora de Perú)
+Actualizado: 2026-09-01 03:12:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1525**  ($83,006,539 en total)
+- Apuestas registradas: **1526**  ($83,070,809 en total)
 - Resueltas: **1521** — 888 ganadas / 633 perdidas (**58%** de acierto)
-- Pendientes: 0
+- Pendientes: 1
 - Apostadores distintos: 275
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.39 (72¢) | $64,270 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | -$40,304 | ❌ Perdida |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | +$4,091 | ✅ Ganada |
 | AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | +$36,850 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | ChinesePro | Will Arsenal FC win on 2026-08-31? | No | 2.78 (36¢) | $29,876 | -$29,876 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Venus Williams vs Sofia Kenin | Sofia Kenin | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Mariano Navone vs Novak Djokovic | Mariano Navone | 2.17 (46¢) | $32,445 | +$38,088 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A | FURIA | 2.94 (34¢) | $51,220 | -$51,220 | ❌ Perdida |

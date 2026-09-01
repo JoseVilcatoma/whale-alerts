@@ -22927,5 +22927,20 @@
     "status": "lost",
     "ultimo_fill": 1788234264,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3154,
+    "timestamp": 1788250249,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "lol-gen-kt-2026-09-01-game1",
+    "title": "LoL: Gen.G vs KT Rolster - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 64270.1749,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1788250291,
+    "fills": 2
   }
 ]
