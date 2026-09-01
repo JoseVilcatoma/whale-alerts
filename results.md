@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 12:23:55 (hora de Perú)
+Actualizado: 2026-09-01 12:25:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1541**  ($83,675,902 en total)
+- Apuestas registradas: **1542**  ($83,701,307 en total)
 - Resueltas: **1528** — 894 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 277
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 11 | 0 | 50% | $1,439,027 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Weaseloftheweek | 11 | 13 | 0 | 46% | $1,080,860 | -$188,395 |
+| Weaseloftheweek | 11 | 13 | 1 | 46% | $1,106,265 | -$188,395 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0b1 | 26 | 2 | 1 | 93% | $988,871 | +$72,974 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | — | ⏳ Pendiente |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | — | ⏳ Pendiente |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | 11vsldfdsgfkjgos | US Open ATP: Otto Virtanen vs Andrey Rublev | Andrey Rublev | 1.16 (86¢) | $96,322 | +$15,680 | ✅ Ganada |
 | Painfulvoid | US Open ATP: Roman Safiullin vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $29,295 | +$6,872 | ✅ Ganada |
 | Painfulvoid | Will FC Barcelona win on 2026-08-31? | Yes | 1.12 (89¢) | $40,248 | +$4,975 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Set Handicap: Muchova (-1.5) vs Kraus (+1.5) | Muchova | 1.52 (66¢) | $27,372 | +$14,101 | ✅ Ganada |
