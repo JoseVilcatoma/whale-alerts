@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 21:28:22 (hora de Perú)
+Actualizado: 2026-08-31 22:02:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1523**  ($82,938,855 en total)
-- Resueltas: **1510** — 880 ganadas / 630 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1513** — 883 ganadas / 630 perdidas (**58%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$969,817** sobre $82,369,816 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,516** sobre $148,500 (ROI **-5.7%**)
+- **Resultado de los apostadores: +$1,057,165** sobre $82,526,720 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,303** sobre $148,800 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,12 +29,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 34 | 29 | 3 | 54% | $3,875,291 | -$215,211 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 30 | 20 | 1 | 60% | $2,343,936 | +$260,563 |
+| pleaseplease123 | 31 | 20 | 0 | 61% | $2,343,936 | +$293,980 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| beachboy4 | 11 | 8 | 1 | 58% | $1,472,251 | +$245,194 |
+| beachboy4 | 12 | 8 | 0 | 60% | $1,472,251 | +$274,144 |
 | wr0ngw4yb3tt0r | 11 | 11 | 0 | 50% | $1,439,027 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -83,10 +83,10 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |
 | no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | -$25,427 | ❌ Perdida |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | -$29,937 | ❌ Perdida |
-| beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | +$28,950 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | +$62,122 | ✅ Ganada |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
-| Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
+| Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | +$24,980 | ✅ Ganada |
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
 | AV23IUa | US Open ATP: Grigor Dimitrov vs Alexei Popyrin | Alexei Popyrin | 2.78 (36¢) | $52,067 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | +$19,879 | ✅ Ganada |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | +$3,510 | ✅ Ganada |
 | AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
 | 0b1 | US Open ATP: Yannick Hanfmann vs Alejandro Tabilo | Alejandro Tabilo | 1.15 (87¢) | $71,210 | +$10,641 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | — | ⏳ Pendiente |
+| pleaseplease123 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.85 (54¢) | $39,229 | +$33,417 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-08-31? | No | 2.86 (35¢) | $120,697 | -$120,697 | ❌ Perdida |
 | ssj3 | US Open WTA: Sara Bejlek vs Cristina Bucsa | Cristina Bucsa | 1.15 (87¢) | $70,000 | +$10,460 | ✅ Ganada |
 | lolsterfun | Will Arsenal FC win on 2026-08-31? | Yes | 1.56 (64¢) | $162,990 | +$91,682 | ✅ Ganada |
