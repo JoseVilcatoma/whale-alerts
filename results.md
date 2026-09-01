@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-08-31 20:30:22 (hora de Perú)
+Actualizado: 2026-08-31 20:32:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1519**  ($82,776,479 en total)
-- Resueltas: **1503** — 877 ganadas / 626 perdidas (**58%** de acierto)
-- Pendientes: 12
+- Resueltas: **1504** — 878 ganadas / 626 perdidas (**58%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 275
 
 ### Balance
 
-- **Resultado de los apostadores: +$985,976** sobre $82,113,922 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,346** sobre $147,800 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,048,098** sobre $82,186,848 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,261** sobre $147,900 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 34 | 28 | 3 | 55% | $3,812,546 | -$185,274 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 28 | 20 | 3 | 58% | $2,343,936 | +$173,240 |
+| pleaseplease123 | 29 | 20 | 2 | 59% | $2,343,936 | +$235,363 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | — | ⏳ Pendiente |
 | AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | — | ⏳ Pendiente |
-| pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | — | ⏳ Pendiente |
+| pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | +$62,122 | ✅ Ganada |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
