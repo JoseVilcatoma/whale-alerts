@@ -22987,5 +22987,35 @@
     "status": "won",
     "ultimo_fill": 1788259163,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3163,
+    "timestamp": 1788267792,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "atp-brancac-ajdukov-2026-08-31",
+    "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
+    "outcome": "Duje Ajdukovic",
+    "side": "BUY",
+    "usd": 31289.974700000002,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1788267792,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3164,
+    "timestamp": 1788267866,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-det-min-2026-09-01",
+    "title": "Detroit Tigers vs. Minnesota Twins",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 25944.567,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788267866,
+    "fills": 1
   }
 ]

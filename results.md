@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 08:03:10 (hora de Perú)
+Actualizado: 2026-09-01 08:05:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1529**  ($83,203,853 en total)
+- Apuestas registradas: **1531**  ($83,261,087 en total)
 - Resueltas: **1525** — 891 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 0
+- Pendientes: 2
 - Apostadores distintos: 275
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0b1 | 26 | 2 | 0 | 93% | $953,477 | +$72,974 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 12 | 0 | 0 | 100% | $844,642 | +$90,095 |
+| SDTrading | 12 | 13 | 1 | 48% | $776,099 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 13 | 7 | 0 | 65% | $750,693 | -$13,369 |
-| SDTrading | 12 | 13 | 0 | 48% | $750,155 | -$61,533 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 6 | 0 | 68% | $648,154 | -$130,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 007theone1 | 7 | 0 | 0 | ⚠️ 100% (7) | $404,498 | +$126,888 |
 | sulumos | 2 | 7 | 0 | 22% | $399,683 | -$308,451 |
+| 11vsldfdsgfkjgos | 6 | 1 | 1 | ⚠️ 86% (7) | $394,402 | +$69,975 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
-| StasPanda | 4 | 4 | 0 | 50% | $381,070 | -$8,007 |
 
 _(mostrando los 40 de mayor monto, de 275 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 2.38 (42¢) | $31,290 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | +$19,306 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 3 Winner | Gen.G | 1.39 (72¢) | $40,647 | +$15,807 | ✅ Ganada |
 | alexdave888 | LoL: Gen.G vs KT Rolster - Game 3 Winner | KT Rolster | 3.03 (33¢) | $32,458 | -$32,458 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 275 en total)_
 | AV23IUa | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | MOUZ | 2.13 (47¢) | $53,857 | +$60,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | Aurora Gaming | 2.27 (44¢) | $54,500 | -$54,500 | ❌ Perdida |
 | AV23IUa | Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A | G2 | 1.79 (56¢) | $45,240 | +$35,545 | ✅ Ganada |
-| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will FC Barcelona win on 2026-08-31? | Yes | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
-| AgricultureSecretary | Zhangjiagang: Koki Matsuda vs Fanming Meng | Koki Matsuda | 1.59 (63¢) | $26,136 | +$15,350 | ✅ Ganada |
