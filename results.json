@@ -23347,5 +23347,20 @@
     "status": "pending",
     "ultimo_fill": 1788293691,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3197,
+    "timestamp": 1788293960,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-fery-musetti-2026-08-30",
+    "title": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
+    "outcome": "Lorenzo Musetti",
+    "side": "BUY",
+    "usd": 55417.291300000004,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1788293960,
+    "fills": 1
   }
 ]
