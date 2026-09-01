@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 09:52:04 (hora de Perú)
+Actualizado: 2026-09-01 09:54:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1535**  ($83,408,295 en total)
+- Apuestas registradas: **1536**  ($83,502,664 en total)
 - Resueltas: **1526** — 892 ganadas / 634 perdidas (**58%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 277
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 87 | 2 | 60% | $15,170,726 | +$390,269 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 87 | 3 | 60% | $15,265,096 | +$390,269 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 46 | 0 | 57% | $4,446,401 | +$58,587 |
 | AV23IUa | 37 | 29 | 0 | 56% | $3,875,291 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
 | Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 1.39 (72¢) | $27,432 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 277 en total)_
 | ExplosiveNinja | Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B | Team Falcons | 1.89 (53¢) | $42,400 | -$42,400 | ❌ Perdida |
 | ssj3 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $25,162 | -$25,162 | ❌ Perdida |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
-| 0b1 | US Open ATP: Stefanos Tsitsipas vs Arthur Fils | Arthur Fils | 1.19 (84¢) | $26,040 | -$26,040 | ❌ Perdida |
