@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 17:13:34 (hora de Perú)
+Actualizado: 2026-09-01 17:15:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1561**  ($84,532,368 en total)
+- Apuestas registradas: **1562**  ($84,602,331 en total)
 - Resueltas: **1537** — 903 ganadas / 634 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 280
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 11 | 1 | 50% | $1,484,938 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Weaseloftheweek | 12 | 13 | 0 | 48% | $1,106,265 | -$162,990 |
+| Weaseloftheweek | 12 | 13 | 1 | 48% | $1,176,228 | -$162,990 |
 | 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | — | ⏳ Pendiente |
 | chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | +$10,000 | 💰 Vendida antes |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | AV23IUa | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.75 (57¢) | $26,351 | +$19,879 | ✅ Ganada |
 | SDTrading | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.72 (58¢) | $25,918 | +$18,768 | ✅ Ganada |
 | 0b1 | US Open ATP: Alexander Blockx vs Tomas Barrios | Alexander Blockx | 1.14 (88¢) | $25,737 | +$3,510 | ✅ Ganada |
-| AV23IUa | Spread: FC Barcelona (-2.5) | FC Barcelona | 1.33 (75¢) | $189,858 | +$63,286 | ✅ Ganada |
