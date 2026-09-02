@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 17:39:48 (hora de Perú)
+Actualizado: 2026-09-02 17:41:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1635**  ($87,594,763 en total)
-- Resueltas: **1602** — 940 ganadas / 662 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Resueltas: **1603** — 941 ganadas / 662 perdidas (**59%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 289
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,285,506** sobre $86,465,990 apostados (ROI **+1.5%**)
+- **Resultado de los apostadores: +$1,303,968** sobre $86,495,990 apostados (ROI **+1.5%**)
 - Copiando $100 fijo en cada una: **-$8,154** sobre $157,600 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 29 | 3 | 3 | 91% | $1,191,889 | +$72,736 |
 | Sassy-Bucket | 14 | 11 | 1 | 56% | $1,093,569 | +$119,220 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 1 | 67% | $830,693 | -$3,369 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | — | ⏳ Pendiente |
 | beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | +$18,462 | 💰 Vendida antes |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $35,782 | — | ⏳ Pendiente |
