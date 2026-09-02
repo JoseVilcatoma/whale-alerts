@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 17:45:59 (hora de Perú)
+Actualizado: 2026-09-02 17:48:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1635**  ($87,594,763 en total)
-- Resueltas: **1604** — 942 ganadas / 662 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Resueltas: **1605** — 942 ganadas / 663 perdidas (**59%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 289
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,312,600** sobre $86,530,518 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,129** sobre $157,700 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,278,599** sobre $86,564,519 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,229** sobre $157,800 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Weaseloftheweek | 16 | 14 | 2 | 53% | $1,594,686 | -$3,619 |
+| Weaseloftheweek | 16 | 15 | 1 | 52% | $1,594,686 | -$37,620 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.33 (43¢) | $30,278 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | — | ⏳ Pendiente |
-| Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | — | ⏳ Pendiente |
+| Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | -$34,001 | ❌ Perdida |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | — | ⏳ Pendiente |
