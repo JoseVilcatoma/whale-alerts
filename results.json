@@ -23859,5 +23859,35 @@
     "status": "pending",
     "ultimo_fill": 1788360744,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3271,
+    "timestamp": 1788360981,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-aguilar-rublev-2026-09-02",
+    "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+    "outcome": "Daniel Merida Aguilar",
+    "side": "BUY",
+    "usd": 46330.8612,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1788360981,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3272,
+    "timestamp": 1788360997,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "atp-aguilar-rublev-2026-09-02",
+    "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+    "outcome": "Daniel Merida Aguilar",
+    "side": "BUY",
+    "usd": 30472.65,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1788360997,
+    "fills": 1
   }
 ]
