@@ -24129,5 +24129,35 @@
     "status": "pending",
     "ultimo_fill": 1788371262,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3296,
+    "timestamp": 1788371731,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-boulter-muchova-2026-09-01",
+    "title": "US Open WTA: Katie Boulter vs Karolina Muchova",
+    "outcome": "Karolina Muchova",
+    "side": "BUY",
+    "usd": 44433.6395,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1788371731,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3297,
+    "timestamp": 1788371796,
+    "username": "123abc",
+    "wallet": "0xc58df0b98437f613e20916c242403e0a6c009373",
+    "slug": "atp-vachero-majchrz-2026-09-01",
+    "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "usd": 46102.9448,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1788371796,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 12:55:18 (hora de Perú)
+Actualizado: 2026-09-02 12:57:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1605**  ($86,415,869 en total)
+- Apuestas registradas: **1607**  ($86,506,405 en total)
 - Resueltas: **1576** — 925 ganadas / 651 perdidas (**59%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 286
+- Pendientes: 27
+- Apostadores distintos: 287
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 132 | 89 | 4 | 60% | $15,602,580 | +$343,411 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 132 | 89 | 5 | 60% | $15,647,013 | +$343,411 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 1 | 56% | $4,522,511 | +$13,810 |
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 286 en total)_
+_(mostrando los 40 de mayor monto, de 287 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | +$4,173 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | -$65,547 | ❌ Perdida |
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | -$30,050 | ❌ Perdida |
-| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | -$34,960 | ❌ Perdida |
-| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | -$131,121 | ❌ Perdida |
