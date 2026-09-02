@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 09:58:51 (hora de Perú)
+Actualizado: 2026-09-02 10:00:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1589**  ($85,756,824 en total)
+- Apuestas registradas: **1590**  ($85,791,725 en total)
 - Resueltas: **1569** — 922 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 284
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 37 | 29 | 4 | 56% | $4,007,190 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 31 | 20 | 1 | 61% | $2,378,897 | +$293,980 |
+| pleaseplease123 | 31 | 20 | 2 | 61% | $2,413,798 | +$293,980 |
 | ripley86alien | 12 | 5 | 1 | 71% | $2,124,185 | +$870,387 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 17 | 10 | 0 | 63% | $1,817,668 | +$158,161 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
 | CongoleseBorat | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $30,473 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $46,331 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.64 (61¢) | $73,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | +$2,210 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | +$4,343 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | -$25,945 | ❌ Perdida |
-| 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 2.38 (42¢) | $31,290 | +$43,210 | ✅ Ganada |
