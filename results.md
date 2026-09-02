@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 08:37:54 (hora de Perú)
+Actualizado: 2026-09-02 08:39:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1583**  ($85,487,698 en total)
+- Apuestas registradas: **1584**  ($85,515,700 en total)
 - Resueltas: **1567** — 920 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 283
+- Pendientes: 13
+- Apostadores distintos: 284
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 283 en total)_
+_(mostrando los 40 de mayor monto, de 284 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 283 en total)_
 | alexdave888 | LoL: Gen.G vs KT Rolster - Game 3 Winner | KT Rolster | 3.03 (33¢) | $32,458 | -$32,458 | ❌ Perdida |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.37 (73¢) | $92,709 | +$34,290 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | -$40,304 | ❌ Perdida |
-| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels | 1.15 (87¢) | $27,379 | +$4,091 | ✅ Ganada |
