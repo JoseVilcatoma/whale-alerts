@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 00:27:02 (hora de Perú)
+Actualizado: 2026-09-02 00:29:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1568**  ($84,934,672 en total)
-- Resueltas: **1555** — 912 ganadas / 643 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1556** — 913 ganadas / 643 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 281
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,053,834** sobre $84,398,023 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,274** sobre $152,900 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,056,298** sobre $84,430,754 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,266** sobre $153,000 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 281 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | — | ⏳ Pendiente |
-| curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | — | ⏳ Pendiente |
+| curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
