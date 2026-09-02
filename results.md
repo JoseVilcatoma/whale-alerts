@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 03:16:11 (hora de Perú)
+Actualizado: 2026-09-02 04:16:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1570**  ($85,061,894 en total)
-- Resueltas: **1559** — 915 ganadas / 644 perdidas (**59%** de acierto)
-- Pendientes: 7
+- Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 282
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,053,731** sobre $84,556,299 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,248** sobre $153,300 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,032,483** sobre $84,651,077 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,301** sobre $153,500 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 89 | 3 | 59% | $15,406,436 | +$230,353 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 46 | 1 | 57% | $4,491,178 | +$58,587 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
 | AV23IUa | 37 | 29 | 0 | 56% | $3,875,291 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
 | curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | -$44,778 | ❌ Perdida |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | — | ⏳ Pendiente |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | +$2,100 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | +$10,000 | 💰 Vendida antes |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | -$45,911 | ❌ Perdida |
-| Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
+| Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | +$7,483 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | +$8,399 | ✅ Ganada |
