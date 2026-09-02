@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 15:20:32 (hora de Perú)
+Actualizado: 2026-09-02 15:22:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1620**  ($87,070,989 en total)
+- Apuestas registradas: **1621**  ($87,106,431 en total)
 - Resueltas: **1590** — 934 ganadas / 656 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 287
 
 ### Balance
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
+| xifutloong3 | 8 | 10 | 2 | 44% | $614,516 | -$171,015 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| xifutloong3 | 8 | 10 | 1 | 44% | $579,074 | -$171,015 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 2.00 (50¢) | $35,442 | — | ⏳ Pendiente |
 | xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | — | ⏳ Pendiente |
 | texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | +$69,963 | ✅ Ganada |
 | Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | -$69,963 | ❌ Perdida |
-| chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | +$2,100 | ✅ Ganada |
