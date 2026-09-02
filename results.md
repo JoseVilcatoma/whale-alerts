@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 04:18:11 (hora de Perú)
+Actualizado: 2026-09-02 04:20:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1570**  ($85,061,894 en total)
+- Apuestas registradas: **1572**  ($85,137,243 en total)
 - Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Pendientes: 7
 - Apostadores distintos: 282
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
+| sulumos | 2 | 7 | 1 | 22% | $428,683 | -$308,451 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
-| sulumos | 2 | 7 | 0 | 22% | $399,683 | -$308,451 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | — | ⏳ Pendiente |
 | Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | — | ⏳ Pendiente |
 | dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | 0b1 | US Open WTA: Sloane Stephens vs Clara Tauson | Sloane Stephens | 1.06 (94¢) | $30,143 | +$1,924 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |
 | no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | -$25,427 | ❌ Perdida |
-| AV23IUa | Miami Marlins vs. Washington Nationals | Miami Marlins | 1.96 (51¢) | $29,937 | -$29,937 | ❌ Perdida |
-| beachboy4 | US Open ATP: Quentin Halys vs Facundo Acosta | Quentin Halys | 1.32 (76¢) | $91,675 | +$28,950 | ✅ Ganada |
