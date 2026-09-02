@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 08:21:24 (hora de Perú)
+Actualizado: 2026-09-02 08:23:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1582**  ($85,452,737 en total)
-- Resueltas: **1563** — 917 ganadas / 646 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1567** — 920 ganadas / 647 perdidas (**59%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 283
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,073,007** sobre $84,726,426 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,251** sobre $153,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,142,424** sobre $84,926,314 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,156** sobre $154,100 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Weaseloftheweek | 13 | 13 | 2 | 50% | $1,318,684 | -$147,245 |
+| Weaseloftheweek | 14 | 13 | 1 | 52% | $1,318,684 | -$93,683 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0b1 | 28 | 2 | 2 | 93% | $1,069,808 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
@@ -76,15 +76,15 @@ _(mostrando los 40 de mayor monto, de 283 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $43,736 | — | ⏳ Pendiente |
 | TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
-| DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | — | ⏳ Pendiente |
+| DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | +$31,735 | ✅ Ganada |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | — | ⏳ Pendiente |
-| madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | — | ⏳ Pendiente |
+| madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | -$33,880 | ❌ Perdida |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | +$69,524 | ✅ Ganada |
-| Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | — | ⏳ Pendiente |
-| dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | +$53,562 | ✅ Ganada |
+| dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
 | curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | -$44,778 | ❌ Perdida |
