@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 04:55:05 (hora de Perú)
+Actualizado: 2026-09-02 04:57:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1572**  ($85,137,243 en total)
+- Apuestas registradas: **1573**  ($85,171,123 en total)
 - Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 282
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | — | ⏳ Pendiente |
 | Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | wr0ngw4yb3tt0r | San Francisco Giants vs. Atlanta Braves | Atlanta Braves | 1.32 (76¢) | $48,585 | -$48,585 | ❌ Perdida |
 | 0b1 | US Open WTA: Sloane Stephens vs Clara Tauson | Sloane Stephens | 1.06 (94¢) | $30,143 | +$1,924 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |
-| no1dodgersfan | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $25,427 | -$25,427 | ❌ Perdida |
