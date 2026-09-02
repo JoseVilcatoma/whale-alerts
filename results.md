@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 18:02:25 (hora de Perú)
+Actualizado: 2026-09-02 18:04:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1635**  ($87,594,763 en total)
-- Resueltas: **1605** — 942 ganadas / 663 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Resueltas: **1613** — 943 ganadas / 670 perdidas (**58%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 289
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,278,599** sobre $86,564,519 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,229** sobre $157,800 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,058,475** sobre $86,815,898 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,919** sobre $158,600 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 90 | 6 | 60% | $15,791,094 | +$350,518 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 2 | 56% | $4,549,622 | +$13,810 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 49 | 0 | 55% | $4,549,622 | -$44,634 |
 | AV23IUa | 38 | 31 | 2 | 55% | $4,035,407 | -$66,677 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0b1 | 29 | 3 | 3 | 91% | $1,191,889 | +$72,736 |
+| 0b1 | 30 | 3 | 2 | 91% | $1,191,889 | +$75,549 |
 | Sassy-Bucket | 14 | 11 | 1 | 56% | $1,093,569 | +$119,220 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
-| xifutloong3 | 8 | 11 | 1 | 42% | $614,516 | -$206,457 |
+| xifutloong3 | 8 | 12 | 0 | 40% | $614,516 | -$235,840 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | — | ⏳ Pendiente |
-| beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | — | ⏳ Pendiente |
+| beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | -$32,510 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | +$18,462 | 💰 Vendida antes |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
@@ -81,27 +81,27 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $35,508 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | — | ⏳ Pendiente |
-| 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | — | ⏳ Pendiente |
+| 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | +$2,813 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $29,253 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $58,369 | — | ⏳ Pendiente |
 | xifutloong3 | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 2.00 (50¢) | $35,442 | -$35,442 | ❌ Perdida |
-| xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | — | ⏳ Pendiente |
+| xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | -$29,383 | ❌ Perdida |
 | texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
 | Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
 | Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | +$62,599 | ✅ Ganada |
-| Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
-| BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.33 (43¢) | $30,278 | — | ⏳ Pendiente |
+| Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
+| BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.33 (43¢) | $30,278 | -$30,278 | ❌ Perdida |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | -$34,001 | ❌ Perdida |
-| BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | — | ⏳ Pendiente |
+| BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | -$25,322 | ❌ Perdida |
 | BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | +$7,841 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | -$31,333 | ❌ Perdida |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | +$104,000 | ✅ Ganada |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | +$7,835 | ✅ Ganada |
