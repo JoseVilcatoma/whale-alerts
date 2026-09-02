@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 11:38:27 (hora de Perú)
+Actualizado: 2026-09-02 11:40:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1601**  ($86,228,980 en total)
+- Apuestas registradas: **1602**  ($86,260,319 en total)
 - Resueltas: **1571** — 923 ganadas / 648 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 286
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 31 | 20 | 4 | 61% | $2,500,511 | +$293,980 |
 | ripley86alien | 12 | 5 | 3 | 71% | $2,183,725 | +$870,387 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| beachboy4 | 17 | 10 | 1 | 63% | $1,856,190 | +$158,161 |
+| beachboy4 | 17 | 10 | 2 | 63% | $1,887,529 | +$158,161 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | — | ⏳ Pendiente |
 | Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | +$2,703 | ✅ Ganada |
 | afraz | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 1.25 (80¢) | $42,631 | +$10,658 | ✅ Ganada |
 | Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | +$40,830 | ✅ Ganada |
-| Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | +$25,405 | ✅ Ganada |
