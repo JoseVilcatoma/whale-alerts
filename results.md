@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 17:19:23 (hora de Perú)
+Actualizado: 2026-09-02 17:21:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1630**  ($87,413,184 en total)
+- Apuestas registradas: **1633**  ($87,527,060 en total)
 - Resueltas: **1602** — 940 ganadas / 662 perdidas (**59%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 288
+- Pendientes: 27
+- Apostadores distintos: 289
 
 ### Balance
 
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 29 | 3 | 3 | 91% | $1,191,889 | +$72,736 |
 | Sassy-Bucket | 14 | 11 | 0 | 56% | $1,058,376 | +$119,220 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 1 | 67% | $830,693 | -$3,369 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
@@ -65,13 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 288 en total)_
+_(mostrando los 40 de mayor monto, de 289 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
+| Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $35,782 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $35,508 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 288 en total)_
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | +$11,150 | ✅ Ganada |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | -$32,587 | ❌ Perdida |
-| madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | -$33,880 | ❌ Perdida |
-| sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | +$69,524 | ✅ Ganada |

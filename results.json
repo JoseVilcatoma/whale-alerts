@@ -24504,5 +24504,50 @@
     "status": "pending",
     "ultimo_fill": 1788386882,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3349,
+    "timestamp": 1788386883,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "atp-vachero-majchrz-2026-09-01",
+    "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "usd": 48094.5642,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788386883,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3350,
+    "timestamp": 1788386643,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "atp-vachero-majchrz-2026-09-01",
+    "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "usd": 35782.15979863797,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788386643,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3351,
+    "timestamp": 1788387682,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "atp-lehecka-samuel-2026-09-02",
+    "title": "US Open ATP: Jiri Lehecka vs Toby Samuel",
+    "outcome": "Jiri Lehecka",
+    "side": "BUY",
+    "usd": 29999.999998999996,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1788387682,
+    "fills": 1
   }
 ]
