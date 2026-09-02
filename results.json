@@ -24099,5 +24099,20 @@
     "status": "pending",
     "ultimo_fill": 1788367904,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3290,
+    "timestamp": 1788369635,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-harri-tsitsip-2026-09-02",
+    "title": "US Open ATP: Lloyd Harris vs Stefanos Tsitsipas",
+    "outcome": "Stefanos Tsitsipas",
+    "side": "BUY",
+    "usd": 28216.859999999997,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1788369635,
+    "fills": 1
   }
 ]
