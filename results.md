@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 07:44:10 (hora de Perú)
+Actualizado: 2026-09-02 07:46:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1579**  ($85,366,850 en total)
+- Apuestas registradas: **1580**  ($85,399,726 en total)
 - Resueltas: **1563** — 917 ganadas / 646 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 283
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 89 | 4 | 59% | $15,450,172 | +$230,353 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 89 | 5 | 59% | $15,483,049 | +$230,353 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
 | AV23IUa | 37 | 29 | 3 | 56% | $3,962,894 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 283 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $43,736 | — | ⏳ Pendiente |
 | TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 283 en total)_
 | AV23IUa | US Open ATP: Martin Damm vs Frances Tiafoe | Frances Tiafoe | 1.59 (63¢) | $62,745 | +$36,850 | ✅ Ganada |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.08 (93¢) | $33,884 | +$2,550 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | -$38,247 | ❌ Perdida |
-| thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
