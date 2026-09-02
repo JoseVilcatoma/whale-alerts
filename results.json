@@ -24024,5 +24024,20 @@
     "status": "pending",
     "ultimo_fill": 1788364706,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3283,
+    "timestamp": 1788364766,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sd-cin-2026-09-02-total-9pt5",
+    "title": "San Diego Padres vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 46200.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788364766,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 10:58:51 (hora de Perú)
+Actualizado: 2026-09-02 11:00:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1598**  ($86,092,277 en total)
+- Apuestas registradas: **1599**  ($86,138,477 en total)
 - Resueltas: **1570** — 923 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 286
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 37 | 29 | 4 | 56% | $4,007,190 | -$944 |
 | 3edmond.dantes | 19 | 8 | 1 | 70% | $3,532,509 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 31 | 20 | 3 | 61% | $2,454,311 | +$293,980 |
+| pleaseplease123 | 31 | 20 | 4 | 61% | $2,500,511 | +$293,980 |
 | ripley86alien | 12 | 5 | 3 | 71% | $2,183,725 | +$870,387 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 17 | 10 | 0 | 63% | $1,817,668 | +$158,161 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | — | ⏳ Pendiente |
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | +$25,405 | ✅ Ganada |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | +$2,697 | ✅ Ganada |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
-| 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | +$13,091 | ✅ Ganada |
