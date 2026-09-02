@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 15:49:11 (hora de Perú)
+Actualizado: 2026-09-02 15:51:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1622**  ($87,164,800 en total)
+- Apuestas registradas: **1624**  ($87,229,534 en total)
 - Resueltas: **1590** — 934 ganadas / 656 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 287
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 133 | 90 | 4 | 60% | $15,692,013 | +$342,677 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 133 | 90 | 5 | 60% | $15,727,494 | +$342,677 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 2 | 56% | $4,549,622 | +$13,810 |
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 33 | 20 | 2 | 62% | $2,500,511 | +$378,055 |
+| pleaseplease123 | 33 | 20 | 3 | 62% | $2,529,764 | +$378,055 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | — | ⏳ Pendiente |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $29,253 | — | ⏳ Pendiente |
 | Weaseloftheweek | Seattle Mariners vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $58,369 | — | ⏳ Pendiente |
 | xifutloong3 | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 2.00 (50¢) | $35,442 | — | ⏳ Pendiente |
 | xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | -$44,778 | ❌ Perdida |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
-| Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | +$69,963 | ✅ Ganada |

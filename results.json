@@ -24384,5 +24384,35 @@
     "status": "pending",
     "ultimo_fill": 1788381589,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3328,
+    "timestamp": 1788382256,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sf-pit-2026-09-02-total-8pt5",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29252.961000000003,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788382256,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3329,
+    "timestamp": 1788382275,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-sea-bos-2026-09-02",
+    "title": "Seattle Mariners vs. Boston Red Sox",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 35481.197142,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788382275,
+    "fills": 1
   }
 ]
