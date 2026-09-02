@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 13:36:03 (hora de Perú)
+Actualizado: 2026-09-02 13:38:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1611**  ($86,629,044 en total)
+- Apuestas registradas: **1612**  ($86,659,323 en total)
 - Resueltas: **1584** — 929 ganadas / 655 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 287
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.33 (43¢) | $30,278 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | — | ⏳ Pendiente |
 | Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | +$8,399 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $55,417 | +$14,731 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | +$10,301 | ✅ Ganada |
-| Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | +$20,900 | ✅ Ganada |
