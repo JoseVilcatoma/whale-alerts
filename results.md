@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 09:48:32 (hora de Perú)
+Actualizado: 2026-09-02 09:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1585**  ($85,559,996 en total)
+- Apuestas registradas: **1586**  ($85,606,821 en total)
 - Resueltas: **1569** — 922 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 284
 
 ### Balance
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 1 | 61% | $2,378,897 | +$293,980 |
+| ripley86alien | 12 | 5 | 1 | 71% | $2,124,185 | +$870,387 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| ripley86alien | 12 | 5 | 0 | 71% | $2,077,360 | +$870,387 |
 | beachboy4 | 17 | 10 | 0 | 63% | $1,817,668 | +$158,161 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $46,825 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs | DENDELE CS | 1.54 (65¢) | $44,295 | — | ⏳ Pendiente |
 | 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | +$19,306 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 3 Winner | Gen.G | 1.39 (72¢) | $40,647 | +$15,807 | ✅ Ganada |
 | alexdave888 | LoL: Gen.G vs KT Rolster - Game 3 Winner | KT Rolster | 3.03 (33¢) | $32,458 | -$32,458 | ❌ Perdida |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.37 (73¢) | $92,709 | +$34,290 | ✅ Ganada |
