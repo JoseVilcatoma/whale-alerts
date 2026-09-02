@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 01:26:57 (hora de Perú)
+Actualizado: 2026-09-02 01:29:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1568**  ($84,934,672 en total)
-- Resueltas: **1556** — 913 ganadas / 643 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Resueltas: **1557** — 914 ganadas / 643 perdidas (**59%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 281
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,056,298** sobre $84,430,754 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,266** sobre $153,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,072,042** sobre $84,477,988 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,233** sobre $153,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 11 | 1 | 50% | $1,484,938 | -$631,060 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Weaseloftheweek | 12 | 13 | 2 | 48% | $1,223,462 | -$162,990 |
+| Weaseloftheweek | 13 | 13 | 1 | 50% | $1,223,462 | -$147,245 |
 | 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 281 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | — | ⏳ Pendiente |
+| Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
 | curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
