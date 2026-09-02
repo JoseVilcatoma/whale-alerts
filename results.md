@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 20:30:54 (hora de Perú)
+Actualizado: 2026-09-01 20:32:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1566**  ($84,854,707 en total)
-- Resueltas: **1547** — 909 ganadas / 638 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1548** — 910 ganadas / 638 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,214,139** sobre $83,902,644 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,055** sobre $152,100 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,235,039** sobre $83,936,744 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,993** sobre $152,200 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $31,598 | +$8,399 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.27 (79¢) | $55,417 | +$14,731 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.28 (78¢) | $36,522 | +$10,301 | ✅ Ganada |
-| Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | — | ⏳ Pendiente |
+| Feromont | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.61 (62¢) | $34,100 | +$20,900 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | +$9,184 | ✅ Ganada |
 | 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | +$4,173 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | -$65,547 | ❌ Perdida |
