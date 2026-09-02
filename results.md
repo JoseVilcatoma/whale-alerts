@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 19:09:38 (hora de Perú)
+Actualizado: 2026-09-01 19:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1565**  ($84,809,930 en total)
-- Resueltas: **1543** — 908 ganadas / 635 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Resueltas: **1545** — 908 ganadas / 637 perdidas (**59%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,328,558** sobre $83,758,225 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$7,762** sobre $151,700 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,252,508** sobre $83,834,275 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,962** sobre $151,900 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
-| ferrariChampions2026 | 13 | 6 | 1 | 68% | $694,154 | -$130,769 |
+| ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $30,746 | +$9,184 | ✅ Ganada |
 | 0b1 | US Open WTA: Mirra Andreeva vs Janice Tjen | Mirra Andreeva | 1.15 (87¢) | $27,927 | +$4,173 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Bristol City FC win on 2026-09-01? | No | 2.56 (39¢) | $65,547 | -$65,547 | ❌ Perdida |
-| 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | — | ⏳ Pendiente |
+| 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | -$30,050 | ❌ Perdida |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | +$2,703 | ✅ Ganada |
