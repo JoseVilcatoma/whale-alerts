@@ -24009,5 +24009,20 @@
     "status": "pending",
     "ultimo_fill": 1788364515,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3282,
+    "timestamp": 1788364706,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-atl-wsh-2026-09-02-total-9pt5",
+    "title": "Atlanta Braves vs. Washington Nationals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788364706,
+    "fills": 1
   }
 ]
