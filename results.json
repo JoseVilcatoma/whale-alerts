@@ -24159,5 +24159,35 @@
     "status": "pending",
     "ultimo_fill": 1788371796,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3299,
+    "timestamp": 1788373453,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "atp-jodar-bu-2026-09-01",
+    "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+    "outcome": "Yunchaokete Bu",
+    "side": "BUY",
+    "usd": 32000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788373453,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3300,
+    "timestamp": 1788373473,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "atp-giron-buse-2026-08-30",
+    "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
+    "outcome": "Marcos Giron",
+    "side": "BUY",
+    "usd": 25321.74,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1788373473,
+    "fills": 1
   }
 ]
