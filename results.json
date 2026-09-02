@@ -24114,5 +24114,20 @@
     "status": "pending",
     "ultimo_fill": 1788369635,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3295,
+    "timestamp": 1788371262,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-col-2026-09-02-total-11pt5",
+    "title": "Baltimore Orioles vs. Colorado Rockies: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31333.019999999997,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788371262,
+    "fills": 1
   }
 ]

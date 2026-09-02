@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 12:46:48 (hora de Perú)
+Actualizado: 2026-09-02 12:48:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1604**  ($86,384,536 en total)
+- Apuestas registradas: **1605**  ($86,415,869 en total)
 - Resueltas: **1576** — 925 ganadas / 651 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 286
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 132 | 89 | 4 | 60% | $15,602,580 | +$343,411 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 1 | 56% | $4,522,511 | +$13,810 |
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | 0xd2b5…b7b3 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.82 (55¢) | $30,050 | -$30,050 | ❌ Perdida |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $34,960 | -$34,960 | ❌ Perdida |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | -$131,121 | ❌ Perdida |
-| Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | +$2,703 | ✅ Ganada |
