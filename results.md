@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 18:37:17 (hora de Perú)
+Actualizado: 2026-09-02 18:39:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1637**  ($87,685,496 en total)
+- Apuestas registradas: **1638**  ($87,725,496 en total)
 - Resueltas: **1615** — 944 ganadas / 671 perdidas (**58%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 289
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | +$18,493 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $43,736 | +$24,602 | ✅ Ganada |
-| TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | -$25,600 | ❌ Perdida |
