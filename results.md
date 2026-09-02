@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 20:24:46 (hora de Perú)
+Actualizado: 2026-09-01 20:26:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1566**  ($84,854,707 en total)
-- Resueltas: **1546** — 909 ganadas / 637 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **1547** — 909 ganadas / 638 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,254,608** sobre $83,862,175 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,955** sobre $152,000 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,214,139** sobre $83,902,644 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,055** sobre $152,100 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | — | ⏳ Pendiente |
-| Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | — | ⏳ Pendiente |
+| Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | -$40,469 | ❌ Perdida |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 1.39 (72¢) | $27,432 | +$10,668 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | +$2,210 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | +$4,343 | ✅ Ganada |
