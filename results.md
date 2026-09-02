@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 10:21:19 (hora de Perú)
+Actualizado: 2026-09-02 10:23:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1595**  ($85,954,671 en total)
+- Apuestas registradas: **1596**  ($85,995,183 en total)
 - Resueltas: **1569** — 922 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 286
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 37 | 29 | 4 | 56% | $4,007,190 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 31 | 20 | 2 | 61% | $2,413,798 | +$293,980 |
+| pleaseplease123 | 31 | 20 | 3 | 61% | $2,454,311 | +$293,980 |
 | ripley86alien | 12 | 5 | 3 | 71% | $2,183,725 | +$870,387 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 17 | 10 | 0 | 63% | $1,817,668 | +$158,161 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
 | Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | — | ⏳ Pendiente |
 | Pwaddler | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 1.89 (53¢) | $30,879 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $31,576 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | +$13,091 | ✅ Ganada |
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | -$44,846 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | -$94,370 | ❌ Perdida |
