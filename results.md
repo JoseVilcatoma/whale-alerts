@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 14:55:53 (hora de Perú)
+Actualizado: 2026-09-02 14:57:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1620**  ($87,070,989 en total)
-- Resueltas: **1589** — 934 ganadas / 655 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Resueltas: **1590** — 934 ganadas / 656 perdidas (**59%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 287
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,366,106** sobre $85,917,652 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$7,770** sobre $156,300 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,314,125** sobre $85,969,633 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,870** sobre $156,400 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | +$104,000 | ✅ Ganada |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | +$7,835 | ✅ Ganada |
-| Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | — | ⏳ Pendiente |
+| Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | -$51,981 | ❌ Perdida |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | +$9,630 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | +$46,200 | ✅ Ganada |
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
