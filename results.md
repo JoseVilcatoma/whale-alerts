@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 16:01:44 (hora de Perú)
+Actualizado: 2026-09-02 16:03:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1624**  ($87,229,534 en total)
-- Resueltas: **1590** — 934 ganadas / 656 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **1591** — 935 ganadas / 656 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 287
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,314,125** sobre $85,969,633 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,870** sobre $156,400 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,321,966** sobre $86,014,067 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,853** sobre $156,500 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 133 | 90 | 5 | 60% | $15,727,494 | +$342,677 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 134 | 90 | 4 | 60% | $15,727,494 | +$350,518 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 2 | 56% | $4,549,622 | +$13,810 |
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | +$7,841 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | +$104,000 | ✅ Ganada |
