@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 10:54:38 (hora de Perú)
+Actualizado: 2026-09-02 10:56:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1596**  ($85,995,183 en total)
+- Apuestas registradas: **1597**  ($86,067,277 en total)
 - Resueltas: **1570** — 923 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 286
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 131 | 89 | 5 | 60% | $15,602,580 | +$273,447 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
 | AV23IUa | 37 | 29 | 4 | 56% | $4,007,190 | -$944 |
-| 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
+| 3edmond.dantes | 19 | 8 | 1 | 70% | $3,532,509 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 3 | 61% | $2,454,311 | +$293,980 |
 | ripley86alien | 12 | 5 | 3 | 71% | $2,183,725 | +$870,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
 | Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | — | ⏳ Pendiente |
 | Pwaddler | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 1.89 (53¢) | $30,879 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | +$13,091 | ✅ Ganada |
 | SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
-| jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | -$44,846 | ❌ Perdida |
