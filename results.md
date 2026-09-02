@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 20:10:29 (hora de Perú)
+Actualizado: 2026-09-01 20:12:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1565**  ($84,809,930 en total)
-- Resueltas: **1545** — 908 ganadas / 637 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **1546** — 909 ganadas / 637 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,252,508** sobre $83,834,275 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$7,962** sobre $151,900 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,254,608** sobre $83,862,175 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$7,955** sobre $152,000 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | — | ⏳ Pendiente |
-| chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | — | ⏳ Pendiente |
+| chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | +$2,100 | ✅ Ganada |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | +$10,000 | 💰 Vendida antes |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | — | ⏳ Pendiente |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | — | ⏳ Pendiente |
