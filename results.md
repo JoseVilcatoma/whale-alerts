@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 20:51:31 (hora de Perú)
+Actualizado: 2026-09-01 20:53:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1566**  ($84,854,707 en total)
-- Resueltas: **1552** — 910 ganadas / 642 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Resueltas: **1553** — 911 ganadas / 642 perdidas (**59%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$929,742** sobre $84,242,041 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,393** sobre $152,600 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,038,949** sobre $84,327,847 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,266** sobre $152,700 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
-| Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | — | ⏳ Pendiente |
+| Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Daria Kasatkina vs Paula Badosa | Paula Badosa | 1.92 (52¢) | $75,793 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Daria Kasatkina vs Paula Badosa | Daria Kasatkina | 2.08 (48¢) | $69,963 | — | ⏳ Pendiente |
 | chanello | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff | 1.08 (93¢) | $27,900 | +$2,100 | ✅ Ganada |
