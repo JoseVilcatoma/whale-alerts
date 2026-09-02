@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 23:56:11 (hora de Perú)
+Actualizado: 2026-09-01 23:58:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1566**  ($84,854,707 en total)
+- Apuestas registradas: **1567**  ($84,887,438 en total)
 - Resueltas: **1555** — 912 ganadas / 643 perdidas (**59%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 280
+- Pendientes: 8
+- Apostadores distintos: 281
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 280 en total)_
+_(mostrando los 40 de mayor monto, de 281 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels: O/U 7.5 | Under 7.5 | 1.89 (53¢) | $44,778 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seattle Mariners vs. Boston Red Sox: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $46,000 | -$46,000 | ❌ Perdida |
 | Talvez10 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds | 2.27 (44¢) | $85,806 | +$109,207 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | pleaseplease123 | San Francisco Giants vs. Atlanta Braves: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $72,926 | +$62,122 | ✅ Ganada |
 | AV23IUa | US Open ATP: Dalibor Svrcina vs Valentin Royer | Valentin Royer | 2.04 (49¢) | $41,772 | -$41,772 | ❌ Perdida |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 1.96 (51¢) | $26,000 | +$24,980 | ✅ Ganada |
-| beachboy4 | US Open ATP: Roman Andres Burruchaga vs Karen Khachanov | Karen Khachanov | 1.28 (78¢) | $51,992 | +$14,664 | ✅ Ganada |
