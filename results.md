@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 16:24:26 (hora de Perú)
+Actualizado: 2026-09-02 16:26:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1626**  ($87,286,604 en total)
+- Apuestas registradas: **1627**  ($87,314,076 en total)
 - Resueltas: **1593** — 937 ganadas / 656 perdidas (**59%** de acierto)
-- Pendientes: 29
-- Apostadores distintos: 287
+- Pendientes: 30
+- Apostadores distintos: 288
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 287 en total)_
+_(mostrando los 40 de mayor monto, de 288 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | +$53,562 | ✅ Ganada |
 | dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
-| curie | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.08 (93¢) | $32,730 | +$2,464 | ✅ Ganada |

@@ -24444,5 +24444,20 @@
     "status": "pending",
     "ultimo_fill": 1788383793,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3335,
+    "timestamp": 1788384327,
+    "username": "IcemanSeason",
+    "wallet": "0xb9392e612a5b05063ca012b5dede548e16e5da70",
+    "slug": "mlb-nym-tb-2026-09-02-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 27471.999999,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1788384327,
+    "fills": 1
   }
 ]
