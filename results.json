@@ -23769,5 +23769,20 @@
     "status": "pending",
     "ultimo_fill": 1788353265,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3258,
+    "timestamp": 1788354820,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "atp-jodar-bu-2026-09-01",
+    "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "usd": 26000.4472,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1788354820,
+    "fills": 1
   }
 ]
