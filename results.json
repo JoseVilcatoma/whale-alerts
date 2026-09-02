@@ -23676,7 +23676,7 @@
     "side": "BUY",
     "usd": 26016.459,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788346556,
     "fills": 1
   },
@@ -24321,7 +24321,7 @@
     "side": "BUY",
     "usd": 62323.492,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788377558,
     "fills": 1
   },
@@ -24428,6 +24428,21 @@
     "odds_at_bet": 91,
     "status": "pending",
     "ultimo_fill": 1788383282,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3334,
+    "timestamp": 1788383793,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mil-chc-2026-09-02",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 28627.872000000003,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1788383793,
     "fills": 1
   }
 ]
