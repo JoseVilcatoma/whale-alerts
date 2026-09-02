@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 12:38:24 (hora de Perú)
+Actualizado: 2026-09-02 12:40:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1604**  ($86,384,536 en total)
-- Resueltas: **1574** — 924 ganadas / 650 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Resueltas: **1576** — 925 ganadas / 651 perdidas (**59%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 286
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,117,410** sobre $85,246,581 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,245** sobre $154,800 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,146,236** sobre $85,351,262 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,260** sobre $155,000 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 132 | 89 | 4 | 60% | $15,602,580 | +$343,411 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
-| AV23IUa | 37 | 30 | 4 | 55% | $4,035,407 | -$45,240 |
-| 3edmond.dantes | 19 | 8 | 1 | 70% | $3,532,509 | +$465,287 |
+| AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
+| 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 4 | 61% | $2,500,511 | +$293,980 |
 | ripley86alien | 12 | 5 | 3 | 71% | $2,183,725 | +$870,387 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | — | ⏳ Pendiente |
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | — | ⏳ Pendiente |
+| 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | +$61,413 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
 | Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | — | ⏳ Pendiente |
 | Pwaddler | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 1.89 (53¢) | $30,879 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | +$31,735 | ✅ Ganada |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
-| AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | -$32,587 | ❌ Perdida |
 | madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | -$33,880 | ❌ Perdida |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | +$69,524 | ✅ Ganada |
