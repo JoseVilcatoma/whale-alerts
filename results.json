@@ -24051,7 +24051,7 @@
     "side": "BUY",
     "usd": 38521.7691,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788366927,
     "fills": 1
   },
@@ -24081,7 +24081,7 @@
     "side": "BUY",
     "usd": 31338.752000000004,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788367125,
     "fills": 1
   },
@@ -24248,6 +24248,21 @@
     "odds_at_bet": 47,
     "status": "pending",
     "ultimo_fill": 1788375238,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3313,
+    "timestamp": 1788376532,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-col-2026-09-02",
+    "title": "Baltimore Orioles vs. Colorado Rockies",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "usd": 27110.84,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788376532,
     "fills": 1
   }
 ]
