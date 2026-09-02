@@ -23721,7 +23721,7 @@
     "side": "BUY",
     "usd": 25600.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788349666,
     "fills": 1
   },
@@ -24053,6 +24053,21 @@
     "odds_at_bet": 80,
     "status": "pending",
     "ultimo_fill": 1788366927,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3285,
+    "timestamp": 1788367064,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-sd-cin-2026-09-02",
+    "title": "San Diego Padres vs. Cincinnati Reds",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 51980.999999,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788367064,
     "fills": 1
   }
 ]

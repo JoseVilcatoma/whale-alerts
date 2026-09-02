@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 11:36:24 (hora de Perú)
+Actualizado: 2026-09-02 11:38:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1600**  ($86,176,999 en total)
-- Resueltas: **1570** — 923 ganadas / 647 perdidas (**59%** de acierto)
+- Apuestas registradas: **1601**  ($86,228,980 en total)
+- Resueltas: **1571** — 923 ganadas / 648 perdidas (**59%** de acierto)
 - Pendientes: 26
 - Apostadores distintos: 286
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,187,306** sobre $85,030,929 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,037** sobre $154,400 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,161,706** sobre $85,056,529 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,137** sobre $154,500 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | — | ⏳ Pendiente |
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -93,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | +$18,493 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $43,736 | +$24,602 | ✅ Ganada |
-| TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
+| TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | -$25,600 | ❌ Perdida |
 | DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | +$31,735 | ✅ Ganada |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 286 en total)_
 | afraz | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 1.25 (80¢) | $42,631 | +$10,658 | ✅ Ganada |
 | Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | +$40,830 | ✅ Ganada |
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | +$25,405 | ✅ Ganada |
-| Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | +$2,697 | ✅ Ganada |
