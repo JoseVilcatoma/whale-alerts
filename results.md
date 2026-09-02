@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 07:11:09 (hora de Perú)
+Actualizado: 2026-09-02 07:13:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1578**  ($85,323,114 en total)
-- Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Resueltas: **1563** — 917 ganadas / 646 perdidas (**59%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 283
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,032,483** sobre $84,651,077 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,301** sobre $153,500 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,073,007** sobre $84,726,426 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,251** sobre $153,700 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| sulumos | 2 | 7 | 1 | 22% | $428,683 | -$308,451 |
+| sulumos | 2 | 8 | 0 | 20% | $428,683 | -$337,451 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
@@ -77,8 +77,8 @@ _(mostrando los 40 de mayor monto, de 283 en total)_
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | — | ⏳ Pendiente |
 | madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | — | ⏳ Pendiente |
-| sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | — | ⏳ Pendiente |
+| sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | +$69,524 | ✅ Ganada |
 | Weaseloftheweek | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $95,222 | — | ⏳ Pendiente |
 | dad168168 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open ATP: Alexander Zverev vs Lorenzo Sonego | Alexander Zverev | 1.33 (75¢) | $47,234 | +$15,745 | ✅ Ganada |
