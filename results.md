@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 16:30:37 (hora de Perú)
+Actualizado: 2026-09-02 16:32:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1627**  ($87,314,076 en total)
-- Resueltas: **1593** — 937 ganadas / 656 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **1597** — 938 ganadas / 659 perdidas (**59%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 288
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,341,614** sobre $86,102,407 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$7,796** sobre $156,700 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,297,228** sobre $86,290,452 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,032** sobre $157,100 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,12 +29,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 38 | 31 | 2 | 55% | $4,035,407 | -$66,677 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 33 | 20 | 4 | 62% | $2,558,392 | +$378,055 |
+| pleaseplease123 | 33 | 22 | 2 | 60% | $2,558,392 | +$302,642 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Weaseloftheweek | 15 | 14 | 3 | 52% | $1,594,686 | -$59,646 |
+| Weaseloftheweek | 16 | 14 | 2 | 53% | $1,594,686 | -$3,619 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 288 en total)_
 | xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | — | ⏳ Pendiente |
 | texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
-| Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | — | ⏳ Pendiente |
+| Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | — | ⏳ Pendiente |
@@ -100,15 +100,15 @@ _(mostrando los 40 de mayor monto, de 288 en total)_
 | Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | -$51,981 | ❌ Perdida |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | +$9,630 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | +$46,200 | ✅ Ganada |
-| BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | +$61,413 | ✅ Ganada |
-| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
+| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | -$40,513 | ❌ Perdida |
 | Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | — | ⏳ Pendiente |
 | Pwaddler | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 1.89 (53¢) | $30,879 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $31,576 | -$31,576 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $27,964 | -$27,964 | ❌ Perdida |
-| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
+| pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |
 | CongoleseBorat | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $30,473 | +$47,662 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $46,331 | +$72,466 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.64 (61¢) | $73,200 | -$73,200 | ❌ Perdida |
