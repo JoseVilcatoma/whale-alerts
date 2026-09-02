@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 14:25:12 (hora de Perú)
+Actualizado: 2026-09-02 14:27:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1615**  ($86,784,651 en total)
-- Resueltas: **1586** — 931 ganadas / 655 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Resueltas: **1589** — 934 ganadas / 655 perdidas (**59%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 287
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,270,266** sobre $85,811,491 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,026** sobre $156,000 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,366,106** sobre $85,917,652 apostados (ROI **+1.6%**)
+- Copiando $100 fijo en cada una: **-$7,770** sobre $156,300 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 31 | 20 | 4 | 61% | $2,500,511 | +$293,980 |
+| pleaseplease123 | 33 | 20 | 2 | 62% | $2,500,511 | +$378,055 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| NiNo999 | 5 | 6 | 1 | 45% | $481,112 | -$157,392 |
+| NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | +$7,835 | ✅ Ganada |
 | Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres | 1.64 (61¢) | $51,981 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $38,522 | +$9,630 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $46,200 | +$46,200 | ✅ Ganada |
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | +$61,413 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | — | ⏳ Pendiente |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $46,825 | -$46,825 | ❌ Perdida |
 | AV23IUa | Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs | DENDELE CS | 1.54 (65¢) | $44,295 | -$44,295 | ❌ Perdida |
 | 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | +$1,787 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | +$37,875 | ✅ Ganada |
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | +$18,493 | ✅ Ganada |
@@ -129,5 +129,5 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier | Oleksandra Oliynykova | 1.54 (65¢) | $50,000 | +$10,000 | 💰 Vendida antes |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | -$45,911 | ❌ Perdida |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
-| NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | — | ⏳ Pendiente |
+| NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | +$11,765 | ✅ Ganada |
 | beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | +$7,483 | ✅ Ganada |
