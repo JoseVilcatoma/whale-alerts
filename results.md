@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 14:29:22 (hora de Perú)
+Actualizado: 2026-09-02 14:31:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1615**  ($86,784,651 en total)
+- Apuestas registradas: **1616**  ($86,829,651 en total)
 - Resueltas: **1589** — 934 ganadas / 655 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 287
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 133 | 90 | 3 | 60% | $15,647,013 | +$342,677 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 133 | 90 | 4 | 60% | $15,692,013 | +$342,677 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 2 | 56% | $4,549,622 | +$13,810 |
 | AV23IUa | 37 | 31 | 3 | 54% | $4,035,407 | -$77,827 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | — | ⏳ Pendiente |
 | Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | — | ⏳ Pendiente |
 | Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 287 en total)_
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Minnesota Twins: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $45,911 | -$45,911 | ❌ Perdida |
 | Kosherlocks | Athletics vs. Texas Rangers | Texas Rangers | 1.47 (68¢) | $50,000 | +$23,529 | ✅ Ganada |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bonzi | Benjamin Bonzi | 1.47 (68¢) | $25,000 | +$11,765 | ✅ Ganada |
-| beachboy4 | US Open ATP: Arthur Fery vs Lorenzo Musetti | Lorenzo Musetti | 1.30 (77¢) | $25,053 | +$7,483 | ✅ Ganada |
