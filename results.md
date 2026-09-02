@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 05:54:40 (hora de Perú)
+Actualizado: 2026-09-02 05:56:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1573**  ($85,171,123 en total)
+- Apuestas registradas: **1576**  ($85,258,727 en total)
 - Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Pendientes: 11
 - Apostadores distintos: 282
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 129 | 89 | 3 | 59% | $15,406,436 | +$230,353 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
-| AV23IUa | 37 | 29 | 0 | 56% | $3,875,291 | -$944 |
+| AV23IUa | 37 | 29 | 3 | 56% | $3,962,894 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 0 | 61% | $2,343,936 | +$293,980 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Brandon Nakashima vs Alex Michelsen | Brandon Nakashima | 1.45 (69¢) | $32,587 | — | ⏳ Pendiente |
 | madwish355 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 1.30 (77¢) | $33,880 | — | ⏳ Pendiente |
 | sulumos | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | T1 | 2.50 (40¢) | $46,349 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | +$84,852 | ✅ Ganada |
 | xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | -$36,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Washington Nationals: O/U 8.5 | Under 8.5 | 2.04 (49¢) | $30,886 | -$30,886 | ❌ Perdida |
-| wr0ngw4yb3tt0r | San Francisco Giants vs. Atlanta Braves | Atlanta Braves | 1.32 (76¢) | $48,585 | -$48,585 | ❌ Perdida |
-| 0b1 | US Open WTA: Sloane Stephens vs Clara Tauson | Sloane Stephens | 1.06 (94¢) | $30,143 | +$1,924 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Luciano Darderi vs Harry Wendelken | Luciano Darderi | 1.23 (81¢) | $41,000 | +$9,617 | ✅ Ganada |

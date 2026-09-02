@@ -23649,5 +23649,50 @@
     "status": "pending",
     "ultimo_fill": 1788342963,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3248,
+    "timestamp": 1788346529,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-nakashi-michels-2026-09-02",
+    "title": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "usd": 32587.119676999995,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1788346529,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3249,
+    "timestamp": 1788346556,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-shelton-hurkacz-2026-09-02",
+    "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 26016.459,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1788346556,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3250,
+    "timestamp": 1788346576,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-shapova-assche-2026-09-02",
+    "title": "US Open ATP: Denis Shapovalov vs Luca Van Assche",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "usd": 28999.999999999996,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788346576,
+    "fills": 1
   }
 ]
