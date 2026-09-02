@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 02:18:32 (hora de Perú)
+Actualizado: 2026-09-02 02:20:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1568**  ($84,934,672 en total)
-- Resueltas: **1558** — 914 ganadas / 644 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Resueltas: **1559** — 915 ganadas / 644 perdidas (**59%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 281
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,026,131** sobre $84,523,899 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,333** sobre $153,200 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,053,731** sobre $84,556,299 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,248** sobre $153,300 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
-| SDTrading | 12 | 14 | 1 | 46% | $808,499 | -$87,477 |
+| SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 281 en total)_
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | +$2,697 | ✅ Ganada |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
 | 0b1 | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.37 (73¢) | $35,394 | +$13,091 | ✅ Ganada |
-| SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | — | ⏳ Pendiente |
+| SDTrading | Milwaukee Brewers vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 1.85 (54¢) | $32,400 | +$27,600 | ✅ Ganada |
 | jtwyslljy | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $44,846 | -$44,846 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.49 (67¢) | $94,370 | -$94,370 | ❌ Perdida |
 | Zzzz87 | New York Mets vs. Tampa Bay Rays | New York Mets | 2.17 (46¢) | $40,469 | -$40,469 | ❌ Perdida |
