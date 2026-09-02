@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 08:52:20 (hora de Perú)
+Actualizado: 2026-09-02 08:54:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1584**  ($85,515,700 en total)
+- Apuestas registradas: **1585**  ($85,559,996 en total)
 - Resueltas: **1569** — 922 ganadas / 647 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 284
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 131 | 89 | 3 | 60% | $15,483,049 | +$273,447 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 47 | 0 | 56% | $4,491,178 | +$13,810 |
-| AV23IUa | 37 | 29 | 3 | 56% | $3,962,894 | -$944 |
+| AV23IUa | 37 | 29 | 4 | 56% | $4,007,190 | -$944 |
 | 3edmond.dantes | 19 | 8 | 0 | 70% | $3,460,415 | +$465,287 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 31 | 20 | 1 | 61% | $2,378,897 | +$293,980 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs | DENDELE CS | 1.54 (65¢) | $44,295 | — | ⏳ Pendiente |
 | 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 284 en total)_
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 3 Winner | Gen.G | 1.39 (72¢) | $40,647 | +$15,807 | ✅ Ganada |
 | alexdave888 | LoL: Gen.G vs KT Rolster - Game 3 Winner | KT Rolster | 3.03 (33¢) | $32,458 | -$32,458 | ❌ Perdida |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G | 1.37 (73¢) | $92,709 | +$34,290 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Colorado Rockies | 1.79 (56¢) | $40,304 | -$40,304 | ❌ Perdida |

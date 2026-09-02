@@ -23814,5 +23814,20 @@
     "status": "pending",
     "ultimo_fill": 1788356307,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3267,
+    "timestamp": 1788357226,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-dendel-eye-2026-09-02",
+    "title": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "DENDELE CS",
+    "side": "BUY",
+    "usd": 44295.4655,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788357226,
+    "fills": 1
   }
 ]
