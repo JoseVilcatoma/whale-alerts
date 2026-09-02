@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 06:46:18 (hora de Perú)
+Actualizado: 2026-09-02 06:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1577**  ($85,297,514 en total)
+- Apuestas registradas: **1578**  ($85,323,114 en total)
 - Resueltas: **1561** — 916 ganadas / 645 perdidas (**59%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 282
+- Pendientes: 13
+- Apostadores distintos: 283
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 282 en total)_
+_(mostrando los 40 de mayor monto, de 283 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TheMafiaa | Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs | BIG | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | DoNotTailMe | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.82 (55¢) | $38,787 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Van Assche | Denis Shapovalov | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.43 (70¢) | $26,016 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 282 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.75 (57¢) | $38,247 | -$38,247 | ❌ Perdida |
 | thatguythatguy | New York Yankees vs. Los Angeles Angels | New York Yankees | 1.82 (55¢) | $27,500 | -$27,500 | ❌ Perdida |
 | AV23IUa | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 2.00 (50¢) | $84,852 | +$84,852 | ✅ Ganada |
-| xifutloong3 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.59 (63¢) | $36,000 | -$36,000 | ❌ Perdida |
