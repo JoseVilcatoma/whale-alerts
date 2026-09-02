@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-01 21:48:11 (hora de Perú)
+Actualizado: 2026-09-01 21:50:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1566**  ($84,854,707 en total)
-- Resueltas: **1553** — 911 ganadas / 642 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1555** — 912 ganadas / 643 perdidas (**59%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 280
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,038,949** sobre $84,327,847 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,266** sobre $152,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,053,834** sobre $84,398,023 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,274** sobre $152,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 28 | 2 | 0 | 93% | $1,016,798 | +$90,238 |
 | Sassy-Bucket | 13 | 11 | 0 | 54% | $1,007,158 | +$56,621 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
-| SDTrading | 12 | 13 | 2 | 48% | $808,499 | -$61,533 |
+| SDTrading | 12 | 14 | 1 | 46% | $808,499 | -$87,477 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 14 | 7 | 0 | 67% | $800,693 | -$3,369 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Moutet | Corentin Moutet | 1.43 (70¢) | $131,121 | -$131,121 | ❌ Perdida |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. Al Ahli Saudi Club: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $42,347 | +$2,703 | ✅ Ganada |
 | afraz | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 1.25 (80¢) | $42,631 | +$10,658 | ✅ Ganada |
-| Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | — | ⏳ Pendiente |
+| Sunny24 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins | 1.92 (52¢) | $44,232 | +$40,830 | ✅ Ganada |
 | Weaseloftheweek | US Open ATP: Francisco Comesana vs Flavio Cobolli | Flavio Cobolli | 2.00 (50¢) | $25,405 | +$25,405 | ✅ Ganada |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.10 (91¢) | $27,273 | +$2,697 | ✅ Ganada |
 | Flaznorp | US Open WTA: Madison Keys vs Alina Korneeva | Madison Keys | 1.18 (85¢) | $33,325 | +$5,881 | ✅ Ganada |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 280 en total)_
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 1.39 (72¢) | $27,432 | +$10,668 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open WTA: Thea Frodin vs Elena Rybakina | Elena Rybakina | 1.08 (93¢) | $29,359 | +$2,210 | ✅ Ganada |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | Manacor: Sebastian Ofner vs Edas Butvilas | Edas Butvilas | 1.09 (92¢) | $49,947 | +$4,343 | ✅ Ganada |
-| SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | — | ⏳ Pendiente |
+| SDTrading | Detroit Tigers vs. Minnesota Twins | Detroit Tigers | 1.96 (51¢) | $25,945 | -$25,945 | ❌ Perdida |
 | 11vsldfdsgfkjgos | Como: Raul Brancaccio vs Duje Ajdukovic | Duje Ajdukovic | 2.38 (42¢) | $31,290 | +$43,210 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Plovdiv 3: Eric Vanshelboim vs Calvin Hemery | Calvin Hemery | 1.61 (62¢) | $31,500 | +$19,306 | ✅ Ganada |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 3 Winner | Gen.G | 1.39 (72¢) | $40,647 | +$15,807 | ✅ Ganada |
