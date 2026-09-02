@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 17:43:55 (hora de Perú)
+Actualizado: 2026-09-02 17:45:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1635**  ($87,594,763 en total)
-- Resueltas: **1603** — 941 ganadas / 662 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Resueltas: **1604** — 942 ganadas / 662 perdidas (**59%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 289
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,303,968** sobre $86,495,990 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,154** sobre $157,600 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,312,600** sobre $86,530,518 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,129** sobre $157,700 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | +$61,413 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | -$40,513 | ❌ Perdida |
-| Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | — | ⏳ Pendiente |
+| Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | +$8,632 | ✅ Ganada |
 | Pwaddler | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 1.89 (53¢) | $30,879 | -$30,879 | ❌ Perdida |
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $31,576 | -$31,576 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.63 (38¢) | $38,000 | +$62,000 | ✅ Ganada |
