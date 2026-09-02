@@ -24459,5 +24459,20 @@
     "status": "pending",
     "ultimo_fill": 1788384327,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3342,
+    "timestamp": 1788385799,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sf-pit-2026-09-02-total-8pt5",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 35507.8845,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788385799,
+    "fills": 1
   }
 ]
