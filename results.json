@@ -24956,5 +24956,20 @@
     "status": "pending",
     "ultimo_fill": 1788454773,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3428,
+    "timestamp": 1788464732,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "lal-rso-cel-2026-09-03-total-0pt5",
+    "title": "Real Sociedad de F\u00fatbol vs. RC Celta de Vigo: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 41500.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1788464732,
+    "fills": 1
   }
 ]
