@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 00:35:17 (hora de Perú)
+Actualizado: 2026-09-03 00:37:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1646**  ($88,118,607 en total)
-- Resueltas: **1638** — 960 ganadas / 678 perdidas (**59%** de acierto)
-- Pendientes: 4
+- Resueltas: **1641** — 960 ganadas / 681 perdidas (**59%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,077,311** sobre $87,856,532 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,673** sobre $161,100 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$954,904** sobre $87,978,940 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,973** sobre $161,400 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| 0F62 | 13 | 1 | 1 | 93% | $772,123 | +$29,617 |
+| 0F62 | 13 | 2 | 0 | 87% | $772,123 | -$3,775 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
@@ -71,16 +71,16 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | — | ⏳ Pendiente |
+| 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | +$7,520 | ✅ Ganada |
 | 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | +$13,023 | ✅ Ganada |
-| ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | — | ⏳ Pendiente |
+| ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | -$30,015 | ❌ Perdida |
 | xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | -$39,301 | ❌ Perdida |
 | 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | +$9,538 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | +$5,214 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | +$45,106 | ✅ Ganada |
-| Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
+| Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | -$59,000 | ❌ Perdida |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | +$23,939 | ✅ Ganada |
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | +$59,923 | ✅ Ganada |
 | beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | -$32,510 | ❌ Perdida |
