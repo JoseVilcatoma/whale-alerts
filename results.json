@@ -24881,5 +24881,20 @@
     "status": "pending",
     "ultimo_fill": 1788446279,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3422,
+    "timestamp": 1788448150,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "wta-keys-bondar-2026-09-02",
+    "title": "US Open WTA: Madison Keys vs Anna Bondar",
+    "outcome": "Madison Keys",
+    "side": "BUY",
+    "usd": 27232.749998,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1788448150,
+    "fills": 1
   }
 ]
