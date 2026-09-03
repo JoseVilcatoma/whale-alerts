@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 22:24:33 (hora de Perú)
+Actualizado: 2026-09-02 22:26:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1645**  ($88,085,215 en total)
+- Apuestas registradas: **1646**  ($88,118,607 en total)
 - Resueltas: **1628** — 953 ganadas / 675 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 290
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| 0F62 | 12 | 1 | 1 | 92% | $738,731 | +$20,079 |
+| 0F62 | 12 | 1 | 2 | 92% | $772,123 | +$20,079 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | — | ⏳ Pendiente |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | CongoleseBorat | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $30,473 | +$47,662 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $46,331 | +$72,466 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.64 (61¢) | $73,200 | -$73,200 | ❌ Perdida |
-| ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $46,825 | -$46,825 | ❌ Perdida |
