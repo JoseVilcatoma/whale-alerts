@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 18:59:43 (hora de Perú)
+Actualizado: 2026-09-02 19:01:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1638**  ($87,725,496 en total)
+- Apuestas registradas: **1639**  ($87,785,459 en total)
 - Resueltas: **1616** — 945 ganadas / 671 perdidas (**58%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 289
+- Pendientes: 19
+- Apostadores distintos: 290
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | Lakersfan111 | 3 | 8 | 0 | 27% | $382,449 | -$212,206 |
 
-_(mostrando los 40 de mayor monto, de 289 en total)_
+_(mostrando los 40 de mayor monto, de 290 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 289 en total)_
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | +$18,493 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $43,736 | +$24,602 | ✅ Ganada |
