@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 01:27:59 (hora de Perú)
+Actualizado: 2026-09-03 01:30:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1646**  ($88,118,607 en total)
+- Apuestas registradas: **1647**  ($88,147,536 en total)
 - Resueltas: **1641** — 960 ganadas / 681 perdidas (**59%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 290
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | — | ⏳ Pendiente |
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | +$7,520 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |
 | CongoleseBorat | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $30,473 | +$47,662 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.56 (39¢) | $46,331 | +$72,466 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.64 (61¢) | $73,200 | -$73,200 | ❌ Perdida |

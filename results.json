@@ -24746,5 +24746,20 @@
     "status": "lost",
     "ultimo_fill": 1788405935,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3405,
+    "timestamp": 1788416922,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-fox1-dk-2026-09-03",
+    "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 28929.112500000003,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1788416922,
+    "fills": 1
   }
 ]
