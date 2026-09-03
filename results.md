@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 08:28:42 (hora de Perú)
+Actualizado: 2026-09-03 08:30:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1653**  ($88,442,132 en total)
-- Resueltas: **1644** — 962 ganadas / 682 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Resueltas: **1645** — 963 ganadas / 682 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$889,222** sobre $88,137,347 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$8,971** sobre $161,700 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$927,908** sobre $88,195,376 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,905** sobre $161,800 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 |---|---|---|---|---|---|---|
 | jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
 | AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | — | ⏳ Pendiente |
