@@ -24911,5 +24911,20 @@
     "status": "pending",
     "ultimo_fill": 1788448781,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3424,
+    "timestamp": 1788449747,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mil-chc-2026-09-03",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 38769.230768999994,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788449747,
+    "fills": 1
   }
 ]
