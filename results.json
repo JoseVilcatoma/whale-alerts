@@ -24791,5 +24791,20 @@
     "status": "pending",
     "ultimo_fill": 1788422946,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 3409,
+    "timestamp": 1788427182,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-blg-we-2026-09-03-game1",
+    "title": "LoL: Bilibili Gaming vs Team WE - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 36069.8121,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1788427182,
+    "fills": 1
   }
 ]
