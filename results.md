@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 19:32:33 (hora de Perú)
+Actualizado: 2026-09-02 19:34:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1640**  ($87,895,147 en total)
-- Resueltas: **1616** — 945 ganadas / 671 perdidas (**58%** de acierto)
-- Pendientes: 20
+- Resueltas: **1618** — 947 ganadas / 671 perdidas (**59%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,040,211** sobre $86,938,748 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,892** sobre $158,900 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$1,062,380** sobre $86,997,074 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,817** sobre $159,100 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0b1 | 30 | 3 | 2 | 91% | $1,191,889 | +$75,549 |
+| 0b1 | 32 | 3 | 0 | 91% | $1,191,889 | +$97,717 |
 | Sassy-Bucket | 14 | 11 | 1 | 56% | $1,093,569 | +$119,220 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | +$62,599 | ✅ Ganada |
 | Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.33 (43¢) | $30,278 | -$30,278 | ❌ Perdida |
-| 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | — | ⏳ Pendiente |
+| 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | +$12,179 | ✅ Ganada |
 | Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | -$34,001 | ❌ Perdida |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | -$25,322 | ❌ Perdida |
 | BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | +$1,787 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | +$37,875 | ✅ Ganada |
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | -$26,000 | ❌ Perdida |
-| 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
+| 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | +$9,990 | ✅ Ganada |
