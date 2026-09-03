@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 08:30:47 (hora de Perú)
+Actualizado: 2026-09-03 08:32:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1653**  ($88,442,132 en total)
-- Resueltas: **1645** — 963 ganadas / 682 perdidas (**59%** de acierto)
-- Pendientes: 4
+- Resueltas: **1647** — 965 ganadas / 682 perdidas (**59%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$927,908** sobre $88,195,376 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,905** sobre $161,800 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$946,301** sobre $88,250,555 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,838** sobre $162,000 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | — | ⏳ Pendiente |
+| jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
 | AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | +$9,643 | ✅ Ganada |
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | +$20,239 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | +$7,520 | ✅ Ganada |
