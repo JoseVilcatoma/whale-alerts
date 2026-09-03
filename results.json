@@ -24716,5 +24716,20 @@
     "status": "pending",
     "ultimo_fill": 1788400086,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3388,
+    "timestamp": 1788404891,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "lec-ame-mon-2026-09-02-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-09-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26828.2698,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788404891,
+    "fills": 1
   }
 ]
