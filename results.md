@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 17:43:29 (hora de Perú)
+Actualizado: 2026-09-03 17:45:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1665**  ($88,986,742 en total)
+- Apuestas registradas: **1666**  ($89,079,960 en total)
 - Resueltas: **1651** — 967 ganadas / 684 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 291
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | -$25,322 | ❌ Perdida |
 | BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | -$46,103 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | +$7,841 | ✅ Ganada |
