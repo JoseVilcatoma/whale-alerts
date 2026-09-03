@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 00:04:42 (hora de Perú)
+Actualizado: 2026-09-03 00:06:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1646**  ($88,118,607 en total)
-- Resueltas: **1637** — 959 ganadas / 678 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Resueltas: **1638** — 960 ganadas / 678 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,062,311** sobre $87,811,532 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,707** sobre $161,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,077,311** sobre $87,856,532 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,673** sobre $161,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 138 | 90 | 3 | 61% | $15,841,419 | +$433,543 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 139 | 90 | 2 | 61% | $15,841,419 | +$448,543 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 49 | 0 | 55% | $4,549,622 | -$44,634 |
 | AV23IUa | 40 | 31 | 0 | 56% | $4,035,407 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | -$62,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
 | Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | +$15,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
 | Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | +$62,599 | ✅ Ganada |
 | Elaran1993 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $47,000 | -$47,000 | ❌ Perdida |
