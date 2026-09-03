@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 17:05:54 (hora de Perú)
+Actualizado: 2026-09-03 17:10:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1663**  ($88,893,191 en total)
+- Apuestas registradas: **1664**  ($88,961,684 en total)
 - Resueltas: **1651** — 967 ganadas / 684 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 291
 
 ### Balance
@@ -42,9 +42,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 33 | 3 | 0 | 92% | $1,235,488 | +$110,740 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
+| 0F62 | 13 | 2 | 1 | 87% | $840,617 | -$3,775 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| 0F62 | 13 | 2 | 0 | 87% | $772,123 | -$3,775 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | — | ⏳ Pendiente |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | -$46,103 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Katie Boulter vs Karolina Muchova | Karolina Muchova | 1.18 (85¢) | $44,434 | +$7,841 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | -$31,333 | ❌ Perdida |
-| AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | +$12,677 | ✅ Ganada |
