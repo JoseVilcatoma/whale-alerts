@@ -24776,5 +24776,20 @@
     "status": "pending",
     "ultimo_fill": 1788418428,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3407,
+    "timestamp": 1788422877,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-fox1-dk-2026-09-03-game1",
+    "title": "LoL: BNK FEARX vs Dplus KIA - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 95509.03589999999,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1788422946,
+    "fills": 3
   }
 ]
