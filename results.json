@@ -24821,5 +24821,20 @@
     "status": "pending",
     "ultimo_fill": 1788430703,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3413,
+    "timestamp": 1788435788,
+    "username": "vincentchase11",
+    "wallet": "0xa8caf30a6a9c6e670f5602827f4e435d1d4cd535",
+    "slug": "atp-fritz-bellucc-2026-09-02",
+    "title": "US Open ATP: Taylor Fritz vs Mattia Bellucci",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 49999.999992000005,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1788435788,
+    "fills": 1
   }
 ]
