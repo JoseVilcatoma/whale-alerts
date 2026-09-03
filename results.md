@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 20:29:52 (hora de Perú)
+Actualizado: 2026-09-02 20:31:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1642**  ($87,964,463 en total)
+- Apuestas registradas: **1643**  ($88,008,062 en total)
 - Resueltas: **1619** — 948 ganadas / 671 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 290
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0b1 | 32 | 3 | 0 | 91% | $1,191,889 | +$97,717 |
+| 0b1 | 32 | 3 | 1 | 91% | $1,235,488 | +$97,717 |
 | Sassy-Bucket | 14 | 11 | 1 | 56% | $1,093,569 | +$119,220 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | — | ⏳ Pendiente |
 | ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | ripley86alien | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Andrey Rublev | 1.61 (62¢) | $46,825 | -$46,825 | ❌ Perdida |
 | AV23IUa | Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs | DENDELE CS | 1.54 (65¢) | $44,295 | -$44,295 | ❌ Perdida |
 | 0x4a1a…0208 | Counter-Strike: TYLOO vs DEPO - Map 2 Winner | TYLOO | 1.06 (94¢) | $28,002 | +$1,787 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | +$37,875 | ✅ Ganada |
