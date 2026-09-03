@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 06:25:20 (hora de Perú)
+Actualizado: 2026-09-03 06:27:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1651**  ($88,365,882 en total)
-- Resueltas: **1642** — 961 ganadas / 681 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Resueltas: **1643** — 961 ganadas / 682 perdidas (**58%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$975,143** sobre $88,005,768 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,898** sobre $161,500 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$879,634** sobre $88,101,277 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$8,998** sobre $161,600 (ROI **-5.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 |---|---|---|---|---|---|---|
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
 | AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | — | ⏳ Pendiente |
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
