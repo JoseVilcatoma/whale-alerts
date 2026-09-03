@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 05:01:11 (hora de Perú)
+Actualizado: 2026-09-03 05:03:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1650**  ($88,307,853 en total)
-- Resueltas: **1641** — 960 ganadas / 681 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Resueltas: **1642** — 961 ganadas / 681 perdidas (**59%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$954,904** sobre $87,978,940 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,973** sobre $161,400 (ROI **-5.6%**)
+- **Resultado de los apostadores: +$975,143** sobre $88,005,768 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,898** sobre $161,500 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | — | ⏳ Pendiente |
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
-| kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | — | ⏳ Pendiente |
+| kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | +$20,239 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | +$7,520 | ✅ Ganada |
 | 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | +$13,023 | ✅ Ganada |
 | ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | -$30,015 | ❌ Perdida |
