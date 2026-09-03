@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 21:53:34 (hora de Perú)
+Actualizado: 2026-09-02 21:55:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1644**  ($88,058,387 en total)
-- Resueltas: **1625** — 952 ganadas / 673 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1626** — 952 ganadas / 674 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,123,418** sobre $87,246,450 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,559** sobre $159,800 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,084,117** sobre $87,285,750 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,659** sobre $159,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 12 | 1 | 1 | 92% | $738,731 | +$20,079 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
-| xifutloong3 | 9 | 12 | 1 | 43% | $685,549 | -$211,901 |
+| xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | — | ⏳ Pendiente |
 | ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | — | ⏳ Pendiente |
-| xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | — | ⏳ Pendiente |
+| xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | -$39,301 | ❌ Perdida |
 | 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | — | ⏳ Pendiente |
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
