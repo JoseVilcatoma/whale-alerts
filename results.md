@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 19:12:16 (hora de Perú)
+Actualizado: 2026-09-02 19:14:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1639**  ($87,785,459 en total)
+- Apuestas registradas: **1640**  ($87,895,147 en total)
 - Resueltas: **1616** — 945 ganadas / 671 perdidas (**58%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 290
 
 ### Balance
@@ -44,10 +44,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
+| 0F62 | 12 | 1 | 1 | 92% | $738,731 | +$20,079 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | xifutloong3 | 8 | 12 | 1 | 40% | $646,249 | -$235,840 |
-| 0F62 | 12 | 1 | 0 | 92% | $629,043 | +$20,079 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | — | ⏳ Pendiente |
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $34,962 | +$37,875 | ✅ Ganada |
 | 0b1 | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Rafael Jodar | 1.10 (91¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.37 (73¢) | $27,010 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Como: Matej Dodig vs Henry Bernet | Matej Dodig | 1.56 (64¢) | $32,877 | +$18,493 | ✅ Ganada |
