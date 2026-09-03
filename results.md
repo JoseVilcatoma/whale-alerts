@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 18:41:08 (hora de Perú)
+Actualizado: 2026-09-03 18:43:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1668**  ($89,175,140 en total)
-- Resueltas: **1655** — 970 ganadas / 685 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1656** — 971 ganadas / 685 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$914,601** sobre $88,547,307 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$8,937** sobre $162,800 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$969,358** sobre $88,629,442 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,870** sobre $162,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 8 | 0 | 20% | $428,683 | -$337,451 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
-| BillyGating | 6 | 2 | 1 | 75% | $389,042 | +$59,722 |
+| BillyGating | 7 | 2 | 0 | 78% | $389,042 | +$114,479 |
 
 _(mostrando los 40 de mayor monto, de 291 en total)_
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | — | ⏳ Pendiente |
-| BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | — | ⏳ Pendiente |
+| BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
