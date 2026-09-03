@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 09:37:32 (hora de Perú)
+Actualizado: 2026-09-03 09:39:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1654**  ($88,512,234 en total)
+- Apuestas registradas: **1655**  ($88,540,178 en total)
 - Resueltas: **1647** — 965 ganadas / 682 perdidas (**59%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 291
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 40 | 31 | 1 | 56% | $4,064,145 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 35 | 23 | 0 | 60% | $2,593,899 | +$327,985 |
+| pleaseplease123 | 35 | 23 | 1 | 60% | $2,621,844 | +$327,985 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | BrotherObama | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 3edmond.dantes | US Open ATP: Brandon Nakashima vs Alex Michelsen | Alex Michelsen | 1.85 (54¢) | $72,094 | +$61,413 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $40,513 | -$40,513 | ❌ Perdida |
-| Elenes | Will Celtic FC win on 2026-09-02? | Yes | 1.25 (80¢) | $34,528 | +$8,632 | ✅ Ganada |
