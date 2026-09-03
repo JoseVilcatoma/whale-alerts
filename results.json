@@ -24671,5 +24671,20 @@
     "status": "pending",
     "ultimo_fill": 1788396947,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3376,
+    "timestamp": 1788398560,
+    "username": "ic4cream",
+    "wallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+    "slug": "mlb-stl-lad-2026-09-02",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 30015.36,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1788398560,
+    "fills": 1
   }
 ]
