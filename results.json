@@ -24851,5 +24851,20 @@
     "status": "won",
     "ultimo_fill": 1788436782,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3420,
+    "timestamp": 1788445094,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-badosa-gauff-2026-09-03",
+    "title": "US Open WTA: Paula Badosa vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 70101.6845,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1788445094,
+    "fills": 1
   }
 ]
