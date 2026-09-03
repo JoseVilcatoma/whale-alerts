@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 22:51:15 (hora de Perú)
+Actualizado: 2026-09-02 22:53:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1646**  ($88,118,607 en total)
-- Resueltas: **1633** — 955 ganadas / 678 perdidas (**58%** de acierto)
-- Pendientes: 9
+- Resueltas: **1637** — 959 ganadas / 678 perdidas (**59%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,027,016** sobre $87,547,958 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,769** sobre $160,600 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,062,311** sobre $87,811,532 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,707** sobre $161,000 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 137 | 90 | 4 | 60% | $15,841,419 | +$426,023 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 138 | 90 | 3 | 61% | $15,841,419 | +$433,543 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 49 | 0 | 55% | $4,549,622 | -$44,634 |
 | AV23IUa | 40 | 31 | 0 | 56% | $4,035,407 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -39,12 +39,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 11 | 12 | 0 | 48% | $1,484,938 | -$676,971 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0b1 | 32 | 3 | 1 | 91% | $1,235,488 | +$97,717 |
+| 0b1 | 33 | 3 | 0 | 92% | $1,235,488 | +$110,740 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| 0F62 | 12 | 1 | 2 | 92% | $772,123 | +$20,079 |
+| 0F62 | 13 | 1 | 1 | 93% | $772,123 | +$29,617 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
@@ -73,12 +73,12 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 |---|---|---|---|---|---|---|
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | — | ⏳ Pendiente |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | — | ⏳ Pendiente |
-| 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.15 (87¢) | $50,324 | +$7,520 | ✅ Ganada |
+| 0b1 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $43,599 | +$13,023 | ✅ Ganada |
 | ic4cream | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $30,015 | — | ⏳ Pendiente |
 | xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | -$39,301 | ❌ Perdida |
-| 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | — | ⏳ Pendiente |
-| vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
+| 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | +$9,538 | ✅ Ganada |
+| vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | +$5,214 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | +$45,106 | ✅ Ganada |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | +$23,939 | ✅ Ganada |
