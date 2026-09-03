@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 20:58:15 (hora de Perú)
+Actualizado: 2026-09-02 21:00:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1644**  ($88,058,387 en total)
-- Resueltas: **1624** — 951 ganadas / 673 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **1625** — 952 ganadas / 673 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,099,479** sobre $87,214,717 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,634** sobre $159,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,123,418** sobre $87,246,450 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,559** sobre $159,800 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 12 | 1 | 1 | 92% | $738,731 | +$20,079 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
-| xifutloong3 | 8 | 12 | 2 | 40% | $685,549 | -$235,840 |
+| xifutloong3 | 9 | 12 | 1 | 43% | $685,549 | -$211,901 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
-| xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | — | ⏳ Pendiente |
+| xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | +$23,939 | ✅ Ganada |
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | +$59,923 | ✅ Ganada |
 | beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | -$32,510 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | +$18,462 | 💰 Vendida antes |
