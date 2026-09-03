@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 20:52:11 (hora de Perú)
+Actualizado: 2026-09-02 20:54:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1644**  ($88,058,387 en total)
-- Resueltas: **1619** — 948 ganadas / 671 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **1622** — 949 ganadas / 673 perdidas (**59%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,075,057** sobre $87,025,291 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,772** sobre $159,200 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,045,508** sobre $87,149,956 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,801** sobre $159,500 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0b1 | 32 | 3 | 1 | 91% | $1,235,488 | +$97,717 |
-| Sassy-Bucket | 14 | 11 | 1 | 56% | $1,093,569 | +$119,220 |
+| Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 0 | 0 | 100% | $886,988 | +$92,798 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | — | ⏳ Pendiente |
-| Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | — | ⏳ Pendiente |
+| Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | +$59,923 | ✅ Ganada |
 | beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | -$32,510 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | +$18,462 | 💰 Vendida antes |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $35,782 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $35,508 | — | ⏳ Pendiente |
-| IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | — | ⏳ Pendiente |
+| IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | -$27,472 | ❌ Perdida |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | +$2,813 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | +$19,105 | ✅ Ganada |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | Weaseloftheweek | Seattle Mariners vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $58,369 | -$58,369 | ❌ Perdida |
 | xifutloong3 | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 2.00 (50¢) | $35,442 | -$35,442 | ❌ Perdida |
 | xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | -$29,383 | ❌ Perdida |
-| texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
+| texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | -$62,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
 | Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | — | ⏳ Pendiente |
