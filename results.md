@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 17:53:49 (hora de Perú)
+Actualizado: 2026-09-03 17:55:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1666**  ($89,079,960 en total)
-- Resueltas: **1651** — 967 ganadas / 684 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Apuestas registradas: **1668**  ($89,175,140 en total)
+- Resueltas: **1655** — 970 ganadas / 685 perdidas (**59%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$906,051** sobre $88,430,088 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$8,959** sobre $162,400 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$914,601** sobre $88,547,307 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$8,937** sobre $162,800 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 139 | 90 | 4 | 61% | $15,944,823 | +$448,543 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 49 | 1 | 55% | $4,624,542 | -$11,392 |
-| AV23IUa | 40 | 31 | 1 | 56% | $4,064,145 | -$33,000 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 90 | 3 | 61% | $15,944,823 | +$459,644 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 49 | 3 | 55% | $4,719,723 | -$11,392 |
+| AV23IUa | 41 | 31 | 0 | 57% | $4,064,145 | -$11,320 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 35 | 23 | 2 | 60% | $2,663,883 | +$327,985 |
+| pleaseplease123 | 35 | 24 | 1 | 59% | $2,663,883 | +$300,040 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $50,587 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Kansas City Royals: O/U 9.5 | Under 9.5 | 1.82 (55¢) | $44,593 | — | ⏳ Pendiente |
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | — | ⏳ Pendiente |
@@ -78,18 +80,18 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.08 (48¢) | $38,769 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | -$38,171 | ❌ Perdida |
-| Flaznorp | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.14 (88¢) | $27,233 | — | ⏳ Pendiente |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | — | ⏳ Pendiente |
+| Flaznorp | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.14 (88¢) | $27,233 | +$3,714 | ✅ Ganada |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | -$27,945 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | — | ⏳ Pendiente |
 | jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
-| AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | +$21,680 | ✅ Ganada |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | +$9,643 | ✅ Ganada |
 | 0F62 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.08 (93¢) | $33,392 | -$33,392 | ❌ Perdida |
 | kekasaur | Will CF América win on 2026-09-02? | No | 1.75 (57¢) | $26,828 | +$20,239 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.39 (72¢) | $31,316 | +$12,179 | ✅ Ganada |
 | Weaseloftheweek | Will Millwall FC win on 2026-09-02? | Yes | 2.33 (43¢) | $34,001 | -$34,001 | ❌ Perdida |
 | BillyGating | US Open ATP: Marcos Giron vs Ignacio Buse | Marcos Giron | 2.22 (45¢) | $25,322 | -$25,322 | ❌ Perdida |
-| BillyGating | US Open ATP: Rafael Jodar vs Yunchaokete Bu | Yunchaokete Bu | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
-| 123abc | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.27 (44¢) | $46,103 | -$46,103 | ❌ Perdida |

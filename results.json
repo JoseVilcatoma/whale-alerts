@@ -24773,7 +24773,7 @@
     "side": "BUY",
     "usd": 28738.1663,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788418428,
     "fills": 1
   },
@@ -24878,7 +24878,7 @@
     "side": "BUY",
     "usd": 27944.616,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788446279,
     "fills": 1
   },
@@ -24893,7 +24893,7 @@
     "side": "BUY",
     "usd": 27232.749998,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788448150,
     "fills": 1
   },
@@ -24938,7 +24938,7 @@
     "side": "BUY",
     "usd": 33302.637,
     "odds_at_bet": 75,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788450918,
     "fills": 1
   },
@@ -25045,6 +25045,36 @@
     "odds_at_bet": 72,
     "status": "pending",
     "ultimo_fill": 1788475435,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3439,
+    "timestamp": 1788476101,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mia-kc-2026-09-03-total-9pt5",
+    "title": "Miami Marlins vs. Kansas City Royals: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 44593.329000000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788476101,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3444,
+    "timestamp": 1788476139,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-oak-sea-2026-09-03-total-7pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 50587.1028,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1788476139,
     "fills": 1
   }
 ]
