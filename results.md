@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 22:18:23 (hora de Perú)
+Actualizado: 2026-09-02 22:20:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1645**  ($88,085,215 en total)
-- Resueltas: **1626** — 952 ganadas / 674 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1627** — 953 ganadas / 674 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,084,117** sobre $87,285,750 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,659** sobre $159,900 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,129,224** sobre $87,325,750 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,546** sobre $160,000 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | -$39,301 | ❌ Perdida |
 | 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | — | ⏳ Pendiente |
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | — | ⏳ Pendiente |
-| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
+| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | +$45,106 | ✅ Ganada |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | — | ⏳ Pendiente |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | +$23,939 | ✅ Ganada |
 | Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | +$59,923 | ✅ Ganada |
