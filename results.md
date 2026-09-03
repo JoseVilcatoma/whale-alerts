@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 15:55:56 (hora de Perú)
+Actualizado: 2026-09-03 15:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1661**  ($88,769,017 en total)
-- Resueltas: **1648** — 966 ganadas / 682 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1649** — 967 ganadas / 682 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 291
 
 ### Balance
 
-- **Resultado de los apostadores: +$952,481** sobre $88,300,555 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,826** sobre $162,100 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$985,722** sobre $88,350,417 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,759** sobre $162,200 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 139 | 90 | 4 | 61% | $15,944,823 | +$448,543 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 60 | 49 | 1 | 55% | $4,599,485 | -$44,634 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 49 | 0 | 55% | $4,599,485 | -$11,392 |
 | AV23IUa | 40 | 31 | 1 | 56% | $4,064,145 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.08 (48¢) | $38,769 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | — | ⏳ Pendiente |
