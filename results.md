@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-02 22:20:26 (hora de Perú)
+Actualizado: 2026-09-02 22:22:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1645**  ($88,085,215 en total)
-- Resueltas: **1627** — 953 ganadas / 674 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1628** — 953 ganadas / 675 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 290
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,129,224** sobre $87,325,750 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,546** sobre $160,000 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,100,596** sobre $87,354,378 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,646** sobre $160,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 40 | 31 | 0 | 56% | $4,035,407 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 35 | 22 | 1 | 61% | $2,593,899 | +$356,613 |
+| pleaseplease123 | 35 | 23 | 0 | 60% | $2,593,899 | +$327,985 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 290 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $35,508 | +$29,052 | ✅ Ganada |
 | IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | -$27,472 | ❌ Perdida |
-| pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | — | ⏳ Pendiente |
+| pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | -$28,628 | ❌ Perdida |
 | 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | +$2,813 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | +$19,105 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $29,253 | +$24,919 | ✅ Ganada |
