@@ -24971,5 +24971,20 @@
     "status": "lost",
     "ultimo_fill": 1788464732,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3433,
+    "timestamp": 1788470445,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-tex-2026-09-03",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 42038.957299999995,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788470445,
+    "fills": 1
   }
 ]

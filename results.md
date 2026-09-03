@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 16:20:33 (hora de Perú)
+Actualizado: 2026-09-03 16:22:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1661**  ($88,769,017 en total)
+- Apuestas registradas: **1662**  ($88,811,056 en total)
 - Resueltas: **1651** — 967 ganadas / 684 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 291
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 40 | 31 | 1 | 56% | $4,064,145 | -$33,000 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 35 | 23 | 1 | 60% | $2,621,844 | +$327,985 |
+| pleaseplease123 | 35 | 23 | 2 | 60% | $2,663,883 | +$327,985 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 291 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies: O/U 11.5 | Over 11.5 | 2.13 (47¢) | $31,333 | -$31,333 | ❌ Perdida |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Tsitsipas | Stefanos Tsitsipas | 1.45 (69¢) | $28,217 | +$12,677 | ✅ Ganada |
 | Weaseloftheweek | US Open ATP: Daniel Merida Aguilar vs Andrey Rublev | Daniel Merida Aguilar | 2.08 (48¢) | $96,000 | +$104,000 | ✅ Ganada |
-| beachboy4 | US Open ATP: Jan Choinski vs Botic van de Zandschulp | Botic van de Zandschulp | 1.25 (80¢) | $31,339 | +$7,835 | ✅ Ganada |
