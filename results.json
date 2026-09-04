@@ -25406,5 +25406,35 @@
     "status": "pending",
     "ultimo_fill": 1788523808,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3488,
+    "timestamp": 1788526380,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-fal2-g2-2026-09-04",
+    "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 94400.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788526380,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3489,
+    "timestamp": 1788526428,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-medvede-rinderk-2026-09-04",
+    "title": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 26818.3239,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1788526428,
+    "fills": 1
   }
 ]
