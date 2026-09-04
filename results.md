@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 10:27:44 (hora de Perú)
+Actualizado: 2026-09-04 10:29:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1707**  ($91,042,906 en total)
+- Apuestas registradas: **1708**  ($91,083,226 en total)
 - Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 295
 
 ### Balance
@@ -38,8 +38,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| 0b1 | 33 | 3 | 1 | 92% | $1,275,808 | +$110,740 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0b1 | 33 | 3 | 0 | 92% | $1,235,488 | +$110,740 |
 | 0F62 | 14 | 2 | 4 | 88% | $1,177,326 | +$9,272 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | — | ⏳ Pendiente |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
-| AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | +$21,680 | ✅ Ganada |
