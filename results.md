@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 12:41:30 (hora de Perú)
+Actualizado: 2026-09-04 12:43:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1719**  ($92,030,822 en total)
+- Apuestas registradas: **1720**  ($92,059,212 en total)
 - Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 32
-- Apostadores distintos: 295
+- Pendientes: 33
+- Apostadores distintos: 296
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 295 en total)_
+_(mostrando los 40 de mayor monto, de 296 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | +$47,406 | ✅ Ganada |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
