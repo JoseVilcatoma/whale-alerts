@@ -25268,7 +25268,7 @@
     "side": "BUY",
     "usd": 28716.644000000004,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788504553,
     "fills": 1
   },
@@ -25448,7 +25448,7 @@
     "side": "BUY",
     "usd": 28000.000000000004,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788526667,
     "fills": 1
   },
@@ -25868,7 +25868,7 @@
     "side": "BUY",
     "usd": 26905.5562,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788544378,
     "fills": 1
   },
@@ -26022,6 +26022,21 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1788552770,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3560,
+    "timestamp": 1788555637,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lal-bet-rea-2026-09-04-rea",
+    "title": "Will Real Madrid CF win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 137084.126,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1788555637,
     "fills": 1
   }
 ]
