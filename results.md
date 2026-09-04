@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 15:30:58 (hora de Perú)
+Actualizado: 2026-09-04 15:33:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1731**  ($92,595,668 en total)
-- Resueltas: **1688** — 993 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 39
+- Resueltas: **1691** — 996 ganadas / 695 perdidas (**59%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 298
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,110,029** sobre $90,143,842 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,848** sobre $166,100 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,169,334** sobre $90,255,559 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,688** sobre $166,400 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | BillyGating | 7 | 2 | 1 | 78% | $495,538 | +$114,479 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| Diabolical-Prize | 4 | 3 | 1 | ⚠️ 57% (7) | $485,651 | -$45,461 |
+| Diabolical-Prize | 5 | 3 | 0 | 62% | $485,651 | -$21,720 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
@@ -85,10 +85,10 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | — | ⏳ Pendiente |
-| Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | — | ⏳ Pendiente |
+| Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | +$20,009 | ✅ Ganada |
 | BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | +$22,737 | ✅ Ganada |
-| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | — | ⏳ Pendiente |
+| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | +$15,555 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $30,222 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $50,330 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | — | ⏳ Pendiente |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | +$38,801 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | +$21,909 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | +$23,740 | ✅ Ganada |
 | AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | — | ⏳ Pendiente |
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | +$9,919 | ✅ Ganada |
