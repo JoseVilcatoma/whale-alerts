@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 21:15:22 (hora de Perú)
+Actualizado: 2026-09-03 21:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1672**  ($89,382,337 en total)
-- Resueltas: **1659** — 974 ganadas / 685 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1660** — 974 ganadas / 686 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 292
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,036,775** sobre $88,806,806 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,725** sobre $163,200 (ROI **-5.3%**)
+- **Resultado de los apostadores: +$1,011,717** sobre $88,831,864 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,825** sobre $163,300 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 141 | 90 | 2 | 61% | $15,944,823 | +$472,015 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 49 | 3 | 55% | $4,719,723 | -$11,392 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 50 | 2 | 55% | $4,719,723 | -$36,450 |
 | AV23IUa | 41 | 31 | 0 | 57% | $4,064,145 | -$11,320 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $50,587 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Kansas City Royals: O/U 9.5 | Under 9.5 | 1.82 (55¢) | $44,593 | — | ⏳ Pendiente |
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | -$25,058 | ❌ Perdida |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | +$13,046 | ✅ Ganada |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
