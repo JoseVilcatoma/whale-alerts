@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 11:54:03 (hora de Perú)
+Actualizado: 2026-09-04 11:56:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1717**  ($91,643,401 en total)
+- Apuestas registradas: **1718**  ($91,672,789 en total)
 - Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 295
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
-| ripley86alien | 12 | 8 | 7 | 60% | $2,500,071 | +$764,023 |
+| ripley86alien | 12 | 8 | 8 | 60% | $2,529,460 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 1 | 66% | $1,952,243 | +$175,626 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | — | ⏳ Pendiente |
 | BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.08 (48¢) | $38,769 | +$42,000 | ✅ Ganada |
