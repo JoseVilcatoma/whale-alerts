@@ -25286,5 +25286,20 @@
     "status": "pending",
     "ultimo_fill": 1788507947,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3477,
+    "timestamp": 1788509030,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-al-lgd-2026-09-04",
+    "title": "LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "usd": 29360.2016,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1788509030,
+    "fills": 1
   }
 ]
