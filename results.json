@@ -25091,5 +25091,20 @@
     "status": "pending",
     "ultimo_fill": 1788481181,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3447,
+    "timestamp": 1788486086,
+    "username": "0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121",
+    "wallet": "0x17c4f7e008fe22d69865f73f29329b6e76b92471",
+    "slug": "mlb-oak-sea-2026-09-03",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 42266.359999,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1788486086,
+    "fills": 1
   }
 ]
