@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 23:29:50 (hora de Perú)
+Actualizado: 2026-09-03 23:31:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1674**  ($89,465,737 en total)
+- Apuestas registradas: **1675**  ($89,506,181 en total)
 - Resueltas: **1663** — 975 ganadas / 688 perdidas (**59%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 292
+- Pendientes: 8
+- Apostadores distintos: 293
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | BillyGating | 7 | 2 | 0 | 78% | $389,042 | +$114,479 |
 
-_(mostrando los 40 de mayor monto, de 292 en total)_
+_(mostrando los 40 de mayor monto, de 293 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gagarin59 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $40,444 | — | ⏳ Pendiente |
 | IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $90,730 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
 | Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | +$15,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
