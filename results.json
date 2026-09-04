@@ -26203,5 +26203,20 @@
     "status": "pending",
     "ultimo_fill": 1788564234,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3592,
+    "timestamp": 1788565988,
+    "username": "afraz",
+    "wallet": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+    "slug": "atp-etcheve-navone-2026-09-04",
+    "title": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
+    "outcome": "Tomas Etcheverry",
+    "side": "BUY",
+    "usd": 43212.039995,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1788565988,
+    "fills": 1
   }
 ]

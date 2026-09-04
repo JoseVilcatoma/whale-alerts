@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 18:51:46 (hora de Perú)
+Actualizado: 2026-09-04 18:53:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1743**  ($93,296,552 en total)
+- Apuestas registradas: **1744**  ($93,339,764 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 298
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | — | ⏳ Pendiente |
 | Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | — | ⏳ Pendiente |
 | Painfulvoid | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.56 (64¢) | $30,661 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | +$7,797 | ✅ Ganada |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | +$46,200 | ✅ Ganada |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | -$70,792 | ❌ Perdida |
