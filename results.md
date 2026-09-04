@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 07:06:30 (hora de Perú)
+Actualizado: 2026-09-04 07:08:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1689**  ($90,237,845 en total)
+- Apuestas registradas: **1690**  ($90,270,940 en total)
 - Resueltas: **1673** — 982 ganadas / 691 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 295
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | Diabolical-Prize | 2 | 2 | 3 | ⚠️ 50% (4) | $443,446 | -$118,027 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
+| BillyGating | 7 | 2 | 1 | 78% | $422,137 | +$114,479 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
-| predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 
 _(mostrando los 40 de mayor monto, de 295 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BillyGating | US Open WTA (Doubles): Williams/Williams vs Chan/Joint | Chan/Joint | 1.41 (71¢) | $33,095 | — | ⏳ Pendiente |
 | sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | — | ⏳ Pendiente |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka | 1.92 (52¢) | $30,000 | +$18,462 | 💰 Vendida antes |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | -$48,095 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
-| Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $35,782 | -$35,782 | ❌ Perdida |

@@ -25391,5 +25391,20 @@
     "status": "pending",
     "ultimo_fill": 1788523461,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3486,
+    "timestamp": 1788523712,
+    "username": "BillyGating",
+    "wallet": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+    "slug": "wta-doubles-willwil-chanjoi-2026-09-03",
+    "title": "US Open WTA (Doubles): Williams/Williams vs Chan/Joint",
+    "outcome": "Chan/Joint",
+    "side": "BUY",
+    "usd": 33095.083103,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1788523712,
+    "fills": 1
   }
 ]
