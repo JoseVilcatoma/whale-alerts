@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 01:47:43 (hora de Perú)
+Actualizado: 2026-09-04 01:49:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1680**  ($89,837,724 en total)
+- Apuestas registradas: **1681**  ($89,866,441 en total)
 - Resueltas: **1667** — 977 ganadas / 690 perdidas (**59%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 294
+- Pendientes: 10
+- Apostadores distintos: 295
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 | BillyGating | 7 | 2 | 0 | 78% | $389,042 | +$114,479 |
 
-_(mostrando los 40 de mayor monto, de 294 en total)_
+_(mostrando los 40 de mayor monto, de 295 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | — | ⏳ Pendiente |
 | 0x760f…326a | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.59 (63¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.33 (75¢) | $42,161 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $55,955 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 294 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | +$19,105 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $29,253 | +$24,919 | ✅ Ganada |
 | Weaseloftheweek | Seattle Mariners vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $58,369 | -$58,369 | ❌ Perdida |
-| xifutloong3 | Philadelphia Phillies vs. Arizona Diamondbacks | Philadelphia Phillies | 2.00 (50¢) | $35,442 | -$35,442 | ❌ Perdida |
