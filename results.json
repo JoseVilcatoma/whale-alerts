@@ -26143,5 +26143,20 @@
     "status": "pending",
     "ultimo_fill": 1788560827,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3588,
+    "timestamp": 1788561156,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-sjst-emich-2026-09-04",
+    "title": "San Jose State vs. Eastern Michigan",
+    "outcome": "Eastern Michigan",
+    "side": "BUY",
+    "usd": 58300.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788561156,
+    "fills": 1
   }
 ]

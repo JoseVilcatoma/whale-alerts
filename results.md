@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 17:31:03 (hora de Perú)
+Actualizado: 2026-09-04 17:33:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1739**  ($93,115,287 en total)
+- Apuestas registradas: **1740**  ($93,173,587 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 298
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0b1 | 35 | 4 | 1 | 90% | $1,396,529 | +$91,013 |
-| Sassy-Bucket | 15 | 11 | 2 | 58% | $1,265,964 | +$179,143 |
+| Sassy-Bucket | 15 | 11 | 3 | 58% | $1,324,264 | +$179,143 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 7 | 1 | 70% | $916,163 | +$32,140 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | -$29,360 | ❌ Perdida |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | +$55,727 | ✅ Ganada |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | +$23,495 | ✅ Ganada |
-| 0x760f…326a | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.59 (63¢) | $30,000 | +$17,619 | ✅ Ganada |
