@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 03:07:34 (hora de Perú)
+Actualizado: 2026-09-04 03:09:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1683**  ($89,990,687 en total)
+- Apuestas registradas: **1684**  ($90,061,479 en total)
 - Resueltas: **1672** — 982 ganadas / 690 perdidas (**59%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 295
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | -$27,472 | ❌ Perdida |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | -$28,628 | ❌ Perdida |
 | 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | +$2,813 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | +$19,105 | ✅ Ganada |
