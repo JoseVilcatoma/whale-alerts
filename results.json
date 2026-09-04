@@ -25316,5 +25316,20 @@
     "status": "pending",
     "ultimo_fill": 1788509289,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3480,
+    "timestamp": 1788512598,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-kt-dk-2026-09-04-game2",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "usd": 58800.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788512598,
+    "fills": 1
   }
 ]
