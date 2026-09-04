@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 12:33:13 (hora de Perú)
+Actualizado: 2026-09-04 12:35:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1718**  ($91,672,789 en total)
+- Apuestas registradas: **1719**  ($92,030,822 en total)
 - Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 295
 
 ### Balance
@@ -33,12 +33,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 12 | 8 | 8 | 60% | $2,529,460 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 1 | 66% | $1,952,243 | +$175,626 |
+| 0F62 | 14 | 2 | 6 | 88% | $1,759,821 | +$9,272 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0F62 | 14 | 2 | 5 | 88% | $1,401,788 | +$9,272 |
 | 0b1 | 33 | 3 | 1 | 92% | $1,275,808 | +$110,740 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | — | ⏳ Pendiente |
 | Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | — | ⏳ Pendiente |
 | BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | +$47,406 | ✅ Ganada |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
