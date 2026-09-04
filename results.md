@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 17:12:25 (hora de Perú)
+Actualizado: 2026-09-04 17:14:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1736**  ($92,894,042 en total)
+- Apuestas registradas: **1737**  ($92,920,351 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 298
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0b1 | 35 | 4 | 1 | 90% | $1,396,529 | +$91,013 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
+| Sassy-Bucket | 15 | 11 | 1 | 58% | $1,119,878 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 7 | 0 | 70% | $867,313 | +$32,140 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | 0x760f…326a | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.59 (63¢) | $30,000 | +$17,619 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.33 (75¢) | $42,161 | +$14,054 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $55,955 | +$3,572 | ✅ Ganada |
-| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $150,948 | +$9,635 | ✅ Ganada |
