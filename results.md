@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 16:08:38 (hora de Perú)
+Actualizado: 2026-09-04 16:10:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1732**  ($92,732,752 en total)
+- Apuestas registradas: **1733**  ($92,777,565 en total)
 - Resueltas: **1706** — 1009 ganadas / 697 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 298
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0b1 | 34 | 3 | 2 | 92% | $1,351,715 | +$118,420 |
+| 0b1 | 34 | 3 | 3 | 92% | $1,396,529 | +$118,420 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | — | ⏳ Pendiente |
 | 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | chongchongpanda | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $52,480 | +$5,190 | ✅ Ganada |
 | gagarin59 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $40,444 | +$4,000 | ✅ Ganada |
 | IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | +$6,600 | ✅ Ganada |
