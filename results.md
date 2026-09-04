@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 02:45:00 (hora de Perú)
+Actualizado: 2026-09-04 02:47:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1681**  ($89,866,441 en total)
+- Apuestas registradas: **1682**  ($89,961,326 en total)
 - Resueltas: **1672** — 982 ganadas / 690 perdidas (**59%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 295
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | — | ⏳ Pendiente |
 | 0x760f…326a | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.59 (63¢) | $30,000 | +$17,619 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.33 (75¢) | $42,161 | +$14,054 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0b1 | US Open ATP: Marcos Giron vs Ignacio Buse | Ignacio Buse | 1.10 (91¢) | $28,442 | +$2,813 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners | 1.54 (65¢) | $35,481 | +$19,105 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.85 (54¢) | $29,253 | +$24,919 | ✅ Ganada |
-| Weaseloftheweek | Seattle Mariners vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $58,369 | -$58,369 | ❌ Perdida |
