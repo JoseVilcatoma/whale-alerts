@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 16:19:03 (hora de Perú)
+Actualizado: 2026-09-04 16:21:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1734**  ($92,810,219 en total)
-- Resueltas: **1715** — 1018 ganadas / 697 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1720** — 1020 ganadas / 700 perdidas (**59%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 298
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,506,268** sobre $91,949,786 apostados (ROI **+1.6%**)
-- Copiando $100 fijo en cada una: **-$8,062** sobre $168,700 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,389,990** sobre $92,146,063 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,254** sobre $169,200 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
 | ripley86alien | 20 | 8 | 0 | 71% | $2,529,460 | +$974,100 |
-| sainttroplay | 11 | 4 | 1 | 73% | $2,197,633 | +$1,836,015 |
+| sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0b1 | 35 | 3 | 2 | 92% | $1,396,529 | +$121,815 |
+| 0b1 | 35 | 4 | 1 | 90% | $1,396,529 | +$91,013 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | +$17,047 | 💰 Vendida antes |
-| 0b1 | Will AS Monaco FC win on 2026-09-04? | No | 1.12 (89¢) | $30,802 | — | ⏳ Pendiente |
-| sbsigner | Will Liverpool FC win on 2026-09-04? | No | 2.56 (39¢) | $37,475 | — | ⏳ Pendiente |
+| 0b1 | Will AS Monaco FC win on 2026-09-04? | No | 1.12 (89¢) | $30,802 | -$30,802 | ❌ Perdida |
+| sbsigner | Will Liverpool FC win on 2026-09-04? | No | 2.56 (39¢) | $37,475 | -$37,475 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $139,656 | +$30,656 | ✅ Ganada |
 | 0b1 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $45,105 | +$3,395 | ✅ Ganada |
-| sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
+| sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | -$76,000 | ❌ Perdida |
 | AnonymousUsername | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $33,098 | +$7,265 | ✅ Ganada |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.72 (58¢) | $26,906 | +$19,483 | ✅ Ganada |
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | +$4,622 | ✅ Ganada |
@@ -117,9 +117,9 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | +$65,600 | ✅ Ganada |
 | BillyGating | US Open WTA (Doubles): Williams/Williams vs Chan/Joint | Chan/Joint | 1.41 (71¢) | $106,496 | — | ⏳ Pendiente |
 | sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | -$30,046 | ❌ Perdida |
-| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | +$7,797 | ✅ Ganada |
-| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | +$46,200 | ✅ Ganada |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | -$70,792 | ❌ Perdida |
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | -$29,360 | ❌ Perdida |
