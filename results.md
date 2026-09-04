@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 07:58:08 (hora de Perú)
+Actualizado: 2026-09-04 08:00:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1693**  ($90,493,560 en total)
-- Resueltas: **1674** — 983 ganadas / 691 perdidas (**59%** de acierto)
+- Apuestas registradas: **1695**  ($90,586,765 en total)
+- Resueltas: **1676** — 984 ganadas / 692 perdidas (**59%** de acierto)
 - Pendientes: 15
 - Apostadores distintos: 295
 
 ### Balance
 
-- **Resultado de los apostadores: +$969,854** sobre $89,531,644 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,932** sobre $164,700 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,000,380** sobre $89,651,730 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,973** sobre $164,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 143 | 90 | 3 | 61% | $16,075,904 | +$492,668 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 52 | 0 | 54% | $4,719,723 | -$131,631 |
-| AV23IUa | 41 | 31 | 3 | 57% | $4,213,363 | -$11,320 |
+| AV23IUa | 41 | 31 | 4 | 57% | $4,264,363 | -$11,320 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
@@ -56,12 +56,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | BillyGating | 7 | 2 | 1 | 78% | $495,538 | +$114,479 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
+| Diabolical-Prize | 4 | 2 | 2 | ⚠️ 67% (6) | $485,651 | -$16,100 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | sulumos | 2 | 8 | 1 | 20% | $458,729 | -$337,451 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
-| Diabolical-Prize | 3 | 2 | 2 | ⚠️ 60% (5) | $443,446 | -$71,827 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | — | ⏳ Pendiente |
+| AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | — | ⏳ Pendiente |
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | — | ⏳ Pendiente |
@@ -82,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | +$46,200 | ✅ Ganada |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | -$70,792 | ❌ Perdida |
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | +$55,727 | ✅ Ganada |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | — | ⏳ Pendiente |
 | 0x760f…326a | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.59 (63¢) | $30,000 | +$17,619 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.33 (75¢) | $42,161 | +$14,054 | ✅ Ganada |
@@ -93,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | +$6,600 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $90,730 | — | ⏳ Pendiente |
-| alexdave888 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | KT Rolster | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
+| alexdave888 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | KT Rolster | 2.78 (36¢) | $25,200 | -$25,200 | ❌ Perdida |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.45 (69¢) | $42,266 | -$42,266 | ❌ Perdida |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $49,000 | +$19,056 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $50,587 | -$50,587 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | +$45,106 | ✅ Ganada |
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $59,000 | -$59,000 | ❌ Perdida |
 | xifutloong3 | San Francisco Giants vs. Pittsburgh Pirates | San Francisco Giants | 1.75 (57¢) | $31,733 | +$23,939 | ✅ Ganada |
-| Sassy-Bucket | New York Mets vs. Tampa Bay Rays | New York Mets | 2.70 (37¢) | $35,193 | +$59,923 | ✅ Ganada |
-| beeemw | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.19 (84¢) | $32,510 | -$32,510 | ❌ Perdida |
