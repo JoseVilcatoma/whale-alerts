@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 12:51:43 (hora de Perú)
+Actualizado: 2026-09-04 12:53:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1720**  ($92,059,212 en total)
+- Apuestas registradas: **1721**  ($92,086,118 en total)
 - Resueltas: **1685** — 990 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 296
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.72 (58¢) | $26,906 | — | ⏳ Pendiente |
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | +$13,046 | ✅ Ganada |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | +$47,406 | ✅ Ganada |
-| Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
