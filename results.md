@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 21:45:07 (hora de Perú)
+Actualizado: 2026-09-03 21:47:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1673**  ($89,435,737 en total)
-- Resueltas: **1661** — 974 ganadas / 687 perdidas (**59%** de acierto)
-- Pendientes: 8
+- Resueltas: **1662** — 975 ganadas / 687 perdidas (**59%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 292
 
 ### Balance
 
-- **Resultado de los apostadores: +$967,124** sobre $88,876,458 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,925** sobre $163,400 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,014,529** sobre $88,918,497 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,812** sobre $163,500 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 41 | 31 | 0 | 57% | $4,064,145 | -$11,320 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 35 | 24 | 1 | 59% | $2,663,883 | +$300,040 |
+| pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
 | ripley86alien | 12 | 8 | 0 | 60% | $2,183,725 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | -$25,058 | ❌ Perdida |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | +$13,046 | ✅ Ganada |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | +$47,406 | ✅ Ganada |
 | Roadto1mlesgooo | Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $41,500 | -$41,500 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
