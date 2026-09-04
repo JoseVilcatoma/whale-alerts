@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 11:00:32 (hora de Perú)
+Actualizado: 2026-09-04 11:02:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1710**  ($91,174,159 en total)
+- Apuestas registradas: **1711**  ($91,398,622 en total)
 - Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 295
 
 ### Balance
@@ -38,9 +38,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| 0F62 | 14 | 2 | 5 | 88% | $1,401,788 | +$9,272 |
 | 0b1 | 33 | 3 | 1 | 92% | $1,275,808 | +$110,740 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0F62 | 14 | 2 | 4 | 88% | $1,177,326 | +$9,272 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $63,378 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | +$12,371 | ✅ Ganada |
 | jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
-| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
