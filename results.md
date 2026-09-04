@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 06:19:04 (hora de Perú)
+Actualizado: 2026-09-04 06:21:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1685**  ($90,120,279 en total)
-- Resueltas: **1672** — 982 ganadas / 690 perdidas (**59%** de acierto)
+- Apuestas registradas: **1686**  ($90,146,279 en total)
+- Resueltas: **1673** — 982 ganadas / 691 perdidas (**59%** de acierto)
 - Pendientes: 9
 - Apostadores distintos: 295
 
 ### Balance
 
-- **Resultado de los apostadores: +$994,446** sobre $89,402,052 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,910** sobre $164,500 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$923,654** sobre $89,472,844 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$9,010** sobre $164,600 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
-| Diabolical-Prize | 2 | 1 | 4 | ⚠️ 67% (3) | $443,446 | -$47,235 |
+| Diabolical-Prize | 2 | 2 | 3 | ⚠️ 50% (4) | $443,446 | -$118,027 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | sulumos | 2 | 8 | 0 | 20% | $428,683 | -$337,451 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | -$70,792 | ❌ Perdida |
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.82 (55¢) | $28,717 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.82 (55¢) | $35,508 | +$29,052 | ✅ Ganada |
 | IcemanSeason | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays | 2.22 (45¢) | $27,472 | -$27,472 | ❌ Perdida |
-| pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.38 (42¢) | $28,628 | -$28,628 | ❌ Perdida |
