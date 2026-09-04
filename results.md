@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 11:37:35 (hora de Perú)
+Actualizado: 2026-09-04 11:39:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1713**  ($91,479,174 en total)
+- Apuestas registradas: **1714**  ($91,508,063 en total)
 - Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 295
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $30,222 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $50,330 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | -$38,171 | ❌ Perdida |
 | Flaznorp | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.14 (88¢) | $27,233 | +$3,714 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | -$27,945 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | +$12,371 | ✅ Ganada |
