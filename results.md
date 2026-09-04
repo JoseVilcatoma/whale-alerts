@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 00:31:39 (hora de Perú)
+Actualizado: 2026-09-04 00:33:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1679**  ($89,807,724 en total)
-- Resueltas: **1664** — 975 ganadas / 689 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Resueltas: **1667** — 977 ganadas / 690 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 294
 
 ### Balance
 
-- **Resultado de los apostadores: +$921,676** sobre $89,011,350 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$9,012** sobre $163,700 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$946,983** sobre $89,183,568 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,034** sobre $164,000 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,15 +76,15 @@ _(mostrando los 40 de mayor monto, de 294 en total)_
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $150,948 | — | ⏳ Pendiente |
 | chongchongpanda | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $52,480 | — | ⏳ Pendiente |
 | gagarin59 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $40,444 | — | ⏳ Pendiente |
-| IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
+| IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $90,730 | — | ⏳ Pendiente |
 | alexdave888 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | KT Rolster | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.45 (69¢) | $42,266 | -$42,266 | ❌ Perdida |
-| Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $49,000 | — | ⏳ Pendiente |
+| Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $49,000 | +$19,056 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $50,587 | -$50,587 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Kansas City Royals: O/U 9.5 | Under 9.5 | 1.82 (55¢) | $44,593 | -$44,593 | ❌ Perdida |
-| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | — | ⏳ Pendiente |
+| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | +$36,251 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | -$25,058 | ❌ Perdida |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | +$13,046 | ✅ Ganada |
 | BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
