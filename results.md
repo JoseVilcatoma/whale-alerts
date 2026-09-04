@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 07:02:22 (hora de Perú)
+Actualizado: 2026-09-04 07:04:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1688**  ($90,207,799 en total)
+- Apuestas registradas: **1689**  ($90,237,845 en total)
 - Resueltas: **1673** — 982 ganadas / 691 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 295
 
 ### Balance
@@ -58,10 +58,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
+| sulumos | 2 | 8 | 1 | 20% | $458,729 | -$337,451 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | Diabolical-Prize | 2 | 2 | 3 | ⚠️ 50% (4) | $443,446 | -$118,027 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| sulumos | 2 | 8 | 0 | 20% | $428,683 | -$337,451 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 | predictionlegend | 2 | 5 | 0 | ⚠️ 29% (7) | $390,143 | -$245,872 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | — | ⏳ Pendiente |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | — | ⏳ Pendiente |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $48,095 | -$48,095 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
 | Gourmet1 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Kamil Majchrzak | 2.13 (47¢) | $35,782 | -$35,782 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Valentin Vacherot vs Kamil Majchrzak | Valentin Vacherot | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
