@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 15:10:25 (hora de Perú)
+Actualizado: 2026-09-04 15:12:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1729**  ($92,510,668 en total)
+- Apuestas registradas: **1730**  ($92,560,668 en total)
 - Resueltas: **1688** — 993 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 37
-- Apostadores distintos: 297
+- Pendientes: 38
+- Apostadores distintos: 298
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 297 en total)_
+_(mostrando los 40 de mayor monto, de 298 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | — | ⏳ Pendiente |
 | 0b1 | Will AS Monaco FC win on 2026-09-04? | No | 1.12 (89¢) | $30,802 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 297 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | +$6,600 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $90,730 | — | ⏳ Pendiente |
 | alexdave888 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | KT Rolster | 2.78 (36¢) | $25,200 | -$25,200 | ❌ Perdida |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.45 (69¢) | $42,266 | -$42,266 | ❌ Perdida |
