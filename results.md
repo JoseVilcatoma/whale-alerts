@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 08:43:52 (hora de Perú)
+Actualizado: 2026-09-04 08:45:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1697**  ($90,667,125 en total)
+- Apuestas registradas: **1698**  ($90,697,125 en total)
 - Resueltas: **1676** — 984 ganadas / 692 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 295
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | xifutloong3 | Chicago White Sox vs. Houston Astros | Chicago White Sox | 2.56 (39¢) | $39,301 | -$39,301 | ❌ Perdida |
 | 0F62 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $109,688 | +$9,538 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Jaime Faria vs Carlos Alcaraz | Carlos Alcaraz | 1.09 (92¢) | $59,963 | +$5,214 | ✅ Ganada |
-| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.13 (47¢) | $40,000 | +$45,106 | ✅ Ganada |
