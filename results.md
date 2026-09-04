@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 10:09:23 (hora de Perú)
+Actualizado: 2026-09-04 10:11:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1706**  ($91,004,430 en total)
-- Resueltas: **1679** — 985 ganadas / 694 perdidas (**59%** de acierto)
+- Apuestas registradas: **1707**  ($91,042,906 en total)
+- Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 295
 
 ### Balance
 
-- **Resultado de los apostadores: +$948,771** sobre $89,746,657 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,151** sobre $165,200 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$950,882** sobre $89,779,729 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,144** sobre $165,300 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | — | ⏳ Pendiente |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $29,434 | — | ⏳ Pendiente |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $79,873 | — | ⏳ Pendiente |
 | CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
 | AV23IUa | US Open ATP: Luciano Darderi vs Dalibor Svrcina | Luciano Darderi | 1.75 (57¢) | $28,738 | +$21,680 | ✅ Ganada |
-| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.33 (75¢) | $28,929 | +$9,643 | ✅ Ganada |

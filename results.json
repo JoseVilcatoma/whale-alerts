@@ -25538,7 +25538,7 @@
     "side": "BUY",
     "usd": 33072.2507,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788531986,
     "fills": 1
   },
@@ -25645,6 +25645,21 @@
     "odds_at_bet": 39,
     "status": "pending",
     "ultimo_fill": 1788533706,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3511,
+    "timestamp": 1788534653,
+    "username": "IcemanSeason",
+    "wallet": "0xb9392e612a5b05063ca012b5dede548e16e5da70",
+    "slug": "mlb-mil-cin-2026-09-04-spread-away-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 38475.9945,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788534653,
     "fills": 1
   }
 ]
