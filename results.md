@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 10:35:53 (hora de Perú)
+Actualizado: 2026-09-04 10:37:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1708**  ($91,083,226 en total)
+- Apuestas registradas: **1709**  ($91,110,782 en total)
 - Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 295
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
-| ripley86alien | 12 | 8 | 3 | 60% | $2,328,586 | +$764,023 |
+| ripley86alien | 12 | 8 | 4 | 60% | $2,356,141 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | — | ⏳ Pendiente |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
 | Diabolical-Prize | LoL: Bilibili Gaming vs Team WE - Game 1 Winner | Bilibili Gaming | 1.27 (79¢) | $36,070 | +$9,588 | ✅ Ganada |
-| Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.47 (68¢) | $95,509 | -$95,509 | ❌ Perdida |
