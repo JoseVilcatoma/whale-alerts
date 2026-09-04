@@ -25796,5 +25796,20 @@
     "status": "pending",
     "ultimo_fill": 1788540059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3524,
+    "timestamp": 1788540146,
+    "username": "Rusik7",
+    "wallet": "0xa6a0ef15106e14b2c5422a4d691a2e64ce594469",
+    "slug": "cs2-furia-vit-2026-09-04",
+    "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 40623.6544,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1788540146,
+    "fills": 1
   }
 ]

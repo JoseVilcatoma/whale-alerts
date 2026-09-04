@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 11:41:40 (hora de Perú)
+Actualizado: 2026-09-04 11:43:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1716**  ($91,602,777 en total)
+- Apuestas registradas: **1717**  ($91,643,401 en total)
 - Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 295
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | — | ⏳ Pendiente |
 | BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Chicago White Sox vs. Houston Astros | Houston Astros | 1.67 (60¢) | $49,862 | +$33,242 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.08 (48¢) | $38,769 | +$42,000 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | -$38,171 | ❌ Perdida |
