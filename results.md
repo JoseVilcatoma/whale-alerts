@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 16:25:14 (hora de Perú)
+Actualizado: 2026-09-04 16:27:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1734**  ($92,810,219 en total)
-- Resueltas: **1720** — 1020 ganadas / 700 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 298
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,389,990** sobre $92,146,063 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,254** sobre $169,200 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,350,911** sobre $92,334,147 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,345** sobre $169,400 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 144 | 90 | 3 | 62% | $16,212,989 | +$500,466 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 145 | 90 | 2 | 62% | $16,212,989 | +$512,386 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 52 | 1 | 54% | $4,745,516 | -$131,631 |
-| AV23IUa | 44 | 31 | 1 | 59% | $4,264,363 | +$86,199 |
+| AV23IUa | 44 | 32 | 0 | 58% | $4,264,363 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 |---|---|---|---|---|---|---|
 | 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | +$11,920 | ✅ Ganada |
 | 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | — | ⏳ Pendiente |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | +$38,801 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | +$21,909 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | +$23,740 | ✅ Ganada |
-| AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | — | ⏳ Pendiente |
+| AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | -$51,000 | ❌ Perdida |
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | +$9,919 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | +$65,600 | ✅ Ganada |
