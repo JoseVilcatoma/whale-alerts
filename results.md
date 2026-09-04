@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 15:49:39 (hora de Perú)
+Actualizado: 2026-09-04 15:51:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1731**  ($92,595,668 en total)
-- Resueltas: **1702** — 1005 ganadas / 697 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Resueltas: **1703** — 1006 ganadas / 697 perdidas (**59%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 298
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,321,238** sobre $90,692,480 apostados (ROI **+1.5%**)
+- **Resultado de los apostadores: +$1,338,285** sobre $90,729,100 apostados (ROI **+1.5%**)
 - Copiando $100 fijo en cada una: **-$8,387** sobre $167,500 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 1 | 68% | $867,313 | +$15,093 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 7 | 0 | 70% | $867,313 | +$32,140 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | +$17,047 | 💰 Vendida antes |
 | 0b1 | Will AS Monaco FC win on 2026-09-04? | No | 1.12 (89¢) | $30,802 | — | ⏳ Pendiente |
 | sbsigner | Will Liverpool FC win on 2026-09-04? | No | 2.56 (39¢) | $37,475 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $139,656 | — | ⏳ Pendiente |
