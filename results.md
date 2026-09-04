@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 16:10:44 (hora de Perú)
+Actualizado: 2026-09-04 16:12:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1733**  ($92,777,565 en total)
+- Apuestas registradas: **1734**  ($92,810,219 en total)
 - Resueltas: **1706** — 1009 ganadas / 697 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 298
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | — | ⏳ Pendiente |
 | 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $150,948 | — | ⏳ Pendiente |
 | chongchongpanda | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $52,480 | +$5,190 | ✅ Ganada |
 | gagarin59 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $40,444 | +$4,000 | ✅ Ganada |
-| IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
