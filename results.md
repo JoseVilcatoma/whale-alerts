@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 12:47:42 (hora de Perú)
+Actualizado: 2026-09-04 12:49:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1720**  ($92,059,212 en total)
-- Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 33
+- Resueltas: **1685** — 990 ganadas / 695 perdidas (**59%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 296
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,025,283** sobre $89,957,712 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,103** sobre $165,600 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,069,693** sobre $90,011,990 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,939** sobre $165,800 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,12 +90,12 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $29,434 | — | ⏳ Pendiente |
 | Gourmet1 | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $33,048 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $79,873 | — | ⏳ Pendiente |
-| CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | +$38,801 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | +$21,909 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | — | ⏳ Pendiente |
 | AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | — | ⏳ Pendiente |
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
