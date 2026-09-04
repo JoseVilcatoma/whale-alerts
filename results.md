@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 23:42:11 (hora de Perú)
+Actualizado: 2026-09-03 23:44:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1676**  ($89,558,661 en total)
+- Apuestas registradas: **1677**  ($89,709,609 en total)
 - Resueltas: **1663** — 975 ganadas / 688 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 294
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0b1 | 33 | 3 | 0 | 92% | $1,235,488 | +$110,740 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
-| 0F62 | 14 | 2 | 1 | 88% | $931,347 | +$9,272 |
+| 0F62 | 14 | 2 | 2 | 88% | $1,082,295 | +$9,272 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 15 | 7 | 0 | 68% | $830,693 | +$15,093 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 294 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $150,948 | — | ⏳ Pendiente |
 | chongchongpanda | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $52,480 | — | ⏳ Pendiente |
 | gagarin59 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.10 (91¢) | $40,444 | — | ⏳ Pendiente |
 | IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 294 en total)_
 | xifutloong3 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.61 (62¢) | $29,383 | -$29,383 | ❌ Perdida |
 | texaskid | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays | 1.61 (62¢) | $62,000 | -$62,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Ben Shelton vs Hubert Hurkacz | Ben Shelton | 1.14 (88¢) | $62,323 | +$8,499 | ✅ Ganada |
-| Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
