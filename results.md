@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 11:39:38 (hora de Perú)
+Actualizado: 2026-09-04 11:41:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1714**  ($91,508,063 en total)
-- Resueltas: **1680** — 986 ganadas / 694 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **1716**  ($91,602,777 en total)
+- Resueltas: **1683** — 988 ganadas / 695 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 295
 
 ### Balance
 
-- **Resultado de los apostadores: +$950,882** sobre $89,779,729 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,144** sobre $165,300 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$1,025,283** sobre $89,957,712 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,103** sobre $165,600 (ROI **-5.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,13 +26,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 144 | 90 | 2 | 62% | $16,075,904 | +$500,466 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 52 | 0 | 54% | $4,719,723 | -$131,631 |
-| AV23IUa | 41 | 31 | 4 | 57% | $4,264,363 | -$11,320 |
+| AV23IUa | 42 | 31 | 3 | 58% | $4,264,363 | +$54,280 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
 | ripley86alien | 12 | 8 | 7 | 60% | $2,500,071 | +$764,023 |
 | sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
-| beachboy4 | 19 | 10 | 0 | 66% | $1,887,529 | +$175,626 |
+| beachboy4 | 19 | 10 | 1 | 66% | $1,952,243 | +$175,626 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $30,222 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $50,330 | — | ⏳ Pendiente |
@@ -87,14 +89,14 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
-| BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
-| flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
+| flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | +$38,801 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.56 (64¢) | $42,205 | — | ⏳ Pendiente |
 | AV23IUa | Will Real Madrid CF win on 2026-09-04? | Yes | 1.47 (68¢) | $51,000 | — | ⏳ Pendiente |
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | — | ⏳ Pendiente |
-| AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | +$65,600 | ✅ Ganada |
 | BillyGating | US Open WTA (Doubles): Williams/Williams vs Chan/Joint | Chan/Joint | 1.41 (71¢) | $106,496 | — | ⏳ Pendiente |
 | sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | -$30,046 | ❌ Perdida |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.33 (75¢) | $33,303 | +$11,101 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs | 2.08 (48¢) | $38,769 | +$42,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | -$38,171 | ❌ Perdida |
-| Flaznorp | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.14 (88¢) | $27,233 | +$3,714 | ✅ Ganada |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | -$27,945 | ❌ Perdida |

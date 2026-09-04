@@ -25418,7 +25418,7 @@
     "side": "BUY",
     "usd": 94400.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788526380,
     "fills": 1
   },
@@ -25508,7 +25508,7 @@
     "side": "BUY",
     "usd": 53582.3662,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788529206,
     "fills": 1
   },
@@ -25523,7 +25523,7 @@
     "side": "BUY",
     "usd": 29999.999999000003,
     "odds_at_bet": 42,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788529456,
     "fills": 1
   },
@@ -25765,6 +25765,36 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1788539915,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3522,
+    "timestamp": 1788540027,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-medvede-rinderk-2026-09-04",
+    "title": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 64714.1288,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788540097,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 3523,
+    "timestamp": 1788540059,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "atp-etcheve-navone-2026-09-04",
+    "title": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
+    "outcome": "Mariano Navone",
+    "side": "BUY",
+    "usd": 29999.999999999996,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788540059,
     "fills": 1
   }
 ]
