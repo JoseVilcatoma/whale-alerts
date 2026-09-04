@@ -25526,5 +25526,20 @@
     "status": "pending",
     "ultimo_fill": 1788529456,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3499,
+    "timestamp": 1788531986,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-montes-jones-2026-09-04",
+    "title": "Manacor: Inaki Montes vs Jack Pinnington Jones",
+    "outcome": "Inaki Montes",
+    "side": "BUY",
+    "usd": 33072.2507,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1788531986,
+    "fills": 1
   }
 ]
