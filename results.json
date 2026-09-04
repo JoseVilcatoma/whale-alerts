@@ -25481,5 +25481,20 @@
     "status": "pending",
     "ultimo_fill": 1788526797,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3495,
+    "timestamp": 1788527391,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-b8-ntr-2026-09-04",
+    "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 26777.938000000006,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788527391,
+    "fills": 1
   }
 ]
