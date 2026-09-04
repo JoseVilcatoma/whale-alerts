@@ -25946,5 +25946,20 @@
     "status": "pending",
     "ultimo_fill": 1788546657,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3538,
+    "timestamp": 1788547916,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "fl1-psg-asm-2026-09-04-asm",
+    "title": "Will AS Monaco FC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30801.9744,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1788547916,
+    "fills": 1
   }
 ]
