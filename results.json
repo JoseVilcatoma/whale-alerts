@@ -25961,5 +25961,35 @@
     "status": "pending",
     "ultimo_fill": 1788547916,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3541,
+    "timestamp": 1788552001,
+    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
+    "wallet": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+    "slug": "wta-navarro-muchova-2026-09-04",
+    "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
+    "outcome": "Emma Navarro",
+    "side": "BUY",
+    "usd": 36620.1493,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788552001,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3542,
+    "timestamp": 1788552007,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-min-cws-2026-09-04",
+    "title": "Minnesota Twins vs. Chicago White Sox",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 25793.4912,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788552007,
+    "fills": 1
   }
 ]
