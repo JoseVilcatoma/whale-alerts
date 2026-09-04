@@ -25721,5 +25721,20 @@
     "status": "pending",
     "ultimo_fill": 1788537713,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3516,
+    "timestamp": 1788539060,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "atp-bublik-paul-2026-09-04",
+    "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "usd": 50330.366599999994,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788539060,
+    "fills": 1
   }
 ]
