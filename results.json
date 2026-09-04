@@ -25871,5 +25871,35 @@
     "status": "pending",
     "ultimo_fill": 1788544378,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3532,
+    "timestamp": 1788545223,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "epl-ips-liv-2026-09-04-ips",
+    "title": "Will Ipswich Town FC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 33097.659999999996,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1788545223,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3533,
+    "timestamp": 1788545320,
+    "username": "sainttroplay",
+    "wallet": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+    "slug": "epl-ips-liv-2026-09-04-liv",
+    "title": "Will Liverpool FC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 76000.0,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1788545320,
+    "fills": 1
   }
 ]

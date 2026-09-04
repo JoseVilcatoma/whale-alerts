@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 13:06:56 (hora de Perú)
+Actualizado: 2026-09-04 13:09:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1721**  ($92,086,118 en total)
+- Apuestas registradas: **1723**  ($92,195,215 en total)
 - Resueltas: **1685** — 990 ganadas / 695 perdidas (**59%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 296
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 0 | 60% | $2,663,883 | +$347,446 |
 | ripley86alien | 12 | 8 | 8 | 60% | $2,529,460 | +$764,023 |
-| sainttroplay | 11 | 4 | 0 | 73% | $2,121,633 | +$1,836,015 |
+| sainttroplay | 11 | 4 | 1 | 73% | $2,197,633 | +$1,836,015 |
 | beachboy4 | 19 | 10 | 1 | 66% | $1,952,243 | +$175,626 |
 | 0F62 | 14 | 2 | 6 | 88% | $1,759,821 | +$9,272 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
+| AnonymousUsername | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $33,098 | — | ⏳ Pendiente |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.72 (58¢) | $26,906 | — | ⏳ Pendiente |
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | +$36,251 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles | 2.13 (47¢) | $25,058 | -$25,058 | ❌ Perdida |
 | 0F62 | US Open ATP: Gael Monfils vs Learner Tien | Learner Tien | 1.19 (84¢) | $68,494 | +$13,046 | ✅ Ganada |
-| BillyGating | US Open ATP: Benjamin Bonzi vs Ignacio Buse | Benjamin Bonzi | 1.67 (60¢) | $82,135 | +$54,757 | ✅ Ganada |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.13 (47¢) | $42,039 | +$47,406 | ✅ Ganada |
