@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 07:18:53 (hora de Perú)
+Actualizado: 2026-09-04 07:20:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1690**  ($90,344,342 en total)
-- Resueltas: **1673** — 982 ganadas / 691 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Resueltas: **1674** — 983 ganadas / 691 perdidas (**59%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 295
 
 ### Balance
 
-- **Resultado de los apostadores: +$923,654** sobre $89,472,844 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$9,010** sobre $164,600 (ROI **-5.5%**)
+- **Resultado de los apostadores: +$969,854** sobre $89,531,644 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,932** sobre $164,700 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | sulumos | 2 | 8 | 1 | 20% | $458,729 | -$337,451 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
-| Diabolical-Prize | 2 | 2 | 3 | ⚠️ 50% (4) | $443,446 | -$118,027 |
+| Diabolical-Prize | 3 | 2 | 2 | ⚠️ 60% (5) | $443,446 | -$71,827 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 295 en total)_
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | — | ⏳ Pendiente |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | +$46,200 | ✅ Ganada |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 1 Winner | Dplus KIA | 1.82 (55¢) | $70,792 | -$70,792 | ❌ Perdida |
 | Diabolical-Prize | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 3.12 (32¢) | $29,360 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 1.59 (63¢) | $94,886 | — | ⏳ Pendiente |
