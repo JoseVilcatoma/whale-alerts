@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 13:29:38 (hora de Perú)
+Actualizado: 2026-09-04 13:31:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1725**  ($92,379,977 en total)
-- Resueltas: **1685** — 990 ganadas / 695 perdidas (**59%** de acierto)
+- Apuestas registradas: **1726**  ($92,417,452 en total)
+- Resueltas: **1686** — 991 ganadas / 695 perdidas (**59%** de acierto)
 - Pendientes: 36
-- Apostadores distintos: 296
+- Apostadores distintos: 297
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,069,693** sobre $90,011,990 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,939** sobre $165,800 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,077,373** sobre $90,052,310 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,920** sobre $165,900 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| 0b1 | 33 | 3 | 2 | 92% | $1,320,913 | +$110,740 |
+| 0b1 | 34 | 3 | 1 | 92% | $1,320,913 | +$118,420 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | Sassy-Bucket | 15 | 11 | 0 | 58% | $1,093,569 | +$179,143 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 296 en total)_
+_(mostrando los 40 de mayor monto, de 297 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sbsigner | Will Liverpool FC win on 2026-09-04? | No | 2.56 (39¢) | $37,475 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $139,656 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $45,105 | — | ⏳ Pendiente |
 | sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $63,378 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | — | ⏳ Pendiente |
+| 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | +$7,680 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | — | ⏳ Pendiente |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | — | ⏳ Pendiente |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 296 en total)_
 | Kosherlocks | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $49,000 | +$19,056 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $50,587 | -$50,587 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Kansas City Royals: O/U 9.5 | Under 9.5 | 1.82 (55¢) | $44,593 | -$44,593 | ❌ Perdida |
-| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $93,218 | +$36,251 | ✅ Ganada |

@@ -25673,7 +25673,7 @@
     "side": "BUY",
     "usd": 40320.0,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788535700,
     "fills": 1
   },
@@ -25930,6 +25930,21 @@
     "odds_at_bet": 82,
     "status": "pending",
     "ultimo_fill": 1788545996,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3537,
+    "timestamp": 1788546657,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "epl-ips-liv-2026-09-04-liv",
+    "title": "Will Liverpool FC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 37475.2521,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1788546657,
     "fills": 1
   }
 ]
