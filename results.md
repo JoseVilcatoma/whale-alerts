@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 20:52:47 (hora de Perú)
+Actualizado: 2026-09-03 20:54:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1670**  ($89,266,407 en total)
-- Resueltas: **1657** — 972 ganadas / 685 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1658** — 973 ganadas / 685 perdidas (**59%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 292
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,011,358** sobre $88,668,211 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,762** sobre $163,000 (ROI **-5.4%**)
+- **Resultado de los apostadores: +$1,023,728** sobre $88,738,313 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,744** sobre $163,100 (ROI **-5.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 140 | 90 | 3 | 61% | $15,944,823 | +$459,644 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 141 | 90 | 2 | 61% | $15,944,823 | +$472,015 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 49 | 3 | 55% | $4,719,723 | -$11,392 |
 | AV23IUa | 41 | 31 | 0 | 57% | $4,064,145 | -$11,320 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 | wr0ngw4yb3tt0r | Toronto Blue Jays vs. Cleveland Guardians | Cleveland Guardians | 1.96 (51¢) | $38,171 | -$38,171 | ❌ Perdida |
 | Flaznorp | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys | 1.14 (88¢) | $27,233 | +$3,714 | ✅ Ganada |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.79 (56¢) | $27,945 | -$27,945 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff | 1.18 (85¢) | $70,102 | +$12,371 | ✅ Ganada |
 | jackpeter888 | LoL: Bilibili Gaming vs Team WE - Game 4 Winner | Bilibili Gaming | 1.33 (75¢) | $26,250 | +$8,750 | ✅ Ganada |
 | vincentchase11 | US Open ATP: Taylor Fritz vs Mattia Bellucci | Taylor Fritz | 1.12 (89¢) | $50,000 | +$6,180 | ✅ Ganada |
 | Diabolical-Prize | LoL: BNK FEARX vs Dplus KIA - Game 3 Winner | Dplus KIA | 1.67 (60¢) | $58,029 | +$38,686 | ✅ Ganada |
