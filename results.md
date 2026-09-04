@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-03 22:57:00 (hora de Perú)
+Actualizado: 2026-09-03 22:59:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1673**  ($89,435,737 en total)
+- Apuestas registradas: **1674**  ($89,465,737 en total)
 - Resueltas: **1663** — 975 ganadas / 688 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 292
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IcemanSeason | St. Louis Cardinals vs. Los Angeles Dodgers | St. Louis Cardinals | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Quentin Halys | Alexander Zverev | 1.12 (89¢) | $53,400 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $90,730 | — | ⏳ Pendiente |
 | alexdave888 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs | KT Rolster | 2.78 (36¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 292 en total)_
 | Weaseloftheweek | Atlanta Braves vs. Washington Nationals | Atlanta Braves | 1.64 (61¢) | $87,632 | +$56,027 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Bublik vs Adrian Mannarino | Alexander Bublik | 1.33 (75¢) | $45,000 | +$15,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles | 1.64 (61¢) | $27,111 | -$27,111 | ❌ Perdida |
-| Sassy-Bucket | Philadelphia Phillies vs. Arizona Diamondbacks | Arizona Diamondbacks | 2.22 (45¢) | $51,218 | +$62,599 | ✅ Ganada |
