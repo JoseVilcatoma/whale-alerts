@@ -27527,5 +27527,20 @@
     "status": "pending",
     "ultimo_fill": 1788626182,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3755,
+    "timestamp": 1788626419,
+    "username": "afraz",
+    "wallet": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+    "slug": "bun-s04-bay-2026-09-05-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 39999.999997,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1788626419,
+    "fills": 1
   }
 ]
