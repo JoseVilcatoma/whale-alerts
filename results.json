@@ -26263,5 +26263,20 @@
     "status": "pending",
     "ultimo_fill": 1788567085,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3596,
+    "timestamp": 1788567466,
+    "username": "bbb17367162806",
+    "wallet": "0x0c787cc2962ee6464414da592b892c3886e077f1",
+    "slug": "epl-new-bou-2026-09-05-new",
+    "title": "Will Newcastle United FC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788567466,
+    "fills": 1
   }
 ]
