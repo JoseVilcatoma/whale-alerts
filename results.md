@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:16:13 (hora de Perú)
+Actualizado: 2026-09-05 11:18:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1828**  ($96,976,059 en total)
-- Resueltas: **1774** — 1052 ganadas / 722 perdidas (**59%** de acierto)
-- Pendientes: 50
+- Resueltas: **1776** — 1052 ganadas / 724 perdidas (**59%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 304
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,121,853** sobre $94,737,564 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,971** sobre $174,400 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,053,331** sobre $94,806,086 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,171** sobre $174,600 (ROI **-5.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,10 +107,10 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | — | ⏳ Pendiente |
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | -$34,242 | ❌ Perdida |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | — | ⏳ Pendiente |
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | — | ⏳ Pendiente |
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | -$34,279 | ❌ Perdida |
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | -$36,800 | ❌ Perdida |
 | bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
