@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:07:25 (hora de Perú)
+Actualizado: 2026-09-05 13:09:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1842**  ($97,449,241 en total)
+- Apuestas registradas: **1842**  ($97,492,591 en total)
 - Resueltas: **1804** — 1071 ganadas / 733 perdidas (**59%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 306
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
+| WTSA | 6 | 7 | 1 | 46% | $795,892 | -$2,145 |
 | ferrariChampions2026 | 14 | 7 | 1 | 67% | $756,769 | -$174,493 |
-| WTSA | 6 | 7 | 1 | 46% | $752,542 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | Diabolical-Prize | 6 | 6 | 1 | 50% | $648,755 | -$93,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $45,900 | — | ⏳ Pendiente |
+| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $89,250 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
