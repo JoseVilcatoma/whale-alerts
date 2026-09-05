@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 01:39:17 (hora de Perú)
+Actualizado: 2026-09-05 01:41:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1772**  ($94,446,925 en total)
-- Resueltas: **1754** — 1042 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1755** — 1043 ganadas / 712 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 300
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,214,130** sobre $93,798,720 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,584** sobre $172,400 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,238,753** sobre $93,897,212 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,559** sobre $172,500 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
-| 0b1 | 41 | 5 | 1 | 89% | $1,753,295 | +$81,129 |
+| 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | +$41,911 | ✅ Ganada |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
-| 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
+| 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | +$24,623 | ✅ Ganada |
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | +$14,511 | ✅ Ganada |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
