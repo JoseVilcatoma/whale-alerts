@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 23:29:58 (hora de Perú)
+Actualizado: 2026-09-04 23:32:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1767**  ($94,267,115 en total)
-- Resueltas: **1749** — 1037 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1750** — 1038 ganadas / 712 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,099,477** sobre $93,573,665 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,812** sobre $172,000 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,102,019** sobre $93,613,494 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,806** sobre $172,100 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | -$31,630 | ❌ Perdida |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | +$2,107 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
-| jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | — | ⏳ Pendiente |
+| jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | +$2,542 | ✅ Ganada |
 | AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | +$9,896 | ✅ Ganada |
