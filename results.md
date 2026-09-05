@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 05:14:10 (hora de Perú)
+Actualizado: 2026-09-05 05:16:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1781**  ($94,912,212 en total)
-- Resueltas: **1755** — 1043 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Resueltas: **1756** — 1043 ganadas / 713 perdidas (**59%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 300
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,238,753** sobre $93,897,212 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,559** sobre $172,500 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,204,453** sobre $93,931,512 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,659** sobre $172,600 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
-| Diabolical-Prize | 5 | 3 | 4 | 62% | $621,755 | -$21,720 |
+| Diabolical-Prize | 5 | 4 | 3 | 56% | $621,755 | -$56,020 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 6 | 5 | 3 | 55% | $568,195 | -$34,113 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | -$34,300 | ❌ Perdida |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | — | ⏳ Pendiente |
 | kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | — | ⏳ Pendiente |
