@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:23:07 (hora de Perú)
+Actualizado: 2026-09-05 18:25:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1878**  ($99,643,312 en total)
+- Apuestas registradas: **1879**  ($99,683,312 en total)
 - Resueltas: **1851** — 1100 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 307
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | — | ⏳ Pendiente |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | -$145,950 | ❌ Perdida |
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | -$33,791 | ❌ Perdida |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
-| SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |

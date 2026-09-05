@@ -28234,5 +28234,20 @@
     "status": "pending",
     "ultimo_fill": 1788649731,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3861,
+    "timestamp": 1788650624,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cfb-clmsn-lsu-2026-09-05-spread-home-9pt5",
+    "title": "Spread: LSU (-9.5)",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 39999.99999899999,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788650624,
+    "fills": 1
   }
 ]
