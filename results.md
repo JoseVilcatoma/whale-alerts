@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:47:09 (hora de Perú)
+Actualizado: 2026-09-05 14:49:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1858**  ($98,828,370 en total)
+- Apuestas registradas: **1859**  ($98,858,370 en total)
 - Resueltas: **1826** — 1081 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 306
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
-| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | +$30,572 | ✅ Ganada |
