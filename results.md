@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 16:32:19 (hora de Perú)
+Actualizado: 2026-09-05 16:34:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1867**  ($99,222,400 en total)
-- Resueltas: **1839** — 1089 ganadas / 750 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Resueltas: **1842** — 1092 ganadas / 750 perdidas (**59%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$516,615** sobre $98,127,880 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$9,138** sobre $180,800 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$562,075** sobre $98,212,306 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,976** sobre $181,100 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 92 | 5 | 62% | $16,567,174 | +$527,439 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 46 | 36 | 3 | 56% | $4,580,311 | -$77,792 |
+| AV23IUa | 47 | 36 | 2 | 57% | $4,580,311 | -$64,025 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 |---|---|---|---|---|---|---|
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
-| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | — | ⏳ Pendiente |
+| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | — | ⏳ Pendiente |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
-| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | — | ⏳ Pendiente |
+| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | +$15,943 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | +$17,882 | ✅ Ganada |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
