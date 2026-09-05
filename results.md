@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:13:34 (hora de Perú)
+Actualizado: 2026-09-05 13:15:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1845**  ($98,224,803 en total)
+- Apuestas registradas: **1847**  ($98,346,225 en total)
 - Resueltas: **1806** — 1071 ganadas / 735 perdidas (**59%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 306
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 5 | 62% | $16,397,928 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 45 | 35 | 5 | 56% | $4,580,311 | -$66,135 |
-| 3edmond.dantes | 20 | 8 | 1 | 71% | $4,041,009 | +$526,701 |
+| 3edmond.dantes | 20 | 8 | 2 | 71% | $4,126,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $85,500 | — | ⏳ Pendiente |
+| hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | — | ⏳ Pendiente |
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | -$34,279 | ❌ Perdida |
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
-| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | -$36,800 | ❌ Perdida |
-| bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
