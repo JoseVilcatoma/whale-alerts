@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 17:02:33 (hora de Perú)
+Actualizado: 2026-09-05 17:04:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1869**  ($99,282,633 en total)
-- Resueltas: **1847** — 1096 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Resueltas: **1848** — 1097 ganadas / 751 perdidas (**59%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 307
 
 ### Balance
 
-- **Resultado de los apostadores: +$590,075** sobre $98,439,635 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,851** sobre $181,600 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$609,803** sobre $98,469,226 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,784** sobre $181,700 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 149 | 92 | 4 | 62% | $16,567,174 | +$549,639 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 150 | 92 | 3 | 62% | $16,567,174 | +$569,367 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 47 | 36 | 2 | 57% | $4,580,311 | -$64,025 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | +$8,091 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | +$19,727 | ✅ Ganada |
 | ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
