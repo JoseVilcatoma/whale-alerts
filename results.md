@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 07:39:59 (hora de Perú)
+Actualizado: 2026-09-05 07:42:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1785**  ($95,080,349 en total)
-- Resueltas: **1758** — 1044 ganadas / 714 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 301
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,214,975** sobre $93,985,161 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,626** sobre $172,800 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,145,801** sobre $94,130,381 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,845** sobre $173,200 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
-| Diabolical-Prize | 6 | 4 | 2 | 60% | $621,755 | -$19,443 |
+| Diabolical-Prize | 6 | 6 | 0 | 50% | $621,755 | -$93,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 6 | 5 | 3 | 55% | $568,195 | -$34,113 |
@@ -73,17 +73,17 @@ _(mostrando los 40 de mayor monto, de 301 en total)_
 |---|---|---|---|---|---|---|
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | — | ⏳ Pendiente |
-| kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | — | ⏳ Pendiente |
+| kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | -$33,721 | ❌ Perdida |
+| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | -$29,184 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | -$34,300 | ❌ Perdida |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | -$40,489 | ❌ Perdida |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | +$36,577 | ✅ Ganada |
 | kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | -$26,056 | ❌ Perdida |
 | gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | — | ⏳ Pendiente |
