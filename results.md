@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 12:21:44 (hora de Perú)
+Actualizado: 2026-09-05 12:23:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1837**  ($97,242,808 en total)
-- Resueltas: **1798** — 1068 ganadas / 730 perdidas (**59%** de acierto)
-- Pendientes: 35
+- Resueltas: **1799** — 1068 ganadas / 731 perdidas (**59%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,314,205** sobre $95,748,545 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,569** sobre $176,800 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,271,705** sobre $95,791,045 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,669** sobre $176,900 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 16 | 5 | 3 | 76% | $2,588,637 | +$2,027,778 |
-| beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
+| beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | — | ⏳ Pendiente |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | — | ⏳ Pendiente |
-| beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | — | ⏳ Pendiente |
+| beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | -$42,500 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | +$5,853 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | +$16,499 | ✅ Ganada |
