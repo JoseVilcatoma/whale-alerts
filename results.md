@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 07:46:04 (hora de Perú)
+Actualizado: 2026-09-05 07:48:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1786**  ($95,106,716 en total)
+- Apuestas registradas: **1787**  ($95,171,016 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 301
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 44 | 32 | 3 | 58% | $4,380,197 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ripley86alien | 20 | 8 | 3 | 71% | $2,759,860 | +$974,100 |
+| ripley86alien | 20 | 8 | 4 | 71% | $2,796,660 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 301 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $26,366 | — | ⏳ Pendiente |
+| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | — | ⏳ Pendiente |
+| bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | — | ⏳ Pendiente |
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 301 en total)_
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | +$39,286 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | -$25,793 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | +$17,047 | 💰 Vendida antes |
-| 0b1 | Will AS Monaco FC win on 2026-09-04? | No | 1.12 (89¢) | $30,802 | -$30,802 | ❌ Perdida |
