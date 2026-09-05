@@ -25403,7 +25403,7 @@
     "side": "BUY",
     "usd": 106496.303103,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788523808,
     "fills": 2
   },
@@ -26427,6 +26427,21 @@
     "odds_at_bet": 80,
     "status": "pending",
     "ultimo_fill": 1788576375,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3627,
+    "timestamp": 1788576725,
+    "username": "chanello",
+    "wallet": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
+    "slug": "epl-mac-cov-2026-09-05-draw",
+    "title": "Will Manchester City FC vs. Coventry City FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28593.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1788576725,
     "fills": 1
   }
 ]

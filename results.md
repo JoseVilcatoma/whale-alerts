@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:52:05 (hora de Perú)
+Actualizado: 2026-09-04 21:54:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1758**  ($93,934,182 en total)
-- Resueltas: **1741** — 1030 ganadas / 711 perdidas (**59%** de acierto)
+- Apuestas registradas: **1759**  ($93,962,775 en total)
+- Resueltas: **1742** — 1031 ganadas / 711 perdidas (**59%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,033,375** sobre $93,196,245 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,884** sobre $171,300 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,076,874** sobre $93,302,741 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,843** sobre $171,400 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
-| BillyGating | 7 | 2 | 1 | 78% | $495,538 | +$114,479 |
+| BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | Diabolical-Prize | 5 | 3 | 0 | 62% | $485,651 | -$21,720 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $79,873 | +$48,955 | ✅ Ganada |
 | CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | +$2,941 | ✅ Ganada |
-| 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
