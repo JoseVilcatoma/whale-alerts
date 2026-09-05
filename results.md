@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:41:05 (hora de Perú)
+Actualizado: 2026-09-05 11:43:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1832**  ($97,101,609 en total)
+- Apuestas registradas: **1833**  ($97,127,831 en total)
 - Resueltas: **1794** — 1067 ganadas / 727 perdidas (**59%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 305
+- Pendientes: 35
+- Apostadores distintos: 306
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 305 en total)_
+_(mostrando los 40 de mayor monto, de 306 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 305 en total)_
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | +$32,927 | ✅ Ganada |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | -$34,300 | ❌ Perdida |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | -$40,489 | ❌ Perdida |
