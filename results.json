@@ -27994,5 +27994,20 @@
     "status": "pending",
     "ultimo_fill": 1788638566,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3822,
+    "timestamp": 1788639435,
+    "username": "beeemw",
+    "wallet": "0x1e386b0e0f1fc58c67ce738d7bbc4ba7ec74fd47",
+    "slug": "atp-khachan-bonzi-2026-09-04",
+    "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "usd": 39682.009997,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788639435,
+    "fills": 1
   }
 ]
