@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:46:23 (hora de Perú)
+Actualizado: 2026-09-05 13:48:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1850**  ($98,493,433 en total)
-- Resueltas: **1812** — 1075 ganadas / 737 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Resueltas: **1814** — 1076 ganadas / 738 perdidas (**59%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,263,786** sobre $96,348,147 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,778** sobre $178,100 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,267,706** sobre $96,418,667 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,735** sobre $178,300 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 18 | 5 | 1 | 78% | $2,588,637 | +$2,152,686 |
+| sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
 | 0b1 | 42 | 5 | 1 | 89% | $1,792,359 | +$105,752 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
@@ -89,10 +89,10 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
-| afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | — | ⏳ Pendiente |
+| afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
-| sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | — | ⏳ Pendiente |
+| sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | +$43,920 | ✅ Ganada |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | -$29,569 | 💰 Vendida antes |
 | retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
