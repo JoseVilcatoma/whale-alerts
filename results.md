@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:10:55 (hora de Perú)
+Actualizado: 2026-09-05 18:12:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1878**  ($99,643,312 en total)
-- Resueltas: **1850** — 1099 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Resueltas: **1851** — 1100 ganadas / 751 perdidas (**59%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 307
 
 ### Balance
 
-- **Resultado de los apostadores: +$628,158** sobre $98,538,277 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,731** sobre $181,900 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$676,958** sobre $98,569,477 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$8,575** sobre $182,000 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | -$42,364 | ❌ Perdida |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | +$16,267 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
-| monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | +$8,091 | ✅ Ganada |
