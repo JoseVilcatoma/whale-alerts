@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:06:59 (hora de Perú)
+Actualizado: 2026-09-05 14:09:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1851**  ($98,519,166 en total)
-- Resueltas: **1818** — 1077 ganadas / 741 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Resueltas: **1819** — 1078 ganadas / 741 perdidas (**59%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,094,334** sobre $96,643,168 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,930** sobre $178,700 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,140,045** sobre $96,796,202 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,901** sobre $178,800 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
-| texaskid | 3 | 6 | 1 | 33% | $503,224 | -$162,893 |
+| texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | — | ⏳ Pendiente |
-| texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | — | ⏳ Pendiente |
+| texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
