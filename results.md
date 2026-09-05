@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:03:00 (hora de Perú)
+Actualizado: 2026-09-04 21:05:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1755**  ($93,766,522 en total)
+- Apuestas registradas: **1756**  ($93,796,456 en total)
 - Resueltas: **1731** — 1027 ganadas / 704 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 299
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0b1 | 37 | 5 | 3 | 88% | $1,624,869 | +$63,041 |
+| 0b1 | 37 | 5 | 4 | 88% | $1,654,803 | +$63,041 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
 | flawfence | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.72 (58¢) | $53,582 | +$38,801 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $26,778 | +$21,909 | ✅ Ganada |
