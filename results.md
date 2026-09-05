@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 19:41:41 (hora de Perú)
+Actualizado: 2026-09-04 19:43:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1749**  ($93,536,968 en total)
+- Apuestas registradas: **1750**  ($93,576,798 en total)
 - Resueltas: **1727** — 1023 ganadas / 704 perdidas (**59%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 298
+- Pendientes: 19
+- Apostadores distintos: 299
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 298 en total)_
+_(mostrando los 40 de mayor monto, de 299 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | — | ⏳ Pendiente |
 | AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | AV23IUa | Will Como 1907 win on 2026-09-04? | Yes | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | +$9,919 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | +$65,600 | ✅ Ganada |
-| BillyGating | US Open WTA (Doubles): Williams/Williams vs Chan/Joint | Chan/Joint | 1.41 (71¢) | $106,496 | — | ⏳ Pendiente |
