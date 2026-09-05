@@ -26275,7 +26275,7 @@
     "side": "BUY",
     "usd": 27000.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788567466,
     "fills": 1
   },
@@ -26834,7 +26834,7 @@
     "side": "BUY",
     "usd": 28999.999999999996,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788610838,
     "fills": 1
   },
@@ -27214,7 +27214,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 3702,
     "timestamp": 1788616566,
     "username": "totoro3miyazaki",
     "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
@@ -27226,6 +27226,21 @@
     "odds_at_bet": 57,
     "status": "pending",
     "ultimo_fill": 1788616566,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3703,
+    "timestamp": 1788616584,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "epl-mac-cov-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Manchester City FC",
+    "side": "BUY",
+    "usd": 30879.6,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788616584,
     "fills": 1
   }
 ]
