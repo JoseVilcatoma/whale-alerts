@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 17:14:45 (hora de Perú)
+Actualizado: 2026-09-05 17:16:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1869**  ($99,282,633 en total)
-- Resueltas: **1848** — 1097 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 17
+- Resueltas: **1850** — 1099 ganadas / 751 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 307
 
 ### Balance
 
-- **Resultado de los apostadores: +$609,803** sobre $98,469,226 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,784** sobre $181,700 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$628,158** sobre $98,538,277 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,731** sobre $181,900 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 150 | 92 | 3 | 62% | $16,567,174 | +$569,367 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 151 | 92 | 2 | 62% | $16,567,174 | +$578,792 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 47 | 36 | 2 | 57% | $4,580,311 | -$64,025 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
-| Jsram | 8 | 1 | 1 | 89% | $466,512 | +$163,235 |
+| Jsram | 9 | 1 | 0 | 90% | $466,512 | +$172,165 |
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
@@ -72,13 +72,13 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | — | ⏳ Pendiente |
-| Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | — | ⏳ Pendiente |
+| Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | +$6,460 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | +$9,425 | ✅ Ganada |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | +$54,981 | ✅ Ganada |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
