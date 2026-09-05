@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 22:50:26 (hora de Perú)
+Actualizado: 2026-09-04 22:52:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1761**  ($94,044,275 en total)
-- Resueltas: **1746** — 1035 ganadas / 711 perdidas (**59%** de acierto)
-- Pendientes: 11
+- Resueltas: **1747** — 1036 ganadas / 711 perdidas (**59%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,103,631** sobre $93,467,646 apostados (ROI **+1.2%**)
+- **Resultado de los apostadores: +$1,105,906** sobre $93,507,236 apostados (ROI **+1.2%**)
 - Copiando $100 fijo en cada una: **-$8,785** sobre $171,800 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | — | ⏳ Pendiente |
+| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | — | ⏳ Pendiente |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
