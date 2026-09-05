@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:05:58 (hora de Perú)
+Actualizado: 2026-09-05 11:08:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1826**  ($96,883,946 en total)
+- Apuestas registradas: **1827**  ($96,948,363 en total)
 - Resueltas: **1774** — 1052 ganadas / 722 perdidas (**59%** de acierto)
-- Pendientes: 48
-- Apostadores distintos: 303
+- Pendientes: 49
+- Apostadores distintos: 304
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 303 en total)_
+_(mostrando los 40 de mayor monto, de 304 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 303 en total)_
 | gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | — | ⏳ Pendiente |
 | gransaaa | Will Villarreal CF win on 2026-09-05? | Yes | 1.54 (65¢) | $25,918 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
-| gransaaa | Will Aston Villa FC win on 2026-09-05? | Yes | 1.92 (52¢) | $25,802 | — | ⏳ Pendiente |
