@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:05:06 (hora de Perú)
+Actualizado: 2026-09-04 21:07:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1756**  ($93,796,456 en total)
-- Resueltas: **1731** — 1027 ganadas / 704 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **1732** — 1027 ganadas / 705 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,357,034** sobre $92,697,675 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,302** sobre $170,300 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,330,534** sobre $92,724,175 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,402** sobre $170,400 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 36 | 24 | 2 | 60% | $2,747,707 | +$347,446 |
+| pleaseplease123 | 36 | 25 | 1 | 59% | $2,747,707 | +$320,946 |
 | ripley86alien | 20 | 8 | 0 | 71% | $2,529,460 | +$974,100 |
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | — | ⏳ Pendiente |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | -$48,850 | ❌ Perdida |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | — | ⏳ Pendiente |
-| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | +$51,073 | ✅ Ganada |
 | 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | -$44,813 | ❌ Perdida |
