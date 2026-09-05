@@ -26732,5 +26732,20 @@
     "status": "pending",
     "ultimo_fill": 1788595538,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3662,
+    "timestamp": 1788598507,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-gen-hle1-2026-09-05",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 33721.1843,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788598507,
+    "fills": 1
   }
 ]

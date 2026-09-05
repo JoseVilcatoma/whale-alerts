@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 03:54:37 (hora de Perú)
+Actualizado: 2026-09-05 03:56:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1778**  ($94,718,091 en total)
+- Apuestas registradas: **1779**  ($94,751,812 en total)
 - Resueltas: **1755** — 1043 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 300
 
 ### Balance
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
+| Diabolical-Prize | 5 | 3 | 4 | 62% | $621,755 | -$21,720 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| Diabolical-Prize | 5 | 3 | 3 | 62% | $588,034 | -$21,720 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 6 | 5 | 3 | 55% | $568,195 | -$34,113 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | AnonymousUsername | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $33,098 | +$7,265 | ✅ Ganada |
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.72 (58¢) | $26,906 | +$19,483 | ✅ Ganada |
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | +$4,622 | ✅ Ganada |
-| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | +$22,853 | ✅ Ganada |
