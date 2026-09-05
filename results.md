@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 22:46:18 (hora de Perú)
+Actualizado: 2026-09-04 22:48:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1761**  ($94,044,275 en total)
-- Resueltas: **1742** — 1031 ganadas / 711 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1746** — 1035 ganadas / 711 perdidas (**59%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,076,874** sobre $93,302,741 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,843** sobre $171,400 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,103,631** sobre $93,467,646 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,785** sobre $171,800 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
-| 0b1 | 38 | 5 | 4 | 88% | $1,753,295 | +$66,873 |
+| 0b1 | 41 | 5 | 1 | 89% | $1,753,295 | +$81,129 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
@@ -76,21 +76,21 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
-| 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
+| 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
-| 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | — | ⏳ Pendiente |
+| 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | +$2,107 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
 | jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | — | ⏳ Pendiente |
 | AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
-| 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | — | ⏳ Pendiente |
+| 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | +$9,896 | ✅ Ganada |
 | 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | +$5,596 | ✅ Ganada |
 | Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | -$51,825 | ❌ Perdida |
 | afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | +$5,341 | ✅ Ganada |
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | +$11,245 | ✅ Ganada |
-| Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | — | ⏳ Pendiente |
+| Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | +$12,500 | ✅ Ganada |
 | Painfulvoid | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.56 (64¢) | $30,661 | +$17,247 | ✅ Ganada |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | -$58,300 | ❌ Perdida |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | -$146,086 | ❌ Perdida |
