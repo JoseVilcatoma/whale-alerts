@@ -26807,5 +26807,20 @@
     "status": "pending",
     "ultimo_fill": 1788606032,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3670,
+    "timestamp": 1788610712,
+    "username": "JaJa888",
+    "wallet": "0xf2f23d470f2ede0a31a71326b310e8113ce40550",
+    "slug": "lol-nip-jdg-2026-09-05",
+    "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "usd": 27312.285,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1788610712,
+    "fills": 1
   }
 ]
