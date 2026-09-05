@@ -26597,5 +26597,20 @@
     "status": "pending",
     "ultimo_fill": 1788583970,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3649,
+    "timestamp": 1788584403,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "epl-not-tot-2026-09-05-total-2pt5",
+    "title": "Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 53485.439999999995,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788584403,
+    "fills": 1
   }
 ]
