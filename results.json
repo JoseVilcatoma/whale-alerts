@@ -26594,7 +26594,7 @@
     "side": "BUY",
     "usd": 25917.567000000003,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788583970,
     "fills": 1
   },
@@ -28053,6 +28053,21 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1788641912,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3834,
+    "timestamp": 1788643039,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-far-axe-2026-09-05",
+    "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
+    "outcome": "Far\u00e9s Ziam",
+    "side": "BUY",
+    "usd": 59000.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788643039,
     "fills": 1
   }
 ]
