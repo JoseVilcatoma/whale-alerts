@@ -27167,5 +27167,35 @@
     "status": "pending",
     "ultimo_fill": 1788615887,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3699,
+    "timestamp": 1788616175,
+    "username": "HBAFlover98",
+    "wallet": "0xac4773707daddd3792efed5a91f5ec7651a7d234",
+    "slug": "epl-mac-cov-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Manchester City FC",
+    "side": "BUY",
+    "usd": 27449.5,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788616175,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3700,
+    "timestamp": 1788616175,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "ufc-mor-fel10-2026-09-05",
+    "title": "UFC Fight Night: Morgan Charri\u00e8re vs. Felipe Lima (Featherweight, Main Card)",
+    "outcome": "Felipe Lima",
+    "side": "BUY",
+    "usd": 32549.5764,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1788616175,
+    "fills": 1
   }
 ]

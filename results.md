@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 08:47:50 (hora de Perú)
+Actualizado: 2026-09-05 08:49:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1807**  ($96,004,560 en total)
+- Apuestas registradas: **1809**  ($96,064,559 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 41
+- Pendientes: 43
 - Apostadores distintos: 302
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 2 | 62% | $16,279,418 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 44 | 32 | 8 | 58% | $4,547,762 | +$35,199 |
+| AV23IUa | 44 | 32 | 9 | 58% | $4,580,311 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | — | ⏳ Pendiente |
+| AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | — | ⏳ Pendiente |
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | +$2,107 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
 | jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | +$2,542 | ✅ Ganada |
-| AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
-| bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
