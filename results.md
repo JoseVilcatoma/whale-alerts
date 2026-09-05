@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 12:25:50 (hora de Perú)
+Actualizado: 2026-09-05 12:27:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1837**  ($97,242,808 en total)
+- Apuestas registradas: **1838**  ($97,274,008 en total)
 - Resueltas: **1799** — 1068 ganadas / 731 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 306
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | +$30,300 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | +$40,300 | ✅ Ganada |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | -$33,721 | ❌ Perdida |
-| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | -$29,184 | ❌ Perdida |
