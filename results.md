@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:21:46 (hora de Perú)
+Actualizado: 2026-09-05 14:23:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1854**  ($98,605,358 en total)
-- Resueltas: **1819** — 1078 ganadas / 741 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Resueltas: **1825** — 1080 ganadas / 745 perdidas (**59%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,140,045** sobre $96,796,202 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,901** sobre $178,800 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,052,787** sobre $97,014,485 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,200** sobre $179,400 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 5 | 62% | $16,397,928 | +$505,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 147 | 91 | 4 | 62% | $16,397,928 | +$533,745 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 45 | 35 | 5 | 56% | $4,580,311 | -$66,135 |
+| AV23IUa | 45 | 36 | 4 | 56% | $4,580,311 | -$94,560 |
 | 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -85,21 +85,21 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
-| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
+| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | +$16,267 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
-| ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
-| fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
+| fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | -$26,666 | ❌ Perdida |
 | sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | +$43,920 | ✅ Ganada |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | -$27,696 | ❌ Perdida |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | -$29,569 | 💰 Vendida antes |
-| retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
+| retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | -$50,000 | ❌ Perdida |
 | SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | +$74,908 | ✅ Ganada |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-09-05? | Yes | 2.04 (49¢) | $25,053 | +$26,075 | ✅ Ganada |
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | +$70,775 | ✅ Ganada |
-| AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | — | ⏳ Pendiente |
+| AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | -$28,425 | ❌ Perdida |
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
