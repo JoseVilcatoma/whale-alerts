@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 00:40:50 (hora de Perú)
+Actualizado: 2026-09-05 00:42:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1770**  ($94,393,275 en total)
+- Apuestas registradas: **1772**  ($94,446,925 en total)
 - Resueltas: **1754** — 1042 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 299
+- Pendientes: 14
+- Apostadores distintos: 300
 
 ### Balance
 
@@ -53,11 +53,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 6 | 5 | 3 | 55% | $568,195 | -$34,113 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
+| Diabolical-Prize | 5 | 3 | 1 | 62% | $513,245 | -$21,720 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| Diabolical-Prize | 5 | 3 | 0 | 62% | $485,651 | -$21,720 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 299 en total)_
+_(mostrando los 40 de mayor monto, de 300 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | — | ⏳ Pendiente |
+| kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | — | ⏳ Pendiente |
 | gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | — | ⏳ Pendiente |
 | gransaaa | Will Villarreal CF win on 2026-09-05? | Yes | 1.54 (65¢) | $25,918 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | +$22,737 | ✅ Ganada |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.54 (65¢) | $28,889 | +$15,555 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $30,222 | +$17,749 | ✅ Ganada |
-| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.59 (63¢) | $50,330 | +$29,559 | ✅ Ganada |
-| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | +$16,895 | ✅ Ganada |

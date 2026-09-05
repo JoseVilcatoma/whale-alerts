@@ -26612,5 +26612,35 @@
     "status": "pending",
     "ultimo_fill": 1788584403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3652,
+    "timestamp": 1788586864,
+    "username": "kansann4",
+    "wallet": "0x1225ca13a36b93e0b4c8d58ffef00576c2dae7a0",
+    "slug": "lol-ig1-tes-2026-09-05",
+    "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "usd": 26056.066400000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788586864,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3653,
+    "timestamp": 1788586947,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-ig1-tes-2026-09-05",
+    "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 27593.552631,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1788586947,
+    "fills": 1
   }
 ]
