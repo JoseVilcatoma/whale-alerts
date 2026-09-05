@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:11:33 (hora de Perú)
+Actualizado: 2026-09-05 13:13:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1843**  ($97,681,326 en total)
-- Resueltas: **1805** — 1071 ganadas / 734 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **1845**  ($98,224,803 en total)
+- Resueltas: **1806** — 1071 ganadas / 735 perdidas (**59%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,214,678** sobre $96,016,819 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,687** sobre $177,400 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,188,359** sobre $96,043,138 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,787** sobre $177,500 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 4 | 62% | $16,362,951 | +$505,956 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 5 | 62% | $16,397,928 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 45 | 35 | 5 | 56% | $4,580,311 | -$66,135 |
-| 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
+| 3edmond.dantes | 20 | 8 | 1 | 71% | $4,041,009 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | — | ⏳ Pendiente |
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | — | ⏳ Pendiente |
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
@@ -96,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | — | ⏳ Pendiente |
+| justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | -$26,319 | ❌ Perdida |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | -$31,125 | ❌ Perdida |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | -$42,500 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | -$36,800 | ❌ Perdida |
 | bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
-| totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | +$14,070 | ✅ Ganada |
