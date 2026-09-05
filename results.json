@@ -28069,5 +28069,20 @@
     "status": "pending",
     "ultimo_fill": 1788643039,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3840,
+    "timestamp": 1788644700,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ufc-dan6-salpar-2026-09-05",
+    "title": "UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",
+    "outcome": "Salahdine Parnasse",
+    "side": "BUY",
+    "usd": 33593.098900000005,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1788644700,
+    "fills": 1
   }
 ]
