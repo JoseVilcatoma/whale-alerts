@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:06:55 (hora de Perú)
+Actualizado: 2026-09-05 18:08:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1877**  ($99,611,293 en total)
+- Apuestas registradas: **1878**  ($99,643,312 en total)
 - Resueltas: **1850** — 1099 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 307
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | — | ⏳ Pendiente |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | — | ⏳ Pendiente |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | -$33,791 | ❌ Perdida |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | -$26,319 | ❌ Perdida |
