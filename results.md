@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:41:26 (hora de Perú)
+Actualizado: 2026-09-05 10:43:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1824**  ($96,806,946 en total)
-- Resueltas: **1768** — 1047 ganadas / 721 perdidas (**59%** de acierto)
-- Pendientes: 52
+- Resueltas: **1772** — 1051 ganadas / 721 perdidas (**59%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 302
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,048,901** sobre $94,375,219 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,078** sobre $173,800 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,164,001** sobre $94,641,119 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,906** sobre $174,200 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 2 | 62% | $16,279,418 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 44 | 32 | 9 | 58% | $4,580,311 | +$35,199 |
+| AV23IUa | 45 | 32 | 8 | 58% | $4,580,311 | +$49,699 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ripley86alien | 20 | 10 | 3 | 67% | $2,866,895 | +$867,064 |
+| ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 11 | 5 | 7 | 69% | $2,558,116 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | — | ⏳ Pendiente |
 | Gourmet1 | US Open ATP: Alexander Blockx vs Flavio Cobolli | Alexander Blockx | 2.00 (50¢) | $47,924 | — | ⏳ Pendiente |
-| AV23IUa | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
+| AV23IUa | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | — | ⏳ Pendiente |
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
@@ -113,9 +113,9 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | — | ⏳ Pendiente |
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
-| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
-| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | — | ⏳ Pendiente |
-| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | — | ⏳ Pendiente |
+| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
+| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | +$30,300 | ✅ Ganada |
+| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | +$40,300 | ✅ Ganada |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | -$33,721 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | -$29,184 | ❌ Perdida |
 | Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
