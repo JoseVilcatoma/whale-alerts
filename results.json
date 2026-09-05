@@ -27949,5 +27949,20 @@
     "status": "pending",
     "ultimo_fill": 1788637644,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3816,
+    "timestamp": 1788637817,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-far-axe-2026-09-05",
+    "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
+    "outcome": "Axel Sola",
+    "side": "BUY",
+    "usd": 38206.8053,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1788637817,
+    "fills": 1
   }
 ]
