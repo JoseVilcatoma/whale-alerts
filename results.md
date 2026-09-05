@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 22:58:44 (hora de Perú)
+Actualizado: 2026-09-04 23:00:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1762**  ($94,072,212 en total)
-- Resueltas: **1748** — 1037 ganadas / 711 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Resueltas: **1749** — 1037 ganadas / 712 perdidas (**59%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,131,106** sobre $93,542,036 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,712** sobre $171,900 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,099,477** sobre $93,573,665 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,812** sobre $172,000 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 90 | 3 | 62% | $16,279,418 | +$537,586 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 2 | 62% | $16,279,418 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 53 | 1 | 54% | $4,787,428 | -$157,424 |
 | AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | -$31,630 | ❌ Perdida |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | +$2,107 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
 | jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | — | ⏳ Pendiente |
