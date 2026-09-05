@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:02:12 (hora de Perú)
+Actualizado: 2026-09-05 10:04:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1817**  ($96,411,862 en total)
+- Apuestas registradas: **1818**  ($96,438,181 en total)
 - Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 302
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | — | ⏳ Pendiente |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | — | ⏳ Pendiente |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | +$41,911 | ✅ Ganada |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
-| 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | +$24,623 | ✅ Ganada |
