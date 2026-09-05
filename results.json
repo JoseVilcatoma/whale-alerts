@@ -26502,7 +26502,7 @@
     "side": "BUY",
     "usd": 36612.2468,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788581054,
     "fills": 1
   },
@@ -26684,7 +26684,7 @@
     "side": "BUY",
     "usd": 29199.199999000004,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788592625,
     "fills": 1
   },
@@ -26714,7 +26714,7 @@
     "side": "BUY",
     "usd": 28073.353000000003,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788594330,
     "fills": 1
   },
@@ -26969,7 +26969,7 @@
     "side": "BUY",
     "usd": 31378.254500000006,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788614131,
     "fills": 1
   },
@@ -26999,7 +26999,7 @@
     "side": "BUY",
     "usd": 41000.0,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788614578,
     "fills": 1
   },
@@ -27044,7 +27044,7 @@
     "side": "BUY",
     "usd": 49880.2772,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788615004,
     "fills": 1
   },
@@ -27254,7 +27254,7 @@
     "side": "BUY",
     "usd": 75161.2328,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788616966,
     "fills": 2
   },
@@ -27269,7 +27269,7 @@
     "side": "BUY",
     "usd": 26665.940799999997,
     "odds_at_bet": 82,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788617077,
     "fills": 1
   },
@@ -27511,6 +27511,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1788626036,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3754,
+    "timestamp": 1788626182,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-varilla-clarke-2026-09-05",
+    "title": "Como: Juan Pablo Varillas vs Jay Clarke",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "usd": 28362.217199999996,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788626182,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:34:53 (hora de Perú)
+Actualizado: 2026-09-05 11:36:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1830**  ($97,033,246 en total)
-- Resueltas: **1786** — 1059 ganadas / 727 perdidas (**59%** de acierto)
-- Pendientes: 40
-- Apostadores distintos: 304
+- Apuestas registradas: **1831**  ($97,061,609 en total)
+- Resueltas: **1794** — 1067 ganadas / 727 perdidas (**59%** de acierto)
+- Pendientes: 33
+- Apostadores distintos: 305
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,304,984** sobre $95,235,955 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,747** sobre $175,600 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,448,826** sobre $95,553,925 apostados (ROI **+1.5%**)
+- Copiando $100 fijo en cada una: **-$8,345** sobre $176,400 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 14 | 5 | 5 | 74% | $2,588,637 | +$1,977,144 |
+| sainttroplay | 16 | 5 | 3 | 76% | $2,588,637 | +$2,027,778 |
 | beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
 | 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
-_(mostrando los 40 de mayor monto, de 304 en total)_
+_(mostrando los 40 de mayor monto, de 305 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
 | sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | — | ⏳ Pendiente |
@@ -87,8 +88,8 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | — | ⏳ Pendiente |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
-| Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | — | ⏳ Pendiente |
-| surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | — | ⏳ Pendiente |
+| Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | +$5,853 | ✅ Ganada |
+| surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | +$16,499 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | -$30,880 | ❌ Perdida |
 | totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Crystal Palace FC win on 2026-09-05? | No | 1.39 (72¢) | $25,112 | — | ⏳ Pendiente |
@@ -102,12 +103,12 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
-| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | +$30,572 | ✅ Ganada |
 | Gourmet1 | US Open ATP: Alexander Blockx vs Flavio Cobolli | Alexander Blockx | 2.00 (50¢) | $47,924 | — | ⏳ Pendiente |
 | AV23IUa | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | +$94,688 | ✅ Ganada |
-| sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
-| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
+| sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
+| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | +$20,062 | ✅ Ganada |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | -$34,242 | ❌ Perdida |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | +$34,780 | ✅ Ganada |
@@ -124,10 +125,9 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | +$40,300 | ✅ Ganada |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | -$33,721 | ❌ Perdida |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | -$29,184 | ❌ Perdida |
-| Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
+| Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | +$22,969 | ✅ Ganada |
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | +$32,927 | ✅ Ganada |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | -$34,300 | ❌ Perdida |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | -$40,489 | ❌ Perdida |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | +$36,577 | ✅ Ganada |
-| kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | -$26,056 | ❌ Perdida |
