@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 19:29:35 (hora de Perú)
+Actualizado: 2026-09-04 19:31:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1749**  ($93,536,968 en total)
-- Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **1725** — 1022 ganadas / 703 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 298
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,350,911** sobre $92,334,147 apostados (ROI **+1.5%**)
-- Copiando $100 fijo en cada una: **-$8,345** sobre $169,400 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,308,320** sobre $92,460,464 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,389** sobre $169,700 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,13 +37,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
-| 0b1 | 35 | 4 | 4 | 90% | $1,531,823 | +$91,013 |
+| 0b1 | 35 | 5 | 3 | 88% | $1,531,823 | +$46,200 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Sassy-Bucket | 15 | 11 | 4 | 58% | $1,376,089 | +$179,143 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 7 | 1 | 70% | $916,163 | +$32,140 |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | ferrariChampions2026 | 13 | 7 | 0 | 65% | $694,154 | -$176,769 |
@@ -82,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | Painfulvoid | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.56 (64¢) | $30,661 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | — | ⏳ Pendiente |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | — | ⏳ Pendiente |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | — | ⏳ Pendiente |
+| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | -$48,850 | ❌ Perdida |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | — | ⏳ Pendiente |
-| 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | — | ⏳ Pendiente |
-| 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | — | ⏳ Pendiente |
+| 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | +$51,073 | ✅ Ganada |
+| 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | -$44,813 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | +$11,920 | ✅ Ganada |
 | 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | — | ⏳ Pendiente |
