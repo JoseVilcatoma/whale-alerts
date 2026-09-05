@@ -26278,5 +26278,20 @@
     "status": "pending",
     "ultimo_fill": 1788567466,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3597,
+    "timestamp": 1788567786,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "lal-bil-mad-2026-09-05-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25388.126399999997,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1788567786,
+    "fills": 1
   }
 ]

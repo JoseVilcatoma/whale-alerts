@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 19:21:09 (hora de Perú)
+Actualizado: 2026-09-04 19:23:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1748**  ($93,511,580 en total)
+- Apuestas registradas: **1749**  ($93,536,968 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 298
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 145 | 90 | 2 | 62% | $16,212,989 | +$512,386 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 52 | 1 | 54% | $4,745,516 | -$131,631 |
-| AV23IUa | 44 | 32 | 0 | 58% | $4,264,363 | +$35,199 |
+| AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 24 | 2 | 60% | $2,747,707 | +$347,446 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.37 (73¢) | $26,818 | +$9,919 | ✅ Ganada |
 | AV23IUa | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | Team Falcons | 1.69 (59¢) | $94,400 | +$65,600 | ✅ Ganada |
 | BillyGating | US Open WTA (Doubles): Williams/Williams vs Chan/Joint | Chan/Joint | 1.41 (71¢) | $106,496 | — | ⏳ Pendiente |
-| sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | -$30,046 | ❌ Perdida |
