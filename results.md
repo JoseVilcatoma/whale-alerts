@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 08:15:03 (hora de Perú)
+Actualizado: 2026-09-05 08:17:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1793**  ($95,438,238 en total)
+- Apuestas registradas: **1794**  ($95,469,616 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 302
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
+| sainttroplay | 11 | 5 | 1 | 69% | $2,229,012 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | — | ⏳ Pendiente |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | -$26,309 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | +$48,831 | ✅ Ganada |
-| 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | +$51,073 | ✅ Ganada |
