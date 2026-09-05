@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 05:59:25 (hora de Perú)
+Actualizado: 2026-09-05 06:01:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1782**  ($94,982,212 en total)
+- Apuestas registradas: **1783**  ($95,024,037 en total)
 - Resueltas: **1756** — 1043 ganadas / 713 perdidas (**59%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 300
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | sbsigner | Will Liverpool FC win on 2026-09-04? | No | 2.56 (39¢) | $37,475 | -$37,475 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $139,656 | +$30,656 | ✅ Ganada |
 | 0b1 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $45,105 | +$3,395 | ✅ Ganada |
-| sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | -$76,000 | ❌ Perdida |
