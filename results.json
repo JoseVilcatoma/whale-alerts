@@ -27904,5 +27904,20 @@
     "status": "pending",
     "ultimo_fill": 1788636533,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3813,
+    "timestamp": 1788636979,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-tre6-kur2-2026-09-05",
+    "title": "UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims)",
+    "outcome": "Kurtis Campbell",
+    "side": "BUY",
+    "usd": 95987.7765,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1788636979,
+    "fills": 1
   }
 ]
