@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 06:58:49 (hora de Perú)
+Actualizado: 2026-09-05 07:00:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1783**  ($95,024,037 en total)
-- Resueltas: **1756** — 1043 ganadas / 713 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **1758** — 1044 ganadas / 714 perdidas (**59%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 300
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,204,453** sobre $93,931,512 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,659** sobre $172,600 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,214,975** sobre $93,985,161 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,626** sobre $172,800 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
-| Diabolical-Prize | 5 | 4 | 3 | 56% | $621,755 | -$56,020 |
+| Diabolical-Prize | 6 | 4 | 2 | 60% | $621,755 | -$19,443 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 6 | 5 | 3 | 55% | $568,195 | -$34,113 |
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | -$34,300 | ❌ Perdida |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | — | ⏳ Pendiente |
-| kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | +$36,577 | ✅ Ganada |
+| kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | -$26,056 | ❌ Perdida |
 | gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | — | ⏳ Pendiente |
 | gransaaa | Will Villarreal CF win on 2026-09-05? | Yes | 1.54 (65¢) | $25,918 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
