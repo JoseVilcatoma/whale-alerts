@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:27:11 (hora de Perú)
+Actualizado: 2026-09-05 18:29:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1879**  ($99,683,312 en total)
-- Resueltas: **1851** — 1100 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Resueltas: **1852** — 1101 ganadas / 751 perdidas (**59%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 307
 
 ### Balance
 
-- **Resultado de los apostadores: +$676,958** sobre $98,569,477 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$8,575** sobre $182,000 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$687,183** sobre $98,672,860 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$8,565** sobre $182,100 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 37 | 25 | 3 | 60% | $2,854,828 | +$369,777 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 2 | 65% | $2,079,892 | +$155,864 |
-| 0b1 | 44 | 5 | 1 | 90% | $1,948,382 | +$114,949 |
+| 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | wr0ngw4yb3tt0r | 12 | 13 | 3 | 48% | $1,654,806 | -$673,142 |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | +$6,460 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | +$9,425 | ✅ Ganada |
-| 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | — | ⏳ Pendiente |
+| 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | +$10,225 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | +$54,981 | ✅ Ganada |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | +$3,360 | ✅ Ganada |
