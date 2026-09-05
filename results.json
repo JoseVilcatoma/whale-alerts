@@ -27616,7 +27616,7 @@
     "side": "BUY",
     "usd": 26020.399998999997,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788628271,
     "fills": 1
   },
@@ -27769,5 +27769,20 @@
     "status": "pending",
     "ultimo_fill": 1788632177,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3789,
+    "timestamp": 1788632910,
+    "username": "EV-Andars",
+    "wallet": "0xae7ffba3fd102de1a4f795853ad3de06ad666f49",
+    "slug": "bra-bra-bah-2026-09-05-bra",
+    "title": "Will Red Bull Bragantino win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 28793.38,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788632910,
+    "fills": 1
   }
 ]

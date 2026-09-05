@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:27:57 (hora de Perú)
+Actualizado: 2026-09-05 13:29:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1847**  ($98,395,815 en total)
-- Resueltas: **1811** — 1075 ganadas / 736 perdidas (**59%** de acierto)
+- Apuestas registradas: **1848**  ($98,424,609 en total)
+- Resueltas: **1812** — 1075 ganadas / 737 perdidas (**59%** de acierto)
 - Pendientes: 32
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,289,806** sobre $96,322,126 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,678** sobre $178,000 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,263,786** sobre $96,348,147 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,778** sobre $178,100 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | — | ⏳ Pendiente |
 | hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
-| Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | — | ⏳ Pendiente |
+| Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | +$34,780 | ✅ Ganada |
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | +$3,230 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | -$34,279 | ❌ Perdida |
-| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
