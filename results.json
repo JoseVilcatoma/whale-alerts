@@ -26702,5 +26702,20 @@
     "status": "pending",
     "ultimo_fill": 1788593066,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 3659,
+    "timestamp": 1788594330,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-mac-cov-2026-09-05-spread-home-2pt5",
+    "title": "Spread: Manchester City FC (-2.5)",
+    "outcome": "Coventry City FC",
+    "side": "BUY",
+    "usd": 28073.353000000003,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788594330,
+    "fills": 1
   }
 ]
