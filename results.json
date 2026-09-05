@@ -27404,7 +27404,7 @@
     "side": "BUY",
     "usd": 25052.7963,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788621780,
     "fills": 1
   },
@@ -27813,6 +27813,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1788633977,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3799,
+    "timestamp": 1788634685,
+    "username": "Elenes",
+    "wallet": "0x29b15e8557b2cb5b5ba1ec8b5cbba479ee26f737",
+    "slug": "lal-vil-dep-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Villarreal CF (-1.5)",
+    "outcome": "RC Deportivo A Coru\u00f1a",
+    "side": "BUY",
+    "usd": 25732.6292,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788634685,
     "fills": 1
   }
 ]
