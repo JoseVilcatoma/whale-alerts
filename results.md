@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:45:01 (hora de Perú)
+Actualizado: 2026-09-05 14:47:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1857**  ($98,775,730 en total)
+- Apuestas registradas: **1858**  ($98,828,370 en total)
 - Resueltas: **1826** — 1081 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 306
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
-| 0b1 | 42 | 5 | 1 | 89% | $1,792,359 | +$105,752 |
+| 0b1 | 42 | 5 | 2 | 89% | $1,844,999 | +$105,752 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | wr0ngw4yb3tt0r | 12 | 13 | 3 | 48% | $1,654,806 | -$673,142 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | +$30,572 | ✅ Ganada |
-| Gourmet1 | US Open ATP: Alexander Blockx vs Flavio Cobolli | Alexander Blockx | 2.00 (50¢) | $47,924 | — | ⏳ Pendiente |
