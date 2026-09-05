@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:09:29 (hora de Perú)
+Actualizado: 2026-09-05 13:11:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1842**  ($97,492,591 en total)
-- Resueltas: **1804** — 1071 ganadas / 733 perdidas (**59%** de acierto)
+- Apuestas registradas: **1843**  ($97,681,326 en total)
+- Resueltas: **1805** — 1071 ganadas / 734 perdidas (**59%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,261,680** sobre $95,969,817 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,587** sobre $177,300 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$1,214,678** sobre $96,016,819 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,687** sobre $177,400 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 4 | 62% | $16,362,951 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 45 | 34 | 6 | 57% | $4,580,311 | -$19,132 |
+| AV23IUa | 45 | 35 | 5 | 56% | $4,580,311 | -$66,135 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
-| WTSA | 6 | 7 | 1 | 46% | $795,892 | -$2,145 |
+| WTSA | 6 | 7 | 1 | 46% | $831,592 | -$2,145 |
 | ferrariChampions2026 | 14 | 7 | 1 | 67% | $756,769 | -$174,493 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | Diabolical-Prize | 6 | 6 | 1 | 50% | $648,755 | -$93,653 |
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
+| texaskid | 3 | 6 | 1 | 33% | $503,224 | -$162,893 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
-| 11vsldfdsgfkjgos | 8 | 1 | 0 | 89% | $421,835 | +$123,853 |
 
 _(mostrando los 40 de mayor monto, de 306 en total)_
 
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $89,250 | — | ⏳ Pendiente |
+| texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | — | ⏳ Pendiente |
+| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | +$14,070 | ✅ Ganada |
-| kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |

@@ -26547,7 +26547,7 @@
     "side": "BUY",
     "usd": 47002.4866,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788582004,
     "fills": 1
   },
@@ -27689,10 +27689,25 @@
     "title": "Will Red Bull Bragantino win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 89250.0,
+    "usd": 124950.0,
     "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1788631716,
-    "fills": 2
+    "ultimo_fill": 1788631835,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 3778,
+    "timestamp": 1788631881,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "ufc-rya1-mar86-2026-09-05",
+    "title": "UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims)",
+    "outcome": "Mario Pinto",
+    "side": "BUY",
+    "usd": 153034.5971,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1788631881,
+    "fills": 1
   }
 ]
