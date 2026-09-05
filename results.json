@@ -27961,7 +27961,7 @@
     "side": "BUY",
     "usd": 38206.8053,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788637817,
     "fills": 1
   },
@@ -28066,7 +28066,7 @@
     "side": "BUY",
     "usd": 59000.0,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788643039,
     "fills": 1
   },
@@ -28083,6 +28083,21 @@
     "odds_at_bet": 79,
     "status": "pending",
     "ultimo_fill": 1788644700,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3843,
+    "timestamp": 1788644891,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "arg-slo-tal-2026-09-05-tal",
+    "title": "Will CA Talleres win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26640.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1788644891,
     "fills": 1
   }
 ]

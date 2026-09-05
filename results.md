@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 16:46:26 (hora de Perú)
+Actualizado: 2026-09-05 16:48:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1868**  ($99,255,993 en total)
-- Resueltas: **1842** — 1092 ganadas / 750 perdidas (**59%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 306
+- Apuestas registradas: **1869**  ($99,282,633 en total)
+- Resueltas: **1844** — 1093 ganadas / 751 perdidas (**59%** de acierto)
+- Pendientes: 21
+- Apostadores distintos: 307
 
 ### Balance
 
-- **Resultado de los apostadores: +$562,075** sobre $98,212,306 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,976** sobre $181,100 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$558,056** sobre $98,309,513 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,933** sobre $181,300 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 3 | 48% | $1,654,806 | -$673,142 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Sassy-Bucket | 15 | 15 | 1 | 50% | $1,435,089 | -$103,377 |
+| Sassy-Bucket | 15 | 16 | 0 | 48% | $1,435,089 | -$162,377 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
@@ -65,21 +65,22 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
-_(mostrando los 40 de mayor monto, de 306 en total)_
+_(mostrando los 40 de mayor monto, de 307 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | — | ⏳ Pendiente |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | — | ⏳ Pendiente |
-| Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | — | ⏳ Pendiente |
+| Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | +$54,981 | ✅ Ganada |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | +$28,672 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | -$30,880 | ❌ Perdida |
 | totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | AnonymousUsername | Will Crystal Palace FC win on 2026-09-05? | No | 1.39 (72¢) | $25,112 | -$25,112 | ❌ Perdida |
-| HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | -$27,450 | ❌ Perdida |
