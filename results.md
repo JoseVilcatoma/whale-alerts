@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 08:04:26 (hora de Perú)
+Actualizado: 2026-09-05 08:06:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1792**  ($95,398,058 en total)
+- Apuestas registradas: **1793**  ($95,438,238 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 302
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | — | ⏳ Pendiente |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | — | ⏳ Pendiente |
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | +$48,831 | ✅ Ganada |
 | 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | +$51,073 | ✅ Ganada |
-| 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | -$44,813 | ❌ Perdida |
