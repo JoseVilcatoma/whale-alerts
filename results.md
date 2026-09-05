@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 02:16:56 (hora de Perú)
+Actualizado: 2026-09-05 02:19:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1774**  ($94,521,714 en total)
+- Apuestas registradas: **1775**  ($94,550,913 en total)
 - Resueltas: **1755** — 1043 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 300
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports - Game 2 Winner | Invictus Gaming | 2.04 (49¢) | $34,300 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | +$16,531 | ✅ Ganada |
 | Rusik7 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.49 (67¢) | $40,624 | +$20,009 | ✅ Ganada |
 | BrotherObama | US Open ATP: Tomas Etcheverry vs Mariano Navone | Mariano Navone | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
-| beachboy4 | US Open ATP: Daniil Medvedev vs Arthur Rinderknech | Daniil Medvedev | 1.35 (74¢) | $64,714 | +$22,737 | ✅ Ganada |
