@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 23:46:40 (hora de Perú)
+Actualizado: 2026-09-04 23:48:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1767**  ($94,267,115 en total)
+- Apuestas registradas: **1768**  ($94,313,872 en total)
 - Resueltas: **1751** — 1039 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | — | ⏳ Pendiente |
 | gransaaa | Will Aston Villa FC win on 2026-09-05? | Yes | 1.92 (52¢) | $25,802 | — | ⏳ Pendiente |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes | 1.72 (58¢) | $47,002 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $224,463 | +$16,895 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $63,378 | +$38,844 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
-| 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | +$7,680 | ✅ Ganada |
