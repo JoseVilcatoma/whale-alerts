@@ -26912,5 +26912,20 @@
     "status": "pending",
     "ultimo_fill": 1788612919,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3681,
+    "timestamp": 1788613178,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-not-tot-2026-09-05-tot",
+    "title": "Will Tottenham Hotspur FC win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 34241.824799999995,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1788613178,
+    "fills": 1
   }
 ]
