@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:14:32 (hora de Perú)
+Actualizado: 2026-09-05 10:16:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1820**  ($96,517,681 en total)
+- Apuestas registradas: **1821**  ($96,551,472 en total)
 - Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 302
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | AV23IUa | Will Brighton & Hove Albion FC win on 2026-09-05? | Yes | 2.04 (49¢) | $43,443 | — | ⏳ Pendiente |
 | suntori | Will Manchester City FC win on 2026-09-05? | Yes | 1.16 (86¢) | $36,612 | — | ⏳ Pendiente |
 | 0xDigitalOil | Will ACF Fiorentina win on 2026-09-05? | Yes | 1.96 (51¢) | $27,936 | — | ⏳ Pendiente |
-| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |

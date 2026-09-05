@@ -27362,5 +27362,20 @@
     "status": "pending",
     "ultimo_fill": 1788621145,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3714,
+    "timestamp": 1788621330,
+    "username": "CongoleseBorat",
+    "wallet": "0x6f0ebea3c2e777699519ee128faaa07a9d0b2ee5",
+    "slug": "sea-int-nap-2026-09-05-total-2pt5",
+    "title": "FC Internazionale Milano vs. SSC Napoli: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 33791.04,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788621330,
+    "fills": 1
   }
 ]
