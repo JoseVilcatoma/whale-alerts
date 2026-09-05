@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 19:04:20 (hora de Perú)
+Actualizado: 2026-09-04 19:06:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1745**  ($93,391,589 en total)
+- Apuestas registradas: **1746**  ($93,432,624 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 298
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 0b1 | 35 | 4 | 2 | 90% | $1,438,832 | +$91,013 |
+| 0b1 | 35 | 4 | 3 | 90% | $1,479,866 | +$91,013 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | Sassy-Bucket | 15 | 11 | 4 | 58% | $1,376,089 | +$179,143 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | — | ⏳ Pendiente |
 | Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | sulumos | LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner | LGD Gaming | 2.63 (38¢) | $30,046 | -$30,046 | ❌ Perdida |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | +$7,797 | ✅ Ganada |
-| Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
