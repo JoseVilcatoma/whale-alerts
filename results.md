@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 23:23:42 (hora de Perú)
+Actualizado: 2026-09-04 23:25:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1766**  ($94,241,314 en total)
+- Apuestas registradas: **1767**  ($94,267,115 en total)
 - Resueltas: **1749** — 1037 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 299
 
 ### Balance
@@ -55,11 +55,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
+| gransaaa | 6 | 5 | 1 | 55% | $488,792 | -$34,113 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | Diabolical-Prize | 5 | 3 | 0 | 62% | $485,651 | -$21,720 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
-| gransaaa | 6 | 5 | 0 | 55% | $462,990 | -$34,113 |
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 | tennischamp | 11 | 1 | 0 | 92% | $435,232 | +$116,536 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will Aston Villa FC win on 2026-09-05? | Yes | 1.92 (52¢) | $25,802 | — | ⏳ Pendiente |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes | 1.72 (58¢) | $47,002 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
 | AV23IUa | Will Brighton & Hove Albion FC win on 2026-09-05? | Yes | 2.04 (49¢) | $43,443 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $63,378 | +$38,844 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
 | 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | +$7,680 | ✅ Ganada |
-| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | +$40,046 | ✅ Ganada |
