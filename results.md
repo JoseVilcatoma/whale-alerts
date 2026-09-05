@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 05:18:16 (hora de Perú)
+Actualizado: 2026-09-05 05:20:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1781**  ($94,912,212 en total)
+- Apuestas registradas: **1782**  ($94,982,212 en total)
 - Resueltas: **1756** — 1043 ganadas / 713 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 300
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 44 | 32 | 3 | 58% | $4,380,197 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| ripley86alien | 20 | 8 | 3 | 71% | $2,759,860 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| ripley86alien | 20 | 8 | 2 | 71% | $2,689,860 | +$974,100 |
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | — | ⏳ Pendiente |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 1.64 (61¢) | $33,721 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $139,656 | +$30,656 | ✅ Ganada |
 | 0b1 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $45,105 | +$3,395 | ✅ Ganada |
 | sainttroplay | Will Liverpool FC win on 2026-09-04? | No | 2.63 (38¢) | $76,000 | -$76,000 | ❌ Perdida |
-| AnonymousUsername | Will Ipswich Town FC win on 2026-09-04? | No | 1.22 (82¢) | $33,098 | +$7,265 | ✅ Ganada |
