@@ -26505,5 +26505,35 @@
     "status": "pending",
     "ultimo_fill": 1788581054,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3640,
+    "timestamp": 1788581244,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "epl-bri-lee-2026-09-05-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 43443.32313700001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788581244,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3641,
+    "timestamp": 1788581245,
+    "username": "0x076d\u20268d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "epl-bri-lee-2026-09-05-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 42044.3133,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788581245,
+    "fills": 1
   }
 ]

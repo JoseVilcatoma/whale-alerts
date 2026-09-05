@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 23:07:03 (hora de Perú)
+Actualizado: 2026-09-04 23:09:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1763**  ($94,108,824 en total)
+- Apuestas registradas: **1765**  ($94,194,311 en total)
 - Resueltas: **1749** — 1037 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 299
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 2 | 62% | $16,279,418 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 53 | 1 | 54% | $4,787,428 | -$157,424 |
-| AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
+| AV23IUa | 44 | 32 | 2 | 58% | $4,333,195 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 36 | 25 | 1 | 59% | $2,747,707 | +$320,946 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
+| AV23IUa | Will Brighton & Hove Albion FC win on 2026-09-05? | Yes | 2.04 (49¢) | $43,443 | — | ⏳ Pendiente |
 | suntori | Will Manchester City FC win on 2026-09-05? | Yes | 1.16 (86¢) | $36,612 | — | ⏳ Pendiente |
 | 0xDigitalOil | Will ACF Fiorentina win on 2026-09-05? | Yes | 1.96 (51¢) | $27,936 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | +$7,680 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | +$40,046 | ✅ Ganada |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | -$29,747 | ❌ Perdida |
-| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | +$22,732 | ✅ Ganada |
-| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $29,434 | +$18,818 | ✅ Ganada |
