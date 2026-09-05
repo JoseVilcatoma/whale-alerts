@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:32:49 (hora de Perú)
+Actualizado: 2026-09-05 11:34:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1829**  ($97,006,580 en total)
-- Resueltas: **1781** — 1056 ganadas / 725 perdidas (**59%** de acierto)
-- Pendientes: 44
+- Apuestas registradas: **1830**  ($97,033,246 en total)
+- Resueltas: **1786** — 1059 ganadas / 727 perdidas (**59%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 304
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,146,184** sobre $95,032,872 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,997** sobre $175,100 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,304,984** sobre $95,235,955 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,747** sobre $175,600 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 11 | 5 | 8 | 69% | $2,588,637 | +$1,760,015 |
+| sainttroplay | 14 | 5 | 5 | 74% | $2,588,637 | +$1,977,144 |
 | beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
 | sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | — | ⏳ Pendiente |
@@ -88,15 +89,15 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | — | ⏳ Pendiente |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | -$30,880 | ❌ Perdida |
 | totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | AnonymousUsername | Will Crystal Palace FC win on 2026-09-05? | No | 1.39 (72¢) | $25,112 | — | ⏳ Pendiente |
-| HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | — | ⏳ Pendiente |
+| HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | -$27,450 | ❌ Perdida |
 | AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | — | ⏳ Pendiente |
-| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | +$51,667 | ✅ Ganada |
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
-| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | +$70,775 | ✅ Ganada |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | — | ⏳ Pendiente |
 | Gourmet1 | US Open ATP: Alexander Blockx vs Flavio Cobolli | Alexander Blockx | 2.00 (50¢) | $47,924 | — | ⏳ Pendiente |
 | AV23IUa | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.41 (71¢) | $35,500 | +$14,500 | ✅ Ganada |
-| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | +$94,688 | ✅ Ganada |
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.38 (42¢) | $40,489 | -$40,489 | ❌ Perdida |
 | Diabolical-Prize | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Invictus Gaming | 2.33 (43¢) | $27,594 | +$36,577 | ✅ Ganada |
 | kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | -$26,056 | ❌ Perdida |
-| gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | +$57,943 | ✅ Ganada |
