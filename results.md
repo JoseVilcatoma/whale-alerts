@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 12:48:48 (hora de Perú)
+Actualizado: 2026-09-05 12:50:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1839**  ($97,327,950 en total)
-- Resueltas: **1801** — 1069 ganadas / 732 perdidas (**59%** de acierto)
-- Pendientes: 34
+- Apuestas registradas: **1840**  ($97,360,977 en total)
+- Resueltas: **1803** — 1070 ganadas / 733 perdidas (**59%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,257,469** sobre $95,849,725 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,708** sobre $177,100 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,247,610** sobre $95,942,505 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,638** sobre $177,200 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | — | ⏳ Pendiente |
@@ -79,11 +80,11 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | — | ⏳ Pendiente |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | — | ⏳ Pendiente |
-| 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | — | ⏳ Pendiente |
 | sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | — | ⏳ Pendiente |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | — | ⏳ Pendiente |
-| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | — | ⏳ Pendiente |
+| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | -$29,569 | 💰 Vendida antes |
 | retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | +$30,300 | ✅ Ganada |
-| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.45 (69¢) | $89,700 | +$40,300 | ✅ Ganada |
