@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:10:26 (hora de Perú)
+Actualizado: 2026-09-05 10:12:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1819**  ($96,467,681 en total)
+- Apuestas registradas: **1820**  ($96,517,681 en total)
 - Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 302
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 11 | 5 | 5 | 69% | $2,423,645 | +$1,760,015 |
+| sainttroplay | 11 | 5 | 6 | 69% | $2,473,645 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | — | ⏳ Pendiente |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | suntori | Will Manchester City FC win on 2026-09-05? | Yes | 1.16 (86¢) | $36,612 | — | ⏳ Pendiente |
 | 0xDigitalOil | Will ACF Fiorentina win on 2026-09-05? | Yes | 1.96 (51¢) | $27,936 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | +$41,911 | ✅ Ganada |
