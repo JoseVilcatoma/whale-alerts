@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 15:30:45 (hora de Perú)
+Actualizado: 2026-09-05 15:32:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1863**  ($99,075,100 en total)
+- Apuestas registradas: **1864**  ($99,104,150 en total)
 - Resueltas: **1831** — 1086 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 306
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
-| pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
+| pleaseplease123 | 37 | 25 | 1 | 60% | $2,776,757 | +$369,777 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
 | 0b1 | 42 | 5 | 3 | 89% | $1,948,382 | +$105,752 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | — | ⏳ Pendiente |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | +$51,667 | ✅ Ganada |
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
-| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | +$70,775 | ✅ Ganada |
