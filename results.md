@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 16:04:50 (hora de Perú)
+Actualizado: 2026-09-05 16:06:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1866**  ($99,163,400 en total)
-- Resueltas: **1836** — 1087 ganadas / 749 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Resueltas: **1837** — 1088 ganadas / 749 perdidas (**59%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$518,813** sobre $98,037,166 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$9,122** sobre $180,500 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$524,650** sobre $98,076,230 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$9,107** sobre $180,600 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 37 | 25 | 1 | 60% | $2,776,757 | +$369,777 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
-| 0b1 | 42 | 5 | 3 | 89% | $1,948,382 | +$105,752 |
+| 0b1 | 43 | 5 | 2 | 90% | $1,948,382 | +$111,589 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | wr0ngw4yb3tt0r | 12 | 13 | 3 | 48% | $1,654,806 | -$673,142 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | — | ⏳ Pendiente |
+| 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | — | ⏳ Pendiente |
 | EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | -$135,090 | ❌ Perdida |
