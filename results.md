@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:43:48 (hora de Perú)
+Actualizado: 2026-09-04 21:45:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1757**  ($93,835,690 en total)
-- Resueltas: **1739** — 1029 ganadas / 710 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1741** — 1030 ganadas / 711 perdidas (**59%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,082,924** sobre $93,114,171 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,791** sobre $171,100 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,033,375** sobre $93,196,245 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,884** sobre $171,300 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,12 +40,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Sassy-Bucket | 15 | 14 | 1 | 52% | $1,376,089 | -$51,552 |
+| Sassy-Bucket | 15 | 15 | 0 | 50% | $1,376,089 | -$103,377 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 0 | 48% | $808,499 | -$59,877 |
-| ferrariChampions2026 | 13 | 7 | 1 | 65% | $724,403 | -$176,769 |
+| ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
-| ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | +$5,596 | ✅ Ganada |
-| Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | — | ⏳ Pendiente |
+| Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | -$51,825 | ❌ Perdida |
 | afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | +$5,341 | ✅ Ganada |
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | +$11,245 | ✅ Ganada |
 | Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | — | ⏳ Pendiente |
