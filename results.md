@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 22:54:35 (hora de Perú)
+Actualizado: 2026-09-04 22:56:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1761**  ($94,044,275 en total)
-- Resueltas: **1747** — 1036 ganadas / 711 perdidas (**59%** de acierto)
+- Apuestas registradas: **1762**  ($94,072,212 en total)
+- Resueltas: **1748** — 1037 ganadas / 711 perdidas (**59%** de acierto)
 - Pendientes: 10
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,105,906** sobre $93,507,236 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,785** sobre $171,800 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,131,106** sobre $93,542,036 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,712** sobre $171,900 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 145 | 90 | 4 | 62% | $16,279,418 | +$512,386 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 90 | 3 | 62% | $16,279,418 | +$537,586 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 53 | 1 | 54% | $4,787,428 | -$157,424 |
 | AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xDigitalOil | Will ACF Fiorentina win on 2026-09-05? | Yes | 1.96 (51¢) | $27,936 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.15 (87¢) | $39,589 | +$2,275 | 💰 Vendida antes |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | — | ⏳ Pendiente |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | +$2,107 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals | 1.72 (58¢) | $34,800 | +$25,200 | ✅ Ganada |
 | jaytee158 | Fresno State vs. USC | USC | 1.06 (94¢) | $39,829 | — | ⏳ Pendiente |
 | AV23IUa | Will Club Atlético de Madrid win on 2026-09-05? | Yes | 2.38 (42¢) | $25,388 | — | ⏳ Pendiente |
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | +$22,732 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $29,434 | +$18,818 | ✅ Ganada |
 | Gourmet1 | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $33,048 | -$33,048 | ❌ Perdida |
-| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $79,873 | +$48,955 | ✅ Ganada |
