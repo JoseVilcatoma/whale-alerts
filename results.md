@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:29:14 (hora de Perú)
+Actualizado: 2026-09-05 18:31:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1879**  ($99,683,312 en total)
+- Apuestas registradas: **1880**  ($99,723,252 en total)
 - Resueltas: **1852** — 1101 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 307
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | — | ⏳ Pendiente |
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 307 en total)_
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-09-05? | Yes | 2.04 (49¢) | $25,053 | +$26,075 | ✅ Ganada |
 | plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | -$145,950 | ❌ Perdida |
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | -$33,791 | ❌ Perdida |
-| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |

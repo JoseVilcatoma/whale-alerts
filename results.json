@@ -28249,5 +28249,20 @@
     "status": "pending",
     "ultimo_fill": 1788650624,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3863,
+    "timestamp": 1788650997,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "mls-orl-sdg-2026-09-05-orl",
+    "title": "Will Orlando City SC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39939.4269,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788650997,
+    "fills": 1
   }
 ]
