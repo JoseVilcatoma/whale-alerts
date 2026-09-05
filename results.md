@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 08:33:20 (hora de Perú)
+Actualizado: 2026-09-05 08:35:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1803**  ($95,841,099 en total)
+- Apuestas registradas: **1805**  ($95,944,548 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 37
+- Pendientes: 39
 - Apostadores distintos: 302
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 11 | 5 | 3 | 69% | $2,342,017 | +$1,760,015 |
+| sainttroplay | 11 | 5 | 4 | 69% | $2,389,201 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | bbb17367162806 | Will Newcastle United FC win on 2026-09-05? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.19 (84¢) | $51,957 | +$9,896 | ✅ Ganada |
 | 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | +$5,596 | ✅ Ganada |
-| Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | -$51,825 | ❌ Perdida |
-| afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | +$5,341 | ✅ Ganada |
