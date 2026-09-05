@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:23:51 (hora de Perú)
+Actualizado: 2026-09-05 14:25:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1854**  ($98,605,358 en total)
-- Resueltas: **1825** — 1080 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Resueltas: **1826** — 1081 ganadas / 745 perdidas (**59%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,052,787** sobre $97,014,485 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,200** sobre $179,400 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,069,555** sobre $97,047,034 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,148** sobre $179,500 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 147 | 91 | 4 | 62% | $16,397,928 | +$533,745 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 45 | 36 | 4 | 56% | $4,580,311 | -$94,560 |
+| AV23IUa | 46 | 36 | 3 | 56% | $4,580,311 | -$77,792 |
 | 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | AnonymousUsername | Will Crystal Palace FC win on 2026-09-05? | No | 1.39 (72¢) | $25,112 | -$25,112 | ❌ Perdida |
 | HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | -$27,450 | ❌ Perdida |
-| AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | — | ⏳ Pendiente |
+| AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | +$16,768 | ✅ Ganada |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | +$51,667 | ✅ Ganada |
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
