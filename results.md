@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:22:52 (hora de Perú)
+Actualizado: 2026-09-05 10:24:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1822**  ($96,697,422 en total)
+- Apuestas registradas: **1823**  ($96,722,475 en total)
 - Resueltas: **1768** — 1047 ganadas / 721 perdidas (**59%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 302
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| predictionlegend | Will Rayo Vallecano de Madrid win on 2026-09-05? | Yes | 2.04 (49¢) | $25,053 | — | ⏳ Pendiente |
 | plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | — | ⏳ Pendiente |
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes | 1.72 (58¢) | $47,002 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
 | AV23IUa | Will Brighton & Hove Albion FC win on 2026-09-05? | Yes | 2.04 (49¢) | $43,443 | — | ⏳ Pendiente |
-| suntori | Will Manchester City FC win on 2026-09-05? | Yes | 1.16 (86¢) | $36,612 | — | ⏳ Pendiente |
