@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:27:30 (hora de Perú)
+Actualizado: 2026-09-04 21:29:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1757**  ($93,835,690 en total)
-- Resueltas: **1733** — 1027 ganadas / 706 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **1738** — 1028 ganadas / 710 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,304,741** sobre $92,749,968 apostados (ROI **+1.4%**)
-- Copiando $100 fijo en cada una: **-$8,502** sobre $170,500 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,042,878** sobre $93,075,695 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$8,895** sobre $171,000 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,12 +35,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0b1 | 37 | 5 | 4 | 88% | $1,654,803 | +$63,041 |
+| 0b1 | 38 | 5 | 3 | 88% | $1,654,803 | +$66,873 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Sassy-Bucket | 15 | 11 | 4 | 58% | $1,376,089 | +$179,143 |
+| Sassy-Bucket | 15 | 14 | 1 | 52% | $1,376,089 | -$51,552 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 |---|---|---|---|---|---|---|
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
-| 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | — | ⏳ Pendiente |
+| 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Elina Svitolina vs Anna Kalinskaya | Elina Svitolina | 1.39 (72¢) | $31,630 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.06 (94¢) | $33,015 | — | ⏳ Pendiente |
@@ -88,16 +88,16 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | +$11,245 | ✅ Ganada |
 | Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | — | ⏳ Pendiente |
 | Painfulvoid | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.56 (64¢) | $30,661 | +$17,247 | ✅ Ganada |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | — | ⏳ Pendiente |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | — | ⏳ Pendiente |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | -$58,300 | ❌ Perdida |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | -$146,086 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | -$48,850 | ❌ Perdida |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | — | ⏳ Pendiente |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $26,309 | -$26,309 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5 | Over 8.5 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.85 (54¢) | $57,324 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Stefanos Tsitsipas | 2.56 (39¢) | $32,653 | +$51,073 | ✅ Ganada |
 | 0b1 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.59 (63¢) | $44,813 | -$44,813 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-04? | No | 1.09 (92¢) | $137,084 | +$11,920 | ✅ Ganada |
-| 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | — | ⏳ Pendiente |
+| 0xDigitalOil | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.75 (57¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 0xDigitalOil | Atlanta Braves vs. Philadelphia Phillies: O/U 6.5 | Over 6.5 | 1.79 (56¢) | $50,000 | +$39,286 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins | 2.08 (48¢) | $25,793 | -$25,793 | ❌ Perdida |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open WTA: Emma Navarro vs Karolina Muchova | Emma Navarro | 1.72 (58¢) | $36,620 | +$17,047 | 💰 Vendida antes |
