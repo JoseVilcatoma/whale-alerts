@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:55:42 (hora de Perú)
+Actualizado: 2026-09-05 14:57:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1861**  ($98,999,960 en total)
-- Resueltas: **1826** — 1081 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Resueltas: **1827** — 1082 ganadas / 745 perdidas (**59%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,069,555** sobre $97,047,034 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,148** sobre $179,500 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,077,647** sobre $97,079,400 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,123** sobre $179,600 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
 | WTSA | 6 | 7 | 1 | 46% | $831,592 | -$2,145 |
-| ferrariChampions2026 | 14 | 7 | 1 | 67% | $756,769 | -$174,493 |
+| ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | Diabolical-Prize | 6 | 6 | 1 | 50% | $648,755 | -$93,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | +$8,091 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
