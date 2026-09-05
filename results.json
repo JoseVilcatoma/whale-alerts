@@ -26657,5 +26657,20 @@
     "status": "pending",
     "ultimo_fill": 1788590443,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3656,
+    "timestamp": 1788592165,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-ig1-tes-2026-09-05-game2",
+    "title": "LoL: Invictus Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 34300.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788592165,
+    "fills": 1
   }
 ]
