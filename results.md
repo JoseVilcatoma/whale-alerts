@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 15:26:33 (hora de Perú)
+Actualizado: 2026-09-05 15:28:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1863**  ($99,075,100 en total)
-- Resueltas: **1829** — 1084 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **1830** — 1085 ganadas / 745 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,115,530** sobre $97,136,400 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,985** sobre $179,800 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,144,202** sobre $97,232,388 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,955** sobre $179,900 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 147 | 91 | 7 | 62% | $16,567,174 | +$533,745 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 91 | 6 | 62% | $16,567,174 | +$562,416 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 46 | 36 | 3 | 56% | $4,580,311 | -$77,792 |
 | 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | — | ⏳ Pendiente |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | +$28,672 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
