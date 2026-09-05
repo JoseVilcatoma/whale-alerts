@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 09:56:03 (hora de Perú)
+Actualizado: 2026-09-05 09:58:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1815**  ($96,338,238 en total)
+- Apuestas registradas: **1817**  ($96,411,862 en total)
 - Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 47
+- Pendientes: 49
 - Apostadores distintos: 302
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 11 | 5 | 5 | 69% | $2,423,645 | +$1,760,015 |
-| beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
+| beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | — | ⏳ Pendiente |
+| beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
 | Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | +$41,911 | ✅ Ganada |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | +$24,623 | ✅ Ganada |
-| beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | +$14,511 | ✅ Ganada |
-| 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
