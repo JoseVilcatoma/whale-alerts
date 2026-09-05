@@ -27197,5 +27197,35 @@
     "status": "pending",
     "ultimo_fill": 1788616175,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3701,
+    "timestamp": 1788616508,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "epl-ful-cry-2026-09-05-cry",
+    "title": "Will Crystal Palace FC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25112.16,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1788616508,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1788616566,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "epl-ful-cry-2026-09-05-ful",
+    "title": "Will Fulham FC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34200.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788616566,
+    "fills": 1
   }
 ]
