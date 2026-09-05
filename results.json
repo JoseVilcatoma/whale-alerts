@@ -27676,7 +27676,7 @@
     "side": "BUY",
     "usd": 42364.20650000001,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788631499,
     "fills": 1
   },
@@ -27721,7 +27721,7 @@
     "side": "BUY",
     "usd": 508500.0,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788631948,
     "fills": 2
   },
@@ -27736,7 +27736,7 @@
     "side": "BUY",
     "usd": 34977.0624,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788631931,
     "fills": 1
   },
@@ -27751,7 +27751,7 @@
     "side": "BUY",
     "usd": 35922.5569,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788632031,
     "fills": 1
   },
@@ -27766,7 +27766,7 @@
     "side": "BUY",
     "usd": 135089.99999999997,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788632177,
     "fills": 2
   },
@@ -28038,6 +28038,21 @@
     "odds_at_bet": 65,
     "status": "pending",
     "ultimo_fill": 1788641444,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3827,
+    "timestamp": 1788641912,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-bergs-zandsch-2026-09-05",
+    "title": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 29999.999997999996,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788641912,
     "fills": 1
   }
 ]

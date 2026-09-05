@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 15:58:29 (hora de Perú)
+Actualizado: 2026-09-05 16:00:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1865**  ($99,133,400 en total)
-- Resueltas: **1831** — 1086 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **1866**  ($99,163,400 en total)
+- Resueltas: **1836** — 1087 ganadas / 749 perdidas (**59%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,192,126** sobre $97,280,312 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,855** sobre $180,000 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$518,813** sobre $98,037,166 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$9,122** sobre $180,500 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 91 | 6 | 62% | $16,567,174 | +$562,416 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 148 | 92 | 5 | 62% | $16,567,174 | +$527,439 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 46 | 36 | 3 | 56% | $4,580,311 | -$77,792 |
-| 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
+| 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 1 | 60% | $2,776,757 | +$369,777 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | — | ⏳ Pendiente |
@@ -89,13 +90,13 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | — | ⏳ Pendiente |
 | EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | — | ⏳ Pendiente |
-| hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | -$135,090 | ❌ Perdida |
+| hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | +$47,618 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | -$34,977 | ❌ Perdida |
+| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | -$508,500 | ❌ Perdida |
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
-| plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
+| plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | -$42,364 | ❌ Perdida |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | +$16,267 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | -$27,450 | ❌ Perdida |
 | AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | +$16,768 | ✅ Ganada |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | +$51,667 | ✅ Ganada |
-| AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
