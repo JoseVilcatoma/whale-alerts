@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:23:53 (hora de Perú)
+Actualizado: 2026-09-05 13:25:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1847**  ($98,395,815 en total)
-- Resueltas: **1808** — 1073 ganadas / 735 perdidas (**59%** de acierto)
-- Pendientes: 35
+- Resueltas: **1811** — 1075 ganadas / 736 perdidas (**59%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,198,689** sobre $96,153,864 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,767** sobre $177,700 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,289,806** sobre $96,322,126 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,678** sobre $178,000 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 16 | 5 | 3 | 76% | $2,588,637 | +$2,027,778 |
+| sainttroplay | 18 | 5 | 1 | 78% | $2,588,637 | +$2,152,686 |
 | beachboy4 | 20 | 11 | 0 | 65% | $1,994,743 | +$155,864 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -94,11 +94,11 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | -$29,569 | 💰 Vendida antes |
 | retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
-| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | — | ⏳ Pendiente |
+| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | +$74,908 | ✅ Ganada |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-09-05? | Yes | 2.04 (49¢) | $25,053 | — | ⏳ Pendiente |
 | plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | — | ⏳ Pendiente |
-| CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | — | ⏳ Pendiente |
-| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | -$33,791 | ❌ Perdida |
+| sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | -$26,319 | ❌ Perdida |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | -$31,125 | ❌ Perdida |
