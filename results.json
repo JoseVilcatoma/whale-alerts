@@ -28144,5 +28144,20 @@
     "status": "pending",
     "ultimo_fill": 1788647811,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3854,
+    "timestamp": 1788648373,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "wta-osaka-mertens-2026-09-04",
+    "title": "US Open WTA: Naomi Osaka vs Elise Mertens",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "usd": 37381.4207,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1788648373,
+    "fills": 1
   }
 ]
