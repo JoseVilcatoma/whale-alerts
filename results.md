@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 08:29:19 (hora de Perú)
+Actualizado: 2026-09-05 08:31:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1797**  ($95,609,242 en total)
+- Apuestas registradas: **1803**  ($95,841,099 en total)
 - Resueltas: **1762** — 1045 ganadas / 717 perdidas (**59%** de acierto)
-- Pendientes: 31
+- Pendientes: 37
 - Apostadores distintos: 302
 
 ### Balance
@@ -26,12 +26,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 146 | 91 | 2 | 62% | $16,279,418 | +$505,956 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
-| AV23IUa | 44 | 32 | 4 | 58% | $4,415,697 | +$35,199 |
+| AV23IUa | 44 | 32 | 7 | 58% | $4,522,195 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
-| sainttroplay | 11 | 5 | 2 | 69% | $2,292,137 | +$1,760,015 |
+| sainttroplay | 11 | 5 | 3 | 69% | $2,342,017 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | 0b1 | 42 | 5 | 0 | 89% | $1,753,295 | +$105,752 |
@@ -71,6 +71,12 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | — | ⏳ Pendiente |
+| fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.52 (66¢) | $30,553 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 1.79 (56¢) | $47,520 | — | ⏳ Pendiente |
+| sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.61 (62¢) | $49,880 | — | ⏳ Pendiente |
+| Gourmet1 | US Open ATP: Alexander Blockx vs Flavio Cobolli | Alexander Blockx | 2.00 (50¢) | $47,924 | — | ⏳ Pendiente |
 | AV23IUa | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | — | ⏳ Pendiente |
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | 0b1 | US Open ATP: Alex Michelsen vs Daniel Merida Aguilar | Alex Michelsen | 1.14 (88¢) | $41,034 | +$5,596 | ✅ Ganada |
 | Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | -$51,825 | ❌ Perdida |
 | afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | +$5,341 | ✅ Ganada |
-| 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | +$11,245 | ✅ Ganada |
-| Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | +$12,500 | ✅ Ganada |
-| Painfulvoid | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.56 (64¢) | $30,661 | +$17,247 | ✅ Ganada |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.89 (53¢) | $58,300 | -$58,300 | ❌ Perdida |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan | 1.85 (54¢) | $146,086 | -$146,086 | ❌ Perdida |
-| 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas | Jiri Lehecka | 1.61 (62¢) | $48,850 | -$48,850 | ❌ Perdida |
