@@ -27089,7 +27089,7 @@
     "side": "BUY",
     "usd": 27555.28,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788615056,
     "fills": 1
   },
@@ -27314,7 +27314,7 @@
     "side": "BUY",
     "usd": 31124.5028,
     "odds_at_bet": 39,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788620285,
     "fills": 1
   },
@@ -27631,6 +27631,21 @@
     "odds_at_bet": 39,
     "status": "pending",
     "ultimo_fill": 1788629167,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3768,
+    "timestamp": 1788630402,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-mouz-vit-2026-09-05",
+    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 53941.93860000001,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1788630402,
     "fills": 1
   }
 ]
