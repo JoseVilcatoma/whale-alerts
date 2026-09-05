@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:16:37 (hora de Perú)
+Actualizado: 2026-09-05 10:18:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1821**  ($96,551,472 en total)
-- Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 53
+- Apuestas registradas: **1822**  ($96,697,422 en total)
+- Resueltas: **1768** — 1047 ganadas / 721 perdidas (**59%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 302
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,139,801** sobre $94,186,381 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,859** sobre $173,400 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,048,901** sobre $94,375,219 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,078** sobre $173,800 (ROI **-5.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 44 | 32 | 9 | 58% | $4,580,311 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ripley86alien | 20 | 8 | 5 | 71% | $2,866,895 | +$974,100 |
+| ripley86alien | 20 | 10 | 3 | 67% | $2,866,895 | +$867,064 |
 | pleaseplease123 | 37 | 25 | 0 | 60% | $2,747,707 | +$369,777 |
 | sainttroplay | 11 | 5 | 6 | 69% | $2,473,645 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 1 | 67% | $1,994,743 | +$198,364 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | — | ⏳ Pendiente |
 | CongoleseBorat | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $33,791 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
@@ -104,9 +105,9 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | — | ⏳ Pendiente |
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | — | ⏳ Pendiente |
-| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | — | ⏳ Pendiente |
-| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | — | ⏳ Pendiente |
-| bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | — | ⏳ Pendiente |
+| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
+| ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | -$36,800 | ❌ Perdida |
+| bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | — | ⏳ Pendiente |
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
 | AV23IUa | Will Brighton & Hove Albion FC win on 2026-09-05? | Yes | 2.04 (49¢) | $43,443 | — | ⏳ Pendiente |
 | suntori | Will Manchester City FC win on 2026-09-05? | Yes | 1.16 (86¢) | $36,612 | — | ⏳ Pendiente |
-| 0xDigitalOil | Will ACF Fiorentina win on 2026-09-05? | Yes | 1.96 (51¢) | $27,936 | — | ⏳ Pendiente |

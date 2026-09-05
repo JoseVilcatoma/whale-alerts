@@ -26487,7 +26487,7 @@
     "side": "BUY",
     "usd": 27936.326600000004,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788580589,
     "fills": 1
   },
@@ -26849,7 +26849,7 @@
     "side": "BUY",
     "usd": 53866.037500000006,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788612372,
     "fills": 2
   },
@@ -26864,7 +26864,7 @@
     "side": "BUY",
     "usd": 36800.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788612381,
     "fills": 1
   },
@@ -26939,7 +26939,7 @@
     "side": "BUY",
     "usd": 70235.187195,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788612736,
     "fills": 1
   },
@@ -27376,6 +27376,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1788621330,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3715,
+    "timestamp": 1788621428,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-hul-ast-2026-09-05-ast",
+    "title": "Will Aston Villa FC win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 145949.95840000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788621428,
     "fills": 1
   }
 ]
