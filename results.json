@@ -28279,5 +28279,35 @@
     "status": "pending",
     "ultimo_fill": 1788651204,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3865,
+    "timestamp": 1788651375,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-tb-tex-2026-09-05",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 49588.3765,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788651375,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3866,
+    "timestamp": 1788651397,
+    "username": "wigglew",
+    "wallet": "0xc96e5287ab294ac0388c2ddb00180fc464cff1f9",
+    "slug": "bra-flu-vas-2026-09-05-flu",
+    "title": "Will Fluminense FC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43848.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788651397,
+    "fills": 1
   }
 ]
