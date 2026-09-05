@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 11:12:07 (hora de Perú)
+Actualizado: 2026-09-05 11:14:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1827**  ($96,948,363 en total)
+- Apuestas registradas: **1828**  ($96,976,059 en total)
 - Resueltas: **1774** — 1052 ganadas / 722 perdidas (**59%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 304
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | — | ⏳ Pendiente |
 | retordedgremlin125 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 304 en total)_
 | kansann4 | LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs | Top Esports | 1.79 (56¢) | $26,056 | -$26,056 | ❌ Perdida |
 | gransaaa | Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5 | Under 2.5 | 2.08 (48¢) | $53,485 | — | ⏳ Pendiente |
 | gransaaa | Will Villarreal CF win on 2026-09-05? | Yes | 1.54 (65¢) | $25,918 | — | ⏳ Pendiente |
-| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
