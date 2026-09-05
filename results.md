@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:57:46 (hora de Perú)
+Actualizado: 2026-09-05 14:59:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1861**  ($98,999,960 en total)
-- Resueltas: **1827** — 1082 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **1828** — 1083 ganadas / 745 perdidas (**59%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,077,647** sobre $97,079,400 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$9,123** sobre $179,600 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,082,530** sobre $97,109,400 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$9,107** sobre $179,700 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
-| hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
+| hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | — | ⏳ Pendiente |
