@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 00:09:36 (hora de Perú)
+Actualizado: 2026-09-05 00:11:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1770**  ($94,393,275 en total)
-- Resueltas: **1752** — 1040 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1753** — 1041 ganadas / 712 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,150,788** sobre $93,702,162 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,706** sobre $172,200 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,165,299** sobre $93,741,396 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,669** sobre $172,300 (ROI **-5.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | +$41,911 | ✅ Ganada |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
-| beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
+| beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | +$14,511 | ✅ Ganada |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
