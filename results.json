@@ -28339,5 +28339,20 @@
     "status": "pending",
     "ultimo_fill": 1788652379,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3869,
+    "timestamp": 1788652505,
+    "username": "laozishudaosan",
+    "wallet": "0xa08455c829a493054315e40e7817321e8c77bb99",
+    "slug": "mlb-wsh-lad-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "usd": 27249.2,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1788652505,
+    "fills": 1
   }
 ]
