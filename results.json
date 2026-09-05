@@ -27137,5 +27137,20 @@
     "status": "pending",
     "ultimo_fill": 1788615305,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3697,
+    "timestamp": 1788615763,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "ufc-mic32-nur1-2026-09-05",
+    "title": "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)",
+    "outcome": "Michael Page",
+    "side": "BUY",
+    "usd": 25567.288500000002,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788615763,
+    "fills": 1
   }
 ]
