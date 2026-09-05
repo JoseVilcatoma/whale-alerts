@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 12:52:56 (hora de Perú)
+Actualizado: 2026-09-05 12:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1840**  ($97,360,977 en total)
-- Resueltas: **1803** — 1070 ganadas / 733 perdidas (**59%** de acierto)
-- Pendientes: 33
+- Resueltas: **1804** — 1071 ganadas / 733 perdidas (**59%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,247,610** sobre $95,942,505 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,638** sobre $177,200 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,261,680** sobre $95,969,817 apostados (ROI **+1.3%**)
+- Copiando $100 fijo en cada una: **-$8,587** sobre $177,300 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.17 (46¢) | $36,800 | -$36,800 | ❌ Perdida |
 | bbb17367162806 | Will ACF Fiorentina win on 2026-09-05? | No | 1.82 (55¢) | $53,866 | +$44,072 | ✅ Ganada |
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | — | ⏳ Pendiente |
+| JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | +$14,070 | ✅ Ganada |
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
 | ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,700 | +$30,300 | ✅ Ganada |
