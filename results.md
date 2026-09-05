@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 15:01:53 (hora de Perú)
+Actualizado: 2026-09-05 15:04:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1861**  ($98,999,960 en total)
+- Apuestas registradas: **1862**  ($99,035,418 en total)
 - Resueltas: **1828** — 1083 ganadas / 745 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 306
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 147 | 91 | 6 | 62% | $16,531,716 | +$533,745 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 147 | 91 | 7 | 62% | $16,567,174 | +$533,745 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 0 | 54% | $4,787,428 | -$115,513 |
 | AV23IUa | 46 | 36 | 3 | 56% | $4,580,311 | -$77,792 |
 | 3edmond.dantes | 20 | 8 | 2 | 71% | $4,176,099 | +$526,701 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | — | ⏳ Pendiente |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | — | ⏳ Pendiente |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | — | ⏳ Pendiente |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | +$70,775 | ✅ Ganada |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | -$28,425 | ❌ Perdida |
-| fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
