@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:49:36 (hora de Perú)
+Actualizado: 2026-09-05 10:51:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1824**  ($96,806,946 en total)
-- Resueltas: **1773** — 1052 ganadas / 721 perdidas (**59%** de acierto)
+- Apuestas registradas: **1825**  ($96,833,946 en total)
+- Resueltas: **1774** — 1052 ganadas / 722 perdidas (**59%** de acierto)
 - Pendientes: 47
 - Apostadores distintos: 302
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,178,119** sobre $94,681,298 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,871** sobre $174,300 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,121,853** sobre $94,737,564 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,971** sobre $174,400 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
-| SDTrading | 13 | 14 | 1 | 48% | $837,999 | -$59,877 |
+| SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
 | ferrariChampions2026 | 14 | 7 | 0 | 67% | $724,403 | -$174,493 |
 | WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.67 (60¢) | $27,000 | — | ⏳ Pendiente |
 | sainttroplay | FC Internazionale Milano vs. SSC Napoli: O/U 2.5 | Over 2.5 | 1.89 (53¢) | $84,471 | — | ⏳ Pendiente |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 2026-09-05? | Yes | 2.04 (49¢) | $25,053 | — | ⏳ Pendiente |
 | plonker2026 | Will Aston Villa FC win on 2026-09-05? | Yes | 1.89 (53¢) | $145,950 | — | ⏳ Pendiente |
@@ -90,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $34,444 | — | ⏳ Pendiente |
 | AV23IUa | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $25,567 | — | ⏳ Pendiente |
-| crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | — | ⏳ Pendiente |
+| crisp1973 | Will RB Leipzig win on 2026-09-05? | Yes | 1.89 (53¢) | $56,266 | -$56,266 | ❌ Perdida |
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $47,183 | — | ⏳ Pendiente |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $28,425 | — | ⏳ Pendiente |
 | fRibrenlc | Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs | Spirit | 1.61 (62¢) | $27,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
 | gransaaa | Will Aston Villa FC win on 2026-09-05? | Yes | 1.92 (52¢) | $25,802 | — | ⏳ Pendiente |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes | 1.72 (58¢) | $47,002 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
