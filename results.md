@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 10:45:30 (hora de Perú)
+Actualizado: 2026-09-05 10:47:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1824**  ($96,806,946 en total)
-- Resueltas: **1772** — 1051 ganadas / 721 perdidas (**59%** de acierto)
-- Pendientes: 48
+- Resueltas: **1773** — 1052 ganadas / 721 perdidas (**59%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 302
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,164,001** sobre $94,641,119 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,906** sobre $174,200 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$1,178,119** sobre $94,681,298 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,871** sobre $174,300 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | — | ⏳ Pendiente |
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | — | ⏳ Pendiente |
-| 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | — | ⏳ Pendiente |
+| 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | — | ⏳ Pendiente |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | — | ⏳ Pendiente |
 | 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
