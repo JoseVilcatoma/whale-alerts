@@ -27874,5 +27874,35 @@
     "status": "pending",
     "ultimo_fill": 1788635853,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3811,
+    "timestamp": 1788636501,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-khachan-bonzi-2026-09-04",
+    "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "usd": 37800.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788636501,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3812,
+    "timestamp": 1788636533,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-tulane-duke-2026-09-05",
+    "title": "Tulane vs. Duke",
+    "outcome": "Duke",
+    "side": "BUY",
+    "usd": 36583.9942,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788636533,
+    "fills": 1
   }
 ]
