@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 14:17:34 (hora de Perú)
+Actualizado: 2026-09-05 14:19:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1852**  ($98,545,749 en total)
+- Apuestas registradas: **1853**  ($98,575,749 en total)
 - Resueltas: **1819** — 1078 ganadas / 741 perdidas (**59%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 306
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | sainttroplay | Spread: Manchester City FC (-1.5) | Coventry City FC | 2.50 (40¢) | $63,125 | +$94,688 | ✅ Ganada |
 | sbimbg | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | sainttroplay | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.64 (61¢) | $31,378 | +$20,062 | ✅ Ganada |
-| 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |

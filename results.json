@@ -27844,5 +27844,20 @@
     "status": "pending",
     "ultimo_fill": 1788635522,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3802,
+    "timestamp": 1788635890,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "atp-fritz-cerundo-2026-09-04",
+    "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "usd": 29999.999998000003,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788635890,
+    "fills": 1
   }
 ]
