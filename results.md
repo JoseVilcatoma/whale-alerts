@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:45:51 (hora de Perú)
+Actualizado: 2026-09-04 21:47:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1757**  ($93,835,690 en total)
+- Apuestas registradas: **1758**  ($93,934,182 en total)
 - Resueltas: **1741** — 1030 ganadas / 711 perdidas (**59%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
@@ -34,8 +34,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 11 | 5 | 0 | 69% | $2,197,633 | +$1,760,015 |
 | beachboy4 | 20 | 10 | 0 | 67% | $1,952,243 | +$198,364 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
+| 0b1 | 38 | 5 | 4 | 88% | $1,753,295 | +$66,873 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| 0b1 | 38 | 5 | 3 | 88% | $1,654,803 | +$66,873 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | wr0ngw4yb3tt0r | 12 | 13 | 0 | 48% | $1,561,878 | -$673,142 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | — | ⏳ Pendiente |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | +$2,941 | ✅ Ganada |
 | 0x076d…8d4c | Manacor: Inaki Montes vs Jack Pinnington Jones | Inaki Montes | 1.06 (94¢) | $33,072 | +$2,111 | ✅ Ganada |
-| BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs | G2 | 2.38 (42¢) | $30,000 | -$30,000 | ❌ Perdida |
