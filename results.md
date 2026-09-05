@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:05:21 (hora de Perú)
+Actualizado: 2026-09-05 13:07:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1841**  ($97,403,341 en total)
+- Apuestas registradas: **1842**  ($97,449,241 en total)
 - Resueltas: **1804** — 1071 ganadas / 733 perdidas (**59%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 306
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
 | ferrariChampions2026 | 14 | 7 | 1 | 67% | $756,769 | -$174,493 |
-| WTSA | 6 | 7 | 0 | 46% | $706,642 | -$2,145 |
+| WTSA | 6 | 7 | 1 | 46% | $752,542 | -$2,145 |
 | xifutloong3 | 9 | 13 | 0 | 41% | $685,549 | -$251,202 |
 | Diabolical-Prize | 6 | 6 | 1 | 50% | $648,755 | -$93,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $45,900 | — | ⏳ Pendiente |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | totoro3miyazaki | Will AFC Bournemouth win on 2026-09-05? | Yes | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | JaJa888 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.52 (66¢) | $27,312 | +$14,070 | ✅ Ganada |
 | kansann4 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.82 (55¢) | $41,825 | +$34,221 | ✅ Ganada |
-| ripley86alien | Will Bayer 04 Leverkusen win on 2026-09-05? | Yes | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
