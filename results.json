@@ -26245,7 +26245,7 @@
     "side": "BUY",
     "usd": 41034.4176,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788566708,
     "fills": 1
   },
@@ -26307,6 +26307,36 @@
     "odds_at_bet": 94,
     "status": "pending",
     "ultimo_fill": 1788568907,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3605,
+    "timestamp": 1788571390,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-stl-col-2026-09-04",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "usd": 34800.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788571390,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3606,
+    "timestamp": 1788571427,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "cfb-toledo-mst-2026-09-04",
+    "title": "Toledo vs. Michigan State",
+    "outcome": "Michigan State",
+    "side": "BUY",
+    "usd": 33014.511999999995,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1788571427,
     "fills": 1
   }
 ]
