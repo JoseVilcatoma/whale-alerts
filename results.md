@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 03:05:13 (hora de Perú)
+Actualizado: 2026-09-05 03:07:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1777**  ($94,688,907 en total)
+- Apuestas registradas: **1778**  ($94,718,091 en total)
 - Resueltas: **1755** — 1043 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 300
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Hanwha Life Esports | 1.64 (61¢) | $29,184 | — | ⏳ Pendiente |
 | Jsram | Spread: Manchester City FC (-2.5) | Coventry City FC | 1.82 (55¢) | $28,073 | — | ⏳ Pendiente |
 | Kch-Temp | Will Crystal Palace FC win on 2026-09-05? | No | 1.37 (73¢) | $109,920 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Manchester City FC vs. Coventry City FC: O/U 3.5 | Under 3.5 | 2.13 (47¢) | $29,199 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 300 en total)_
 | Bloodygoodrep1 | Will Como 1907 win on 2026-09-04? | Yes | 1.72 (58¢) | $26,906 | +$19,483 | ✅ Ganada |
 | zhqzhq | Will 1. FC Köln win on 2026-09-04? | No | 1.16 (86¢) | $28,391 | +$4,622 | ✅ Ganada |
 | 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $358,033 | +$22,853 | ✅ Ganada |
-| ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.56 (64¢) | $29,388 | +$16,531 | ✅ Ganada |
