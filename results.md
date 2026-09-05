@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 23:54:59 (hora de Perú)
+Actualizado: 2026-09-04 23:57:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1769**  ($94,339,790 en total)
-- Resueltas: **1751** — 1039 ganadas / 712 perdidas (**59%** de acierto)
-- Pendientes: 14
+- Resueltas: **1752** — 1040 ganadas / 712 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,143,930** sobre $93,655,406 apostados (ROI **+1.2%**)
+- **Resultado de los apostadores: +$1,150,788** sobre $93,702,162 apostados (ROI **+1.2%**)
 - Copiando $100 fijo en cada una: **-$8,706** sobre $172,200 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | gransaaa | Will Villarreal CF win on 2026-09-05? | Yes | 1.54 (65¢) | $25,918 | — | ⏳ Pendiente |
-| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | — | ⏳ Pendiente |
+| afraz | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.33 (75¢) | $46,757 | +$6,858 | 💰 Vendida antes |
 | gransaaa | Will Aston Villa FC win on 2026-09-05? | Yes | 1.92 (52¢) | $25,802 | — | ⏳ Pendiente |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes | 1.72 (58¢) | $47,002 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Brighton & Hove Albion FC win on 2026-09-05? | No | 1.96 (51¢) | $42,044 | — | ⏳ Pendiente |
