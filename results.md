@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 21:37:41 (hora de Perú)
+Actualizado: 2026-09-04 21:39:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1757**  ($93,835,690 en total)
-- Resueltas: **1738** — 1028 ganadas / 710 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1739** — 1029 ganadas / 710 perdidas (**59%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 299
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,042,878** sobre $93,075,695 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$8,895** sobre $171,000 (ROI **-5.2%**)
+- **Resultado de los apostadores: +$1,082,924** sobre $93,114,171 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,791** sobre $171,100 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -121,7 +121,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $63,378 | +$38,844 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $27,555 | +$16,889 | ✅ Ganada |
 | 0b1 | US Open WTA: Jessica Pegula vs Leylah Fernandez | Jessica Pegula | 1.19 (84¢) | $40,320 | +$7,680 | ✅ Ganada |
-| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | — | ⏳ Pendiente |
+| IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $38,476 | +$40,046 | ✅ Ganada |
 | flawfence | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $29,747 | -$29,747 | ❌ Perdida |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $35,554 | +$22,732 | ✅ Ganada |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.64 (61¢) | $29,434 | +$18,818 | ✅ Ganada |
