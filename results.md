@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 13:17:43 (hora de Perú)
+Actualizado: 2026-09-05 13:19:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1847**  ($98,395,815 en total)
-- Resueltas: **1806** — 1071 ganadas / 735 perdidas (**59%** de acierto)
-- Pendientes: 37
+- Resueltas: **1808** — 1073 ganadas / 735 perdidas (**59%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,188,359** sobre $96,043,138 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$8,787** sobre $177,500 (ROI **-5.0%**)
+- **Resultado de los apostadores: +$1,198,689** sobre $96,153,864 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$8,767** sobre $177,700 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | justwins | US Open WTA: Madison Keys vs Qinwen Zheng | Madison Keys | 1.67 (60¢) | $26,319 | -$26,319 | ❌ Perdida |
 | huli3882 | Counter-Strike: Spirit vs Team Falcons - Map 2 Winner | Team Falcons | 2.56 (39¢) | $31,125 | -$31,125 | ❌ Perdida |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amanda Anisimova | Amanda Anisimova | 1.18 (85¢) | $42,500 | -$42,500 | ❌ Perdida |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.09 (92¢) | $81,660 | +$7,101 | ✅ Ganada |
 | Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | +$5,853 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | +$16,499 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | -$30,880 | ❌ Perdida |
@@ -128,6 +128,6 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | 0xe4270C3Aa27c7940B94F31A232d2Ae4B5E5c8266-1771989496263 | Spread: SC Freiburg (-1.5) | SC Paderborn 07 | 1.35 (74¢) | $40,180 | +$14,117 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.78 (36¢) | $34,242 | -$34,242 | ❌ Perdida |
 | Kch-Temp | Will Nottingham Forest FC win on 2026-09-05? | No | 1.59 (63¢) | $59,221 | +$34,780 | ✅ Ganada |
-| 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | — | ⏳ Pendiente |
+| 0xB70c4f38Ce25d986a9DA3F3190Cbae87660934Ca-1772115998717 | LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs | Karmine Corp | 1.11 (90¢) | $29,066 | +$3,230 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-05? | Yes | 2.86 (35¢) | $34,279 | -$34,279 | ❌ Perdida |
 | ripley86alien | Will ACF Fiorentina win on 2026-09-05? | Yes | 2.13 (47¢) | $70,235 | -$70,235 | ❌ Perdida |
