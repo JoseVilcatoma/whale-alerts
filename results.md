@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 19:00:09 (hora de Perú)
+Actualizado: 2026-09-04 19:02:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1744**  ($93,339,764 en total)
+- Apuestas registradas: **1745**  ($93,391,589 en total)
 - Resueltas: **1722** — 1021 ganadas / 701 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 298
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | 0b1 | 35 | 4 | 2 | 90% | $1,438,832 | +$91,013 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Sassy-Bucket | 15 | 11 | 3 | 58% | $1,324,264 | +$179,143 |
+| Sassy-Bucket | 15 | 11 | 4 | 58% | $1,376,089 | +$179,143 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 7 | 1 | 70% | $916,163 | +$32,140 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Tampa Bay Rays vs. Texas Rangers: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $51,825 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Tomas Etcheverry vs Mariano Navone | Tomas Etcheverry | 1.12 (89¢) | $43,212 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Valentin Vacherot vs Frances Tiafoe | Frances Tiafoe | 1.27 (79¢) | $42,303 | — | ⏳ Pendiente |
 | Kosherlocks | Toledo vs. Michigan State | Michigan State | 1.25 (80¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 298 en total)_
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs | Anyone's Legend | 1.22 (82¢) | $35,521 | +$7,797 | ✅ Ganada |
 | Elenes | Will Liverpool FC win on 2026-09-04? | Yes | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA - Game 2 Winner | Dplus KIA | 1.79 (56¢) | $58,800 | +$46,200 | ✅ Ganada |
