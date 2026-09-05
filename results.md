@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 09:04:27 (hora de Perú)
+Actualizado: 2026-09-05 09:06:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1813**  ($96,229,912 en total)
+- Apuestas registradas: **1814**  ($96,256,578 en total)
 - Resueltas: **1764** — 1046 ganadas / 718 perdidas (**59%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 302
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | — | ⏳ Pendiente |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 302 en total)_
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | +$14,511 | ✅ Ganada |
 | 0b1 | Toledo vs. Michigan State | Michigan State | 1.08 (93¢) | $29,934 | +$2,253 | ✅ Ganada |
 | 0b1 | San Jose State vs. Eastern Michigan | San Jose State | 1.06 (94¢) | $60,032 | +$3,832 | ✅ Ganada |
-| ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.08 (93¢) | $30,249 | +$2,277 | ✅ Ganada |
