@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-04 22:31:41 (hora de Perú)
+Actualizado: 2026-09-04 22:33:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1759**  ($93,962,775 en total)
+- Apuestas registradas: **1760**  ($94,004,686 en total)
 - Resueltas: **1742** — 1031 ganadas / 711 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 299
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 145 | 90 | 4 | 62% | $16,279,418 | +$512,386 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 53 | 0 | 54% | $4,745,516 | -$157,424 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 61 | 53 | 1 | 54% | $4,787,428 | -$157,424 |
 | AV23IUa | 44 | 32 | 1 | 58% | $4,289,751 | +$35,199 |
 | 3edmond.dantes | 20 | 8 | 0 | 71% | $3,532,509 | +$526,701 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. San Diego Padres | San Diego Padres | 2.00 (50¢) | $41,911 | — | ⏳ Pendiente |
 | chanello | Will Manchester City FC vs. Coventry City FC end in a draw? | No | 1.11 (90¢) | $28,593 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Ben Shelton vs Denis Shapovalov | Ben Shelton | 1.25 (80¢) | $98,492 | — | ⏳ Pendiente |
 | beeemw | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.37 (73¢) | $39,234 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 299 en total)_
 | Gourmet1 | US Open ATP: Alexander Bublik vs Tommy Paul | Alexander Bublik | 2.56 (39¢) | $33,048 | -$33,048 | ❌ Perdida |
 | ripley86alien | US Open ATP: Alexander Bublik vs Tommy Paul | Tommy Paul | 1.61 (62¢) | $79,873 | +$48,955 | ✅ Ganada |
 | CORGI8 | Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs | B8 | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 0F62 | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $39,077 | +$2,941 | ✅ Ganada |
