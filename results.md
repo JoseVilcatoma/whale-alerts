@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 12:17:40 (hora de Perú)
+Actualizado: 2026-09-05 12:19:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1837**  ($97,242,808 en total)
-- Resueltas: **1797** — 1067 ganadas / 730 perdidas (**59%** de acierto)
-- Pendientes: 36
+- Resueltas: **1798** — 1068 ganadas / 730 perdidas (**59%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,288,405** sobre $95,714,345 apostados (ROI **+1.3%**)
-- Copiando $100 fijo en cada una: **-$8,645** sobre $176,700 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$1,314,205** sobre $95,748,545 apostados (ROI **+1.4%**)
+- Copiando $100 fijo en cada una: **-$8,569** sobre $176,800 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | Flaznorp | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $26,666 | +$5,853 | ✅ Ganada |
 | surfandturf | Will Manchester City FC win on 2026-09-05? | Yes | 1.22 (82¢) | $75,161 | +$16,499 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.67 (60¢) | $30,880 | -$30,880 | ❌ Perdida |
-| totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Fulham FC win on 2026-09-05? | No | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | AnonymousUsername | Will Crystal Palace FC win on 2026-09-05? | No | 1.39 (72¢) | $25,112 | -$25,112 | ❌ Perdida |
 | HBAFlover98 | Spread: Manchester City FC (-1.5) | Manchester City FC | 1.64 (61¢) | $27,450 | -$27,450 | ❌ Perdida |
 | AV23IUa | UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card) | Felipe Lima | 1.52 (66¢) | $32,550 | — | ⏳ Pendiente |
