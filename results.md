@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 16:30:16 (hora de Perú)
+Actualizado: 2026-09-05 16:32:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1867**  ($99,222,400 en total)
-- Resueltas: **1838** — 1088 ganadas / 750 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Resueltas: **1839** — 1089 ganadas / 750 perdidas (**59%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 306
 
 ### Balance
 
-- **Resultado de los apostadores: +$498,733** sobre $98,102,147 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$9,207** sobre $180,700 (ROI **-5.1%**)
+- **Resultado de los apostadores: +$516,615** sobre $98,127,880 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$9,138** sobre $180,800 (ROI **-5.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 306 en total)_
 | hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
-| Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | — | ⏳ Pendiente |
+| Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | +$17,882 | ✅ Ganada |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | — | ⏳ Pendiente |
 | EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | — | ⏳ Pendiente |
