@@ -26762,5 +26762,20 @@
     "status": "pending",
     "ultimo_fill": 1788600654,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3664,
+    "timestamp": 1788601935,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "bun-b04-uni-2026-09-05-b04",
+    "title": "Will Bayer 04 Leverkusen win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 70700.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1788601935,
+    "fills": 1
   }
 ]
