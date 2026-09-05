@@ -28264,5 +28264,20 @@
     "status": "pending",
     "ultimo_fill": 1788650997,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3864,
+    "timestamp": 1788651204,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-unlv-hawaii-2026-09-05",
+    "title": "UNLV vs. Hawai'i",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 96494.22269999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788651204,
+    "fills": 1
   }
 ]
