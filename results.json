@@ -29676,5 +29676,20 @@
     "status": "pending",
     "ultimo_fill": 1788711569,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4028,
+    "timestamp": 1788711774,
+    "username": "6d0f571330",
+    "wallet": "0xf1d6444a999c705b5bf0c9d1d6b979c0e09c892a",
+    "slug": "mlb-det-cle-2026-09-06-total-7pt5",
+    "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25649.122807,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1788711774,
+    "fills": 1
   }
 ]

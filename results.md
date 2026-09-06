@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:21:54 (hora de Perú)
+Actualizado: 2026-09-06 11:24:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1974**  ($104,691,257 en total)
+- Apuestas registradas: **1975**  ($104,716,906 en total)
 - Resueltas: **1927** — 1148 ganadas / 779 perdidas (**60%** de acierto)
-- Pendientes: 43
-- Apostadores distintos: 315
+- Pendientes: 44
+- Apostadores distintos: 316
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
-_(mostrando los 40 de mayor monto, de 315 en total)_
+_(mostrando los 40 de mayor monto, de 316 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | — | ⏳ Pendiente |
 | 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $28,261 | +$28,261 | ✅ Ganada |
 | StasPanda | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $54,517 | — | ⏳ Pendiente |
 | plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
