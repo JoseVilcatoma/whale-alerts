@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:52:40 (hora de Perú)
+Actualizado: 2026-09-06 14:54:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1997**  ($105,576,557 en total)
-- Resueltas: **1961** — 1175 ganadas / 786 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **1962** — 1175 ganadas / 787 perdidas (**60%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$408,467** sobre $104,183,656 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,033** sobre $192,900 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$373,521** sobre $104,218,602 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,133** sobre $193,000 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 1 | 18% | $501,049 | -$367,497 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
-| 11vsldfdsgfkjgos | 9 | 1 | 1 | 90% | $484,657 | +$133,145 |
+| 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | -$100,197 | ❌ Perdida |
 | SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
-| 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | -$34,946 | ❌ Perdida |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | +$34,572 | ✅ Ganada |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
