@@ -23,10 +23,6 @@
     "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
     "added_at": 1788037627.3046324
   },
-  "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
-    "username": "beachboy4",
-    "added_at": 1788065018.4808495
-  },
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
     "added_at": 1788084765.418615
@@ -630,5 +626,9 @@
   "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de": {
     "username": "gambamaster",
     "added_at": 1788708940.3069563
+  },
+  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
+    "username": "BreakTheBank",
+    "added_at": 1788709840.6676147
   }
 }
