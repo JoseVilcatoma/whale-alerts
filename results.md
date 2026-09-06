@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:33:44 (hora de Perú)
+Actualizado: 2026-09-06 07:35:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1926**  ($102,069,326 en total)
+- Apuestas registradas: **1927**  ($102,101,937 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 313
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | — | ⏳ Pendiente |
 | plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | -$48,315 | ❌ Perdida |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | +$10,360 | ✅ Ganada |
 | Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
