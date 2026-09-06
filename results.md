@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 10:17:19 (hora de Perú)
+Actualizado: 2026-09-06 10:19:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1962**  ($104,091,939 en total)
-- Resueltas: **1897** — 1130 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 61
+- Resueltas: **1898** — 1131 ganadas / 767 perdidas (**60%** de acierto)
+- Pendientes: 60
 - Apostadores distintos: 315
 
 ### Balance
 
-- **Resultado de los apostadores: +$571,080** sobre $100,510,031 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,560** sobre $186,500 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$600,960** sobre $100,553,029 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,491** sobre $186,600 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
 | ndb1 | 4 | 6 | 1 | 40% | $558,920 | -$5,246 |
-| plonker2026 | 3 | 5 | 4 | 38% | $552,830 | -$158,637 |
+| plonker2026 | 4 | 5 | 3 | 44% | $552,830 | -$128,757 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,105 | — | ⏳ Pendiente |
-| plonker2026 | Everton FC vs. Manchester United FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $42,999 | — | ⏳ Pendiente |
+| plonker2026 | Everton FC vs. Manchester United FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $42,999 | +$29,880 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
