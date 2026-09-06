@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:31:52 (hora de Perú)
+Actualizado: 2026-09-06 09:33:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1952**  ($103,520,974 en total)
+- Apuestas registradas: **1954**  ($103,591,880 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 314
 
 ### Balance
@@ -26,10 +26,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
 | 3edmond.dantes | 20 | 10 | 8 | 67% | $5,334,158 | -$116,889 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 38 | 27 | 1 | 58% | $2,880,730 | +$326,992 |
+| pleaseplease123 | 38 | 27 | 2 | 58% | $2,906,730 | +$326,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
 | xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | — | ⏳ Pendiente |
 | sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $25,903 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | +$29,617 | ✅ Ganada |
-| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | +$6,760 | ✅ Ganada |
-| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | +$14,300 | ✅ Ganada |

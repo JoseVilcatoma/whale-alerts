@@ -29346,5 +29346,35 @@
     "status": "pending",
     "ultimo_fill": 1788704085,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3983,
+    "timestamp": 1788705160,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-det-cle-2026-09-06",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 44905.3147,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788705160,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3984,
+    "timestamp": 1788705203,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mil-cin-2026-09-06-total-8pt5",
+    "title": "Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1788705203,
+    "fills": 1
   }
 ]
