@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 10:34:15 (hora de Perú)
+Actualizado: 2026-09-06 10:36:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1963**  ($104,116,973 en total)
+- Apuestas registradas: **1964**  ($104,151,919 en total)
 - Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 315
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 1 | 18% | $501,049 | -$367,497 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
+| 11vsldfdsgfkjgos | 9 | 1 | 1 | 90% | $484,657 | +$133,145 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
-| Jsram | 9 | 1 | 0 | 90% | $466,512 | +$172,165 |
 
 _(mostrando los 40 de mayor monto, de 315 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | -$68,855 | ❌ Perdida |
 | backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | +$0 | 💰 Vendida antes |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | -$142,742 | ❌ Perdida |
-| 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
