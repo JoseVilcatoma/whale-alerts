@@ -29316,5 +29316,35 @@
     "status": "pending",
     "ultimo_fill": 1788703639,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3981,
+    "timestamp": 1788704078,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lol-g2-kc-2026-09-06",
+    "title": "LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 42320.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1788704078,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3982,
+    "timestamp": 1788704085,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "lal-val-bar-2026-09-06-spread-away-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "usd": 47694.4799,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788704085,
+    "fills": 1
   }
 ]
