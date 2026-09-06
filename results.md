@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:05:19 (hora de Perú)
+Actualizado: 2026-09-06 09:07:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1949**  ($103,405,057 en total)
+- Apuestas registradas: **1950**  ($103,430,960 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 314
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| pleaseplease123 | 38 | 27 | 1 | 58% | $2,880,730 | +$326,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
-| pleaseplease123 | 38 | 27 | 0 | 58% | $2,854,828 | +$326,992 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $25,903 | — | ⏳ Pendiente |
 | BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
 | Daemon99 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $30,618 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | +$14,300 | ✅ Ganada |
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | +$13,852 | ✅ Ganada |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | -$31,860 | ❌ Perdida |
-| martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | +$8,799 | ✅ Ganada |
