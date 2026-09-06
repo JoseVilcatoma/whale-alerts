@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 12:29:03 (hora de Perú)
+Actualizado: 2026-09-06 12:31:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1980**  ($104,918,888 en total)
-- Resueltas: **1931** — 1151 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Resueltas: **1935** — 1155 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: -$27,237** sobre $102,711,937 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$8,032** sobre $189,900 (ROI **-4.2%**)
+- **Resultado de los apostadores: +$274,641** sobre $103,087,054 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,711** sobre $190,300 (ROI **-4.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,12 +91,12 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
 | xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | +$31,796 | ✅ Ganada |
