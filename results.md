@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:02:50 (hora de Perú)
+Actualizado: 2026-09-06 07:04:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1917**  ($101,460,769 en total)
+- Apuestas registradas: **1918**  ($101,489,030 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 313
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
+| wr0ngw4yb3tt0r | 15 | 13 | 2 | 54% | $1,708,171 | -$609,957 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| wr0ngw4yb3tt0r | 15 | 13 | 1 | 54% | $1,679,911 | -$609,957 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $28,261 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $54,517 | — | ⏳ Pendiente |
 | plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | +$10,225 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | +$54,981 | ✅ Ganada |
 | Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
-| 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | +$3,360 | ✅ Ganada |
