@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 00:55:51 (hora de Perú)
+Actualizado: 2026-09-06 00:57:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1885** — 1121 ganadas / 764 perdidas (**59%** de acierto)
-- Pendientes: 7
+- Resueltas: **1886** — 1122 ganadas / 764 perdidas (**59%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$452,077** sobre $100,000,218 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,848** sobre $185,400 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$524,871** sobre $100,096,712 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,772** sobre $185,500 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | wr0ngw4yb3tt0r | 15 | 13 | 0 | 54% | $1,654,806 | -$609,957 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| Sassy-Bucket | 15 | 16 | 2 | 48% | $1,563,443 | -$162,377 |
+| Sassy-Bucket | 16 | 16 | 1 | 50% | $1,563,443 | -$89,583 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | +$4,002 | ✅ Ganada |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | -$43,848 | ❌ Perdida |
 | xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | +$72,794 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | -$39,939 | ❌ Perdida |
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
