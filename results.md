@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 12:51:31 (hora de Perú)
+Actualizado: 2026-09-06 12:53:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1981**  ($104,962,835 en total)
-- Resueltas: **1942** — 1162 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Resueltas: **1944** — 1164 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: +$397,066** sobre $103,336,558 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,386** sobre $191,000 (ROI **-3.9%**)
+- **Resultado de los apostadores: +$470,158** sobre $103,421,819 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,219** sobre $191,200 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
-| mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
+| mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
