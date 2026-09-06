@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:28:07 (hora de Perú)
+Actualizado: 2026-09-06 14:30:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1995**  ($105,474,398 en total)
+- Apuestas registradas: **1996**  ($105,539,015 en total)
 - Resueltas: **1958** — 1173 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 318
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 50 | 37 | 3 | 57% | $4,888,102 | -$22,667 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 39 | 27 | 4 | 59% | $3,067,135 | +$350,992 |
+| pleaseplease123 | 39 | 27 | 5 | 59% | $3,131,752 | +$350,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | — | ⏳ Pendiente |
 | bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | +$30,420 | ✅ Ganada |
 | Flaznorp | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,012 | +$30,346 | ✅ Ganada |
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes | 1.30 (77¢) | $115,500 | +$34,500 | ✅ Ganada |
-| hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | +$45,546 | ✅ Ganada |

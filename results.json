@@ -29991,5 +29991,20 @@
     "status": "pending",
     "ultimo_fill": 1788722602,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4081,
+    "timestamp": 1788722897,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-cws-2026-09-06-total-8pt5",
+    "title": "Minnesota Twins vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 64617.592800000006,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1788722966,
+    "fills": 2
   }
 ]
