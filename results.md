@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:03:21 (hora de Perú)
+Actualizado: 2026-09-06 14:05:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1992**  ($105,358,652 en total)
+- Apuestas registradas: **1993**  ($105,421,504 en total)
 - Resueltas: **1958** — 1173 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 317
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 46 | 5 | 0 | 90% | $1,979,182 | +$129,374 |
-| 0F62 | 21 | 2 | 0 | 91% | $1,789,189 | +$74,964 |
+| 0F62 | 21 | 2 | 1 | 91% | $1,852,041 | +$74,964 |
 | wr0ngw4yb3tt0r | 17 | 13 | 0 | 57% | $1,708,171 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | — | ⏳ Pendiente |
 | laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | — | ⏳ Pendiente |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 | hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | +$45,546 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | -$332,260 | ❌ Perdida |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |
-| Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | +$36,796 | ✅ Ganada |
