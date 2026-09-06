@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:43:58 (hora de Perú)
+Actualizado: 2026-09-06 07:46:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1928**  ($102,151,889 en total)
-- Resueltas: **1891** — 1126 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **1892** — 1127 ganadas / 765 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 313
 
 ### Balance
 
-- **Resultado de los apostadores: +$636,986** sobre $100,275,901 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,474** sobre $186,000 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$646,278** sobre $100,303,777 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,440** sobre $186,100 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,105 | — | ⏳ Pendiente |
 | plonker2026 | Everton FC vs. Manchester United FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $42,999 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
-| 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | — | ⏳ Pendiente |
+| 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | — | ⏳ Pendiente |
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
