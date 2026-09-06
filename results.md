@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 15:21:26 (hora de Perú)
+Actualizado: 2026-09-06 15:23:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1999**  ($105,656,836 en total)
-- Resueltas: **1965** — 1176 ganadas / 789 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **1966** — 1176 ganadas / 790 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$326,195** sobre $104,323,619 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,241** sobre $193,300 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$299,559** sobre $104,350,255 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,341** sobre $193,400 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 50 | 38 | 2 | 57% | $4,888,102 | -$61,290 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 39 | 28 | 4 | 58% | $3,131,752 | +$318,294 |
+| pleaseplease123 | 39 | 29 | 3 | 57% | $3,131,752 | +$291,658 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | -$32,697 | ❌ Perdida |
 | 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | +$4,005 | ✅ Ganada |
-| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | -$26,636 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.56 (39¢) | $86,031 | -$86,031 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.67 (60¢) | $51,067 | +$34,045 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | — | ⏳ Pendiente |
