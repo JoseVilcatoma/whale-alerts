@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:42:31 (hora de Perú)
+Actualizado: 2026-09-06 11:44:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1979**  ($104,839,053 en total)
-- Resueltas: **1930** — 1150 ganadas / 780 perdidas (**60%** de acierto)
+- Apuestas registradas: **1980**  ($104,918,888 en total)
+- Resueltas: **1931** — 1151 ganadas / 780 perdidas (**60%** de acierto)
 - Pendientes: 45
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: -$61,737** sobre $102,596,437 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$8,062** sobre $189,800 (ROI **-4.2%**)
+- **Resultado de los apostadores: -$27,237** sobre $102,711,937 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$8,032** sobre $189,900 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 154 | 92 | 5 | 63% | $16,841,833 | +$629,354 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
-| AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
+| AV23IUa | 50 | 37 | 2 | 57% | $4,860,489 | -$22,667 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 38 | 27 | 5 | 58% | $3,067,135 | +$326,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | — | ⏳ Pendiente |
@@ -113,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | RegardedMoney | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $38,462 | — | ⏳ Pendiente |
 | Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | +$30,420 | ✅ Ganada |
 | Flaznorp | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,012 | +$30,346 | ✅ Ganada |
-| AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes | 1.30 (77¢) | $115,500 | — | ⏳ Pendiente |
+| AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes | 1.30 (77¢) | $115,500 | +$34,500 | ✅ Ganada |
 | hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | +$45,546 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | -$332,260 | ❌ Perdida |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $282,610 | -$282,610 | ❌ Perdida |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | -$62,222 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $42,688 | +$42,688 | ✅ Ganada |
-| RegardedMoney | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
