@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 20:43:32 (hora de Perú)
+Actualizado: 2026-09-05 20:45:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1889**  ($100,180,076 en total)
-- Resueltas: **1860** — 1107 ganadas / 753 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **1861** — 1107 ganadas / 754 perdidas (**59%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$653,071** sobre $99,002,671 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$8,339** sobre $182,900 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$604,756** sobre $99,050,986 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,439** sobre $183,000 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 151 | 92 | 3 | 62% | $16,637,566 | +$578,792 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 1 | 54% | $4,835,742 | -$115,513 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 47 | 36 | 3 | 57% | $4,626,530 | -$64,025 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | -$48,315 | ❌ Perdida |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | +$10,360 | ✅ Ganada |
 | Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
