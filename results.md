@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 16:02:53 (hora de Perú)
+Actualizado: 2026-09-06 16:04:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2002**  ($105,752,302 en total)
-- Resueltas: **1972** — 1180 ganadas / 792 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **1973** — 1181 ganadas / 792 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$414,421** sobre $104,656,307 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,261** sobre $194,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$470,353** sobre $104,700,253 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,134** sobre $194,100 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $39,413 | — | ⏳ Pendiente |
 | fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
-| Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | — | ⏳ Pendiente |
+| Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | +$55,932 | ✅ Ganada |
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | +$51,042 | ✅ Ganada |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | +$19,921 | ✅ Ganada |
