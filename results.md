@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 16:04:56 (hora de Perú)
+Actualizado: 2026-09-06 16:06:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2002**  ($105,752,302 en total)
+- Apuestas registradas: **2003**  ($105,821,003 en total)
 - Resueltas: **1973** — 1181 ganadas / 792 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 318
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 5 | 63% | $16,918,983 | +$695,741 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 6 | 63% | $16,987,683 | +$695,741 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 51 | 38 | 1 | 57% | $4,888,102 | -$10,248 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 0 | 54% | $4,880,648 | -$135,118 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | — | ⏳ Pendiente |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | huli3882 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.56 (64¢) | $38,400 | +$21,600 | ✅ Ganada |
 | beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | +$4,065 | ✅ Ganada |
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | +$25,236 | ✅ Ganada |
-| ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | +$2,005 | ✅ Ganada |
