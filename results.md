@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:03:12 (hora de Perú)
+Actualizado: 2026-09-06 11:05:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1966**  ($104,211,419 en total)
+- Apuestas registradas: **1967**  ($104,311,616 en total)
 - Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 315
 
 ### Balance
@@ -45,9 +45,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
+| Diabolical-Prize | 7 | 6 | 4 | 54% | $865,188 | -$60,653 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 16 | 8 | 0 | 67% | $808,955 | -$189,947 |
-| Diabolical-Prize | 7 | 6 | 3 | 54% | $764,991 | -$60,653 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | -$25,550 | ❌ Perdida |
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | -$68,855 | ❌ Perdida |
