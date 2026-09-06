@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 01:06:07 (hora de Perú)
+Actualizado: 2026-09-06 01:08:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1886** — 1122 ganadas / 764 perdidas (**59%** de acierto)
-- Pendientes: 6
+- Resueltas: **1888** — 1124 ganadas / 764 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$524,871** sobre $100,096,712 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,772** sobre $185,500 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$591,825** sobre $100,170,497 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,581** sobre $185,700 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 152 | 92 | 3 | 62% | $16,663,831 | +$591,214 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 2 | 62% | $16,663,831 | +$620,832 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
-| AV23IUa | 48 | 37 | 1 | 56% | $4,626,530 | -$94,504 |
+| AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | +$29,617 | ✅ Ganada |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | +$6,760 | ✅ Ganada |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | +$14,300 | ✅ Ganada |
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | +$13,852 | ✅ Ganada |
