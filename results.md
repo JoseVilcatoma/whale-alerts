@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 18:16:36 (hora de Perú)
+Actualizado: 2026-09-06 18:18:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2010**  ($106,228,394 en total)
+- Apuestas registradas: **2013**  ($106,340,137 en total)
 - Resueltas: **1995** — 1195 ganadas / 800 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 14
 - Apostadores distintos: 319
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 2 | 63% | $16,987,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
+| AV23IUa | 51 | 40 | 2 | 56% | $4,973,068 | -$67,862 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 1 | 54% | $4,925,636 | -$135,118 |
-| AV23IUa | 51 | 40 | 0 | 56% | $4,918,102 | -$67,862 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 41 | 29 | 1 | 59% | $3,131,752 | +$381,104 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | — | ⏳ Pendiente |
+| AV23IUa | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.17 (46¢) | $25,266 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $27,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | -$28,688 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | +$28,710 | ✅ Ganada |
-| xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | +$31,796 | ✅ Ganada |
-| sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | -$42,320 | ❌ Perdida |
