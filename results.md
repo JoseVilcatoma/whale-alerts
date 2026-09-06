@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:52:14 (hora de Perú)
+Actualizado: 2026-09-06 07:54:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1930**  ($102,261,832 en total)
-- Resueltas: **1893** — 1128 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **1894** — 1128 ganadas / 766 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 313
 
 ### Balance
 
-- **Resultado de los apostadores: +$646,278** sobre $100,362,507 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,440** sobre $186,100 (ROI **-4.5%**)
+- **Resultado de los apostadores: +$620,728** sobre $100,388,057 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,540** sobre $186,200 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 14 | 15 | 0 | 48% | $864,999 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
-| ferrariChampions2026 | 15 | 7 | 1 | 68% | $782,319 | -$166,401 |
+| ferrariChampions2026 | 15 | 8 | 0 | 65% | $782,319 | -$191,952 |
 | Diabolical-Prize | 7 | 6 | 3 | 54% | $764,991 | -$60,653 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | -$25,550 | ❌ Perdida |
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | — | ⏳ Pendiente |
 | backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | +$0 | 💰 Vendida antes |
