@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:38:18 (hora de Perú)
+Actualizado: 2026-09-06 14:40:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1997**  ($105,576,557 en total)
-- Resueltas: **1958** — 1173 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Resueltas: **1959** — 1174 ganadas / 785 perdidas (**60%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$406,142** sobre $104,078,983 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,059** sobre $192,600 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$427,169** sobre $104,116,366 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,003** sobre $192,700 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
-| Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | — | ⏳ Pendiente |
+| Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | +$21,028 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
