@@ -30156,5 +30156,20 @@
     "status": "pending",
     "ultimo_fill": 1788730426,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4120,
+    "timestamp": 1788731000,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-pegula-cirstea-2026-09-06",
+    "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 49999.999998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788731000,
+    "fills": 1
   }
 ]
