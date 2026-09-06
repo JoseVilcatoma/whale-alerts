@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:28:13 (hora de Perú)
+Actualizado: 2026-09-06 13:30:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1987**  ($105,152,276 en total)
+- Apuestas registradas: **1989**  ($105,238,104 en total)
 - Resueltas: **1944** — 1164 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 316
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 3 | 63% | $16,841,833 | +$695,741 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 4 | 63% | $16,891,002 | +$695,741 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 50 | 37 | 2 | 57% | $4,860,489 | -$22,667 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 6 | 8 | 2 | 43% | $904,005 | -$127,095 |
 | SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
-| ferrariChampions2026 | 16 | 8 | 0 | 67% | $808,955 | -$189,947 |
+| ferrariChampions2026 | 16 | 8 | 1 | 67% | $845,614 | -$189,947 |
 | xifutloong3 | 10 | 13 | 1 | 43% | $763,804 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | — | ⏳ Pendiente |
+| ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | — | ⏳ Pendiente |
 | crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
 | robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | +$110,000 | ✅ Ganada |
 | CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,942 | -$84,942 | ❌ Perdida |
-| plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | -$49,953 | ❌ Perdida |
