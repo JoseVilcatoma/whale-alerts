@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 16:09:00 (hora de Perú)
+Actualizado: 2026-09-06 16:11:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2004**  ($105,851,003 en total)
-- Resueltas: **1973** — 1181 ganadas / 792 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **1982** — 1190 ganadas / 792 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$470,353** sobre $104,700,253 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,134** sobre $194,100 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$555,863** sobre $105,083,404 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$6,925** sobre $195,000 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 6 | 63% | $16,987,683 | +$695,741 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 158 | 92 | 4 | 63% | $16,987,683 | +$720,211 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 51 | 38 | 2 | 57% | $4,918,102 | -$10,248 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 0 | 54% | $4,880,648 | -$135,118 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 46 | 5 | 2 | 90% | $2,067,003 | +$129,374 |
-| 0F62 | 21 | 2 | 1 | 91% | $1,852,041 | +$74,964 |
+| 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | wr0ngw4yb3tt0r | 17 | 13 | 0 | 57% | $1,708,171 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 6 | 8 | 2 | 43% | $904,005 | -$127,095 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
-| ferrariChampions2026 | 16 | 8 | 1 | 67% | $845,614 | -$189,947 |
+| ferrariChampions2026 | 17 | 8 | 0 | 68% | $845,614 | -$180,202 |
 | xifutloong3 | 11 | 13 | 0 | 46% | $763,804 | -$204,579 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -82,18 +82,18 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | — | ⏳ Pendiente |
 | bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | — | ⏳ Pendiente |
-| 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | — | ⏳ Pendiente |
+| 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | +$4,012 | ✅ Ganada |
 | laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | — | ⏳ Pendiente |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
-| ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | — | ⏳ Pendiente |
-| ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | — | ⏳ Pendiente |
+| ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | +$13,713 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | +$13,070 | ✅ Ganada |
+| ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | +$9,745 | ✅ Ganada |
 | crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | — | ⏳ Pendiente |
-| ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | — | ⏳ Pendiente |
+| SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | +$10,423 | ✅ Ganada |
+| ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | +$6,866 | ✅ Ganada |
 | SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $39,413 | — | ⏳ Pendiente |
-| fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
+| fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | +$55,932 | ✅ Ganada |
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | +$51,042 | ✅ Ganada |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
