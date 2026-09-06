@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:14:53 (hora de Perú)
+Actualizado: 2026-09-05 21:16:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1892**  ($100,292,244 en total)
-- Resueltas: **1862** — 1107 ganadas / 755 perdidas (**59%** de acierto)
-- Pendientes: 26
+- Resueltas: **1863** — 1107 ganadas / 756 perdidas (**59%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$564,817** sobre $99,090,925 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,539** sobre $183,100 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$533,598** sobre $99,122,144 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,639** sobre $183,200 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | — | ⏳ Pendiente |
-| Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | — | ⏳ Pendiente |
+| Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | — | ⏳ Pendiente |
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | — | ⏳ Pendiente |
