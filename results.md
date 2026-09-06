@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:39:40 (hora de Perú)
+Actualizado: 2026-09-05 21:41:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1894**  ($100,386,212 en total)
-- Resueltas: **1869** — 1111 ganadas / 758 perdidas (**59%** de acierto)
-- Pendientes: 21
+- Resueltas: **1870** — 1112 ganadas / 758 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$519,466** sobre $99,356,041 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,705** sobre $183,800 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$557,054** sobre $99,388,060 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,588** sobre $183,900 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | -$39,939 | ❌ Perdida |
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
-| theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
+| theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
