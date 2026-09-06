@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 19:55:59 (hora de Perú)
+Actualizado: 2026-09-05 19:58:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1886**  ($100,009,644 en total)
-- Resueltas: **1858** — 1106 ganadas / 752 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **1860** — 1107 ganadas / 753 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 309
 
 ### Balance
 
-- **Resultado de los apostadores: +$642,697** sobre $98,946,588 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,389** sobre $182,700 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$653,071** sobre $99,002,671 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$8,339** sobre $182,900 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| wr0ngw4yb3tt0r | 14 | 13 | 1 | 52% | $1,654,806 | -$649,831 |
+| wr0ngw4yb3tt0r | 15 | 13 | 0 | 54% | $1,654,806 | -$609,957 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 15 | 16 | 1 | 48% | $1,531,584 | -$162,377 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
-| SDTrading | 14 | 14 | 1 | 50% | $864,999 | -$41,877 |
+| SDTrading | 14 | 15 | 0 | 48% | $864,999 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
 | xifutloong3 | 9 | 13 | 1 | 41% | $735,138 | -$251,202 |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 309 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | +$15,943 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | +$39,874 | ✅ Ganada |
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | +$17,882 | ✅ Ganada |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | +$10,456 | ✅ Ganada |
