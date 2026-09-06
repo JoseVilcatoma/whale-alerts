@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 08:16:55 (hora de Perú)
+Actualizado: 2026-09-06 08:18:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1940**  ($103,008,434 en total)
+- Apuestas registradas: **1942**  ($103,062,070 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 42
 - Apostadores distintos: 314
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 14 | 15 | 0 | 48% | $864,999 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
-| ferrariChampions2026 | 15 | 8 | 0 | 65% | $782,319 | -$191,952 |
+| ferrariChampions2026 | 15 | 8 | 1 | 65% | $808,955 | -$191,952 |
 | Diabolical-Prize | 7 | 6 | 3 | 54% | $764,991 | -$60,653 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | — | ⏳ Pendiente |
+| huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.67 (60¢) | $38,624 | — | ⏳ Pendiente |
 | RegardedMoney | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $38,462 | — | ⏳ Pendiente |
 | Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | -$42,433 | ❌ Perdida |
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | +$4,002 | ✅ Ganada |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | -$43,848 | ❌ Perdida |
-| xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
-| Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | +$72,794 | ✅ Ganada |
