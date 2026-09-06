@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:32:14 (hora de Perú)
+Actualizado: 2026-09-06 11:34:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1975**  ($104,716,906 en total)
+- Apuestas registradas: **1977**  ($104,777,386 en total)
 - Resueltas: **1927** — 1148 ganadas / 779 perdidas (**60%** de acierto)
-- Pendientes: 44
+- Pendientes: 46
 - Apostadores distintos: 316
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
-| 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
+| 0b1 | 45 | 5 | 1 | 90% | $1,979,182 | +$125,174 |
 | 0F62 | 20 | 2 | 1 | 91% | $1,789,189 | +$70,959 |
 | wr0ngw4yb3tt0r | 17 | 13 | 0 | 57% | $1,708,171 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | — | ⏳ Pendiente |
+| wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | — | ⏳ Pendiente |
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | — | ⏳ Pendiente |
 | 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | RegardedMoney | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,427 | -$84,427 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $28,261 | +$28,261 | ✅ Ganada |
-| StasPanda | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $54,517 | — | ⏳ Pendiente |
-| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
