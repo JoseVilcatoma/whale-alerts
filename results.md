@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:50:39 (hora de Perú)
+Actualizado: 2026-09-06 14:52:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1997**  ($105,576,557 en total)
-- Resueltas: **1959** — 1174 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **1961** — 1175 ganadas / 786 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$427,169** sobre $104,116,366 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,003** sobre $192,700 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$408,467** sobre $104,183,656 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,033** sobre $192,900 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 4 | 63% | $16,891,002 | +$695,741 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
-| AV23IUa | 50 | 37 | 3 | 57% | $4,888,102 | -$22,667 |
+| AV23IUa | 50 | 38 | 2 | 57% | $4,888,102 | -$61,290 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 39 | 27 | 5 | 59% | $3,131,752 | +$350,992 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 8 | 2 | 43% | $904,005 | -$127,095 |
 | SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
 | ferrariChampions2026 | 16 | 8 | 1 | 67% | $845,614 | -$189,947 |
-| xifutloong3 | 10 | 13 | 1 | 43% | $763,804 | -$224,500 |
+| xifutloong3 | 11 | 13 | 0 | 46% | $763,804 | -$204,579 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | — | ⏳ Pendiente |
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
-| xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | — | ⏳ Pendiente |
+| xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | +$19,921 | ✅ Ganada |
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | +$4,200 | ✅ Ganada |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | — | ⏳ Pendiente |
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | +$25,236 | ✅ Ganada |
 | ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | +$2,005 | ✅ Ganada |
 | huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
-| AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.67 (60¢) | $38,624 | — | ⏳ Pendiente |
+| AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.67 (60¢) | $38,624 | -$38,624 | ❌ Perdida |
 | RegardedMoney | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $38,462 | — | ⏳ Pendiente |
 | Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | +$30,420 | ✅ Ganada |
 | Flaznorp | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,012 | +$30,346 | ✅ Ganada |
