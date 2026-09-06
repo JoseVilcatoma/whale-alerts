@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 12:35:09 (hora de Perú)
+Actualizado: 2026-09-06 12:37:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1981**  ($104,962,835 en total)
-- Resueltas: **1935** — 1155 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Resueltas: **1941** — 1161 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: +$274,641** sobre $103,087,054 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,711** sobre $190,300 (ROI **-4.1%**)
+- **Resultado de los apostadores: +$373,066** sobre $103,310,558 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,479** sobre $190,900 (ROI **-3.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 154 | 92 | 5 | 63% | $16,841,833 | +$629,354 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 156 | 92 | 3 | 63% | $16,841,833 | +$695,741 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 50 | 37 | 2 | 57% | $4,860,489 | -$22,667 |
@@ -33,8 +33,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
-| 0b1 | 45 | 5 | 1 | 90% | $1,979,182 | +$125,174 |
-| 0F62 | 20 | 2 | 1 | 91% | $1,789,189 | +$70,959 |
+| 0b1 | 46 | 5 | 0 | 90% | $1,979,182 | +$129,374 |
+| 0F62 | 21 | 2 | 0 | 91% | $1,789,189 | +$74,964 |
 | wr0ngw4yb3tt0r | 17 | 13 | 0 | 57% | $1,708,171 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -75,19 +75,19 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | — | ⏳ Pendiente |
+| 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | +$4,200 | ✅ Ganada |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | — | ⏳ Pendiente |
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | — | ⏳ Pendiente |
-| 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | — | ⏳ Pendiente |
+| 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | +$4,005 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.56 (39¢) | $86,031 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.67 (60¢) | $51,067 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.67 (60¢) | $51,067 | +$34,045 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | +$32,343 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | — | ⏳ Pendiente |
-| SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
-| fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
+| SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
+| fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
