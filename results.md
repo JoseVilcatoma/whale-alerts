@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 06:48:20 (hora de Perú)
+Actualizado: 2026-09-06 06:50:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1911**  ($101,173,444 en total)
+- Apuestas registradas: **1913**  ($101,255,647 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 313
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 14 | 15 | 0 | 48% | $864,999 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 1 | 68% | $782,319 | -$166,401 |
+| Diabolical-Prize | 7 | 6 | 3 | 54% | $764,991 | -$60,653 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
-| Diabolical-Prize | 7 | 6 | 2 | 54% | $725,787 | -$60,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Everton FC vs. Manchester United FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $42,999 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | +$12,854 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | hurrican | US Open ATP: Taylor Fritz vs Francisco Cerundolo | Francisco Cerundolo | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
-| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,609 | +$15,943 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers | 2.50 (40¢) | $26,583 | +$39,874 | ✅ Ganada |

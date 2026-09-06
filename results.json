@@ -28729,5 +28729,35 @@
     "status": "pending",
     "ultimo_fill": 1788694197,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3935,
+    "timestamp": 1788695340,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-ts7-mouz-2026-09-06",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 39203.924399999996,
+    "odds_at_bet": 36,
+    "status": "pending",
+    "ultimo_fill": 1788695340,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3936,
+    "timestamp": 1788695393,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-eve-mun-2026-09-06-total-2pt5",
+    "title": "Everton FC vs. Manchester United FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 42998.5628,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1788695393,
+    "fills": 1
   }
 ]
