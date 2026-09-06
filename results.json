@@ -30006,5 +30006,20 @@
     "status": "pending",
     "ultimo_fill": 1788722966,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4082,
+    "timestamp": 1788723314,
+    "username": "0b1",
+    "wallet": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+    "slug": "atp-michels-etcheve-2026-09-06",
+    "title": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 37541.6496,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1788723314,
+    "fills": 1
   }
 ]
