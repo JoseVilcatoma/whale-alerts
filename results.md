@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 19:23:03 (hora de Perú)
+Actualizado: 2026-09-05 19:25:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1886**  ($100,009,644 en total)
-- Resueltas: **1854** — 1102 ganadas / 752 perdidas (**59%** de acierto)
-- Pendientes: 28
+- Resueltas: **1855** — 1103 ganadas / 752 perdidas (**59%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 309
 
 ### Balance
 
-- **Resultado de los apostadores: +$591,026** sobre $98,826,604 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,565** sobre $182,300 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$601,386** sobre $98,853,244 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,526** sobre $182,400 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 309 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | — | ⏳ Pendiente |
-| HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | — | ⏳ Pendiente |
+| HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | +$10,360 | ✅ Ganada |
 | Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
