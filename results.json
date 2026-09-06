@@ -28414,5 +28414,20 @@
     "status": "pending",
     "ultimo_fill": 1788659562,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3883,
+    "timestamp": 1788659664,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-wkent-nevada-2026-09-05",
+    "title": "Western Kentucky vs. Nevada",
+    "outcome": "Western Kentucky",
+    "side": "BUY",
+    "usd": 31859.756100000002,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788659664,
+    "fills": 1
   }
 ]
