@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 00:18:37 (hora de Perú)
+Actualizado: 2026-09-06 00:20:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1879** — 1115 ganadas / 764 perdidas (**59%** de acierto)
-- Pendientes: 13
+- Resueltas: **1883** — 1119 ganadas / 764 perdidas (**59%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$364,433** sobre $99,755,942 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$9,065** sobre $184,800 (ROI **-4.9%**)
+- **Resultado de los apostadores: +$431,017** sobre $99,906,250 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,892** sobre $185,200 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,9 +75,9 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | — | ⏳ Pendiente |
-| User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | — | ⏳ Pendiente |
+| User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | +$13,852 | ✅ Ganada |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | — | ⏳ Pendiente |
-| martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | — | ⏳ Pendiente |
+| martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | +$8,799 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | +$12,422 | ✅ Ganada |
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | -$37,500 | ❌ Perdida |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | -$39,939 | ❌ Perdida |
-| Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
+| Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | +$9,425 | ✅ Ganada |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | +$10,225 | ✅ Ganada |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Axel Sola | 2.44 (41¢) | $38,207 | +$54,981 | ✅ Ganada |
-| Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | — | ⏳ Pendiente |
+| Kosherlocks | Clemson vs. LSU | LSU | 1.28 (78¢) | $30,000 | +$8,462 | ✅ Ganada |
 | 0b1 | US Open WTA: Cristina Bucsa vs Coco Gauff | Coco Gauff | 1.06 (94¢) | $52,640 | +$3,360 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims) | Kurtis Campbell | 1.30 (77¢) | $95,988 | +$28,672 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $36,584 | +$12,854 | ✅ Ganada |
