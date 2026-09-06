@@ -30291,5 +30291,20 @@
     "status": "pending",
     "ultimo_fill": 1788737393,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4139,
+    "timestamp": 1788737783,
+    "username": "0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961",
+    "wallet": "0x418d51e13d019913bb027db22ecc723fe1ad88a3",
+    "slug": "cfb-wisc-nd-2026-09-06",
+    "title": "Wisconsin vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 35297.5204,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1788737783,
+    "fills": 1
   }
 ]

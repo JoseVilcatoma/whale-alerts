@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 18:35:03 (hora de Perú)
+Actualizado: 2026-09-06 18:37:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2015**  ($106,395,007 en total)
+- Apuestas registradas: **2016**  ($106,430,305 en total)
 - Resueltas: **1995** — 1195 ganadas / 800 perdidas (**60%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 319
+- Pendientes: 17
+- Apostadores distintos: 320
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
-_(mostrando los 40 de mayor monto, de 319 en total)_
+_(mostrando los 40 de mayor monto, de 320 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | — | ⏳ Pendiente |
 | SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.45 (69¢) | $29,870 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | +$21,028 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
-| SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | -$28,688 | ❌ Perdida |
