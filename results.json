@@ -29416,10 +29416,25 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-09-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 25054.7,
-    "odds_at_bet": 55,
+    "usd": 175199.1,
+    "odds_at_bet": 56,
     "status": "pending",
-    "ultimo_fill": 1788705683,
+    "ultimo_fill": 1788705845,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 3988,
+    "timestamp": 1788705843,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "epl-eve-mun-2026-09-06-draw",
+    "title": "Will Everton FC vs. Manchester United FC end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37382.36,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788705843,
     "fills": 1
   }
 ]

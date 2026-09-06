@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:42:07 (hora de Perú)
+Actualizado: 2026-09-06 09:44:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1957**  ($103,753,622 en total)
+- Apuestas registradas: **1958**  ($103,941,149 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 57
+- Pendientes: 58
 - Apostadores distintos: 314
 
 ### Balance
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.82 (55¢) | $25,055 | — | ⏳ Pendiente |
+| Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | — | ⏳ Pendiente |
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |
 | BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | -$70,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $32,232 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | +$18,348 | ✅ Ganada |
