@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:38:26 (hora de Perú)
+Actualizado: 2026-09-06 11:40:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1979**  ($104,839,053 en total)
-- Resueltas: **1929** — 1149 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Resueltas: **1930** — 1150 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: -$65,801** sobre $102,542,437 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$8,070** sobre $189,700 (ROI **-4.3%**)
+- **Resultado de los apostadores: -$61,737** sobre $102,596,437 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$8,062** sobre $189,800 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | Daemon99 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $30,618 | — | ⏳ Pendiente |
 | huli3882 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.56 (64¢) | $38,400 | — | ⏳ Pendiente |
-| beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | — | ⏳ Pendiente |
+| beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | +$4,065 | ✅ Ganada |
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | +$2,005 | ✅ Ganada |
 | huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
