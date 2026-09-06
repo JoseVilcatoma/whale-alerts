@@ -30261,5 +30261,35 @@
     "status": "pending",
     "ultimo_fill": 1788736688,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4137,
+    "timestamp": 1788737370,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-lou-miss-2026-09-06",
+    "title": "Louisville vs. Ole Miss",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 29869.682438,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1788737370,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4138,
+    "timestamp": 1788737393,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cfb-wisc-nd-2026-09-06-spread-home-21pt5",
+    "title": "Spread: Notre Dame (-21.5)",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788737393,
+    "fills": 1
   }
 ]

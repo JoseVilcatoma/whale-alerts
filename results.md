@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 18:28:57 (hora de Perú)
+Actualizado: 2026-09-06 18:31:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2013**  ($106,340,137 en total)
+- Apuestas registradas: **2015**  ($106,395,007 en total)
 - Resueltas: **1995** — 1195 ganadas / 800 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 319
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 47 | 5 | 1 | 90% | $2,067,003 | +$136,525 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
-| wr0ngw4yb3tt0r | 17 | 13 | 1 | 57% | $1,758,479 | -$556,591 |
+| wr0ngw4yb3tt0r | 17 | 13 | 2 | 57% | $1,788,349 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.45 (69¢) | $29,870 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | — | ⏳ Pendiente |
 | AV23IUa | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.17 (46¢) | $25,266 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | +$21,028 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | -$28,688 | ❌ Perdida |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
-| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
