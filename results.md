@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 08:44:42 (hora de Perú)
+Actualizado: 2026-09-06 08:46:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1944**  ($103,220,539 en total)
+- Apuestas registradas: **1945**  ($103,274,539 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 44
+- Pendientes: 45
 - Apostadores distintos: 314
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | — | ⏳ Pendiente |
 | huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | -$37,500 | ❌ Perdida |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | -$27,249 | ❌ Perdida |
-| wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | -$42,433 | ❌ Perdida |
