@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:29:33 (hora de Perú)
+Actualizado: 2026-09-05 21:31:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1892**  ($100,292,244 en total)
-- Resueltas: **1868** — 1111 ganadas / 757 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Resueltas: **1869** — 1111 ganadas / 758 perdidas (**59%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$548,516** sobre $99,326,991 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,605** sobre $183,700 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$519,466** sobre $99,356,041 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,705** sobre $183,800 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
-| pleaseplease123 | 37 | 26 | 2 | 59% | $2,854,828 | +$326,448 |
+| pleaseplease123 | 37 | 27 | 1 | 58% | $2,854,828 | +$297,398 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 22 | 11 | 0 | 67% | $2,079,892 | +$183,409 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | — | ⏳ Pendiente |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | -$29,050 | ❌ Perdida |
 | beeemw | US Open ATP: Karen Khachanov vs Benjamin Bonzi | Karen Khachanov | 1.16 (86¢) | $39,682 | +$6,460 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $35,458 | +$9,425 | ✅ Ganada |
 | 0b1 | Boise State vs. Oregon | Oregon | 1.10 (91¢) | $103,383 | +$10,225 | ✅ Ganada |
