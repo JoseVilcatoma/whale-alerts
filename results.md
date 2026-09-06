@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:39:49 (hora de Perú)
+Actualizado: 2026-09-06 07:41:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1927**  ($102,101,937 en total)
+- Apuestas registradas: **1928**  ($102,151,889 en total)
 - Resueltas: **1891** — 1126 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 313
 
 ### Balance
@@ -52,12 +52,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
+| plonker2026 | 3 | 5 | 4 | 38% | $552,830 | -$158,637 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
-| plonker2026 | 3 | 5 | 3 | 38% | $502,877 | -$158,637 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | -$46,218 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | -$48,315 | ❌ Perdida |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | +$10,360 | ✅ Ganada |
-| Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
