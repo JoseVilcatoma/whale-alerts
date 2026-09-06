@@ -28531,7 +28531,7 @@
     "side": "BUY",
     "usd": 25337.212999999996,
     "odds_at_bet": 58,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788678000,
     "fills": 1
   },
@@ -28561,7 +28561,7 @@
     "side": "BUY",
     "usd": 69999.999998,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788681090,
     "fills": 2
   },
@@ -29071,11 +29071,11 @@
     "title": "Will Manchester United FC win on 2026-09-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 113301.13080000001,
+    "usd": 332260.08869999996,
     "odds_at_bet": 51,
     "status": "pending",
-    "ultimo_fill": 1788699485,
-    "fills": 2
+    "ultimo_fill": 1788699528,
+    "fills": 3
   },
   {
     "telegram_msg_id": 3962,
@@ -29090,6 +29090,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1788699264,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3965,
+    "timestamp": 1788699560,
+    "username": "hansama231",
+    "wallet": "0x381b9294c1b95b61d018ff56312fbcc4897c4d74",
+    "slug": "epl-eve-mun-2026-09-06-mun",
+    "title": "Will Manchester United FC win on 2026-09-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43760.0037,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788699560,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:58:23 (hora de Perú)
+Actualizado: 2026-09-06 08:00:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1935**  ($102,612,537 en total)
-- Resueltas: **1894** — 1128 ganadas / 766 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Apuestas registradas: **1936**  ($102,875,256 en total)
+- Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 313
 
 ### Balance
 
-- **Resultado de los apostadores: +$620,728** sobre $100,388,057 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,540** sobre $186,200 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$569,075** sobre $100,483,394 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,568** sobre $186,400 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
-| 3edmond.dantes | 20 | 10 | 8 | 67% | $5,115,199 | -$116,889 |
+| 3edmond.dantes | 20 | 10 | 8 | 67% | $5,334,158 | -$116,889 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $113,301 | — | ⏳ Pendiente |
+| hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | — | ⏳ Pendiente |
 | Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | — | ⏳ Pendiente |
 | ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | — | ⏳ Pendiente |
@@ -106,9 +107,9 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
 | Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | +$47,426 | ✅ Ganada |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |
-| BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
+| BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | -$70,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $32,232 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | — | ⏳ Pendiente |
+| MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | +$18,348 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | +$29,617 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | +$35,472 | ✅ Ganada |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
-| Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
