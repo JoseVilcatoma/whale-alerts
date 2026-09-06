@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:38:25 (hora de Perú)
+Actualizado: 2026-09-06 13:40:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1990**  ($105,289,690 en total)
+- Apuestas registradas: **1991**  ($105,320,547 en total)
 - Resueltas: **1944** — 1164 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 42
-- Apostadores distintos: 316
+- Pendientes: 43
+- Apostadores distintos: 317
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
-_(mostrando los 40 de mayor monto, de 316 en total)_
+_(mostrando los 40 de mayor monto, de 317 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | — | ⏳ Pendiente |
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |
 | Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | +$36,796 | ✅ Ganada |
 | ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
-| robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | +$110,000 | ✅ Ganada |
