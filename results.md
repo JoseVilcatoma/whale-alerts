@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 15:25:29 (hora de Perú)
+Actualizado: 2026-09-06 15:27:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1999**  ($105,656,836 en total)
-- Resueltas: **1966** — 1176 ganadas / 790 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Resueltas: **1967** — 1176 ganadas / 791 perdidas (**60%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$299,559** sobre $104,350,255 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,341** sobre $193,400 (ROI **-3.8%**)
+- **Resultado de los apostadores: +$270,872** sobre $104,378,943 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,441** sobre $193,500 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 6 | 8 | 2 | 43% | $904,005 | -$127,095 |
-| SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
+| SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 16 | 8 | 1 | 67% | $845,614 | -$189,947 |
 | xifutloong3 | 11 | 13 | 0 | 46% | $763,804 | -$204,579 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | +$21,028 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
-| SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | — | ⏳ Pendiente |
+| SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | -$28,688 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
