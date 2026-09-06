@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 23:34:57 (hora de Perú)
+Actualizado: 2026-09-05 23:37:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1876** — 1115 ganadas / 761 perdidas (**59%** de acierto)
-- Pendientes: 16
+- Resueltas: **1877** — 1115 ganadas / 762 perdidas (**59%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$490,402** sobre $99,629,973 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,765** sobre $184,500 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$450,713** sobre $99,669,661 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,865** sobre $184,600 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
-| Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
+| Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | -$39,688 | ❌ Perdida |
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | +$15,084 | ✅ Ganada |
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | +$12,460 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | — | ⏳ Pendiente |
