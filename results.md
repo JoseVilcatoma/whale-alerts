@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 15:50:42 (hora de Perú)
+Actualizado: 2026-09-06 15:52:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2001**  ($105,724,321 en total)
-- Resueltas: **1971** — 1180 ganadas / 791 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **1972** — 1180 ganadas / 792 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$440,070** sobre $104,630,658 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,161** sobre $193,900 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$414,421** sobre $104,656,307 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,261** sobre $194,000 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | +$19,921 | ✅ Ganada |
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | +$4,200 | ✅ Ganada |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | — | ⏳ Pendiente |
-| 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | — | ⏳ Pendiente |
+| 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | -$25,649 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | -$32,697 | ❌ Perdida |
 | 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | +$4,005 | ✅ Ganada |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | -$26,636 | ❌ Perdida |
