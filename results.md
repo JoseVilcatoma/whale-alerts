@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 16:23:27 (hora de Perú)
+Actualizado: 2026-09-06 16:25:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2005**  ($105,938,135 en total)
-- Resueltas: **1982** — 1190 ganadas / 792 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **1983** — 1190 ganadas / 793 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 319
 
 ### Balance
 
-- **Resultado de los apostadores: +$555,863** sobre $105,083,404 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$6,925** sobre $195,000 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$526,657** sobre $105,112,610 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,025** sobre $195,100 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | +$10,423 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | +$6,866 | ✅ Ganada |
-| SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | — | ⏳ Pendiente |
+| SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | -$29,206 | ❌ Perdida |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $39,413 | — | ⏳ Pendiente |
 | fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | +$55,932 | ✅ Ganada |
