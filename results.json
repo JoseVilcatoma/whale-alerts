@@ -29826,5 +29826,35 @@
     "status": "pending",
     "ultimo_fill": 1788718161,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4056,
+    "timestamp": 1788718199,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "atp-paul-alcaraz-2026-09-06",
+    "title": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 27465.304,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1788718199,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4057,
+    "timestamp": 1788718238,
+    "username": "SemyonMarmeladov",
+    "wallet": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
+    "slug": "atp-paul-alcaraz-2026-09-06",
+    "title": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 41690.832,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1788718238,
+    "fills": 1
   }
 ]
