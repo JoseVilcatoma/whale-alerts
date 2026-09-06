@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 10:36:19 (hora de Perú)
+Actualizado: 2026-09-06 10:38:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1964**  ($104,151,919 en total)
+- Apuestas registradas: **1965**  ($104,178,919 en total)
 - Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 315
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | -$68,855 | ❌ Perdida |
 | backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | +$0 | 💰 Vendida antes |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | -$142,742 | ❌ Perdida |
