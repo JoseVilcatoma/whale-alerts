@@ -28354,5 +28354,20 @@
     "status": "pending",
     "ultimo_fill": 1788652505,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3878,
+    "timestamp": 1788656574,
+    "username": "omomom3",
+    "wallet": "0x0a5392910ef4f236c60d212b4b4cd2c82adb077b",
+    "slug": "cs2-ts7-mouz-2026-09-06",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 32999.999999,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1788656574,
+    "fills": 1
   }
 ]

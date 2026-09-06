@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 20:02:10 (hora de Perú)
+Actualizado: 2026-09-05 20:04:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1886**  ($100,009,644 en total)
+- Apuestas registradas: **1887**  ($100,042,644 en total)
 - Resueltas: **1860** — 1107 ganadas / 753 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 309
+- Pendientes: 23
+- Apostadores distintos: 310
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
-_(mostrando los 40 de mayor monto, de 309 en total)_
+_(mostrando los 40 de mayor monto, de 310 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $33,000 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | — | ⏳ Pendiente |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | — | ⏳ Pendiente |
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 309 en total)_
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | -$26,666 | ❌ Perdida |
 | sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | +$43,920 | ✅ Ganada |
 | Zzzz87 | Spread: FC Bayern München (-1.5) | FC Bayern München | 1.59 (63¢) | $27,696 | -$27,696 | ❌ Perdida |
-| t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.64 (61¢) | $64,417 | -$29,569 | 💰 Vendida antes |
