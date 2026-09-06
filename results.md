@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 10:19:24 (hora de Perú)
+Actualizado: 2026-09-06 10:21:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1962**  ($104,091,939 en total)
-- Resueltas: **1898** — 1131 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 60
+- Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 315
 
 ### Balance
 
-- **Resultado de los apostadores: +$600,960** sobre $100,553,029 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,491** sobre $186,600 (ROI **-4.6%**)
+- **Resultado de los apostadores: -$46,899** sobre $102,444,043 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$7,936** sobre $189,400 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
-| 3edmond.dantes | 20 | 10 | 8 | 67% | $5,334,158 | -$116,889 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 154 | 92 | 3 | 63% | $16,737,996 | +$629,354 |
+| 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
-| wr0ngw4yb3tt0r | 15 | 13 | 2 | 54% | $1,708,171 | -$609,957 |
+| wr0ngw4yb3tt0r | 17 | 13 | 0 | 57% | $1,708,171 | -$556,591 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
-| ndb1 | 4 | 6 | 1 | 40% | $558,920 | -$5,246 |
-| plonker2026 | 4 | 5 | 3 | 44% | $552,830 | -$128,757 |
+| ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
+| plonker2026 | 6 | 6 | 0 | 50% | $552,830 | -$129,209 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -94,40 +94,40 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.67 (60¢) | $38,624 | — | ⏳ Pendiente |
 | RegardedMoney | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $38,462 | — | ⏳ Pendiente |
-| Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | — | ⏳ Pendiente |
-| Flaznorp | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,012 | — | ⏳ Pendiente |
+| Jittz | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,080 | +$30,420 | ✅ Ganada |
+| Flaznorp | Will Manchester United FC win on 2026-09-06? | No | 2.08 (48¢) | $28,012 | +$30,346 | ✅ Ganada |
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes | 1.30 (77¢) | $115,500 | — | ⏳ Pendiente |
-| hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | — | ⏳ Pendiente |
-| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | — | ⏳ Pendiente |
-| Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | — | ⏳ Pendiente |
-| ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | — | ⏳ Pendiente |
-| robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | — | ⏳ Pendiente |
-| CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,942 | — | ⏳ Pendiente |
-| plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | — | ⏳ Pendiente |
-| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | — | ⏳ Pendiente |
-| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | — | ⏳ Pendiente |
-| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $282,610 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $42,688 | — | ⏳ Pendiente |
-| RegardedMoney | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,427 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $28,261 | — | ⏳ Pendiente |
+| hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | +$45,546 | ✅ Ganada |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | -$332,260 | ❌ Perdida |
+| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |
+| Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | +$36,796 | ✅ Ganada |
+| ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
+| robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | +$110,000 | ✅ Ganada |
+| CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,942 | -$84,942 | ❌ Perdida |
+| plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | -$49,953 | ❌ Perdida |
+| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | +$32,610 | ✅ Ganada |
+| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | +$32,783 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | +$8,522 | ✅ Ganada |
+| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $282,610 | -$282,610 | ❌ Perdida |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | -$62,222 | ❌ Perdida |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $42,688 | +$42,688 | ✅ Ganada |
+| RegardedMoney | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,427 | -$84,427 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $28,261 | +$28,261 | ✅ Ganada |
 | StasPanda | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $54,517 | — | ⏳ Pendiente |
-| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,105 | — | ⏳ Pendiente |
+| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,105 | +$25,105 | ✅ Ganada |
 | plonker2026 | Everton FC vs. Manchester United FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $42,999 | +$29,880 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | -$25,550 | ❌ Perdida |
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | -$68,855 | ❌ Perdida |
 | backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | +$0 | 💰 Vendida antes |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
-| 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | -$142,742 | ❌ Perdida |
+| 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
