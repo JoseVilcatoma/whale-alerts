@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 18:14:34 (hora de Perú)
+Actualizado: 2026-09-06 18:16:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2010**  ($106,228,394 en total)
-- Resueltas: **1992** — 1195 ganadas / 797 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **1995** — 1195 ganadas / 800 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 319
 
 ### Balance
 
-- **Resultado de los apostadores: +$510,018** sobre $105,425,795 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,185** sobre $196,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$414,639** sobre $105,521,174 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,485** sobre $196,300 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 2 | 63% | $16,987,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 1 | 54% | $4,925,636 | -$135,118 |
-| AV23IUa | 51 | 39 | 1 | 57% | $4,918,102 | -$40,248 |
+| AV23IUa | 51 | 40 | 0 | 56% | $4,918,102 | -$67,862 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 41 | 29 | 1 | 59% | $3,131,752 | +$381,104 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -81,13 +81,13 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | — | ⏳ Pendiente |
+| 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | -$42,485 | ❌ Perdida |
 | 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Tomas Etcheverry | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Alex Michelsen | 1.19 (84¢) | $37,542 | +$7,151 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | — | ⏳ Pendiente |
-| AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | — | ⏳ Pendiente |
-| bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | -$27,613 | ❌ Perdida |
+| bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | -$25,280 | ❌ Perdida |
 | 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | +$4,012 | ✅ Ganada |
 | laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | +$14,818 | ✅ Ganada |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | +$32,117 | ✅ Ganada |
