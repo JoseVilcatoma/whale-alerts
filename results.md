@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:25:23 (hora de Perú)
+Actualizado: 2026-09-06 07:27:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1923**  ($101,985,978 en total)
+- Apuestas registradas: **1924**  ($102,010,978 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 313
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
+| plonker2026 | 3 | 5 | 3 | 38% | $502,877 | -$158,637 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
-| plonker2026 | 3 | 5 | 2 | 38% | $477,877 | -$158,637 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | Jsram | 9 | 1 | 0 | 90% | $466,512 | +$172,165 |
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $282,610 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $42,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | +$16,154 | ✅ Ganada |
 | Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.89 (53¢) | $29,050 | -$29,050 | ❌ Perdida |
