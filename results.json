@@ -30126,5 +30126,20 @@
     "status": "pending",
     "ultimo_fill": 1788728823,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4114,
+    "timestamp": 1788729646,
+    "username": "0x4247\u202691c4",
+    "wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+    "slug": "atp-shelton-tsitsip-2026-09-06",
+    "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 87132.34999799999,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788729647,
+    "fills": 2
   }
 ]
