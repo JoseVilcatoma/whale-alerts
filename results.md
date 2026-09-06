@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:50:10 (hora de Perú)
+Actualizado: 2026-09-06 07:52:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1928**  ($102,151,889 en total)
+- Apuestas registradas: **1930**  ($102,261,832 en total)
 - Resueltas: **1893** — 1128 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 33
 - Apostadores distintos: 313
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
-| 3edmond.dantes | 20 | 10 | 6 | 67% | $4,916,955 | -$116,889 |
+| 3edmond.dantes | 20 | 10 | 7 | 67% | $5,001,898 | -$116,889 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,942 | — | ⏳ Pendiente |
 | plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | — | ⏳ Pendiente |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | +$12,460 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | +$29,594 | ✅ Ganada |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | -$46,218 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | -$48,315 | ❌ Perdida |
-| HongYunX | Will CA Talleres win on 2026-09-05? | No | 1.39 (72¢) | $26,640 | +$10,360 | ✅ Ganada |
