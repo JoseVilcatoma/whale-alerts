@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 02:44:11 (hora de Perú)
+Actualizado: 2026-09-06 02:46:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1898**  ($100,518,647 en total)
+- Apuestas registradas: **1899**  ($100,550,880 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 311
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
-| Diabolical-Prize | 7 | 6 | 0 | 54% | $648,755 | -$60,653 |
+| Diabolical-Prize | 7 | 6 | 1 | 54% | $680,987 | -$60,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $32,232 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | -$124,950 | ❌ Perdida |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | -$42,364 | ❌ Perdida |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | +$16,267 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
