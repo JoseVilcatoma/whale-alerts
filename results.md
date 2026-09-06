@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:05:25 (hora de Perú)
+Actualizado: 2026-09-06 14:07:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1993**  ($105,421,504 en total)
+- Apuestas registradas: **1994**  ($105,446,784 en total)
 - Resueltas: **1958** — 1173 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 31
-- Apostadores distintos: 317
+- Pendientes: 32
+- Apostadores distintos: 318
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
-_(mostrando los 40 de mayor monto, de 317 en total)_
+_(mostrando los 40 de mayor monto, de 318 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | — | ⏳ Pendiente |
 | laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | — | ⏳ Pendiente |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes | 1.30 (77¢) | $115,500 | +$34,500 | ✅ Ganada |
 | hansama231 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $43,760 | +$45,546 | ✅ Ganada |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | -$332,260 | ❌ Perdida |
-| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |

@@ -29961,5 +29961,20 @@
     "status": "pending",
     "ultimo_fill": 1788721463,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4079,
+    "timestamp": 1788721527,
+    "username": "bands1",
+    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+    "slug": "atp-medvede-tiafoe-2026-09-06",
+    "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "usd": 25280.3202,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1788721527,
+    "fills": 1
   }
 ]
