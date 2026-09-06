@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:52:55 (hora de Perú)
+Actualizado: 2026-09-06 13:55:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1992**  ($105,358,652 en total)
-- Resueltas: **1957** — 1172 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **1958** — 1173 ganadas / 785 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 317
 
 ### Balance
 
-- **Resultado de los apostadores: +$371,570** sobre $104,053,948 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,197** sobre $192,500 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$406,142** sobre $104,078,983 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,059** sobre $192,600 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 | SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
-| predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
+| predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | +$34,572 | ✅ Ganada |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
