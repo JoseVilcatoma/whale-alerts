@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 23:26:38 (hora de Perú)
+Actualizado: 2026-09-05 23:28:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1874** — 1115 ganadas / 759 perdidas (**59%** de acierto)
-- Pendientes: 18
+- Resueltas: **1876** — 1115 ganadas / 761 perdidas (**59%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$555,151** sobre $99,565,223 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,565** sobre $184,300 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$490,402** sobre $99,629,973 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,765** sobre $184,500 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,9 +79,9 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | — | ⏳ Pendiente |
 | martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | +$12,422 | ✅ Ganada |
-| Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | — | ⏳ Pendiente |
+| Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | -$37,500 | ❌ Perdida |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
-| laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | — | ⏳ Pendiente |
+| laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | -$27,249 | ❌ Perdida |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | — | ⏳ Pendiente |
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | +$4,002 | ✅ Ganada |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | — | ⏳ Pendiente |
