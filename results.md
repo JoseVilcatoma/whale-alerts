@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 14:56:41 (hora de Perú)
+Actualizado: 2026-09-06 14:58:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1997**  ($105,576,557 en total)
-- Resueltas: **1962** — 1175 ganadas / 787 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **1964** — 1176 ganadas / 788 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 318
 
 ### Balance
 
-- **Resultado de los apostadores: +$373,521** sobre $104,218,602 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,133** sobre $193,000 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$358,893** sobre $104,290,922 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,141** sobre $193,200 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
-| sulumos | 2 | 9 | 1 | 18% | $501,049 | -$367,497 |
+| sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
@@ -117,9 +117,9 @@ _(mostrando los 40 de mayor monto, de 318 en total)_
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
 | xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | +$31,796 | ✅ Ganada |
-| sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | — | ⏳ Pendiente |
+| sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | -$42,320 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $25,903 | — | ⏳ Pendiente |
-| BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
 | Daemon99 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $30,618 | +$17,982 | ✅ Ganada |
 | huli3882 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.56 (64¢) | $38,400 | +$21,600 | ✅ Ganada |
