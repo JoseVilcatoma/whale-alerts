@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:23:31 (hora de Perú)
+Actualizado: 2026-09-05 21:25:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1892**  ($100,292,244 en total)
-- Resueltas: **1863** — 1107 ganadas / 756 perdidas (**59%** de acierto)
-- Pendientes: 25
+- Resueltas: **1865** — 1108 ganadas / 757 perdidas (**59%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$533,598** sobre $99,122,144 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,639** sobre $183,200 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$516,970** sobre $99,215,062 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,685** sobre $183,400 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
-| pleaseplease123 | 37 | 25 | 3 | 60% | $2,854,828 | +$369,777 |
+| pleaseplease123 | 37 | 26 | 2 | 59% | $2,854,828 | +$326,448 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 20 | 11 | 2 | 65% | $2,079,892 | +$155,864 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 14 | 15 | 0 | 48% | $864,999 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
-| xifutloong3 | 9 | 13 | 1 | 41% | $735,138 | -$251,202 |
+| xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
 | Diabolical-Prize | 7 | 6 | 0 | 54% | $648,755 | -$60,653 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -81,12 +81,12 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | — | ⏳ Pendiente |
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | — | ⏳ Pendiente |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | — | ⏳ Pendiente |
-| xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | — | ⏳ Pendiente |
+| xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | -$39,939 | ❌ Perdida |
 | Sunny24 | Spread: LSU (-9.5) | LSU | 1.89 (53¢) | $40,000 | — | ⏳ Pendiente |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | — | ⏳ Pendiente |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | — | ⏳ Pendiente |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
 | beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | — | ⏳ Pendiente |
