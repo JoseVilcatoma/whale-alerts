@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:15:37 (hora de Perú)
+Actualizado: 2026-09-06 11:17:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1968**  ($104,364,386 en total)
-- Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
+- Apuestas registradas: **1969**  ($104,465,457 en total)
+- Resueltas: **1927** — 1148 ganadas / 779 perdidas (**60%** de acierto)
 - Pendientes: 38
 - Apostadores distintos: 315
 
 ### Balance
 
-- **Resultado de los apostadores: -$46,899** sobre $102,444,043 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$7,936** sobre $189,400 (ROI **-4.2%**)
+- **Resultado de los apostadores: -$71,987** sobre $102,469,131 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$8,036** sobre $189,500 (ROI **-4.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 38 | 27 | 2 | 58% | $2,906,730 | +$326,992 |
+| pleaseplease123 | 38 | 27 | 3 | 58% | $3,007,801 | +$326,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $39,204 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | -$25,550 | ❌ Perdida |
