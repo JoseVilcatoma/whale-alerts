@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 08:59:09 (hora de Perú)
+Actualizado: 2026-09-06 09:01:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1946**  ($103,312,939 en total)
+- Apuestas registradas: **1949**  ($103,405,057 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Pendientes: 49
 - Apostadores distintos: 314
 
 ### Balance
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
+| Daemon99 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $30,618 | — | ⏳ Pendiente |
 | huli3882 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.56 (64¢) | $38,400 | — | ⏳ Pendiente |
 | beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | +$13,852 | ✅ Ganada |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | -$31,860 | ❌ Perdida |
 | martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | +$8,799 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | +$12,422 | ✅ Ganada |
-| Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | -$37,500 | ❌ Perdida |
-| omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
