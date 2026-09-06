@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 22:45:39 (hora de Perú)
+Actualizado: 2026-09-05 22:47:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1872** — 1114 ganadas / 758 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **1873** — 1115 ganadas / 758 perdidas (**60%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$588,947** sobre $99,448,613 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,483** sobre $184,100 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$601,369** sobre $99,519,005 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,465** sobre $184,200 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 151 | 92 | 4 | 62% | $16,663,831 | +$578,792 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 152 | 92 | 3 | 62% | $16,663,831 | +$591,214 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 48 | 36 | 2 | 57% | $4,626,530 | -$48,286 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | — | ⏳ Pendiente |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | — | ⏳ Pendiente |
 | martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | +$12,422 | ✅ Ganada |
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | — | ⏳ Pendiente |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | — | ⏳ Pendiente |
