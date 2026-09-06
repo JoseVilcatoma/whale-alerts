@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 23:47:29 (hora de Perú)
+Actualizado: 2026-09-05 23:49:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1877** — 1115 ganadas / 762 perdidas (**59%** de acierto)
-- Pendientes: 15
+- Resueltas: **1879** — 1115 ganadas / 764 perdidas (**59%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$450,713** sobre $99,669,661 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,865** sobre $184,600 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$364,433** sobre $99,755,942 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$9,065** sobre $184,800 (ROI **-4.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,9 +82,9 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | -$37,500 | ❌ Perdida |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | -$27,249 | ❌ Perdida |
-| wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | — | ⏳ Pendiente |
+| wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | -$42,433 | ❌ Perdida |
 | martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | +$4,002 | ✅ Ganada |
-| wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | — | ⏳ Pendiente |
+| wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | -$43,848 | ❌ Perdida |
 | xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Orlando City SC win on 2026-09-05? | No | 1.75 (57¢) | $39,939 | -$39,939 | ❌ Perdida |
