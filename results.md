@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:56:19 (hora de Perú)
+Actualizado: 2026-09-06 07:58:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1930**  ($102,261,832 en total)
+- Apuestas registradas: **1935**  ($102,612,537 en total)
 - Resueltas: **1894** — 1128 ganadas / 766 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 37
 - Apostadores distintos: 313
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
-| 3edmond.dantes | 20 | 10 | 7 | 67% | $5,001,898 | -$116,889 |
+| 3edmond.dantes | 20 | 10 | 8 | 67% | $5,115,199 | -$116,889 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -52,11 +52,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
+| ndb1 | 4 | 6 | 1 | 40% | $558,920 | -$5,246 |
 | plonker2026 | 3 | 5 | 4 | 38% | $552,830 | -$158,637 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
-| ndb1 | 4 | 6 | 0 | 40% | $510,881 | -$5,246 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $113,301 | — | ⏳ Pendiente |
+| gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | — | ⏳ Pendiente |
+| Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | — | ⏳ Pendiente |
+| ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | — | ⏳ Pendiente |
+| robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | — | ⏳ Pendiente |
 | CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,942 | — | ⏳ Pendiente |
 | plonker2026 | Will Everton FC win on 2026-09-06? | Yes | 4.00 (25¢) | $49,953 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union | 2.17 (46¢) | $32,019 | +$37,588 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
-| Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | -$39,688 | ❌ Perdida |
-| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | +$15,084 | ✅ Ganada |
-| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | +$12,460 | ✅ Ganada |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | +$29,594 | ✅ Ganada |
-| AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | -$46,218 | ❌ Perdida |
