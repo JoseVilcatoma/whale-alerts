@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 02:56:29 (hora de Perú)
+Actualizado: 2026-09-06 02:58:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1900**  ($100,620,880 en total)
+- Apuestas registradas: **1901**  ($100,663,000 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 311
+- Pendientes: 7
+- Apostadores distintos: 312
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
-_(mostrando los 40 de mayor monto, de 311 en total)_
+_(mostrando los 40 de mayor monto, de 312 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |
 | BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $32,232 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | -$508,500 | ❌ Perdida |
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
 | WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | -$124,950 | ❌ Perdida |
-| plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | -$42,364 | ❌ Perdida |
