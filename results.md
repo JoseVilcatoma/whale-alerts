@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 20:52:00 (hora de Perú)
+Actualizado: 2026-09-05 20:54:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1889**  ($100,180,076 en total)
+- Apuestas registradas: **1890**  ($100,211,272 en total)
 - Resueltas: **1861** — 1107 ganadas / 754 perdidas (**59%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 310
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | — | ⏳ Pendiente |
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | — | ⏳ Pendiente |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | ArturitoFilito | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.69 (59¢) | $26,222 | -$26,222 | ❌ Perdida |
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
-| fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | -$26,666 | ❌ Perdida |

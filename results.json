@@ -28399,5 +28399,20 @@
     "status": "pending",
     "ultimo_fill": 1788658823,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3882,
+    "timestamp": 1788659562,
+    "username": "martingaleking",
+    "wallet": "0x52f5efdfb8759d4b9be1fbe63f80401474445e8a",
+    "slug": "cfb-clmsn-lsu-2026-09-05",
+    "title": "Clemson vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 31196.2274,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1788659562,
+    "fills": 1
   }
 ]
