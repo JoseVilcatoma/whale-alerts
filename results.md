@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:27:27 (hora de Perú)
+Actualizado: 2026-09-06 07:29:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1924**  ($102,010,978 en total)
+- Apuestas registradas: **1925**  ($102,036,543 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 313
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 3 | 62% | $16,712,431 | +$620,832 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 4 | 62% | $16,737,996 | +$620,832 |
 | 3edmond.dantes | 20 | 10 | 6 | 67% | $4,916,955 | -$116,889 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | — | ⏳ Pendiente |
 | plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $282,610 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | Jsram | UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card) | Salahdine Parnasse | 1.27 (79¢) | $33,593 | +$8,930 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card) | Farés Ziam | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
 | 0x78be…bde0 | US Open ATP: Zizou Bergs vs Botic van de Zandschulp | Botic van de Zandschulp | 1.54 (65¢) | $30,000 | +$16,154 | ✅ Ganada |
-| Jsram | UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) | Michael Page | 1.54 (65¢) | $29,250 | +$15,750 | ✅ Ganada |
