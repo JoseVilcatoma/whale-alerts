@@ -29781,5 +29781,20 @@
     "status": "pending",
     "ultimo_fill": 1788715450,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4053,
+    "timestamp": 1788717351,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-paul-alcaraz-2026-09-06",
+    "title": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 26666.4,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1788717351,
+    "fills": 1
   }
 ]
