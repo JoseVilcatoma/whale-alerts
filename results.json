@@ -28639,5 +28639,20 @@
     "status": "pending",
     "ultimo_fill": 1788686442,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3929,
+    "timestamp": 1788687413,
+    "username": "backback",
+    "wallet": "0x996ac56c9e72b6ca38a30ae9f6e85152d9afe3cc",
+    "slug": "epl-eve-mun-2026-09-06-mun",
+    "title": "Will Manchester United FC win on 2026-09-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 58729.8507,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788687413,
+    "fills": 1
   }
 ]

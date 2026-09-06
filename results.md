@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 04:34:59 (hora de Perú)
+Actualizado: 2026-09-06 04:37:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1905**  ($100,895,633 en total)
+- Apuestas registradas: **1906**  ($100,954,363 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 312
+- Pendientes: 12
+- Apostadores distintos: 313
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
-_(mostrando los 40 de mayor monto, de 312 en total)_
+_(mostrando los 40 de mayor monto, de 313 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 312 en total)_
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | +$10,456 | ✅ Ganada |
 | EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | +$28,793 | ✅ Ganada |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | -$135,090 | ❌ Perdida |
-| hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | +$47,618 | ✅ Ganada |
