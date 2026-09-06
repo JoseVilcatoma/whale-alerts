@@ -28369,5 +28369,20 @@
     "status": "pending",
     "ultimo_fill": 1788656688,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3879,
+    "timestamp": 1788657621,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-oak-sea-2026-09-05-total-7pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 37500.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788657621,
+    "fills": 1
   }
 ]
