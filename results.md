@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:54:30 (hora de Perú)
+Actualizado: 2026-09-06 09:56:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1960**  ($104,033,067 en total)
-- Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
+- Apuestas registradas: **1961**  ($104,058,678 en total)
+- Resueltas: **1897** — 1130 ganadas / 767 perdidas (**60%** de acierto)
 - Pendientes: 60
 - Apostadores distintos: 314
 
 ### Balance
 
-- **Resultado de los apostadores: +$569,075** sobre $100,483,394 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,568** sobre $186,400 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$571,080** sobre $100,510,031 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,560** sobre $186,500 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
-| ferrariChampions2026 | 15 | 8 | 1 | 65% | $808,955 | -$191,952 |
+| ferrariChampions2026 | 16 | 8 | 0 | 67% | $808,955 | -$189,947 |
 | Diabolical-Prize | 7 | 6 | 3 | 54% | $764,991 | -$60,653 |
 | xifutloong3 | 10 | 13 | 0 | 43% | $735,138 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | huli3882 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.56 (64¢) | $38,400 | — | ⏳ Pendiente |
 | beeemw | Will Valencia CF win on 2026-09-06? | No | 1.08 (93¢) | $54,000 | — | ⏳ Pendiente |
 | YEEES-but-why | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,969 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Seville: Santiago Rodriguez Taverna vs Adam Martin Espinar | Santiago Rodriguez Taverna | 1.08 (93¢) | $26,636 | +$2,005 | ✅ Ganada |
 | huli3882 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.67 (60¢) | $38,624 | — | ⏳ Pendiente |
 | RegardedMoney | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $38,462 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
 | Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | +$47,426 | ✅ Ganada |
-| mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |

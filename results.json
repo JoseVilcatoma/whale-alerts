@@ -29193,7 +29193,7 @@
     "side": "BUY",
     "usd": 26636.429991,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788700697,
     "fills": 1
   },
@@ -29465,6 +29465,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1788706093,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 3991,
+    "timestamp": 1788706499,
+    "username": "t198",
+    "wallet": "0x90aa1d6aeeb57121944bafb49da6c21eb8670dca",
+    "slug": "cs2-ts7-mouz-2026-09-06-game2",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 25610.859998999997,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788706499,
     "fills": 1
   }
 ]
