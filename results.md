@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:46:02 (hora de Perú)
+Actualizado: 2026-09-06 07:48:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1928**  ($102,151,889 en total)
-- Resueltas: **1892** — 1127 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **1893** — 1128 ganadas / 765 perdidas (**60%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 313
 
 ### Balance
 
-- **Resultado de los apostadores: +$646,278** sobre $100,303,777 apostados (ROI **+0.6%**)
+- **Resultado de los apostadores: +$646,278** sobre $100,362,507 apostados (ROI **+0.6%**)
 - Copiando $100 fijo en cada una: **-$8,440** sobre $186,100 (ROI **-4.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | — | ⏳ Pendiente |
 | crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | — | ⏳ Pendiente |
-| backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | — | ⏳ Pendiente |
+| backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | +$0 | 💰 Vendida antes |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
