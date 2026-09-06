@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:11:27 (hora de Perú)
+Actualizado: 2026-09-06 11:13:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1967**  ($104,311,616 en total)
+- Apuestas registradas: **1968**  ($104,364,386 en total)
 - Resueltas: **1926** — 1148 ganadas / 778 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 315
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 154 | 92 | 3 | 63% | $16,737,996 | +$629,354 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 154 | 92 | 4 | 63% | $16,790,766 | +$629,354 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 49 | 37 | 2 | 57% | $4,780,653 | -$57,167 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | — | ⏳ Pendiente |
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 315 en total)_
 | 11vsldfdsgfkjgos | Istanbul 3: Radu David Turcanu vs Egor Agafonov | Radu David Turcanu | 1.33 (75¢) | $27,876 | +$9,292 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ | 1.79 (56¢) | $44,800 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien | 1.45 (69¢) | $25,550 | -$25,550 | ❌ Perdida |
-| crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
