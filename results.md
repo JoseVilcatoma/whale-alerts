@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:56:36 (hora de Perú)
+Actualizado: 2026-09-06 09:58:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1961**  ($104,058,678 en total)
+- Apuestas registradas: **1962**  ($104,091,939 en total)
 - Resueltas: **1897** — 1130 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 60
-- Apostadores distintos: 314
+- Pendientes: 61
+- Apostadores distintos: 315
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 | Jsram | 9 | 1 | 0 | 90% | $466,512 | +$172,165 |
 
-_(mostrando los 40 de mayor monto, de 314 en total)_
+_(mostrando los 40 de mayor monto, de 315 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
-| Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | +$47,426 | ✅ Ganada |
