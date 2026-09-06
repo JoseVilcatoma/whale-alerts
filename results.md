@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 18:58:25 (hora de Perú)
+Actualizado: 2026-09-05 19:00:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1886**  ($100,009,644 en total)
-- Resueltas: **1852** — 1101 ganadas / 751 perdidas (**59%** de acierto)
-- Pendientes: 30
+- Resueltas: **1854** — 1102 ganadas / 752 perdidas (**59%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 309
 
 ### Balance
 
-- **Resultado de los apostadores: +$687,183** sobre $98,672,860 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$8,565** sobre $182,100 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$591,026** sobre $98,826,604 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,565** sobre $182,300 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
-| WTSA | 6 | 7 | 1 | 46% | $831,592 | -$2,145 |
+| WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
 | xifutloong3 | 9 | 13 | 1 | 41% | $735,138 | -$251,202 |
 | Diabolical-Prize | 7 | 6 | 0 | 54% | $648,755 | -$60,653 |
@@ -109,13 +109,13 @@ _(mostrando los 40 de mayor monto, de 309 en total)_
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | +$17,882 | ✅ Ganada |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | — | ⏳ Pendiente |
-| EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | — | ⏳ Pendiente |
+| EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | +$28,793 | ✅ Ganada |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | -$135,090 | ❌ Perdida |
 | hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | +$47,618 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | -$34,977 | ❌ Perdida |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | -$508,500 | ❌ Perdida |
 | texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
-| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | — | ⏳ Pendiente |
+| WTSA | Will Red Bull Bragantino win on 2026-09-05? | Yes | 1.96 (51¢) | $124,950 | -$124,950 | ❌ Perdida |
 | plonker2026 | Will OGC Nice win on 2026-09-05? | Yes | 1.82 (55¢) | $42,364 | -$42,364 | ❌ Perdida |
 | t198 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.49 (67¢) | $33,027 | +$16,267 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
