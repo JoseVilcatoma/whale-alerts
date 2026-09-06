@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 17:43:22 (hora de Perú)
+Actualizado: 2026-09-06 17:45:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2008**  ($106,151,086 en total)
-- Resueltas: **1990** — 1195 ganadas / 795 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **1991** — 1195 ganadas / 796 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 319
 
 ### Balance
 
-- **Resultado de los apostadores: +$565,018** sobre $105,370,795 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$6,985** sobre $195,800 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$540,018** sobre $105,395,795 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,085** sobre $195,900 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
-| 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | — | ⏳ Pendiente |
 | 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Tomas Etcheverry | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
