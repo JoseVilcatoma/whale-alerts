@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:37:39 (hora de Perú)
+Actualizado: 2026-09-05 21:39:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1893**  ($100,353,209 en total)
+- Apuestas registradas: **1894**  ($100,386,212 en total)
 - Resueltas: **1869** — 1111 ganadas / 758 perdidas (**59%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 310
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 27 | 1 | 58% | $2,854,828 | +$297,398 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| beachboy4 | 22 | 11 | 1 | 67% | $2,140,856 | +$183,409 |
+| beachboy4 | 22 | 11 | 2 | 67% | $2,173,860 | +$183,409 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | — | ⏳ Pendiente |
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | — | ⏳ Pendiente |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison | 1.25 (80¢) | $32,366 | +$8,091 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will AFC Ajax win on 2026-09-05? | No | 1.67 (60¢) | $29,591 | +$19,727 | ✅ Ganada |
