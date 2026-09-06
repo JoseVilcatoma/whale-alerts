@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 04:45:22 (hora de Perú)
+Actualizado: 2026-09-06 04:47:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1907**  ($101,023,218 en total)
+- Apuestas registradas: **1908**  ($101,075,218 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 313
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| crisp1973 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over 2.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.04 (49¢) | $68,855 | — | ⏳ Pendiente |
 | backback | Will Manchester United FC win on 2026-09-06? | No | 1.96 (51¢) | $58,730 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | Elenes | Spread: Villarreal CF (-1.5) | RC Deportivo A Coruña | 1.69 (59¢) | $25,733 | +$17,882 | ✅ Ganada |
 | 0b1 | US Open WTA: Iga Swiatek vs Marie Bouzkova | Iga Swiatek | 1.15 (87¢) | $39,064 | +$5,837 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tulane vs. Duke | Duke | 1.35 (74¢) | $29,760 | +$10,456 | ✅ Ganada |
-| EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | +$28,793 | ✅ Ganada |
