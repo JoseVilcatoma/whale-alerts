@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 18:02:04 (hora de Perú)
+Actualizado: 2026-09-06 18:04:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2010**  ($106,228,394 en total)
-- Resueltas: **1991** — 1195 ganadas / 796 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **1992** — 1195 ganadas / 797 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 319
 
 ### Balance
 
-- **Resultado de los apostadores: +$540,018** sobre $105,395,795 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,085** sobre $195,900 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$510,018** sobre $105,425,795 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,185** sobre $196,000 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 2 | 63% | $16,987,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 1 | 54% | $4,925,636 | -$135,118 |
-| AV23IUa | 51 | 38 | 2 | 57% | $4,918,102 | -$10,248 |
+| AV23IUa | 51 | 39 | 1 | 57% | $4,918,102 | -$40,248 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 41 | 29 | 1 | 59% | $3,131,752 | +$381,104 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | — | ⏳ Pendiente |
 | BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | — | ⏳ Pendiente |
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | — | ⏳ Pendiente |
-| AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
+| AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
