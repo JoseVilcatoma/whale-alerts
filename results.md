@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 07:37:49 (hora de Perú)
+Actualizado: 2026-09-06 07:39:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1927**  ($102,101,937 en total)
-- Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **1891** — 1126 ganadas / 765 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 313
 
 ### Balance
 
-- **Resultado de los apostadores: +$589,560** sobre $100,237,098 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,596** sobre $185,900 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$636,986** sobre $100,275,901 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,474** sobre $186,000 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 313 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $142,742 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
-| Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | — | ⏳ Pendiente |
+| Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | +$47,426 | ✅ Ganada |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |
 | BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.78 (36¢) | $32,232 | — | ⏳ Pendiente |
