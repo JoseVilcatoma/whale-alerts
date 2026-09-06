@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 19:49:51 (hora de Perú)
+Actualizado: 2026-09-05 19:51:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1886**  ($100,009,644 en total)
-- Resueltas: **1857** — 1105 ganadas / 752 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **1858** — 1106 ganadas / 752 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 309
 
 ### Balance
 
-- **Resultado de los apostadores: +$624,697** sobre $98,919,588 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,456** sobre $182,600 (ROI **-4.6%**)
+- **Resultado de los apostadores: +$642,697** sobre $98,946,588 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,389** sobre $182,700 (ROI **-4.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
-| SDTrading | 13 | 14 | 2 | 48% | $864,999 | -$59,877 |
+| SDTrading | 14 | 14 | 1 | 50% | $864,999 | -$41,877 |
 | WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
 | ferrariChampions2026 | 15 | 7 | 0 | 68% | $756,769 | -$166,401 |
 | xifutloong3 | 9 | 13 | 1 | 41% | $735,138 | -$251,202 |
