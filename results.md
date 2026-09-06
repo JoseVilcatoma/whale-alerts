@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 12:45:20 (hora de Perú)
+Actualizado: 2026-09-06 12:47:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1981**  ($104,962,835 en total)
-- Resueltas: **1941** — 1161 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Resueltas: **1942** — 1162 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: +$373,066** sobre $103,310,558 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,479** sobre $190,900 (ROI **-3.9%**)
+- **Resultado de los apostadores: +$397,066** sobre $103,336,558 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,386** sobre $191,000 (ROI **-3.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 1 | 53% | $4,880,648 | -$163,828 |
 | AV23IUa | 50 | 37 | 2 | 57% | $4,860,489 | -$22,667 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 38 | 27 | 5 | 58% | $3,067,135 | +$326,992 |
+| pleaseplease123 | 39 | 27 | 4 | 59% | $3,067,135 | +$350,992 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $175,199 | +$137,656 | ✅ Ganada |
 | SDTrading | Tampa Bay Rays vs. Texas Rangers: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $28,688 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | +$92,000 | ✅ Ganada |
-| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
 | xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | +$31,796 | ✅ Ganada |
 | sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | — | ⏳ Pendiente |
