@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:48:48 (hora de Perú)
+Actualizado: 2026-09-06 13:50:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1991**  ($105,320,547 en total)
+- Apuestas registradas: **1992**  ($105,358,652 en total)
 - Resueltas: **1957** — 1172 ganadas / 785 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 317
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | — | ⏳ Pendiente |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 317 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 1.96 (51¢) | $332,260 | -$332,260 | ❌ Perdida |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $44,012 | +$45,808 | ✅ Ganada |
 | Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | +$36,796 | ✅ Ganada |
-| ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
