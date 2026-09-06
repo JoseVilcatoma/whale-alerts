@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 22:26:51 (hora de Perú)
+Actualizado: 2026-09-05 22:28:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1895**  ($100,412,477 en total)
+- Apuestas registradas: **1896**  ($100,444,710 en total)
 - Resueltas: **1872** — 1114 ganadas / 758 perdidas (**60%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 310
+- Pendientes: 20
+- Apostadores distintos: 311
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 9 | 0 | 18% | $458,729 | -$367,497 |
 | 007theone1 | 8 | 0 | 0 | 100% | $454,446 | +$131,231 |
 
-_(mostrando los 40 de mayor monto, de 310 en total)_
+_(mostrando los 40 de mayor monto, de 311 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | MOUZ | 1.52 (66¢) | $53,942 | +$27,788 | ✅ Ganada |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | San Francisco Giants | 2.56 (39¢) | $31,200 | +$48,800 | ✅ Ganada |
 | Flaznorp | Will FC Internazionale Milano win on 2026-09-05? | No | 1.96 (51¢) | $26,020 | -$26,020 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | Nemiga | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
