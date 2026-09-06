@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 17:18:18 (hora de Perú)
+Actualizado: 2026-09-06 17:20:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2007**  ($106,106,098 en total)
+- Apuestas registradas: **2008**  ($106,151,086 en total)
 - Resueltas: **1988** — 1194 ganadas / 794 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 319
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 2 | 63% | $16,987,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 1 | 54% | $4,925,636 | -$135,118 |
 | AV23IUa | 51 | 38 | 2 | 57% | $4,918,102 | -$10,248 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 0 | 54% | $4,880,648 | -$135,118 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 41 | 29 | 1 | 59% | $3,131,752 | +$381,104 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | — | ⏳ Pendiente |
 | BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | — | ⏳ Pendiente |
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | -$42,320 | ❌ Perdida |
 | pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $25,903 | +$22,065 | ✅ Ganada |
 | BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | +$27,692 | ✅ Ganada |
-| Daemon99 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
