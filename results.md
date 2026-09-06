@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 09:35:58 (hora de Perú)
+Actualizado: 2026-09-06 09:38:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1954**  ($103,591,880 en total)
+- Apuestas registradas: **1955**  ($103,699,880 en total)
 - Resueltas: **1896** — 1129 ganadas / 767 perdidas (**60%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 314
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
 | xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 314 en total)_
 | MeiGuNiuBi | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | T1 | 1.72 (58¢) | $25,337 | +$18,348 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.23 (81¢) | $48,600 | — | ⏳ Pendiente |
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | +$29,617 | ✅ Ganada |
