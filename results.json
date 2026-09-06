@@ -29391,5 +29391,20 @@
     "status": "pending",
     "ultimo_fill": 1788705473,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 3986,
+    "timestamp": 1788705600,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tb-tex-2026-09-06-total-7pt5",
+    "title": "Tampa Bay Rays vs. Texas Rangers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28687.726600000005,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788705600,
+    "fills": 1
   }
 ]
