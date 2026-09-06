@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 16:29:44 (hora de Perú)
+Actualizado: 2026-09-06 16:31:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2005**  ($105,938,135 en total)
-- Resueltas: **1983** — 1190 ganadas / 793 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **1985** — 1192 ganadas / 793 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 319
 
 ### Balance
 
-- **Resultado de los apostadores: +$526,657** sobre $105,112,610 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,025** sobre $195,100 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$551,307** sobre $105,178,696 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$6,951** sobre $195,300 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 158 | 92 | 4 | 63% | $16,987,683 | +$720,211 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 159 | 92 | 3 | 63% | $16,987,683 | +$730,043 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 51 | 38 | 2 | 57% | $4,918,102 | -$10,248 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 0 | 54% | $4,880,648 | -$135,118 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | — | ⏳ Pendiente |
 | AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | — | ⏳ Pendiente |
 | 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | — | ⏳ Pendiente |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 319 en total)_
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | — | ⏳ Pendiente |
 | bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | +$4,012 | ✅ Ganada |
-| laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | — | ⏳ Pendiente |
+| laozishudaosan | Will Sevilla FC win on 2026-09-06? | No | 1.39 (72¢) | $38,104 | +$14,818 | ✅ Ganada |
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | +$13,713 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | +$13,070 | ✅ Ganada |
