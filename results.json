@@ -28384,5 +28384,20 @@
     "status": "pending",
     "ultimo_fill": 1788657621,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 3880,
+    "timestamp": 1788658794,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-starodu-rybakin-2026-09-05",
+    "title": "US Open WTA: Yulia Starodubtseva vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 70392.21280000001,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1788658823,
+    "fills": 2
   }
 ]

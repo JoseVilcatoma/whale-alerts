@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 20:39:17 (hora de Perú)
+Actualizado: 2026-09-05 20:41:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1888**  ($100,109,684 en total)
+- Apuestas registradas: **1889**  ($100,180,076 en total)
 - Resueltas: **1860** — 1107 ganadas / 753 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 310
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 151 | 92 | 2 | 62% | $16,567,174 | +$578,792 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 151 | 92 | 3 | 62% | $16,637,566 | +$578,792 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 53 | 1 | 54% | $4,835,742 | -$115,513 |
 | AV23IUa | 47 | 36 | 3 | 57% | $4,626,530 | -$64,025 |
 | 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Yulia Starodubtseva vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $70,392 | — | ⏳ Pendiente |
 | Elaran1993 | Athletics vs. Seattle Mariners: O/U 7.5 | Under 7.5 | 2.00 (50¢) | $37,500 | — | ⏳ Pendiente |
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | afraz | Will FC Bayern München win on 2026-09-05? | Yes | 1.19 (84¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 0x78be…bde0 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas | 1.69 (59¢) | $28,362 | +$19,709 | ✅ Ganada |
 | fRibrenlc | Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs | Vitality | 1.67 (60¢) | $26,666 | -$26,666 | ❌ Perdida |
-| sainttroplay | FC Bayern München leading at halftime? | No | 2.44 (41¢) | $30,521 | +$43,920 | ✅ Ganada |
