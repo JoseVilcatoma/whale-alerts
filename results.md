@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:30:14 (hora de Perú)
+Actualizado: 2026-09-06 13:32:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1989**  ($105,238,104 en total)
+- Apuestas registradas: **1990**  ($105,289,690 en total)
 - Resueltas: **1944** — 1164 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 316
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | — | ⏳ Pendiente |
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | — | ⏳ Pendiente |
 | crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | Netrol | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $35,354 | +$36,796 | ✅ Ganada |
 | ndb1 | Will Manchester United FC win on 2026-09-06? | No | 2.04 (49¢) | $48,039 | +$50,000 | ✅ Ganada |
 | robban888 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $110,000 | +$110,000 | ✅ Ganada |
-| CORGI8 | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
