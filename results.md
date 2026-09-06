@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 04:18:25 (hora de Perú)
+Actualizado: 2026-09-06 04:20:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1902**  ($100,701,804 en total)
+- Apuestas registradas: **1905**  ($100,814,727 en total)
 - Resueltas: **1890** — 1125 ganadas / 765 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 11
 - Apostadores distintos: 312
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 153 | 92 | 3 | 62% | $16,712,431 | +$620,832 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 62 | 54 | 0 | 53% | $4,835,742 | -$163,828 |
 | AV23IUa | 49 | 37 | 0 | 57% | $4,626,530 | -$57,167 |
-| 3edmond.dantes | 20 | 10 | 0 | 67% | $4,176,099 | -$116,889 |
+| 3edmond.dantes | 20 | 10 | 1 | 67% | $4,237,935 | -$116,889 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 38 | 27 | 0 | 58% | $2,854,828 | +$326,992 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 312 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.08 (48¢) | $61,835 | — | ⏳ Pendiente |
+| 787-HUEV-W-ZOPE | Will Manchester United FC win on 2026-09-06? | No | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| mimi121 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs | Ninjas in Pyjamas | 1.56 (64¢) | $25,088 | — | ⏳ Pendiente |
 | Sunny24 | Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs | fnatic | 2.22 (45¢) | $38,803 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.59 (63¢) | $42,121 | — | ⏳ Pendiente |
 | BrotherObama | LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs | Dplus KIA | 2.22 (45¢) | $70,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 312 en total)_
 | EV-Andars | Will Red Bull Bragantino win on 2026-09-05? | No | 2.00 (50¢) | $28,793 | +$28,793 | ✅ Ganada |
 | 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $135,090 | -$135,090 | ❌ Perdida |
 | hansama231 | Will OGC Nice win on 2026-09-05? | No | 2.33 (43¢) | $35,923 | +$47,618 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will OGC Nice win on 2026-09-05? | Yes | 1.79 (56¢) | $34,977 | -$34,977 | ❌ Perdida |
-| 3edmond.dantes | Will OGC Nice win on 2026-09-05? | Yes | 1.75 (57¢) | $508,500 | -$508,500 | ❌ Perdida |
-| texaskid | UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims) | Mario Pinto | 1.30 (77¢) | $153,035 | +$45,712 | ✅ Ganada |
