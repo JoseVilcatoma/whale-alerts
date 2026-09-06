@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 13:07:59 (hora de Perú)
+Actualizado: 2026-09-06 13:09:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1983**  ($105,028,914 en total)
+- Apuestas registradas: **1984**  ($105,058,120 en total)
 - Resueltas: **1944** — 1164 ganadas / 780 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 316
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | — | ⏳ Pendiente |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $39,413 | — | ⏳ Pendiente |
 | fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | — | ⏳ Pendiente |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,610 | +$32,610 | ✅ Ganada |
 | gambamaster | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $32,783 | +$32,783 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Everton FC win on 2026-09-06? | No | 1.33 (75¢) | $25,566 | +$8,522 | ✅ Ganada |
-| plonker2026 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
