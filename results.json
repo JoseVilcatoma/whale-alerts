@@ -29343,7 +29343,7 @@
     "side": "BUY",
     "usd": 47694.4799,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788704085,
     "fills": 1
   },
@@ -29478,7 +29478,7 @@
     "side": "BUY",
     "usd": 25610.859998999997,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788706499,
     "fills": 1
   },
@@ -29735,6 +29735,21 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1788712536,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4032,
+    "timestamp": 1788712684,
+    "username": "WTSA",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "slug": "bra-cru-cap-2026-09-06-cru",
+    "title": "Will Cruzeiro EC win on 2026-09-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 32999.9945,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788712684,
     "fills": 1
   }
 ]

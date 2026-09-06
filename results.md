@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 11:36:23 (hora de Perú)
+Actualizado: 2026-09-06 11:38:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **1978**  ($104,806,053 en total)
-- Resueltas: **1927** — 1148 ganadas / 779 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Apuestas registradas: **1979**  ($104,839,053 en total)
+- Resueltas: **1929** — 1149 ganadas / 780 perdidas (**60%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 316
 
 ### Balance
 
-- **Resultado de los apostadores: -$71,987** sobre $102,469,131 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$8,036** sobre $189,500 (ROI **-4.2%**)
+- **Resultado de los apostadores: -$65,801** sobre $102,542,437 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$8,070** sobre $189,700 (ROI **-4.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | SDTrading | 14 | 15 | 1 | 48% | $893,687 | -$71,377 |
-| WTSA | 6 | 8 | 0 | 43% | $831,592 | -$127,095 |
+| WTSA | 6 | 8 | 1 | 43% | $864,592 | -$127,095 |
 | ferrariChampions2026 | 16 | 8 | 0 | 67% | $808,955 | -$189,947 |
 | xifutloong3 | 10 | 13 | 1 | 43% | $763,804 | -$224,500 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | — | ⏳ Pendiente |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | — | ⏳ Pendiente |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | — | ⏳ Pendiente |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | — | ⏳ Pendiente |
-| t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | — | ⏳ Pendiente |
+| t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | — | ⏳ Pendiente |
 | Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | — | ⏳ Pendiente |
@@ -97,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.85 (54¢) | $108,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $44,905 | — | ⏳ Pendiente |
-| xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | — | ⏳ Pendiente |
+| xabidaking | Spread: FC Barcelona (-1.5) | FC Barcelona | 1.67 (60¢) | $47,694 | +$31,796 | ✅ Ganada |
 | sulumos | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | Karmine Corp | 2.17 (46¢) | $42,320 | — | ⏳ Pendiente |
 | pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $25,903 | — | ⏳ Pendiente |
 | BrotherObama | LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs | G2 Esports | 1.92 (52¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 316 en total)_
 | 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $62,222 | -$62,222 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $42,688 | +$42,688 | ✅ Ganada |
 | RegardedMoney | Will Manchester United FC win on 2026-09-06? | No | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| 3edmond.dantes | Will Manchester United FC win on 2026-09-06? | Yes | 2.00 (50¢) | $84,427 | -$84,427 | ❌ Perdida |
