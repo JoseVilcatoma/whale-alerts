@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-05 21:27:32 (hora de Perú)
+Actualizado: 2026-09-05 21:29:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1892**  ($100,292,244 en total)
-- Resueltas: **1865** — 1108 ganadas / 757 perdidas (**59%** de acierto)
-- Pendientes: 23
+- Resueltas: **1868** — 1111 ganadas / 757 perdidas (**59%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 310
 
 ### Balance
 
-- **Resultado de los apostadores: +$516,970** sobre $99,215,062 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,685** sobre $183,400 (ROI **-4.7%**)
+- **Resultado de los apostadores: +$548,516** sobre $99,326,991 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,605** sobre $183,700 (ROI **-4.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 26 | 2 | 59% | $2,854,828 | +$326,448 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| beachboy4 | 20 | 11 | 2 | 65% | $2,079,892 | +$155,864 |
+| beachboy4 | 22 | 11 | 0 | 67% | $2,079,892 | +$183,409 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | omomom3 | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | Spirit | 1.49 (67¢) | $62,540 | — | ⏳ Pendiente |
 | laozishudaosan | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.27 (44¢) | $27,249 | — | ⏳ Pendiente |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $42,433 | — | ⏳ Pendiente |
-| martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | — | ⏳ Pendiente |
+| martingaleking | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.15 (87¢) | $26,780 | +$4,002 | ✅ Ganada |
 | wigglew | Will Fluminense FC win on 2026-09-05? | No | 1.72 (58¢) | $43,848 | — | ⏳ Pendiente |
 | xifutloong3 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays | 1.54 (65¢) | $49,588 | +$26,701 | ✅ Ganada |
 | Sassy-Bucket | UNLV vs. Hawai'i | UNLV | 1.75 (57¢) | $96,494 | — | ⏳ Pendiente |
@@ -89,8 +89,8 @@ _(mostrando los 40 de mayor monto, de 310 en total)_
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.92 (52¢) | $43,330 | -$43,330 | ❌ Perdida |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $31,219 | -$31,219 | ❌ Perdida |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners | 1.47 (68¢) | $39,688 | — | ⏳ Pendiente |
-| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | — | ⏳ Pendiente |
-| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | — | ⏳ Pendiente |
+| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.32 (76¢) | $47,768 | +$15,084 | ✅ Ganada |
+| beachboy4 | US Open WTA: Naomi Osaka vs Elise Mertens | Naomi Osaka | 1.33 (75¢) | $37,381 | +$12,460 | ✅ Ganada |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6.5 | Over 6.5 | 1.85 (54¢) | $34,741 | — | ⏳ Pendiente |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers | 1.72 (58¢) | $46,218 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Pittsburgh Pirates | Pittsburgh Pirates | 1.59 (63¢) | $48,315 | -$48,315 | ❌ Perdida |
