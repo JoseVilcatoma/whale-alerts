@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 00:45:32 (hora de Perú)
+Actualizado: 2026-09-06 00:47:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **1896**  ($100,444,710 en total)
-- Resueltas: **1883** — 1119 ganadas / 764 perdidas (**59%** de acierto)
-- Pendientes: 9
+- Resueltas: **1885** — 1121 ganadas / 764 perdidas (**59%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 311
 
 ### Balance
 
-- **Resultado de los apostadores: +$431,017** sobre $99,906,250 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,892** sobre $185,200 (ROI **-4.8%**)
+- **Resultado de los apostadores: +$452,077** sobre $100,000,218 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,848** sobre $185,400 (ROI **-4.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | pleaseplease123 | 37 | 27 | 1 | 58% | $2,854,828 | +$297,398 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| beachboy4 | 22 | 11 | 2 | 67% | $2,173,860 | +$183,409 |
+| beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 45 | 5 | 0 | 90% | $1,948,382 | +$125,174 |
 | 0F62 | 20 | 2 | 0 | 91% | $1,759,821 | +$70,959 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 311 en total)_
 |---|---|---|---|---|---|---|
 | WINSONS | Will Manchester United FC win on 2026-09-06? | Yes | 2.17 (46¢) | $32,234 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Jakub Mensik vs Learner Tien | Learner Tien | 2.13 (47¢) | $26,265 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.20 (83¢) | $33,003 | +$6,760 | ✅ Ganada |
+| beachboy4 | US Open ATP: Alexander Zverev vs Alejandro Tabilo | Alexander Zverev | 1.23 (81¢) | $60,965 | +$14,300 | ✅ Ganada |
 | User1244322 | Clemson vs. LSU | LSU | 1.28 (78¢) | $49,112 | +$13,852 | ✅ Ganada |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky | 1.96 (51¢) | $31,860 | — | ⏳ Pendiente |
 | martingaleking | Clemson vs. LSU | LSU | 1.28 (78¢) | $31,196 | +$8,799 | ✅ Ganada |
