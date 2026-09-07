@@ -31311,5 +31311,20 @@
     "status": "pending",
     "ultimo_fill": 1788810288,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4255,
+    "timestamp": 1788811435,
+    "username": "ThisAgain",
+    "wallet": "0x2cff41636fe21fad120fed603d54d4fdd96259db",
+    "slug": "wta-osaka-rybakin-2026-09-07",
+    "title": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 33224.918099999995,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788811435,
+    "fills": 1
   }
 ]
