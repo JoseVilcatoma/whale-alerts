@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 19:59:46 (hora de Perú)
+Actualizado: 2026-09-06 20:01:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2016**  ($106,430,305 en total)
-- Resueltas: **2000** — 1199 ganadas / 801 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2001** — 1200 ganadas / 801 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 320
 
 ### Balance
 
-- **Resultado de los apostadores: +$451,202** sobre $105,723,854 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,407** sobre $196,800 (ROI **-3.8%**)
+- **Resultado de los apostadores: +$468,769** sobre $105,773,854 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,372** sobre $196,900 (ROI **-3.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | SkyonX | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $27,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | +$3,787 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | — | ⏳ Pendiente |
-| 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | +$17,568 | ✅ Ganada |
 | BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | — | ⏳ Pendiente |
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | — | ⏳ Pendiente |
 | AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
