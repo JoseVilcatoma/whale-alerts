@@ -30321,5 +30321,20 @@
     "status": "pending",
     "ultimo_fill": 1788744389,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4154,
+    "timestamp": 1788745817,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-lou-miss-2026-09-06",
+    "title": "Louisville vs. Ole Miss",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "usd": 32195.399999999998,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788745817,
+    "fills": 1
   }
 ]

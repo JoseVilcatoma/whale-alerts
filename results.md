@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 20:49:13 (hora de Perú)
+Actualizado: 2026-09-06 20:51:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2017**  ($106,472,105 en total)
+- Apuestas registradas: **2018**  ($106,504,300 en total)
 - Resueltas: **2008** — 1206 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 320
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 48 | 5 | 0 | 91% | $2,067,003 | +$139,734 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
-| wr0ngw4yb3tt0r | 18 | 13 | 1 | 58% | $1,788,349 | -$552,805 |
+| wr0ngw4yb3tt0r | 18 | 13 | 2 | 58% | $1,820,544 | -$552,805 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | — | ⏳ Pendiente |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | — | ⏳ Pendiente |
 | SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
-| Flaznorp | Will Everton FC vs. Manchester United FC end in a draw? | Yes | 1.56 (64¢) | $37,382 | +$21,028 | ✅ Ganada |
