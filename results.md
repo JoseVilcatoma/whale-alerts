@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:18:01 (hora de Perú)
+Actualizado: 2026-09-07 13:20:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2071**  ($108,758,181 en total)
+- Apuestas registradas: **2072**  ($108,784,238 en total)
 - Resueltas: **2033** — 1229 ganadas / 804 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 325
 
 ### Balance
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 17 | 8 | 1 | 68% | $871,614 | -$180,202 |
+| totoro3miyazaki | 8 | 1 | 7 | 89% | $852,593 | +$321,097 |
 | xifutloong3 | 12 | 13 | 1 | 48% | $839,992 | -$173,934 |
-| totoro3miyazaki | 8 | 1 | 6 | 89% | $826,536 | +$321,097 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $26,057 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $57,616 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $36,828 | — | ⏳ Pendiente |
 | betopinto | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $32,175 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.45 (69¢) | $29,870 | +$13,420 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | +$21,000 | ✅ Ganada |
-| AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | -$29,700 | ❌ Perdida |
