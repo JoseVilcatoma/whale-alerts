@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 18:36:15 (hora de Perú)
+Actualizado: 2026-09-07 18:38:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2095**  ($109,694,963 en total)
+- Apuestas registradas: **2096**  ($109,737,465 en total)
 - Resueltas: **2076** — 1256 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 326
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 93 | 3 | 64% | $17,222,773 | +$767,880 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 65 | 55 | 1 | 54% | $5,017,043 | -$118,540 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 65 | 55 | 2 | 54% | $5,059,545 | -$118,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.86 (35¢) | $33,445 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $72,625 | +$11,823 | ✅ Ganada |
 | laozishudaosan | Will Elche CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.37 (73¢) | $37,324 | +$13,805 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
-| Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $34,923 | — | ⏳ Pendiente |
