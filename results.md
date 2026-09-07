@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 14:40:49 (hora de Perú)
+Actualizado: 2026-09-07 14:42:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2081**  ($109,190,191 en total)
+- Apuestas registradas: **2082**  ($109,234,191 en total)
 - Resueltas: **2040** — 1234 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 325
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Elche CF vs. Real Sociedad de Fútbol: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $45,190 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | 0x78be…bde0 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $30,000 | +$6,145 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $45,997 | +$8,761 | ✅ Ganada |
-| xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | +$30,645 | ✅ Ganada |
