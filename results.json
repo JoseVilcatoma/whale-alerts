@@ -31223,7 +31223,7 @@
     "fills": 2
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 4242,
     "timestamp": 1788806550,
     "username": "0xwise",
     "wallet": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
