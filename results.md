@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 14:20:03 (hora de Perú)
+Actualizado: 2026-09-07 14:22:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2081**  ($109,190,191 en total)
-- Resueltas: **2036** — 1230 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Resueltas: **2037** — 1231 ganadas / 806 perdidas (**60%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 325
 
 ### Balance
 
-- **Resultado de los apostadores: +$850,982** sobre $107,373,583 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,329** sobre $200,400 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$863,880** sobre $107,399,770 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,280** sobre $200,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
-| xifutloong3 | 12 | 13 | 2 | 48% | $872,758 | -$173,934 |
+| xifutloong3 | 13 | 13 | 1 | 50% | $872,758 | -$161,036 |
 | ferrariChampions2026 | 17 | 8 | 1 | 68% | $871,614 | -$180,202 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | DonaldinhoTrumpito | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $114,423 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
-| xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | — | ⏳ Pendiente |
+| xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | +$12,898 | ✅ Ganada |
 | Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | -$41,700 | ❌ Perdida |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. NEOM SC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $41,330 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | +$9,292 | ✅ Ganada |
