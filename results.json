@@ -30976,10 +30976,25 @@
     "title": "US Open WTA: Naomi Osaka vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "usd": 26585.585600000002,
-    "odds_at_bet": 56,
+    "usd": 114422.7509,
+    "odds_at_bet": 57,
     "status": "pending",
-    "ultimo_fill": 1788803154,
+    "ultimo_fill": 1788803224,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 4219,
+    "timestamp": 1788803312,
+    "username": "DonaldinhoTrumpito",
+    "wallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+    "slug": "atp-cerundo-blockx-2026-09-06",
+    "title": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+    "outcome": "Alexander Blockx",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788803312,
     "fills": 1
   }
 ]

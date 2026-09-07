@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 12:47:03 (hora de Perú)
+Actualizado: 2026-09-07 12:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2061**  ($108,293,696 en total)
+- Apuestas registradas: **2062**  ($108,411,533 en total)
 - Resueltas: **2026** — 1223 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 324
 
 ### Balance
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.79 (56¢) | $26,586 | — | ⏳ Pendiente |
+| DonaldinhoTrumpito | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
+| Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $114,423 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | +$30,614 | ✅ Ganada |
 | AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
