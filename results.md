@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 12:34:32 (hora de Perú)
+Actualizado: 2026-09-07 12:36:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2059**  ($108,207,111 en total)
+- Apuestas registradas: **2060**  ($108,267,111 en total)
 - Resueltas: **2025** — 1222 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 323
 
 ### Balance
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
+| BrotherObama | 2 | 5 | 4 | ⚠️ 29% (7) | $500,736 | -$56,192 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
-| Talvez10 | 5 | 3 | 1 | 62% | $483,007 | +$219,463 |
 
 _(mostrando los 40 de mayor monto, de 323 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | — | ⏳ Pendiente |
 | Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. NEOM SC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $41,330 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | -$42,485 | ❌ Perdida |
