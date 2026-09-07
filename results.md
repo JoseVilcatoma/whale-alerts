@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 15:15:46 (hora de Perú)
+Actualizado: 2026-09-07 15:17:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2084**  ($109,292,416 en total)
+- Apuestas registradas: **2085**  ($109,320,416 en total)
 - Resueltas: **2040** — 1234 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 326
 
 ### Balance
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
+| ferrariChampions2026 | 17 | 8 | 2 | 68% | $899,614 | -$180,202 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | xifutloong3 | 13 | 13 | 1 | 50% | $872,758 | -$161,036 |
-| ferrariChampions2026 | 17 | 8 | 1 | 68% | $871,614 | -$180,202 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $28,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $33,225 | — | ⏳ Pendiente |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $49,500 | +$9,429 | ✅ Ganada |
 | 0x6db5…e279 | Louisville vs. Ole Miss | Ole Miss | 1.37 (73¢) | $86,362 | +$31,942 | ✅ Ganada |
-| 0x78be…bde0 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $30,000 | +$6,145 | ✅ Ganada |
