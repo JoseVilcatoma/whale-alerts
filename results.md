@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 19:03:49 (hora de Perú)
+Actualizado: 2026-09-06 19:05:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2016**  ($106,430,305 en total)
-- Resueltas: **1998** — 1197 ganadas / 801 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2000** — 1199 ganadas / 801 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 320
 
 ### Balance
 
-- **Resultado de los apostadores: +$444,206** sobre $105,623,267 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,421** sobre $196,600 (ROI **-3.8%**)
+- **Resultado de los apostadores: +$451,202** sobre $105,723,854 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,407** sobre $196,800 (ROI **-3.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,9 +33,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
-| 0b1 | 47 | 5 | 1 | 90% | $2,067,003 | +$136,525 |
+| 0b1 | 48 | 5 | 0 | 91% | $2,067,003 | +$139,734 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
-| wr0ngw4yb3tt0r | 17 | 13 | 2 | 57% | $1,788,349 | -$556,591 |
+| wr0ngw4yb3tt0r | 18 | 13 | 1 | 58% | $1,788,349 | -$552,805 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | — | ⏳ Pendiente |
 | AV23IUa | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.17 (46¢) | $25,266 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $27,000 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | +$3,787 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | — | ⏳ Pendiente |
 | BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | — | ⏳ Pendiente |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sevilla FC win on 2026-09-06? | No | 1.35 (74¢) | $27,981 | +$9,831 | ✅ Ganada |
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | -$42,485 | ❌ Perdida |
-| 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | — | ⏳ Pendiente |
+| 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | +$3,209 | ✅ Ganada |
 | 0x78be…bde0 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Tomas Etcheverry | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Alex Michelsen | 1.19 (84¢) | $37,542 | +$7,151 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | — | ⏳ Pendiente |
