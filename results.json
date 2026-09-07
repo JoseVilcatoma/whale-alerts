@@ -30873,7 +30873,7 @@
     "side": "BUY",
     "usd": 36500.0,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788799058,
     "fills": 1
   },
@@ -31085,6 +31085,36 @@
     "odds_at_bet": 35,
     "status": "pending",
     "ultimo_fill": 1788804650,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4226,
+    "timestamp": 1788804774,
+    "username": "betopinto",
+    "wallet": "0xee0bcf86a719c9c1023906718034cca17498e6d4",
+    "slug": "sea-udi-laz-2026-09-07-laz",
+    "title": "Will SS Lazio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32175.0,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788804774,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4228,
+    "timestamp": 1788804826,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "sea-udi-laz-2026-09-07-laz",
+    "title": "Will SS Lazio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36827.700000000004,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788804826,
     "fills": 1
   }
 ]
