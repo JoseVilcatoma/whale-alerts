@@ -31431,5 +31431,20 @@
     "status": "pending",
     "ultimo_fill": 1788820107,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4300,
+    "timestamp": 1788820608,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "atp-khachan-tien-2026-09-07",
+    "title": "US Open ATP: Karen Khachanov vs Learner Tien",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "usd": 56773.068894,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788820608,
+    "fills": 2
   }
 ]
