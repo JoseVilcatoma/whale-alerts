@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 21:07:39 (hora de Perú)
+Actualizado: 2026-09-06 21:09:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2019**  ($106,536,300 en total)
+- Apuestas registradas: **2020**  ($106,571,300 en total)
 - Resueltas: **2008** — 1206 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 320
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | — | ⏳ Pendiente |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | +$34,572 | ✅ Ganada |
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
