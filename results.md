@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 12:07:49 (hora de Perú)
+Actualizado: 2026-09-07 12:09:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2057**  ($108,139,223 en total)
+- Apuestas registradas: **2058**  ($108,180,923 en total)
 - Resueltas: **2025** — 1222 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 323
 
 ### Balance
@@ -37,8 +37,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 21 | 13 | 1 | 62% | $1,898,894 | -$509,160 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| Sassy-Bucket | 16 | 17 | 1 | 48% | $1,605,143 | -$121,443 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| Sassy-Bucket | 16 | 17 | 0 | 48% | $1,563,443 | -$121,443 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. NEOM SC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $41,330 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | — | ⏳ Pendiente |
 | flawfence | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.33 (75¢) | $28,963 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | 0x78be…bde0 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xwise | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.72 (58¢) | $42,485 | -$42,485 | ❌ Perdida |
 | 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | +$3,209 | ✅ Ganada |
-| 0x78be…bde0 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Tomas Etcheverry | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
