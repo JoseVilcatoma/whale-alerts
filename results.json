@@ -30621,5 +30621,20 @@
     "status": "pending",
     "ultimo_fill": 1788791867,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4192,
+    "timestamp": 1788792126,
+    "username": "laozishudaosan",
+    "wallet": "0xa08455c829a493054315e40e7817321e8c77bb99",
+    "slug": "lal-elc-rso-2026-09-07-draw",
+    "title": "Will Elche CF vs. Real Sociedad de F\u00fatbol end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 37323.7685,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1788792126,
+    "fills": 1
   }
 ]

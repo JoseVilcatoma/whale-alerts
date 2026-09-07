@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 09:41:58 (hora de Perú)
+Actualizado: 2026-09-07 09:44:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2037**  ($107,233,615 en total)
+- Apuestas registradas: **2038**  ($107,270,939 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 323
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| laozishudaosan | Will Elche CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.37 (73¢) | $37,324 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $34,923 | — | ⏳ Pendiente |
 | x55x | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.56 (39¢) | $41,353 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | +$55,932 | ✅ Ganada |
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | +$51,042 | ✅ Ganada |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
-| xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | +$19,921 | ✅ Ganada |
