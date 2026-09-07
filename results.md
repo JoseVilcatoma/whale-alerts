@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 23:40:05 (hora de Perú)
+Actualizado: 2026-09-06 23:42:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2028**  ($106,934,775 en total)
+- Apuestas registradas: **2029**  ($106,964,255 en total)
 - Resueltas: **2019** — 1217 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 320
 
 ### Balance
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 17 | 8 | 0 | 68% | $845,614 | -$180,202 |
 | xifutloong3 | 11 | 13 | 1 | 46% | $813,804 | -$204,579 |
+| gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| gransaaa | 7 | 7 | 1 | 50% | $594,595 | -$27,890 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
 | plonker2026 | 6 | 6 | 0 | 50% | $552,830 | -$129,209 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.49 (67¢) | $29,480 | — | ⏳ Pendiente |
 | gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $49,500 | +$9,429 | ✅ Ganada |
 | 0x6db5…e279 | Louisville vs. Ole Miss | Ole Miss | 1.37 (73¢) | $86,362 | +$31,942 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 6.5 | Over 6.5 | 1.69 (59¢) | $26,636 | -$26,636 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.56 (39¢) | $86,031 | -$86,031 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.67 (60¢) | $51,067 | +$34,045 | ✅ Ganada |
-| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | +$67,381 | ✅ Ganada |
