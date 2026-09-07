@@ -30771,5 +30771,20 @@
     "status": "pending",
     "ultimo_fill": 1788796145,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4203,
+    "timestamp": 1788796351,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "sea-cag-lec-2026-09-07-cag",
+    "title": "Will Cagliari Calcio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 79146.78,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788796351,
+    "fills": 1
   }
 ]

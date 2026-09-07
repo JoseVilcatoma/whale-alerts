@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 10:50:50 (hora de Perú)
+Actualizado: 2026-09-07 10:52:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2047**  ($107,622,129 en total)
+- Apuestas registradas: **2048**  ($107,701,276 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 323
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 42 | 29 | 1 | 59% | $3,161,752 | +$440,751 |
-| ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
+| ripley86alien | 23 | 10 | 1 | 70% | $2,946,042 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 48 | 5 | 0 | 91% | $2,067,003 | +$139,734 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $79,147 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.56 (64¢) | $31,420 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | 0xce80d88324cb4D080Da754aD95f2B4b42D709a82-1781952621820 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 2.04 (49¢) | $30,857 | +$32,117 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | +$13,713 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | +$13,070 | ✅ Ganada |
-| ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | +$9,745 | ✅ Ganada |
