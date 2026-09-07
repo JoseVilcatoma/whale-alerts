@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 16:11:38 (hora de Perú)
+Actualizado: 2026-09-07 16:13:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2090**  ($109,473,352 en total)
-- Resueltas: **2058** — 1243 ganadas / 815 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **2059** — 1243 ganadas / 816 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$985,588** sobre $108,222,342 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,000** sobre $202,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$950,588** sobre $108,257,342 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,100** sobre $202,700 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
-| BrotherObama | 2 | 7 | 2 | 22% | $500,736 | -$121,192 |
+| BrotherObama | 2 | 8 | 1 | 20% | $500,736 | -$156,192 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | -$35,000 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
-| BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
+| BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $35,000 | -$35,000 | ❌ Perdida |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $30,145 | +$4,907 | ✅ Ganada |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $72,625 | +$11,823 | ✅ Ganada |
 | laozishudaosan | Will Elche CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.37 (73¢) | $37,324 | — | ⏳ Pendiente |
