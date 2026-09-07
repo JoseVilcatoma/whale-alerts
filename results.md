@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 16:09:35 (hora de Perú)
+Actualizado: 2026-09-07 16:11:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2090**  ($109,473,352 en total)
-- Resueltas: **2057** — 1242 ganadas / 815 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Resueltas: **2058** — 1243 ganadas / 815 perdidas (**60%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$937,189** sobre $108,165,525 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,085** sobre $202,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$985,588** sobre $108,222,342 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,000** sobre $202,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 2 | 54% | $5,017,043 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 42 | 30 | 1 | 58% | $3,218,569 | +$410,752 |
+| pleaseplease123 | 43 | 30 | 0 | 59% | $3,218,569 | +$459,152 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Elche CF vs. Real Sociedad de Fútbol: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $45,190 | — | ⏳ Pendiente |
-| pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | +$48,400 | ✅ Ganada |
 | xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | +$38,538 | ✅ Ganada |
