@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 14:32:34 (hora de Perú)
+Actualizado: 2026-09-07 14:34:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2081**  ($109,190,191 en total)
-- Resueltas: **2037** — 1231 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Resueltas: **2040** — 1234 ganadas / 806 perdidas (**60%** de acierto)
+- Pendientes: 37
 - Apostadores distintos: 325
 
 ### Balance
 
-- **Resultado de los apostadores: +$863,880** sobre $107,399,770 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,280** sobre $200,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$945,689** sobre $107,558,574 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,125** sobre $200,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| totoro3miyazaki | 8 | 1 | 11 | 89% | $1,032,691 | +$321,097 |
+| totoro3miyazaki | 11 | 1 | 8 | 92% | $1,032,691 | +$402,905 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 2 | 93% | $1,015,008 | +$51,298 |
 | Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -99,9 +99,9 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | +$9,292 | ✅ Ganada |
 | flawfence | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.33 (75¢) | $28,963 | +$9,654 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek | 1.37 (73¢) | $36,500 | -$36,500 | ❌ Perdida |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | +$22,970 | ✅ Ganada |
+| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | +$13,394 | ✅ Ganada |
+| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | +$45,444 | ✅ Ganada |
 | 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | +$11,731 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes | 2.33 (43¢) | $32,353 | +$42,887 | ✅ Ganada |
 | ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $148,587 | -$148,587 | ❌ Perdida |
