@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 22:36:38 (hora de Perú)
+Actualizado: 2026-09-06 22:38:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2026**  ($106,858,875 en total)
+- Apuestas registradas: **2027**  ($106,908,375 en total)
 - Resueltas: **2011** — 1209 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 320
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 3 | 63% | $17,029,183 | +$759,486 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 4 | 63% | $17,078,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 51 | 41 | 1 | 55% | $4,973,068 | -$97,562 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 54 | 1 | 54% | $4,957,636 | -$102,540 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $49,500 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Louisville vs. Ole Miss | Ole Miss | 1.37 (73¢) | $86,362 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $41,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.67 (60¢) | $51,067 | +$34,045 | ✅ Ganada |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | +$67,381 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | +$32,343 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | -$100,197 | ❌ Perdida |
