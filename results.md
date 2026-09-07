@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 11:37:06 (hora de Perú)
+Actualizado: 2026-09-07 11:39:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2053**  ($107,995,261 en total)
+- Apuestas registradas: **2054**  ($108,031,761 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 323
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 162 | 92 | 4 | 64% | $17,149,104 | +$777,414 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 162 | 92 | 5 | 64% | $17,185,604 | +$777,414 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | 0b1 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Alex Michelsen | 1.19 (84¢) | $37,542 | +$7,151 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | +$59,647 | ✅ Ganada |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | -$27,613 | ❌ Perdida |
-| bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | -$25,280 | ❌ Perdida |
