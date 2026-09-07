@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 15:46:29 (hora de Perú)
+Actualizado: 2026-09-07 15:48:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2087**  ($109,380,475 en total)
-- Resueltas: **2040** — 1234 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Resueltas: **2043** — 1234 ganadas / 809 perdidas (**60%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$945,689** sobre $107,558,574 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,125** sobre $200,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$850,689** sobre $107,653,574 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,425** sobre $201,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 1 | 54% | $4,986,080 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 42 | 29 | 2 | 59% | $3,218,569 | +$440,751 |
+| pleaseplease123 | 42 | 30 | 1 | 58% | $3,218,569 | +$410,752 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
-| BrotherObama | 2 | 5 | 4 | ⚠️ 29% (7) | $500,736 | -$56,192 |
+| BrotherObama | 2 | 7 | 2 | 22% | $500,736 | -$121,192 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
@@ -114,9 +114,9 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.56 (64¢) | $31,420 | +$17,674 | ✅ Ganada |
 | AV23IUa | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $26,000 | — | ⏳ Pendiente |
-| BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | — | ⏳ Pendiente |
-| pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | -$30,000 | ❌ Perdida |
+| BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | -$35,000 | ❌ Perdida |
+| pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $30,145 | +$4,907 | ✅ Ganada |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $72,625 | +$11,823 | ✅ Ganada |
