@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 12:40:42 (hora de Perú)
+Actualizado: 2026-09-07 12:42:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2060**  ($108,267,111 en total)
-- Resueltas: **2025** — 1222 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **2026** — 1223 ganadas / 803 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 323
 
 ### Balance
 
-- **Resultado de los apostadores: +$964,112** sobre $106,850,866 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,363** sobre $199,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$975,843** sobre $106,884,253 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,328** sobre $199,400 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | — | ⏳ Pendiente |
-| 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | +$11,731 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes | 2.33 (43¢) | $32,353 | — | ⏳ Pendiente |
 | ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $148,587 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.56 (64¢) | $31,420 | — | ⏳ Pendiente |
