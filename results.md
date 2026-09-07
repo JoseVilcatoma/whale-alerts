@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 09:09:01 (hora de Perú)
+Actualizado: 2026-09-07 09:11:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2034**  ($107,118,339 en total)
-- Resueltas: **2023** — 1220 ganadas / 803 perdidas (**60%** de acierto)
+- Apuestas registradas: **2035**  ($107,159,693 en total)
+- Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
 - Pendientes: 7
-- Apostadores distintos: 322
+- Apostadores distintos: 323
 
 ### Balance
 
-- **Resultado de los apostadores: +$922,047** sobre $106,795,536 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,512** sobre $199,100 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$933,836** sobre $106,821,777 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,467** sobre $199,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Diabolical-Prize | 7 | 11 | 1 | 39% | $977,461 | -$363,118 |
+| Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 0 | 93% | $928,488 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -65,15 +65,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | totoro3miyazaki | 5 | 1 | 1 | ⚠️ 83% (6) | $468,184 | +$298,678 |
 
-_(mostrando los 40 de mayor monto, de 322 en total)_
+_(mostrando los 40 de mayor monto, de 323 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| x55x | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.56 (39¢) | $41,353 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.19 (84¢) | $29,866 | — | ⏳ Pendiente |
 | fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | +$11,790 | ✅ Ganada |
 | degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.59 (63¢) | $41,567 | — | ⏳ Pendiente |
 | gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.49 (67¢) | $29,480 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 322 en total)_
 | xifutloong3 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds | 1.69 (59¢) | $28,667 | +$19,921 | ✅ Ganada |
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | +$4,200 | ✅ Ganada |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | -$29,680 | ❌ Perdida |
-| 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | -$25,649 | ❌ Perdida |
