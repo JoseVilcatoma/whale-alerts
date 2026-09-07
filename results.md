@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 14:13:48 (hora de Perú)
+Actualizado: 2026-09-07 14:15:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2080**  ($109,145,001 en total)
+- Apuestas registradas: **2081**  ($109,190,191 en total)
 - Resueltas: **2036** — 1230 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 325
 
 ### Balance
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | totoro3miyazaki | 8 | 1 | 11 | 89% | $1,032,691 | +$321,097 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 2 | 93% | $1,015,008 | +$51,298 |
 | Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 1 | 93% | $969,818 | +$51,298 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Elche CF vs. Real Sociedad de Fútbol: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $45,190 | — | ⏳ Pendiente |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $45,997 | +$8,761 | ✅ Ganada |
 | xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | +$30,645 | ✅ Ganada |
-| hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | +$13,112 | ✅ Ganada |

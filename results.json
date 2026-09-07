@@ -31266,5 +31266,20 @@
     "status": "pending",
     "ultimo_fill": 1788807737,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4248,
+    "timestamp": 1788808475,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "lal-elc-rso-2026-09-07-total-0pt5",
+    "title": "Elche CF vs. Real Sociedad de F\u00fatbol: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 45189.74799999999,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1788808475,
+    "fills": 1
   }
 ]
