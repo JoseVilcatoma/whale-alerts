@@ -30801,5 +30801,20 @@
     "status": "pending",
     "ultimo_fill": 1788796588,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4205,
+    "timestamp": 1788797014,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-droguet-chazal-2026-09-07",
+    "title": "Cassis: Titouan Droguet vs Maxime Chazal",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "usd": 33387.0452,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788797014,
+    "fills": 1
   }
 ]
