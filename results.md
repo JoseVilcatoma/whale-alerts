@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 16:05:14 (hora de Perú)
+Actualizado: 2026-09-07 16:07:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2090**  ($109,473,352 en total)
-- Resueltas: **2043** — 1234 ganadas / 809 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Resueltas: **2047** — 1238 ganadas / 809 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$850,689** sobre $107,653,574 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,425** sobre $201,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$945,871** sobre $107,848,632 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,228** sobre $201,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| totoro3miyazaki | 11 | 1 | 8 | 92% | $1,032,691 | +$402,905 |
+| totoro3miyazaki | 15 | 1 | 4 | 94% | $1,032,691 | +$498,087 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 13 | 1 | 2 | 93% | $1,015,008 | +$51,298 |
 | Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -84,17 +84,17 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | — | ⏳ Pendiente |
 | xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $28,328 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | +$38,538 | ✅ Ganada |
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $28,328 | +$13,952 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $26,521 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,088 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $44,790 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $44,790 | +$22,060 | ✅ Ganada |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $26,057 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $57,616 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $36,828 | — | ⏳ Pendiente |
 | betopinto | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $32,175 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $30,968 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.52 (66¢) | $40,049 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.52 (66¢) | $40,049 | +$20,631 | ✅ Ganada |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,761 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.64 (61¢) | $33,034 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.72 (58¢) | $63,800 | — | ⏳ Pendiente |
