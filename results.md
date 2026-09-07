@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 15:40:13 (hora de Perú)
+Actualizado: 2026-09-07 15:42:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2085**  ($109,320,416 en total)
+- Apuestas registradas: **2087**  ($109,380,475 en total)
 - Resueltas: **2040** — 1234 ganadas / 806 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 43
 - Apostadores distintos: 326
 
 ### Balance
@@ -27,13 +27,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 93 | 3 | 64% | $17,222,773 | +$767,880 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 1 | 54% | $4,986,080 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 42 | 29 | 2 | 59% | $3,218,569 | +$440,751 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
-| 0b1 | 48 | 5 | 0 | 91% | $2,067,003 | +$139,734 |
+| 0b1 | 48 | 5 | 1 | 91% | $2,098,618 | +$139,734 |
 | wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.56 (64¢) | $28,444 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $28,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $33,225 | — | ⏳ Pendiente |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.59 (63¢) | $41,567 | — | ⏳ Pendiente |
 | gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.49 (67¢) | $29,480 | — | ⏳ Pendiente |
 | gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.52 (66¢) | $26,400 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $49,500 | +$9,429 | ✅ Ganada |
-| 0x6db5…e279 | Louisville vs. Ole Miss | Ole Miss | 1.37 (73¢) | $86,362 | +$31,942 | ✅ Ganada |
