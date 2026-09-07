@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 21:43:03 (hora de Perú)
+Actualizado: 2026-09-06 21:45:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2021**  ($106,605,016 en total)
+- Apuestas registradas: **2022**  ($106,655,016 en total)
 - Resueltas: **2008** — 1206 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 320
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 17 | 8 | 0 | 68% | $845,614 | -$180,202 |
-| xifutloong3 | 11 | 13 | 0 | 46% | $763,804 | -$204,579 |
+| xifutloong3 | 11 | 13 | 1 | 46% | $813,804 | -$204,579 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | gransaaa | 7 | 7 | 0 | 50% | $568,195 | -$27,890 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | — | ⏳ Pendiente |
 | hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | fRibrenlc | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | 11vsldfdsgfkjgos | US Open WTA: Marta Kostyuk vs Linda Noskova | Marta Kostyuk | 1.72 (58¢) | $34,946 | -$34,946 | ❌ Perdida |
 | predictionlegend | Will Deportivo Alavés win on 2026-09-06? | Yes | 2.38 (42¢) | $25,035 | +$34,572 | ✅ Ganada |
-| mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
