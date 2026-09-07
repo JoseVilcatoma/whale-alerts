@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 00:29:12 (hora de Perú)
+Actualizado: 2026-09-07 00:31:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2029**  ($106,964,255 en total)
-- Resueltas: **2019** — 1217 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2023** — 1220 ganadas / 803 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 320
 
 ### Balance
 
-- **Resultado de los apostadores: +$855,824** sobre $106,653,270 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,699** sobre $198,700 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$922,047** sobre $106,795,536 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,512** sobre $199,100 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 162 | 92 | 2 | 64% | $17,078,683 | +$777,414 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
-| AV23IUa | 51 | 41 | 1 | 55% | $4,973,068 | -$97,562 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 54 | 1 | 54% | $4,957,636 | -$102,540 |
+| AV23IUa | 52 | 41 | 0 | 56% | $4,973,068 | -$67,901 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 42 | 29 | 0 | 59% | $3,131,752 | +$440,751 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 17 | 8 | 0 | 68% | $845,614 | -$180,202 |
-| xifutloong3 | 11 | 13 | 1 | 46% | $813,804 | -$204,579 |
+| xifutloong3 | 12 | 13 | 0 | 48% | $813,804 | -$173,934 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -78,10 +78,10 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | 0x78be…bde0 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $30,000 | +$6,145 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $41,500 | +$8,500 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $45,997 | +$8,761 | ✅ Ganada |
-| xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | — | ⏳ Pendiente |
+| xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | +$30,645 | ✅ Ganada |
 | hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | +$13,112 | ✅ Ganada |
-| IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
+| IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | +$37,917 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | +$21,464 | ✅ Ganada |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | +$13,200 | ✅ Ganada |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | +$3,069 | ✅ Ganada |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.45 (69¢) | $29,870 | +$13,420 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | +$21,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | -$29,700 | ❌ Perdida |
-| AV23IUa | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.17 (46¢) | $25,266 | — | ⏳ Pendiente |
+| AV23IUa | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.17 (46¢) | $25,266 | +$29,660 | ✅ Ganada |
 | SkyonX | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $27,000 | +$9,986 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | +$3,787 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | +$32,578 | ✅ Ganada |
