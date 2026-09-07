@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 17:28:09 (hora de Perú)
+Actualizado: 2026-09-07 17:30:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2090**  ($109,473,352 en total)
+- Apuestas registradas: **2091**  ($109,528,410 en total)
 - Resueltas: **2076** — 1256 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 326
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
-| 0b1 | 49 | 5 | 0 | 91% | $2,098,618 | +$145,313 |
+| 0b1 | 49 | 5 | 1 | 91% | $2,153,676 | +$145,313 |
 | wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0b1 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $55,058 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.19 (84¢) | $29,866 | +$5,689 | ✅ Ganada |
 | fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | +$30,276 | ✅ Ganada |
 | Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | +$11,790 | ✅ Ganada |
-| degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
