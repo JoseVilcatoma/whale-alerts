@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 12:57:28 (hora de Perú)
+Actualizado: 2026-09-07 12:59:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2064**  ($108,501,751 en total)
+- Apuestas registradas: **2065**  ($108,534,785 en total)
 - Resueltas: **2026** — 1223 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 324
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.64 (61¢) | $33,034 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.72 (58¢) | $63,800 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.67 (60¢) | $26,418 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | +$32,578 | ✅ Ganada |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | +$17,568 | ✅ Ganada |
 | BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | +$108,889 | ✅ Ganada |
-| 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | +$30,614 | ✅ Ganada |
