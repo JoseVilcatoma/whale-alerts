@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 11:41:20 (hora de Perú)
+Actualizado: 2026-09-07 11:43:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2054**  ($108,031,761 en total)
-- Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2025** — 1222 ganadas / 803 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 323
 
 ### Balance
 
-- **Resultado de los apostadores: +$933,836** sobre $106,821,777 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,467** sobre $199,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$964,112** sobre $106,850,866 apostados (ROI **+0.9%**)
+- Copiando $100 fijo en cada una: **-$6,363** sobre $199,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $34,923 | — | ⏳ Pendiente |
 | x55x | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.56 (39¢) | $41,353 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.19 (84¢) | $29,866 | — | ⏳ Pendiente |
-| fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | — | ⏳ Pendiente |
+| fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | +$30,276 | ✅ Ganada |
 | Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | +$11,790 | ✅ Ganada |
 | degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.59 (63¢) | $41,567 | — | ⏳ Pendiente |
