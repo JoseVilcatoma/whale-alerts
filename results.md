@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:22:09 (hora de Perú)
+Actualizado: 2026-09-07 13:24:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2074**  ($108,854,116 en total)
+- Apuestas registradas: **2075**  ($108,880,636 en total)
 - Resueltas: **2033** — 1229 ganadas / 804 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 325
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $26,521 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,088 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $44,790 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $26,057 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | +$21,464 | ✅ Ganada |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | +$13,200 | ✅ Ganada |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | +$3,069 | ✅ Ganada |
-| SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |

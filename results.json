@@ -31176,5 +31176,20 @@
     "status": "pending",
     "ultimo_fill": 1788805308,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4239,
+    "timestamp": 1788805382,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "sea-udi-laz-2026-09-07-laz",
+    "title": "Will SS Lazio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26520.793,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788805382,
+    "fills": 1
   }
 ]
