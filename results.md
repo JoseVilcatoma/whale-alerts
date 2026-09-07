@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 22:26:22 (hora de Perú)
+Actualizado: 2026-09-06 22:28:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2025**  ($106,772,513 en total)
-- Resueltas: **2008** — 1206 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Apuestas registradas: **2026**  ($106,858,875 en total)
+- Resueltas: **2011** — 1209 ganadas / 802 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 320
 
 ### Balance
 
-- **Resultado de los apostadores: +$701,783** sobre $106,202,032 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$7,106** sobre $197,600 (ROI **-3.6%**)
+- **Resultado de los apostadores: +$742,964** sobre $106,296,046 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$6,958** sobre $197,900 (ROI **-3.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,17 +71,18 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Louisville vs. Ole Miss | Ole Miss | 1.37 (73¢) | $86,362 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Louisville vs. Ole Miss | Ole Miss | 1.20 (83¢) | $41,500 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.19 (84¢) | $45,997 | — | ⏳ Pendiente |
 | xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | — | ⏳ Pendiente |
-| hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | — | ⏳ Pendiente |
+| hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | +$13,112 | ✅ Ganada |
 | IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | — | ⏳ Pendiente |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | — | ⏳ Pendiente |
-| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | — | ⏳ Pendiente |
-| SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | +$3,069 | ✅ Ganada |
+| SkyonX | Spread: Notre Dame (-21.5) | Notre Dame | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.45 (69¢) | $29,870 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $56,777 | +$21,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Stefanos Tsitsipas | 3.70 (27¢) | $29,700 | -$29,700 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.67 (60¢) | $101,071 | +$67,381 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.61 (62¢) | $52,769 | +$32,343 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs | MOUZ | 2.63 (38¢) | $100,197 | -$100,197 | ❌ Perdida |
-| SemyonMarmeladov | Counter-Strike: Spirit vs MOUZ - Map 3 Winner | Spirit | 1.54 (65¢) | $32,500 | +$17,500 | ✅ Ganada |
