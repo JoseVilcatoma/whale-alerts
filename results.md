@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 10:21:17 (hora de Perú)
+Actualizado: 2026-09-07 10:23:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2041**  ($107,408,709 en total)
+- Apuestas registradas: **2043**  ($107,473,709 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 323
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 52 | 41 | 1 | 56% | $5,014,635 | -$67,901 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 42 | 29 | 0 | 59% | $3,131,752 | +$440,751 |
+| pleaseplease123 | 42 | 29 | 1 | 59% | $3,161,752 | +$440,751 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | — | ⏳ Pendiente |
+| pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $30,145 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $72,625 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | +$10,423 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | +$6,866 | ✅ Ganada |
 | SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | -$29,206 | ❌ Perdida |
-| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $39,413 | +$32,247 | ✅ Ganada |
-| fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |

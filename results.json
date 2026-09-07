@@ -30681,5 +30681,35 @@
     "status": "pending",
     "ultimo_fill": 1788794390,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4196,
+    "timestamp": 1788794497,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-laa-bos-2026-09-07-total-8pt5",
+    "title": "Los Angeles Angels vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 29999.76,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788794497,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4197,
+    "timestamp": 1788794512,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-cle-bal-2026-09-07-total-7pt5",
+    "title": "Cleveland Guardians vs. Baltimore Orioles: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 34999.999999,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788794512,
+    "fills": 1
   }
 ]
