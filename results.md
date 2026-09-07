@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:07:45 (hora de Perú)
+Actualizado: 2026-09-07 13:09:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2065**  ($108,534,785 en total)
+- Apuestas registradas: **2067**  ($108,600,595 en total)
 - Resueltas: **2026** — 1223 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 324
 
 ### Balance
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | ferrariChampions2026 | 17 | 8 | 1 | 68% | $871,614 | -$180,202 |
 | xifutloong3 | 12 | 13 | 1 | 48% | $839,992 | -$173,934 |
-| totoro3miyazaki | 5 | 1 | 6 | ⚠️ 83% (6) | $729,759 | +$298,678 |
+| totoro3miyazaki | 5 | 1 | 8 | ⚠️ 83% (6) | $795,568 | +$298,678 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.52 (66¢) | $40,049 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,761 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.64 (61¢) | $33,034 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.72 (58¢) | $63,800 | — | ⏳ Pendiente |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.67 (60¢) | $26,418 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 324 en total)_
 | SkyonX | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.37 (73¢) | $27,000 | +$9,986 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | +$3,787 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | +$32,578 | ✅ Ganada |
-| 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | +$17,568 | ✅ Ganada |
-| BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | +$108,889 | ✅ Ganada |
