@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 20:22:29 (hora de Perú)
+Actualizado: 2026-09-06 20:24:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2016**  ($106,430,305 en total)
-- Resueltas: **2001** — 1200 ganadas / 801 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2003** — 1202 ganadas / 801 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 320
 
 ### Balance
 
-- **Resultado de los apostadores: +$468,769** sobre $105,773,854 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,372** sobre $196,900 (ROI **-3.7%**)
+- **Resultado de los apostadores: +$637,305** sobre $105,956,434 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,187** sobre $197,100 (ROI **-3.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 51 | 40 | 2 | 56% | $4,973,068 | -$67,862 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 63 | 54 | 1 | 54% | $4,925,636 | -$135,118 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 41 | 29 | 1 | 59% | $3,131,752 | +$381,104 |
+| pleaseplease123 | 42 | 29 | 0 | 59% | $3,131,752 | +$440,751 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington | 1.08 (93¢) | $50,308 | +$3,787 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox | 1.72 (58¢) | $44,988 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Sorana Cirstea | Jessica Pegula | 1.35 (74¢) | $50,000 | +$17,568 | ✅ Ganada |
-| BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | — | ⏳ Pendiente |
+| BrotherObama | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $117,963 | +$108,889 | ✅ Ganada |
 | 0x4247…91c4 | US Open ATP: Ben Shelton vs Stefanos Tsitsipas | Ben Shelton | 1.35 (74¢) | $87,132 | — | ⏳ Pendiente |
 | AV23IUa | Athletics vs. Seattle Mariners | Athletics | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers | 1.43 (70¢) | $68,701 | +$29,443 | ✅ Ganada |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | 0b1 | Washington State vs. Washington | Washington | 1.06 (94¢) | $50,279 | +$3,209 | ✅ Ganada |
 | 0x78be…bde0 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Tomas Etcheverry | 3.33 (30¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open ATP: Alex Michelsen vs Tomas Etcheverry | Alex Michelsen | 1.19 (84¢) | $37,542 | +$7,151 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | — | ⏳ Pendiente |
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 1.92 (52¢) | $64,618 | +$59,647 | ✅ Ganada |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.64 (61¢) | $27,613 | -$27,613 | ❌ Perdida |
 | bands1 | US Open ATP: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.61 (62¢) | $25,280 | -$25,280 | ❌ Perdida |
 | 0F62 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.06 (94¢) | $62,852 | +$4,012 | ✅ Ganada |
