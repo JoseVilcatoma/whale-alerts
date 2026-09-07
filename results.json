@@ -30546,5 +30546,20 @@
     "status": "pending",
     "ultimo_fill": 1788779237,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4186,
+    "timestamp": 1788783339,
+    "username": "fantasticski",
+    "wallet": "0x73b0c271d5acdcbe9a43ffce7fc2bc129fbda9c7",
+    "slug": "cs2-lavked-leo2-2026-09-07",
+    "title": "Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage",
+    "outcome": "Lavked",
+    "side": "BUY",
+    "usd": 29088.820000000003,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788783339,
+    "fills": 1
   }
 ]

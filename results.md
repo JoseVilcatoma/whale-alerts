@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 07:14:06 (hora de Perú)
+Actualizado: 2026-09-07 07:16:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2032**  ($107,059,384 en total)
+- Apuestas registradas: **2033**  ($107,088,473 en total)
 - Resueltas: **2023** — 1220 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 321
+- Pendientes: 6
+- Apostadores distintos: 322
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
 
-_(mostrando los 40 de mayor monto, de 321 en total)_
+_(mostrando los 40 de mayor monto, de 322 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | — | ⏳ Pendiente |
 | degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.59 (63¢) | $41,567 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 321 en total)_
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | -$29,680 | ❌ Perdida |
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | -$25,649 | ❌ Perdida |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | -$32,697 | ❌ Perdida |
-| 0F62 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $29,368 | +$4,005 | ✅ Ganada |
