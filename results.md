@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 10:48:50 (hora de Perú)
+Actualizado: 2026-09-07 10:50:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2046**  ($107,590,709 en total)
+- Apuestas registradas: **2047**  ($107,622,129 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 323
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 162 | 92 | 3 | 64% | $17,117,683 | +$777,414 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 162 | 92 | 4 | 64% | $17,149,104 | +$777,414 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 52 | 41 | 2 | 56% | $5,075,635 | -$67,901 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.56 (64¢) | $31,420 | — | ⏳ Pendiente |
 | AV23IUa | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $26,000 | — | ⏳ Pendiente |
 | BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $51,586 | +$13,713 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $49,169 | +$13,070 | ✅ Ganada |
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $36,659 | +$9,745 | ✅ Ganada |
-| crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
