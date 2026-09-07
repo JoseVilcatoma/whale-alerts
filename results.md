@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:40:31 (hora de Perú)
+Actualizado: 2026-09-07 13:42:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2077**  ($108,990,856 en total)
+- Apuestas registradas: **2078**  ($109,055,417 en total)
 - Resueltas: **2033** — 1229 ganadas / 804 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 325
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $28,328 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $26,521 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | +$13,112 | ✅ Ganada |
 | IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | +$37,917 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | +$21,464 | ✅ Ganada |
