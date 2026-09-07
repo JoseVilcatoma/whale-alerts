@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 09:06:58 (hora de Perú)
+Actualizado: 2026-09-07 09:09:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2033**  ($107,088,473 en total)
+- Apuestas registradas: **2034**  ($107,118,339 en total)
 - Resueltas: **2023** — 1220 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 322
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
 | NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 8 | 4 | 0 | 67% | $467,316 | -$23,795 |
+| totoro3miyazaki | 5 | 1 | 1 | ⚠️ 83% (6) | $468,184 | +$298,678 |
 
 _(mostrando los 40 de mayor monto, de 322 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 322 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.19 (84¢) | $29,866 | — | ⏳ Pendiente |
 | fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | — | ⏳ Pendiente |
 | degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 322 en total)_
 | 0b1 | US Open WTA: Aryna Sabalenka vs Taylor Townsend | Aryna Sabalenka | 1.14 (88¢) | $30,800 | +$4,200 | ✅ Ganada |
 | wigglew | Will Cruzeiro EC win on 2026-09-06? | No | 2.22 (45¢) | $29,680 | -$29,680 | ❌ Perdida |
 | 6d0f571330 | Detroit Tigers vs. Cleveland Guardians: O/U 7.5 | Over 7.5 | 2.33 (43¢) | $25,649 | -$25,649 | ❌ Perdida |
-| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirates: O/U 7.5 | Over 7.5 | 2.17 (46¢) | $32,697 | -$32,697 | ❌ Perdida |
