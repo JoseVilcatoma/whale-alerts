@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 15:58:56 (hora de Perú)
+Actualizado: 2026-09-07 16:01:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2088**  ($109,411,438 en total)
+- Apuestas registradas: **2090**  ($109,473,352 en total)
 - Resueltas: **2043** — 1234 ganadas / 809 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 43
 - Apostadores distintos: 326
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | — | ⏳ Pendiente |
+| SkyonX | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | — | ⏳ Pendiente |
 | 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.56 (64¢) | $28,444 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | fantasticski | Counter-Strike: Lavked vs Leo Team (BO3) - CCT Europe Series #8 Group Stage | Lavked | 2.04 (49¢) | $29,089 | +$30,276 | ✅ Ganada |
 | Diabolical-Prize | LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner | Bilibili Gaming | 1.45 (69¢) | $26,241 | +$11,790 | ✅ Ganada |
 | degenfren | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $27,321 | — | ⏳ Pendiente |
-| AV23IUa | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.59 (63¢) | $41,567 | — | ⏳ Pendiente |
-| gransaaa | Will SS Lazio win on 2026-09-07? | No | 1.49 (67¢) | $29,480 | — | ⏳ Pendiente |

@@ -31386,5 +31386,35 @@
     "status": "pending",
     "ultimo_fill": 1788814397,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4263,
+    "timestamp": 1788814811,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "atp-khachan-tien-2026-09-07",
+    "title": "US Open ATP: Karen Khachanov vs Learner Tien",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "usd": 35000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788814811,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4264,
+    "timestamp": 1788814840,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-gea-zandsch-2026-09-07",
+    "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 26913.758100000003,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788814840,
+    "fills": 1
   }
 ]
