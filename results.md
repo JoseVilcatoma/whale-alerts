@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:48:48 (hora de Perú)
+Actualizado: 2026-09-07 13:50:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2078**  ($109,055,417 en total)
-- Resueltas: **2035** — 1230 ganadas / 805 perdidas (**60%** de acierto)
+- Apuestas registradas: **2079**  ($109,088,184 en total)
+- Resueltas: **2036** — 1230 ganadas / 806 perdidas (**60%** de acierto)
 - Pendientes: 39
 - Apostadores distintos: 325
 
 ### Balance
 
-- **Resultado de los apostadores: +$892,682** sobre $107,331,883 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,229** sobre $200,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$850,982** sobre $107,373,583 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,329** sobre $200,400 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Sassy-Bucket | 16 | 17 | 1 | 48% | $1,605,143 | -$121,443 |
+| Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -48,8 +48,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
+| xifutloong3 | 12 | 13 | 2 | 48% | $872,758 | -$173,934 |
 | ferrariChampions2026 | 17 | 8 | 1 | 68% | $871,614 | -$180,202 |
-| xifutloong3 | 12 | 13 | 1 | 48% | $839,992 | -$173,934 |
 | gransaaa | 7 | 7 | 2 | 50% | $624,075 | -$27,890 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $28,328 | — | ⏳ Pendiente |
@@ -91,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $114,423 | — | ⏳ Pendiente |
 | BrotherObama | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 2.00 (50¢) | $60,000 | — | ⏳ Pendiente |
 | xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | — | ⏳ Pendiente |
-| Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | — | ⏳ Pendiente |
+| Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | -$41,700 | ❌ Perdida |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. NEOM SC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $41,330 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | +$9,292 | ✅ Ganada |
 | flawfence | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.33 (75¢) | $28,963 | +$9,654 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | xifutloong3 | Washington Nationals vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $50,000 | +$30,645 | ✅ Ganada |
 | hurrican | US Open WTA: Anna Kalinskaya vs Emma Navarro | Emma Navarro | 1.39 (72¢) | $33,716 | +$13,112 | ✅ Ganada |
 | IcemanSeason | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers | 2.08 (48¢) | $35,000 | +$37,917 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | -$32,000 | ❌ Perdida |

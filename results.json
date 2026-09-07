@@ -30933,7 +30933,7 @@
     "side": "BUY",
     "usd": 41700.006400000006,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788800928,
     "fills": 1
   },
@@ -31235,6 +31235,21 @@
     "odds_at_bet": 81,
     "status": "pending",
     "ultimo_fill": 1788806550,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4246,
+    "timestamp": 1788807009,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-ari-kc-2026-09-07",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "usd": 32766.84,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788807009,
     "fills": 1
   }
 ]
