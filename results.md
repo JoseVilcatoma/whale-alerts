@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 13:44:36 (hora de Perú)
+Actualizado: 2026-09-07 13:46:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2078**  ($109,055,417 en total)
-- Resueltas: **2033** — 1229 ganadas / 804 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Resueltas: **2035** — 1230 ganadas / 805 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 325
 
 ### Balance
 
-- **Resultado de los apostadores: +$998,383** sobre $107,150,942 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,262** sobre $200,100 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$892,682** sobre $107,331,883 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,229** sobre $200,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,11 +30,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 55 | 0 | 54% | $4,957,636 | -$134,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 42 | 29 | 1 | 59% | $3,161,752 | +$440,751 |
-| ripley86alien | 23 | 10 | 1 | 70% | $3,015,482 | +$967,664 |
+| ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 0 | 69% | $2,173,860 | +$204,469 |
 | 0b1 | 48 | 5 | 0 | 91% | $2,067,003 | +$139,734 |
-| wr0ngw4yb3tt0r | 21 | 13 | 1 | 62% | $1,898,894 | -$509,160 |
+| wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 17 | 1 | 48% | $1,605,143 | -$121,443 |
@@ -100,8 +100,8 @@ _(mostrando los 40 de mayor monto, de 325 en total)_
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | +$11,731 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes | 2.33 (43¢) | $32,353 | — | ⏳ Pendiente |
-| ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $148,587 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes | 2.33 (43¢) | $32,353 | +$42,887 | ✅ Ganada |
+| ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $148,587 | -$148,587 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.56 (64¢) | $31,420 | +$17,674 | ✅ Ganada |
 | AV23IUa | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $26,000 | — | ⏳ Pendiente |
