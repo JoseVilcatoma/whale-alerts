@@ -31251,5 +31251,20 @@
     "status": "pending",
     "ultimo_fill": 1788807009,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4247,
+    "timestamp": 1788807737,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-det-2026-09-07-total-7pt5",
+    "title": "Minnesota Twins vs. Detroit Tigers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 56817.18,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788807737,
+    "fills": 1
   }
 ]
