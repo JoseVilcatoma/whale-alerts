@@ -30636,5 +30636,20 @@
     "status": "pending",
     "ultimo_fill": 1788792126,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4193,
+    "timestamp": 1788792705,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "wta-andreev-potapov-2026-09-06",
+    "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "usd": 72625.28,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788792705,
+    "fills": 1
   }
 ]

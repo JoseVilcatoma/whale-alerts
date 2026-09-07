@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 09:50:11 (hora de Perú)
+Actualizado: 2026-09-07 09:52:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2038**  ($107,270,939 en total)
+- Apuestas registradas: **2039**  ($107,343,564 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 323
 
 ### Balance
@@ -54,6 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
 | plonker2026 | 6 | 6 | 0 | 50% | $552,830 | -$129,209 |
+| totoro3miyazaki | 5 | 1 | 2 | ⚠️ 83% (6) | $540,809 | +$298,678 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
 | Talvez10 | 5 | 3 | 1 | 62% | $483,007 | +$219,463 |
-| NiNo999 | 6 | 6 | 0 | 50% | $481,112 | -$145,627 |
 
 _(mostrando los 40 de mayor monto, de 323 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.16 (86¢) | $72,625 | — | ⏳ Pendiente |
 | laozishudaosan | Will Elche CF vs. Real Sociedad de Fútbol end in a draw? | No | 1.37 (73¢) | $37,324 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $34,923 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | fRibrenlc | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $26,666 | +$6,667 | ✅ Ganada |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins | 2.27 (44¢) | $43,946 | +$55,932 | ✅ Ganada |
 | AV23IUa | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians | 1.64 (61¢) | $79,835 | +$51,042 | ✅ Ganada |
-| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
