@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 10:32:37 (hora de Perú)
+Actualizado: 2026-09-07 10:34:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2043**  ($107,473,709 en total)
+- Apuestas registradas: **2044**  ($107,503,709 en total)
 - Resueltas: **2024** — 1221 ganadas / 803 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 323
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 323 en total)_
 | crisp1973 | Will Olympique de Marseille win on 2026-09-06? | Yes | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | SemyonMarmeladov | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $41,691 | +$10,423 | ✅ Ganada |
 | ArturitoFilito | US Open ATP: Tommy Paul vs Carlos Alcaraz | Carlos Alcaraz | 1.25 (80¢) | $27,465 | +$6,866 | ✅ Ganada |
-| SkyonX | Arizona Diamondbacks vs. Houston Astros | Houston Astros | 1.89 (53¢) | $29,206 | -$29,206 | ❌ Perdida |
