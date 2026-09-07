@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-06 20:59:27 (hora de Perú)
+Actualizado: 2026-09-06 21:01:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2018**  ($106,504,300 en total)
+- Apuestas registradas: **2019**  ($106,536,300 en total)
 - Resueltas: **2008** — 1206 ganadas / 802 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 320
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 160 | 92 | 2 | 63% | $16,987,683 | +$759,486 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 51 | 41 | 1 | 55% | $4,973,068 | -$97,562 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 54 | 0 | 54% | $4,925,636 | -$102,540 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 64 | 54 | 1 | 54% | $4,957,636 | -$102,540 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 42 | 29 | 0 | 59% | $3,131,752 | +$440,751 |
 | ripley86alien | 23 | 10 | 0 | 70% | $2,866,895 | +$967,664 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. Los Angeles Dodgers | Washington Nationals | 2.78 (36¢) | $32,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss | 1.67 (60¢) | $32,195 | — | ⏳ Pendiente |
 | martingaleking | Louisville vs. Ole Miss | Ole Miss | 1.32 (76¢) | $41,800 | — | ⏳ Pendiente |
 | 0x418D51e13d019913BB027DB22ECc723fe1AD88A3-1720918577961 | Wisconsin vs. Notre Dame | Notre Dame | 1.09 (92¢) | $35,298 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 320 en total)_
 | mooseborzoi | Will Arsenal FC win on 2026-09-06? | Yes | 1.75 (57¢) | $33,261 | +$25,091 | ✅ Ganada |
 | t198 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $25,611 | -$25,611 | ❌ Perdida |
 | totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $36,666 | +$28,809 | ✅ Ganada |
-| totoro3miyazaki | Will Stade Rennais FC 1901 win on 2026-09-06? | Yes | 1.79 (56¢) | $55,252 | +$43,413 | ✅ Ganada |
