@@ -33343,5 +33343,20 @@
     "status": "pending",
     "ultimo_fill": 1788908777,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4530,
+    "timestamp": 1788909259,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tor-oak-2026-09-08",
+    "title": "Toronto Blue Jays vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "usd": 28097.322581000004,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1788909259,
+    "fills": 1
   }
 ]

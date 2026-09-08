@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 18:12:20 (hora de Perú)
+Actualizado: 2026-09-08 18:14:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2218**  ($116,755,963 en total)
+- Apuestas registradas: **2219**  ($116,784,060 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 338
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 42 | 2 | 56% | $5,414,469 | -$25,041 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 2 | 54% | $5,126,653 | -$144,369 |
-| pleaseplease123 | 44 | 30 | 3 | 59% | $3,372,793 | +$521,263 |
+| pleaseplease123 | 44 | 30 | 4 | 59% | $3,400,890 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.09 (92¢) | $60,983 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.19 (84¢) | $37,894 | — | ⏳ Pendiente |
 | AV23IUa | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $28,051 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | fkcvffcjt | Antalya 4: Nastasja Schunk vs Alicia Herrero Linana | Alicia Herrero Linana | 1.16 (86¢) | $26,635 | +$4,336 | ✅ Ganada |
 | bomber | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $162,636 | -$162,636 | ❌ Perdida |
-| 787-HUEV-W-ZOPE | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
