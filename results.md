@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 21:32:56 (hora de Perú)
+Actualizado: 2026-09-07 21:34:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2116**  ($111,040,072 en total)
-- Resueltas: **2090** — 1262 ganadas / 828 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2098** — 1267 ganadas / 831 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$907,371** sobre $109,558,830 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,298** sobre $205,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$932,066** sobre $110,048,153 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,396** sobre $206,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 93 | 6 | 64% | $17,315,573 | +$767,880 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 95 | 4 | 63% | $17,315,573 | +$699,480 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
-| AV23IUa | 52 | 42 | 1 | 55% | $5,075,635 | -$109,468 |
+| AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 55 | 1 | 55% | $5,059,545 | -$101,867 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 13 | 14 | 1 | 48% | $899,411 | -$193,803 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
-| Noprajsk | 3 | 0 | 2 | ⚠️ 100% (3) | $749,338 | +$177,126 |
+| Noprajsk | 4 | 0 | 1 | ⚠️ 100% (4) | $749,338 | +$221,754 |
 | BrotherObama | 3 | 8 | 1 | 27% | $640,495 | -$96,192 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -74,21 +74,21 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | — | ⏳ Pendiente |
 | Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $280,049 | — | ⏳ Pendiente |
 | 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
-| Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | — | ⏳ Pendiente |
-| RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | — | ⏳ Pendiente |
-| Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | — | ⏳ Pendiente |
+| Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | +$8,030 | ✅ Ganada |
+| RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | +$10,495 | ✅ Ganada |
+| Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | +$44,627 | ✅ Ganada |
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $26,653 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $35,340 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | kimi1986 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.79 (56¢) | $55,735 | -$55,735 | ❌ Perdida |
-| fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
+| fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | -$27,000 | ❌ Perdida |
 | hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
 | kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | +$3,768 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | — | ⏳ Pendiente |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
 | Noprajsk | US Open ATP: Karen Khachanov vs Learner Tien | Karen Khachanov | 1.79 (56¢) | $56,773 | +$44,607 | ✅ Ganada |
 | 0b1 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $55,058 | -$55,058 | ❌ Perdida |
-| 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | — | ⏳ Pendiente |
+| 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | +$17,943 | ✅ Ganada |
 | SkyonX | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | +$16,672 | ✅ Ganada |
 | 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | +$5,579 | ✅ Ganada |
