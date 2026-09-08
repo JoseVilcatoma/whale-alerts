@@ -31881,5 +31881,35 @@
     "status": "pending",
     "ultimo_fill": 1788837518,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4353,
+    "timestamp": 1788837439,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pareja-stefani-2026-09-07",
+    "title": "Barranquilla: Julieta Pareja vs Lucrezia Stefanini",
+    "outcome": "Lucrezia Stefanini",
+    "side": "BUY",
+    "usd": 29000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788837439,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4354,
+    "timestamp": 1788837704,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pareja-stefani-2026-09-07",
+    "title": "Barranquilla: Julieta Pareja vs Lucrezia Stefanini",
+    "outcome": "Julieta Pareja",
+    "side": "BUY",
+    "usd": 79000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788837734,
+    "fills": 2
   }
 ]
