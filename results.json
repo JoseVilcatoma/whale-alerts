@@ -32773,5 +32773,20 @@
     "status": "pending",
     "ultimo_fill": 1788889819,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4443,
+    "timestamp": 1788890233,
+    "username": "iooojk",
+    "wallet": "0x4b9975ca3ea611438121b57a677759a211f5bad3",
+    "slug": "ucl-rma-int-2026-09-08-total-3pt5",
+    "title": "Real Madrid CF vs. FC Internazionale Milano: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28634.277200000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788890233,
+    "fills": 1
   }
 ]

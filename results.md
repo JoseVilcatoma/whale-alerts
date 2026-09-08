@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 12:57:07 (hora de Perú)
+Actualizado: 2026-09-08 12:59:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2180**  ($114,505,485 en total)
+- Apuestas registradas: **2181**  ($114,534,119 en total)
 - Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 42
-- Apostadores distintos: 334
+- Pendientes: 43
+- Apostadores distintos: 335
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
-_(mostrando los 40 de mayor monto, de 334 en total)_
+_(mostrando los 40 de mayor monto, de 335 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | — | ⏳ Pendiente |
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | — | ⏳ Pendiente |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $102,181 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 334 en total)_
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⊘ Anulada |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⊘ Anulada |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.04 (49¢) | $27,863 | — | ⊘ Anulada |
