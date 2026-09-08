@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 04:36:01 (hora de Perú)
+Actualizado: 2026-09-08 04:38:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2134**  ($111,939,971 en total)
-- Resueltas: **2116** — 1281 ganadas / 835 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **2117** — 1282 ganadas / 835 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 328
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,223,661** sobre $111,218,192 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$5,964** sobre $208,400 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$1,254,861** sobre $111,246,992 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,856** sobre $208,500 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| Diabolical-Prize | 8 | 11 | 2 | 42% | $1,089,404 | -$351,328 |
+| Diabolical-Prize | 9 | 11 | 1 | 45% | $1,089,404 | -$320,128 |
 | totoro3miyazaki | 19 | 1 | 0 | 95% | $1,032,691 | +$698,424 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
 | ferrariChampions2026 | 19 | 9 | 0 | 68% | $934,954 | -$159,712 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 |---|---|---|---|---|---|---|
 | BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | — | ⏳ Pendiente |
 | elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | +$31,200 | ✅ Ganada |
 | acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | Alliance | 3.45 (29¢) | $83,143 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,992 | — | ⏳ Pendiente |
