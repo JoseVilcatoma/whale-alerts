@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:47:02 (hora de Perú)
+Actualizado: 2026-09-08 11:49:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2171**  ($114,064,705 en total)
+- Apuestas registradas: **2173**  ($114,159,729 en total)
 - Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 34
-- Apostadores distintos: 332
+- Pendientes: 36
+- Apostadores distintos: 333
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
-_(mostrando los 40 de mayor monto, de 332 en total)_
+_(mostrando los 40 de mayor monto, de 333 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.82 (55¢) | $53,923 | — | ⏳ Pendiente |
+| Di88medes | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.17 (46¢) | $41,102 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Brugge KV win on 2026-09-08? | No | 1.64 (61¢) | $43,249 | — | ⏳ Pendiente |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 332 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $154,000 | -$154,000 | ❌ Perdida |
 | Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $308,835 | +$189,286 | ✅ Ganada |
 | 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | +$21,296 | ✅ Ganada |
-| Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | +$8,030 | ✅ Ganada |
-| RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | +$10,495 | ✅ Ganada |
