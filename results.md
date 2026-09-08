@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 02:17:53 (hora de Perú)
+Actualizado: 2026-09-08 02:19:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2129**  ($111,714,174 en total)
+- Apuestas registradas: **2130**  ($111,797,318 en total)
 - Resueltas: **2116** — 1281 ganadas / 835 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 326
 
 ### Balance
@@ -42,9 +42,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
+| Diabolical-Prize | 8 | 11 | 1 | 42% | $1,060,604 | -$351,328 |
 | totoro3miyazaki | 19 | 1 | 0 | 95% | $1,032,691 | +$698,424 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
-| Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | ferrariChampions2026 | 19 | 9 | 0 | 68% | $934,954 | -$159,712 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | Alliance | 3.45 (29¢) | $83,143 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,992 | — | ⏳ Pendiente |
 | rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $44,790 | +$22,060 | ✅ Ganada |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $26,057 | +$48,391 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $57,616 | -$57,616 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $36,828 | -$36,828 | ❌ Perdida |

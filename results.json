@@ -32007,5 +32007,20 @@
     "status": "pending",
     "ultimo_fill": 1788851179,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4379,
+    "timestamp": 1788851942,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-all-faze-2026-09-08",
+    "title": "Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Alliance",
+    "side": "BUY",
+    "usd": 83143.25379999999,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1788851942,
+    "fills": 1
   }
 ]
