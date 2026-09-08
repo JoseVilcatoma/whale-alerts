@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 23:22:50 (hora de Perú)
+Actualizado: 2026-09-07 23:24:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2126**  ($111,558,393 en total)
-- Resueltas: **2107** — 1273 ganadas / 834 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2110** — 1276 ganadas / 834 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$977,770** sobre $110,750,657 apostados (ROI **+0.9%**)
-- Copiando $100 fijo en cada una: **-$6,352** sobre $207,500 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$1,156,500** sobre $111,009,073 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,210** sobre $207,800 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| beachboy4 | 24 | 11 | 2 | 69% | $2,292,517 | +$204,469 |
+| beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 22 | 13 | 1 | 63% | $1,932,309 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 3 | 8 | 1 | 27% | $640,495 | -$96,192 |
+| BrotherObama | 4 | 8 | 0 | 33% | $640,495 | +$67,872 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -87,10 +87,10 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | +$8,030 | ✅ Ganada |
 | RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | +$10,495 | ✅ Ganada |
 | Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | +$44,627 | ✅ Ganada |
-| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | — | ⏳ Pendiente |
+| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | +$164,065 | ✅ Ganada |
 | xifutloong3 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $26,653 | +$20,106 | ✅ Ganada |
-| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | — | ⏳ Pendiente |
-| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | — | ⏳ Pendiente |
+| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | +$3,486 | ✅ Ganada |
+| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | +$11,179 | ✅ Ganada |
 | 0x78be…bde0 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $35,340 | +$21,660 | ✅ Ganada |
