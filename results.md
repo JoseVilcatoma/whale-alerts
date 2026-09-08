@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:26:17 (hora de Perú)
+Actualizado: 2026-09-08 11:28:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2165**  ($113,716,702 en total)
+- Apuestas registradas: **2167**  ($113,796,702 en total)
 - Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 332
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 332 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $50,000 | — | ⏳ Pendiente |
+| martingaleking | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | ChayEhc | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $75,716 | — | ⏳ Pendiente |
 | ChayEhc | Will Aston Villa FC win on 2026-09-08? | Yes | 2.86 (35¢) | $70,000 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $39,876 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 332 en total)_
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | +$164,065 | ✅ Ganada |
 | xifutloong3 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $26,653 | +$20,106 | ✅ Ganada |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | +$3,486 | ✅ Ganada |
-| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | +$11,179 | ✅ Ganada |
-| 0x78be…bde0 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
