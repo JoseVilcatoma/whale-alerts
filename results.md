@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:19:09 (hora de Perú)
+Actualizado: 2026-09-08 13:21:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2186**  ($115,120,816 en total)
+- Apuestas registradas: **2190**  ($115,384,712 en total)
 - Resueltas: **2129** — 1286 ganadas / 843 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Pendientes: 50
 - Apostadores distintos: 336
 
 ### Balance
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 23 | 13 | 0 | 64% | $1,932,309 | -$449,060 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| totoro3miyazaki | 19 | 1 | 5 | 95% | $1,661,110 | +$698,424 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| totoro3miyazaki | 19 | 1 | 4 | 95% | $1,586,110 | +$698,424 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | Diabolical-Prize | 10 | 15 | 2 | 40% | $1,470,458 | -$302,624 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,8 +71,12 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.79 (56¢) | $70,458 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $75,000 | — | ⏳ Pendiente |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $70,400 | — | ⏳ Pendiente |
+| tg-stakeqiu | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | — | ⏳ Pendiente |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.72 (58¢) | $88,438 | — | ⏳ Pendiente |
 | KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | +$31,200 | ✅ Ganada |
 | acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | -$26,053 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | Alliance | 3.45 (29¢) | $83,143 | +$203,558 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,992 | -$26,992 | ❌ Perdida |
-| rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
-| SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | -$70,000 | ❌ Perdida |
