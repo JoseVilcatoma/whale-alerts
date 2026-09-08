@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 20:30:52 (hora de Perú)
+Actualizado: 2026-09-07 20:32:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2109**  ($110,256,855 en total)
+- Apuestas registradas: **2110**  ($110,396,614 en total)
 - Resueltas: **2082** — 1261 ganadas / 821 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 326
 
 ### Balance
@@ -50,6 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 13 | 14 | 1 | 48% | $899,411 | -$193,803 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
+| BrotherObama | 3 | 8 | 1 | 27% | $640,495 | -$96,192 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -60,7 +61,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
-| BrotherObama | 3 | 8 | 0 | 27% | $500,736 | -$96,192 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 | 11vsldfdsgfkjgos | 9 | 2 | 0 | 82% | $484,657 | +$98,199 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $26,653 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | +$22,970 | ✅ Ganada |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | +$13,394 | ✅ Ganada |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | +$45,444 | ✅ Ganada |
-| 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | +$11,731 | ✅ Ganada |
