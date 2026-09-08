@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 14:45:24 (hora de Perú)
+Actualizado: 2026-09-08 14:47:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2201**  ($115,861,880 en total)
-- Resueltas: **2153** — 1302 ganadas / 851 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **2154** — 1303 ganadas / 851 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 338
 
 ### Balance
 
-- **Resultado de los apostadores: +$690,367** sobre $113,393,659 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$5,977** sobre $212,100 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$723,506** sobre $113,418,659 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$5,845** sobre $212,200 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | — | ⏳ Pendiente |
-| 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $45,500 | — | ⏳ Pendiente |
