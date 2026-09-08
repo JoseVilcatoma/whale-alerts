@@ -31962,5 +31962,20 @@
     "status": "won",
     "ultimo_fill": 1788840602,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4373,
+    "timestamp": 1788843725,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cs2-all-faze-2026-09-08",
+    "title": "Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 70000.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788843725,
+    "fills": 1
   }
 ]

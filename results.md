@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 00:01:43 (hora de Perú)
+Actualizado: 2026-09-08 00:03:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2126**  ($111,558,393 en total)
+- Apuestas registradas: **2127**  ($111,628,393 en total)
 - Resueltas: **2113** — 1278 ganadas / 835 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 326
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | — | ⏳ Pendiente |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $36,828 | -$36,828 | ❌ Perdida |
 | betopinto | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $32,175 | -$32,175 | ❌ Perdida |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $30,968 | +$57,512 | ✅ Ganada |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.52 (66¢) | $40,049 | +$20,631 | ✅ Ganada |
