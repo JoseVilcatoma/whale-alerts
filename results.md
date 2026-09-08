@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:41:35 (hora de Perú)
+Actualizado: 2026-09-08 13:43:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2195**  ($115,579,445 en total)
+- Apuestas registradas: **2196**  ($115,614,322 en total)
 - Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 336
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 13 | 0 | 64% | $1,932,309 | -$449,060 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
-| totoro3miyazaki | 19 | 1 | 8 | 95% | $1,797,276 | +$698,424 |
+| totoro3miyazaki | 19 | 1 | 9 | 95% | $1,832,153 | +$698,424 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | +$82,656 | ✅ Ganada |
 | 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | +$15,452 | ✅ Ganada |
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
