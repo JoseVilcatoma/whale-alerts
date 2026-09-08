@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 00:20:04 (hora de Perú)
+Actualizado: 2026-09-08 00:22:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2128**  ($111,687,182 en total)
-- Resueltas: **2113** — 1278 ganadas / 835 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2116** — 1281 ganadas / 835 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,152,508** sobre $111,109,989 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,173** sobre $208,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$1,223,661** sobre $111,218,192 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,964** sobre $208,400 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
+| pleaseplease123 | 44 | 30 | 0 | 59% | $3,252,014 | +$521,263 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
-| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | — | ⏳ Pendiente |
-| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
+| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | +$3,042 | ✅ Ganada |
+| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⊘ Anulada |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⊘ Anulada |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.04 (49¢) | $27,863 | — | ⊘ Anulada |
@@ -104,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
 | kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | +$3,768 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | -$42,502 | ❌ Perdida |
-| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.86 (35¢) | $33,445 | — | ⏳ Pendiente |
+| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.86 (35¢) | $33,445 | +$62,112 | ✅ Ganada |
 | 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
 | Noprajsk | US Open ATP: Karen Khachanov vs Learner Tien | Karen Khachanov | 1.79 (56¢) | $56,773 | +$44,607 | ✅ Ganada |
