@@ -32052,5 +32052,20 @@
     "status": "pending",
     "ultimo_fill": 1788853597,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4382,
+    "timestamp": 1788854535,
+    "username": "elPolloLoco",
+    "wallet": "0xa2f1fecf1cc7db65a46588f764b6691533052d22",
+    "slug": "lol-ig1-lgd-2026-09-08",
+    "title": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 37800.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788854535,
+    "fills": 1
   }
 ]
