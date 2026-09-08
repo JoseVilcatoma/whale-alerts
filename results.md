@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 12:59:12 (hora de Perú)
+Actualizado: 2026-09-08 13:01:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2181**  ($114,534,119 en total)
+- Apuestas registradas: **2184**  ($114,986,374 en total)
 - Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 43
-- Apostadores distintos: 335
+- Pendientes: 46
+- Apostadores distintos: 336
 
 ### Balance
 
@@ -39,11 +39,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
+| totoro3miyazaki | 19 | 1 | 3 | 95% | $1,522,069 | +$698,424 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | Diabolical-Prize | 10 | 14 | 3 | 42% | $1,470,458 | -$257,124 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| totoro3miyazaki | 19 | 1 | 1 | 95% | $1,098,024 | +$698,424 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
 | ferrariChampions2026 | 19 | 9 | 0 | 68% | $934,954 | -$159,712 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
-_(mostrando los 40 de mayor monto, de 335 en total)_
+_(mostrando los 40 de mayor monto, de 336 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | — | ⏳ Pendiente |
 | iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | — | ⏳ Pendiente |
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 335 en total)_
 | SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | -$70,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | +$3,042 | ✅ Ganada |
-| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⊘ Anulada |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⊘ Anulada |
