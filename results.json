@@ -32488,5 +32488,35 @@
     "status": "pending",
     "ultimo_fill": 1788883682,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4423,
+    "timestamp": 1788883778,
+    "username": "fkcvffcjt",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "wta-schunk-linana-2026-09-08",
+    "title": "Antalya 4: Nastasja Schunk vs Alicia Herrero Linana",
+    "outcome": "Alicia Herrero Linana",
+    "side": "BUY",
+    "usd": 26634.5956,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788883778,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4424,
+    "timestamp": 1788883799,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "ucl-bru-ast-2026-09-08-bru",
+    "title": "Will Club Brugge KV win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 39875.9076,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1788883799,
+    "fills": 1
   }
 ]

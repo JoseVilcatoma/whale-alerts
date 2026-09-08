@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:09:19 (hora de Perú)
+Actualizado: 2026-09-08 11:11:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2161**  ($113,504,475 en total)
+- Apuestas registradas: **2163**  ($113,570,986 en total)
 - Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 331
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 331 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $39,876 | — | ⏳ Pendiente |
+| fkcvffcjt | Antalya 4: Nastasja Schunk vs Alicia Herrero Linana | Alicia Herrero Linana | 1.16 (86¢) | $26,635 | — | ⏳ Pendiente |
 | bomber | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $162,636 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 331 en total)_
 | 0x78be…bde0 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $35,340 | +$21,660 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
-| kimi1986 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
