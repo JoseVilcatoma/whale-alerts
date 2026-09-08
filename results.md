@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 16:57:36 (hora de Perú)
+Actualizado: 2026-09-08 16:59:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2207**  ($116,244,158 en total)
+- Apuestas registradas: **2208**  ($116,277,158 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 338
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 172 | 97 | 3 | 64% | $17,793,300 | +$624,020 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 172 | 97 | 4 | 64% | $17,826,300 | +$624,020 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 42 | 0 | 56% | $5,282,583 | -$25,041 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 1 | 54% | $5,089,320 | -$144,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Miami Marlins: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $29,775 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.23 (81¢) | $34,981 | +$8,205 | ✅ Ganada |
 | hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $35,200 | — | ⏳ Pendiente |
-| N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | +$8,320 | ✅ Ganada |
