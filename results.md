@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 17:14:18 (hora de Perú)
+Actualizado: 2026-09-08 17:18:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2210**  ($116,341,490 en total)
+- Apuestas registradas: **2211**  ($116,377,661 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 338
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 42 | 0 | 56% | $5,282,583 | -$25,041 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 1 | 54% | $5,089,320 | -$144,369 |
-| pleaseplease123 | 44 | 30 | 2 | 59% | $3,336,622 | +$521,263 |
+| pleaseplease123 | 44 | 30 | 3 | 59% | $3,372,793 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.82 (55¢) | $33,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | Flaznorp | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $25,386 | -$25,386 | ❌ Perdida |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $454,733 | -$454,733 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.23 (81¢) | $34,981 | +$8,205 | ✅ Ganada |
