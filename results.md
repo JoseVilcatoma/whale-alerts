@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 08:42:53 (hora de Perú)
+Actualizado: 2026-09-08 08:44:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2144**  ($112,341,938 en total)
+- Apuestas registradas: **2145**  ($112,374,356 en total)
 - Resueltas: **2121** — 1283 ganadas / 838 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 329
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Diabolical-Prize | 10 | 11 | 3 | 48% | $1,243,039 | -$116,571 |
+| Diabolical-Prize | 10 | 11 | 4 | 48% | $1,275,458 | -$116,571 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | totoro3miyazaki | 19 | 1 | 0 | 95% | $1,032,691 | +$698,424 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 329 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $47,335 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.56 (64¢) | $60,800 | — | ⏳ Pendiente |
 | Joey25 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $29,353 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 329 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | +$16,672 | ✅ Ganada |
 | 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | +$5,579 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.56 (64¢) | $28,444 | +$16,000 | ✅ Ganada |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $28,000 | +$24,830 | ✅ Ganada |

@@ -32233,5 +32233,20 @@
     "status": "pending",
     "ultimo_fill": 1788874760,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4400,
+    "timestamp": 1788875024,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-g2-ast10-2026-09-08-game1",
+    "title": "Counter-Strike: G2 vs Astralis - Map 1 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 32418.609999999997,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1788875024,
+    "fills": 1
   }
 ]
