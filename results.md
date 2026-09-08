@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:37:33 (hora de Perú)
+Actualizado: 2026-09-08 13:39:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2193**  ($115,505,778 en total)
+- Apuestas registradas: **2194**  ($115,530,778 en total)
 - Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 336
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $45,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | -$45,500 | ❌ Perdida |
-| BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | -$50,000 | ❌ Perdida |
