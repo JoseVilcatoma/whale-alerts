@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 20:22:28 (hora de Perú)
+Actualizado: 2026-09-07 20:24:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2108**  ($110,230,202 en total)
-- Resueltas: **2078** — 1258 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **2082** — 1261 ganadas / 821 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,163,843** sobre $109,053,435 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$5,631** sobre $204,600 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,157,445** sobre $109,207,376 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,676** sobre $205,000 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 24 | 11 | 2 | 69% | $2,292,517 | +$204,469 |
-| 0b1 | 49 | 5 | 2 | 91% | $2,200,011 | +$145,313 |
+| 0b1 | 50 | 5 | 1 | 91% | $2,200,011 | +$160,758 |
 | wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -81,12 +81,12 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.79 (56¢) | $55,735 | — | ⏳ Pendiente |
 | fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
-| hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | — | ⏳ Pendiente |
-| kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | — | ⏳ Pendiente |
+| hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
+| kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | +$3,768 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.86 (35¢) | $33,445 | — | ⏳ Pendiente |
-| 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | — | ⏳ Pendiente |
-| 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | — | ⏳ Pendiente |
+| 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | -$30,000 | ❌ Perdida |
+| 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
 | Noprajsk | US Open ATP: Karen Khachanov vs Learner Tien | Karen Khachanov | 1.79 (56¢) | $56,773 | — | ⏳ Pendiente |
 | 0b1 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $55,058 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | — | ⏳ Pendiente |
