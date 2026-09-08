@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:03:03 (hora de Perú)
+Actualizado: 2026-09-08 11:05:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2155**  ($113,155,576 en total)
-- Resueltas: **2123** — 1284 ganadas / 839 perdidas (**60%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 330
+- Apuestas registradas: **2157**  ($113,214,914 en total)
+- Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
+- Pendientes: 20
+- Apostadores distintos: 331
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,307,573** sobre $111,540,980 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$5,952** sobre $209,100 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,167,020** sobre $111,681,534 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,252** sobre $209,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Diabolical-Prize | 10 | 11 | 4 | 48% | $1,275,458 | -$116,571 |
+| Diabolical-Prize | 10 | 14 | 1 | 42% | $1,275,458 | -$257,124 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | totoro3miyazaki | 19 | 1 | 0 | 95% | $1,032,691 | +$698,424 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
-_(mostrando los 40 de mayor monto, de 330 en total)_
+_(mostrando los 40 de mayor monto, de 331 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| norrisfan | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| salahmh | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $28,337 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $41,538 | — | ⏳ Pendiente |
 | Flaznorp | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $25,386 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $454,733 | — | ⏳ Pendiente |
@@ -81,9 +83,9 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 | N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $47,335 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.56 (64¢) | $60,800 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | -$32,419 | ❌ Perdida |
+| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $47,335 | -$47,335 | ❌ Perdida |
+| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.56 (64¢) | $60,800 | -$60,800 | ❌ Perdida |
 | Joey25 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $29,353 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets | 2.17 (46¢) | $29,654 | — | ⏳ Pendiente |
 | portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.79 (56¢) | $55,735 | -$55,735 | ❌ Perdida |
 | fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | -$27,000 | ❌ Perdida |
 | hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
-| kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | +$3,768 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | -$42,502 | ❌ Perdida |
