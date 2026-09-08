@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:57:19 (hora de Perú)
+Actualizado: 2026-09-08 11:59:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2174**  ($114,225,062 en total)
-- Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 333
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,167,020** sobre $111,681,534 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,252** sobre $209,400 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$1,171,356** sobre $111,708,169 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,236** sobre $209,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 333 en total)_
 | ChayEhc | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $75,716 | — | ⏳ Pendiente |
 | ChayEhc | Will Aston Villa FC win on 2026-09-08? | Yes | 2.86 (35¢) | $70,000 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $39,876 | — | ⏳ Pendiente |
-| fkcvffcjt | Antalya 4: Nastasja Schunk vs Alicia Herrero Linana | Alicia Herrero Linana | 1.16 (86¢) | $26,635 | — | ⏳ Pendiente |
+| fkcvffcjt | Antalya 4: Nastasja Schunk vs Alicia Herrero Linana | Alicia Herrero Linana | 1.16 (86¢) | $26,635 | +$4,336 | ✅ Ganada |
 | bomber | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $162,636 | — | ⏳ Pendiente |
 | 787-HUEV-W-ZOPE | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
