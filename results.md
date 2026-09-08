@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:09:35 (hora de Perú)
+Actualizado: 2026-09-08 13:11:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2184**  ($114,986,374 en total)
-- Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Apuestas registradas: **2185**  ($115,050,416 en total)
+- Resueltas: **2129** — 1286 ganadas / 843 perdidas (**60%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 336
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,171,356** sobre $111,708,169 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,236** sobre $209,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$1,208,512** sobre $111,789,093 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$6,103** sobre $209,700 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,9 +39,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| totoro3miyazaki | 19 | 1 | 3 | 95% | $1,522,069 | +$698,424 |
+| totoro3miyazaki | 19 | 1 | 4 | 95% | $1,586,110 | +$698,424 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Diabolical-Prize | 10 | 14 | 3 | 42% | $1,470,458 | -$257,124 |
+| Diabolical-Prize | 10 | 15 | 2 | 40% | $1,470,458 | -$302,624 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
-| Sunny24 | 8 | 5 | 1 | 62% | $518,064 | -$10,022 |
+| Sunny24 | 9 | 5 | 0 | 64% | $518,064 | +$72,635 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | — | ⏳ Pendiente |
 | KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | — | ⏳ Pendiente |
@@ -116,11 +117,11 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | Joey25 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $29,353 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets | 2.17 (46¢) | $29,654 | — | ⏳ Pendiente |
 | portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
-| SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | — | ⏳ Pendiente |
+| SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | +$82,656 | ✅ Ganada |
 | 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | — | ⏳ Pendiente |
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | -$45,500 | ❌ Perdida |
 | BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | -$50,000 | ❌ Perdida |
 | elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | +$31,200 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | -$70,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
-| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | +$3,042 | ✅ Ganada |
