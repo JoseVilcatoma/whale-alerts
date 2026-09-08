@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 04:21:36 (hora de Perú)
+Actualizado: 2026-09-08 04:23:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2133**  ($111,889,971 en total)
+- Apuestas registradas: **2134**  ($111,939,971 en total)
 - Resueltas: **2116** — 1281 ganadas / 835 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 328
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 4 | 8 | 0 | 33% | $640,495 | +$67,872 |
+| BrotherObama | 4 | 8 | 1 | 33% | $690,495 | +$67,872 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | — | ⏳ Pendiente |
 | elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | — | ⏳ Pendiente |
 | acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | +$38,538 | ✅ Ganada |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $28,328 | +$13,952 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $26,521 | -$26,521 | ❌ Perdida |
-| totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,088 | +$46,592 | ✅ Ganada |
