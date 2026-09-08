@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 07:45:04 (hora de Perú)
+Actualizado: 2026-09-08 07:47:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2139**  ($112,125,628 en total)
+- Apuestas registradas: **2140**  ($112,174,795 en total)
 - Resueltas: **2121** — 1283 ganadas / 838 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 328
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | — | ⏳ Pendiente |
 | 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | — | ⏳ Pendiente |
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $25,000 | +$18,860 | ✅ Ganada |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | -$44,000 | ❌ Perdida |
 | Roadto1mlesgooo | Elche CF vs. Real Sociedad de Fútbol: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $45,190 | +$2,884 | ✅ Ganada |
-| pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | +$48,400 | ✅ Ganada |
