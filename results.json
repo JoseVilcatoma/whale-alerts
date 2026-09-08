@@ -32623,5 +32623,20 @@
     "status": "pending",
     "ultimo_fill": 1788885294,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4432,
+    "timestamp": 1788885702,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-bru-ast-2026-09-08-bru",
+    "title": "Will Club Brugge KV win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43249.3538,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788885702,
+    "fills": 1
   }
 ]
