@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:57:53 (hora de Perú)
+Actualizado: 2026-09-08 13:59:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2200**  ($115,831,880 en total)
-- Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
-- Pendientes: 52
+- Resueltas: **2138** — 1293 ganadas / 845 perdidas (**60%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 337
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,194,217** sobre $112,069,445 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$6,146** sobre $210,500 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$1,214,893** sobre $112,099,198 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$6,076** sobre $210,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 337 en total)_
 | Di88medes | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.17 (46¢) | $41,102 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Brugge KV win on 2026-09-08? | No | 1.64 (61¢) | $43,249 | — | ⏳ Pendiente |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
-| rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | — | ⏳ Pendiente |
+| rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | +$20,676 | ✅ Ganada |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $156,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $50,000 | — | ⏳ Pendiente |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
