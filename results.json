@@ -32308,5 +32308,20 @@
     "status": "pending",
     "ultimo_fill": 1788881630,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4408,
+    "timestamp": 1788882416,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "wta-sabalen-noskova-2026-09-08",
+    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1788882416,
+    "fills": 1
   }
 ]

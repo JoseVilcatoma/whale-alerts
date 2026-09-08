@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 10:46:34 (hora de Perú)
+Actualizado: 2026-09-08 10:48:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2149**  ($112,526,939 en total)
+- Apuestas registradas: **2150**  ($112,556,939 en total)
 - Resueltas: **2123** — 1284 ganadas / 839 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 330
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $35,200 | — | ⏳ Pendiente |
 | N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
 | Noprajsk | US Open ATP: Karen Khachanov vs Learner Tien | Karen Khachanov | 1.79 (56¢) | $56,773 | +$44,607 | ✅ Ganada |
 | 0b1 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $55,058 | -$55,058 | ❌ Perdida |
-| 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | +$17,943 | ✅ Ganada |
