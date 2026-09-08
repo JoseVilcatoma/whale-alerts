@@ -32112,5 +32112,20 @@
     "status": "pending",
     "ultimo_fill": 1788866822,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4392,
+    "timestamp": 1788868225,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "atp-montes-brancac-2026-09-07",
+    "title": "Seville: Inaki Montes vs Raul Brancaccio",
+    "outcome": "Raul Brancaccio",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1788868225,
+    "fills": 1
   }
 ]

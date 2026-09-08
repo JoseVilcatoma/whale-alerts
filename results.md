@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 06:49:26 (hora de Perú)
+Actualizado: 2026-09-08 06:51:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2136**  ($112,020,471 en total)
+- Apuestas registradas: **2137**  ($112,050,471 en total)
 - Resueltas: **2121** — 1283 ganadas / 838 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 328
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 4 | 8 | 1 | 33% | $690,495 | +$67,872 |
+| BrotherObama | 4 | 8 | 2 | 33% | $720,495 | +$67,872 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | +$48,400 | ✅ Ganada |
 | xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | -$32,767 | ❌ Perdida |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.23 (81¢) | $64,561 | -$64,561 | ❌ Perdida |
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.47 (68¢) | $81,892 | +$38,538 | ✅ Ganada |
