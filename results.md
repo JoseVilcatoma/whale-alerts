@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 20:43:32 (hora de Perú)
+Actualizado: 2026-09-07 20:45:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2111**  ($110,512,326 en total)
+- Apuestas registradas: **2113**  ($110,702,623 en total)
 - Resueltas: **2082** — 1261 ganadas / 821 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 27
 - Apostadores distintos: 326
 
 ### Balance
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.20 (83¢) | $115,712 | — | ⏳ Pendiente |
+| Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | — | ⏳ Pendiente |
+| RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | — | ⏳ Pendiente |
+| Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | — | ⏳ Pendiente |
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | — | ⏳ Pendiente |
 | xifutloong3 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.75 (57¢) | $26,653 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | +$9,292 | ✅ Ganada |
 | flawfence | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.33 (75¢) | $28,963 | +$9,654 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek | 1.37 (73¢) | $36,500 | -$36,500 | ❌ Perdida |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $44,590 | +$22,970 | ✅ Ganada |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $25,999 | +$13,394 | ✅ Ganada |
