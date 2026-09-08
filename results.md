@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 18:58:47 (hora de Perú)
+Actualizado: 2026-09-07 19:00:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2096**  ($109,737,465 en total)
-- Resueltas: **2077** — 1257 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **2078** — 1258 ganadas / 820 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,139,012** sobre $109,025,435 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$5,719** sobre $204,500 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,163,843** sobre $109,053,435 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$5,631** sobre $204,600 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 8 | 11 | 0 | 42% | $977,461 | -$351,328 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| ferrariChampions2026 | 17 | 9 | 1 | 65% | $899,614 | -$206,202 |
+| ferrariChampions2026 | 18 | 9 | 0 | 67% | $899,614 | -$181,372 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | xifutloong3 | 13 | 14 | 0 | 48% | $872,758 | -$193,803 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | +$16,672 | ✅ Ganada |
 | 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | +$5,579 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.56 (64¢) | $28,444 | +$16,000 | ✅ Ganada |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $28,000 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $28,000 | +$24,830 | ✅ Ganada |
 | ThisAgain | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $33,225 | +$25,064 | ✅ Ganada |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.75 (57¢) | $25,000 | +$18,860 | ✅ Ganada |
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | -$44,000 | ❌ Perdida |
