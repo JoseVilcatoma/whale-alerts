@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 02:44:23 (hora de Perú)
+Actualizado: 2026-09-08 02:46:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2130**  ($111,797,318 en total)
+- Apuestas registradas: **2131**  ($111,823,371 en total)
 - Resueltas: **2116** — 1281 ganadas / 835 perdidas (**61%** de acierto)
-- Pendientes: 4
-- Apostadores distintos: 326
+- Pendientes: 5
+- Apostadores distintos: 327
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 | Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 
-_(mostrando los 40 de mayor monto, de 326 en total)_
+_(mostrando los 40 de mayor monto, de 327 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | Alliance | 3.45 (29¢) | $83,143 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,992 | — | ⏳ Pendiente |
 | rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,088 | +$46,592 | ✅ Ganada |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.49 (67¢) | $44,790 | +$22,060 | ✅ Ganada |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $26,057 | +$48,391 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No | 1.54 (65¢) | $57,616 | -$57,616 | ❌ Perdida |
