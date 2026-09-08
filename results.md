@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 10:48:38 (hora de Perú)
+Actualizado: 2026-09-08 10:50:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2150**  ($112,556,939 en total)
+- Apuestas registradas: **2151**  ($112,591,919 en total)
 - Resueltas: **2123** — 1284 ganadas / 839 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 330
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 4 | 63% | $17,543,073 | +$572,080 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 5 | 63% | $17,578,054 | +$572,080 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.23 (81¢) | $34,981 | — | ⏳ Pendiente |
 | hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $35,200 | — | ⏳ Pendiente |
 | N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 330 en total)_
 | 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
 | Noprajsk | US Open ATP: Karen Khachanov vs Learner Tien | Karen Khachanov | 1.79 (56¢) | $56,773 | +$44,607 | ✅ Ganada |
-| 0b1 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $55,058 | -$55,058 | ❌ Perdida |
