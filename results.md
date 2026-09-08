@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 23:16:39 (hora de Perú)
+Actualizado: 2026-09-07 23:18:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
@@ -8,7 +8,7 @@ Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 - Apuestas registradas: **2126**  ($111,558,393 en total)
 - Resueltas: **2107** — 1273 ganadas / 834 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 9
 - Apostadores distintos: 326
 
 ### Balance
@@ -74,12 +74,12 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | — | ⏳ Pendiente |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | — | ⏳ Pendiente |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⏳ Pendiente |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⏳ Pendiente |
-| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.04 (49¢) | $27,863 | — | ⏳ Pendiente |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⏳ Pendiente |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $29,000 | — | ⏳ Pendiente |
-| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⏳ Pendiente |
+| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⊘ Anulada |
+| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⊘ Anulada |
+| 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.04 (49¢) | $27,863 | — | ⊘ Anulada |
+| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⊘ Anulada |
+| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $29,000 | — | ⊘ Anulada |
+| RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $154,000 | -$154,000 | ❌ Perdida |
 | Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $308,835 | +$189,286 | ✅ Ganada |
