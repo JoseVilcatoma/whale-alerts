@@ -33073,5 +33073,20 @@
     "status": "pending",
     "ultimo_fill": 1788893276,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4490,
+    "timestamp": 1788895724,
+    "username": "0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592",
+    "wallet": "0x71ac3cbb40647cb6da6fa0dc2923999ad9c4d2b1",
+    "slug": "ucl-rma-int-2026-09-08-rma",
+    "title": "Will Real Madrid CF win on 2026-09-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1788895724,
+    "fills": 1
   }
 ]
