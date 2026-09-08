@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 12:18:00 (hora de Perú)
+Actualizado: 2026-09-08 12:20:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2175**  ($114,274,142 en total)
+- Apuestas registradas: **2176**  ($114,303,876 en total)
 - Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 334
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 9 | 63% | $17,763,566 | +$572,080 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 10 | 63% | $17,793,300 | +$572,080 |
 | 3edmond.dantes | 20 | 18 | 2 | 53% | $5,951,527 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 334 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.64 (61¢) | $29,734 | — | ⏳ Pendiente |
 | SharkbetX-com | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.22 (45¢) | $49,080 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $65,333 | — | ⏳ Pendiente |
 | 00gringo00 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.82 (55¢) | $53,923 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 334 en total)_
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $29,000 | — | ⊘ Anulada |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $154,000 | -$154,000 | ❌ Perdida |
