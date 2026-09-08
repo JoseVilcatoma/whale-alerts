@@ -32248,5 +32248,35 @@
     "status": "pending",
     "ultimo_fill": 1788875024,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4404,
+    "timestamp": 1788880124,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 38500.0,
+    "odds_at_bet": 77,
+    "status": "pending",
+    "ultimo_fill": 1788880124,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4405,
+    "timestamp": 1788880156,
+    "username": "0xwise",
+    "wallet": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 47582.616200000004,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "ultimo_fill": 1788880156,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 10:07:20 (hora de Perú)
+Actualizado: 2026-09-08 10:09:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2145**  ($112,374,356 en total)
+- Apuestas registradas: **2147**  ($112,460,439 en total)
 - Resueltas: **2123** — 1284 ganadas / 839 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 329
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 3 | 63% | $17,504,573 | +$572,080 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 4 | 63% | $17,543,073 | +$572,080 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 329 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $47,335 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.56 (64¢) | $60,800 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 329 en total)_
 | 0x78be…bde0 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.67 (60¢) | $26,914 | +$17,943 | ✅ Ganada |
 | SkyonX | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.56 (64¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.54 (65¢) | $30,963 | +$16,672 | ✅ Ganada |
-| 0b1 | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.18 (85¢) | $31,615 | +$5,579 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.56 (64¢) | $28,444 | +$16,000 | ✅ Ganada |
