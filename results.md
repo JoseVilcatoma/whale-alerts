@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 08:57:30 (hora de Perú)
+Actualizado: 2026-09-08 08:59:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2145**  ($112,374,356 en total)
-- Resueltas: **2121** — 1283 ganadas / 838 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Resueltas: **2123** — 1284 ganadas / 839 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 329
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,335,373** sobre $111,453,180 apostados (ROI **+1.2%**)
-- Copiando $100 fijo en cada una: **-$5,911** sobre $208,900 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,307,573** sobre $111,540,980 apostados (ROI **+1.2%**)
+- Copiando $100 fijo en cada una: **-$5,952** sobre $209,100 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 4 | 8 | 2 | 33% | $720,495 | +$67,872 |
+| BrotherObama | 4 | 9 | 1 | 31% | $720,495 | +$17,872 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 329 en total)_
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | — | ⏳ Pendiente |
-| elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | -$50,000 | ❌ Perdida |
+| elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | +$31,200 | ✅ Ganada |
 | acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | -$26,053 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | Alliance | 3.45 (29¢) | $83,143 | +$203,558 | ✅ Ganada |
