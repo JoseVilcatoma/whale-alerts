@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 15:32:45 (hora de Perú)
+Actualizado: 2026-09-08 15:34:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2204**  ($116,129,429 en total)
+- Apuestas registradas: **2205**  ($116,184,383 en total)
 - Resueltas: **2154** — 1303 ganadas / 851 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 338
 
 ### Balance
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 53 | 42 | 1 | 56% | $5,282,583 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
+| pleaseplease123 | 44 | 30 | 2 | 59% | $3,336,622 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| pleaseplease123 | 44 | 30 | 1 | 59% | $3,281,668 | +$521,263 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | — | ⏳ Pendiente |
 | AV23IUa | Will Real Betis Balompié win on 2026-09-08? | Yes | 1.22 (82¢) | $206,948 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.67 (60¢) | $33,874 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.18 (85¢) | $26,727 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | -$32,419 | ❌ Perdida |

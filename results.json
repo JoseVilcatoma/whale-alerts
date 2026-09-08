@@ -33133,5 +33133,20 @@
     "status": "pending",
     "ultimo_fill": 1788899316,
     "fills": 4
+  },
+  {
+    "telegram_msg_id": 4495,
+    "timestamp": 1788899594,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-ari-kc-2026-09-08",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 54953.9934,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788899594,
+    "fills": 1
   }
 ]
