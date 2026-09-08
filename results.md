@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 21:25:48 (hora de Perú)
+Actualizado: 2026-09-07 21:27:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2115**  ($111,007,672 en total)
+- Apuestas registradas: **2116**  ($111,040,072 en total)
 - Resueltas: **2090** — 1262 ganadas / 828 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 326
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 93 | 5 | 64% | $17,283,173 | +$767,880 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 164 | 93 | 6 | 64% | $17,315,573 | +$767,880 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 52 | 42 | 1 | 55% | $5,075,635 | -$109,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 55 | 1 | 55% | $5,059,545 | -$101,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | — | ⏳ Pendiente |
 | Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $280,049 | — | ⏳ Pendiente |
 | 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | xifutloong3 | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies | 1.49 (67¢) | $26,187 | +$12,898 | ✅ Ganada |
 | Sassy-Bucket | New York Mets vs. Miami Marlins: O/U 8.5 | Under 8.5 | 1.92 (52¢) | $41,700 | -$41,700 | ❌ Perdida |
 | Roadto1mlesgooo | Al Hilal Saudi Club vs. NEOM SC: O/U 1.5 | Over 1.5 | 1.14 (88¢) | $41,330 | +$5,636 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Anastasia Potapova | Mirra Andreeva | 1.25 (80¢) | $37,169 | +$9,292 | ✅ Ganada |
