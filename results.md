@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 18:51:13 (hora de Perú)
+Actualizado: 2026-09-08 18:53:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2222**  ($117,214,028 en total)
+- Apuestas registradas: **2223**  ($117,239,036 en total)
 - Resueltas: **2193** — 1324 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 339
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | — | ⏳ Pendiente |
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | — | ⏳ Pendiente |
 | baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | ChayEhc | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $75,716 | +$46,407 | ✅ Ganada |
 | ChayEhc | Will Aston Villa FC win on 2026-09-08? | Yes | 2.86 (35¢) | $70,000 | +$130,000 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $39,876 | +$24,440 | ✅ Ganada |
