@@ -32278,5 +32278,35 @@
     "status": "pending",
     "ultimo_fill": 1788880156,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4406,
+    "timestamp": 1788881599,
+    "username": "N34",
+    "wallet": "0xfd672b99a7cc7835bf931f0cea09bf7f7680ef90",
+    "slug": "ucl-rma-int-2026-09-08-draw",
+    "title": "Will Real Madrid CF vs. FC Internazionale Milano end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 31299.999997000003,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1788881599,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4407,
+    "timestamp": 1788881630,
+    "username": "IcemanSeason",
+    "wallet": "0xb9392e612a5b05063ca012b5dede548e16e5da70",
+    "slug": "mlb-chc-mil-2026-09-08-spread-home-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 35199.8319,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1788881630,
+    "fills": 1
   }
 ]
