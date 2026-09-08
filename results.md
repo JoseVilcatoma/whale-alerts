@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 07:24:26 (hora de Perú)
+Actualizado: 2026-09-08 07:26:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2138**  ($112,090,204 en total)
+- Apuestas registradas: **2139**  ($112,125,628 en total)
 - Resueltas: **2121** — 1283 ganadas / 838 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 328
 
 ### Balance
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 6 | 6 | 0 | 50% | $552,830 | -$129,209 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
+| Sunny24 | 8 | 5 | 1 | 62% | $518,064 | -$10,022 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
-| Alhimik | 0 | 1 | 0 | ⚠️ 0% (1) | $487,163 | -$487,163 |
 
 _(mostrando los 40 de mayor monto, de 328 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | — | ⏳ Pendiente |
 | 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | — | ⏳ Pendiente |
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 328 en total)_
 | SkyonX | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Francisco Cerundolo | 1.49 (67¢) | $44,000 | -$44,000 | ❌ Perdida |
 | Roadto1mlesgooo | Elche CF vs. Real Sociedad de Fútbol: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $45,190 | +$2,884 | ✅ Ganada |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.85 (54¢) | $56,817 | +$48,400 | ✅ Ganada |
-| xifutloong3 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $32,767 | -$32,767 | ❌ Perdida |

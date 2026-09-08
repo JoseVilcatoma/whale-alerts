@@ -32143,5 +32143,20 @@
     "status": "pending",
     "ultimo_fill": 1788868496,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4394,
+    "timestamp": 1788870291,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cs2-g2-ast10-2026-09-08",
+    "title": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "usd": 35424.08,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1788870291,
+    "fills": 1
   }
 ]
