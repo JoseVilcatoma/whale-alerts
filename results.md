@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 20:16:07 (hora de Perú)
+Actualizado: 2026-09-07 20:18:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2107**  ($110,201,995 en total)
+- Apuestas registradas: **2108**  ($110,230,202 en total)
 - Resueltas: **2078** — 1258 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 326
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| beachboy4 | 24 | 11 | 1 | 69% | $2,264,309 | +$204,469 |
+| beachboy4 | 24 | 11 | 2 | 69% | $2,292,517 | +$204,469 |
 | 0b1 | 49 | 5 | 2 | 91% | $2,200,011 | +$145,313 |
 | wr0ngw4yb3tt0r | 22 | 13 | 0 | 63% | $1,898,894 | -$466,273 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $28,208 | — | ⏳ Pendiente |
 | beachboy4 | US Open ATP: Alexander Zverev vs Luciano Darderi | Alexander Zverev | 1.12 (89¢) | $90,450 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No | 1.52 (66¢) | $88,216 | +$45,444 | ✅ Ganada |
 | 0x78be…bde0 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet | 1.35 (74¢) | $33,387 | +$11,731 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes | 2.33 (43¢) | $32,353 | +$42,887 | ✅ Ganada |
-| ripley86alien | Will Cagliari Calcio win on 2026-09-07? | No | 1.75 (57¢) | $148,587 | -$148,587 | ❌ Perdida |
