@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:21:11 (hora de Perú)
+Actualizado: 2026-09-08 13:23:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2190**  ($115,384,712 en total)
+- Apuestas registradas: **2193**  ($115,505,778 en total)
 - Resueltas: **2129** — 1286 ganadas / 843 perdidas (**60%** de acierto)
-- Pendientes: 50
+- Pendientes: 53
 - Apostadores distintos: 336
 
 ### Balance
@@ -36,8 +36,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 13 | 0 | 64% | $1,932,309 | -$449,060 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
+| totoro3miyazaki | 19 | 1 | 7 | 95% | $1,748,610 | +$698,424 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| totoro3miyazaki | 19 | 1 | 5 | 95% | $1,661,110 | +$698,424 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -60,10 +60,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | Sunny24 | 9 | 5 | 0 | 64% | $518,064 | +$72,635 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 4 | 4 | 2 | 50% | $512,723 | +$22,759 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
-| BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
 _(mostrando los 40 de mayor monto, de 336 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $45,500 | — | ⏳ Pendiente |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.79 (56¢) | $70,458 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $75,000 | — | ⏳ Pendiente |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $70,400 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | -$45,500 | ❌ Perdida |
 | BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | -$50,000 | ❌ Perdida |
-| elPolloLoco | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.59 (63¢) | $37,800 | +$22,200 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.08 (48¢) | $28,800 | +$31,200 | ✅ Ganada |
-| acount3 | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,053 | -$26,053 | ❌ Perdida |

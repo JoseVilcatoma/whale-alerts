@@ -32923,5 +32923,50 @@
     "status": "pending",
     "ultimo_fill": 1788890977,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4456,
+    "timestamp": 1788891702,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "ucl-lil-bet-2026-09-08-lil",
+    "title": "Will Lille OSC win on 2026-09-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 45499.950000000004,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1788891702,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4457,
+    "timestamp": 1788891726,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "ucl-lil-bet-2026-09-08-lil",
+    "title": "Will Lille OSC win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 33566.8465,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1788891726,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4458,
+    "timestamp": 1788891744,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 42000.0,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1788891744,
+    "fills": 1
   }
 ]
