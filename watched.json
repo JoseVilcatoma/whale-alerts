@@ -39,10 +39,6 @@
     "username": "",
     "added_at": 1788271966.537002
   },
-  "0x5f659bccbc353dbf7bcdffdee73bee60bb482036": {
-    "username": "0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400",
-    "added_at": 1788286875.9260578
-  },
   "0x6c3aae17140c5e3cde62380daaa323e38575c459": {
     "username": "AvrahamEisenberg - 10161",
     "added_at": 1788291386.2794647
@@ -458,5 +454,13 @@
   "0x8e74984fb998be82444627906740dc1a19c35972": {
     "username": "itwillallbeok",
     "added_at": 1788881623.3814228
+  },
+  "0xa9bb7b5ef3d2e8ddb498ac251a4ec144e089701b": {
+    "username": "ChayEhc",
+    "added_at": 1788892209.5722737
+  },
+  "0x10a6fadcbacd66330862206f6199b197e3ad4d8b": {
+    "username": "rabbitfoot1",
+    "added_at": 1788892209.5722737
   }
 }
