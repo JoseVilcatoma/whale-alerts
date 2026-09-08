@@ -31761,5 +31761,20 @@
     "status": "pending",
     "ultimo_fill": 1788831930,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4328,
+    "timestamp": 1788833043,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "cfb-smu-flst-2026-09-07",
+    "title": "SMU vs. Florida State",
+    "outcome": "SMU",
+    "side": "BUY",
+    "usd": 25000.000000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788833043,
+    "fills": 1
   }
 ]
