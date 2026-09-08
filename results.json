@@ -31521,5 +31521,20 @@
     "status": "pending",
     "ultimo_fill": 1788826489,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4308,
+    "timestamp": 1788826562,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "wta-jovic-gauff-2026-09-07",
+    "title": "US Open WTA: Iva Jovic vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 39510.522000000004,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1788826562,
+    "fills": 1
   }
 ]
