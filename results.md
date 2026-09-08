@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 21:17:24 (hora de Perú)
+Actualizado: 2026-09-07 21:19:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2115**  ($110,880,409 en total)
+- Apuestas registradas: **2115**  ($111,007,672 en total)
 - Resueltas: **2090** — 1262 ganadas / 828 perdidas (**60%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 326
@@ -50,9 +50,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 13 | 14 | 1 | 48% | $899,411 | -$193,803 |
 | SDTrading | 14 | 16 | 0 | 47% | $893,687 | -$100,065 |
+| Noprajsk | 3 | 0 | 2 | ⚠️ 100% (3) | $749,338 | +$177,126 |
 | BrotherObama | 3 | 8 | 1 | 27% | $640,495 | -$96,192 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
-| Noprajsk | 3 | 0 | 2 | ⚠️ 100% (3) | $622,075 | +$177,126 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $152,786 | — | ⏳ Pendiente |
+| Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $280,049 | — | ⏳ Pendiente |
 | 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
 | Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | — | ⏳ Pendiente |
 | RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | — | ⏳ Pendiente |
