@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:47:41 (hora de Perú)
+Actualizado: 2026-09-08 13:49:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2198**  ($115,716,307 en total)
+- Apuestas registradas: **2200**  ($115,831,880 en total)
 - Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
-- Pendientes: 50
+- Pendientes: 52
 - Apostadores distintos: 337
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 13 | 0 | 64% | $1,932,309 | -$449,060 |
+| totoro3miyazaki | 19 | 1 | 10 | 95% | $1,905,526 | +$698,424 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
-| totoro3miyazaki | 19 | 1 | 9 | 95% | $1,832,153 | +$698,424 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 337 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.75 (57¢) | $42,200 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $73,373 | — | ⏳ Pendiente |
 | SkyonX | Will Real Madrid CF win on 2026-09-08? | Yes | 1.61 (62¢) | $28,115 | — | ⏳ Pendiente |
 | 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 337 en total)_
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.56 (64¢) | $60,800 | -$60,800 | ❌ Perdida |
 | Joey25 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $29,353 | — | ⏳ Pendiente |
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets | 2.17 (46¢) | $29,654 | — | ⏳ Pendiente |
-| portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
-| SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | +$82,656 | ✅ Ganada |

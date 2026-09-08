@@ -33043,5 +33043,35 @@
     "status": "pending",
     "ultimo_fill": 1788893215,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4472,
+    "timestamp": 1788893269,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "ucl-lil-bet-2026-09-08-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 73373.03,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1788893275,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 4473,
+    "timestamp": 1788893276,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "ucl-bvb-vil-2026-09-08-bvb",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 42200.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1788893276,
+    "fills": 1
   }
 ]
