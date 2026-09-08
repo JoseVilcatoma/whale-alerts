@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:35:31 (hora de Perú)
+Actualizado: 2026-09-08 13:37:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2193**  ($115,505,778 en total)
-- Resueltas: **2129** — 1286 ganadas / 843 perdidas (**60%** de acierto)
-- Pendientes: 53
+- Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 336
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,208,512** sobre $111,789,093 apostados (ROI **+1.1%**)
-- Copiando $100 fijo en cada una: **-$6,103** sobre $209,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$1,194,217** sobre $112,069,445 apostados (ROI **+1.1%**)
+- Copiando $100 fijo en cada una: **-$6,146** sobre $210,500 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 10 | 63% | $17,793,300 | +$572,080 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 169 | 96 | 7 | 64% | $17,793,300 | +$603,286 |
 | 3edmond.dantes | 20 | 18 | 2 | 53% | $5,951,527 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
@@ -80,14 +80,14 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | tg-stakeqiu | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.69 (59¢) | $30,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.72 (58¢) | $88,438 | — | ⏳ Pendiente |
-| KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | — | ⏳ Pendiente |
+| KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | +$4,592 | ✅ Ganada |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | — | ⏳ Pendiente |
 | iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | — | ⏳ Pendiente |
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
-| suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | — | ⏳ Pendiente |
+| suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | -$25,714 | ❌ Perdida |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $102,181 | — | ⏳ Pendiente |
-| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.25 (80¢) | $44,713 | — | ⏳ Pendiente |
+| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.25 (80¢) | $44,713 | -$44,713 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.64 (61¢) | $29,734 | — | ⏳ Pendiente |
 | SharkbetX-com | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.22 (45¢) | $49,080 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $65,333 | — | ⏳ Pendiente |
@@ -112,9 +112,9 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $41,538 | — | ⏳ Pendiente |
 | Flaznorp | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $25,386 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $454,733 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.19 (84¢) | $42,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.23 (81¢) | $34,981 | — | ⏳ Pendiente |
-| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $30,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.23 (81¢) | $34,981 | +$8,205 | ✅ Ganada |
+| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $30,000 | +$4,884 | ✅ Ganada |
 | IcemanSeason | Spread: Milwaukee Brewers (-1.5) | Milwaukee Brewers | 2.04 (49¢) | $35,200 | — | ⏳ Pendiente |
 | N34 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $31,300 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
@@ -126,8 +126,8 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets | 2.17 (46¢) | $29,654 | — | ⏳ Pendiente |
 | portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | +$82,656 | ✅ Ganada |
-| 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | — | ⏳ Pendiente |
+| 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | +$15,452 | ✅ Ganada |
 | BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | G2 | 1.43 (70¢) | $45,500 | -$45,500 | ❌ Perdida |
 | BrotherObama | LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs | LGD Gaming | 2.56 (39¢) | $50,000 | -$50,000 | ❌ Perdida |
