@@ -31716,5 +31716,20 @@
     "status": "pending",
     "ultimo_fill": 1788831144,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4325,
+    "timestamp": 1788831806,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "atp-gea-zandsch-2026-09-07",
+    "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "usd": 115712.1995,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1788831806,
+    "fills": 2
   }
 ]
