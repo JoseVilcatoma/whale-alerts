@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:43:37 (hora de Perú)
+Actualizado: 2026-09-08 13:45:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2196**  ($115,614,322 en total)
+- Apuestas registradas: **2197**  ($115,688,192 en total)
 - Resueltas: **2137** — 1292 ganadas / 845 perdidas (**60%** de acierto)
-- Pendientes: 48
-- Apostadores distintos: 336
+- Pendientes: 49
+- Apostadores distintos: 337
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 
-_(mostrando los 40 de mayor monto, de 336 en total)_
+_(mostrando los 40 de mayor monto, de 337 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | portowin | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $49,167 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A | Astralis | 3.33 (30¢) | $35,424 | +$82,656 | ✅ Ganada |
 | 0x4247…91c4 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.39 (72¢) | $39,733 | +$15,452 | ✅ Ganada |
-| BrotherObama | Seville: Inaki Montes vs Raul Brancaccio | Raul Brancaccio | 1.96 (51¢) | $30,000 | — | ⊘ Anulada |
