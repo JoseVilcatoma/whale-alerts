@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 15:26:40 (hora de Perú)
+Actualizado: 2026-09-08 15:28:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2203**  ($115,922,481 en total)
+- Apuestas registradas: **2204**  ($116,129,429 en total)
 - Resueltas: **2154** — 1303 ganadas / 851 perdidas (**60%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 338
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 170 | 97 | 5 | 64% | $17,793,300 | +$589,399 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
-| AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
+| AV23IUa | 53 | 42 | 1 | 56% | $5,282,583 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 44 | 30 | 1 | 59% | $3,281,668 | +$521,263 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AV23IUa | Will Real Betis Balompié win on 2026-09-08? | Yes | 1.22 (82¢) | $206,948 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.67 (60¢) | $33,874 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.18 (85¢) | $26,727 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $47,583 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $32,419 | -$32,419 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: G2 vs Astralis - Map 1 Winner | G2 | 1.54 (65¢) | $47,335 | -$47,335 | ❌ Perdida |
