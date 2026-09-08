@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:59:24 (hora de Perú)
+Actualizado: 2026-09-08 12:01:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2174**  ($114,225,062 en total)
+- Apuestas registradas: **2175**  ($114,274,142 en total)
 - Resueltas: **2127** — 1285 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 36
-- Apostadores distintos: 333
+- Pendientes: 37
+- Apostadores distintos: 334
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 | BillyGating | 8 | 2 | 0 | 80% | $495,538 | +$157,977 |
 
-_(mostrando los 40 de mayor monto, de 333 en total)_
+_(mostrando los 40 de mayor monto, de 334 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SharkbetX-com | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.22 (45¢) | $49,080 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $65,333 | — | ⏳ Pendiente |
 | 00gringo00 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.82 (55¢) | $53,923 | — | ⏳ Pendiente |
 | Di88medes | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.17 (46¢) | $41,102 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 333 en total)_
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.00 (50¢) | $29,000 | — | ⊘ Anulada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $154,000 | -$154,000 | ❌ Perdida |
-| Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $308,835 | +$189,286 | ✅ Ganada |

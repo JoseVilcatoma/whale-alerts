@@ -32683,5 +32683,20 @@
     "status": "pending",
     "ultimo_fill": 1788886360,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4437,
+    "timestamp": 1788886820,
+    "username": "SharkbetX-com",
+    "wallet": "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38",
+    "slug": "ucl-bvb-vil-2026-09-08-bvb",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 49080.0015,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1788886820,
+    "fills": 1
   }
 ]
