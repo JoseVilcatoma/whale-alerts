@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:34:44 (hora de Perú)
+Actualizado: 2026-09-08 11:36:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2169**  ($113,982,456 en total)
+- Apuestas registradas: **2170**  ($114,021,456 en total)
 - Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 332
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| Diabolical-Prize | 10 | 14 | 2 | 42% | $1,431,458 | -$257,124 |
+| Diabolical-Prize | 10 | 14 | 3 | 42% | $1,470,458 | -$257,124 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | totoro3miyazaki | 19 | 1 | 0 | 95% | $1,032,691 | +$698,424 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 332 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | — | ⏳ Pendiente |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $156,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 332 en total)_
 | Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | +$8,030 | ✅ Ganada |
 | RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | +$10,495 | ✅ Ganada |
 | Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | +$44,627 | ✅ Ganada |
-| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 8.5 | Over 8.5 | 2.17 (46¢) | $139,759 | +$164,065 | ✅ Ganada |
