@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 17:22:51 (hora de Perú)
+Actualizado: 2026-09-08 17:24:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2211**  ($116,377,661 en total)
+- Apuestas registradas: **2212**  ($116,460,868 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 338
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $41,538 | -$41,538 | ❌ Perdida |
 | Flaznorp | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $25,386 | -$25,386 | ❌ Perdida |
 | 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $454,733 | -$454,733 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.19 (84¢) | $42,000 | +$8,000 | ✅ Ganada |
