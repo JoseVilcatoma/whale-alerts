@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 13:13:44 (hora de Perú)
+Actualizado: 2026-09-08 13:17:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2185**  ($115,050,416 en total)
+- Apuestas registradas: **2186**  ($115,120,816 en total)
 - Resueltas: **2129** — 1286 ganadas / 843 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 336
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $70,400 | — | ⏳ Pendiente |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | — | ⏳ Pendiente |
 | KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 336 en total)_
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.39 (72¢) | $26,992 | -$26,992 | ❌ Perdida |
 | rabbitfoot1 | Club Brugge KV vs. Aston Villa FC: O/U 2.5 | Over 2.5 | 1.82 (55¢) | $58,789 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.35 (74¢) | $70,000 | -$70,000 | ❌ Perdida |
-| wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
