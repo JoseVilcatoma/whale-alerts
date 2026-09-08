@@ -33103,5 +33103,20 @@
     "status": "pending",
     "ultimo_fill": 1788897308,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4493,
+    "timestamp": 1788898223,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "cs2-mgc-faze-2026-09-08",
+    "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 33874.32,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788898223,
+    "fills": 1
   }
 ]
