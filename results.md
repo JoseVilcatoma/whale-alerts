@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 18:53:14 (hora de Perú)
+Actualizado: 2026-09-08 18:55:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2223**  ($117,239,036 en total)
+- Apuestas registradas: **2224**  ($117,308,151 en total)
 - Resueltas: **2193** — 1324 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 339
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 176 | 97 | 4 | 64% | $18,207,177 | +$690,541 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 43 | 2 | 56% | $5,561,069 | -$128,876 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 2 | 54% | $5,126,653 | -$144,369 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 3 | 54% | $5,195,768 | -$144,369 |
 | pleaseplease123 | 44 | 30 | 4 | 59% | $3,400,890 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | — | ⏳ Pendiente |
 | baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | — | ⏳ Pendiente |
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $50,000 | — | ⏳ Pendiente |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
 | ChayEhc | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $75,716 | +$46,407 | ✅ Ganada |
-| ChayEhc | Will Aston Villa FC win on 2026-09-08? | Yes | 2.86 (35¢) | $70,000 | +$130,000 | ✅ Ganada |
