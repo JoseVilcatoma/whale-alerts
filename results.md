@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 11:05:11 (hora de Perú)
+Actualizado: 2026-09-08 11:07:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2157**  ($113,214,914 en total)
+- Apuestas registradas: **2159**  ($113,310,840 en total)
 - Resueltas: **2126** — 1284 ganadas / 842 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 331
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 7 | 63% | $17,661,591 | +$572,080 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 8 | 63% | $17,720,317 | +$572,080 |
 | 3edmond.dantes | 20 | 18 | 1 | 53% | $5,788,891 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 331 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 787-HUEV-W-ZOPE | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF vs. FC Internazionale Milano end in a draw? | No | 1.27 (79¢) | $58,726 | — | ⏳ Pendiente |
 | norrisfan | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | salahmh | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $28,337 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $41,538 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 331 en total)_
 | kimi1986 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $38,000 | -$38,000 | ❌ Perdida |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.79 (56¢) | $55,735 | -$55,735 | ❌ Perdida |
-| fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | -$27,000 | ❌ Perdida |
-| hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
