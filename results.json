@@ -33358,5 +33358,20 @@
     "status": "pending",
     "ultimo_fill": 1788909259,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4531,
+    "timestamp": 1788910199,
+    "username": "baws",
+    "wallet": "0x531b6a892346bdad09a2f2197ea202fb41a132b6",
+    "slug": "mlb-pit-cws-2026-09-08-total-8pt5",
+    "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28366.675,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788910199,
+    "fills": 1
   }
 ]

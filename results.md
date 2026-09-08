@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 18:28:47 (hora de Perú)
+Actualizado: 2026-09-08 18:30:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2219**  ($116,784,060 en total)
+- Apuestas registradas: **2220**  ($116,812,427 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 338
+- Pendientes: 29
+- Apostadores distintos: 339
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 | sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 
-_(mostrando los 40 de mayor monto, de 338 en total)_
+_(mostrando los 40 de mayor monto, de 339 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | — | ⏳ Pendiente |
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.09 (92¢) | $60,983 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.19 (84¢) | $37,894 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $39,876 | +$24,440 | ✅ Ganada |
 | fkcvffcjt | Antalya 4: Nastasja Schunk vs Alicia Herrero Linana | Alicia Herrero Linana | 1.16 (86¢) | $26,635 | +$4,336 | ✅ Ganada |
 | bomber | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
-| 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $162,636 | -$162,636 | ❌ Perdida |
