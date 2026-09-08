@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 19:55:07 (hora de Perú)
+Actualizado: 2026-09-07 19:57:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2101**  ($109,952,805 en total)
+- Apuestas registradas: **2102**  ($109,990,805 en total)
 - Resueltas: **2078** — 1258 ganadas / 820 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 326
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kimi1986 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $38,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | ThisAgain | US Open ATP: Karen Khachanov vs Learner Tien | Learner Tien | 1.79 (56¢) | $55,735 | — | ⏳ Pendiente |
 | fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.00 (50¢) | $26,000 | -$26,000 | ❌ Perdida |
 | BrotherObama | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $30,000 | -$30,000 | ❌ Perdida |
 | BrotherObama | Cleveland Guardians vs. Baltimore Orioles: O/U 7.5 | Under 7.5 | 1.85 (54¢) | $35,000 | -$35,000 | ❌ Perdida |
-| pleaseplease123 | Los Angeles Angels vs. Boston Red Sox: O/U 8.5 | Over 8.5 | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
