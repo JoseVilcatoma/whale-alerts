@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 23:59:39 (hora de Perú)
+Actualizado: 2026-09-08 00:01:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2126**  ($111,558,393 en total)
-- Resueltas: **2110** — 1276 ganadas / 834 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2113** — 1278 ganadas / 835 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 326
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,156,500** sobre $111,009,073 apostados (ROI **+1.0%**)
-- Copiando $100 fijo en cada una: **-$6,210** sobre $207,800 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$1,152,508** sobre $111,109,989 apostados (ROI **+1.0%**)
+- Copiando $100 fijo en cada una: **-$6,173** sobre $208,100 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,14 +27,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 166 | 96 | 2 | 63% | $17,469,573 | +$572,080 |
 | 3edmond.dantes | 20 | 18 | 0 | 53% | $5,334,158 | -$1,274,948 |
 | AV23IUa | 53 | 42 | 0 | 56% | $5,075,635 | -$70,468 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 55 | 1 | 55% | $5,059,545 | -$101,867 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 0 | 54% | $5,059,545 | -$144,369 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | pleaseplease123 | 43 | 30 | 1 | 59% | $3,252,014 | +$459,152 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 22 | 13 | 1 | 63% | $1,932,309 | -$466,273 |
+| wr0ngw4yb3tt0r | 23 | 13 | 0 | 64% | $1,932,309 | -$449,060 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | SMU vs. Florida State | SMU | 1.52 (66¢) | $33,415 | +$17,214 | ✅ Ganada |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.10 (91¢) | $30,758 | — | ⏳ Pendiente |
 | Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⊘ Anulada |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.23 (81¢) | $32,400 | +$7,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds | 2.63 (38¢) | $154,000 | -$154,000 | ❌ Perdida |
 | Noprajsk | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.61 (62¢) | $308,835 | +$189,286 | ✅ Ganada |
-| 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | SMU vs. Florida State | SMU | 1.85 (54¢) | $25,000 | +$21,296 | ✅ Ganada |
 | Flaznorp | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.22 (82¢) | $36,580 | +$8,030 | ✅ Ganada |
 | RN1 | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.30 (77¢) | $35,137 | +$10,495 | ✅ Ganada |
 | Noprajsk | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Botic van de Zandschulp | 1.19 (84¢) | $234,293 | +$44,627 | ✅ Ganada |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | fkcvffcjt | US Open ATP: Arthur Gea vs Botic van de Zandschulp | Arthur Gea | 1.11 (90¢) | $27,000 | -$27,000 | ❌ Perdida |
 | hurrican | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.11 (90¢) | $39,511 | +$4,390 | ✅ Ganada |
 | kahe | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.10 (91¢) | $38,095 | +$3,768 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | SMU vs. Florida State | Florida State | 2.38 (42¢) | $42,502 | -$42,502 | ❌ Perdida |
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.86 (35¢) | $33,445 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Iva Jovic vs Coco Gauff | Iva Jovic | 2.70 (37¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0b1 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff | 1.33 (75¢) | $46,335 | +$15,445 | ✅ Ganada |
