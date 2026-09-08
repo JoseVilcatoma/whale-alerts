@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 17:24:51 (hora de Perú)
+Actualizado: 2026-09-08 17:26:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2212**  ($116,460,868 en total)
+- Apuestas registradas: **2214**  ($116,591,703 en total)
 - Resueltas: **2180** — 1317 ganadas / 863 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 338
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 172 | 97 | 4 | 64% | $17,826,300 | +$624,020 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 172 | 97 | 5 | 64% | $17,853,300 | +$624,020 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
-| AV23IUa | 54 | 42 | 0 | 56% | $5,282,583 | -$25,041 |
+| AV23IUa | 54 | 42 | 1 | 56% | $5,386,418 | -$25,041 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 1 | 54% | $5,089,320 | -$144,369 |
 | pleaseplease123 | 44 | 30 | 3 | 59% | $3,372,793 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 2.00 (50¢) | $27,000 | — | ⏳ Pendiente |
+| AV23IUa | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.00 (50¢) | $103,835 | — | ⏳ Pendiente |
 | degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 338 en total)_
 | norrisfan | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | salahmh | Will Club Brugge KV win on 2026-09-08? | No | 1.61 (62¢) | $28,337 | +$17,368 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $41,538 | -$41,538 | ❌ Perdida |
-| Flaznorp | Will Aston Villa FC win on 2026-09-08? | No | 1.56 (64¢) | $25,386 | -$25,386 | ❌ Perdida |
-| 3edmond.dantes | Will Club Brugge KV win on 2026-09-08? | Yes | 2.63 (38¢) | $454,733 | -$454,733 | ❌ Perdida |

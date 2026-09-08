@@ -33253,5 +33253,35 @@
     "status": "pending",
     "ultimo_fill": 1788906273,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4524,
+    "timestamp": 1788906370,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "usd": 103834.959245,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788906373,
+    "fills": 3
+  },
+  {
+    "telegram_msg_id": 4525,
+    "timestamp": 1788906371,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "usd": 26999.999999999996,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788906371,
+    "fills": 1
   }
 ]
