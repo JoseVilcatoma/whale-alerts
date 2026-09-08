@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-07 22:34:40 (hora de Perú)
+Actualizado: 2026-09-07 22:36:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2123**  ($111,450,221 en total)
+- Apuestas registradas: **2124**  ($111,494,221 en total)
 - Resueltas: **2098** — 1267 ganadas / 831 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 326
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Toronto Blue Jays vs. Athletics | Athletics | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $79,000 | — | ⏳ Pendiente |
 | RN1 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Julieta Pareja | 1.96 (51¢) | $33,500 | — | ⏳ Pendiente |
 | 0xd485Cb3aFE838F3DdfdAC69fc14d3b7109E6E57 | Barranquilla: Julieta Pareja vs Lucrezia Stefanini | Lucrezia Stefanini | 2.04 (49¢) | $27,863 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 326 en total)_
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No | 1.52 (66¢) | $40,049 | +$20,631 | ✅ Ganada |
 | totoro3miyazaki | Will SS Lazio win on 2026-09-07? | Yes | 2.86 (35¢) | $25,761 | +$47,842 | ✅ Ganada |
 | 0xwise | US Open ATP: Francisco Cerundolo vs Alexander Blockx | Alexander Blockx | 1.64 (61¢) | $33,034 | +$21,120 | ✅ Ganada |
-| Noprajsk | US Open WTA: Naomi Osaka vs Elena Rybakina | Elena Rybakina | 1.72 (58¢) | $63,800 | +$46,200 | ✅ Ganada |
