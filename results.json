@@ -32173,5 +32173,20 @@
     "status": "pending",
     "ultimo_fill": 1788871558,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4396,
+    "timestamp": 1788872163,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nym-mia-2026-09-08",
+    "title": "New York Mets vs. Miami Marlins",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "usd": 29653.9506,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1788872163,
+    "fills": 1
   }
 ]
