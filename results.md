@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 19:07:54 (hora de Perú)
+Actualizado: 2026-09-08 19:10:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2227**  ($117,407,865 en total)
+- Apuestas registradas: **2228**  ($117,458,273 en total)
 - Resueltas: **2193** — 1324 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 339
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 176 | 97 | 4 | 64% | $18,207,177 | +$690,541 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 43 | 2 | 56% | $5,561,069 | -$128,876 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 3 | 54% | $5,195,768 | -$144,369 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 4 | 54% | $5,246,176 | -$144,369 |
 | pleaseplease123 | 44 | 30 | 4 | 59% | $3,400,890 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $26,459 | — | ⏳ Pendiente |
 | nigiri99 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $38,255 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.41 (71¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Brugge KV win on 2026-09-08? | No | 1.64 (61¢) | $43,249 | +$27,651 | ✅ Ganada |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | +$20,676 | ✅ Ganada |
-| Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $156,000 | -$156,000 | ❌ Perdida |
