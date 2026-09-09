@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 00:43:14 (hora de Perú)
+Actualizado: 2026-09-09 00:45:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2240**  ($118,047,196 en total)
+- Apuestas registradas: **2241**  ($118,076,753 en total)
 - Resueltas: **2214** — 1336 ganadas / 878 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 340
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 14 | 0 | 62% | $1,968,591 | -$485,342 |
 | totoro3miyazaki | 19 | 11 | 0 | 63% | $1,905,526 | -$174,411 |
-| 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
+| 0F62 | 22 | 2 | 1 | 92% | $1,881,598 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 340 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $29,557 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $49,700 | — | ⏳ Pendiente |
 | bardeen | Will Sporting CP win on 2026-09-09? | Yes | 1.79 (56¢) | $37,617 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 340 en total)_
 | KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | +$4,592 | ✅ Ganada |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.27 (44¢) | $156,444 | -$156,444 | ❌ Perdida |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | -$267,601 | ❌ Perdida |
-| iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | +$22,498 | ✅ Ganada |
