@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 17:15:29 (hora de Perú)
+Actualizado: 2026-09-09 17:17:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2335**  ($125,324,784 en total)
-- Resueltas: **2308** — 1400 ganadas / 908 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **2310** — 1401 ganadas / 909 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$840,329** sobre $124,015,057 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$5,944** sobre $227,500 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$831,757** sobre $124,076,288 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$5,944** sobre $227,700 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 1 | 55% | $5,306,402 | -$58,513 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
-| pleaseplease123 | 47 | 31 | 5 | 60% | $3,549,547 | +$612,881 |
+| pleaseplease123 | 48 | 31 | 4 | 61% | $3,549,547 | +$639,210 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
-| Sassy-Bucket | 16 | 18 | 1 | 47% | $1,640,045 | -$163,143 |
+| Sassy-Bucket | 16 | 19 | 0 | 46% | $1,640,045 | -$198,044 |
 | Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | — | ⏳ Pendiente |
-| Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
+| Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | +$6,871 | ✅ Ganada |
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | -$34,000 | ❌ Perdida |
 | Jsram | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $30,008 | -$30,008 | ❌ Perdida |
 | Joey25 | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $25,506 | -$25,506 | ❌ Perdida |
-| pleaseplease123 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $26,329 | — | ⏳ Pendiente |
+| pleaseplease123 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $26,329 | +$26,329 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $992,349 | +$217,833 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | +$8,444 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | +$52,777 | ✅ Ganada |
