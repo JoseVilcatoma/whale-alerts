@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:09:43 (hora de Perú)
+Actualizado: 2026-09-09 11:11:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2265**  ($119,313,781 en total)
-- Resueltas: **2235** — 1348 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **2268**  ($119,731,516 en total)
+- Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 345
 
 ### Balance
 
-- **Resultado de los apostadores: -$84,080** sobre $117,838,907 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,832** sobre $220,300 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$65,099** sobre $117,965,939 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,817** sobre $220,400 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 3 | 64% | $18,306,240 | +$678,941 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 5 | 64% | $18,412,866 | +$678,941 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
@@ -32,9 +32,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
+| totoro3miyazaki | 19 | 11 | 2 | 63% | $2,364,770 | -$174,411 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| totoro3miyazaki | 19 | 11 | 1 | 63% | $2,053,660 | -$174,411 |
 | wr0ngw4yb3tt0r | 23 | 14 | 0 | 62% | $1,968,591 | -$485,342 |
 | 0F62 | 22 | 2 | 1 | 92% | $1,881,598 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 1 | 94% | $1,053,971 | +$59,819 |
 | ferrariChampions2026 | 20 | 10 | 0 | 67% | $1,005,626 | -$181,089 |
-| Noprajsk | 7 | 0 | 1 | ⚠️ 100% (7) | $958,598 | +$429,569 |
+| Noprajsk | 8 | 0 | 0 | 100% | $958,598 | +$448,551 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $48,022 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $58,604 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $311,110 | — | ⏳ Pendiente |
 | zhqzhq | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $35,000 | — | ⏳ Pendiente |
 | nigiri99 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.27 (79¢) | $26,068 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.28 (78¢) | $148,134 | — | ⏳ Pendiente |
@@ -81,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $30,963 | — | ⏳ Pendiente |
 | 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.67 (60¢) | $240,185 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Barcelona vs. Feyenoord Rotterdam: O/U 2.5 | Over 2.5 | 1.15 (87¢) | $38,963 | — | ⏳ Pendiente |
-| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | — | ⏳ Pendiente |
+| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | +$18,982 | ✅ Ganada |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | +$36,171 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | -$36,282 | ❌ Perdida |
 | SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | -$28,050 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Miami Marlins: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $29,775 | +$32,257 | ✅ Ganada |
-| 0x78be…bde0 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
