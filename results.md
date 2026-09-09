@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:37:06 (hora de Perú)
+Actualizado: 2026-09-09 11:39:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2277**  ($120,495,485 en total)
+- Apuestas registradas: **2278**  ($120,531,485 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 346
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
-| totoro3miyazaki | 19 | 11 | 6 | 63% | $2,877,589 | -$174,411 |
+| totoro3miyazaki | 19 | 11 | 7 | 63% | $2,913,589 | -$174,411 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | — | ⏳ Pendiente |
 | xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
 | baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | -$28,367 | ❌ Perdida |
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | -$28,097 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.09 (92¢) | $60,983 | +$5,303 | ✅ Ganada |
