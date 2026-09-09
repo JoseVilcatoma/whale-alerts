@@ -33493,5 +33493,20 @@
     "status": "pending",
     "ultimo_fill": 1788912530,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4554,
+    "timestamp": 1788914352,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-pegula-navarro-2026-09-08",
+    "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "usd": 38695.817599999995,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1788914352,
+    "fills": 1
   }
 ]
