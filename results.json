@@ -34448,11 +34448,11 @@
     "title": "Will Sporting CP win on 2026-09-09?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 250814.92059999998,
+    "usd": 310814.3206,
     "odds_at_bet": 59,
     "status": "pending",
-    "ultimo_fill": 1788978296,
-    "fills": 4
+    "ultimo_fill": 1788978322,
+    "fills": 5
   },
   {
     "telegram_msg_id": 4664,
@@ -34497,6 +34497,36 @@
     "odds_at_bet": 81,
     "status": "pending",
     "ultimo_fill": 1788978293,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4667,
+    "timestamp": 1788978331,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-andreev-gauff-2026-09-08",
+    "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "usd": 71030.5266,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788978331,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4668,
+    "timestamp": 1788978344,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "ucl-spo-gal-2026-09-09-spo",
+    "title": "Will Sporting CP win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29105.292,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1788978344,
     "fills": 1
   }
 ]

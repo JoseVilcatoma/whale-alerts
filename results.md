@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:25:13 (hora de Perú)
+Actualizado: 2026-09-09 13:27:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2295**  ($122,640,960 en total)
+- Apuestas registradas: **2297**  ($122,801,095 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 346
 
 ### Balance
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 7 | 64% | $18,555,388 | +$678,941 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 8 | 64% | $18,626,419 | +$678,941 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | totoro3miyazaki | 19 | 11 | 8 | 63% | $3,905,938 | -$174,411 |
+| ripley86alien | 23 | 11 | 2 | 68% | $3,468,851 | +$819,077 |
 | pleaseplease123 | 47 | 31 | 2 | 60% | $3,452,934 | +$612,881 |
-| ripley86alien | 23 | 11 | 2 | 68% | $3,408,852 | +$819,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $29,105 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.13 (47¢) | $71,031 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Galatasaray SK win on 2026-09-09? | No | 1.23 (81¢) | $70,522 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $104,751 | — | ⏳ Pendiente |
 | ChinesePro | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $33,903 | — | ⏳ Pendiente |
-| ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.69 (59¢) | $250,815 | — | ⏳ Pendiente |
+| ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.69 (59¢) | $310,814 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.78 (36¢) | $72,000 | — | ⏳ Pendiente |
 | fRibrenlc | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $36,447 | — | ⏳ Pendiente |
 | ripley86alien | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $142,555 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | ExplosiveNinja | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $49,700 | +$20,300 | ✅ Ganada |
 | bardeen | Will Sporting CP win on 2026-09-09? | Yes | 1.79 (56¢) | $37,617 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | -$85,094 | ❌ Perdida |
-| suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
-| 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | -$98,776 | ❌ Perdida |
