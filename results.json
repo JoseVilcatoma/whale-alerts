@@ -33733,5 +33733,20 @@
     "status": "pending",
     "ultimo_fill": 1788937146,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4592,
+    "timestamp": 1788940848,
+    "username": "PrtySwamp",
+    "wallet": "0xf19c1162e97a1170d0ec1b8ef9f47c4883770767",
+    "slug": "cs2-3dmax-ace1-2026-09-09",
+    "title": "Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "usd": 25978.1377,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1788940848,
+    "fills": 1
   }
 ]
