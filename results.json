@@ -35175,5 +35175,20 @@
     "status": "pending",
     "ultimo_fill": 1788994322,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4769,
+    "timestamp": 1788994428,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-cin-lad-2026-09-09-total-8pt5",
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 35683.660098292115,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788994428,
+    "fills": 1
   }
 ]
