@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 22:57:20 (hora de Perú)
+Actualizado: 2026-09-08 22:59:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2235**  ($117,738,427 en total)
+- Apuestas registradas: **2236**  ($117,837,203 en total)
 - Resueltas: **2210** — 1335 ganadas / 875 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 339
 
 ### Balance
@@ -56,6 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
+| 0x78be…bde0 | 10 | 5 | 1 | 67% | $568,335 | +$50,568 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
 | Sunny24 | 10 | 5 | 0 | 67% | $546,179 | +$89,866 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 4 | 0 | 60% | $512,723 | +$74,662 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
-| sulumos | 2 | 10 | 0 | 17% | $501,049 | -$409,817 |
 
 _(mostrando los 40 de mayor monto, de 339 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | -$25,714 | ❌ Perdida |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $102,181 | -$102,181 | ❌ Perdida |
 | hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.25 (80¢) | $44,713 | -$44,713 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.64 (61¢) | $29,734 | +$19,010 | ✅ Ganada |
