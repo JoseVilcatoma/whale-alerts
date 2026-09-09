@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 17:50:22 (hora de Perú)
+Actualizado: 2026-09-09 17:52:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2339**  ($125,617,367 en total)
+- Apuestas registradas: **2340**  ($125,690,298 en total)
 - Resueltas: **2311** — 1402 ganadas / 909 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | — | ⏳ Pendiente |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | -$34,000 | ❌ Perdida |
 | Jsram | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $30,008 | -$30,008 | ❌ Perdida |
 | Joey25 | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $25,506 | -$25,506 | ❌ Perdida |
-| pleaseplease123 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $26,329 | +$26,329 | ✅ Ganada |
