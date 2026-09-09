@@ -33853,5 +33853,20 @@
     "status": "pending",
     "ultimo_fill": 1788963982,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4618,
+    "timestamp": 1788964217,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-prv-furia-2026-09-09-game2",
+    "title": "Counter-Strike: PARIVISION vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1788964217,
+    "fills": 1
   }
 ]
