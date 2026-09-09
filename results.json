@@ -33748,5 +33748,20 @@
     "status": "pending",
     "ultimo_fill": 1788940848,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4606,
+    "timestamp": 1788946766,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-tyloo-gl1-2026-09-09",
+    "title": "Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "TYLOO",
+    "side": "BUY",
+    "usd": 30385.7352,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788946766,
+    "fills": 1
   }
 ]

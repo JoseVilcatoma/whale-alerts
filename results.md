@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 04:38:47 (hora de Perú)
+Actualizado: 2026-09-09 04:40:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2245**  ($118,200,173 en total)
+- Apuestas registradas: **2246**  ($118,230,558 en total)
 - Resueltas: **2227** — 1340 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 343
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 343 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | — | ⏳ Pendiente |
 | PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 343 en total)_
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $75,000 | -$75,000 | ❌ Perdida |
 | 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $70,400 | -$70,400 | ❌ Perdida |
 | tg-stakeqiu | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.69 (59¢) | $30,000 | +$20,847 | ✅ Ganada |
-| totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | -$64,041 | ❌ Perdida |
