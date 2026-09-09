@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 14:02:07 (hora de Perú)
+Actualizado: 2026-09-09 14:04:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2317**  ($124,182,606 en total)
-- Resueltas: **2261** — 1372 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$446,313** sobre $120,606,374 apostados (ROI **+0.4%**)
+- **Resultado de los apostadores: +$446,313** sobre $120,632,894 apostados (ROI **+0.4%**)
 - Copiando $100 fijo en cada una: **-$5,520** sobre $222,900 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $200,000 | — | ⏳ Pendiente |
 | 0x197c…e025 | Will Arsenal FC win on 2026-09-09? | Yes | 1.72 (58¢) | $42,216 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
-| bambambole | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $26,520 | — | ⏳ Pendiente |
+| bambambole | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $26,520 | +$0 | 💰 Vendida antes |
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $34,276 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | — | ⏳ Pendiente |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
