@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 20:32:04 (hora de Perú)
+Actualizado: 2026-09-08 20:34:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2232**  ($117,616,088 en total)
+- Apuestas registradas: **2233**  ($117,671,088 en total)
 - Resueltas: **2196** — 1326 ganadas / 870 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 339
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 4 | 9 | 1 | 31% | $720,495 | +$17,872 |
+| BrotherObama | 4 | 9 | 2 | 31% | $775,495 | +$17,872 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.64 (61¢) | $29,734 | +$19,010 | ✅ Ganada |
 | SharkbetX-com | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.22 (45¢) | $49,080 | -$49,080 | ❌ Perdida |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $65,333 | -$65,333 | ❌ Perdida |
-| 00gringo00 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.82 (55¢) | $53,923 | +$44,119 | ✅ Ganada |
