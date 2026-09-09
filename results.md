@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:41:14 (hora de Perú)
+Actualizado: 2026-09-09 11:43:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2278**  ($120,531,485 en total)
+- Apuestas registradas: **2279**  ($120,986,387 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 346
 
 ### Balance
@@ -29,9 +29,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
+| totoro3miyazaki | 19 | 11 | 8 | 63% | $3,368,490 | -$174,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
-| totoro3miyazaki | 19 | 11 | 7 | 63% | $2,913,589 | -$174,411 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $454,902 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | — | ⏳ Pendiente |
 | xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | -$146,601 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
 | baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | -$28,367 | ❌ Perdida |
-| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | -$28,097 | ❌ Perdida |
