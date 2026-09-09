@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 00:12:04 (hora de Perú)
+Actualizado: 2026-09-09 00:14:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2238**  ($117,959,879 en total)
+- Apuestas registradas: **2239**  ($117,997,496 en total)
 - Resueltas: **2214** — 1336 ganadas / 878 perdidas (**60%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 339
+- Pendientes: 14
+- Apostadores distintos: 340
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 
-_(mostrando los 40 de mayor monto, de 339 en total)_
+_(mostrando los 40 de mayor monto, de 340 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bardeen | Will Sporting CP win on 2026-09-09? | Yes | 1.79 (56¢) | $37,617 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | — | ⏳ Pendiente |
 | suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.39 (72¢) | $267,601 | -$267,601 | ❌ Perdida |
 | iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | +$22,498 | ✅ Ganada |
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | -$25,714 | ❌ Perdida |
