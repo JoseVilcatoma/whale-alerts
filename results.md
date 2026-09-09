@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 23:32:44 (hora de Perú)
+Actualizado: 2026-09-08 23:34:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2237**  ($117,874,784 en total)
-- Resueltas: **2211** — 1335 ganadas / 876 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2212** — 1336 ganadas / 876 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$108,416** sobre $116,819,957 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,461** sobre $217,900 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$84,388** sobre $116,844,965 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,365** sobre $218,000 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | nigiri99 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $38,255 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.41 (71¢) | $35,000 | +$14,296 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | +$19,494 | ✅ Ganada |
-| baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | — | ⏳ Pendiente |
+| baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | +$24,028 | ✅ Ganada |
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | -$146,601 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
 | baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | -$28,367 | ❌ Perdida |
