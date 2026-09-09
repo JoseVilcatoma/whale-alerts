@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 18:17:21 (hora de Perú)
+Actualizado: 2026-09-09 18:19:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2341**  ($125,725,982 en total)
+- Apuestas registradas: **2342**  ($125,763,877 en total)
 - Resueltas: **2311** — 1402 ganadas / 909 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | — | ⏳ Pendiente |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | — | ⏳ Pendiente |
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | — | ⏳ Pendiente |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | Zzzz87 | SSC Napoli vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $31,397 | -$31,397 | ❌ Perdida |
 | SemyonMarmeladov | Will Arsenal FC win on 2026-09-09? | Yes | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | -$34,000 | ❌ Perdida |
-| Jsram | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $30,008 | -$30,008 | ❌ Perdida |
