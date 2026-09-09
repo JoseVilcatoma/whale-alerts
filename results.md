@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:01:38 (hora de Perú)
+Actualizado: 2026-09-09 13:03:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2287**  ($121,881,974 en total)
+- Apuestas registradas: **2288**  ($121,929,967 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 346
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 1 | 94% | $1,053,971 | +$59,819 |
+| Noprajsk | 8 | 0 | 1 | 100% | $1,006,591 | +$448,551 |
 | ferrariChampions2026 | 20 | 10 | 0 | 67% | $1,005,626 | -$181,089 |
-| Noprajsk | 8 | 0 | 0 | 100% | $958,598 | +$448,551 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.86 (35¢) | $47,993 | — | ⏳ Pendiente |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.38 (42¢) | $112,246 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | — | ⏳ Pendiente |
 | Zzzz87 | SSC Napoli vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $31,397 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | -$45,600 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | +$150,717 | ✅ Ganada |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.39 (72¢) | $38,696 | +$15,048 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | +$14,218 | ✅ Ganada |
