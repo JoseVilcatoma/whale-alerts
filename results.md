@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:14:41 (hora de Perú)
+Actualizado: 2026-09-09 16:16:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2333**  ($125,081,243 en total)
-- Resueltas: **2268** — 1378 ganadas / 890 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Resueltas: **2270** — 1380 ganadas / 890 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$341,845** sobre $121,124,083 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$5,532** sobre $223,500 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$359,040** sobre $121,232,481 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$5,488** sobre $223,700 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 17 | 1 | 1 | 94% | $1,210,502 | +$70,589 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 0 | 95% | $1,210,502 | +$77,459 |
 | Noprajsk | 8 | 0 | 2 | 100% | $1,152,832 | +$448,551 |
 | ferrariChampions2026 | 20 | 10 | 1 | 67% | $1,054,612 | -$181,089 |
 | SDTrading | 14 | 17 | 1 | 45% | $947,337 | -$128,115 |
@@ -82,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | +$6,871 | ✅ Ganada |
 | rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | +$4,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 2.17 (46¢) | $89,667 | — | ⏳ Pendiente |
-| Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | — | ⏳ Pendiente |
+| Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | +$10,325 | ✅ Ganada |
 | ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | +$16,747 | ✅ Ganada |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $84,326 | — | ⏳ Pendiente |
 | CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | +$12,612 | ✅ Ganada |
