@@ -35145,5 +35145,20 @@
     "status": "pending",
     "ultimo_fill": 1788993662,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4767,
+    "timestamp": 1788993804,
+    "username": "wigglew",
+    "wallet": "0xc96e5287ab294ac0388c2ddb00180fc464cff1f9",
+    "slug": "mls-atl-orl-2026-09-09-atl",
+    "title": "Will Atlanta United FC win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 38640.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788993804,
+    "fills": 1
   }
 ]
