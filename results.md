@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 08:00:08 (hora de Perú)
+Actualizado: 2026-09-09 08:02:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2250**  ($118,401,534 en total)
-- Resueltas: **2229** — 1342 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Resueltas: **2230** — 1343 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 345
 
 ### Balance
 
-- **Resultado de los apostadores: -$192,963** sobre $117,660,983 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,185** sobre $219,700 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$167,079** sobre $117,691,369 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,099** sobre $219,800 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
 | TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | +$25,884 | ✅ Ganada |
 | PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | +$13,414 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
