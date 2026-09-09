@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 09:24:25 (hora de Perú)
+Actualizado: 2026-09-09 09:26:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2251**  ($118,427,975 en total)
+- Apuestas registradas: **2252**  ($118,457,975 en total)
 - Resueltas: **2231** — 1344 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 345
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | — | ⏳ Pendiente |
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | -$48,666 | ❌ Perdida |
 | 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | +$27,464 | ✅ Ganada |
