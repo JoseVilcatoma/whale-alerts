@@ -34573,5 +34573,20 @@
     "status": "pending",
     "ultimo_fill": 1788978403,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4674,
+    "timestamp": 1788978972,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ucl-spo-gal-2026-09-09-draw",
+    "title": "Will Sporting CP vs. Galatasaray SK end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 61917.5466,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1788978972,
+    "fills": 1
   }
 ]
