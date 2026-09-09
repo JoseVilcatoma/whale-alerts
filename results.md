@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:45:42 (hora de Perú)
+Actualizado: 2026-09-09 13:47:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2304**  ($123,378,351 en total)
+- Apuestas registradas: **2306**  ($123,444,541 en total)
 - Resueltas: **2238** — 1351 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 55
+- Pendientes: 57
 - Apostadores distintos: 347
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | 4 | 4 | 3 | 50% | $584,158 | +$115,592 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | Sunny24 | 10 | 5 | 1 | 67% | $580,179 | +$89,866 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | 4 | 4 | 2 | 50% | $557,968 | +$115,592 |
 | ChinesePro | 2 | 10 | 1 | 17% | $555,323 | -$387,421 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 347 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | — | ⏳ Pendiente |
+| 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $83,000 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $32,532 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-09? | Yes | 5.88 (17¢) | $161,139 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 347 en total)_
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
 | TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
-| ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | +$25,884 | ✅ Ganada |
-| PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | +$9,608 | ✅ Ganada |
