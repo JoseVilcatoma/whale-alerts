@@ -19,10 +19,6 @@
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
     "added_at": 1788084765.418615
   },
-  "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60": {
-    "username": "BillyGating",
-    "added_at": 1788132767.2117977
-  },
   "0x5a218c7ad04135830a45c41aaed7294df7809318": {
     "username": "balthazar",
     "added_at": 1788226494.085779
@@ -30,10 +26,6 @@
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1788226494.085779
-  },
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
-    "username": "BrotherObama",
-    "added_at": 1788231649.1087248
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
@@ -466,5 +458,9 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1788913918.3128283
+  },
+  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "added_at": 1788924765.8385086
   }
 }
