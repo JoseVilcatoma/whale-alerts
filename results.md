@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:55:52 (hora de Perú)
+Actualizado: 2026-09-09 13:57:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2311**  ($123,786,553 en total)
+- Apuestas registradas: **2314**  ($123,987,129 en total)
 - Resueltas: **2238** — 1351 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 62
+- Pendientes: 65
 - Apostadores distintos: 348
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 10 | 64% | $18,739,089 | +$678,941 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 11 | 64% | $18,778,089 | +$678,941 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | totoro3miyazaki | 19 | 11 | 9 | 63% | $4,067,077 | -$174,411 |
-| ripley86alien | 23 | 11 | 3 | 68% | $3,728,851 | +$819,077 |
+| ripley86alien | 23 | 11 | 4 | 68% | $3,828,850 | +$819,077 |
 | pleaseplease123 | 47 | 31 | 2 | 60% | $3,452,934 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | — | ⏳ Pendiente |
+| ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $100,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $200,000 | — | ⏳ Pendiente |
 | 0x197c…e025 | Will Arsenal FC win on 2026-09-09? | Yes | 1.72 (58¢) | $42,216 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.67 (60¢) | $240,185 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Barcelona vs. Feyenoord Rotterdam: O/U 2.5 | Over 2.5 | 1.15 (87¢) | $38,963 | — | ⏳ Pendiente |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | +$18,982 | ✅ Ganada |
-| pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
-| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
