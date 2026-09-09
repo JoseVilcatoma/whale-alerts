@@ -34905,5 +34905,20 @@
     "status": "pending",
     "ultimo_fill": 1788982574,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4717,
+    "timestamp": 1788983057,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-wsh-sd-2026-09-09",
+    "title": "Washington Nationals vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 61237.3734,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788983057,
+    "fills": 1
   }
 ]
