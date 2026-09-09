@@ -33823,5 +33823,20 @@
     "status": "pending",
     "ultimo_fill": 1788954610,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4614,
+    "timestamp": 1788959280,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-bb3-ast10-2026-09-09-game2",
+    "title": "Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "usd": 26441.673300000002,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1788959280,
+    "fills": 1
   }
 ]
