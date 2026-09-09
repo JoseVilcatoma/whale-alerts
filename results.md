@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 05:23:58 (hora de Perú)
+Actualizado: 2026-09-09 05:26:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2246**  ($118,230,558 en total)
-- Resueltas: **2227** — 1340 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Resueltas: **2229** — 1342 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 343
 
 ### Balance
 
-- **Resultado de los apostadores: -$226,677** sobre $117,578,442 apostados (ROI **-0.2%**)
-- Copiando $100 fijo en cada una: **-$6,266** sobre $219,500 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$192,963** sobre $117,660,983 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,185** sobre $219,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,11 +73,11 @@ _(mostrando los 40 de mayor monto, de 343 en total)_
 |---|---|---|---|---|---|---|
 | ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | — | ⏳ Pendiente |
 | PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | — | ⏳ Pendiente |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | — | ⏳ Pendiente |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | +$13,414 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.52 (66¢) | $39,600 | -$39,600 | ❌ Perdida |
 | aaaallcarzz | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 2.94 (34¢) | $25,000 | +$48,529 | ✅ Ganada |
 | 0F62 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $29,557 | — | ⏳ Pendiente |
-| ExplosiveNinja | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $49,700 | — | ⏳ Pendiente |
+| ExplosiveNinja | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $49,700 | +$20,300 | ✅ Ganada |
 | bardeen | Will Sporting CP win on 2026-09-09? | Yes | 1.79 (56¢) | $37,617 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | -$85,094 | ❌ Perdida |
 | suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
