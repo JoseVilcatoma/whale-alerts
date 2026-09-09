@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 06:48:01 (hora de Perú)
+Actualizado: 2026-09-09 06:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2247**  ($118,271,808 en total)
+- Apuestas registradas: **2249**  ($118,374,665 en total)
 - Resueltas: **2229** — 1342 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 343
+- Pendientes: 9
+- Apostadores distintos: 345
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 
-_(mostrando los 40 de mayor monto, de 343 en total)_
+_(mostrando los 40 de mayor monto, de 345 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
+| TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
 | ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | — | ⏳ Pendiente |
 | PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 343 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | +$27,464 | ✅ Ganada |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $45,500 | -$45,500 | ❌ Perdida |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.79 (56¢) | $70,458 | +$55,360 | ✅ Ganada |
-| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $75,000 | -$75,000 | ❌ Perdida |
-| 0x5a0d11cc3f84a688DAa8D600A4bE0Dccd89c7108-1776120720028 | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $70,400 | -$70,400 | ❌ Perdida |
