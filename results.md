@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 22:17:53 (hora de Perú)
+Actualizado: 2026-09-08 22:20:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2235**  ($117,738,427 en total)
-- Resueltas: **2204** — 1330 ganadas / 874 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **2208** — 1334 ganadas / 874 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$155,453** sobre $116,506,329 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,520** sobre $217,200 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$85,193** sobre $116,693,048 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,350** sobre $217,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 177 | 97 | 4 | 65% | $18,235,677 | +$735,541 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 97 | 3 | 65% | $18,235,677 | +$757,041 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 68 | 56 | 3 | 55% | $5,277,843 | -$60,558 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 56 | 1 | 56% | $5,277,843 | -$26,846 |
 | pleaseplease123 | 46 | 30 | 2 | 61% | $3,400,890 | +$592,245 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -74,15 +74,15 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | — | ⏳ Pendiente |
-| 0x78be…bde0 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.39 (72¢) | $38,696 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | — | ⏳ Pendiente |
+| 0x78be…bde0 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.39 (72¢) | $38,696 | +$15,048 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | +$14,218 | ✅ Ganada |
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $26,459 | — | ⏳ Pendiente |
 | nigiri99 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $38,255 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.41 (71¢) | $35,000 | +$14,296 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | +$19,494 | ✅ Ganada |
 | baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | — | ⏳ Pendiente |
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | -$146,601 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
