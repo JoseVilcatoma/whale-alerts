@@ -34950,5 +34950,20 @@
     "status": "pending",
     "ultimo_fill": 1788983856,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4720,
+    "timestamp": 1788984343,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-col-nyy-2026-09-09-total-9pt5",
+    "title": "Colorado Rockies vs. New York Yankees: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 27090.552,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788984343,
+    "fills": 1
   }
 ]
