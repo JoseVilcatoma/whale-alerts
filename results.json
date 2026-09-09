@@ -34153,5 +34153,20 @@
     "status": "pending",
     "ultimo_fill": 1788970651,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4643,
+    "timestamp": 1788971273,
+    "username": "6d0f571330",
+    "wallet": "0xf1d6444a999c705b5bf0c9d1d6b979c0e09c892a",
+    "slug": "mlb-min-det-2026-09-09",
+    "title": "Minnesota Twins vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 94748.08624300001,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1788971273,
+    "fills": 1
   }
 ]
