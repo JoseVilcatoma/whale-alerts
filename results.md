@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 18:50:41 (hora de Perú)
+Actualizado: 2026-09-09 18:52:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2349**  ($126,186,897 en total)
+- Apuestas registradas: **2350**  ($126,228,147 en total)
 - Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
 | theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | — | ⏳ Pendiente |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | ChinesePro | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $33,903 | -$33,903 | ❌ Perdida |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.69 (59¢) | $370,814 | +$257,684 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.78 (36¢) | $72,000 | -$72,000 | ❌ Perdida |
-| fRibrenlc | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $36,447 | +$17,152 | ✅ Ganada |
