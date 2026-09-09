@@ -34183,5 +34183,35 @@
     "status": "pending",
     "ultimo_fill": 1788971358,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4645,
+    "timestamp": 1788971514,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "ucl-stu-vf-2026-09-09-stu",
+    "title": "Will VfB Stuttgart win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26999.730000000003,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1788971514,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4646,
+    "timestamp": 1788971521,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "wta-zhen-rybakin-2026-09-08",
+    "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 29091.879999999994,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788971521,
+    "fills": 1
   }
 ]
