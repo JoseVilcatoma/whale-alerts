@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:17:04 (hora de Perú)
+Actualizado: 2026-09-09 13:19:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2289**  ($122,001,244 en total)
+- Apuestas registradas: **2290**  ($122,037,692 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 346
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $36,447 | — | ⏳ Pendiente |
 | ripley86alien | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $71,277 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.86 (35¢) | $47,993 | — | ⏳ Pendiente |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.38 (42¢) | $112,246 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | -$45,600 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | +$150,717 | ✅ Ganada |
