@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 23:30:38 (hora de Perú)
+Actualizado: 2026-09-08 23:32:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2237**  ($117,874,784 en total)
-- Resueltas: **2210** — 1335 ganadas / 875 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2211** — 1335 ganadas / 876 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$72,743** sobre $116,784,284 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,361** sobre $217,800 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$108,416** sobre $116,819,957 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,461** sobre $217,900 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
-| ferrariChampions2026 | 20 | 9 | 1 | 69% | $1,005,626 | -$145,416 |
+| ferrariChampions2026 | 20 | 10 | 0 | 67% | $1,005,626 | -$181,089 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 |---|---|---|---|---|---|---|
 | suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | -$35,673 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
