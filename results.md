@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:16:00 (hora de Perú)
+Actualizado: 2026-09-09 11:18:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2272**  ($120,028,314 en total)
+- Apuestas registradas: **2272**  ($120,081,647 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 346
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
+| totoro3miyazaki | 19 | 11 | 4 | 63% | $2,625,591 | -$174,411 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| totoro3miyazaki | 19 | 11 | 4 | 63% | $2,572,258 | -$174,411 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 14 | 1 | 62% | $2,030,484 | -$485,342 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $65,267 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $118,600 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $27,417 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No | 2.70 (37¢) | $61,893 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $142,222 | — | ⏳ Pendiente |
