@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 19:52:13 (hora de Perú)
+Actualizado: 2026-09-08 19:54:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2230**  ($117,541,988 en total)
+- Apuestas registradas: **2231**  ($117,587,588 en total)
 - Resueltas: **2194** — 1325 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 339
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.39 (72¢) | $38,696 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $65,333 | -$65,333 | ❌ Perdida |
 | 00gringo00 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.82 (55¢) | $53,923 | +$44,119 | ✅ Ganada |
 | Di88medes | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.17 (46¢) | $41,102 | -$41,102 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Club Brugge KV win on 2026-09-08? | No | 1.64 (61¢) | $43,249 | +$27,651 | ✅ Ganada |
