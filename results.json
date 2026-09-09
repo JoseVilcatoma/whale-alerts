@@ -34448,11 +34448,11 @@
     "title": "Will Sporting CP win on 2026-09-09?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 310814.3206,
+    "usd": 370813.7206,
     "odds_at_bet": 59,
     "status": "pending",
-    "ultimo_fill": 1788978322,
-    "fills": 5
+    "ultimo_fill": 1788978382,
+    "fills": 6
   },
   {
     "telegram_msg_id": 4664,
@@ -34557,6 +34557,21 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1788978493,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4671,
+    "timestamp": 1788978403,
+    "username": "bettingbettor",
+    "wallet": "0x6bfbba9d9b088cd5e17a2e0ce24df6e7970002c9",
+    "slug": "ucl-spo-gal-2026-09-09-spo",
+    "title": "Will Sporting CP win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 78929.79,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788978403,
     "fills": 1
   }
 ]
