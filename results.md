@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 15:41:25 (hora de Perú)
+Actualizado: 2026-09-09 15:43:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2327**  ($124,690,821 en total)
+- Apuestas registradas: **2328**  ($124,727,654 en total)
 - Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 348
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | totoro3miyazaki | 27 | 11 | 1 | 71% | $4,067,077 | +$295,741 |
 | ripley86alien | 23 | 11 | 4 | 68% | $3,828,850 | +$819,077 |
-| pleaseplease123 | 47 | 31 | 4 | 60% | $3,512,713 | +$612,881 |
+| pleaseplease123 | 47 | 31 | 5 | 60% | $3,549,547 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | — | ⏳ Pendiente |
 | Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Zombie77 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $27,417 | +$2,384 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No | 2.70 (37¢) | $61,893 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $142,222 | +$35,555 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $48,022 | +$4,176 | ✅ Ganada |
