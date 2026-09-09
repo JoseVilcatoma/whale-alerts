@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:19:21 (hora de Perú)
+Actualizado: 2026-09-09 16:21:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2333**  ($125,081,243 en total)
+- Apuestas registradas: **2334**  ($125,261,591 en total)
 - Resueltas: **2305** — 1398 ganadas / 907 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 348
 
 ### Balance
@@ -43,9 +43,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| Noprajsk | 8 | 1 | 2 | 89% | $1,333,180 | +$400,557 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 0 | 95% | $1,210,502 | +$77,459 |
-| Noprajsk | 8 | 1 | 1 | 89% | $1,152,832 | +$400,557 |
 | ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
 | SDTrading | 14 | 17 | 1 | 45% | $947,337 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $180,349 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | — | ⏳ Pendiente |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $146,240 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $50,790 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | +$52,777 | ✅ Ganada |
 | xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | +$32,806 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will VfB Stuttgart win on 2026-09-09? | No | 5.26 (19¢) | $38,000 | -$38,000 | ❌ Perdida |
