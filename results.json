@@ -33910,7 +33910,7 @@
     "side": "BUY",
     "usd": 38962.9326,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788968116,
     "fills": 1
   },
@@ -34813,5 +34813,20 @@
     "status": "pending",
     "ultimo_fill": 1788980378,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4709,
+    "timestamp": 1788980500,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-liv-atm-2026-09-09-draw",
+    "title": "Will Liverpool FC vs. Club Atl\u00e9tico de Madrid end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 29386.419998,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788980500,
+    "fills": 1
   }
 ]

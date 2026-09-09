@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:59:58 (hora de Perú)
+Actualizado: 2026-09-09 14:02:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2316**  ($124,153,220 en total)
-- Resueltas: **2260** — 1371 ganadas / 889 perdidas (**61%** de acierto)
+- Apuestas registradas: **2317**  ($124,182,606 en total)
+- Resueltas: **2261** — 1372 ganadas / 889 perdidas (**61%** de acierto)
 - Pendientes: 45
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$440,491** sobre $120,567,411 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$5,535** sobre $222,800 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$446,313** sobre $120,606,374 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$5,520** sobre $222,900 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | ferrariChampions2026 | 20 | 10 | 1 | 67% | $1,054,612 | -$181,089 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 1 | 94% | $1,053,971 | +$59,819 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 16 | 1 | 0 | 94% | $1,053,971 | +$65,641 |
 | Noprajsk | 8 | 0 | 1 | 100% | $1,006,591 | +$448,551 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | — | ⏳ Pendiente |
 | ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | — | ⏳ Pendiente |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $84,326 | — | ⏳ Pendiente |
 | CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 177-letsgo | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $33,977 | +$2,955 | ✅ Ganada |
 | 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.61 (62¢) | $52,398 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $30,963 | +$3,062 | ✅ Ganada |
-| 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.67 (60¢) | $240,185 | — | ⏳ Pendiente |
