@@ -34588,5 +34588,35 @@
     "status": "pending",
     "ultimo_fill": 1788978972,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4675,
+    "timestamp": 1788979143,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "ucl-nap-ars-2026-09-09-nap",
+    "title": "Will SSC Napoli win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 51000.00000000001,
+    "odds_at_bet": 17,
+    "status": "pending",
+    "ultimo_fill": 1788979143,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4676,
+    "timestamp": 1788979158,
+    "username": "0xd4aa6f8e91cfea29b66a48ebff52814",
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "slug": "ucl-spo-gal-2026-09-09-spo",
+    "title": "Will Sporting CP win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32531.850000000002,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1788979158,
+    "fills": 1
   }
 ]
