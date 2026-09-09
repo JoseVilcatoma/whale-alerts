@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 23:36:50 (hora de Perú)
+Actualizado: 2026-09-08 23:38:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2237**  ($117,874,784 en total)
-- Resueltas: **2212** — 1336 ganadas / 876 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Apuestas registradas: **2238**  ($117,959,879 en total)
+- Resueltas: **2214** — 1336 ganadas / 878 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$84,388** sobre $116,844,965 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,365** sobre $218,000 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$167,485** sobre $116,928,062 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,565** sobre $218,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 56 | 1 | 56% | $5,277,843 | -$26,846 |
-| pleaseplease123 | 47 | 30 | 1 | 61% | $3,400,890 | +$640,978 |
+| pleaseplease123 | 47 | 31 | 0 | 60% | $3,400,890 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -51,12 +51,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | Noprajsk | 5 | 0 | 0 | ⚠️ 100% (5) | $778,125 | +$411,040 |
-| BrotherObama | 4 | 9 | 2 | 31% | $775,495 | +$17,872 |
+| BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
+| 0x78be…bde0 | 10 | 5 | 2 | 67% | $653,429 | +$50,568 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
-| 0x78be…bde0 | 10 | 5 | 1 | 67% | $568,335 | +$50,568 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
 | Sunny24 | 10 | 5 | 0 | 67% | $546,179 | +$89,866 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -71,11 +71,12 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | — | ⏳ Pendiente |
 | suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | -$35,673 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
-| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | — | ⏳ Pendiente |
+| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | -$146,601 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
 | baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | -$28,367 | ❌ Perdida |
-| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | — | ⏳ Pendiente |
+| pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | -$28,097 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.09 (92¢) | $60,983 | +$5,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.19 (84¢) | $37,894 | +$7,218 | ✅ Ganada |
 | AV23IUa | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $28,051 | -$28,051 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | iooojk | Real Madrid CF vs. FC Internazionale Milano: O/U 3.5 | Under 3.5 | 1.79 (56¢) | $28,634 | +$22,498 | ✅ Ganada |
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | -$25,714 | ❌ Perdida |
-| gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $102,181 | -$102,181 | ❌ Perdida |

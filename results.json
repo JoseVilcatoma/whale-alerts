@@ -33355,7 +33355,7 @@
     "side": "BUY",
     "usd": 28097.322581000004,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788909259,
     "fills": 1
   },
@@ -33565,7 +33565,7 @@
     "side": "BUY",
     "usd": 55000.0,
     "odds_at_bet": 47,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788917645,
     "fills": 2
   },
@@ -33627,6 +33627,21 @@
     "odds_at_bet": 91,
     "status": "pending",
     "ultimo_fill": 1788928198,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4584,
+    "timestamp": 1788928694,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 85094.44380000001,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1788928694,
     "fills": 1
   }
 ]
