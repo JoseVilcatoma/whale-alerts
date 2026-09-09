@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:13:53 (hora de Perú)
+Actualizado: 2026-09-09 11:16:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2269**  ($119,873,738 en total)
+- Apuestas registradas: **2272**  ($120,028,314 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 345
+- Pendientes: 25
+- Apostadores distintos: 346
 
 ### Balance
 
@@ -32,10 +32,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| totoro3miyazaki | 19 | 11 | 3 | 63% | $2,506,991 | -$174,411 |
+| totoro3miyazaki | 19 | 11 | 4 | 63% | $2,572,258 | -$174,411 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 23 | 14 | 0 | 62% | $1,968,591 | -$485,342 |
+| wr0ngw4yb3tt0r | 23 | 14 | 1 | 62% | $2,030,484 | -$485,342 |
 | 0F62 | 22 | 2 | 1 | 92% | $1,881,598 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 
-_(mostrando los 40 de mayor monto, de 345 en total)_
+_(mostrando los 40 de mayor monto, de 346 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $65,267 | — | ⏳ Pendiente |
+| Zombie77 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $27,417 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No | 2.70 (37¢) | $61,893 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $142,222 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $48,022 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $58,604 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels | 2.38 (42¢) | $37,333 | +$51,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 2.00 (50¢) | $27,000 | +$27,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.00 (50¢) | $103,835 | -$103,835 | ❌ Perdida |
-| degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | -$83,206 | ❌ Perdida |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | +$36,171 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | -$36,282 | ❌ Perdida |
