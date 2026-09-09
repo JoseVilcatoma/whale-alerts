@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 10:48:51 (hora de Perú)
+Actualizado: 2026-09-09 10:50:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2257**  ($118,916,869 en total)
+- Apuestas registradas: **2259**  ($119,000,230 en total)
 - Resueltas: **2235** — 1348 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 345
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 2 | 64% | $18,275,277 | +$678,941 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 3 | 64% | $18,306,240 | +$678,941 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.61 (62¢) | $52,398 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $30,963 | — | ⏳ Pendiente |
 | 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.67 (60¢) | $240,185 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Barcelona vs. Feyenoord Rotterdam: O/U 2.5 | Over 2.5 | 1.15 (87¢) | $38,963 | — | ⏳ Pendiente |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | afraz | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.18 (85¢) | $26,727 | -$26,727 | ❌ Perdida |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | 0x78be…bde0 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.75 (57¢) | $42,200 | +$31,835 | ✅ Ganada |
-| totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $73,373 | -$73,373 | ❌ Perdida |
-| SkyonX | Will Real Madrid CF win on 2026-09-08? | Yes | 1.61 (62¢) | $28,115 | +$17,232 | ✅ Ganada |
