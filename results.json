@@ -34890,5 +34890,20 @@
     "status": "pending",
     "ultimo_fill": 1788982152,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4716,
+    "timestamp": 1788982574,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "ucl-liv-atm-2026-09-09-total-1pt5",
+    "title": "Liverpool FC vs. Club Atl\u00e9tico de Madrid: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 79011.01680000001,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1788982574,
+    "fills": 2
   }
 ]
