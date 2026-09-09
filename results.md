@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 17:04:48 (hora de Perú)
+Actualizado: 2026-09-09 17:06:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2335**  ($125,324,784 en total)
-- Resueltas: **2306** — 1399 ganadas / 907 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **2308** — 1400 ganadas / 908 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$790,307** sobre $123,886,309 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$5,933** sobre $227,300 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$840,329** sobre $124,015,057 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$5,944** sobre $227,500 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
-| Sunny24 | 10 | 5 | 1 | 67% | $580,179 | +$89,866 |
+| Sunny24 | 10 | 6 | 0 | 62% | $580,179 | +$55,866 |
 | texaskid | 4 | 6 | 1 | 40% | $564,461 | -$117,181 |
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | +$7,573 | ✅ Ganada |
 | Zzzz87 | SSC Napoli vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $31,397 | -$31,397 | ❌ Perdida |
 | SemyonMarmeladov | Will Arsenal FC win on 2026-09-09? | Yes | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
-| SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
+| SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | -$34,000 | ❌ Perdida |
 | Jsram | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $30,008 | -$30,008 | ❌ Perdida |
 | Joey25 | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $25,506 | -$25,506 | ❌ Perdida |
 | pleaseplease123 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $26,329 | — | ⏳ Pendiente |
