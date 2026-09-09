@@ -34917,7 +34917,7 @@
     "side": "BUY",
     "usd": 61237.3734,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788983057,
     "fills": 1
   },
@@ -34932,7 +34932,7 @@
     "side": "BUY",
     "usd": 25600.0,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788983297,
     "fills": 1
   },
@@ -35234,6 +35234,21 @@
     "odds_at_bet": 12,
     "status": "pending",
     "ultimo_fill": 1788996064,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4781,
+    "timestamp": 1788996598,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-zverev-zandsch-2026-09-09",
+    "title": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 72837.27,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1788996598,
     "fills": 1
   }
 ]
