@@ -33883,5 +33883,20 @@
     "status": "pending",
     "ultimo_fill": 1788966705,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4621,
+    "timestamp": 1788967472,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "wta-escorih-bulgaru-2026-09-09",
+    "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+    "outcome": "Irene Burillo Escorihuela",
+    "side": "BUY",
+    "usd": 127031.7084,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1788967499,
+    "fills": 3
   }
 ]

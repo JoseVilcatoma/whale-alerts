@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 10:24:11 (hora de Perú)
+Actualizado: 2026-09-09 10:26:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2254**  ($118,510,690 en total)
+- Apuestas registradas: **2255**  ($118,637,722 en total)
 - Resueltas: **2232** — 1345 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 345
 
 ### Balance
@@ -46,11 +46,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
 | ferrariChampions2026 | 20 | 10 | 0 | 67% | $1,005,626 | -$181,089 |
+| Noprajsk | 6 | 0 | 2 | ⚠️ 100% (6) | $958,598 | +$426,569 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
-| Noprajsk | 6 | 0 | 1 | ⚠️ 100% (6) | $831,566 | +$426,569 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
 | 0x78be…bde0 | 10 | 7 | 0 | 59% | $653,429 | -$133,303 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | — | ⏳ Pendiente |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | SkyonX | Will Real Madrid CF win on 2026-09-08? | Yes | 1.61 (62¢) | $28,115 | +$17,232 | ✅ Ganada |
 | 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | +$15,130 | ✅ Ganada |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | -$34,877 | ❌ Perdida |
-| totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | -$48,666 | ❌ Perdida |
