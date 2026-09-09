@@ -34708,5 +34708,35 @@
     "status": "pending",
     "ultimo_fill": 1788979976,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4683,
+    "timestamp": 1788980076,
+    "username": "0x197c\u2026e025",
+    "wallet": "0x197c2c31027a6e4ae970b8b23b14fdc7ee95e025",
+    "slug": "ucl-nap-ars-2026-09-09-ars",
+    "title": "Will Arsenal FC win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 42216.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1788980076,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4684,
+    "timestamp": 1788980111,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "ucl-spo-gal-2026-09-09-spo",
+    "title": "Will Sporting CP win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 200000.09,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1788980111,
+    "fills": 1
   }
 ]
