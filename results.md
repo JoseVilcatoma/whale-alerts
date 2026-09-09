@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 14:55:59 (hora de Perú)
+Actualizado: 2026-09-09 14:58:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2324**  ($124,596,140 en total)
+- Apuestas registradas: **2325**  ($124,631,042 en total)
 - Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 348
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
-| Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
+| Sassy-Bucket | 16 | 18 | 1 | 47% | $1,640,045 | -$163,143 |
 | Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | — | ⏳ Pendiente |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $48,022 | +$4,176 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $58,604 | +$14,651 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $311,110 | +$77,777 | ✅ Ganada |
-| zhqzhq | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
