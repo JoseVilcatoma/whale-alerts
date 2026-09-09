@@ -34258,5 +34258,20 @@
     "status": "pending",
     "ultimo_fill": 1788972270,
     "fills": 5
+  },
+  {
+    "telegram_msg_id": 4650,
+    "timestamp": 1788973031,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-wsh-sd-2026-09-09-total-8pt5",
+    "title": "Washington Nationals vs. San Diego Padres: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26329.4693,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1788973031,
+    "fills": 1
   }
 ]

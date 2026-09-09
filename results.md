@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:55:37 (hora de Perú)
+Actualizado: 2026-09-09 11:57:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2279**  ($121,523,834 en total)
+- Apuestas registradas: **2280**  ($121,550,164 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 346
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | totoro3miyazaki | 19 | 11 | 8 | 63% | $3,905,938 | -$174,411 |
-| pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
+| pleaseplease123 | 47 | 31 | 2 | 60% | $3,452,934 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Washington Nationals vs. San Diego Padres: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $26,329 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $992,349 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | +$24,028 | ✅ Ganada |
 | AV23IUa | Colorado Rockies vs. New York Yankees | Colorado Rockies | 6.67 (15¢) | $146,601 | -$146,601 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.18 (85¢) | $255,000 | +$45,000 | ✅ Ganada |
-| baws | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.00 (50¢) | $28,367 | -$28,367 | ❌ Perdida |
