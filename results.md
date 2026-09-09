@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:43:18 (hora de Perú)
+Actualizado: 2026-09-09 11:45:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2279**  ($120,986,387 en total)
+- Apuestas registradas: **2279**  ($121,523,834 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
 - Pendientes: 32
 - Apostadores distintos: 346
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
+| totoro3miyazaki | 19 | 11 | 8 | 63% | $3,905,938 | -$174,411 |
 | pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
-| totoro3miyazaki | 19 | 11 | 8 | 63% | $3,368,490 | -$174,411 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $454,902 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $992,349 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | — | ⏳ Pendiente |
 | xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | — | ⏳ Pendiente |
