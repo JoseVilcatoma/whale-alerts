@@ -34528,5 +34528,35 @@
     "status": "pending",
     "ultimo_fill": 1788978344,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4669,
+    "timestamp": 1788978487,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-gauff-2026-09-08",
+    "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 48985.21,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788978487,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4670,
+    "timestamp": 1788978493,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-andreev-gauff-2026-09-08",
+    "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "usd": 50753.0286,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1788978493,
+    "fills": 1
   }
 ]
