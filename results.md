@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 22:30:23 (hora de Perú)
+Actualizado: 2026-09-08 22:32:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2235**  ($117,738,427 en total)
-- Resueltas: **2208** — 1334 ganadas / 874 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2210** — 1335 ganadas / 875 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$85,193** sobre $116,693,048 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,350** sobre $217,600 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$72,743** sobre $116,784,284 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,361** sobre $217,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,13 +28,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 56 | 1 | 56% | $5,277,843 | -$26,846 |
-| pleaseplease123 | 46 | 30 | 2 | 61% | $3,400,890 | +$592,245 |
+| pleaseplease123 | 47 | 30 | 1 | 61% | $3,400,890 | +$640,978 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 23 | 13 | 1 | 64% | $1,968,591 | -$449,060 |
+| wr0ngw4yb3tt0r | 23 | 14 | 0 | 62% | $1,968,591 | -$485,342 |
 | totoro3miyazaki | 19 | 11 | 0 | 63% | $1,905,526 | -$174,411 |
 | 0F62 | 22 | 2 | 0 | 92% | $1,852,041 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -96,12 +96,12 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | AV23IUa | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.00 (50¢) | $103,835 | -$103,835 | ❌ Perdida |
 | degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | +$36,171 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | -$36,282 | ❌ Perdida |
 | SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | -$28,050 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Miami Marlins: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $29,775 | +$32,257 | ✅ Ganada |
 | 0x78be…bde0 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
-| pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | — | ⏳ Pendiente |
+| pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | +$48,733 | ✅ Ganada |
 | AV23IUa | Will Real Betis Balompié win on 2026-09-08? | Yes | 1.22 (82¢) | $206,948 | +$45,428 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.67 (60¢) | $33,874 | — | ⏳ Pendiente |
 | afraz | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.18 (85¢) | $26,727 | -$26,727 | ❌ Perdida |
