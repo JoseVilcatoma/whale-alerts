@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 11:11:50 (hora de Perú)
+Actualizado: 2026-09-09 11:13:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2268**  ($119,731,516 en total)
+- Apuestas registradas: **2269**  ($119,873,738 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 345
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| totoro3miyazaki | 19 | 11 | 2 | 63% | $2,364,770 | -$174,411 |
+| totoro3miyazaki | 19 | 11 | 3 | 63% | $2,506,991 | -$174,411 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 14 | 0 | 62% | $1,968,591 | -$485,342 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $142,222 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $48,022 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $58,604 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $311,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | -$83,206 | ❌ Perdida |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Over 8.5 | 2.00 (50¢) | $36,171 | +$36,171 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | -$36,282 | ❌ Perdida |
-| SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | -$28,050 | ❌ Perdida |
