@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 21:05:09 (hora de Perú)
+Actualizado: 2026-09-08 21:07:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2233**  ($117,671,088 en total)
-- Resueltas: **2198** — 1327 ganadas / 871 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2200** — 1328 ganadas / 872 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$56,453** sobre $115,969,145 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$6,417** sobre $216,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$32,949** sobre $116,034,528 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$6,379** sobre $216,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 176 | 97 | 5 | 64% | $18,235,677 | +$690,541 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
-| AV23IUa | 54 | 43 | 2 | 56% | $5,561,069 | -$128,876 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 67 | 56 | 3 | 54% | $5,246,176 | -$112,113 |
+| AV23IUa | 54 | 44 | 1 | 55% | $5,561,069 | -$156,926 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 68 | 56 | 2 | 55% | $5,246,176 | -$60,558 |
 | pleaseplease123 | 46 | 30 | 2 | 61% | $3,400,890 | +$592,245 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -88,8 +88,8 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | pleaseplease123 | Toronto Blue Jays vs. Athletics | Athletics | 2.63 (38¢) | $28,097 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.09 (92¢) | $60,983 | +$5,303 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.19 (84¢) | $37,894 | +$7,218 | ✅ Ganada |
-| AV23IUa | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $28,051 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels | 2.38 (42¢) | $37,333 | — | ⏳ Pendiente |
+| AV23IUa | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox | 1.72 (58¢) | $28,051 | -$28,051 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels | 2.38 (42¢) | $37,333 | +$51,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 2.00 (50¢) | $27,000 | +$27,000 | ✅ Ganada |
 | AV23IUa | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.00 (50¢) | $103,835 | -$103,835 | ❌ Perdida |
 | degenfren | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $83,206 | — | ⏳ Pendiente |
