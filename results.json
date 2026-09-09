@@ -33808,5 +33808,20 @@
     "status": "pending",
     "ultimo_fill": 1788954523,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4612,
+    "timestamp": 1788954610,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-hotu-nemi1-2026-09-09",
+    "title": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "usd": 26868.6576,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788954610,
+    "fills": 1
   }
 ]

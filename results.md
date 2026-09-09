@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 06:50:05 (hora de Perú)
+Actualizado: 2026-09-09 06:52:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2249**  ($118,374,665 en total)
+- Apuestas registradas: **2250**  ($118,401,534 en total)
 - Resueltas: **2229** — 1342 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 345
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| Diabolical-Prize | 10 | 17 | 1 | 37% | $1,511,708 | -$497,624 |
+| Diabolical-Prize | 10 | 17 | 2 | 37% | $1,538,577 | -$497,624 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | — | ⏳ Pendiente |
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
 | TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Lille OSC win on 2026-09-08? | No | 1.82 (55¢) | $33,567 | +$27,464 | ✅ Ganada |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes | 2.22 (45¢) | $45,500 | -$45,500 | ❌ Perdida |
-| gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.79 (56¢) | $70,458 | +$55,360 | ✅ Ganada |
