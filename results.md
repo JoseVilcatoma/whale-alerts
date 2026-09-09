@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 10:09:42 (hora de Perú)
+Actualizado: 2026-09-09 10:11:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2253**  ($118,484,975 en total)
+- Apuestas registradas: **2254**  ($118,510,690 en total)
 - Resueltas: **2232** — 1345 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 345
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
-| pleaseplease123 | 47 | 31 | 0 | 60% | $3,400,890 | +$612,881 |
+| pleaseplease123 | 47 | 31 | 1 | 60% | $3,426,605 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | +$15,529 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | +$15,130 | ✅ Ganada |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $34,877 | -$34,877 | ❌ Perdida |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $48,666 | -$48,666 | ❌ Perdida |
-| 0x78be…bde0 | Genoa: Lorenzo Sonego vs Francesco Passaro | Francesco Passaro | 2.33 (43¢) | $25,000 | +$33,140 | ✅ Ganada |
