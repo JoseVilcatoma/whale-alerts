@@ -34288,5 +34288,35 @@
     "status": "pending",
     "ultimo_fill": 1788973642,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4652,
+    "timestamp": 1788973714,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ucl-nap-ars-2026-09-09-ars",
+    "title": "Will Arsenal FC win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 30007.805800000002,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1788973714,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4653,
+    "timestamp": 1788973799,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-min-det-2026-09-09",
+    "title": "Minnesota Twins vs. Detroit Tigers",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1788973799,
+    "fills": 1
   }
 ]
