@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:02:07 (hora de Perú)
+Actualizado: 2026-09-09 16:04:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2329**  ($124,783,654 en total)
+- Apuestas registradas: **2330**  ($124,812,213 en total)
 - Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 348
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 99 | 10 | 65% | $18,919,056 | +$700,830 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 1 | 55% | $5,306,402 | -$58,513 |
 | totoro3miyazaki | 27 | 11 | 1 | 71% | $4,067,077 | +$295,741 |
 | ripley86alien | 23 | 11 | 4 | 68% | $3,828,850 | +$819,077 |
 | pleaseplease123 | 47 | 31 | 5 | 60% | $3,549,547 | +$612,881 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $28,559 | — | ⏳ Pendiente |
 | fRibrenlc | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $55,999 | — | ⏳ Pendiente |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 6d0f571330 | Minnesota Twins vs. Detroit Tigers | Detroit Tigers | 1.89 (53¢) | $94,748 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $118,600 | +$29,650 | ✅ Ganada |
 | Zombie77 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $27,417 | +$2,384 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No | 2.70 (37¢) | $61,893 | — | ⏳ Pendiente |
