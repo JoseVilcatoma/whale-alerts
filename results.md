@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 18:59:27 (hora de Perú)
+Actualizado: 2026-09-08 19:01:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2225**  ($117,343,151 en total)
+- Apuestas registradas: **2226**  ($117,381,406 en total)
 - Resueltas: **2193** — 1324 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 339
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $38,255 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.41 (71¢) | $35,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | — | ⏳ Pendiente |
 | baws | Will CA Boca Juniors win on 2026-09-08? | Yes | 1.96 (51¢) | $25,008 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | rabbitfoot1 | AEK vs. LASK Linz: O/U 3.5 | Under 3.5 | 1.69 (59¢) | $29,753 | +$20,676 | ✅ Ganada |
 | Diabolical-Prize | Will Club Brugge KV win on 2026-09-08? | Yes | 2.56 (39¢) | $156,000 | -$156,000 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $50,000 | — | ⏳ Pendiente |
-| martingaleking | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.67 (60¢) | $30,000 | +$20,000 | ✅ Ganada |
