@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 19:31:07 (hora de Perú)
+Actualizado: 2026-09-08 19:33:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2228**  ($117,458,273 en total)
-- Resueltas: **2193** — 1324 ganadas / 869 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2194** — 1325 ganadas / 869 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 339
 
 ### Balance
 
-- **Resultado de los apostadores: -$103,274** sobre $115,817,128 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,543** sobre $216,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$71,018** sobre $115,846,903 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,434** sobre $216,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 176 | 97 | 4 | 64% | $18,207,177 | +$690,541 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 43 | 2 | 56% | $5,561,069 | -$128,876 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 66 | 56 | 4 | 54% | $5,246,176 | -$144,369 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 67 | 56 | 3 | 54% | $5,246,176 | -$112,113 |
 | pleaseplease123 | 44 | 30 | 4 | 59% | $3,400,890 | +$521,263 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | ripley86alien | 23 | 11 | 0 | 68% | $3,015,482 | +$819,077 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Royals | Kansas City Royals | 2.04 (49¢) | $36,282 | — | ⏳ Pendiente |
 | SDTrading | New York Mets vs. Miami Marlins | Miami Marlins | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.82 (55¢) | $33,000 | +$27,000 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Miami Marlins: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $29,775 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Mets vs. Miami Marlins: O/U 8.5 | Over 8.5 | 2.08 (48¢) | $29,775 | +$32,257 | ✅ Ganada |
 | 0x78be…bde0 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | — | ⏳ Pendiente |
 | AV23IUa | Will Real Betis Balompié win on 2026-09-08? | Yes | 1.22 (82¢) | $206,948 | +$45,428 | ✅ Ganada |
