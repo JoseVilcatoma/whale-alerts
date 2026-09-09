@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:10:27 (hora de Perú)
+Actualizado: 2026-09-09 16:12:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2331**  ($124,863,002 en total)
-- Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **2263** — 1374 ganadas / 889 perdidas (**61%** de acierto)
+- Pendientes: 57
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$446,313** sobre $120,632,894 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$5,520** sobre $222,900 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$451,261** sobre $120,710,414 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$5,514** sobre $223,000 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 16 | 1 | 2 | 94% | $1,210,502 | +$65,641 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 17 | 1 | 1 | 94% | $1,210,502 | +$70,589 |
 | ferrariChampions2026 | 20 | 10 | 1 | 67% | $1,054,612 | -$181,089 |
 | Noprajsk | 8 | 0 | 1 | 100% | $1,006,591 | +$448,551 |
 | SDTrading | 14 | 17 | 1 | 45% | $947,337 | -$128,115 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | — | ⏳ Pendiente |
 | rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.75 (57¢) | $51,300 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | +$4,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 2.17 (46¢) | $89,667 | — | ⏳ Pendiente |
 | Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | — | ⏳ Pendiente |
 | ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | — | ⏳ Pendiente |
