@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:21:22 (hora de Perú)
+Actualizado: 2026-09-09 16:23:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2334**  ($125,261,591 en total)
-- Resueltas: **2305** — 1398 ganadas / 907 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Apuestas registradas: **2334**  ($125,293,943 en total)
+- Resueltas: **2306** — 1399 ganadas / 907 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$773,765** sobre $123,815,787 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$5,956** sobre $227,200 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$790,307** sobre $123,886,309 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$5,933** sobre $227,300 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 185 | 101 | 5 | 65% | $18,991,056 | +$795,459 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 186 | 101 | 4 | 65% | $18,991,056 | +$812,001 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 1 | 55% | $5,306,402 | -$58,513 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| Noprajsk | 8 | 1 | 2 | 89% | $1,333,180 | +$400,557 |
+| Noprajsk | 8 | 1 | 2 | 89% | $1,365,532 | +$400,557 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 0 | 95% | $1,210,502 | +$77,459 |
 | ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $180,349 | — | ⏳ Pendiente |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | — | ⏳ Pendiente |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $146,240 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $50,790 | — | ⏳ Pendiente |
@@ -110,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.67 (60¢) | $78,930 | +$52,620 | ✅ Ganada |
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $29,105 | -$29,105 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.13 (47¢) | $71,031 | -$71,031 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Galatasaray SK win on 2026-09-09? | No | 1.23 (81¢) | $70,522 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Galatasaray SK win on 2026-09-09? | No | 1.23 (81¢) | $70,522 | +$16,542 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $104,751 | -$104,751 | ❌ Perdida |
 | ChinesePro | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $33,903 | -$33,903 | ❌ Perdida |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.69 (59¢) | $370,814 | +$257,684 | ✅ Ganada |

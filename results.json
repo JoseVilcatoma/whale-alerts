@@ -34495,7 +34495,7 @@
     "side": "BUY",
     "usd": 70522.2369,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788978293,
     "fills": 1
   },
@@ -35080,10 +35080,10 @@
     "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "usd": 180348.75231100002,
+    "usd": 212700.10366300002,
     "odds_at_bet": 63,
     "status": "pending",
-    "ultimo_fill": 1788988851,
-    "fills": 3
+    "ultimo_fill": 1788988901,
+    "fills": 4
   }
 ]
