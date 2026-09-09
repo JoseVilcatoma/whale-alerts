@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 02:40:19 (hora de Perú)
+Actualizado: 2026-09-09 02:42:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2244**  ($118,174,194 en total)
-- Resueltas: **2214** — 1336 ganadas / 878 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **2215** — 1336 ganadas / 879 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 342
 
 ### Balance
 
-- **Resultado de los apostadores: -$167,485** sobre $116,928,062 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,565** sobre $218,200 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$201,360** sobre $116,961,937 apostados (ROI **-0.2%**)
+- Copiando $100 fijo en cada una: **-$6,665** sobre $218,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -112,7 +112,7 @@ _(mostrando los 40 de mayor monto, de 342 en total)_
 | 0x78be…bde0 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | pleaseplease123 | Arizona Diamondbacks vs. Kansas City Royals | Arizona Diamondbacks | 1.89 (53¢) | $54,954 | +$48,733 | ✅ Ganada |
 | AV23IUa | Will Real Betis Balompié win on 2026-09-08? | Yes | 1.22 (82¢) | $206,948 | +$45,428 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.67 (60¢) | $33,874 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B | FaZe | 1.67 (60¢) | $33,874 | -$33,874 | ❌ Perdida |
 | afraz | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 1.18 (85¢) | $26,727 | -$26,727 | ❌ Perdida |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will Real Madrid CF win on 2026-09-08? | Yes | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | 0x78be…bde0 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.75 (57¢) | $42,200 | +$31,835 | ✅ Ganada |
