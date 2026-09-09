@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 12:18:18 (hora de Perú)
+Actualizado: 2026-09-09 12:20:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2283**  ($121,639,677 en total)
+- Apuestas registradas: **2284**  ($121,670,177 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 346
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SemyonMarmeladov | Will Arsenal FC win on 2026-09-09? | Yes | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $30,008 | — | ⏳ Pendiente |
 | Joey25 | Will Arsenal FC win on 2026-09-09? | No | 2.63 (38¢) | $25,506 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $26,459 | +$88,581 | ✅ Ganada |
 | nigiri99 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $38,255 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.41 (71¢) | $35,000 | +$14,296 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $69,115 | +$19,494 | ✅ Ganada |
