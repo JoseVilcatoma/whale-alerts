@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 10:26:15 (hora de Perú)
+Actualizado: 2026-09-09 10:28:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2255**  ($118,637,722 en total)
-- Resueltas: **2232** — 1345 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2233** — 1346 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 345
 
 ### Balance
 
-- **Resultado de los apostadores: -$141,942** sobre $117,743,789 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,004** sobre $220,000 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$138,942** sobre $117,770,789 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,993** sobre $220,100 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 15 | 1 | 0 | 94% | $1,015,008 | +$59,819 |
 | ferrariChampions2026 | 20 | 10 | 0 | 67% | $1,005,626 | -$181,089 |
-| Noprajsk | 6 | 0 | 2 | ⚠️ 100% (6) | $958,598 | +$426,569 |
+| Noprajsk | 7 | 0 | 1 | ⚠️ 100% (7) | $958,598 | +$429,569 |
 | SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 |---|---|---|---|---|---|---|
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | — | ⏳ Pendiente |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | +$15,529 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | — | ⏳ Pendiente |
