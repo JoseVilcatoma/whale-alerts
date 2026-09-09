@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:23:12 (hora de Perú)
+Actualizado: 2026-09-09 13:25:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2290**  ($122,108,969 en total)
+- Apuestas registradas: **2295**  ($122,640,960 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Pendientes: 48
 - Apostadores distintos: 346
 
 ### Balance
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 5 | 64% | $18,412,866 | +$678,941 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 178 | 99 | 7 | 64% | $18,555,388 | +$678,941 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 0 | 55% | $5,277,843 | -$58,513 |
 | totoro3miyazaki | 19 | 11 | 8 | 63% | $3,905,938 | -$174,411 |
 | pleaseplease123 | 47 | 31 | 2 | 60% | $3,452,934 | +$612,881 |
+| ripley86alien | 23 | 11 | 2 | 68% | $3,408,852 | +$819,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| ripley86alien | 23 | 11 | 1 | 68% | $3,158,037 | +$819,077 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -52,6 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 4 | 2 | 60% | $655,473 | +$74,662 |
 | 0x78be…bde0 | 10 | 7 | 0 | 59% | $653,429 | -$133,303 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -59,9 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | Sunny24 | 10 | 5 | 1 | 67% | $580,179 | +$89,866 |
 | ndb1 | 5 | 6 | 0 | 45% | $558,920 | +$44,754 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 4 | 1 | 60% | $550,723 | +$74,662 |
+| ChinesePro | 2 | 10 | 1 | 17% | $555,323 | -$387,421 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
-| ChinesePro | 2 | 10 | 0 | 17% | $521,421 | -$387,421 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Galatasaray SK win on 2026-09-09? | No | 1.23 (81¢) | $70,522 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $104,751 | — | ⏳ Pendiente |
+| ChinesePro | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $33,903 | — | ⏳ Pendiente |
+| ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.69 (59¢) | $250,815 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.78 (36¢) | $72,000 | — | ⏳ Pendiente |
 | fRibrenlc | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $36,447 | — | ⏳ Pendiente |
 | ripley86alien | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $142,555 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.86 (35¢) | $47,993 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.35 (74¢) | $85,094 | -$85,094 | ❌ Perdida |
 | suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | -$98,776 | ❌ Perdida |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | -$35,673 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | -$31,667 | ❌ Perdida |
-| BrotherObama | Toronto Blue Jays vs. Athletics: O/U 9.5 | Over 9.5 | 2.13 (47¢) | $55,000 | -$55,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
-| SemyonMarmeladov | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $45,600 | -$45,600 | ❌ Perdida |
