@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 14:47:45 (hora de Perú)
+Actualizado: 2026-09-09 14:49:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2323**  ($124,570,540 en total)
+- Apuestas registradas: **2324**  ($124,596,140 en total)
 - Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 348
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 16 | 1 | 2 | 94% | $1,210,502 | +$65,641 |
 | ferrariChampions2026 | 20 | 10 | 1 | 67% | $1,054,612 | -$181,089 |
 | Noprajsk | 8 | 0 | 1 | 100% | $1,006,591 | +$448,551 |
-| SDTrading | 14 | 17 | 0 | 45% | $921,737 | -$128,115 |
+| SDTrading | 14 | 17 | 1 | 45% | $947,337 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | — | ⏳ Pendiente |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | — | ⏳ Pendiente |
 | rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $58,604 | +$14,651 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $311,110 | +$77,777 | ✅ Ganada |
 | zhqzhq | Will Viking FK win on 2026-09-09? | No | 1.09 (92¢) | $35,000 | +$3,043 | ✅ Ganada |
-| nigiri99 | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.27 (79¢) | $26,068 | +$6,930 | ✅ Ganada |
