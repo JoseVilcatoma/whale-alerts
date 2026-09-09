@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 01:58:20 (hora de Perú)
+Actualizado: 2026-09-09 02:00:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2243**  ($118,141,353 en total)
+- Apuestas registradas: **2244**  ($118,174,194 en total)
 - Resueltas: **2214** — 1336 ganadas / 878 perdidas (**60%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 341
+- Pendientes: 19
+- Apostadores distintos: 342
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 9 | 2 | 0 | 82% | $512,260 | +$317,393 |
 | texaskid | 4 | 6 | 0 | 40% | $503,224 | -$117,181 |
 
-_(mostrando los 40 de mayor monto, de 341 en total)_
+_(mostrando los 40 de mayor monto, de 342 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.52 (66¢) | $39,600 | — | ⏳ Pendiente |
 | aaaallcarzz | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 2.94 (34¢) | $25,000 | — | ⏳ Pendiente |
 | 0F62 | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $29,557 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 341 en total)_
 | tg-stakeqiu | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.69 (59¢) | $30,000 | +$20,847 | ✅ Ganada |
 | totoro3miyazaki | US Open ATP: Frances Tiafoe vs Alex Michelsen | Alex Michelsen | 2.38 (42¢) | $64,041 | -$64,041 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Frances Tiafoe vs Alex Michelsen | Frances Tiafoe | 1.72 (58¢) | $88,438 | +$64,041 | ✅ Ganada |
-| KARTEROR | US Open WTA: Aryna Sabalenka vs Linda Noskova | Aryna Sabalenka | 1.16 (86¢) | $28,210 | +$4,592 | ✅ Ganada |
