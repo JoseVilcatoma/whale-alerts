@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 13:33:27 (hora de Perú)
+Actualizado: 2026-09-09 13:35:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2300**  ($123,039,762 en total)
-- Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 53
+- Resueltas: **2238** — 1351 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 347
 
 ### Balance
 
-- **Resultado de los apostadores: -$65,099** sobre $117,965,939 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,817** sobre $220,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: -$24,720** sobre $118,063,184 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$5,693** sobre $220,600 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 23 | 14 | 1 | 62% | $2,030,484 | -$485,342 |
 | 0F62 | 22 | 2 | 1 | 92% | $1,881,598 | +$78,975 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Weaseloftheweek | 16 | 16 | 1 | 50% | $1,662,839 | -$95,989 |
+| Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 347 en total)_
 | ripley86alien | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $142,555 | — | ⏳ Pendiente |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.86 (35¢) | $47,993 | — | ⏳ Pendiente |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.38 (42¢) | $112,246 | — | ⏳ Pendiente |
-| Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | — | ⏳ Pendiente |
+| Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | +$7,573 | ✅ Ganada |
 | Zzzz87 | SSC Napoli vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $31,397 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Will Arsenal FC win on 2026-09-09? | Yes | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | SkyonX | Minnesota Twins vs. Detroit Tigers | Minnesota Twins | 2.13 (47¢) | $34,000 | — | ⏳ Pendiente |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 347 en total)_
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.22 (82¢) | $992,349 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $36,000 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $224,999 | — | ⏳ Pendiente |
-| xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | — | ⏳ Pendiente |
+| xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | +$32,806 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $27,000 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will VfB Stuttgart win on 2026-09-09? | No | 5.26 (19¢) | $38,000 | — | ⏳ Pendiente |
 | 6d0f571330 | Minnesota Twins vs. Detroit Tigers | Detroit Tigers | 1.89 (53¢) | $94,748 | — | ⏳ Pendiente |
