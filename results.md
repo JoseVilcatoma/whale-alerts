@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-08 23:28:34 (hora de Perú)
+Actualizado: 2026-09-08 23:30:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2236**  ($117,837,203 en total)
+- Apuestas registradas: **2237**  ($117,874,784 en total)
 - Resueltas: **2210** — 1335 ganadas / 875 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 339
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| suntori | Will FC Barcelona win on 2026-09-09? | Yes | 1.10 (91¢) | $37,581 | — | ⏳ Pendiente |
 | 0x78be…bde0 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.27 (79¢) | $98,776 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padres | Washington Nationals | 1.18 (85¢) | $35,673 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 339 en total)_
 | plonker2026 | BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5 | Under 3.5 | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | suntori | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.30 (77¢) | $25,714 | -$25,714 | ❌ Perdida |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026-09-08? | No | 2.27 (44¢) | $102,181 | -$102,181 | ❌ Perdida |
-| hurrican | US Open WTA: Aryna Sabalenka vs Linda Noskova | Linda Noskova | 1.25 (80¢) | $44,713 | -$44,713 | ❌ Perdida |

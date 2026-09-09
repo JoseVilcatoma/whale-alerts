@@ -33613,5 +33613,20 @@
     "status": "pending",
     "ultimo_fill": 1788926252,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4579,
+    "timestamp": 1788928198,
+    "username": "suntori",
+    "wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+    "slug": "ucl-fcb-fey-2026-09-09-fcb",
+    "title": "Will FC Barcelona win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37580.9161,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1788928198,
+    "fills": 1
   }
 ]
