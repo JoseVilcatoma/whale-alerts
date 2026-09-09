@@ -33463,5 +33463,20 @@
     "status": "pending",
     "ultimo_fill": 1788911999,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4551,
+    "timestamp": 1788912241,
+    "username": "0xwise",
+    "wallet": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 26459.386300000002,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "ultimo_fill": 1788912241,
+    "fills": 1
   }
 ]
