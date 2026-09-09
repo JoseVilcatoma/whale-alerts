@@ -34168,5 +34168,20 @@
     "status": "pending",
     "ultimo_fill": 1788971273,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4644,
+    "timestamp": 1788971358,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "ucl-stu-vf-2026-09-09-stu",
+    "title": "Will VfB Stuttgart win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 38000.0,
+    "odds_at_bet": 19,
+    "status": "pending",
+    "ultimo_fill": 1788971358,
+    "fills": 1
   }
 ]
