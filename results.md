@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:00:03 (hora de Perú)
+Actualizado: 2026-09-09 16:02:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2328**  ($124,727,654 en total)
+- Apuestas registradas: **2329**  ($124,783,654 en total)
 - Resueltas: **2262** — 1373 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 348
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fRibrenlc | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $55,999 | — | ⏳ Pendiente |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | — | ⏳ Pendiente |
 | pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $118,600 | +$29,650 | ✅ Ganada |
 | Zombie77 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $27,417 | +$2,384 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No | 2.70 (37¢) | $61,893 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $142,222 | +$35,555 | ✅ Ganada |
