@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 16:12:33 (hora de Perú)
+Actualizado: 2026-09-09 16:14:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2331**  ($124,863,002 en total)
-- Resueltas: **2263** — 1374 ganadas / 889 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Apuestas registradas: **2333**  ($125,081,243 en total)
+- Resueltas: **2268** — 1378 ganadas / 890 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 348
 
 ### Balance
 
-- **Resultado de los apostadores: +$451,261** sobre $120,710,414 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$5,514** sobre $223,000 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$341,845** sobre $121,124,083 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$5,532** sobre $223,500 (ROI **-2.5%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,11 +24,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 99 | 10 | 65% | $18,919,056 | +$700,830 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 181 | 99 | 11 | 65% | $18,991,056 | +$700,830 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 70 | 57 | 1 | 55% | $5,306,402 | -$58,513 |
-| totoro3miyazaki | 27 | 11 | 1 | 71% | $4,067,077 | +$295,741 |
+| totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 23 | 11 | 4 | 68% | $3,828,850 | +$819,077 |
 | pleaseplease123 | 47 | 31 | 5 | 60% | $3,549,547 | +$612,881 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 17 | 1 | 1 | 94% | $1,210,502 | +$70,589 |
+| Noprajsk | 8 | 0 | 2 | 100% | $1,152,832 | +$448,551 |
 | ferrariChampions2026 | 20 | 10 | 1 | 67% | $1,054,612 | -$181,089 |
-| Noprajsk | 8 | 0 | 1 | 100% | $1,006,591 | +$448,551 |
 | SDTrading | 14 | 17 | 1 | 45% | $947,337 | -$128,115 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -54,11 +54,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 5 | 2 | 55% | $694,473 | +$36,662 |
 | 0x78be…bde0 | 10 | 7 | 0 | 59% | $653,429 | -$133,303 |
-| ndb1 | 5 | 6 | 1 | 45% | $640,684 | +$44,754 |
+| ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | 4 | 4 | 3 | 50% | $584,158 | +$115,592 |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 4 | 1 | 60% | $584,158 | +$137,956 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | Sunny24 | 10 | 5 | 1 | 67% | $580,179 | +$89,866 |
 | texaskid | 4 | 6 | 1 | 40% | $564,461 | -$117,181 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | — | ⏳ Pendiente |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $146,240 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $50,790 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $28,559 | — | ⏳ Pendiente |
 | fRibrenlc | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $55,999 | — | ⏳ Pendiente |
@@ -86,9 +88,9 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | +$4,948 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 2.17 (46¢) | $89,667 | — | ⏳ Pendiente |
 | Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | — | ⏳ Pendiente |
-| ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | — | ⏳ Pendiente |
+| ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | +$16,747 | ✅ Ganada |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $84,326 | — | ⏳ Pendiente |
-| CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | — | ⏳ Pendiente |
+| CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | +$12,612 | ✅ Ganada |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $100,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $200,000 | — | ⏳ Pendiente |
@@ -96,11 +98,11 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | — | ⏳ Pendiente |
 | bambambole | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $26,520 | +$0 | 💰 Vendida antes |
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $34,276 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | — | ⏳ Pendiente |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | +$5,364 | ✅ Ganada |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $40,000 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $83,000 | — | ⏳ Pendiente |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $83,000 | +$17,000 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $32,532 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will SSC Napoli win on 2026-09-09? | Yes | 5.88 (17¢) | $161,139 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will SSC Napoli win on 2026-09-09? | Yes | 5.88 (17¢) | $161,139 | -$161,139 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP vs. Galatasaray SK end in a draw? | No | 1.28 (78¢) | $61,918 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $50,753 | — | ⏳ Pendiente |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $48,985 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 348 en total)_
 | xabidaking | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 2.13 (47¢) | $29,092 | +$32,806 | ✅ Ganada |
 | totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.23 (81¢) | $27,000 | +$6,333 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will VfB Stuttgart win on 2026-09-09? | No | 5.26 (19¢) | $38,000 | -$38,000 | ❌ Perdida |
-| 6d0f571330 | Minnesota Twins vs. Detroit Tigers | Detroit Tigers | 1.89 (53¢) | $94,748 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will VfB Stuttgart win on 2026-09-09? | Yes | 1.25 (80¢) | $118,600 | +$29,650 | ✅ Ganada |

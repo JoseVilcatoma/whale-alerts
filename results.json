@@ -34600,7 +34600,7 @@
     "side": "BUY",
     "usd": 161139.30707,
     "odds_at_bet": 17,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1788979078,
     "fills": 2
   },
@@ -34630,7 +34630,7 @@
     "side": "BUY",
     "usd": 83000.0,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788979385,
     "fills": 1
   },
@@ -34645,7 +34645,7 @@
     "side": "BUY",
     "usd": 26189.82,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788979546,
     "fills": 1
   },
@@ -34767,7 +34767,7 @@
     "side": "BUY",
     "usd": 61576.2392,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788980245,
     "fills": 1
   },
@@ -34812,7 +34812,7 @@
     "side": "BUY",
     "usd": 81764.10509999999,
     "odds_at_bet": 83,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788980378,
     "fills": 2
   },
@@ -35039,6 +35039,36 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1788987979,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4727,
+    "timestamp": 1788988378,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "atp-khachan-blockx-2026-09-09",
+    "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "usd": 146240.4385,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1788988479,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 4728,
+    "timestamp": 1788988389,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-khachan-blockx-2026-09-09",
+    "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
+    "outcome": "Alexander Blockx",
+    "side": "BUY",
+    "usd": 72000.0,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1788988389,
     "fills": 1
   }
 ]
