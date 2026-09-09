@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 09:51:10 (hora de Perú)
+Actualizado: 2026-09-09 09:53:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2253**  ($118,484,975 en total)
-- Resueltas: **2231** — 1344 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2232** — 1345 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 345
 
 ### Balance
 
-- **Resultado de los apostadores: -$157,471** sobre $117,717,347 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$6,062** sobre $219,900 (ROI **-2.8%**)
+- **Resultado de los apostadores: -$141,942** sobre $117,743,789 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$6,004** sobre $220,000 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
-| Noprajsk | 5 | 0 | 2 | ⚠️ 100% (5) | $831,566 | +$411,040 |
+| Noprajsk | 6 | 0 | 1 | ⚠️ 100% (6) | $831,566 | +$426,569 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
 | 0x78be…bde0 | 10 | 7 | 0 | 59% | $653,429 | -$133,303 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 |---|---|---|---|---|---|---|
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | — | ⏳ Pendiente |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | +$15,529 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | — | ⏳ Pendiente |
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
 | TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
