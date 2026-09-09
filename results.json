@@ -33898,5 +33898,20 @@
     "status": "pending",
     "ultimo_fill": 1788967499,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 4623,
+    "timestamp": 1788968116,
+    "username": "Roadto1mlesgooo",
+    "wallet": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+    "slug": "ucl-fcb-fey-2026-09-09-total-2pt5",
+    "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 38962.9326,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1788968116,
+    "fills": 1
   }
 ]
