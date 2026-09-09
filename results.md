@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 10:46:50 (hora de Perú)
+Actualizado: 2026-09-09 10:48:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2256**  ($118,676,685 en total)
-- Resueltas: **2233** — 1346 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Apuestas registradas: **2257**  ($118,916,869 en total)
+- Resueltas: **2235** — 1348 ganadas / 887 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 345
 
 ### Balance
 
-- **Resultado de los apostadores: -$138,942** sobre $117,770,789 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$5,993** sobre $220,100 (ROI **-2.7%**)
+- **Resultado de los apostadores: -$84,080** sobre $117,838,907 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$5,832** sobre $220,300 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 18 | 0 | 47% | $1,605,143 | -$163,143 |
 | Weaseloftheweek | 16 | 16 | 0 | 50% | $1,594,686 | -$95,989 |
-| Diabolical-Prize | 10 | 17 | 2 | 37% | $1,538,577 | -$497,624 |
+| Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,16 +71,17 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Arsenal FC win on 2026-09-09? | Yes | 1.67 (60¢) | $240,185 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Barcelona vs. Feyenoord Rotterdam: O/U 2.5 | Over 2.5 | 1.15 (87¢) | $38,963 | — | ⏳ Pendiente |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru | Irene Burillo Escorihuela | 1.15 (87¢) | $127,032 | — | ⏳ Pendiente |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Giants: O/U 8.5 | Over 8.5 | 1.96 (51¢) | $25,714 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Map 2 Winner | FURIA | 1.11 (90¢) | $27,000 | +$3,000 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Barcelona win on 2026-09-09? | Yes | 1.09 (92¢) | $30,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner | BetBoom Team | 1.59 (63¢) | $26,442 | +$15,529 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.79 (56¢) | $26,869 | +$21,111 | ✅ Ganada |
 | raybanman | Will Sporting CP win on 2026-09-09? | Yes | 1.75 (57¢) | $68,919 | — | ⏳ Pendiente |
 | TheOpportunist | Will Sporting CP win on 2026-09-09? | No | 2.33 (43¢) | $33,937 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs | Nemiga | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
 | ExplosiveNinja | Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B | TYLOO | 1.85 (54¢) | $30,386 | +$25,884 | ✅ Ganada |
 | PrtySwamp | Counter-Strike: 3DMAX vs Acend (BO3) - Thunderpick World Championship Closed Qualifier Group C | 3DMAX | 1.37 (73¢) | $25,978 | +$9,608 | ✅ Ganada |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B | Legacy | 1.41 (71¢) | $32,842 | +$13,414 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 345 en total)_
 | 0x78be…bde0 | Will BV Borussia 09 Dortmund win on 2026-09-08? | Yes | 1.75 (57¢) | $42,200 | +$31,835 | ✅ Ganada |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09-08? | No | 1.37 (73¢) | $73,373 | -$73,373 | ❌ Perdida |
 | SkyonX | Will Real Madrid CF win on 2026-09-08? | Yes | 1.61 (62¢) | $28,115 | +$17,232 | ✅ Ganada |
-| 177-letsgo | Will FC Internazionale Milano win on 2026-09-08? | No | 1.20 (83¢) | $73,870 | +$15,130 | ✅ Ganada |

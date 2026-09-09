@@ -33775,7 +33775,7 @@
     "side": "BUY",
     "usd": 41250.0,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788951609,
     "fills": 1
   },
@@ -33820,7 +33820,7 @@
     "side": "BUY",
     "usd": 26868.6576,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1788954610,
     "fills": 1
   },
@@ -33912,6 +33912,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1788968116,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4624,
+    "timestamp": 1788968826,
+    "username": "00gringo00",
+    "wallet": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+    "slug": "ucl-nap-ars-2026-09-09-ars",
+    "title": "Will Arsenal FC win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 240184.50970000002,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1788968826,
     "fills": 1
   }
 ]
