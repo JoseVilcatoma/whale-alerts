@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 12:57:27 (hora de Perú)
+Actualizado: 2026-09-09 12:59:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2286**  ($121,769,727 en total)
+- Apuestas registradas: **2287**  ($121,881,974 en total)
 - Resueltas: **2236** — 1349 ganadas / 887 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 346
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.38 (42¢) | $112,246 | — | ⏳ Pendiente |
 | Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | — | ⏳ Pendiente |
 | Zzzz87 | SSC Napoli vs. Arsenal FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $31,397 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Will Arsenal FC win on 2026-09-09? | Yes | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 346 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $45,019 | +$150,717 | ✅ Ganada |
 | 0x78be…bde0 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.39 (72¢) | $38,696 | +$15,048 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Jessica Pegula vs Emma Navarro | Jessica Pegula | 1.28 (78¢) | $50,408 | +$14,218 | ✅ Ganada |
-| 0xwise | US Open ATP: Ben Shelton vs Carlos Alcaraz | Ben Shelton | 4.35 (23¢) | $26,459 | +$88,581 | ✅ Ganada |
