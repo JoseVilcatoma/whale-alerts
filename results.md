@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 18:36:05 (hora de Perú)
+Actualizado: 2026-09-09 18:38:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2345**  ($126,030,712 en total)
+- Apuestas registradas: **2347**  ($126,133,536 en total)
 - Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | — | ⏳ Pendiente |
+| EV-Andars | Will Houston Dynamo win on 2026-09-09? | No | 2.08 (48¢) | $32,663 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | — | ⏳ Pendiente |
 | Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | fRibrenlc | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $36,447 | +$17,152 | ✅ Ganada |
 | ripley86alien | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.47 (68¢) | $142,555 | +$67,085 | ✅ Ganada |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.86 (35¢) | $47,993 | -$47,993 | ❌ Perdida |
-| 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.38 (42¢) | $112,246 | -$112,246 | ❌ Perdida |
-| Weaseloftheweek | US Open WTA: Qinwen Zheng vs Elena Rybakina | Elena Rybakina | 1.11 (90¢) | $68,153 | +$7,573 | ✅ Ganada |

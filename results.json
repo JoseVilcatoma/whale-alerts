@@ -35250,5 +35250,35 @@
     "status": "pending",
     "ultimo_fill": 1788996598,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4784,
+    "timestamp": 1788997038,
+    "username": "EV-Andars",
+    "wallet": "0xae7ffba3fd102de1a4f795853ad3de06ad666f49",
+    "slug": "mls-hou-rsl-2026-09-09-hou",
+    "title": "Will Houston Dynamo win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 32663.039999999997,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1788997038,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4785,
+    "timestamp": 1788997088,
+    "username": "0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121",
+    "wallet": "0x17c4f7e008fe22d69865f73f29329b6e76b92471",
+    "slug": "mlb-pit-cws-2026-09-09",
+    "title": "Pittsburgh Pirates vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "usd": 70161.18000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1788997088,
+    "fills": 2
   }
 ]
