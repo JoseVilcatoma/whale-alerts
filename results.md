@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 02:28:29 (hora de Perú)
+Actualizado: 2026-09-10 02:30:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2362**  ($126,787,050 en total)
-- Resueltas: **2349** — 1423 ganadas / 926 perdidas (**61%** de acierto)
-- Pendientes: 2
-- Apostadores distintos: 349
+- Apuestas registradas: **2364**  ($126,854,318 en total)
+- Resueltas: **2350** — 1423 ganadas / 927 perdidas (**61%** de acierto)
+- Pendientes: 3
+- Apostadores distintos: 350
 
 ### Balance
 
-- **Resultado de los apostadores: +$855,225** sobre $126,329,888 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$6,273** sobre $231,600 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$818,265** sobre $126,366,848 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$6,373** sobre $231,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 189 | 106 | 2 | 64% | $19,365,555 | +$621,829 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 189 | 106 | 3 | 64% | $19,395,467 | +$621,829 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
-| Diabolical-Prize | 12 | 17 | 1 | 41% | $1,575,537 | -$442,763 |
+| Diabolical-Prize | 12 | 18 | 0 | 40% | $1,575,537 | -$479,723 |
 | Noprajsk | 11 | 1 | 0 | 92% | $1,493,225 | +$625,150 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -65,16 +65,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
 
-_(mostrando los 40 de mayor monto, de 349 en total)_
+_(mostrando los 40 de mayor monto, de 350 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | — | ⏳ Pendiente |
+| ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
-| Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | — | ⏳ Pendiente |
+| Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | -$36,960 | ❌ Perdida |
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $34,276 | -$34,276 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | +$5,364 | ✅ Ganada |
 | 6d0f571330 | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $40,000 | -$40,000 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $83,000 | +$17,000 | ✅ Ganada |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $32,532 | -$32,532 | ❌ Perdida |

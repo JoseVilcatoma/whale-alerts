@@ -35457,7 +35457,7 @@
     "side": "BUY",
     "usd": 36960.0,
     "odds_at_bet": 44,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789006725,
     "fills": 1
   },
@@ -35504,6 +35504,36 @@
     "odds_at_bet": 54,
     "status": "pending",
     "ultimo_fill": 1789015242,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4830,
+    "timestamp": 1789025318,
+    "username": "ptrck7",
+    "wallet": "0x96c2e57df188b3593ea675ebaf31d29d46ed5741",
+    "slug": "ucl-bay-bog-2026-09-10-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37356.799995,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789025318,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4832,
+    "timestamp": 1789025420,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-prv-mgc-2026-09-10-game2",
+    "title": "Counter-Strike: PARIVISION vs magic - Map 2 Winner",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 29911.7,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1789025420,
     "fills": 1
   }
 ]
