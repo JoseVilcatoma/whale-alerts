@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 07:15:23 (hora de Perú)
+Actualizado: 2026-09-10 07:17:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2372**  ($127,549,456 en total)
+- Apuestas registradas: **2373**  ($127,580,382 en total)
 - Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 350
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Noprajsk | 12 | 4 | 1 | 75% | $2,063,491 | +$472,578 |
+| Noprajsk | 12 | 4 | 2 | 75% | $2,094,417 | +$472,578 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | -$138,071 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | -$27,171 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | +$16,747 | ✅ Ganada |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $84,326 | +$53,914 | ✅ Ganada |
 | CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | +$12,612 | ✅ Ganada |
-| ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $100,000 | +$63,934 | ✅ Ganada |
