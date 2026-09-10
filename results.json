@@ -35385,5 +35385,20 @@
     "status": "pending",
     "ultimo_fill": 1788999866,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4793,
+    "timestamp": 1789000798,
+    "username": "chongchongpanda",
+    "wallet": "0x121fd10502fbd639a491a4e5779bca49508c15c1",
+    "slug": "nfl-ne-sea-2026-09-10-total-38pt5",
+    "title": "Patriots vs. Seahawks: O/U 38.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25401.0631,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789000798,
+    "fills": 1
   }
 ]

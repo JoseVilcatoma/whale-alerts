@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 19:39:00 (hora de Perú)
+Actualizado: 2026-09-09 19:41:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2354**  ($126,402,892 en total)
+- Apuestas registradas: **2355**  ($126,428,293 en total)
 - Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.67 (60¢) | $78,930 | +$52,620 | ✅ Ganada |
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $29,105 | -$29,105 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 2.13 (47¢) | $71,031 | -$71,031 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Galatasaray SK win on 2026-09-09? | No | 1.23 (81¢) | $70,522 | +$16,542 | ✅ Ganada |
