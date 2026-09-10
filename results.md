@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 04:21:21 (hora de Perú)
+Actualizado: 2026-09-10 04:23:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2365**  ($126,903,017 en total)
+- Apuestas registradas: **2366**  ($127,020,558 en total)
 - Resueltas: **2351** — 1423 ganadas / 928 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 350
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
+| Noprajsk | 11 | 1 | 1 | 92% | $1,610,766 | +$625,150 |
 | Diabolical-Prize | 12 | 18 | 0 | 40% | $1,575,537 | -$479,723 |
-| Noprajsk | 11 | 1 | 0 | 92% | $1,493,225 | +$625,150 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | — | ⏳ Pendiente |
 | ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | bambambole | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $26,520 | +$0 | 💰 Vendida antes |
 | gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $34,276 | -$34,276 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $26,190 | +$5,364 | ✅ Ganada |
