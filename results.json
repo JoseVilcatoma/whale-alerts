@@ -35850,5 +35850,20 @@
     "status": "pending",
     "ultimo_fill": 1789049282,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4866,
+    "timestamp": 1789051847,
+    "username": "0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887",
+    "wallet": "0xc74e958f3bd160cb0c6a782d664ad8440e27e725",
+    "slug": "cs2-g2-5s-2026-09-10-game2",
+    "title": "Counter-Strike: G2 vs 5star - Map 2 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 31712.335499999997,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1789051847,
+    "fills": 1
   }
 ]
