@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 02:32:36 (hora de Perú)
+Actualizado: 2026-09-10 02:34:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2365**  ($126,903,017 en total)
-- Resueltas: **2350** — 1423 ganadas / 927 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **2351** — 1423 ganadas / 928 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 350
 
 ### Balance
 
-- **Resultado de los apostadores: +$818,265** sobre $126,366,848 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$6,373** sobre $231,700 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$768,265** sobre $126,416,848 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$6,473** sobre $231,800 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | 0x78be…bde0 | 10 | 8 | 0 | 56% | $693,429 | -$173,303 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
-| Sunny24 | 10 | 6 | 1 | 62% | $630,179 | +$55,866 |
+| Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | — | ⏳ Pendiente |
 | ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | — | ⏳ Pendiente |
-| SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
+| SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | -$36,960 | ❌ Perdida |
