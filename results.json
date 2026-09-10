@@ -36045,5 +36045,20 @@
     "status": "pending",
     "ultimo_fill": 1789056373,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4888,
+    "timestamp": 1789057625,
+    "username": "NemanjaWC",
+    "wallet": "0xb68d47657aaaa7026a1f67723ad267326507aed6",
+    "slug": "ucl-mnu-sf-2026-09-10-mnu",
+    "title": "Will Manchester United FC win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 37175.292,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1789057625,
+    "fills": 1
   }
 ]

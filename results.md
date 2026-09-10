@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 11:25:07 (hora de Perú)
+Actualizado: 2026-09-10 11:27:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2398**  ($129,176,222 en total)
+- Apuestas registradas: **2399**  ($129,213,397 en total)
 - Resueltas: **2369** — 1430 ganadas / 939 perdidas (**60%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 353
+- Pendientes: 19
+- Apostadores distintos: 354
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 2 | 10 | 1 | 17% | $551,789 | -$409,817 |
 
-_(mostrando los 40 de mayor monto, de 353 en total)_
+_(mostrando los 40 de mayor monto, de 354 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | — | ⏳ Pendiente |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | -$37,896 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | -$35,684 | ❌ Perdida |
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | +$46,628 | ✅ Ganada |
-| wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
