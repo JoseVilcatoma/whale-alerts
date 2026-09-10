@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 16:13:38 (hora de Perú)
+Actualizado: 2026-09-10 16:15:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2410**  ($129,627,314 en total)
-- Resueltas: **2392** — 1444 ganadas / 948 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2393** — 1445 ganadas / 948 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 357
 
 ### Balance
 
-- **Resultado de los apostadores: +$308,428** sobre $128,973,305 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,352** sobre $235,900 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$332,830** sobre $129,000,822 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,263** sobre $236,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | Roadto1mlesgooo | FC Bayern München vs. FK Bodø/Glimt: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | -$37,783 | ❌ Perdida |
 | 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | +$2,622 | ✅ Ganada |
-| HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | — | ⏳ Pendiente |
+| HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | +$24,402 | ✅ Ganada |
 | Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | +$2,370 | ✅ Ganada |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
