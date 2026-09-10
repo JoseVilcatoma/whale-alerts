@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 19:53:47 (hora de Perú)
+Actualizado: 2026-09-09 19:55:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2356**  ($126,476,293 en total)
+- Apuestas registradas: **2357**  ($126,504,900 en total)
 - Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 349
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 186 | 104 | 5 | 64% | $19,303,298 | +$637,160 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 186 | 104 | 6 | 64% | $19,331,904 | +$637,160 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 0 | 55% | $5,306,402 | -$41,740 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $50,753 | +$43,234 | ✅ Ganada |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $48,985 | +$41,728 | ✅ Ganada |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.67 (60¢) | $78,930 | +$52,620 | ✅ Ganada |
-| gambamaster | Will Sporting CP win on 2026-09-09? | No | 2.50 (40¢) | $29,105 | -$29,105 | ❌ Perdida |
