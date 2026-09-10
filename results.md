@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 07:54:18 (hora de Perú)
+Actualizado: 2026-09-10 07:56:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2373**  ($127,580,382 en total)
+- Apuestas registradas: **2374**  ($127,622,519 en total)
 - Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 350
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
-| Diabolical-Prize | 12 | 18 | 1 | 40% | $1,620,537 | -$479,723 |
+| Diabolical-Prize | 12 | 18 | 2 | 40% | $1,662,674 | -$479,723 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | -$138,071 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | +$10,325 | ✅ Ganada |
 | ndb1 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $81,764 | +$16,747 | ✅ Ganada |
 | bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $84,326 | +$53,914 | ✅ Ganada |
-| CongoleseBorat | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $61,576 | +$12,612 | ✅ Ganada |
