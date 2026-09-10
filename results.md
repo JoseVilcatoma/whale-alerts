@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 16:58:32 (hora de Perú)
+Actualizado: 2026-09-10 17:00:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2410**  ($129,627,314 en total)
-- Resueltas: **2395** — 1447 ganadas / 948 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2397** — 1449 ganadas / 948 perdidas (**60%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 357
 
 ### Balance
 
-- **Resultado de los apostadores: +$360,330** sobre $129,123,322 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,182** sobre $236,200 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$405,330** sobre $129,178,322 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,018** sobre $236,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 15 | 0 | 62% | $2,056,984 | -$523,735 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Diabolical-Prize | 14 | 19 | 2 | 42% | $1,758,472 | -$419,169 |
+| Diabolical-Prize | 16 | 19 | 0 | 46% | $1,758,472 | -$374,169 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
@@ -80,14 +80,14 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | +$2,370 | ✅ Ganada |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
 | TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | -$38,460 | ❌ Perdida |
 | NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | +$4,131 | ✅ Ganada |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | +$3,268 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | +$5,068 | ✅ Ganada |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | +$48,750 | ✅ Ganada |
