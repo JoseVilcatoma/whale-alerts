@@ -35565,5 +35565,20 @@
     "status": "pending",
     "ultimo_fill": 1789032168,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4837,
+    "timestamp": 1789034705,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-lgc-furia-2026-09-10-game2",
+    "title": "Counter-Strike: Legacy vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 47880.968100000006,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789034705,
+    "fills": 1
   }
 ]
