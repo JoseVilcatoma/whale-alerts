@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 08:27:11 (hora de Perú)
+Actualizado: 2026-09-10 08:29:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2378**  ($128,052,877 en total)
+- Apuestas registradas: **2379**  ($128,078,858 en total)
 - Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 351
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Noprajsk | 12 | 4 | 2 | 75% | $2,094,417 | +$472,578 |
+| Noprajsk | 12 | 4 | 3 | 75% | $2,120,398 | +$472,578 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Diabolical-Prize | 12 | 18 | 3 | 40% | $1,703,472 | -$479,723 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | +$6,871 | ✅ Ganada |
 | rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | -$29,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.75 (57¢) | $51,300 | +$38,700 | ✅ Ganada |
-| Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | +$4,948 | ✅ Ganada |
