@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 22:47:49 (hora de Perú)
+Actualizado: 2026-09-09 22:49:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2361**  ($126,737,050 en total)
-- Resueltas: **2339** — 1419 ganadas / 920 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **2345** — 1421 ganadas / 924 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$972,192** sobre $125,894,813 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,978** sobre $230,600 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$869,441** sobre $126,145,941 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$6,208** sobre $231,200 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 104 | 5 | 64% | $19,365,555 | +$665,704 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 189 | 106 | 2 | 64% | $19,365,555 | +$621,829 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 1 | 55% | $5,392,747 | -$41,740 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
-| pleaseplease123 | 50 | 33 | 1 | 60% | $3,585,230 | +$634,273 |
+| pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,14 +71,14 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | — | ⏳ Pendiente |
-| martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | — | ⏳ Pendiente |
-| martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
+| martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |
+| martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | +$18,383 | ✅ Ganada |
 | 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
 | GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | +$17,413 | ✅ Ganada |
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | -$66,304 | ❌ Perdida |
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | -$37,896 | ❌ Perdida |
-| pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | — | ⏳ Pendiente |
+| pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | -$35,684 | ❌ Perdida |
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | +$46,628 | ✅ Ganada |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | -$29,374 | ❌ Perdida |
