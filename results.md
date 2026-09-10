@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 10:41:42 (hora de Perú)
+Actualizado: 2026-09-10 10:43:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2391**  ($128,883,444 en total)
+- Apuestas registradas: **2392**  ($128,912,844 en total)
 - Resueltas: **2367** — 1429 ganadas / 938 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 353
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | — | ⏳ Pendiente |
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 5.00 (20¢) | $30,842 | -$30,842 | ❌ Perdida |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | +$124,919 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | -$72,000 | ❌ Perdida |
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $146,240 | +$82,260 | ✅ Ganada |
