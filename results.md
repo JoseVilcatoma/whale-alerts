@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 07:13:20 (hora de Perú)
+Actualizado: 2026-09-10 07:15:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2372**  ($127,549,456 en total)
-- Resueltas: **2356** — 1425 ganadas / 931 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 350
 
 ### Balance
 
-- **Resultado de los apostadores: +$771,395** sobre $126,670,525 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$6,559** sobre $232,300 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$633,324** sobre $126,808,596 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$6,659** sobre $232,400 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Noprajsk | 12 | 3 | 2 | 80% | $2,063,491 | +$610,648 |
+| Noprajsk | 12 | 4 | 1 | 75% | $2,063,491 | +$472,578 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | -$138,071 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | -$27,171 | ❌ Perdida |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $31,172 | -$31,172 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
