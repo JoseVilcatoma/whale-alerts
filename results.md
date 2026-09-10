@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 11:41:58 (hora de Perú)
+Actualizado: 2026-09-10 11:44:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2399**  ($129,213,397 en total)
+- Apuestas registradas: **2400**  ($129,251,857 en total)
 - Resueltas: **2369** — 1430 ganadas / 939 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 354
 
 ### Balance
@@ -48,9 +48,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 0 | 95% | $1,210,502 | +$77,459 |
 | ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
 | SDTrading | 15 | 17 | 0 | 47% | $947,337 | -$113,715 |
+| xifutloong3 | 14 | 14 | 1 | 50% | $937,871 | -$173,697 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | 0x78be…bde0 | 10 | 8 | 0 | 56% | $693,429 | -$173,303 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 354 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | — | ⏳ Pendiente |
 | NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | — | ⏳ Pendiente |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 354 en total)_
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | -$66,304 | ❌ Perdida |
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | -$37,896 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | -$35,684 | ❌ Perdida |
-| theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | +$46,628 | ✅ Ganada |

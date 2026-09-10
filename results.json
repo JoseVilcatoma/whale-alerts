@@ -36060,5 +36060,20 @@
     "status": "pending",
     "ultimo_fill": 1789057625,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4889,
+    "timestamp": 1789058547,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-tb-atl-2026-09-10",
+    "title": "Tampa Bay Rays vs. Atlanta Braves",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "usd": 38459.63,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789058547,
+    "fills": 1
   }
 ]
