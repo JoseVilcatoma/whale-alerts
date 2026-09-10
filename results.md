@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 13:42:46 (hora de Perú)
+Actualizado: 2026-09-10 13:44:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2404**  ($129,362,708 en total)
+- Apuestas registradas: **2405**  ($129,390,226 en total)
 - Resueltas: **2375** — 1433 ganadas / 942 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 356
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 356 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | — | ⏳ Pendiente |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 356 en total)_
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | +$22,854 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | -$70,161 | ❌ Perdida |
 | EV-Andars | Will Houston Dynamo win on 2026-09-09? | No | 2.08 (48¢) | $32,663 | -$32,663 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | +$10,884 | ✅ Ganada |
