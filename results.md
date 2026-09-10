@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 11:54:39 (hora de Perú)
+Actualizado: 2026-09-10 11:56:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2402**  ($129,306,957 en total)
-- Resueltas: **2369** — 1430 ganadas / 939 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2375** — 1433 ganadas / 942 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 355
 
 ### Balance
 
-- **Resultado de los apostadores: +$562,420** sobre $127,945,507 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,086** sobre $233,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$414,869** sobre $128,321,546 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,082** sobre $234,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,11 +34,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Noprajsk | 12 | 8 | 1 | 60% | $2,231,117 | +$101,433 |
+| Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 15 | 1 | 61% | $2,056,984 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Diabolical-Prize | 12 | 19 | 4 | 39% | $1,758,472 | -$524,723 |
+| Diabolical-Prize | 14 | 19 | 2 | 42% | $1,758,472 | -$419,169 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
@@ -84,22 +84,22 @@ _(mostrando los 40 de mayor monto, de 355 en total)_
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | — | ⏳ Pendiente |
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | — | ⏳ Pendiente |
-| ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | -$36,082 | ❌ Perdida |
+| ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | N34 | Will Fenerbahçe SK vs. AS Roma end in a draw? | No | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: G2 vs 5star - Map 2 Winner | G2 | 1.18 (85¢) | $31,712 | +$5,596 | ✅ Ganada |
 | Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | -$34,003 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | +$190,902 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic - Map 2 Winner | magic | 1.75 (57¢) | $38,656 | -$38,656 | ❌ Perdida |
-| 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | — | ⏳ Pendiente |
+| 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | -$168,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.50 (40¢) | $74,637 | -$74,637 | ❌ Perdida |
 | Parz1vaI | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | -$25,980 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | +$180,401 | ✅ Ganada |
 | SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | — | ⏳ Pendiente |
-| 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | +$51,924 | ✅ Ganada |
+| 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | -$62,222 | ❌ Perdida |
+| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | +$53,630 | ✅ Ganada |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | -$30,926 | ❌ Perdida |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | -$239,602 | ❌ Perdida |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | -$138,071 | ❌ Perdida |
