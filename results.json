@@ -35592,7 +35592,7 @@
     "side": "BUY",
     "usd": 45000.0,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789034998,
     "fills": 1
   },
@@ -35805,5 +35805,35 @@
     "status": "pending",
     "ultimo_fill": 1789047294,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4860,
+    "timestamp": 1789047590,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-all-mgc-2026-09-10-game2",
+    "title": "Counter-Strike: Alliance vs magic - Map 2 Winner",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 38656.032,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789047590,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4861,
+    "timestamp": 1789047599,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-all-mgc-2026-09-10",
+    "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Alliance",
+    "side": "BUY",
+    "usd": 219096.65680000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789047599,
+    "fills": 1
   }
 ]
