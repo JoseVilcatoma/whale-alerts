@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 00:28:22 (hora de Perú)
+Actualizado: 2026-09-10 00:30:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2362**  ($126,787,050 en total)
-- Resueltas: **2346** — 1422 ganadas / 924 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **2349** — 1423 ganadas / 926 perdidas (**61%** de acierto)
+- Pendientes: 2
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$903,020** sobre $126,232,287 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$6,170** sobre $231,300 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$855,225** sobre $126,329,888 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$6,273** sobre $231,600 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 14 | 14 | 0 | 50% | $899,411 | -$173,697 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
-| 0x78be…bde0 | 10 | 7 | 1 | 59% | $693,429 | -$133,303 |
+| 0x78be…bde0 | 10 | 8 | 0 | 56% | $693,429 | -$173,303 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 6 | 1 | 62% | $630,179 | +$55,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
-| chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
+| chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | +$24,405 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | +$18,383 | ✅ Ganada |
-| 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
-| GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
+| GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
 | theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | -$26,532 | ❌ Perdida |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | +$22,854 | ✅ Ganada |
