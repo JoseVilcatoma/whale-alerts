@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 00:07:44 (hora de Perú)
+Actualizado: 2026-09-10 00:09:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2362**  ($126,787,050 en total)
-- Resueltas: **2345** — 1421 ganadas / 924 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **2346** — 1422 ganadas / 924 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$869,441** sobre $126,145,941 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$6,208** sobre $231,200 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$903,020** sobre $126,232,287 apostados (ROI **+0.7%**)
+- Copiando $100 fijo en cada una: **-$6,170** sobre $231,300 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 189 | 106 | 2 | 64% | $19,365,555 | +$621,829 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 1 | 55% | $5,392,747 | -$41,740 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
 | pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 |---|---|---|---|---|---|---|
 | SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |
