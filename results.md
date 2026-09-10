@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 22:04:22 (hora de Perú)
+Actualizado: 2026-09-09 22:06:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2361**  ($126,737,050 en total)
-- Resueltas: **2337** — 1418 ganadas / 919 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **2338** — 1419 ganadas / 919 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$988,354** sobre $125,778,652 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,995** sobre $230,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,042,354** sobre $125,824,652 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,878** sobre $230,500 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Sassy-Bucket | 16 | 19 | 1 | 46% | $1,686,045 | -$198,044 |
+| Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
 | Diabolical-Prize | 12 | 17 | 1 | 41% | $1,575,537 | -$442,763 |
 | Noprajsk | 11 | 1 | 0 | 92% | $1,493,225 | +$625,150 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | -$29,374 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | +$17,661 | ✅ Ganada |
-| Sassy-Bucket | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 5.00 (20¢) | $30,842 | -$30,842 | ❌ Perdida |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | +$124,919 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | -$72,000 | ❌ Perdida |
