@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 15:01:18 (hora de Perú)
+Actualizado: 2026-09-10 15:03:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2407**  ($129,454,524 en total)
+- Apuestas registradas: **2409**  ($129,591,195 en total)
 - Resueltas: **2383** — 1436 ganadas / 947 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 357
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 192 | 107 | 3 | 64% | $20,030,217 | +$1,003,280 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 1 | 56% | $5,435,418 | -$8,161 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
 | pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 1 | 95% | $1,304,502 | +$77,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 0 | 95% | $1,210,502 | +$77,459 |
 | ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
 | SDTrading | 15 | 17 | 0 | 47% | $947,337 | -$113,715 |
 | xifutloong3 | 14 | 15 | 0 | 48% | $937,871 | -$212,156 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Seattle Mariners | Texas Rangers | 2.04 (49¢) | $42,671 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | FC Bayern München vs. FK Bodø/Glimt: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | — | ⏳ Pendiente |
 | HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
 | GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
-| theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | -$26,532 | ❌ Perdida |
-| theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | +$22,854 | ✅ Ganada |
