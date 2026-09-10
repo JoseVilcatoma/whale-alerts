@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 08:25:08 (hora de Perú)
+Actualizado: 2026-09-10 08:27:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2376**  ($127,725,539 en total)
+- Apuestas registradas: **2378**  ($128,052,877 en total)
 - Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 351
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 190 | 106 | 3 | 64% | $19,444,166 | +$670,633 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 190 | 106 | 4 | 64% | $19,738,505 | +$670,633 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | — | ⏳ Pendiente |
+| SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 | rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | -$29,198 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.75 (57¢) | $51,300 | +$38,700 | ✅ Ganada |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $77,520 | +$4,948 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 2.17 (46¢) | $89,667 | +$105,262 | ✅ Ganada |
-| Flaznorp | Will Liverpool FC vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $29,386 | +$10,325 | ✅ Ganada |
