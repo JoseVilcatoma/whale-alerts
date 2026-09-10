@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 05:16:32 (hora de Perú)
+Actualizado: 2026-09-10 05:18:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2368**  ($127,113,439 en total)
+- Apuestas registradas: **2369**  ($127,144,612 en total)
 - Resueltas: **2352** — 1424 ganadas / 928 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 350
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $31,172 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
 | ripley86alien | Will Sporting CP win on 2026-09-09? | Yes | 1.64 (61¢) | $200,000 | +$127,869 | ✅ Ganada |
 | 0x197c…e025 | Will Arsenal FC win on 2026-09-09? | Yes | 1.72 (58¢) | $42,216 | +$30,570 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $39,000 | -$39,000 | ❌ Perdida |
