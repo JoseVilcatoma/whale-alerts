@@ -36030,5 +36030,20 @@
     "status": "pending",
     "ultimo_fill": 1789056487,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4887,
+    "timestamp": 1789056373,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "ucl-fen-rom-2026-09-10-total-3pt5",
+    "title": "Fenerbah\u00e7e SK vs. AS Roma: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 50724.367,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789056373,
+    "fills": 1
   }
 ]
