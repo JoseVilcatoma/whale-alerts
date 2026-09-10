@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 09:07:01 (hora de Perú)
+Actualizado: 2026-09-10 09:09:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2384**  ($128,649,207 en total)
+- Apuestas registradas: **2385**  ($128,683,209 en total)
 - Resueltas: **2360** — 1425 ganadas / 935 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 351
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic - Map 2 Winner | magic | 1.75 (57¢) | $38,656 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | -$32,689 | ❌ Perdida |
 | pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | +$30,136 | ✅ Ganada |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | -$27,091 | ❌ Perdida |
-| Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |

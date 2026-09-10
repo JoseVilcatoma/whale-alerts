@@ -35835,5 +35835,20 @@
     "status": "pending",
     "ultimo_fill": 1789047708,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 4865,
+    "timestamp": 1789049282,
+    "username": "Hdisllbsj",
+    "wallet": "0x2a214973f38f9052a08a419b97141a66e84b9853",
+    "slug": "dota2-gl-ks-2026-09-10-game2",
+    "title": "Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "usd": 34002.765999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1789049282,
+    "fills": 1
   }
 ]
