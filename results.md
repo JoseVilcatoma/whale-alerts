@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 05:06:18 (hora de Perú)
+Actualizado: 2026-09-10 05:08:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2367**  ($127,068,439 en total)
-- Resueltas: **2351** — 1423 ganadas / 928 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **2352** — 1424 ganadas / 928 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 350
 
 ### Balance
 
-- **Resultado de los apostadores: +$768,265** sobre $126,416,848 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$6,473** sobre $231,800 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$817,068** sobre $126,446,760 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$6,310** sobre $231,900 (ROI **-2.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 189 | 106 | 4 | 64% | $19,444,166 | +$621,829 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 190 | 106 | 3 | 64% | $19,444,166 | +$670,633 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | +$48,803 | ✅ Ganada |
 | ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | — | ⏳ Pendiente |
 | SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
