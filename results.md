@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 08:33:20 (hora de Perú)
+Actualizado: 2026-09-10 08:35:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2379**  ($128,078,858 en total)
+- Apuestas registradas: **2381**  ($128,189,494 en total)
 - Resueltas: **2357** — 1425 ganadas / 932 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 13
 - Apostadores distintos: 351
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Noprajsk | 12 | 4 | 3 | 75% | $2,120,398 | +$472,578 |
+| Noprajsk | 12 | 4 | 4 | 75% | $2,195,034 | +$472,578 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Diabolical-Prize | 12 | 18 | 3 | 40% | $1,703,472 | -$479,723 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.50 (40¢) | $74,637 | — | ⏳ Pendiente |
+| Parz1vaI | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | — | ⏳ Pendiente |
 | SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 351 en total)_
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | +$35,965 | ✅ Ganada |
 | Roadto1mlesgooo | Liverpool FC vs. Club Atlético de Madrid: O/U 1.5 | Over 1.5 | 1.09 (92¢) | $79,011 | +$6,871 | ✅ Ganada |
-| rabbitfoot1 | US Open WTA: Mirra Andreeva vs Coco Gauff | Mirra Andreeva | 1.79 (56¢) | $29,198 | -$29,198 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.75 (57¢) | $51,300 | +$38,700 | ✅ Ganada |

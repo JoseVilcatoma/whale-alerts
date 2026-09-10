@@ -35760,5 +35760,35 @@
     "status": "pending",
     "ultimo_fill": 1789046865,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4856,
+    "timestamp": 1789047210,
+    "username": "Parz1vaI",
+    "wallet": "0xb10047d6a254b2ebb306d7a7d13bf59171ab6461",
+    "slug": "cs2-all-mgc-2026-09-10",
+    "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Alliance",
+    "side": "BUY",
+    "usd": 36000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789047210,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4857,
+    "timestamp": 1789047218,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-all-mgc-2026-09-10",
+    "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "magic",
+    "side": "BUY",
+    "usd": 74636.7,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1789047218,
+    "fills": 1
   }
 ]
