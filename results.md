@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 22:10:32 (hora de Perú)
+Actualizado: 2026-09-09 22:12:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2361**  ($126,737,050 en total)
-- Resueltas: **2338** — 1419 ganadas / 919 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **2339** — 1419 ganadas / 920 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,042,354** sobre $125,824,652 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,878** sobre $230,500 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$972,192** sobre $125,894,813 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,978** sobre $230,600 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
 | theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | -$26,532 | ❌ Perdida |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | +$22,854 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | — | ⏳ Pendiente |
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | -$70,161 | ❌ Perdida |
 | EV-Andars | Will Houston Dynamo win on 2026-09-09? | No | 2.08 (48¢) | $32,663 | -$32,663 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | +$10,884 | ✅ Ganada |
 | Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | +$17,413 | ✅ Ganada |
