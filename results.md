@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 20:59:27 (hora de Perú)
+Actualizado: 2026-09-09 21:01:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2358**  ($126,580,093 en total)
-- Resueltas: **2323** — 1409 ganadas / 914 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **2324** — 1410 ganadas / 914 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$957,617** sobre $124,917,750 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,944** sobre $229,000 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$975,277** sobre $125,096,318 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,934** sobre $229,100 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 186 | 104 | 6 | 64% | $19,331,904 | +$637,160 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 187 | 104 | 5 | 64% | $19,331,904 | +$654,820 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 0 | 55% | $5,306,402 | -$41,740 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | — | ⏳ Pendiente |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | +$17,661 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 5.00 (20¢) | $30,842 | -$30,842 | ❌ Perdida |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | +$124,919 | ✅ Ganada |
