@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 17:52:11 (hora de Perú)
+Actualizado: 2026-09-10 17:54:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2410**  ($129,627,314 en total)
+- Apuestas registradas: **2411**  ($129,668,914 en total)
 - Resueltas: **2397** — 1449 ganadas / 948 perdidas (**60%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 357
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
+| 0x78be…bde0 | 10 | 8 | 1 | 56% | $735,029 | -$173,303 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
-| 0x78be…bde0 | 10 | 8 | 0 | 56% | $693,429 | -$173,303 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $41,600 | — | ⏳ Pendiente |
 | xifutloong3 | Texas Rangers vs. Seattle Mariners | Seattle Mariners | 1.92 (52¢) | $36,118 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Seattle Mariners | Texas Rangers | 2.04 (49¢) | $42,671 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Bayern München vs. FK Bodø/Glimt: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $94,000 | +$6,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | +$18,383 | ✅ Ganada |
 | 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
-| GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
