@@ -35880,5 +35880,35 @@
     "status": "pending",
     "ultimo_fill": 1789053014,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4875,
+    "timestamp": 1789053179,
+    "username": "ethBELIVER",
+    "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
+    "slug": "cs2-1win-b8-2026-09-10",
+    "title": "Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "usd": 26800.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789053179,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4876,
+    "timestamp": 1789053208,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-1win-b8-2026-09-10",
+    "title": "Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "B8",
+    "side": "BUY",
+    "usd": 36082.407900000006,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1789053208,
+    "fills": 1
   }
 ]
