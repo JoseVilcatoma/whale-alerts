@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 12:56:27 (hora de Perú)
+Actualizado: 2026-09-10 12:58:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2402**  ($129,306,957 en total)
+- Apuestas registradas: **2403**  ($129,335,457 en total)
 - Resueltas: **2375** — 1433 ganadas / 942 perdidas (**60%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 355
+- Pendientes: 17
+- Apostadores distintos: 356
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 2 | 10 | 1 | 17% | $551,789 | -$409,817 |
 
-_(mostrando los 40 de mayor monto, de 355 en total)_
+_(mostrando los 40 de mayor monto, de 356 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
 | TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 355 en total)_
 | EV-Andars | Will Houston Dynamo win on 2026-09-09? | No | 2.08 (48¢) | $32,663 | -$32,663 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | +$10,884 | ✅ Ganada |
 | Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | +$17,413 | ✅ Ganada |
-| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | -$66,304 | ❌ Perdida |

@@ -36105,5 +36105,20 @@
     "status": "pending",
     "ultimo_fill": 1789059020,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4898,
+    "timestamp": 1789063109,
+    "username": "lucidarderi",
+    "wallet": "0xc7b555bf52c96d319e6d0431bb1a19caa3fa4527",
+    "slug": "ucl-com-rbl-2026-09-10-com",
+    "title": "Will Como 1907 win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28499.999999999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789063109,
+    "fills": 1
   }
 ]
