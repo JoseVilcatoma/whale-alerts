@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 06:38:35 (hora de Perú)
+Actualizado: 2026-09-10 06:40:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2371**  ($127,309,854 en total)
-- Resueltas: **2353** — 1425 ganadas / 928 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **2356** — 1425 ganadas / 931 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 350
 
 ### Balance
 
-- **Resultado de los apostadores: +$877,620** sobre $126,564,300 apostados (ROI **+0.7%**)
-- Copiando $100 fijo en cada una: **-$6,259** sobre $232,000 (ROI **-2.7%**)
+- **Resultado de los apostadores: +$771,395** sobre $126,670,525 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$6,559** sobre $232,300 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Noprajsk | 12 | 1 | 3 | 92% | $1,823,889 | +$685,701 |
+| Noprajsk | 12 | 3 | 1 | 80% | $1,823,889 | +$610,648 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 350 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | — | ⏳ Pendiente |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $31,172 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | -$27,171 | ❌ Perdida |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $31,172 | -$31,172 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | -$47,881 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | +$60,551 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | +$48,803 | ✅ Ganada |
