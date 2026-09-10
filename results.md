@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 15:40:16 (hora de Perú)
+Actualizado: 2026-09-10 15:42:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2409**  ($129,591,195 en total)
+- Apuestas registradas: **2410**  ($129,627,314 en total)
 - Resueltas: **2383** — 1436 ganadas / 947 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 357
 
 ### Balance
@@ -47,8 +47,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 18 | 1 | 1 | 95% | $1,304,502 | +$77,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
+| xifutloong3 | 14 | 15 | 1 | 48% | $973,989 | -$212,156 |
 | SDTrading | 15 | 17 | 0 | 47% | $947,337 | -$113,715 |
-| xifutloong3 | 14 | 15 | 0 | 48% | $937,871 | -$212,156 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xifutloong3 | Texas Rangers vs. Seattle Mariners | Seattle Mariners | 1.92 (52¢) | $36,118 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Seattle Mariners | Texas Rangers | 2.04 (49¢) | $42,671 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Bayern München vs. FK Bodø/Glimt: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
 | 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
 | ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
 | GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | -$32,200 | ❌ Perdida |
-| theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
