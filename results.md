@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 10:58:10 (hora de Perú)
+Actualizado: 2026-09-10 11:00:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2393**  ($128,958,453 en total)
+- Apuestas registradas: **2395**  ($129,017,997 en total)
 - Resueltas: **2368** — 1430 ganadas / 938 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 353
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 8 | 1 | 60% | $2,231,117 | +$101,433 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
+| wr0ngw4yb3tt0r | 23 | 15 | 1 | 61% | $2,056,984 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Diabolical-Prize | 12 | 19 | 2 | 39% | $1,703,472 | -$524,723 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | — | ⏳ Pendiente |
 | nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | — | ⏳ Pendiente |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | -$29,374 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | +$17,661 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $46,000 | +$54,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 5.00 (20¢) | $30,842 | -$30,842 | ❌ Perdida |
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | +$124,919 | ✅ Ganada |

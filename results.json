@@ -35970,5 +35970,35 @@
     "status": "pending",
     "ultimo_fill": 1789055477,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4882,
+    "timestamp": 1789055906,
+    "username": "0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592",
+    "wallet": "0x71ac3cbb40647cb6da6fa0dc2923999ad9c4d2b1",
+    "slug": "ucl-bay-bog-2026-09-10-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 33043.999999,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1789055906,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4883,
+    "timestamp": 1789055931,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tb-atl-2026-09-10",
+    "title": "Tampa Bay Rays vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789055931,
+    "fills": 1
   }
 ]
