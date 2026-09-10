@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 09:56:34 (hora de Perú)
+Actualizado: 2026-09-10 09:58:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2386**  ($128,714,922 en total)
-- Resueltas: **2361** — 1425 ganadas / 936 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2367** — 1429 ganadas / 938 perdidas (**60%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 352
 
 ### Balance
 
-- **Resultado de los apostadores: +$279,140** sobre $127,162,780 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,059** sobre $232,800 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$590,826** sobre $127,879,791 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$7,004** sobre $233,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 190 | 107 | 5 | 64% | $20,030,217 | +$631,977 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 192 | 107 | 3 | 64% | $20,030,217 | +$1,003,280 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 0 | 56% | $5,392,747 | -$8,161 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Noprajsk | 12 | 6 | 2 | 67% | $2,195,034 | +$202,050 |
+| Noprajsk | 12 | 8 | 0 | 60% | $2,195,034 | +$101,433 |
 | wr0ngw4yb3tt0r | 23 | 15 | 0 | 61% | $2,030,484 | -$547,235 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Diabolical-Prize | 12 | 19 | 2 | 39% | $1,703,472 | -$524,723 |
@@ -73,14 +73,14 @@ _(mostrando los 40 de mayor monto, de 352 en total)_
 |---|---|---|---|---|---|---|
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: G2 vs 5star - Map 2 Winner | G2 | 1.18 (85¢) | $31,712 | — | ⏳ Pendiente |
 | Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | +$190,902 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic - Map 2 Winner | magic | 1.75 (57¢) | $38,656 | -$38,656 | ❌ Perdida |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.50 (40¢) | $74,637 | — | ⏳ Pendiente |
-| Parz1vaI | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.67 (60¢) | $36,000 | — | ⏳ Pendiente |
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | — | ⏳ Pendiente |
-| SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | — | ⏳ Pendiente |
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.50 (40¢) | $74,637 | -$74,637 | ❌ Perdida |
+| Parz1vaI | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | -$25,980 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | +$180,401 | ✅ Ganada |
+| SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | — | ⏳ Pendiente |
