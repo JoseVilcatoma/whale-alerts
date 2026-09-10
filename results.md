@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 20:48:53 (hora de Perú)
+Actualizado: 2026-09-09 20:51:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2357**  ($126,504,900 en total)
+- Apuestas registradas: **2358**  ($126,580,093 en total)
 - Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 349
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP vs. Galatasaray SK end in a draw? | No | 1.28 (78¢) | $61,918 | +$17,464 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $50,753 | +$43,234 | ✅ Ganada |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $48,985 | +$41,728 | ✅ Ganada |
-| bettingbettor | Will Sporting CP win on 2026-09-09? | Yes | 1.67 (60¢) | $78,930 | +$52,620 | ✅ Ganada |

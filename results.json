@@ -35430,5 +35430,20 @@
     "status": "pending",
     "ultimo_fill": 1789001668,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4796,
+    "timestamp": 1789005017,
+    "username": "martingaleking",
+    "wallet": "0x52f5efdfb8759d4b9be1fbe63f80401474445e8a",
+    "slug": "nfl-ne-sea-2026-09-10",
+    "title": "Patriots vs. Seahawks",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 75192.74399999999,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1789005017,
+    "fills": 1
   }
 ]
