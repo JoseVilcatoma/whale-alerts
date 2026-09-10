@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 21:12:07 (hora de Perú)
+Actualizado: 2026-09-09 21:14:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2358**  ($126,580,093 en total)
-- Resueltas: **2324** — 1410 ganadas / 914 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **2326** — 1411 ganadas / 915 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$975,277** sobre $125,096,318 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,934** sobre $229,100 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$976,263** sobre $125,164,332 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,956** sobre $229,300 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,8 +90,8 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | — | ⏳ Pendiente |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | — | ⏳ Pendiente |
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | — | ⏳ Pendiente |
-| wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | — | ⏳ Pendiente |
-| OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | — | ⏳ Pendiente |
+| wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
+| OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | -$29,374 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | +$17,661 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5 | Under 8.5 | 2.17 (46¢) | $46,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 5.00 (20¢) | $30,842 | -$30,842 | ❌ Perdida |
