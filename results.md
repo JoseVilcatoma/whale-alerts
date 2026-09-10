@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 21:54:03 (hora de Perú)
+Actualizado: 2026-09-09 21:56:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2361**  ($126,737,050 en total)
-- Resueltas: **2327** — 1412 ganadas / 915 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **2333** — 1416 ganadas / 917 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,022,892** sobre $125,237,263 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,892** sobre $229,400 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$990,944** sobre $125,651,378 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,962** sobre $230,000 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 187 | 104 | 6 | 64% | $19,365,555 | +$654,820 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 188 | 104 | 5 | 64% | $19,365,555 | +$665,704 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 1 | 55% | $5,392,747 | -$41,740 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
-| pleaseplease123 | 49 | 33 | 2 | 60% | $3,585,230 | +$604,137 |
+| pleaseplease123 | 50 | 33 | 1 | 60% | $3,585,230 | +$634,273 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Sassy-Bucket | 16 | 19 | 1 | 46% | $1,686,045 | -$198,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
 | Diabolical-Prize | 12 | 17 | 1 | 41% | $1,575,537 | -$442,763 |
-| Noprajsk | 10 | 1 | 1 | 91% | $1,493,225 | +$607,737 |
+| Noprajsk | 11 | 1 | 0 | 92% | $1,493,225 | +$625,150 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -80,17 +80,17 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Seahawks | 1.61 (62¢) | $29,994 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Spread: Seahawks (-3.5) | Seahawks | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
-| ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | — | ⏳ Pendiente |
+| ethanaz | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.19 (84¢) | $72,551 | +$13,819 | ✅ Ganada |
 | GrizzliesSuck | Spread: Seahawks (-3.5) | Seahawks | 2.17 (46¢) | $32,200 | — | ⏳ Pendiente |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | — | ⏳ Pendiente |
 | theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | — | ⏳ Pendiente |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | — | ⏳ Pendiente |
 | EV-Andars | Will Houston Dynamo win on 2026-09-09? | No | 2.08 (48¢) | $32,663 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | — | ⏳ Pendiente |
-| Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | — | ⏳ Pendiente |
-| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | — | ⏳ Pendiente |
-| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.15 (87¢) | $72,837 | +$10,884 | ✅ Ganada |
+| Noprajsk | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Alexander Zverev | 1.14 (88¢) | $127,693 | +$17,413 | ✅ Ganada |
+| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | -$66,304 | ❌ Perdida |
+| 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | -$37,896 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | — | ⏳ Pendiente |
 | theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | +$46,628 | ✅ Ganada |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $28,559 | +$16,773 | ✅ Ganada |
 | fRibrenlc | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $55,999 | +$32,889 | ✅ Ganada |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | -$32,689 | ❌ Perdida |
-| pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
+| pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | +$30,136 | ✅ Ganada |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | -$27,091 | ❌ Perdida |
 | Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
