@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 14:44:47 (hora de Perú)
+Actualizado: 2026-09-10 14:46:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2406**  ($129,416,742 en total)
+- Apuestas registradas: **2407**  ($129,454,524 en total)
 - Resueltas: **2383** — 1436 ganadas / 947 perdidas (**60%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 356
+- Pendientes: 13
+- Apostadores distintos: 357
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 356 en total)_
+_(mostrando los 40 de mayor monto, de 357 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | — | ⏳ Pendiente |
 | HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 356 en total)_
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.82 (55¢) | $41,250 | +$33,750 | ✅ Ganada |
 | theowalcott | Will Minnesota United FC win on 2026-09-09? | Yes | 1.89 (53¢) | $26,532 | -$26,532 | ❌ Perdida |
 | theowalcott | Will Houston Dynamo win on 2026-09-09? | Yes | 1.85 (54¢) | $26,829 | +$22,854 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox | 1.79 (56¢) | $70,161 | -$70,161 | ❌ Perdida |

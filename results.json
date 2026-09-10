@@ -36165,5 +36165,20 @@
     "status": "pending",
     "ultimo_fill": 1789066576,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4911,
+    "timestamp": 1789069470,
+    "username": "0x8191\u2026da72",
+    "wallet": "0x8191c793fd7edbadf0fae651f55c1da3b638da72",
+    "slug": "ucl-mnu-sf-2026-09-10-first-half-total-1pt5",
+    "title": "Manchester United FC vs. Sabah FK: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 37782.603200000005,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1789069470,
+    "fills": 1
   }
 ]
