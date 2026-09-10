@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 20:51:01 (hora de Perú)
+Actualizado: 2026-09-09 20:53:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2358**  ($126,580,093 en total)
-- Resueltas: **2321** — 1409 ganadas / 912 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **2323** — 1409 ganadas / 914 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,017,396** sobre $124,857,970 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,744** sobre $228,800 (ROI **-2.5%**)
+- **Resultado de los apostadores: +$957,617** sobre $124,917,750 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,944** sobre $229,000 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 0 | 55% | $5,306,402 | -$41,740 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
-| pleaseplease123 | 49 | 31 | 4 | 61% | $3,585,230 | +$663,916 |
+| pleaseplease123 | 49 | 33 | 2 | 60% | $3,585,230 | +$604,137 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -101,9 +101,9 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0xwise | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $50,790 | +$28,569 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $28,559 | +$16,773 | ✅ Ganada |
 | fRibrenlc | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $55,999 | +$32,889 | ✅ Ganada |
-| pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | — | ⏳ Pendiente |
+| pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.04 (49¢) | $32,689 | -$32,689 | ❌ Perdida |
 | pleaseplease123 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers | 1.82 (55¢) | $36,833 | — | ⏳ Pendiente |
-| pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | — | ⏳ Pendiente |
+| pleaseplease123 | Colorado Rockies vs. New York Yankees: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $27,091 | -$27,091 | ❌ Perdida |
 | Sassy-Bucket | Washington Nationals vs. San Diego Padres: O/U 8.5 | Under 8.5 | 2.08 (48¢) | $34,901 | -$34,901 | ❌ Perdida |
 | SDTrading | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.56 (64¢) | $25,600 | +$14,400 | ✅ Ganada |
 | texaskid | Washington Nationals vs. San Diego Padres | San Diego Padres | 1.59 (63¢) | $61,237 | +$35,965 | ✅ Ganada |
