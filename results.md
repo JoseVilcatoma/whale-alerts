@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 21:43:52 (hora de Perú)
+Actualizado: 2026-09-09 21:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2360**  ($126,703,399 en total)
+- Apuestas registradas: **2361**  ($126,737,050 en total)
 - Resueltas: **2327** — 1412 ganadas / 915 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 349
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 187 | 104 | 5 | 64% | $19,331,904 | +$654,820 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 187 | 104 | 6 | 64% | $19,365,555 | +$654,820 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 71 | 57 | 1 | 55% | $5,392,747 | -$41,740 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will SSC Napoli win on 2026-09-09? | No | 1.20 (83¢) | $83,000 | +$17,000 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Sporting CP win on 2026-09-09? | No | 2.56 (39¢) | $32,532 | -$32,532 | ❌ Perdida |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-09? | Yes | 5.88 (17¢) | $161,139 | -$161,139 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP vs. Galatasaray SK end in a draw? | No | 1.28 (78¢) | $61,918 | +$17,464 | ✅ Ganada |
