@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 14:01:22 (hora de Perú)
+Actualizado: 2026-09-10 14:03:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2406**  ($129,416,742 en total)
-- Resueltas: **2380** — 1435 ganadas / 945 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2383** — 1436 ganadas / 947 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 356
 
 ### Balance
 
-- **Resultado de los apostadores: +$377,440** sobre $128,492,130 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,230** sobre $234,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$316,790** sobre $128,652,270 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,334** sobre $235,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
-| sulumos | 2 | 10 | 1 | 17% | $551,789 | -$409,817 |
+| sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
 _(mostrando los 40 de mayor monto, de 356 en total)_
 
@@ -79,14 +79,14 @@ _(mostrando los 40 de mayor monto, de 356 en total)_
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | -$38,460 | ❌ Perdida |
 | NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | — | ⏳ Pendiente |
-| ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | — | ⏳ Pendiente |
+| ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | — | ⏳ Pendiente |
-| ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | — | ⏳ Pendiente |
+| ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
+| sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | +$48,750 | ✅ Ganada |
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | -$36,082 | ❌ Perdida |
 | ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
