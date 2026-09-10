@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-09 21:18:09 (hora de Perú)
+Actualizado: 2026-09-09 21:20:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2358**  ($126,580,093 en total)
-- Resueltas: **2326** — 1411 ganadas / 915 perdidas (**61%** de acierto)
+- Apuestas registradas: **2359**  ($126,617,053 en total)
+- Resueltas: **2327** — 1412 ganadas / 915 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 349
 
 ### Balance
 
-- **Resultado de los apostadores: +$976,263** sobre $125,164,332 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$5,956** sobre $229,300 (ROI **-2.6%**)
+- **Resultado de los apostadores: +$1,022,892** sobre $125,237,263 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$5,892** sobre $229,400 (ROI **-2.6%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 16 | 19 | 1 | 46% | $1,686,045 | -$198,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
-| Diabolical-Prize | 12 | 17 | 0 | 41% | $1,538,577 | -$442,763 |
+| Diabolical-Prize | 12 | 17 | 1 | 41% | $1,575,537 | -$442,763 |
 | Noprajsk | 10 | 1 | 1 | 91% | $1,493,225 | +$607,737 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | — | ⏳ Pendiente |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
@@ -89,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 8.33 (12¢) | $66,304 | — | ⏳ Pendiente |
 | 0xwise | US Open ATP: Alexander Zverev vs Botic van de Zandschulp | Botic van de Zandschulp | 7.69 (13¢) | $37,896 | — | ⏳ Pendiente |
 | pleaseplease123 | Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5 | Under 8.5 | 1.89 (53¢) | $35,684 | — | ⏳ Pendiente |
-| theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | — | ⏳ Pendiente |
+| theowalcott | Will Philadelphia Union win on 2026-09-09? | Yes | 1.64 (61¢) | $72,931 | +$46,628 | ✅ Ganada |
 | wigglew | Will Atlanta United FC win on 2026-09-09? | No | 1.79 (56¢) | $38,640 | +$30,360 | ✅ Ganada |
 | OhWhenTheReds | Will Atlanta United FC win on 2026-09-09? | Yes | 2.38 (42¢) | $29,374 | -$29,374 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will CA Mineiro win on 2026-09-09? | No | 1.10 (91¢) | $178,568 | +$17,661 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 349 en total)_
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-09? | Yes | 5.88 (17¢) | $161,139 | -$161,139 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Sporting CP vs. Galatasaray SK end in a draw? | No | 1.28 (78¢) | $61,918 | +$17,464 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $50,753 | +$43,234 | ✅ Ganada |
-| ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Coco Gauff | Coco Gauff | 1.85 (54¢) | $48,985 | +$41,728 | ✅ Ganada |
