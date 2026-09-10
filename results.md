@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 16:11:25 (hora de Perú)
+Actualizado: 2026-09-10 16:13:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2410**  ($129,627,314 en total)
-- Resueltas: **2383** — 1436 ganadas / 947 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2392** — 1444 ganadas / 948 perdidas (**60%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 357
 
 ### Balance
 
-- **Resultado de los apostadores: +$316,790** sobre $128,652,270 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,334** sobre $235,000 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$308,428** sobre $128,973,305 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,352** sobre $235,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 192 | 107 | 3 | 64% | $20,030,217 | +$1,003,280 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 2 | 64% | $20,030,217 | +$1,008,691 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 57 | 1 | 56% | $5,435,418 | -$8,161 |
@@ -74,21 +74,21 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | xifutloong3 | Texas Rangers vs. Seattle Mariners | Seattle Mariners | 1.92 (52¢) | $36,118 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Texas Rangers vs. Seattle Mariners | Texas Rangers | 2.04 (49¢) | $42,671 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | FC Bayern München vs. FK Bodø/Glimt: O/U 0.5 | Over 0.5 | 1.06 (94¢) | $94,000 | — | ⏳ Pendiente |
-| 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | — | ⏳ Pendiente |
-| 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | — | ⏳ Pendiente |
+| 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | -$37,783 | ❌ Perdida |
+| 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | +$2,622 | ✅ Ganada |
 | HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | — | ⏳ Pendiente |
-| Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | — | ⏳ Pendiente |
+| Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | +$2,370 | ✅ Ganada |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | — | ⏳ Pendiente |
-| TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
+| TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | -$38,460 | ❌ Perdida |
-| NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | — | ⏳ Pendiente |
+| NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | +$4,131 | ✅ Ganada |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | — | ⏳ Pendiente |
+| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | +$3,268 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
-| nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | — | ⏳ Pendiente |
+| nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | +$5,068 | ✅ Ganada |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | +$48,750 | ✅ Ganada |
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
@@ -116,9 +116,9 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | -$47,881 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | +$60,551 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | +$5,411 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | +$48,803 | ✅ Ganada |
-| ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | — | ⏳ Pendiente |
+| ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | +$4,151 | ✅ Ganada |
 | SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
