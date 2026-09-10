@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 11:08:15 (hora de Perú)
+Actualizado: 2026-09-10 11:10:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2397**  ($129,125,497 en total)
-- Resueltas: **2368** — 1430 ganadas / 938 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2369** — 1430 ganadas / 939 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 353
 
 ### Balance
 
-- **Resultado de los apostadores: +$596,422** sobre $127,911,504 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$6,986** sobre $233,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$562,420** sobre $127,945,507 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,086** sobre $233,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 | ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | N34 | Will Fenerbahçe SK vs. AS Roma end in a draw? | No | 1.35 (74¢) | $25,900 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: G2 vs 5star - Map 2 Winner | G2 | 1.18 (85¢) | $31,712 | +$5,596 | ✅ Ganada |
-| Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | — | ⏳ Pendiente |
+| Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | -$34,003 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | +$190,902 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic - Map 2 Winner | magic | 1.75 (57¢) | $38,656 | -$38,656 | ❌ Perdida |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | — | ⏳ Pendiente |
