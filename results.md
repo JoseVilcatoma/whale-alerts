@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 10:37:37 (hora de Perú)
+Actualizado: 2026-09-10 10:39:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2390**  ($128,832,704 en total)
+- Apuestas registradas: **2391**  ($128,883,444 en total)
 - Resueltas: **2367** — 1429 ganadas / 938 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 353
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
-| 0xC41D736bDed9ED1acCD6A44235039266219774fD-1777101352681 | 1 | 8 | 0 | 11% | $540,222 | -$363,222 |
+| sulumos | 2 | 10 | 1 | 17% | $551,789 | -$409,817 |
 
 _(mostrando los 40 de mayor monto, de 353 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sulumos | Will AS Roma win on 2026-09-10? | No | 1.96 (51¢) | $50,740 | — | ⏳ Pendiente |
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
 | Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | — | ⏳ Pendiente |
 | ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 353 en total)_
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.59 (63¢) | $212,700 | +$124,919 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Karen Khachanov vs Alexander Blockx | Alexander Blockx | 2.86 (35¢) | $72,000 | -$72,000 | ❌ Perdida |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $146,240 | +$82,260 | ✅ Ganada |
-| 0xwise | US Open ATP: Karen Khachanov vs Alexander Blockx | Karen Khachanov | 1.56 (64¢) | $50,790 | +$28,569 | ✅ Ganada |
