@@ -35652,7 +35652,7 @@
     "side": "BUY",
     "usd": 239602.0396,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789042100,
     "fills": 1
   },
@@ -35667,7 +35667,7 @@
     "side": "BUY",
     "usd": 30926.003999999997,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789042540,
     "fills": 1
   },
@@ -35830,10 +35830,10 @@
     "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "Alliance",
     "side": "BUY",
-    "usd": 219096.65680000003,
-    "odds_at_bet": 56,
+    "usd": 253056.178,
+    "odds_at_bet": 57,
     "status": "pending",
-    "ultimo_fill": 1789047599,
-    "fills": 1
+    "ultimo_fill": 1789047708,
+    "fills": 2
   }
 ]
