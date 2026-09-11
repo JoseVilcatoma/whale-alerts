@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 16:04:57 (hora de Perú)
+Actualizado: 2026-09-11 16:07:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2470**  ($134,112,187 en total)
-- Resueltas: **2436** — 1466 ganadas / 970 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2439** — 1469 ganadas / 970 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: +$14,627** sobre $131,839,144 apostados (ROI **+0.0%**)
-- Copiando $100 fijo en cada una: **-$7,695** sobre $240,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$249,900** sobre $132,068,703 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,348** sobre $240,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 195 | 108 | 4 | 64% | $20,476,385 | +$975,773 |
-| 3edmond.dantes | 20 | 20 | 3 | 50% | $6,181,086 | -$1,892,317 |
+| 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
 | ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | +$41,539 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 1.96 (51¢) | $70,000 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | — | ⏳ Pendiente |
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $39,519 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | +$9,621 | ✅ Ganada |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | +$146,291 | ✅ Ganada |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | +$47,444 | ✅ Ganada |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
