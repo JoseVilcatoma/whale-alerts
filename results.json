@@ -36525,5 +36525,20 @@
     "status": "pending",
     "ultimo_fill": 1789111824,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4969,
+    "timestamp": 1789112698,
+    "username": "110thst",
+    "wallet": "0x1eeaf77002cf1eef5305abae702ddc3ccc86db08",
+    "slug": "cs2-furia-g2-2026-09-11",
+    "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 196839.41980000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789112698,
+    "fills": 1
   }
 ]
