@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 12:03:33 (hora de Perú)
+Actualizado: 2026-09-11 12:05:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2439**  ($131,516,661 en total)
-- Resueltas: **2419** — 1458 ganadas / 961 perdidas (**60%** de acierto)
-- Pendientes: 9
+- Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 362
 
 ### Balance
 
-- **Resultado de los apostadores: -$424,835** sobre $130,563,043 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$7,501** sobre $238,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$468,917** sobre $130,707,125 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,601** sobre $238,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 4 | 64% | $20,328,487 | +$1,008,691 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 108 | 3 | 64% | $20,328,487 | +$960,189 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| BrotherObama | 4 | 10 | 2 | 29% | $825,495 | -$37,128 |
+| BrotherObama | 5 | 10 | 1 | 33% | $825,495 | +$12,872 |
 | 0x78be…bde0 | 12 | 8 | 0 | 60% | $760,029 | -$132,125 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
@@ -73,9 +73,9 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 |---|---|---|---|---|---|---|
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | — | ⏳ Pendiente |
-| BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | — | ⏳ Pendiente |
-| mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | — | ⏳ Pendiente |
+| BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | -$48,502 | ❌ Perdida |
+| mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | -$45,580 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | — | ⏳ Pendiente |
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
