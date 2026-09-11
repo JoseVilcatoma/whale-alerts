@@ -36405,5 +36405,35 @@
     "status": "pending",
     "ultimo_fill": 1789087478,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4944,
+    "timestamp": 1789088413,
+    "username": "0xwise",
+    "wallet": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
+    "slug": "wta-gauff-rybakin-2026-09-10",
+    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 27963.92,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789088413,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4945,
+    "timestamp": 1789088464,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "wta-gauff-rybakin-2026-09-10",
+    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 44628.3108,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789088464,
+    "fills": 1
   }
 ]
