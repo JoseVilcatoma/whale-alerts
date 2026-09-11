@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 00:32:26 (hora de Perú)
+Actualizado: 2026-09-11 00:34:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2426**  ($130,602,051 en total)
-- Resueltas: **2412** — 1456 ganadas / 956 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **2415** — 1457 ganadas / 958 perdidas (**60%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 360
 
 ### Balance
 
-- **Resultado de los apostadores: -$92,141** sobre $130,130,349 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$7,180** sobre $237,900 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$143,641** sobre $130,231,849 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$7,280** sobre $238,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
-| 0x78be…bde0 | 11 | 8 | 1 | 58% | $760,029 | -$157,125 |
+| 0x78be…bde0 | 12 | 8 | 0 | 60% | $760,029 | -$132,125 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -76,13 +76,13 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | +$39,576 | ✅ Ganada |
 | 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | +$23,821 | ✅ Ganada |
 | cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | -$82,500 | ❌ Perdida |
-| 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | -$35,556 | ❌ Perdida |
-| Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | Herdonia | 49ers vs. Rams | Rams | 1.54 (65¢) | $88,153 | -$88,153 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Rams | 49ers | 2.86 (35¢) | $27,751 | +$51,537 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | 49ers vs. Rams | Rams | 1.54 (65¢) | $118,487 | -$118,487 | ❌ Perdida |
-| Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
+| Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | +$32,262 | ✅ Ganada |
 | OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | -$26,698 | ❌ Perdida |
 | SDTrading | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
