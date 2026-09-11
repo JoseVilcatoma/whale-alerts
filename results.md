@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 00:34:30 (hora de Perú)
+Actualizado: 2026-09-11 00:36:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2426**  ($130,602,051 en total)
+- Apuestas registradas: **2427**  ($130,632,051 en total)
 - Resueltas: **2415** — 1457 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 0
-- Apostadores distintos: 360
+- Pendientes: 1
+- Apostadores distintos: 361
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 360 en total)_
+_(mostrando los 40 de mayor monto, de 361 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49ers vs. Rams: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $47,458 | -$47,458 | ❌ Perdida |
 | ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | -$266,662 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | +$39,576 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | -$27,171 | ❌ Perdida |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $31,172 | -$31,172 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | -$47,881 | ❌ Perdida |
