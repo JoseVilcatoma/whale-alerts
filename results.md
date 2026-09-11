@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:11:19 (hora de Perú)
+Actualizado: 2026-09-11 13:13:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2444**  ($131,975,961 en total)
+- Apuestas registradas: **2447**  ($132,282,732 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 14
 - Apostadores distintos: 364
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
-| ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
+| ripley86alien | 27 | 11 | 1 | 71% | $3,962,965 | +$1,335,649 |
 | pleaseplease123 | 50 | 34 | 1 | 60% | $3,617,507 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | BrotherObama | 5 | 10 | 1 | 33% | $825,495 | +$12,872 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 1 | 46% | $800,473 | -$107,088 |
 | 0x78be…bde0 | 12 | 8 | 1 | 60% | $792,029 | -$132,125 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $134,115 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | IcemanSeason | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $29,000 | -$29,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 3.03 (33¢) | $36,082 | -$36,082 | ❌ Perdida |
 | ethBELIVER | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
-| N34 | Will Fenerbahçe SK vs. AS Roma end in a draw? | No | 1.35 (74¢) | $25,900 | -$25,900 | ❌ Perdida |
-| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: G2 vs 5star - Map 2 Winner | G2 | 1.18 (85¢) | $31,712 | +$5,596 | ✅ Ganada |
-| Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | -$34,003 | ❌ Perdida |
