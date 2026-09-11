@@ -36495,5 +36495,20 @@
     "status": "pending",
     "ultimo_fill": 1789107073,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4967,
+    "timestamp": 1789109774,
+    "username": "kimi1986",
+    "wallet": "0xa08455c829a493054315e40e7817321e8c77bb99",
+    "slug": "fl1-ren-olm-2026-09-11-ren",
+    "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 55369.100000000006,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789109774,
+    "fills": 1
   }
 ]
