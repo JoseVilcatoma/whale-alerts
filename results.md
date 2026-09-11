@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 02:28:22 (hora de Perú)
+Actualizado: 2026-09-11 02:30:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2429**  ($130,715,420 en total)
+- Apuestas registradas: **2430**  ($130,761,668 en total)
 - Resueltas: **2415** — 1457 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 361
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | -$30,926 | ❌ Perdida |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | -$239,602 | ❌ Perdida |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner | MIBR | 2.22 (45¢) | $138,071 | -$138,071 | ❌ Perdida |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.75 (57¢) | $27,171 | -$27,171 | ❌ Perdida |
