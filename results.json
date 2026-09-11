@@ -36630,5 +36630,20 @@
     "status": "pending",
     "ultimo_fill": 1789135047,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4982,
+    "timestamp": 1789141841,
+    "username": "0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-gx-navi-2026-09-11-game2",
+    "title": "LoL: GIANTX vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 25672.7546,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789141841,
+    "fills": 1
   }
 ]
