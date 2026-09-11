@@ -37275,5 +37275,20 @@
     "status": "pending",
     "ultimo_fill": 1789168878,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5065,
+    "timestamp": 1789170632,
+    "username": "user098422",
+    "wallet": "0x799b6aa710f1c1af137fdd25cc2834c9f0412102",
+    "slug": "atp-tiafoe-shelton-2026-09-11",
+    "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 64847.916,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789170632,
+    "fills": 1
   }
 ]
