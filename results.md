@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 17:54:05 (hora de Perú)
+Actualizado: 2026-09-11 17:56:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2477**  ($134,406,105 en total)
-- Resueltas: **2449** — 1473 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 365
 
 ### Balance
 
-- **Resultado de los apostadores: +$261,275** sobre $132,823,843 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,635** sobre $241,600 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$444,996** sobre $133,597,986 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,486** sobre $242,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 195 | 108 | 4 | 64% | $20,476,385 | +$975,773 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 2 | 65% | $20,476,385 | +$1,044,847 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 1 | 56% | $5,594,186 | -$26,452 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -80,15 +80,15 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | +$2,679 | ✅ Ganada |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | +$41,539 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 1.96 (51¢) | $70,000 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | — | ⏳ Pendiente |
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | +$5,841 | ✅ Ganada |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.79 (56¢) | $32,095 | +$25,218 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | -$91,767 | ❌ Perdida |
 | ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | -$42,593 | ❌ Perdida |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $39,519 | — | ⏳ Pendiente |
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $39,519 | +$8,675 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | +$9,621 | ✅ Ganada |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | +$146,291 | ✅ Ganada |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | +$47,444 | ✅ Ganada |
@@ -101,11 +101,11 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 | totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | +$162,212 | ✅ Ganada |
 | bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | -$29,444 | ❌ Perdida |
 | matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | -$33,867 | ❌ Perdida |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | — | ⏳ Pendiente |
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | +$14,632 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | -$106,000 | ❌ Perdida |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $392,092 | +$442,146 | ✅ Ganada |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | +$38,000 | ✅ Ganada |
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | +$47,500 | ✅ Ganada |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
@@ -114,7 +114,7 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 | BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | -$48,502 | ❌ Perdida |
 | mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | -$45,580 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | +$66,394 | ✅ Ganada |
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
