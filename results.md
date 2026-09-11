@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 15:50:35 (hora de Perú)
+Actualizado: 2026-09-11 15:52:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2469**  ($134,068,188 en total)
-- Resueltas: **2424** — 1460 ganadas / 964 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **2425** — 1461 ganadas / 964 perdidas (**60%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$455,389** sobre $130,763,597 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$7,574** sobre $239,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$449,426** sobre $130,857,020 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$7,568** sobre $239,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 108 | 6 | 64% | $20,476,385 | +$960,189 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 194 | 108 | 5 | 64% | $20,476,385 | +$966,152 |
 | 3edmond.dantes | 20 | 20 | 3 | 50% | $6,181,086 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 1.96 (51¢) | $70,000 | — | ⏳ Pendiente |
