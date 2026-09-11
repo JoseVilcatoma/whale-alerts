@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:52:51 (hora de Perú)
+Actualizado: 2026-09-11 13:54:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2460**  ($133,552,912 en total)
+- Apuestas registradas: **2463**  ($133,719,367 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 30
 - Apostadores distintos: 364
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 24 | 15 | 0 | 62% | $2,056,984 | -$523,735 |
+| wr0ngw4yb3tt0r | 24 | 15 | 1 | 62% | $2,148,751 | -$523,735 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Diabolical-Prize | 16 | 19 | 1 | 46% | $1,789,272 | -$374,169 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 2 | 46% | $866,219 | -$107,088 |
 | BrotherObama | 5 | 10 | 1 | 33% | $825,495 | +$12,872 |
 | 0x78be…bde0 | 12 | 8 | 1 | 60% | $792,029 | -$132,125 |
-| ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
+| ndb1 | 6 | 6 | 1 | 50% | $683,277 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
-| sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
+| 00gringo00 | 3 | 0 | 2 | ⚠️ 100% (3) | $552,081 | +$236,356 |
 
 _(mostrando los 40 de mayor monto, de 364 en total)_
 
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.79 (56¢) | $32,095 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | — | ⏳ Pendiente |
+| ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $39,519 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | +$2,622 | ✅ Ganada |
 | HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | +$24,402 | ✅ Ganada |
 | Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | +$2,370 | ✅ Ganada |
-| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes | 1.75 (57¢) | $28,500 | +$21,500 | ✅ Ganada |
-| TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |

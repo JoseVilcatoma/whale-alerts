@@ -36975,5 +36975,50 @@
     "status": "pending",
     "ultimo_fill": 1789152740,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5010,
+    "timestamp": 1789152824,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 91767.17250000002,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789152896,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 5011,
+    "timestamp": 1789152824,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 42592.596000000005,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1789152824,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5012,
+    "timestamp": 1789152896,
+    "username": "00gringo00",
+    "wallet": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 32095.464800000005,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789152896,
+    "fills": 1
   }
 ]
