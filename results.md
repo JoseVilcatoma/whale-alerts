@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 16:00:54 (hora de Perú)
+Actualizado: 2026-09-11 16:02:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2470**  ($134,112,187 en total)
-- Resueltas: **2427** — 1462 ganadas / 965 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **2436** — 1466 ganadas / 970 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$471,805** sobre $130,916,404 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,633** sobre $239,400 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$14,627** sobre $131,839,144 apostados (ROI **+0.0%**)
+- Copiando $100 fijo en cada una: **-$7,695** sobre $240,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 3 | 50% | $6,181,086 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
-| ripley86alien | 27 | 11 | 3 | 71% | $4,450,662 | +$1,335,649 |
+| ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
 | totoro3miyazaki | 27 | 12 | 1 | 69% | $4,242,807 | +$134,601 |
 | pleaseplease123 | 50 | 34 | 2 | 60% | $3,661,507 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 5 | 10 | 3 | 33% | $925,495 | +$12,872 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 2 | 46% | $866,219 | -$107,088 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 8 | 1 | 43% | $866,219 | -$213,088 |
 | 0x78be…bde0 | 12 | 8 | 1 | 60% | $792,029 | -$132,125 |
 | ndb1 | 6 | 6 | 1 | 50% | $683,277 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -88,15 +88,15 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | — | ⏳ Pendiente |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | +$64,084 | ✅ Ganada |
 | hansama231 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $72,315 | — | ⏳ Pendiente |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $170,565 | — | ⏳ Pendiente |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $170,565 | +$184,779 | ✅ Ganada |
 | totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | — | ⏳ Pendiente |
-| bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | — | ⏳ Pendiente |
-| matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | — | ⏳ Pendiente |
+| bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | -$29,444 | ❌ Perdida |
+| matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | -$33,867 | ❌ Perdida |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | — | ⏳ Pendiente |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $392,092 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | -$106,000 | ❌ Perdida |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $392,092 | +$442,146 | ✅ Ganada |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
@@ -111,10 +111,10 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
-| 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
-| kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | — | ⏳ Pendiente |
+| 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | +$50,102 | ✅ Ganada |
+| kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | -$55,369 | ❌ Perdida |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49ers vs. Rams: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $47,458 | -$47,458 | ❌ Perdida |
 | ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | -$266,662 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | +$39,576 | ✅ Ganada |
