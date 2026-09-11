@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 18:20:47 (hora de Perú)
+Actualizado: 2026-09-11 18:22:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2479**  ($134,476,932 en total)
+- Apuestas registradas: **2480**  ($134,503,817 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 365
+- Pendientes: 13
+- Apostadores distintos: 366
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 
-_(mostrando los 40 de mayor monto, de 365 en total)_
+_(mostrando los 40 de mayor monto, de 366 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | — | ⏳ Pendiente |
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 | 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | +$23,821 | ✅ Ganada |
 | cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | -$82,500 | ❌ Perdida |
 | 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
-| Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | -$35,556 | ❌ Perdida |
