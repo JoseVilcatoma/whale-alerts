@@ -37140,5 +37140,20 @@
     "status": "pending",
     "ultimo_fill": 1789164068,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5049,
+    "timestamp": 1789164991,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sd-sf-2026-09-11",
+    "title": "San Diego Padres vs. San Francisco Giants",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "usd": 43779.77,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789164991,
+    "fills": 1
   }
 ]
