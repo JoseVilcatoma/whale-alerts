@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 18:04:17 (hora de Perú)
+Actualizado: 2026-09-11 18:06:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2477**  ($134,406,105 en total)
+- Apuestas registradas: **2478**  ($134,447,370 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 365
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 2 | 65% | $20,476,385 | +$1,044,847 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 1 | 56% | $5,594,186 | -$26,452 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 2 | 56% | $5,635,450 | -$26,452 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 365 en total)_
 | 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | -$35,556 | ❌ Perdida |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
-| Herdonia | 49ers vs. Rams | Rams | 1.54 (65¢) | $88,153 | -$88,153 | ❌ Perdida |
