@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 23:33:16 (hora de Perú)
+Actualizado: 2026-09-10 23:35:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2426**  ($130,602,051 en total)
-- Resueltas: **2410** — 1456 ganadas / 954 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Resueltas: **2411** — 1456 ganadas / 955 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 360
 
 ### Balance
 
-- **Resultado de los apostadores: -$17,984** sobre $130,056,192 apostados (ROI **-0.0%**)
-- Copiando $100 fijo en cada una: **-$6,980** sobre $237,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: -$44,682** sobre $130,082,891 apostados (ROI **-0.0%**)
+- Copiando $100 fijo en cada una: **-$7,080** sobre $237,800 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | 49ers vs. Rams | Rams | 1.54 (65¢) | $118,487 | -$118,487 | ❌ Perdida |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | +$32,262 | ✅ Ganada |
-| OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | — | ⏳ Pendiente |
+| OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | -$26,698 | ❌ Perdida |
 | SDTrading | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | 0x78be…bde0 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $41,600 | +$16,178 | ✅ Ganada |
 | xifutloong3 | Texas Rangers vs. Seattle Mariners | Seattle Mariners | 1.92 (52¢) | $36,118 | +$33,340 | ✅ Ganada |
