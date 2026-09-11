@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 15:23:50 (hora de Perú)
+Actualizado: 2026-09-11 15:25:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2468**  ($133,974,765 en total)
-- Resueltas: **2423** — 1459 ganadas / 964 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Resueltas: **2424** — 1460 ganadas / 964 perdidas (**60%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$494,589** sobre $130,732,797 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,701** sobre $239,000 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$455,389** sobre $130,763,597 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$7,574** sobre $239,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 15 | 1 | 62% | $2,148,751 | -$523,735 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Diabolical-Prize | 16 | 19 | 1 | 46% | $1,789,272 | -$374,169 |
+| Diabolical-Prize | 17 | 19 | 0 | 47% | $1,789,272 | -$334,969 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | -$25,673 | ❌ Perdida |
 | BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
