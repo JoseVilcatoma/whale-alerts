@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 15:52:40 (hora de Perú)
+Actualizado: 2026-09-11 15:54:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2469**  ($134,068,188 en total)
-- Resueltas: **2425** — 1461 ganadas / 964 perdidas (**60%** de acierto)
+- Apuestas registradas: **2470**  ($134,112,187 en total)
+- Resueltas: **2426** — 1461 ganadas / 965 perdidas (**60%** de acierto)
 - Pendientes: 33
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$449,426** sobre $130,857,020 apostados (ROI **-0.3%**)
-- Copiando $100 fijo en cada una: **-$7,568** sobre $239,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$481,426** sobre $130,889,020 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,668** sobre $239,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
 | ripley86alien | 27 | 11 | 3 | 71% | $4,450,662 | +$1,335,649 |
 | totoro3miyazaki | 27 | 12 | 1 | 69% | $4,242,807 | +$134,601 |
-| pleaseplease123 | 50 | 34 | 1 | 60% | $3,617,507 | +$598,589 |
+| pleaseplease123 | 50 | 34 | 2 | 60% | $3,661,507 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | — | ⏳ Pendiente |
@@ -99,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
-| R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | — | ⏳ Pendiente |
+| R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | -$25,673 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | -$26,698 | ❌ Perdida |
 | SDTrading | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $36,000 | +$14,000 | ✅ Ganada |
 | 0x78be…bde0 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $41,600 | +$16,178 | ✅ Ganada |
-| xifutloong3 | Texas Rangers vs. Seattle Mariners | Seattle Mariners | 1.92 (52¢) | $36,118 | +$33,340 | ✅ Ganada |
