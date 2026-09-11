@@ -36480,5 +36480,20 @@
     "status": "pending",
     "ultimo_fill": 1789104947,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4966,
+    "timestamp": 1789107073,
+    "username": "0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887",
+    "wallet": "0xc74e958f3bd160cb0c6a782d664ad8440e27e725",
+    "slug": "cs2-mibr-all-2026-09-11",
+    "title": "Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789107073,
+    "fills": 1
   }
 ]
