@@ -36285,5 +36285,20 @@
     "status": "pending",
     "ultimo_fill": 1789083865,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4936,
+    "timestamp": 1789085003,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
+    "title": "Spread: Rams (-3.5)",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 51000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789085003,
+    "fills": 1
   }
 ]

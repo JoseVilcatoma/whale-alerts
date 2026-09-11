@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 19:01:32 (hora de Perú)
+Actualizado: 2026-09-10 19:03:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2414**  ($129,761,392 en total)
+- Apuestas registradas: **2415**  ($129,812,392 en total)
 - Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 357
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | — | ⏳ Pendiente |
 | SDTrading | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |
 | martingaleking | Patriots vs. Seahawks | Seahawks | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
-| chongchongpanda | Patriots vs. Seahawks: O/U 38.5 | Under 38.5 | 1.96 (51¢) | $25,401 | +$24,405 | ✅ Ganada |
