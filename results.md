@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 17:31:29 (hora de Perú)
+Actualizado: 2026-09-11 17:33:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2473**  ($134,265,984 en total)
+- Apuestas registradas: **2474**  ($134,291,951 en total)
 - Resueltas: **2449** — 1473 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 364
+- Pendientes: 14
+- Apostadores distintos: 365
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | 00gringo00 | 5 | 0 | 0 | ⚠️ 100% (5) | $552,081 | +$409,354 |
 
-_(mostrando los 40 de mayor monto, de 364 en total)_
+_(mostrando los 40 de mayor monto, de 365 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | — | ⏳ Pendiente |
 | Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Rams | 49ers | 2.86 (35¢) | $27,751 | +$51,537 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | 49ers vs. Rams | Rams | 1.54 (65¢) | $118,487 | -$118,487 | ❌ Perdida |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | +$32,262 | ✅ Ganada |
