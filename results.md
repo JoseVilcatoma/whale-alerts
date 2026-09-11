@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 19:42:35 (hora de Perú)
+Actualizado: 2026-09-10 19:44:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2421**  ($130,132,838 en total)
+- Apuestas registradas: **2422**  ($130,215,338 en total)
 - Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 11
-- Apostadores distintos: 359
+- Pendientes: 12
+- Apostadores distintos: 360
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 359 en total)_
+_(mostrando los 40 de mayor monto, de 360 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 359 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | +$5,411 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | +$48,803 | ✅ Ganada |
 | ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | +$4,151 | ✅ Ganada |
-| SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |

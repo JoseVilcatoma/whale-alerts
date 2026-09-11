@@ -36390,5 +36390,20 @@
     "status": "pending",
     "ultimo_fill": 1789086396,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1789087478,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-sf-la-2026-09-11",
+    "title": "49ers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 82500.0,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789087478,
+    "fills": 1
   }
 ]
