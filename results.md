@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 04:22:08 (hora de Perú)
+Actualizado: 2026-09-11 04:24:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2432**  ($130,987,146 en total)
+- Apuestas registradas: **2434**  ($131,314,630 en total)
 - Resueltas: **2416** — 1458 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 5
-- Apostadores distintos: 361
+- Pendientes: 7
+- Apostadores distintos: 362
 
 ### Balance
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 2 | 64% | $20,030,217 | +$1,008,691 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 3 | 64% | $20,279,985 | +$1,008,691 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 361 en total)_
+_(mostrando los 40 de mayor monto, de 362 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | — | ⏳ Pendiente |
+| joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | — | ⏳ Pendiente |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 | SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | +$51,924 | ✅ Ganada |
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | -$62,222 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | +$53,630 | ✅ Ganada |
-| Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | -$30,926 | ❌ Perdida |

@@ -36555,5 +36555,35 @@
     "status": "pending",
     "ultimo_fill": 1789112870,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4973,
+    "timestamp": 1789118242,
+    "username": "joshlul",
+    "wallet": "0xacc8d8391bab611e879454e36974b98bb2341df3",
+    "slug": "cs2-furia-g2-2026-09-11",
+    "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 77716.10999481338,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1789118242,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4974,
+    "timestamp": 1789118605,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-zverev-khachan-2026-09-11",
+    "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 249767.90476200005,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1789118605,
+    "fills": 1
   }
 ]
