@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 19:19:57 (hora de Perú)
+Actualizado: 2026-09-10 19:22:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2416**  ($129,930,879 en total)
+- Apuestas registradas: **2418**  ($130,046,783 en total)
 - Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 6
-- Apostadores distintos: 357
+- Pendientes: 8
+- Apostadores distintos: 358
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 357 en total)_
+_(mostrando los 40 de mayor monto, de 358 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Herdonia | 49ers vs. Rams | Rams | 1.54 (65¢) | $88,153 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Rams | 49ers | 2.86 (35¢) | $27,751 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | 49ers vs. Rams | Rams | 1.54 (65¢) | $118,487 | — | ⏳ Pendiente |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 357 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: G2 (-1.5) vs 9z (+1.5) | G2 | 2.27 (44¢) | $36,960 | -$36,960 | ❌ Perdida |
-| martingaleking | Patriots vs. Seahawks | Patriots | 1.25 (80¢) | $75,193 | -$75,193 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.92 (52¢) | $28,607 | -$28,607 | ❌ Perdida |

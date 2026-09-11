@@ -36315,5 +36315,35 @@
     "status": "pending",
     "ultimo_fill": 1789085843,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4938,
+    "timestamp": 1789086038,
+    "username": "Herdonia",
+    "wallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+    "slug": "nfl-sf-la-2026-09-11",
+    "title": "49ers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 88152.98999899998,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1789086038,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4939,
+    "timestamp": 1789086038,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-sf-la-2026-09-11",
+    "title": "49ers vs. Rams",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 27750.722999999998,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1789086038,
+    "fills": 1
   }
 ]
