@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:54:59 (hora de Perú)
+Actualizado: 2026-09-11 13:57:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2463**  ($133,719,367 en total)
+- Apuestas registradas: **2464**  ($133,745,975 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 364
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | — | ⏳ Pendiente |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.79 (56¢) | $32,095 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | — | ⏳ Pendiente |
 | ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | 0x8191…da72 | Manchester United FC vs. Sabah FK: 1st Half O/U 1.5 | Under 1.5 | 1.27 (79¢) | $37,783 | -$37,783 | ❌ Perdida |
 | 0x076d…8d4c | Will Manchester United FC win on 2026-09-10? | Yes | 1.10 (91¢) | $26,516 | +$2,622 | ✅ Ganada |
 | HMLSF | Manchester United FC vs. Sabah FK: O/U 4.5 | Under 4.5 | 1.89 (53¢) | $27,518 | +$24,402 | ✅ Ganada |
-| Zombie77 | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,251 | +$2,370 | ✅ Ganada |
