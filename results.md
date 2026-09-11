@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:09:19 (hora de Perú)
+Actualizado: 2026-09-11 13:11:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2443**  ($131,813,961 en total)
+- Apuestas registradas: **2444**  ($131,975,961 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 364
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | N34 | Will Fenerbahçe SK vs. AS Roma end in a draw? | No | 1.35 (74¢) | $25,900 | -$25,900 | ❌ Perdida |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: G2 vs 5star - Map 2 Winner | G2 | 1.18 (85¢) | $31,712 | +$5,596 | ✅ Ganada |
 | Hdisllbsj | Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner | GamerLegion | 1.43 (70¢) | $34,003 | -$34,003 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.75 (57¢) | $253,056 | +$190,902 | ✅ Ganada |
