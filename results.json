@@ -37215,5 +37215,20 @@
     "status": "pending",
     "ultimo_fill": 1789166690,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5054,
+    "timestamp": 1789166792,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "mlb-col-det-2026-09-11",
+    "title": "Colorado Rockies vs. Detroit Tigers",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "usd": 49875.157600000006,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1789166792,
+    "fills": 1
   }
 ]
