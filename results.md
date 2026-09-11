@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 10:59:33 (hora de Perú)
+Actualizado: 2026-09-11 11:01:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2438**  ($131,484,384 en total)
+- Apuestas registradas: **2439**  ($131,516,661 en total)
 - Resueltas: **2419** — 1458 ganadas / 961 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 362
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
-| pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
+| pleaseplease123 | 50 | 34 | 1 | 60% | $3,617,507 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $168,000 | -$168,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.50 (40¢) | $74,637 | -$74,637 | ❌ Perdida |
 | Parz1vaI | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.67 (60¢) | $36,000 | +$24,000 | ✅ Ganada |
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | -$25,980 | ❌ Perdida |
