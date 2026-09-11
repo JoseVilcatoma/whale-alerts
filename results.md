@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:44:22 (hora de Perú)
+Actualizado: 2026-09-11 13:46:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2458**  ($133,486,009 en total)
+- Apuestas registradas: **2459**  ($133,513,392 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 364
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 108 | 3 | 64% | $20,328,487 | +$960,189 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 108 | 4 | 64% | $20,355,870 | +$960,189 |
 | 3edmond.dantes | 20 | 20 | 2 | 50% | $6,079,387 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | — | ⏳ Pendiente |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | TrippleEX | Will FC Bayern München win on 2026-09-10? | Yes | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | xifutloong3 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays | 2.13 (47¢) | $38,460 | -$38,460 | ❌ Perdida |
-| NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | +$4,131 | ✅ Ganada |
