@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 16:19:20 (hora de Perú)
+Actualizado: 2026-09-11 16:21:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2470**  ($134,112,187 en total)
-- Resueltas: **2439** — 1469 ganadas / 970 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Resueltas: **2441** — 1470 ganadas / 971 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: +$249,900** sobre $132,068,703 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,348** sobre $240,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$235,623** sobre $132,132,980 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,391** sobre $240,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
 | ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
 | totoro3miyazaki | 27 | 12 | 1 | 69% | $4,242,807 | +$134,601 |
-| pleaseplease123 | 50 | 34 | 2 | 60% | $3,661,507 | +$598,589 |
+| pleaseplease123 | 50 | 35 | 1 | 59% | $3,661,507 | +$566,312 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 8 | 1 | 43% | $866,219 | -$213,088 |
-| 0x78be…bde0 | 12 | 8 | 1 | 60% | $792,029 | -$132,125 |
+| 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | ndb1 | 6 | 6 | 1 | 50% | $683,277 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
@@ -99,10 +99,10 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $392,092 | +$442,146 | ✅ Ganada |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | — | ⏳ Pendiente |
-| 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
+| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | -$32,277 | ❌ Perdida |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | -$25,673 | ❌ Perdida |
 | BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | -$48,502 | ❌ Perdida |

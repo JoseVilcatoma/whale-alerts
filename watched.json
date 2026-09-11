@@ -23,10 +23,6 @@
     "username": "",
     "added_at": 1788271966.537002
   },
-  "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
-    "username": "Jsram",
-    "added_at": 1788552851.1888578
-  },
   "0x42477970683d4d0a52ec7082fee5d760cc5591c4": {
     "username": "",
     "added_at": 1788563715.728718
@@ -462,5 +458,9 @@
   "0x397062018dfb77e855608fe23223592bc82c44ce": {
     "username": "11vsldfdsgfkjgos",
     "added_at": 1789137898.7935605
+  },
+  "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0": {
+    "username": "",
+    "added_at": 1789161638.4789064
   }
 }
