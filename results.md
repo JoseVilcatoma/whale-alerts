@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 21:34:05 (hora de Perú)
+Actualizado: 2026-09-10 21:36:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2426**  ($130,602,051 en total)
-- Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2400** — 1451 ganadas / 949 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 360
 
 ### Balance
 
-- **Resultado de los apostadores: +$395,999** sobre $129,257,112 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,026** sobre $236,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$428,261** sobre $129,286,892 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$6,917** sobre $236,700 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 2 | 64% | $20,030,217 | +$1,008,691 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 72 | 58 | 3 | 55% | $5,557,286 | -$50,832 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 58 | 2 | 56% | $5,557,286 | -$18,570 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
 | pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Rams | 49ers | 2.86 (35¢) | $27,751 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | 49ers vs. Rams | Rams | 1.54 (65¢) | $118,487 | — | ⏳ Pendiente |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates | 2.08 (48¢) | $29,781 | +$32,262 | ✅ Ganada |
 | OhWhenTheReds | Will CR Flamengo win on 2026-09-10? | No | 1.67 (60¢) | $26,698 | — | ⏳ Pendiente |
 | SDTrading | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $36,000 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Colorado Rockies vs. New York Yankees | New York Yankees | 1.39 (72¢) | $41,600 | — | ⏳ Pendiente |
