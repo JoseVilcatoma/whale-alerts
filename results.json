@@ -36690,5 +36690,35 @@
     "status": "pending",
     "ultimo_fill": 1789147185,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4989,
+    "timestamp": 1789149222,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "mlb-pit-chc-2026-09-11",
+    "title": "Pittsburgh Pirates vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "usd": 31999.999999000003,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789149222,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4990,
+    "timestamp": 1789149280,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "atp-zverev-khachan-2026-09-11",
+    "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 202499.9919,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1789149280,
+    "fills": 1
   }
 ]
