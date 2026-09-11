@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 22:42:18 (hora de Perú)
+Actualizado: 2026-09-10 22:44:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2426**  ($130,602,051 en total)
-- Resueltas: **2402** — 1453 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Resueltas: **2404** — 1455 ganadas / 949 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 360
 
 ### Balance
 
-- **Resultado de los apostadores: +$458,439** sobre $129,364,492 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$6,840** sobre $236,900 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$521,836** sobre $129,437,085 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$6,666** sobre $237,100 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 2 | 64% | $20,030,217 | +$1,008,691 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 73 | 58 | 2 | 56% | $5,557,286 | -$18,570 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 58 | 1 | 56% | $5,557,286 | +$21,006 |
 | totoro3miyazaki | 27 | 12 | 0 | 69% | $4,067,077 | +$134,601 |
 | ripley86alien | 27 | 11 | 0 | 71% | $3,828,850 | +$1,335,649 |
 | pleaseplease123 | 50 | 34 | 0 | 60% | $3,585,230 | +$598,589 |
@@ -73,8 +73,8 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 |---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49ers vs. Rams: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $47,458 | — | ⏳ Pendiente |
 | ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | — | ⏳ Pendiente |
-| 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | +$39,576 | ✅ Ganada |
+| 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | +$23,821 | ✅ Ganada |
 | cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | — | ⏳ Pendiente |
 | 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
