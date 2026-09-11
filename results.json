@@ -36585,5 +36585,20 @@
     "status": "pending",
     "ultimo_fill": 1789118605,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4978,
+    "timestamp": 1789131815,
+    "username": "mimi121",
+    "wallet": "0x14af7564566edfd07d1996ae8b08d6235d7aca2c",
+    "slug": "cs2-1win-nemi1-2026-09-11",
+    "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "usd": 45580.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789131815,
+    "fills": 1
   }
 ]
