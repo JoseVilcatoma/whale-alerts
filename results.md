@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 15:56:47 (hora de Perú)
+Actualizado: 2026-09-11 15:58:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2470**  ($134,112,187 en total)
-- Resueltas: **2426** — 1461 ganadas / 965 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **2427** — 1462 ganadas / 965 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$481,426** sobre $130,889,020 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,668** sobre $239,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$471,805** sobre $130,916,404 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,633** sobre $239,400 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 194 | 108 | 5 | 64% | $20,476,385 | +$966,152 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 195 | 108 | 4 | 64% | $20,476,385 | +$975,773 |
 | 3edmond.dantes | 20 | 20 | 3 | 50% | $6,181,086 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | — | ⏳ Pendiente |
 | ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $39,519 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw? | No | 1.35 (74¢) | $27,384 | +$9,621 | ✅ Ganada |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.50 (40¢) | $97,527 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | — | ⏳ Pendiente |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | — | ⏳ Pendiente |
