@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 07:06:11 (hora de Perú)
+Actualizado: 2026-09-11 07:08:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2434**  ($131,314,630 en total)
-- Resueltas: **2416** — 1458 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2419** — 1458 ganadas / 961 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 362
 
 ### Balance
 
-- **Resultado de los apostadores: -$121,641** sobre $130,259,849 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$7,201** sobre $238,300 (ROI **-3.0%**)
+- **Resultado de los apostadores: -$424,835** sobre $130,563,043 apostados (ROI **-0.3%**)
+- Copiando $100 fijo en cada una: **-$7,501** sobre $238,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | — | ⏳ Pendiente |
-| joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | — | ⏳ Pendiente |
-| HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | — | ⏳ Pendiente |
-| 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | — | ⏳ Pendiente |
+| joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
+| HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
+| 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
