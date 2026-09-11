@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:21:31 (hora de Perú)
+Actualizado: 2026-09-11 13:23:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2454**  ($133,118,922 en total)
+- Apuestas registradas: **2455**  ($133,184,668 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 364
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 2 | 46% | $866,219 | -$107,088 |
 | BrotherObama | 5 | 10 | 1 | 33% | $825,495 | +$12,872 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 1 | 46% | $800,473 | -$107,088 |
 | 0x78be…bde0 | 12 | 8 | 1 | 60% | $792,029 | -$132,125 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | — | ⏳ Pendiente |
 | hansama231 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $72,315 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | +$3,268 | ✅ Ganada |
