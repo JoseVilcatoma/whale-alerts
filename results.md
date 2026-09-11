@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 20:11:34 (hora de Perú)
+Actualizado: 2026-09-10 20:13:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2424**  ($130,287,931 en total)
+- Apuestas registradas: **2425**  ($130,554,592 en total)
 - Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 360
 
 ### Balance
@@ -44,9 +44,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 17 | 16 | 0 | 52% | $1,662,839 | -$88,417 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| ferrariChampions2026 | 21 | 10 | 1 | 68% | $1,321,273 | -$139,361 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| ferrariChampions2026 | 21 | 10 | 0 | 68% | $1,054,612 | -$139,361 |
 | SDTrading | 15 | 17 | 1 | 47% | $983,337 | -$113,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | — | ⏳ Pendiente |
 | 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | — | ⏳ Pendiente |
 | cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 360 en total)_
 | Diabolical-Prize | Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A | MIBR | 2.22 (45¢) | $45,000 | -$45,000 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.79 (56¢) | $47,881 | -$47,881 | ❌ Perdida |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1 Winner | Legacy | 1.52 (66¢) | $117,541 | +$60,551 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $48,699 | +$5,411 | ✅ Ganada |
