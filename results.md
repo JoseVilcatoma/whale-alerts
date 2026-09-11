@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:27:35 (hora de Perú)
+Actualizado: 2026-09-11 13:29:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2456**  ($133,332,298 en total)
+- Apuestas registradas: **2456**  ($133,358,148 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 364
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $147,630 | — | ⏳ Pendiente |
+| 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | — | ⏳ Pendiente |
