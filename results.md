@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:25:34 (hora de Perú)
+Actualizado: 2026-09-11 13:27:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2455**  ($133,184,668 en total)
+- Apuestas registradas: **2456**  ($133,332,298 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 364
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $147,630 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | — | ⏳ Pendiente |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | NemanjaWC | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $37,175 | +$4,131 | ✅ Ganada |
 | ChayEhc | Will AS Roma win on 2026-09-10? | Yes | 2.00 (50¢) | $80,000 | -$80,000 | ❌ Perdida |
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
