@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 08:56:27 (hora de Perú)
+Actualizado: 2026-09-11 08:58:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2435**  ($131,360,210 en total)
+- Apuestas registradas: **2436**  ($131,408,712 en total)
 - Resueltas: **2419** — 1458 ganadas / 961 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 362
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 3 | 64% | $20,279,985 | +$1,008,691 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 193 | 107 | 4 | 64% | $20,328,487 | +$1,008,691 |
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | — | ⏳ Pendiente |
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 362 en total)_
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | magic | 2.63 (38¢) | $25,980 | -$25,980 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.61 (62¢) | $294,338 | +$180,401 | ✅ Ganada |
 | SemyonMarmeladov | Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B | Alliance | 1.52 (66¢) | $33,000 | +$17,000 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $40,798 | +$51,924 | ✅ Ganada |
