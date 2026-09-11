@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 02:46:44 (hora de Perú)
+Actualizado: 2026-09-11 02:48:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2431**  ($130,958,507 en total)
+- Apuestas registradas: **2432**  ($130,987,146 en total)
 - Resueltas: **2415** — 1457 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 361
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 | 110thst | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | B8 | 1.79 (56¢) | $62,222 | -$62,222 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.27 (44¢) | $42,138 | +$53,630 | ✅ Ganada |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 1.67 (60¢) | $30,926 | -$30,926 | ❌ Perdida |
-| Noprajsk | Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner | MIBR | 2.70 (37¢) | $239,602 | -$239,602 | ❌ Perdida |
