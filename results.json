@@ -36360,5 +36360,35 @@
     "status": "pending",
     "ultimo_fill": 1789086335,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 4941,
+    "timestamp": 1789086382,
+    "username": "Tiger200",
+    "wallet": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+    "slug": "nfl-sf-la-2026-09-11",
+    "title": "49ers vs. Rams",
+    "outcome": "Rams",
+    "side": "BUY",
+    "usd": 35555.555556,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789086382,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4942,
+    "timestamp": 1789086396,
+    "username": "0x78be\u2026bde0",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
+    "title": "Spread: Rams (-3.5)",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789086396,
+    "fills": 1
   }
 ]

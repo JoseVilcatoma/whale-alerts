@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-10 19:26:07 (hora de Perú)
+Actualizado: 2026-09-10 19:28:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2419**  ($130,072,283 en total)
+- Apuestas registradas: **2421**  ($130,132,838 en total)
 - Resueltas: **2399** — 1450 ganadas / 949 perdidas (**60%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 358
+- Pendientes: 11
+- Apostadores distintos: 359
 
 ### Balance
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | BrotherObama | 4 | 10 | 1 | 29% | $775,495 | -$37,128 |
-| 0x78be…bde0 | 10 | 8 | 1 | 56% | $735,029 | -$173,303 |
+| 0x78be…bde0 | 10 | 8 | 2 | 56% | $760,029 | -$173,303 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 7 | 0 | 46% | $694,473 | -$107,088 |
 | ndb1 | 6 | 6 | 0 | 50% | $640,684 | +$61,501 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ChinesePro | 2 | 11 | 0 | 15% | $555,323 | -$421,323 |
 | sulumos | 3 | 10 | 0 | 23% | $551,789 | -$361,067 |
 
-_(mostrando los 40 de mayor monto, de 358 en total)_
+_(mostrando los 40 de mayor monto, de 359 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x78be…bde0 | Spread: Rams (-3.5) | 49ers | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| Tiger200 | 49ers vs. Rams | Rams | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Feromont | Spread: Rams (-3.5) | Rams | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Herdonia | 49ers vs. Rams | Rams | 1.54 (65¢) | $88,153 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Rams | 49ers | 2.86 (35¢) | $27,751 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 358 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: PARIVISION vs magic - Map 2 Winner | magic | 2.63 (38¢) | $29,912 | +$48,803 | ✅ Ganada |
 | ptrck7 | Will FC Bayern München win on 2026-09-10? | Yes | 1.11 (90¢) | $37,357 | +$4,151 | ✅ Ganada |
 | SkyonX | Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A | 9z | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Patriots vs. Seahawks | Patriots | 1.75 (57¢) | $33,651 | -$33,651 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers | 1.39 (72¢) | $86,346 | +$33,579 | ✅ Ganada |
