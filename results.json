@@ -37080,5 +37080,20 @@
     "status": "pending",
     "ultimo_fill": 1789155662,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5018,
+    "timestamp": 1789156789,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-zverev-khachan-2026-09-11",
+    "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 27092.2925,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1789156789,
+    "fills": 1
   }
 ]
