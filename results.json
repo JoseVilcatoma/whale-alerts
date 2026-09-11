@@ -36760,11 +36760,11 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 134114.8098,
+    "usd": 392091.6998,
     "odds_at_bet": 47,
     "status": "pending",
-    "ultimo_fill": 1789150385,
-    "fills": 3
+    "ultimo_fill": 1789150509,
+    "fills": 7
   },
   {
     "telegram_msg_id": 4996,
@@ -36779,6 +36779,21 @@
     "odds_at_bet": 82,
     "status": "pending",
     "ultimo_fill": 1789150374,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 4997,
+    "timestamp": 1789150415,
+    "username": "matanovik",
+    "wallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+    "slug": "fl1-ren-olm-2026-09-11-ren",
+    "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 33867.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789150415,
     "fills": 1
   }
 ]
