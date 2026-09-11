@@ -36820,11 +36820,11 @@
     "title": "Will Sevilla FC win on 2026-09-11?",
     "outcome": "Yes",
     "side": "BUY",
-    "usd": 110729.5377,
+    "usd": 175729.5377,
     "odds_at_bet": 52,
     "status": "pending",
-    "ultimo_fill": 1789150752,
-    "fills": 3
+    "ultimo_fill": 1789150805,
+    "fills": 4
   },
   {
     "telegram_msg_id": 5000,
@@ -36854,6 +36854,36 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1789150715,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5002,
+    "timestamp": 1789150862,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "fl1-ren-olm-2026-09-11-ren",
+    "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 59154.869999999995,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789150868,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 5003,
+    "timestamp": 1789150865,
+    "username": "GrizzliesSuck",
+    "wallet": "0x412fe1a101554f0b382181c3af932e4b2d8030fa",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 37136.8608,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789150865,
     "fills": 1
   }
 ]

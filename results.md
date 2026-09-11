@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 13:19:29 (hora de Perú)
+Actualizado: 2026-09-11 13:21:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2452**  ($132,957,630 en total)
+- Apuestas registradas: **2454**  ($133,118,922 en total)
 - Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 21
 - Apostadores distintos: 364
 
 ### Balance
@@ -28,8 +28,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 20 | 20 | 0 | 50% | $5,951,527 | -$1,892,317 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 59 | 0 | 56% | $5,557,286 | -$26,452 |
-| ripley86alien | 27 | 11 | 2 | 71% | $4,391,508 | +$1,335,649 |
-| totoro3miyazaki | 27 | 12 | 1 | 69% | $4,177,807 | +$134,601 |
+| ripley86alien | 27 | 11 | 3 | 71% | $4,450,662 | +$1,335,649 |
+| totoro3miyazaki | 27 | 12 | 1 | 69% | $4,242,807 | +$134,601 |
 | pleaseplease123 | 50 | 34 | 1 | 60% | $3,617,507 | +$598,589 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,9 +71,11 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | — | ⏳ Pendiente |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | — | ⏳ Pendiente |
 | hansama231 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $72,315 | — | ⏳ Pendiente |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $170,565 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $110,730 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | — | ⏳ Pendiente |
 | bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | — | ⏳ Pendiente |
 | matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | — | ⏳ Pendiente |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | Elaran1993 | Fenerbahçe SK vs. AS Roma: O/U 3.5 | Under 3.5 | 1.64 (61¢) | $50,724 | +$32,430 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0x71Ac3cBB40647cB6DA6fa0Dc2923999Ad9c4d2b1-1781559429592 | Will FC Bayern München win on 2026-09-10? | Yes | 1.10 (91¢) | $33,044 | +$3,268 | ✅ Ganada |
-| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| nigiri99 | Will Manchester United FC win on 2026-09-10? | Yes | 1.11 (90¢) | $45,609 | +$5,068 | ✅ Ganada |
