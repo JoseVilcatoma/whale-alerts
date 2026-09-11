@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 14:11:22 (hora de Perú)
+Actualizado: 2026-09-11 14:13:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2465**  ($133,775,975 en total)
-- Resueltas: **2422** — 1459 ganadas / 963 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Resueltas: **2423** — 1459 ganadas / 964 perdidas (**60%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 364
 
 ### Balance
 
-- **Resultado de los apostadores: -$468,917** sobre $130,707,125 apostados (ROI **-0.4%**)
-- Copiando $100 fijo en cada una: **-$7,601** sobre $238,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: -$494,589** sobre $130,732,797 apostados (ROI **-0.4%**)
+- Copiando $100 fijo en cada una: **-$7,701** sobre $239,000 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 364 en total)_
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | — | ⏳ Pendiente |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | — | ⏳ Pendiente |
-| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | — | ⏳ Pendiente |
+| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | -$25,673 | ❌ Perdida |
 | BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | -$48,502 | ❌ Perdida |
 | mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | -$45,580 | ❌ Perdida |
