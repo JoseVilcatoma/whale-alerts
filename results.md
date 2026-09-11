@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 03:21:33 (hora de Perú)
+Actualizado: 2026-09-11 04:20:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2432**  ($130,987,146 en total)
-- Resueltas: **2415** — 1457 ganadas / 958 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2416** — 1458 ganadas / 958 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 361
 
 ### Balance
 
-- **Resultado de los apostadores: -$143,641** sobre $130,231,849 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$7,280** sobre $238,200 (ROI **-3.1%**)
+- **Resultado de los apostadores: -$121,641** sobre $130,259,849 apostados (ROI **-0.1%**)
+- Copiando $100 fijo en cada una: **-$7,201** sobre $238,300 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 361 en total)_
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | — | ⏳ Pendiente |
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | — | ⏳ Pendiente |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | — | ⏳ Pendiente |
-| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
+| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49ers vs. Rams: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $47,458 | -$47,458 | ❌ Perdida |
 | ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | -$266,662 | ❌ Perdida |
