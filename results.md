@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 15:39:20 (hora de Perú)
+Actualizado: 2026-09-12 15:41:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2591**  ($140,719,400 en total)
+- Apuestas registradas: **2592**  ($140,774,872 en total)
 - Resueltas: **2533** — 1522 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 376
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
-| Sassy-Bucket | 19 | 19 | 5 | 50% | $2,060,976 | -$15,771 |
+| Sassy-Bucket | 19 | 19 | 6 | 50% | $2,116,448 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | — | ⏳ Pendiente |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | — | ⏳ Pendiente |
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | +$23,520 | ✅ Ganada |
-| lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
