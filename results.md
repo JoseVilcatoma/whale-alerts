@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:58:17 (hora de Perú)
+Actualizado: 2026-09-12 14:00:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2573**  ($139,859,051 en total)
+- Apuestas registradas: **2575**  ($140,012,896 en total)
 - Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 375
 
 ### Balance
@@ -24,16 +24,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 109 | 5 | 64% | $20,789,740 | +$1,023,671 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 109 | 6 | 64% | $20,823,448 | +$1,023,671 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 11 | 1 | 73% | $4,546,162 | +$2,026,659 |
+| ripley86alien | 30 | 11 | 2 | 73% | $4,594,493 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 0 | 60% | $3,750,089 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| wr0ngw4yb3tt0r | 24 | 16 | 3 | 60% | $2,457,504 | -$615,503 |
+| wr0ngw4yb3tt0r | 24 | 16 | 3 | 60% | $2,529,309 | -$615,503 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $125,076 | — | ⏳ Pendiente |
+| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $196,880 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $173,740 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $142,601 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
 | zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | +$3,910 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
-| nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
