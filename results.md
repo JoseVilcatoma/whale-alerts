@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:48:05 (hora de Perú)
+Actualizado: 2026-09-12 13:50:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2567**  ($139,216,805 en total)
+- Apuestas registradas: **2567**  ($139,278,262 en total)
 - Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
 - Pendientes: 36
 - Apostadores distintos: 375
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $46,163 | — | ⏳ Pendiente |
+| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | — | ⏳ Pendiente |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | — | ⏳ Pendiente |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
