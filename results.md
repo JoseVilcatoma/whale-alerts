@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 04:02:05 (hora de Perú)
+Actualizado: 2026-09-12 04:04:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2509**  ($136,066,834 en total)
+- Apuestas registradas: **2512**  ($136,343,929 en total)
 - Resueltas: **2481** — 1497 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 370
+- Pendientes: 20
+- Apostadores distintos: 371
 
 ### Balance
 
@@ -37,9 +37,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
+| Diabolical-Prize | 17 | 19 | 2 | 47% | $1,966,243 | -$334,969 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 19 | 19 | 0 | 50% | $1,825,007 | -$15,771 |
-| Diabolical-Prize | 17 | 19 | 1 | 47% | $1,819,243 | -$334,969 |
 | Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| BrotherObama | 7 | 10 | 5 | 41% | $1,082,524 | +$110,127 |
+| BrotherObama | 7 | 10 | 6 | 41% | $1,182,524 | +$110,127 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 0 | 67% | $573,347 | -$4,560 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 
-_(mostrando los 40 de mayor monto, de 370 en total)_
+_(mostrando los 40 de mayor monto, de 371 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| meoooow | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.96 (51¢) | $30,096 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | — | ⏳ Pendiente |
 | mitsuike | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.27 (79¢) | $35,971 | — | ⏳ Pendiente |
 | ptrck7 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $29,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 370 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | -$65,746 | ❌ Perdida |
 | GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | -$37,137 | ❌ Perdida |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | +$64,084 | ✅ Ganada |
-| hansama231 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $72,315 | -$72,315 | ❌ Perdida |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $170,565 | +$184,779 | ✅ Ganada |
-| totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | +$162,212 | ✅ Ganada |

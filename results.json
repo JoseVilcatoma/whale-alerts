@@ -37710,5 +37710,50 @@
     "status": "pending",
     "ultimo_fill": 1789200816,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5121,
+    "timestamp": 1789203259,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-al-ig1-2026-09-12",
+    "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+    "outcome": "Anyones Legend",
+    "side": "BUY",
+    "usd": 100000.00000677332,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789203259,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5122,
+    "timestamp": 1789203244,
+    "username": "meoooow",
+    "wallet": "0xd202bf6d89dc6bab1b9f00ead175f75466348973",
+    "slug": "lol-al-ig1-2026-09-12",
+    "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 30095.61,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789203244,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5123,
+    "timestamp": 1789203006,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-al-ig1-2026-09-12",
+    "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+    "outcome": "Anyones Legend",
+    "side": "BUY",
+    "usd": 147000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789203006,
+    "fills": 1
   }
 ]
