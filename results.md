@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 08:58:36 (hora de Perú)
+Actualizado: 2026-09-12 09:00:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2531**  ($137,370,055 en total)
-- Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **2493** — 1505 ganadas / 988 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 371
 
 ### Balance
 
-- **Resultado de los apostadores: +$831,146** sobre $135,371,613 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,059** sobre $245,900 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$858,146** sobre $135,399,715 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$6,963** sobre $246,000 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
-| Diabolical-Prize | 18 | 19 | 3 | 49% | $2,031,545 | -$314,988 |
+| Diabolical-Prize | 19 | 19 | 2 | 50% | $2,031,545 | -$287,988 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 19 | 19 | 0 | 50% | $1,825,007 | -$15,771 |
 | Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | +$27,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | — | ⏳ Pendiente |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
