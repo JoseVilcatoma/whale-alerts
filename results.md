@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 12:57:10 (hora de Perú)
+Actualizado: 2026-09-12 12:59:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2560**  ($138,825,109 en total)
-- Resueltas: **2509** — 1511 ganadas / 998 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Resueltas: **2510** — 1511 ganadas / 999 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$482,751** sobre $136,462,347 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,602** sobre $247,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$438,194** sobre $136,506,904 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,702** sobre $247,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
 | 00gringo00 | 5 | 1 | 0 | ⚠️ 83% (6) | $856,111 | +$105,324 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| plonker2026 | 6 | 8 | 3 | 43% | $765,725 | -$193,548 |
+| plonker2026 | 6 | 9 | 2 | 40% | $765,725 | -$238,105 |
 | gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
 | Jsram | 9 | 4 | 3 | 69% | $685,612 | +$52,157 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | -$50,833 | ❌ Perdida |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | +$8,441 | ✅ Ganada |
 | 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | -$304,030 | ❌ Perdida |
-| plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
+| plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | -$44,557 | ❌ Perdida |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | -$35,338 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | +$27,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
