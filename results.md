@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:01:59 (hora de Perú)
+Actualizado: 2026-09-12 10:04:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2531**  ($137,370,055 en total)
-- Resueltas: **2494** — 1505 ganadas / 989 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2497** — 1507 ganadas / 990 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 371
 
 ### Balance
 
-- **Resultado de los apostadores: +$814,014** sobre $135,443,847 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,063** sobre $246,100 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$1,036,919** sobre $135,720,943 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,959** sobre $246,400 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
-| Diabolical-Prize | 19 | 19 | 2 | 50% | $2,031,545 | -$287,988 |
+| Diabolical-Prize | 20 | 19 | 1 | 51% | $2,031,545 | -$134,988 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 19 | 19 | 0 | 50% | $1,825,007 | -$15,771 |
 | Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 1 | 95% | $1,333,966 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| BrotherObama | 8 | 13 | 3 | 38% | $1,212,524 | +$14,323 |
+| BrotherObama | 9 | 13 | 2 | 41% | $1,212,524 | +$114,323 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -90,9 +90,9 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
 | Zywoo123 | LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
-| BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
-| meoooow | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.96 (51¢) | $30,096 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
+| meoooow | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.96 (51¢) | $30,096 | -$30,096 | ❌ Perdida |
+| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | +$153,000 | ✅ Ganada |
 | mitsuike | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.27 (79¢) | $35,971 | +$9,562 | ✅ Ganada |
 | ptrck7 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $29,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | -$35,975 | ❌ Perdida |
