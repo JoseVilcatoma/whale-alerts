@@ -39062,5 +39062,20 @@
     "status": "pending",
     "ultimo_fill": 1789249258,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5290,
+    "timestamp": 1789249535,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-cur1-wal2-2026-09-12",
+    "title": "Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card)",
+    "outcome": "Curtis Blaydes",
+    "side": "BUY",
+    "usd": 65139.74820000001,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1789249535,
+    "fills": 1
   }
 ]

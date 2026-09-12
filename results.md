@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:45:19 (hora de Perú)
+Actualizado: 2026-09-12 16:47:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2599**  ($141,050,216 en total)
+- Apuestas registradas: **2600**  ($141,115,356 en total)
 - Resueltas: **2558** — 1540 ganadas / 1018 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 377
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
+| Talvez10 | 7 | 4 | 1 | 64% | $694,029 | +$244,985 |
 | Jsram | 12 | 4 | 0 | 75% | $685,612 | +$112,891 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
-| Talvez10 | 7 | 4 | 0 | 64% | $628,889 | +$244,985 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Curtis Blaydes | 2.63 (38¢) | $65,140 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | — | ⏳ Pendiente |
 | Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | — | ⏳ Pendiente |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | -$35,272 | ❌ Perdida |
 | phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | -$29,707 | ❌ Perdida |
-| SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
