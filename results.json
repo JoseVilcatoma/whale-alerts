@@ -37512,7 +37512,7 @@
     "side": "BUY",
     "usd": 47028.82,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789189112,
     "fills": 1
   },
@@ -37542,7 +37542,7 @@
     "side": "BUY",
     "usd": 29999.999999999996,
     "odds_at_bet": 41,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789189685,
     "fills": 1
   },
@@ -37647,7 +37647,7 @@
     "side": "BUY",
     "usd": 30000.000000000004,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789197182,
     "fills": 1
   },
@@ -37662,7 +37662,7 @@
     "side": "BUY",
     "usd": 26400.0,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789198061,
     "fills": 1
   },
@@ -37677,7 +37677,7 @@
     "side": "BUY",
     "usd": 35975.25,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789198756,
     "fills": 1
   },
@@ -37707,7 +37707,7 @@
     "side": "BUY",
     "usd": 35970.94,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789200816,
     "fills": 1
   },
@@ -37785,5 +37785,20 @@
     "status": "pending",
     "ultimo_fill": 1789204020,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5127,
+    "timestamp": 1789206875,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-bb3-g2-2026-09-12",
+    "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 25200.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1789206875,
+    "fills": 1
   }
 ]
