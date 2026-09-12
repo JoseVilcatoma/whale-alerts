@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 03:25:50 (hora de Perú)
+Actualizado: 2026-09-12 04:00:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2509**  ($136,066,834 en total)
-- Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2481** — 1497 ganadas / 984 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 370
 
 ### Balance
 
-- **Resultado de los apostadores: +$792,365** sobre $134,862,821 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,159** sobre $244,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$817,123** sobre $134,894,331 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,080** sobre $244,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 370 en total)_
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR | 1.67 (60¢) | $29,971 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
-| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | — | ⏳ Pendiente |
+| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | +$24,759 | ✅ Ganada |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | mooseborzoi | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $35,897 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.50 (40¢) | $47,029 | — | ⏳ Pendiente |
