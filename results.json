@@ -38295,5 +38295,20 @@
     "status": "pending",
     "ultimo_fill": 1789229967,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5185,
+    "timestamp": 1789230037,
+    "username": "ChayEhc",
+    "wallet": "0xa9bb7b5ef3d2e8ddb498ac251a4ec144e089701b",
+    "slug": "lal-bil-elc-2026-09-12-spread-home-1pt5",
+    "title": "Spread: Athletic Club (-1.5)",
+    "outcome": "Athletic Club",
+    "side": "BUY",
+    "usd": 99000.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789230060,
+    "fills": 2
   }
 ]
