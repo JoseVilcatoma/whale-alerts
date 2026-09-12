@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:17:44 (hora de Perú)
+Actualizado: 2026-09-12 11:19:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2546**  ($138,105,339 en total)
+- Apuestas registradas: **2548**  ($138,187,311 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 374
 
 ### Balance
@@ -36,11 +36,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
+| wr0ngw4yb3tt0r | 24 | 16 | 1 | 60% | $2,189,827 | -$615,503 |
 | Diabolical-Prize | 21 | 19 | 1 | 52% | $2,104,659 | -$112,188 |
 | Sassy-Bucket | 19 | 19 | 2 | 50% | $1,905,385 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
+| Weaseloftheweek | 18 | 16 | 1 | 53% | $1,768,949 | -$35,059 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | — | ⏳ Pendiente |
+| Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | -$25,468 | ❌ Perdida |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | +$30,172 | ✅ Ganada |
-| vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | -$25,618 | ❌ Perdida |
-| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | -$25,937 | ❌ Perdida |
