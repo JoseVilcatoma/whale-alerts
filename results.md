@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:12:37 (hora de Perú)
+Actualizado: 2026-09-12 00:14:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2498**  ($135,518,614 en total)
+- Apuestas registradas: **2499**  ($135,550,125 en total)
 - Resueltas: **2470** — 1491 ganadas / 979 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 367
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | mooseborzoi | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $35,897 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.50 (40¢) | $47,029 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | -$32,277 | ❌ Perdida |
