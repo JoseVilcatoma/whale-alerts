@@ -37290,5 +37290,20 @@
     "status": "pending",
     "ultimo_fill": 1789170632,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5066,
+    "timestamp": 1789171570,
+    "username": "0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121",
+    "wallet": "0x17c4f7e008fe22d69865f73f29329b6e76b92471",
+    "slug": "mlb-cle-min-2026-09-11",
+    "title": "Cleveland Guardians vs. Minnesota Twins",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "usd": 140113.75,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789171570,
+    "fills": 3
   }
 ]

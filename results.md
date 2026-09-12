@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 19:04:29 (hora de Perú)
+Actualizado: 2026-09-11 19:06:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2481**  ($134,568,665 en total)
+- Apuestas registradas: **2482**  ($134,708,779 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 366
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | — | ⏳ Pendiente |
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | -$266,662 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.89 (53¢) | $44,628 | +$39,576 | ✅ Ganada |
 | 0xwise | US Open WTA: Coco Gauff vs Elena Rybakina | Elena Rybakina | 1.85 (54¢) | $27,964 | +$23,821 | ✅ Ganada |
-| cosmicxbt | 49ers vs. Rams | Rams | 1.82 (55¢) | $82,500 | -$82,500 | ❌ Perdida |
