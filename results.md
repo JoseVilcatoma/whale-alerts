@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 17:34:28 (hora de Perú)
+Actualizado: 2026-09-12 17:36:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2603**  ($141,223,305 en total)
-- Resueltas: **2563** — 1543 ganadas / 1020 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Resueltas: **2565** — 1544 ganadas / 1021 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$497,634** sobre $139,614,604 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,712** sobre $252,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$574,051** sobre $139,709,609 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,649** sobre $253,000 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 20 | 0 | 52% | $2,186,659 | -$111,741 |
-| Sassy-Bucket | 22 | 21 | 2 | 51% | $2,146,312 | -$25,641 |
+| Sassy-Bucket | 22 | 22 | 1 | 50% | $2,146,312 | -$55,505 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
-| Talvez10 | 7 | 4 | 1 | 64% | $694,029 | +$244,985 |
+| Talvez10 | 8 | 4 | 0 | 67% | $694,029 | +$351,266 |
 | Jsram | 12 | 4 | 0 | 75% | $685,612 | +$112,891 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
-| Talvez10 | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Curtis Blaydes | 2.63 (38¢) | $65,140 | — | ⏳ Pendiente |
+| Talvez10 | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Curtis Blaydes | 2.63 (38¢) | $65,140 | +$106,281 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | — | ⏳ Pendiente |
-| Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | — | ⏳ Pendiente |
+| Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | -$29,864 | ❌ Perdida |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
