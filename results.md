@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 20:25:19 (hora de Perú)
+Actualizado: 2026-09-11 20:27:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2487**  ($135,119,249 en total)
+- Apuestas registradas: **2488**  ($135,144,868 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 366
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | — | ⏳ Pendiente |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | — | ⏳ Pendiente |
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | +$50,102 | ✅ Ganada |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | -$55,369 | ❌ Perdida |
-| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |

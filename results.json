@@ -37380,5 +37380,20 @@
     "status": "pending",
     "ultimo_fill": 1789175382,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5072,
+    "timestamp": 1789176408,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-sea-oak-2026-09-11-spread-away-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "usd": 25618.24,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789176408,
+    "fills": 1
   }
 ]
