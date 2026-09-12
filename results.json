@@ -38775,5 +38775,35 @@
     "status": "pending",
     "ultimo_fill": 1789240962,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5236,
+    "timestamp": 1789241896,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-ucf-pitt-2026-09-12-spread-home-7pt5",
+    "title": "Spread: Pittsburgh (-7.5)",
+    "outcome": "UCF",
+    "side": "BUY",
+    "usd": 47000.0,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789241896,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5237,
+    "timestamp": 1789241933,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "wta-sabalen-rybakin-2026-09-12",
+    "title": "US Open WTA: Aryna Sabalenka vs Elena Rybakina",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "usd": 28999.999999999996,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789241933,
+    "fills": 1
   }
 ]
