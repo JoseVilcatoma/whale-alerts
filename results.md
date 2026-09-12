@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 15:35:07 (hora de Perú)
+Actualizado: 2026-09-12 15:37:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2590**  ($140,660,757 en total)
+- Apuestas registradas: **2591**  ($140,719,400 en total)
 - Resueltas: **2533** — 1522 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 376
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 11 | 2 | 73% | $4,594,493 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
-| pleaseplease123 | 53 | 35 | 0 | 60% | $3,750,089 | +$676,329 |
+| pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | wr0ngw4yb3tt0r | 24 | 17 | 3 | 59% | $2,554,390 | -$656,579 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | — | ⏳ Pendiente |
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | +$23,520 | ✅ Ganada |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
-| Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |

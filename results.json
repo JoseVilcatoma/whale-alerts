@@ -38927,5 +38927,20 @@
     "status": "pending",
     "ultimo_fill": 1789244147,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5256,
+    "timestamp": 1789245400,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-cin-mil-2026-09-12",
+    "title": "Cincinnati Reds vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "usd": 58643.33440000001,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1789245400,
+    "fills": 1
   }
 ]
