@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 12:53:02 (hora de Perú)
+Actualizado: 2026-09-12 12:55:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2558**  ($138,702,109 en total)
+- Apuestas registradas: **2559**  ($138,764,109 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 375
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR | 1.67 (60¢) | $29,971 | +$19,981 | ✅ Ganada |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
-| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | +$24,759 | ✅ Ganada |
