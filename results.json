@@ -38744,9 +38744,11 @@
     "side": "BUY",
     "usd": 39999.99509999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "cerrada_venta",
     "ultimo_fill": 1789240539,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": -701.75,
+    "precio_salida": 56
   },
   {
     "telegram_msg_id": 5234,
@@ -39091,6 +39093,21 @@
     "odds_at_bet": 42,
     "status": "pending",
     "ultimo_fill": 1789250418,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5297,
+    "timestamp": 1789250935,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "wta-sabalen-rybakin-2026-09-12",
+    "title": "US Open WTA: Aryna Sabalenka vs Elena Rybakina",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "usd": 42749.39599999999,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789250935,
     "fills": 1
   }
 ]
