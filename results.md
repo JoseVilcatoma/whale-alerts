@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 08:52:25 (hora de Perú)
+Actualizado: 2026-09-12 08:54:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2530**  ($137,340,591 en total)
+- Apuestas registradas: **2531**  ($137,370,055 en total)
 - Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 371
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 1 | 95% | $1,333,966 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | BrotherObama | 8 | 13 | 3 | 38% | $1,212,524 | +$14,323 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | — | ⏳ Pendiente |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | — | ⏳ Pendiente |
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | — | ⏳ Pendiente |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
 | Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | +$53,357 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | +$30,423 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | +$33,798 | ✅ Ganada |
