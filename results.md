@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 17:52:53 (hora de Perú)
+Actualizado: 2026-09-12 17:54:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2603**  ($141,223,305 en total)
+- Apuestas registradas: **2604**  ($141,264,784 en total)
 - Resueltas: **2565** — 1544 ganadas / 1021 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 377
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
-| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | +$35,686 | ✅ Ganada |
