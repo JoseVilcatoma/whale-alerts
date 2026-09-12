@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 15:16:32 (hora de Perú)
+Actualizado: 2026-09-12 15:18:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2590**  ($140,660,757 en total)
-- Resueltas: **2531** — 1520 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Resueltas: **2533** — 1522 ganadas / 1011 perdidas (**60%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 376
 
 ### Balance
 
-- **Resultado de los apostadores: +$82,058** sobre $137,519,281 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,335** sobre $249,800 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$104,210** sobre $137,639,735 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,324** sobre $249,900 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | ethanaz | Oklahoma vs. Michigan | Michigan | 1.33 (75¢) | $26,902 | +$8,967 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Houston Astros vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $33,536 | — | ⏳ Pendiente |
-| afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | — | ⏳ Pendiente |
+| afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | +$13,152 | 💰 Vendida antes |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $196,880 | — | ⏳ Pendiente |
@@ -123,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | -$29,707 | ❌ Perdida |
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | -$48,940 | ❌ Perdida |
-| phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
+| phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
