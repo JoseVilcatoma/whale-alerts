@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:31:56 (hora de Perú)
+Actualizado: 2026-09-12 11:33:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2550**  ($138,366,811 en total)
+- Apuestas registradas: **2551**  ($138,445,862 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 374
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | — | ⏳ Pendiente |
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | gransaaa | Will AFC Bournemouth win on 2026-09-12? | Yes | 2.63 (38¢) | $26,182 | — | ⏳ Pendiente |
 | gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
 | HectorHuang | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | -$25,468 | ❌ Perdida |
