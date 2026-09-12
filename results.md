@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 07:11:30 (hora de Perú)
+Actualizado: 2026-09-12 07:13:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2521**  ($136,693,838 en total)
-- Resueltas: **2491** — 1503 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 371
 
 ### Balance
 
-- **Resultado de los apostadores: +$810,146** sobre $135,342,613 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,131** sobre $245,800 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$831,146** sobre $135,371,613 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,059** sobre $245,900 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
-| Zywoo123 | LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
+| Zywoo123 | LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | meoooow | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.96 (51¢) | $30,096 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | — | ⏳ Pendiente |
