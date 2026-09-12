@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 08:40:12 (hora de Perú)
+Actualizado: 2026-09-12 08:42:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2526**  ($137,135,792 en total)
+- Apuestas registradas: **2527**  ($137,186,625 en total)
 - Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 371
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | — | ⏳ Pendiente |
 | 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | +$45,795 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | +$2,679 | ✅ Ganada |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | +$41,539 | ✅ Ganada |
