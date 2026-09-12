@@ -38085,5 +38085,20 @@
     "status": "pending",
     "ultimo_fill": 1789226287,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5165,
+    "timestamp": 1789226449,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-wake-pur-2026-09-12",
+    "title": "Wake Forest vs. Purdue",
+    "outcome": "Wake Forest",
+    "side": "BUY",
+    "usd": 31377.869362,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789226449,
+    "fills": 1
   }
 ]
