@@ -38250,5 +38250,20 @@
     "status": "pending",
     "ultimo_fill": 1789229561,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5182,
+    "timestamp": 1789229659,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-vit-mkoi-2026-09-12-game2",
+    "title": "LoL: Team Vitality vs Movistar KOI - Game 2 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "usd": 73114.093,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1789229659,
+    "fills": 1
   }
 ]
