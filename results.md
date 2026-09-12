@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:35:22 (hora de Perú)
+Actualizado: 2026-09-12 00:37:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2502**  ($135,746,164 en total)
-- Resueltas: **2475** — 1493 ganadas / 982 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 368
 
 ### Balance
 
-- **Resultado de los apostadores: +$775,850** sobre $134,680,126 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,173** sobre $244,200 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$792,365** sobre $134,862,821 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,159** sobre $244,700 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,11 +26,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 2 | 65% | $20,476,385 | +$1,044,847 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 60 | 2 | 55% | $5,660,918 | -$63,352 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
-| pleaseplease123 | 51 | 35 | 2 | 59% | $3,750,089 | +$612,108 |
+| pleaseplease123 | 53 | 35 | 0 | 60% | $3,750,089 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 | gransaaa | Will AFC Bournemouth win on 2026-09-12? | Yes | 2.63 (38¢) | $26,182 | — | ⏳ Pendiente |
 | gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
 | HectorHuang | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | -$25,468 | ❌ Perdida |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | +$30,172 | ✅ Ganada |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | -$25,618 | ❌ Perdida |
@@ -95,14 +95,14 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | +$25,219 | ✅ Ganada |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | +$10,455 | ✅ Ganada |
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | -$29,563 | ❌ Perdida |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | -$41,265 | ❌ Perdida |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | +$23,471 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | -$36,900 | ❌ Perdida |
-| 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | — | ⏳ Pendiente |
+| 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | +$19,026 | ✅ Ganada |
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
 | Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | +$53,357 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | — | ⏳ Pendiente |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | +$30,423 | ✅ Ganada |
+| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | +$33,798 | ✅ Ganada |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | +$45,795 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Schalke 04 win on 2026-09-11? | Yes | 1.06 (94¢) | $93,422 | +$5,963 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | +$2,679 | ✅ Ganada |
