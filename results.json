@@ -37527,7 +37527,7 @@
     "side": "BUY",
     "usd": 35897.104,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789189657,
     "fills": 1
   },
@@ -37977,7 +37977,7 @@
     "side": "BUY",
     "usd": 50833.32800000001,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789220424,
     "fills": 1
   },
@@ -37992,7 +37992,7 @@
     "side": "BUY",
     "usd": 39166.664000000004,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789220618,
     "fills": 1
   },
@@ -38022,7 +38022,7 @@
     "side": "BUY",
     "usd": 80000.16,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789220798,
     "fills": 1
   },
@@ -38459,6 +38459,21 @@
     "odds_at_bet": 51,
     "status": "pending",
     "ultimo_fill": 1789235658,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 5197,
+    "timestamp": 1789235718,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-lepchen-melicha-2026-09-12",
+    "title": "Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar",
+    "outcome": "Varvara Lepchenko",
+    "side": "BUY",
+    "usd": 61000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1789235747,
     "fills": 2
   }
 ]
