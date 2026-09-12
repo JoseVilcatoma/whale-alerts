@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 21:09:31 (hora de Perú)
+Actualizado: 2026-09-11 21:11:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2490**  ($135,207,554 en total)
+- Apuestas registradas: **2491**  ($135,233,022 en total)
 - Resueltas: **2459** — 1482 ganadas / 977 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 366
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 2 | 65% | $20,476,385 | +$1,044,847 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 60 | 1 | 55% | $5,635,450 | -$63,352 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 60 | 2 | 55% | $5,660,918 | -$63,352 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | — | ⏳ Pendiente |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | +$66,394 | ✅ Ganada |
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
-| 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
