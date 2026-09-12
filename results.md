@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:01:08 (hora de Perú)
+Actualizado: 2026-09-12 18:03:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2605**  ($141,302,784 en total)
+- Apuestas registradas: **2606**  ($141,333,093 en total)
 - Resueltas: **2566** — 1544 ganadas / 1022 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | -$41,076 | ❌ Perdida |
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
-| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
