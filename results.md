@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 20:33:44 (hora de Perú)
+Actualizado: 2026-09-11 20:35:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2488**  ($135,144,868 en total)
-- Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2457** — 1481 ganadas / 976 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 366
 
 ### Balance
 
-- **Resultado de los apostadores: +$444,996** sobre $133,597,986 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,486** sobre $242,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$466,242** sobre $133,623,953 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,404** sobre $242,400 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | — | ⏳ Pendiente |
-| vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | — | ⏳ Pendiente |
+| vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
 | Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | — | ⏳ Pendiente |
