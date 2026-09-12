@@ -38202,7 +38202,7 @@
     "side": "BUY",
     "usd": 85000.0,
     "odds_at_bet": 85,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789228980,
     "fills": 1
   },

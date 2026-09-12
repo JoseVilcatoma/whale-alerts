@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:24:32 (hora de Perú)
+Actualizado: 2026-09-12 16:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2596**  ($140,964,900 en total)
-- Resueltas: **2534** — 1523 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 51
+- Resueltas: **2535** — 1524 ganadas / 1011 perdidas (**60%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$139,896** sobre $137,685,154 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,246** sobre $250,000 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$154,896** sobre $137,770,154 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,228** sobre $250,100 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -125,7 +125,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | +$35,686 | ✅ Ganada |
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | -$35,272 | ❌ Perdida |
-| phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
+| phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | -$29,707 | ❌ Perdida |
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | -$48,940 | ❌ Perdida |
