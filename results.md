@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 22:35:32 (hora de Perú)
+Actualizado: 2026-09-11 22:37:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2491**  ($135,233,022 en total)
-- Resueltas: **2463** — 1485 ganadas / 978 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **2468** — 1489 ganadas / 979 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 366
 
 ### Balance
 
-- **Resultado de los apostadores: +$686,502** sobre $134,030,680 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$7,276** sobre $243,000 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$778,431** sobre $134,284,160 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,175** sobre $243,500 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,11 +40,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 18 | 19 | 1 | 49% | $1,825,007 | -$45,943 |
 | Diabolical-Prize | 17 | 19 | 0 | 47% | $1,789,272 | -$334,969 |
-| Weaseloftheweek | 17 | 16 | 1 | 52% | $1,728,053 | -$88,417 |
+| Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 11 | 1 | 66% | $1,347,211 | -$406,023 |
+| ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
@@ -75,21 +75,21 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | — | ⏳ Pendiente |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | -$25,937 | ❌ Perdida |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | — | ⏳ Pendiente |
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | +$98,101 | ✅ Ganada |
-| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | — | ⏳ Pendiente |
+| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | +$28,835 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | +$119,356 | ✅ Ganada |
-| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | — | ⏳ Pendiente |
-| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | — | ⏳ Pendiente |
+| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | +$25,219 | ✅ Ganada |
+| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | +$10,455 | ✅ Ganada |
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | -$29,563 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | +$23,471 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | -$36,900 | ❌ Perdida |
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | — | ⏳ Pendiente |
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
-| Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | — | ⏳ Pendiente |
+| Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | +$53,357 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.75 (57¢) | $44,803 | — | ⏳ Pendiente |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: O/U 7.5 | Under 7.5 | 2.04 (49¢) | $44,000 | +$45,795 | ✅ Ganada |
