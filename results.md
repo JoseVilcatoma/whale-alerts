@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 15:51:41 (hora de Perú)
+Actualizado: 2026-09-12 15:53:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2592**  ($140,774,872 en total)
-- Resueltas: **2533** — 1522 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Resueltas: **2534** — 1523 ganadas / 1011 perdidas (**60%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 376
 
 ### Balance
 
-- **Resultado de los apostadores: +$104,210** sobre $137,639,735 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,324** sobre $249,900 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$139,896** sobre $137,685,154 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,246** sobre $250,000 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
-| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | — | ⏳ Pendiente |
+| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | +$35,686 | ✅ Ganada |
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | -$35,272 | ❌ Perdida |
 | phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | -$29,707 | ❌ Perdida |
