@@ -38895,5 +38895,20 @@
     "status": "pending",
     "ultimo_fill": 1789243241,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5246,
+    "timestamp": 1789243324,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-tim2-ed-2026-09-12",
+    "title": "Noche UFC: Tim Elliott vs. \u00c9dgar Ch\u00e1irez (Flyweight, Prelims)",
+    "outcome": "Tim Elliott",
+    "side": "BUY",
+    "usd": 55500.0,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1789243324,
+    "fills": 1
   }
 ]
