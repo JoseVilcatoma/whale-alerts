@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 20:08:28 (hora de Perú)
+Actualizado: 2026-09-11 20:10:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2486**  ($135,093,312 en total)
+- Apuestas registradas: **2487**  ($135,119,249 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 366
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 11 | 0 | 66% | $1,321,273 | -$406,023 |
+| ferrariChampions2026 | 21 | 11 | 1 | 66% | $1,347,211 | -$406,023 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | — | ⏳ Pendiente |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | — | ⏳ Pendiente |
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | — | ⏳ Pendiente |
 | Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | +$50,102 | ✅ Ganada |
 | kimi1986 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $55,369 | -$55,369 | ❌ Perdida |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
-| 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | -$30,000 | ❌ Perdida |

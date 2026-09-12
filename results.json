@@ -37365,5 +37365,20 @@
     "status": "pending",
     "ultimo_fill": 1789174839,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5071,
+    "timestamp": 1789175382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-atl-2026-09-11",
+    "title": "Philadelphia Phillies vs. Atlanta Braves",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "usd": 25937.331,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1789175382,
+    "fills": 1
   }
 ]
