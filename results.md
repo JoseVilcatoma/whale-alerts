@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 20:44:13 (hora de Perú)
+Actualizado: 2026-09-11 20:46:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2489**  ($135,177,554 en total)
-- Resueltas: **2457** — 1481 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2458** — 1482 ganadas / 976 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 366
 
 ### Balance
 
-- **Resultado de los apostadores: +$466,242** sobre $133,623,953 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,404** sobre $242,400 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$489,712** sobre $133,673,828 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,357** sobre $242,500 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | plonker2026 | 6 | 7 | 0 | 46% | $581,830 | -$158,209 |
 | Talvez10 | 6 | 3 | 1 | 67% | $573,389 | +$240,867 |
-| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 9 | 5 | 1 | 64% | $573,347 | -$28,031 |
+| 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 0 | 67% | $573,347 | -$4,560 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 
 _(mostrando los 40 de mayor monto, de 366 en total)_
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | — | ⏳ Pendiente |
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
-| HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | — | ⏳ Pendiente |
+| HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | +$23,471 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | — | ⏳ Pendiente |
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | — | ⏳ Pendiente |
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
