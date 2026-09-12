@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 12:59:12 (hora de Perú)
+Actualizado: 2026-09-12 13:01:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2560**  ($138,825,109 en total)
+- Apuestas registradas: **2561**  ($138,859,039 en total)
 - Resueltas: **2510** — 1511 ganadas / 999 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 375
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| one8tyfive | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $33,930 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Varvara Lepchenko | 2.00 (50¢) | $61,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.89 (53¢) | $28,935 | +$25,660 | ✅ Ganada |
 | 110thst | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | Legacy | 1.49 (67¢) | $134,000 | +$66,000 | ✅ Ganada |
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR | 1.67 (60¢) | $29,971 | +$19,981 | ✅ Ganada |
-| phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
