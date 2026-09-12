@@ -1,6 +1,6 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 02:33:17 (hora de Perú)
+Actualizado: 2026-09-12 02:35:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
