@@ -38550,5 +38550,20 @@
     "status": "pending",
     "ultimo_fill": 1789236868,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5213,
+    "timestamp": 1789237781,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-vit-mkoi-2026-09-12",
+    "title": "LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "usd": 28191.405000000002,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789237781,
+    "fills": 1
   }
 ]
