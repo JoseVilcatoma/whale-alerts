@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:41:07 (hora de Perú)
+Actualizado: 2026-09-12 16:43:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2597**  ($140,993,869 en total)
+- Apuestas registradas: **2598**  ($141,020,352 en total)
 - Resueltas: **2558** — 1540 ganadas / 1018 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 26 | 17 | 2 | 60% | $2,612,324 | -$420,667 |
+| wr0ngw4yb3tt0r | 26 | 17 | 3 | 60% | $2,638,806 | -$420,667 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | — | ⏳ Pendiente |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | -$29,707 | ❌ Perdida |
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | -$48,940 | ❌ Perdida |
-| phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
