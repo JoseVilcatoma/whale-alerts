@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:51:49 (hora de Perú)
+Actualizado: 2026-09-12 14:53:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2585**  ($140,458,995 en total)
+- Apuestas registradas: **2586**  ($140,488,726 en total)
 - Resueltas: **2523** — 1517 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 376
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | — | ⏳ Pendiente |
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | +$25,200 | ✅ Ganada |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | -$39,167 | ❌ Perdida |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | -$50,833 | ❌ Perdida |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | +$8,441 | ✅ Ganada |
