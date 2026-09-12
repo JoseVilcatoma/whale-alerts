@@ -38400,5 +38400,35 @@
     "status": "pending",
     "ultimo_fill": 1789234769,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5193,
+    "timestamp": 1789235315,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-lepchen-melicha-2026-09-12",
+    "title": "Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar",
+    "outcome": "Nicole Melichar",
+    "side": "BUY",
+    "usd": 27015.15,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789235315,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5194,
+    "timestamp": 1789235327,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-sun-ars-2026-09-12-ars",
+    "title": "Will Arsenal FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31000.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789235327,
+    "fills": 1
   }
 ]

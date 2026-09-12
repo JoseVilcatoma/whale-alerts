@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 12:46:54 (hora de Perú)
+Actualizado: 2026-09-12 12:48:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2555**  ($138,609,173 en total)
+- Apuestas registradas: **2557**  ($138,667,188 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 375
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 6 | 8 | 3 | 43% | $765,725 | -$193,548 |
 | gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
+| Jsram | 9 | 2 | 5 | 82% | $685,612 | +$142,157 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
-| Jsram | 9 | 2 | 4 | 82% | $654,612 | +$142,157 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | — | ⏳ Pendiente |
 | pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | +$24,759 | ✅ Ganada |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | -$30,000 | ❌ Perdida |
-| mooseborzoi | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $35,897 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.50 (40¢) | $47,029 | -$47,029 | ❌ Perdida |
