@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:44:46 (hora de Perú)
+Actualizado: 2026-09-12 10:46:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2539**  ($137,760,922 en total)
-- Resueltas: **2501** — 1510 ganadas / 991 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2502** — 1511 ganadas / 991 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 372
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,047,621** sobre $135,848,608 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,910** sobre $246,800 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,051,530** sobre $135,893,567 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,902** sobre $246,900 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | -$44,132 | ❌ Perdida |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
-| zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | — | ⏳ Pendiente |
+| zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | +$3,910 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
