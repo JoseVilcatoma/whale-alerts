@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:40:05 (hora de Perú)
+Actualizado: 2026-09-12 18:42:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2582** — 1553 ganadas / 1029 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **2583** — 1553 ganadas / 1030 perdidas (**60%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$566,497** sobre $140,377,472 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,705** sobre $254,700 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$508,867** sobre $140,435,101 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,805** sobre $254,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 22 | 20 | 1 | 52% | $2,235,302 | -$111,741 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Sassy-Bucket | 22 | 22 | 1 | 50% | $2,146,312 | -$55,505 |
+| Sassy-Bucket | 22 | 23 | 0 | 49% | $2,146,312 | -$113,135 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | +$21,243 | ✅ Ganada |
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | -$33,149 | ❌ Perdida |
-| Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | -$57,630 | ❌ Perdida |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | 0x089df75eFAC3B1028842764610Fc9AE90A430627-1783295299471 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.69 (59¢) | $27,903 | -$27,903 | ❌ Perdida |
