@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:34:51 (hora de Perú)
+Actualizado: 2026-09-12 16:36:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2597**  ($140,993,869 en total)
-- Resueltas: **2539** — 1526 ganadas / 1013 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Resueltas: **2556** — 1538 ganadas / 1018 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$93,940** sobre $138,000,952 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,224** sobre $250,500 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$448,008** sobre $139,290,863 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,822** sobre $252,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,21 +24,21 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 110 | 6 | 64% | $20,870,448 | +$974,732 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 201 | 110 | 3 | 65% | $20,870,448 | +$1,139,391 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 11 | 2 | 73% | $4,594,493 | +$2,026,659 |
+| ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 24 | 17 | 4 | 59% | $2,612,324 | -$656,579 |
+| wr0ngw4yb3tt0r | 26 | 17 | 2 | 60% | $2,612,324 | -$420,667 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
-| Sassy-Bucket | 21 | 19 | 4 | 52% | $2,116,448 | +$70,150 |
+| Diabolical-Prize | 22 | 20 | 0 | 52% | $2,186,659 | -$111,741 |
+| Sassy-Bucket | 21 | 21 | 2 | 50% | $2,116,448 | -$48,363 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -57,12 +57,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
-| Jsram | 9 | 4 | 3 | 69% | $685,612 | +$52,157 |
+| Jsram | 12 | 4 | 0 | 75% | $685,612 | +$112,891 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
-| Talvez10 | 6 | 4 | 1 | 60% | $628,889 | +$150,485 |
+| Talvez10 | 7 | 4 | 0 | 64% | $628,889 | +$244,985 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 1 | 55% | $612,030 | +$105,424 |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
 _(mostrando los 40 de mayor monto, de 377 en total)_
@@ -76,11 +76,11 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | — | ⏳ Pendiente |
-| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | — | ⏳ Pendiente |
+| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | -$55,472 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | — | ⏳ Pendiente |
-| Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
-| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | — | ⏳ Pendiente |
+| Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
+| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | -$63,040 | ❌ Perdida |
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | — | ⏳ Pendiente |
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
@@ -93,17 +93,17 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Houston Astros vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $40,000 | — | ⏳ Pendiente |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $33,536 | — | ⏳ Pendiente |
 | afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | +$13,152 | 💰 Vendida antes |
-| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $196,880 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $173,740 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $142,601 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | — | ⏳ Pendiente |
-| Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | — | ⏳ Pendiente |
+| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | -$48,332 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | +$23,425 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $196,880 | +$136,815 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $173,740 | +$120,735 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $142,601 | +$99,096 | ✅ Ganada |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | +$19,369 | ✅ Ganada |
+| Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | -$82,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
+| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | +$74,787 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | — | ⏳ Pendiente |
-| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | — | ⏳ Pendiente |
+| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | -$95,499 | ❌ Perdida |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
 | robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
 | BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
@@ -111,13 +111,13 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Varvara Lepchenko | 2.00 (50¢) | $61,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | +$34,921 | ✅ Ganada |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | — | ⏳ Pendiente |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | — | ⏳ Pendiente |
+| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | +$24,168 | ✅ Ganada |
+| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | +$17,566 | ✅ Ganada |
 | pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | +$6,870 | ✅ Ganada |
 | 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | +$5,850 | ✅ Ganada |
-| ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
+| ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | +$48,451 | ✅ Ganada |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | -$80,500 | ❌ Perdida |
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | -$41,076 | ❌ Perdida |
