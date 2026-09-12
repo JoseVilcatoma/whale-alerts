@@ -38175,5 +38175,20 @@
     "status": "pending",
     "ultimo_fill": 1789228569,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5174,
+    "timestamp": 1789228734,
+    "username": "SS787878",
+    "wallet": "0xdd7e989aee938a94a878256f00d1121be1760be3",
+    "slug": "cfb-okl-mich-2026-09-12-spread-away-4pt5",
+    "title": "Spread: Oklahoma (-4.5)",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "usd": 29707.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789228734,
+    "fills": 1
   }
 ]
