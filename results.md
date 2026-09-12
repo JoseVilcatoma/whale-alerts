@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:14:08 (hora de Perú)
+Actualizado: 2026-09-12 10:16:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2532**  ($137,429,855 en total)
+- Apuestas registradas: **2533**  ($137,457,465 en total)
 - Resueltas: **2499** — 1509 ganadas / 990 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 371
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | — | ⏳ Pendiente |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | — | ⏳ Pendiente |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | -$36,900 | ❌ Perdida |
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | +$19,026 | ✅ Ganada |
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
-| Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | +$53,357 | ✅ Ganada |
