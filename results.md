@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 04:06:09 (hora de Perú)
+Actualizado: 2026-09-12 04:08:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2512**  ($136,343,929 en total)
+- Apuestas registradas: **2514**  ($136,445,158 en total)
 - Resueltas: **2481** — 1497 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 22
 - Apostadores distintos: 371
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
+| Zywoo123 | LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | meoooow | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Invictus Gaming | 1.96 (51¢) | $30,096 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 2.56 (39¢) | $30,333 | +$47,444 | ✅ Ganada |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.85 (54¢) | $173,480 | +$147,780 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $65,746 | -$65,746 | ❌ Perdida |
-| GrizzliesSuck | Will Sevilla FC win on 2026-09-11? | No | 2.08 (48¢) | $37,137 | -$37,137 | ❌ Perdida |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $59,155 | +$64,084 | ✅ Ganada |
