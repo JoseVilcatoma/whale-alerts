@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 09:13:01 (hora de Perú)
+Actualizado: 2026-09-12 09:15:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2531**  ($137,370,055 en total)
-- Resueltas: **2493** — 1505 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2494** — 1505 ganadas / 989 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 371
 
 ### Balance
 
-- **Resultado de los apostadores: +$858,146** sobre $135,399,715 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$6,963** sobre $246,000 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$814,014** sobre $135,443,847 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,063** sobre $246,100 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | +$27,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | — | ⏳ Pendiente |
+| FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | -$44,132 | ❌ Perdida |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
 | zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | — | ⏳ Pendiente |
