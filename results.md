@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:09:31 (hora de Perú)
+Actualizado: 2026-09-12 11:11:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2543**  ($137,937,806 en total)
-- Resueltas: **2502** — 1511 ganadas / 991 perdidas (**60%** de acierto)
+- Apuestas registradas: **2544**  ($137,983,225 en total)
+- Resueltas: **2503** — 1511 ganadas / 992 perdidas (**60%** de acierto)
 - Pendientes: 30
 - Apostadores distintos: 374
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,051,530** sobre $135,893,567 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,902** sobre $246,900 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,022,067** sobre $135,923,031 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$7,002** sobre $247,000 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
-| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 1 | 95% | $1,333,966 | +$83,459 |
+| 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | BrotherObama | 9 | 13 | 2 | 41% | $1,212,524 | +$114,323 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | — | ⏳ Pendiente |
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | — | ⏳ Pendiente |
 | phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | — | ⏳ Pendiente |
@@ -83,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | — | ⏳ Pendiente |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
-| Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | — | ⏳ Pendiente |
+| Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | — | ⏳ Pendiente |
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | — | ⏳ Pendiente |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | -$25,937 | ❌ Perdida |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | -$90,382 | ❌ Perdida |
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | +$15,993 | ✅ Ganada |
-| Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | +$98,101 | ✅ Ganada |
