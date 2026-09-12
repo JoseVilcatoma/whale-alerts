@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:33:56 (hora de Perú)
+Actualizado: 2026-09-12 11:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2551**  ($138,445,862 en total)
+- Apuestas registradas: **2552**  ($138,505,012 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 374
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | — | ⏳ Pendiente |
 | ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | — | ⏳ Pendiente |
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | BrotherObama | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 2.94 (34¢) | $50,000 | -$50,000 | ❌ Perdida |
 | gransaaa | Will AFC Bournemouth win on 2026-09-12? | Yes | 2.63 (38¢) | $26,182 | — | ⏳ Pendiente |
 | gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
-| HectorHuang | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
