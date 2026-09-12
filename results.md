@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:01:18 (hora de Perú)
+Actualizado: 2026-09-12 11:03:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2541**  ($137,817,534 en total)
+- Apuestas registradas: **2542**  ($137,902,534 en total)
 - Resueltas: **2502** — 1511 ganadas / 991 perdidas (**60%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 372
+- Pendientes: 29
+- Apostadores distintos: 373
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | Talvez10 | 6 | 4 | 0 | 60% | $573,389 | +$150,485 |
 
-_(mostrando los 40 de mayor monto, de 372 en total)_
+_(mostrando los 40 de mayor monto, de 373 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | +$15,993 | ✅ Ganada |
 | Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | +$98,101 | ✅ Ganada |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | +$28,835 | ✅ Ganada |
-| 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | +$119,356 | ✅ Ganada |
