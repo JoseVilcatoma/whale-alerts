@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 22:41:43 (hora de Perú)
+Actualizado: 2026-09-11 22:43:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2491**  ($135,233,022 en total)
-- Resueltas: **2468** — 1489 ganadas / 979 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2469** — 1490 ganadas / 979 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 366
 
 ### Balance
 
-- **Resultado de los apostadores: +$778,431** sobre $134,284,160 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,175** sobre $243,500 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$794,423** sobre $134,401,439 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,162** sobre $243,600 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | -$25,937 | ❌ Perdida |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | — | ⏳ Pendiente |
-| ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | — | ⏳ Pendiente |
+| ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | +$15,993 | ✅ Ganada |
 | Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | +$98,101 | ✅ Ganada |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | +$28,835 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | +$119,356 | ✅ Ganada |
