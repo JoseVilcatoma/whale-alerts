@@ -38310,5 +38310,20 @@
     "status": "pending",
     "ultimo_fill": 1789230060,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5186,
+    "timestamp": 1789230163,
+    "username": "ChayEhc",
+    "wallet": "0xa9bb7b5ef3d2e8ddb498ac251a4ec144e089701b",
+    "slug": "lal-bil-elc-2026-09-12-bil",
+    "title": "Will Athletic Club win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 80500.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1789230163,
+    "fills": 1
   }
 ]
