@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 12:48:58 (hora de Perú)
+Actualizado: 2026-09-12 12:50:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2557**  ($138,667,188 en total)
+- Apuestas registradas: **2558**  ($138,702,109 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 375
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 1 | 60% | $2,189,827 | -$615,503 |
 | Diabolical-Prize | 21 | 19 | 1 | 52% | $2,104,659 | -$112,188 |
-| Sassy-Bucket | 19 | 19 | 2 | 50% | $1,905,385 | -$15,771 |
+| Sassy-Bucket | 19 | 19 | 3 | 50% | $1,940,306 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 16 | 1 | 53% | $1,768,949 | -$35,059 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | +$24,759 | ✅ Ganada |
-| BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | -$30,000 | ❌ Perdida |
