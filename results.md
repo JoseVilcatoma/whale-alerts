@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:57:59 (hora de Perú)
+Actualizado: 2026-09-12 15:00:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2587**  ($140,517,136 en total)
+- Apuestas registradas: **2588**  ($140,547,249 en total)
 - Resueltas: **2525** — 1519 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 376
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
-| Sassy-Bucket | 19 | 19 | 4 | 50% | $1,997,935 | -$15,771 |
+| Sassy-Bucket | 19 | 19 | 5 | 50% | $2,028,049 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $30,113 | — | ⏳ Pendiente |
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | — | ⏳ Pendiente |
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | -$80,000 | ❌ Perdida |
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | +$25,200 | ✅ Ganada |
-| Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | -$39,167 | ❌ Perdida |
