@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 02:37:22 (hora de Perú)
+Actualizado: 2026-09-12 02:39:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2506**  ($135,965,499 en total)
+- Apuestas registradas: **2507**  ($136,001,474 en total)
 - Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 369
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 2 | 65% | $20,476,385 | +$1,044,847 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 108 | 3 | 65% | $20,512,360 | +$1,044,847 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 369 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | — | ⏳ Pendiente |
 | Caishenbaoyouwo888 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | T1 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.89 (53¢) | $28,935 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 369 en total)_
 | totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | +$162,212 | ✅ Ganada |
 | bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | -$29,444 | ❌ Perdida |
 | matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | -$33,867 | ❌ Perdida |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | +$14,632 | ✅ Ganada |
