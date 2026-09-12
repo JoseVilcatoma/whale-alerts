@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 07:54:48 (hora de Perú)
+Actualizado: 2026-09-12 07:56:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2524**  ($136,801,835 en total)
+- Apuestas registradas: **2525**  ($137,105,865 en total)
 - Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 371
 
 ### Balance
@@ -53,6 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
+| 00gringo00 | 5 | 0 | 1 | ⚠️ 100% (5) | $856,111 | +$409,354 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
@@ -63,7 +64,6 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | Talvez10 | 6 | 4 | 0 | 60% | $573,389 | +$150,485 |
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 0 | 67% | $573,347 | -$4,560 |
-| texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 
 _(mostrando los 40 de mayor monto, de 371 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.10 (91¢) | $27,092 | +$2,679 | ✅ Ganada |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | +$41,539 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 1.96 (51¢) | $70,000 | +$67,255 | ✅ Ganada |
-| BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
