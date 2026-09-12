@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:18:58 (hora de Perú)
+Actualizado: 2026-09-12 14:20:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2578**  ($140,125,887 en total)
-- Resueltas: **2522** — 1516 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Resueltas: **2523** — 1517 ganadas / 1006 perdidas (**60%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$205,147** sobre $137,096,824 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,010** sobre $248,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$287,595** sobre $137,169,938 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,898** sobre $249,000 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Diabolical-Prize | 21 | 19 | 2 | 52% | $2,186,659 | -$112,188 |
+| Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
 | Sassy-Bucket | 19 | 19 | 3 | 50% | $1,940,306 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | — | ⏳ Pendiente |
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
-| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | — | ⏳ Pendiente |
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | — | ⏳ Pendiente |
