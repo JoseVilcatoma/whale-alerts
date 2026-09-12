@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:44:01 (hora de Perú)
+Actualizado: 2026-09-12 13:46:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2566**  ($139,170,641 en total)
-- Resueltas: **2519** — 1516 ganadas / 1003 perdidas (**60%** de acierto)
-- Pendientes: 36
+- Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$425,543** sobre $136,876,428 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,710** sobre $248,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$384,647** sobre $136,917,324 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,810** sobre $248,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 21 | 19 | 1 | 52% | $2,104,659 | -$112,188 |
 | Sassy-Bucket | 19 | 19 | 3 | 50% | $1,940,306 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
-| Weaseloftheweek | 18 | 16 | 1 | 53% | $1,768,949 | -$35,059 |
+| Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | — | ⏳ Pendiente |
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | — | ⏳ Pendiente |
-| Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | — | ⏳ Pendiente |
+| Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | — | ⏳ Pendiente |
