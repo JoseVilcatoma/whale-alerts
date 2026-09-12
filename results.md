@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 19:19:06 (hora de Perú)
+Actualizado: 2026-09-11 19:21:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2484**  ($134,896,654 en total)
+- Apuestas registradas: **2485**  ($135,002,930 en total)
 - Resueltas: **2456** — 1480 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 366
 
 ### Balance
@@ -38,10 +38,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
+| Sassy-Bucket | 17 | 19 | 1 | 47% | $1,792,320 | -$144,044 |
 | Diabolical-Prize | 17 | 19 | 0 | 47% | $1,789,272 | -$334,969 |
 | Weaseloftheweek | 17 | 16 | 1 | 52% | $1,728,053 | -$88,417 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
-| Sassy-Bucket | 17 | 19 | 0 | 47% | $1,686,045 | -$144,044 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 11 | 0 | 66% | $1,321,273 | -$406,023 |
@@ -72,6 +72,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | — | ⏳ Pendiente |
+| Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | — | ⏳ Pendiente |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 1.79 (56¢) | $28,000 | +$22,000 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.96 (51¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 49ers vs. Rams: O/U 40.5 | Over 40.5 | 1.96 (51¢) | $47,458 | -$47,458 | ❌ Perdida |
-| ferrariChampions2026 | 49ers vs. Rams | Rams | 1.49 (67¢) | $266,662 | -$266,662 | ❌ Perdida |

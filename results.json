@@ -37335,5 +37335,20 @@
     "status": "pending",
     "ultimo_fill": 1789172331,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5069,
+    "timestamp": 1789172101,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cws-stl-2026-09-11-total-7pt5",
+    "title": "Chicago White Sox vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 106275.8216,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789172101,
+    "fills": 1
   }
 ]
