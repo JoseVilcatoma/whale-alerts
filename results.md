@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 07:46:39 (hora de Perú)
+Actualizado: 2026-09-12 07:48:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2523**  ($136,757,278 en total)
+- Apuestas registradas: **2524**  ($136,801,835 en total)
 - Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 371
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
+| plonker2026 | 6 | 7 | 2 | 46% | $661,725 | -$158,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
-| plonker2026 | 6 | 7 | 1 | 46% | $617,168 | -$158,209 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-09-11? | Yes | 1.41 (71¢) | $101,699 | +$41,539 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 1.96 (51¢) | $70,000 | +$67,255 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | +$5,841 | ✅ Ganada |
