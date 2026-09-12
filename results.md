@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:55:54 (hora de Perú)
+Actualizado: 2026-09-12 14:57:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2587**  ($140,517,136 en total)
-- Resueltas: **2523** — 1517 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 53
+- Resueltas: **2525** — 1519 ganadas / 1006 perdidas (**60%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 376
 
 ### Balance
 
-- **Resultado de los apostadores: +$287,595** sobre $137,169,938 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,898** sobre $249,000 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$300,315** sobre $137,265,155 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,869** sobre $249,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,8 +105,8 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | — | ⏳ Pendiente |
-| pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | — | ⏳ Pendiente |
-| 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | — | ⏳ Pendiente |
+| pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | +$6,870 | ✅ Ganada |
+| 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | +$5,850 | ✅ Ganada |
 | ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | -$80,500 | ❌ Perdida |
 | ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
