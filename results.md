@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:24:22 (hora de Perú)
+Actualizado: 2026-09-12 10:26:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2535**  ($137,526,982 en total)
+- Apuestas registradas: **2536**  ($137,578,982 en total)
 - Resueltas: **2499** — 1509 ganadas / 990 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 372
 
 ### Balance
@@ -55,9 +55,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
 | 00gringo00 | 5 | 0 | 1 | ⚠️ 100% (5) | $856,111 | +$409,354 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
+| plonker2026 | 6 | 7 | 3 | 46% | $713,725 | -$158,209 |
 | gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
-| plonker2026 | 6 | 7 | 2 | 46% | $661,725 | -$158,209 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Jsram | 9 | 2 | 2 | 82% | $586,520 | +$142,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 | SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | -$29,563 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | -$41,265 | ❌ Perdida |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | +$23,471 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | -$36,900 | ❌ Perdida |
