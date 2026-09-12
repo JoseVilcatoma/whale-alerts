@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:35:52 (hora de Perú)
+Actualizado: 2026-09-12 13:37:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2566**  ($139,170,641 en total)
-- Resueltas: **2515** — 1513 ganadas / 1002 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Resueltas: **2516** — 1513 ganadas / 1003 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$340,629** sobre $136,715,598 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,844** sobre $248,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$314,448** sobre $136,741,780 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,944** sobre $248,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 5 | 1 | 0 | ⚠️ 83% (6) | $856,111 | +$105,324 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 6 | 9 | 2 | 40% | $765,725 | -$238,105 |
-| gransaaa | 7 | 10 | 1 | 41% | $706,741 | -$140,254 |
+| gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
 | Jsram | 9 | 4 | 3 | 69% | $685,612 | +$52,157 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
