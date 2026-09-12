@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:46:01 (hora de Perú)
+Actualizado: 2026-09-12 13:48:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2566**  ($139,170,641 en total)
+- Apuestas registradas: **2567**  ($139,216,805 en total)
 - Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 375
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $46,163 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | — | ⏳ Pendiente |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | — | ⏳ Pendiente |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.04 (49¢) | $147,000 | +$153,000 | ✅ Ganada |
 | mitsuike | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.27 (79¢) | $35,971 | +$9,562 | ✅ Ganada |
 | ptrck7 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $29,388 | -$29,388 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | -$35,975 | ❌ Perdida |
