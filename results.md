@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 23:29:15 (hora de Perú)
+Actualizado: 2026-09-11 23:31:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2492**  ($135,273,022 en total)
+- Apuestas registradas: **2493**  ($135,329,507 en total)
 - Resueltas: **2469** — 1490 ganadas / 979 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 367
 
 ### Balance
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
+| gransaaa | 7 | 9 | 1 | 44% | $680,559 | -$83,770 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
-| gransaaa | 7 | 9 | 0 | 44% | $624,075 | -$83,770 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
 | HectorHuang | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | — | ⏳ Pendiente |
 | 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 2.00 (50¢) | $48,502 | -$48,502 | ❌ Perdida |
 | mimi121 | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | 1WIN | 1.89 (53¢) | $45,580 | -$45,580 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.27 (79¢) | $249,768 | +$66,394 | ✅ Ganada |
-| joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
