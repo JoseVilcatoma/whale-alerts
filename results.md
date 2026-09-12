@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:36:01 (hora de Perú)
+Actualizado: 2026-09-12 18:38:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2581** — 1552 ganadas / 1029 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2582** — 1553 ganadas / 1029 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$545,254** sobre $140,265,948 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,724** sobre $254,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$566,497** sobre $140,377,472 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,705** sobre $254,700 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | -$63,040 | ❌ Perdida |
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | +$28,410 | ✅ Ganada |
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | +$21,243 | ✅ Ganada |
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | -$33,149 | ❌ Perdida |
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
