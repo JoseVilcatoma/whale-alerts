@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 15:14:29 (hora de Perú)
+Actualizado: 2026-09-12 15:16:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2589**  ($140,635,676 en total)
+- Apuestas registradas: **2590**  ($140,660,757 en total)
 - Resueltas: **2531** — 1520 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 376
 
 ### Balance
@@ -33,7 +33,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 53 | 35 | 0 | 60% | $3,750,089 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| wr0ngw4yb3tt0r | 24 | 17 | 2 | 59% | $2,529,309 | -$656,579 |
+| wr0ngw4yb3tt0r | 24 | 17 | 3 | 59% | $2,554,390 | -$656,579 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | — | ⏳ Pendiente |
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | — | ⏳ Pendiente |
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | +$23,520 | ✅ Ganada |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |
-| surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | -$80,000 | ❌ Perdida |
