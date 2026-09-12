@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:02:24 (hora de Perú)
+Actualizado: 2026-09-12 14:04:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2576**  ($140,052,351 en total)
-- Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
-- Pendientes: 45
+- Resueltas: **2522** — 1516 ganadas / 1006 perdidas (**60%** de acierto)
+- Pendientes: 43
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$384,647** sobre $136,917,324 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,810** sobre $248,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$205,147** sobre $137,096,824 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,010** sobre $248,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,8 +97,8 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | — | ⏳ Pendiente |
 | 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | — | ⏳ Pendiente |
 | ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
-| ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | — | ⏳ Pendiente |
-| ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | — | ⏳ Pendiente |
+| ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | -$80,500 | ❌ Perdida |
+| ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | — | ⏳ Pendiente |
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | — | ⏳ Pendiente |
