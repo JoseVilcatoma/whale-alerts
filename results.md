@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:11:25 (hora de Perú)
+Actualizado: 2026-09-12 13:13:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2562**  ($138,959,039 en total)
+- Apuestas registradas: **2563**  ($139,005,916 en total)
 - Resueltas: **2511** — 1512 ganadas / 999 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 375
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | — | ⏳ Pendiente |
 | BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | one8tyfive | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $33,930 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Varvara Lepchenko | 2.00 (50¢) | $61,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | Caishenbaoyouwo888 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | T1 | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.89 (53¢) | $28,935 | +$25,660 | ✅ Ganada |
-| 110thst | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | Legacy | 1.49 (67¢) | $134,000 | +$66,000 | ✅ Ganada |
