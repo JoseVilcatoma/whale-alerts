@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:21:42 (hora de Perú)
+Actualizado: 2026-09-12 18:23:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2609**  ($141,464,655 en total)
-- Resueltas: **2576** — 1549 ganadas / 1027 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2578** — 1550 ganadas / 1028 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$537,359** sobre $140,123,855 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,760** sobre $254,100 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$540,687** sobre $140,177,346 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,760** sobre $254,300 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 26 | 17 | 4 | 60% | $2,676,806 | -$420,667 |
+| wr0ngw4yb3tt0r | 26 | 18 | 3 | 59% | $2,676,806 | -$445,748 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Diabolical-Prize | 22 | 20 | 1 | 52% | $2,235,302 | -$111,741 |
@@ -90,10 +90,10 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | +$25,240 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | -$55,472 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | -$25,081 | ❌ Perdida |
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | -$63,040 | ❌ Perdida |
-| SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | — | ⏳ Pendiente |
+| SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | +$28,410 | ✅ Ganada |
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | — | ⏳ Pendiente |
