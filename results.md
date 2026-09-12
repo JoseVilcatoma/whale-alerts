@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:18:45 (hora de Perú)
+Actualizado: 2026-09-12 00:20:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2499**  ($135,550,125 en total)
+- Apuestas registradas: **2500**  ($135,586,572 en total)
 - Resueltas: **2475** — 1493 ganadas / 982 perdidas (**60%** de acierto)
-- Pendientes: 13
-- Apostadores distintos: 367
+- Pendientes: 14
+- Apostadores distintos: 368
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 0 | 67% | $573,347 | -$4,560 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 
-_(mostrando los 40 de mayor monto, de 367 en total)_
+_(mostrando los 40 de mayor monto, de 368 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
 | mooseborzoi | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $35,897 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | +$47,500 | ✅ Ganada |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
-| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
