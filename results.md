@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:19:41 (hora de Perú)
+Actualizado: 2026-09-12 18:21:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2608**  ($141,407,028 en total)
+- Apuestas registradas: **2609**  ($141,464,655 en total)
 - Resueltas: **2576** — 1549 ganadas / 1027 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 377
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | — | ⏳ Pendiente |
 | theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | +$5,850 | ✅ Ganada |
 | ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | +$48,451 | ✅ Ganada |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | -$80,500 | ❌ Perdida |
-| ChayEhc | Spread: Athletic Club (-1.5) | Athletic Club | 2.22 (45¢) | $99,000 | -$99,000 | ❌ Perdida |
