@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:41:59 (hora de Perú)
+Actualizado: 2026-09-12 13:44:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2566**  ($139,170,641 en total)
-- Resueltas: **2516** — 1513 ganadas / 1003 perdidas (**60%** de acierto)
-- Pendientes: 39
+- Resueltas: **2519** — 1516 ganadas / 1003 perdidas (**60%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$314,448** sobre $136,741,780 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$7,944** sobre $248,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$425,543** sobre $136,876,428 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,710** sobre $248,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
 | 00gringo00 | 5 | 1 | 0 | ⚠️ 83% (6) | $856,111 | +$105,324 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
-| plonker2026 | 6 | 9 | 2 | 40% | $765,725 | -$238,105 |
+| plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
 | Jsram | 9 | 4 | 3 | 69% | $685,612 | +$52,157 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
@@ -100,8 +100,8 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | — | ⏳ Pendiente |
 | phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
+| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
 | Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
 | betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | +$23,520 | ✅ Ganada |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | -$44,557 | ❌ Perdida |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | -$35,338 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | +$27,000 | ✅ Ganada |
-| StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
+| StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | +$15,095 | ✅ Ganada |
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | -$44,132 | ❌ Perdida |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
