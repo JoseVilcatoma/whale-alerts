@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:54:14 (hora de Perú)
+Actualizado: 2026-09-12 13:56:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2572**  ($139,678,232 en total)
+- Apuestas registradas: **2572**  ($139,733,976 en total)
 - Resueltas: **2520** — 1516 ganadas / 1004 perdidas (**60%** de acierto)
 - Pendientes: 41
 - Apostadores distintos: 375
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 109 | 5 | 64% | $20,733,997 | +$1,023,671 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 109 | 5 | 64% | $20,789,740 | +$1,023,671 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $117,997 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $173,740 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $142,601 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | — | ⏳ Pendiente |
 | Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | — | ⏳ Pendiente |
