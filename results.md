@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:55:02 (hora de Perú)
+Actualizado: 2026-09-12 10:57:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2539**  ($137,760,922 en total)
+- Apuestas registradas: **2540**  ($137,787,827 en total)
 - Resueltas: **2502** — 1511 ganadas / 991 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 372
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | — | ⏳ Pendiente |
 | phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | — | ⏳ Pendiente |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | +$28,835 | ✅ Ganada |
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | +$119,356 | ✅ Ganada |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | +$25,219 | ✅ Ganada |
-| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | +$10,455 | ✅ Ganada |
