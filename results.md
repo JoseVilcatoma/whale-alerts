@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:13:29 (hora de Perú)
+Actualizado: 2026-09-12 13:15:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2563**  ($139,005,916 en total)
+- Apuestas registradas: **2565**  ($139,142,450 en total)
 - Resueltas: **2511** — 1512 ganadas / 999 perdidas (**60%** de acierto)
-- Pendientes: 41
+- Pendientes: 43
 - Apostadores distintos: 375
 
 ### Balance
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| ripley86alien | 30 | 11 | 0 | 73% | $4,450,662 | +$2,026,659 |
+| ripley86alien | 30 | 11 | 1 | 73% | $4,546,162 | +$2,026,659 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 0 | 60% | $3,750,089 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | — | ⏳ Pendiente |
+| robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
 | robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | — | ⏳ Pendiente |
 | BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
 | one8tyfive | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $33,930 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | ptrck7 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $29,388 | -$29,388 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | -$35,975 | ❌ Perdida |
 | Caishenbaoyouwo888 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.14 (88¢) | $26,400 | +$3,600 | ✅ Ganada |
-| BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | T1 | 2.04 (49¢) | $30,000 | +$31,224 | ✅ Ganada |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.89 (53¢) | $28,935 | +$25,660 | ✅ Ganada |

@@ -38520,5 +38520,35 @@
     "status": "pending",
     "ultimo_fill": 1789236793,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5207,
+    "timestamp": 1789236864,
+    "username": "robban888",
+    "wallet": "0x384b622131b8897c3e431d5003c82cf7d8f07d78",
+    "slug": "wta-sabalen-rybakin-2026-09-12",
+    "title": "US Open WTA: Aryna Sabalenka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "usd": 41034.500100000005,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1789236864,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5208,
+    "timestamp": 1789236868,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "epl-sun-ars-2026-09-12-ars",
+    "title": "Will Arsenal FC win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 95499.3,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1789236868,
+    "fills": 1
   }
 ]
