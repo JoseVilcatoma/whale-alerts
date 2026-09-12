@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 17:11:49 (hora de Perú)
+Actualizado: 2026-09-12 17:13:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2602**  ($141,183,306 en total)
-- Resueltas: **2562** — 1542 ganadas / 1020 perdidas (**60%** de acierto)
+- Apuestas registradas: **2603**  ($141,223,305 en total)
+- Resueltas: **2563** — 1543 ganadas / 1020 perdidas (**60%** de acierto)
 - Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$488,834** sobre $139,583,404 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,740** sobre $252,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$497,634** sobre $139,614,604 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,712** sobre $252,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 201 | 110 | 4 | 65% | $20,895,648 | +$1,139,391 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 1 | 54% | $5,700,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $25,200 | — | ⏳ Pendiente |
 | Talvez10 | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Curtis Blaydes | 2.63 (38¢) | $65,140 | — | ⏳ Pendiente |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | — | ⏳ Pendiente |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
-| 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
+| 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | — | ⏳ Pendiente |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | -$55,472 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | +$35,686 | ✅ Ganada |
-| kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | -$35,272 | ❌ Perdida |

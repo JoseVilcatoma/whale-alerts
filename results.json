@@ -39001,7 +39001,7 @@
     "side": "BUY",
     "usd": 31200.0,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789247757,
     "fills": 1
   },
@@ -39108,6 +39108,21 @@
     "odds_at_bet": 62,
     "status": "pending",
     "ultimo_fill": 1789250935,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5298,
+    "timestamp": 1789251144,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "ufc-ale17-man3-2026-09-12",
+    "title": "Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card)",
+    "outcome": "Manon Fiorot",
+    "side": "BUY",
+    "usd": 39999.6,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1789251144,
     "fills": 1
   }
 ]
