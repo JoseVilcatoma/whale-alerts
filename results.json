@@ -38205,5 +38205,20 @@
     "status": "pending",
     "ultimo_fill": 1789228980,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5176,
+    "timestamp": 1789229282,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "cfb-okl-mich-2026-09-12",
+    "title": "Oklahoma vs. Michigan",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "usd": 35272.22,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1789229282,
+    "fills": 1
   }
 ]

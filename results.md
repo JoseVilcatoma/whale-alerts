@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:07:30 (hora de Perú)
+Actualizado: 2026-09-12 11:09:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2542**  ($137,902,534 en total)
+- Apuestas registradas: **2543**  ($137,937,806 en total)
 - Resueltas: **2502** — 1511 ganadas / 991 perdidas (**60%** de acierto)
-- Pendientes: 29
-- Apostadores distintos: 373
+- Pendientes: 30
+- Apostadores distintos: 374
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | Talvez10 | 6 | 4 | 0 | 60% | $573,389 | +$150,485 |
 
-_(mostrando los 40 de mayor monto, de 373 en total)_
+_(mostrando los 40 de mayor monto, de 374 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | — | ⏳ Pendiente |
 | phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oklahoma (-4.5) | Oklahoma | 1.92 (52¢) | $29,707 | — | ⏳ Pendiente |
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 373 en total)_
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under 10.5 | 2.00 (50¢) | $90,382 | -$90,382 | ❌ Perdida |
 | ethanaz | Rutgers vs. Boston College | Boston College | 1.14 (88¢) | $117,279 | +$15,993 | ✅ Ganada |
 | Sassy-Bucket | Chicago White Sox vs. St. Louis Cardinals: O/U 7.5 | Over 7.5 | 1.92 (52¢) | $106,276 | +$98,101 | ✅ Ganada |
-| user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.41 (71¢) | $70,596 | +$28,835 | ✅ Ganada |
