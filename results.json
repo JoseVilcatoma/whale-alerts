@@ -38247,7 +38247,7 @@
     "side": "BUY",
     "usd": 49000.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789229561,
     "fills": 1
   },
@@ -38442,7 +38442,7 @@
     "side": "BUY",
     "usd": 34921.115,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789235405,
     "fills": 1
   },
@@ -38502,7 +38502,7 @@
     "side": "BUY",
     "usd": 100000.0,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789236586,
     "fills": 1
   },
@@ -38517,7 +38517,7 @@
     "side": "BUY",
     "usd": 46877.2267,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789236793,
     "fills": 1
   },
@@ -39016,6 +39016,21 @@
     "odds_at_bet": 45,
     "status": "pending",
     "ultimo_fill": 1789247771,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5265,
+    "timestamp": 1789248755,
+    "username": "SS787878",
+    "wallet": "0xdd7e989aee938a94a878256f00d1121be1760be3",
+    "slug": "cfb-ala-uk-2026-09-12",
+    "title": "Alabama vs. Kentucky",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 28969.6,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789248755,
     "fills": 1
   }
 ]

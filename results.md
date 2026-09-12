@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:30:40 (hora de Perú)
+Actualizado: 2026-09-12 16:32:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2596**  ($140,964,900 en total)
-- Resueltas: **2535** — 1524 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 50
+- Apuestas registradas: **2597**  ($140,993,869 en total)
+- Resueltas: **2539** — 1526 ganadas / 1013 perdidas (**60%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$154,896** sobre $137,770,154 apostados (ROI **+0.1%**)
-- Copiando $100 fijo en cada una: **-$8,228** sobre $250,100 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$93,940** sobre $138,000,952 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,224** sobre $250,500 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
-| Sassy-Bucket | 19 | 19 | 6 | 50% | $2,116,448 | -$15,771 |
+| Sassy-Bucket | 21 | 19 | 4 | 52% | $2,116,448 | +$70,150 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 12 | 1 | 64% | $1,380,360 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
-| BrotherObama | 9 | 14 | 2 | 39% | $1,312,524 | +$84,323 |
+| BrotherObama | 9 | 15 | 1 | 38% | $1,312,524 | -$15,677 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
@@ -104,12 +105,12 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | — | ⏳ Pendiente |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | — | ⏳ Pendiente |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
-| robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | — | ⏳ Pendiente |
-| BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | — | ⏳ Pendiente |
+| robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
+| BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
 | one8tyfive | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $33,930 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Varvara Lepchenko | 2.00 (50¢) | $61,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | — | ⏳ Pendiente |
+| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | +$34,921 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | — | ⏳ Pendiente |
@@ -122,7 +123,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | -$41,076 | ❌ Perdida |
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
-| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs | Heroic | 1.79 (56¢) | $45,419 | +$35,686 | ✅ Ganada |
 | kkookkoo | Oklahoma vs. Michigan | Oklahoma | 1.52 (66¢) | $35,272 | -$35,272 | ❌ Perdida |
 | phkjjd | Will Real Madrid CF win on 2026-09-12? | Yes | 1.18 (85¢) | $85,000 | +$15,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | SS787878 | Spread: Oregon (-23.5) | Oregon | 1.89 (53¢) | $26,905 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | -$48,940 | ❌ Perdida |
 | phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
