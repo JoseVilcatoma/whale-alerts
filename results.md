@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:38:38 (hora de Perú)
+Actualizado: 2026-09-12 10:40:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2538**  ($137,711,982 en total)
-- Resueltas: **2499** — 1509 ganadas / 990 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **2500** — 1510 ganadas / 990 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 372
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,074,519** sobre $135,783,343 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,839** sobre $246,600 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,082,959** sobre $135,813,269 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,810** sobre $246,700 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 372 en total)_
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | — | ⏳ Pendiente |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | — | ⏳ Pendiente |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | +$8,441 | ✅ Ganada |
 | 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | — | ⏳ Pendiente |
 | plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | — | ⏳ Pendiente |
 | plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | — | ⏳ Pendiente |
