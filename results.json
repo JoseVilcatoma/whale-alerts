@@ -37410,5 +37410,20 @@
     "status": "pending",
     "ultimo_fill": 1789177021,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5076,
+    "timestamp": 1789178431,
+    "username": "0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887",
+    "wallet": "0xc74e958f3bd160cb0c6a782d664ad8440e27e725",
+    "slug": "cs2-nrg-tl1-2026-09-11",
+    "title": "Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs",
+    "outcome": "Liquid",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789178431,
+    "fills": 1
   }
 ]

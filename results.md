@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 20:58:59 (hora de Perú)
+Actualizado: 2026-09-11 21:01:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2489**  ($135,177,554 en total)
+- Apuestas registradas: **2490**  ($135,207,554 en total)
 - Resueltas: **2458** — 1482 ganadas / 976 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 366
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | — | ⏳ Pendiente |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | joshlul | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.64 (61¢) | $77,716 | -$77,716 | ❌ Perdida |
 | HMLSF | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.75 (57¢) | $28,639 | -$28,639 | ❌ Perdida |
 | 110thst | Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | FURIA | 1.79 (56¢) | $196,839 | -$196,839 | ❌ Perdida |
-| 0x076d…8d4c | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $46,248 | +$50,102 | ✅ Ganada |
