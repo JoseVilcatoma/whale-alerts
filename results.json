@@ -37320,5 +37320,20 @@
     "status": "pending",
     "ultimo_fill": 1789171725,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5068,
+    "timestamp": 1789172244,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "cfb-rutger-boscol-2026-09-11",
+    "title": "Rutgers vs. Boston College",
+    "outcome": "Boston College",
+    "side": "BUY",
+    "usd": 117279.10200000001,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789172331,
+    "fills": 2
   }
 ]
