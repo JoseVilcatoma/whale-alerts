@@ -37692,7 +37692,7 @@
     "side": "BUY",
     "usd": 29388.229999,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789199608,
     "fills": 1
   },
@@ -37947,7 +37947,7 @@
     "side": "BUY",
     "usd": 304030.19999999995,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789217774,
     "fills": 1
   },
@@ -38234,6 +38234,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1789229420,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5181,
+    "timestamp": 1789229561,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-pit-chc-2026-09-12-total-9pt5",
+    "title": "Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 49000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789229561,
     "fills": 1
   }
 ]
