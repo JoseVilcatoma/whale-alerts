@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:24:59 (hora de Perú)
+Actualizado: 2026-09-12 00:27:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2500**  ($135,586,572 en total)
+- Apuestas registradas: **2501**  ($135,716,192 en total)
 - Resueltas: **2475** — 1493 ganadas / 982 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 368
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
 | 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: Hanwha Life Esports vs T1 - Game 1 Winner | Hanwha Life Esports | 1.79 (56¢) | $31,511 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | +$38,000 | ✅ Ganada |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | +$47,500 | ✅ Ganada |
 | 0x78be…bde0 | Pittsburgh Pirates vs. Chicago Cubs | Chicago Cubs | 1.56 (64¢) | $32,000 | +$18,000 | ✅ Ganada |
-| R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |

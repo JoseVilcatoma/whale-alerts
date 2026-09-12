@@ -37575,5 +37575,20 @@
     "status": "pending",
     "ultimo_fill": 1789190343,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5105,
+    "timestamp": 1789190813,
+    "username": "phonesculptor",
+    "wallet": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+    "slug": "epl-sun-ars-2026-09-12-sun",
+    "title": "Will Sunderland AFC win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 129620.08399999999,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789190813,
+    "fills": 1
   }
 ]
