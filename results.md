@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 07:03:04 (hora de Perú)
+Actualizado: 2026-09-12 07:05:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2520**  ($136,663,190 en total)
+- Apuestas registradas: **2521**  ($136,693,838 en total)
 - Resueltas: **2491** — 1503 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 371
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | — | ⏳ Pendiente |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | +$5,841 | ✅ Ganada |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.79 (56¢) | $32,095 | +$25,218 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | -$91,767 | ❌ Perdida |
-| ndb1 | Will Sevilla FC win on 2026-09-11? | No | 2.17 (46¢) | $42,593 | -$42,593 | ❌ Perdida |
