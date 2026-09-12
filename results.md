@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:15:31 (hora de Perú)
+Actualizado: 2026-09-12 13:17:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2565**  ($139,142,450 en total)
-- Resueltas: **2511** — 1512 ganadas / 999 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Resueltas: **2515** — 1513 ganadas / 1002 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$463,394** sobre $136,541,703 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,629** sobre $247,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$340,629** sobre $136,715,598 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$7,844** sobre $248,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
-| BrotherObama | 9 | 13 | 3 | 41% | $1,312,524 | +$114,323 |
+| BrotherObama | 9 | 14 | 2 | 39% | $1,312,524 | +$84,323 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 5 | 1 | 0 | ⚠️ 83% (6) | $856,111 | +$105,324 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 6 | 9 | 2 | 40% | $765,725 | -$238,105 |
-| gransaaa | 7 | 9 | 2 | 44% | $706,741 | -$83,770 |
+| gransaaa | 7 | 10 | 1 | 41% | $706,741 | -$140,254 |
 | Jsram | 9 | 4 | 3 | 69% | $685,612 | +$52,157 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -103,8 +103,8 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
 | SS787878 | Spread: Texas (-1.5) | Texas | 1.92 (52¢) | $38,139 | — | ⏳ Pendiente |
-| betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | — | ⏳ Pendiente |
-| lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
+| betopinto | Will AC Milan win on 2026-09-12? | No | 1.85 (54¢) | $27,610 | +$23,520 | ✅ Ganada |
+| lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | -$59,800 | ❌ Perdida |
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | -$80,000 | ❌ Perdida |
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | +$25,200 | ✅ Ganada |
@@ -117,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | +$27,000 | ✅ Ganada |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | -$44,132 | ❌ Perdida |
-| BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
 | zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | +$3,910 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
