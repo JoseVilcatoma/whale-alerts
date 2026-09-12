@@ -38805,5 +38805,35 @@
     "status": "pending",
     "ultimo_fill": 1789241933,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5238,
+    "timestamp": 1789242454,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-unlv-ntx-2026-09-12",
+    "title": "UNLV vs. North Texas",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 57629.5018,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1789242454,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5239,
+    "timestamp": 1789242459,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-ala-uk-2026-09-12",
+    "title": "Alabama vs. Kentucky",
+    "outcome": "Kentucky",
+    "side": "BUY",
+    "usd": 33149.2836,
+    "odds_at_bet": 23,
+    "status": "pending",
+    "ultimo_fill": 1789242459,
+    "fills": 1
   }
 ]

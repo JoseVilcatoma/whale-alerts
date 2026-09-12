@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:45:43 (hora de Perú)
+Actualizado: 2026-09-12 14:47:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2582**  ($140,256,692 en total)
+- Apuestas registradas: **2584**  ($140,347,471 en total)
 - Resueltas: **2523** — 1517 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 376
 
 ### Balance
@@ -38,13 +38,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 19 | 1 | 54% | $2,186,659 | -$29,741 |
-| Sassy-Bucket | 19 | 19 | 3 | 50% | $1,940,306 | -$15,771 |
+| Sassy-Bucket | 19 | 19 | 4 | 50% | $1,997,935 | -$15,771 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
+| ferrariChampions2026 | 21 | 12 | 1 | 64% | $1,380,360 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | BrotherObama | 9 | 14 | 2 | 39% | $1,312,524 | +$84,323 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | — | ⏳ Pendiente |
+| Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
 | 0x089df75eFAC3B1028842764610Fc9AE90A430627-1783295299471 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.69 (59¢) | $27,903 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 376 en total)_
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | -$50,833 | ❌ Perdida |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | +$8,441 | ✅ Ganada |
 | 00gringo00 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $304,030 | -$304,030 | ❌ Perdida |
-| plonker2026 | Spread: Chelsea FC (-1.5) | Chelsea FC | 1.64 (61¢) | $44,557 | -$44,557 | ❌ Perdida |
-| plonker2026 | Will 1. FSV Mainz 05 win on 2026-09-12? | Yes | 1.82 (55¢) | $35,338 | -$35,338 | ❌ Perdida |
