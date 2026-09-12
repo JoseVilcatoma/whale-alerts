@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 10:08:04 (hora de Perú)
+Actualizado: 2026-09-12 10:10:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2531**  ($137,370,055 en total)
-- Resueltas: **2497** — 1507 ganadas / 990 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **2532**  ($137,429,855 en total)
+- Resueltas: **2499** — 1509 ganadas / 990 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 371
 
 ### Balance
 
-- **Resultado de los apostadores: +$1,036,919** sobre $135,720,943 apostados (ROI **+0.8%**)
-- Copiando $100 fijo en cada una: **-$6,959** sobre $246,400 (ROI **-2.8%**)
+- **Resultado de los apostadores: +$1,074,519** sobre $135,783,343 apostados (ROI **+0.8%**)
+- Copiando $100 fijo en cada una: **-$6,839** sobre $246,600 (ROI **-2.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 197 | 109 | 3 | 64% | $20,537,560 | +$1,008,871 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 198 | 109 | 2 | 64% | $20,537,560 | +$1,023,671 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 62 | 0 | 54% | $5,660,918 | -$130,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
-| Diabolical-Prize | 20 | 19 | 1 | 51% | $2,031,545 | -$134,988 |
+| Diabolical-Prize | 21 | 19 | 0 | 52% | $2,031,545 | -$112,188 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 19 | 19 | 0 | 50% | $1,825,007 | -$15,771 |
 | Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | — | ⏳ Pendiente |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | — | ⏳ Pendiente |
 | raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | — | ⏳ Pendiente |
@@ -86,8 +87,8 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
 | zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | — | ⏳ Pendiente |
-| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | — | ⏳ Pendiente |
+| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.61 (62¢) | $37,200 | +$22,800 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs | G2 | 1.59 (63¢) | $25,200 | +$14,800 | ✅ Ganada |
 | nigiri99 | Spread: Oklahoma (-4.5) | Oklahoma | 2.00 (50¢) | $72,229 | — | ⏳ Pendiente |
 | Zywoo123 | LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner | Invictus Gaming | 1.72 (58¢) | $29,000 | +$21,000 | ✅ Ganada |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs | Anyones Legend | 2.00 (50¢) | $100,000 | +$100,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | 0x076d…8d4c | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $27,379 | +$19,026 | ✅ Ganada |
 | vjnn | Colorado Rockies vs. Detroit Tigers: O/U 7.5 | Over 7.5 | 1.82 (55¢) | $25,967 | +$21,246 | ✅ Ganada |
 | Weaseloftheweek | Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5) | Shelton | 1.82 (55¢) | $65,214 | +$53,357 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giants | San Diego Padres | 1.69 (59¢) | $43,780 | +$30,423 | ✅ Ganada |

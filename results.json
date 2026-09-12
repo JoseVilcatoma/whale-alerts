@@ -37797,7 +37797,7 @@
     "side": "BUY",
     "usd": 25200.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789206875,
     "fills": 1
   },
@@ -37812,7 +37812,7 @@
     "side": "BUY",
     "usd": 37200.0,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789207397,
     "fills": 1
   },
@@ -38039,6 +38039,21 @@
     "odds_at_bet": 86,
     "status": "pending",
     "ultimo_fill": 1789221239,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5162,
+    "timestamp": 1789225782,
+    "username": "lucidarderi",
+    "wallet": "0xc7b555bf52c96d319e6d0431bb1a19caa3fa4527",
+    "slug": "sea-laz-mil-2026-09-12-mil",
+    "title": "Will AC Milan win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 59800.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1789225782,
     "fills": 1
   }
 ]
