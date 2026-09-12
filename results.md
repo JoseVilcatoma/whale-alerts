@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:06:31 (hora de Perú)
+Actualizado: 2026-09-12 00:08:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2496**  ($135,452,717 en total)
+- Apuestas registradas: **2498**  ($135,518,614 en total)
 - Resueltas: **2470** — 1491 ganadas / 979 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 367
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 21 | 12 | 0 | 64% | $1,347,211 | -$431,960 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 1 | 0 | 95% | $1,304,502 | +$83,459 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| BrotherObama | 5 | 10 | 5 | 33% | $1,022,524 | +$12,872 |
+| BrotherObama | 5 | 10 | 6 | 33% | $1,052,524 | +$12,872 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.44 (41¢) | $30,000 | — | ⏳ Pendiente |
+| mooseborzoi | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $35,897 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.50 (40¢) | $47,029 | — | ⏳ Pendiente |
 | BrotherObama | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 2.94 (34¢) | $50,000 | — | ⏳ Pendiente |
 | gransaaa | Will AFC Bournemouth win on 2026-09-12? | Yes | 2.63 (38¢) | $26,182 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 | R88N | Will 1. FC Union Berlin win on 2026-09-11? | Yes | 2.50 (40¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs | ShindeN | 2.27 (44¢) | $30,800 | +$39,200 | ✅ Ganada |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs | Pittsburgh Pirates | 2.70 (37¢) | $32,277 | -$32,277 | ❌ Perdida |
-| 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | LoL: GIANTX vs Natus Vincere - Game 2 Winner | Natus Vincere | 1.72 (58¢) | $25,673 | -$25,673 | ❌ Perdida |
-| BrotherObama | Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs | Nemiga | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
