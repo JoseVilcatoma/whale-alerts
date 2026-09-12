@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 14:04:27 (hora de Perú)
+Actualizado: 2026-09-12 14:06:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2576**  ($140,052,351 en total)
+- Apuestas registradas: **2577**  ($140,085,887 en total)
 - Resueltas: **2522** — 1516 ganadas / 1006 perdidas (**60%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 375
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $33,536 | — | ⏳ Pendiente |
 | afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | — | ⏳ Pendiente |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | -$44,132 | ❌ Perdida |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | -$30,000 | ❌ Perdida |
 | timezonewarrior | O/U 1.5 Rounds | Over 1.5 Rounds | 1.59 (63¢) | $36,540 | — | ⏳ Pendiente |
-| zhqzhq | Will SC Paderborn 07 win on 2026-09-12? | No | 1.09 (92¢) | $44,960 | +$3,910 | ✅ Ganada |
