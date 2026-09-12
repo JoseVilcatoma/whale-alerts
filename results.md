@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 02:27:08 (hora de Perú)
+Actualizado: 2026-09-12 02:29:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2505**  ($135,939,099 en total)
+- Apuestas registradas: **2506**  ($135,965,499 en total)
 - Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 368
+- Pendientes: 15
+- Apostadores distintos: 369
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261 | 10 | 5 | 0 | 67% | $573,347 | -$4,560 |
 | texaskid | 5 | 6 | 0 | 45% | $564,461 | -$81,216 |
 
-_(mostrando los 40 de mayor monto, de 368 en total)_
+_(mostrando los 40 de mayor monto, de 369 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Caishenbaoyouwo888 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | T1 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: Hanwha Life Esports vs T1 - Game 2 Winner | Hanwha Life Esports | 1.89 (53¢) | $28,935 | — | ⏳ Pendiente |
 | 110thst | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | Legacy | 1.49 (67¢) | $134,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 | bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | -$29,444 | ❌ Perdida |
 | matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | -$33,867 | ❌ Perdida |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $66,656 | +$14,632 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | -$106,000 | ❌ Perdida |

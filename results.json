@@ -37650,5 +37650,20 @@
     "status": "pending",
     "ultimo_fill": 1789197182,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5115,
+    "timestamp": 1789198061,
+    "username": "Caishenbaoyouwo888",
+    "wallet": "0x751be7122f148fba5aa2021ace98edc2001873fd",
+    "slug": "lol-hle1-t1-2026-09-12",
+    "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "usd": 26400.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1789198061,
+    "fills": 1
   }
 ]
