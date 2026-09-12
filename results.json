@@ -38370,5 +38370,20 @@
     "status": "pending",
     "ultimo_fill": 1789231645,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5190,
+    "timestamp": 1789233620,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-sun-ars-2026-09-12-ars",
+    "title": "Will Arsenal FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 28660.665599999997,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1789233620,
+    "fills": 1
   }
 ]
