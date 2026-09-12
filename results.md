@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 07:13:39 (hora de Perú)
+Actualizado: 2026-09-12 07:15:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2521**  ($136,693,838 en total)
+- Apuestas registradas: **2522**  ($136,721,940 en total)
 - Resueltas: **2492** — 1504 ganadas / 988 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 371
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | wr0ngw4yb3tt0r | 24 | 16 | 0 | 60% | $2,148,751 | -$615,503 |
-| Diabolical-Prize | 18 | 19 | 2 | 49% | $2,003,443 | -$314,988 |
+| Diabolical-Prize | 18 | 19 | 3 | 49% | $2,031,545 | -$314,988 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Sassy-Bucket | 19 | 19 | 0 | 50% | $1,825,007 | -$15,771 |
 | Weaseloftheweek | 18 | 16 | 0 | 53% | $1,728,053 | -$35,059 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 - Map 2 Winner | G2 | 1.96 (51¢) | $28,102 | — | ⏳ Pendiente |
 | StasPanda | Counter-Strike: SAW vs Luminosity (BO3) - Roman Imperium Cup Playoffs | Luminosity | 1.49 (67¢) | $30,648 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner | Invictus Gaming | 1.92 (52¢) | $44,132 | — | ⏳ Pendiente |
 | BrotherObama | Will AC Milan win on 2026-09-12? | Yes | 2.13 (47¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 371 en total)_
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 10.5 | Over 10.5 | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.22 (82¢) | $26,608 | +$5,841 | ✅ Ganada |
 | 00gringo00 | Will Sevilla FC win on 2026-09-11? | Yes | 1.79 (56¢) | $32,095 | +$25,218 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No | 2.22 (45¢) | $91,767 | -$91,767 | ❌ Perdida |
