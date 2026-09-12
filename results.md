@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 17:54:58 (hora de Perú)
+Actualizado: 2026-09-12 17:57:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2604**  ($141,264,784 en total)
+- Apuestas registradas: **2605**  ($141,302,784 en total)
 - Resueltas: **2565** — 1544 ganadas / 1021 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 26 | 17 | 3 | 60% | $2,638,806 | -$420,667 |
+| wr0ngw4yb3tt0r | 26 | 17 | 4 | 60% | $2,676,806 | -$420,667 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma | 1.54 (65¢) | $41,076 | -$41,076 | ❌ Perdida |
 | Weaseloftheweek | Tottenham Hotspur FC vs. Everton FC: Both Teams to Score | Yes | 1.67 (60¢) | $40,896 | -$40,896 | ❌ Perdida |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Game 2 Winner | Team Vitality | 2.13 (47¢) | $73,114 | +$82,448 | ✅ Ganada |
-| Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.04 (49¢) | $49,000 | +$51,000 | ✅ Ganada |
