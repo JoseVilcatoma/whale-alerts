@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:51:25 (hora de Perú)
+Actualizado: 2026-09-12 16:55:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2600**  ($141,115,356 en total)
-- Resueltas: **2558** — 1540 ganadas / 1018 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Resueltas: **2560** — 1541 ganadas / 1019 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$470,654** sobre $139,456,930 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,795** sobre $252,400 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$466,470** sobre $139,515,213 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,822** sobre $252,600 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Diabolical-Prize | 22 | 20 | 0 | 52% | $2,186,659 | -$111,741 |
-| Sassy-Bucket | 21 | 21 | 3 | 50% | $2,146,312 | -$48,363 |
+| Sassy-Bucket | 22 | 21 | 2 | 51% | $2,146,312 | -$25,641 |
 | 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
