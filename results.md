@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 18:33:57 (hora de Perú)
+Actualizado: 2026-09-12 18:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2578** — 1550 ganadas / 1028 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2581** — 1552 ganadas / 1029 perdidas (**60%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$540,687** sobre $140,177,346 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,760** sobre $254,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$545,254** sobre $140,265,948 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,724** sobre $254,600 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 26 | 18 | 3 | 59% | $2,676,806 | -$445,748 |
+| wr0ngw4yb3tt0r | 27 | 18 | 2 | 60% | $2,676,806 | -$427,345 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Diabolical-Prize | 22 | 20 | 1 | 52% | $2,235,302 | -$111,741 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 12 | 1 | 64% | $1,380,360 | -$431,960 |
+| ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | BrotherObama | 9 | 15 | 1 | 38% | $1,312,524 | -$15,677 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -82,9 +82,9 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | -$42,749 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
 | Talvez10 | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Curtis Blaydes | 2.63 (38¢) | $65,140 | +$106,281 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | +$18,403 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | -$29,864 | ❌ Perdida |
-| SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | — | ⏳ Pendiente |
+| SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | +$19,313 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | +$28,410 | ✅ Ganada |
 | SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | -$33,149 | ❌ Perdida |
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | — | ⏳ Pendiente |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
