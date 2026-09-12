@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 17:01:31 (hora de Perú)
+Actualizado: 2026-09-12 17:03:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2601**  ($141,140,556 en total)
-- Resueltas: **2560** — 1541 ganadas / 1019 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **2561** — 1542 ganadas / 1019 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$466,470** sobre $139,515,213 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,822** sobre $252,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$489,536** sobre $139,543,404 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,740** sobre $252,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | -$82,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | +$74,787 | ✅ Ganada |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | +$23,066 | ✅ Ganada |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | -$95,499 | ❌ Perdida |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | — | ⏳ Pendiente |
 | robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
