@@ -38987,5 +38987,35 @@
     "status": "pending",
     "ultimo_fill": 1789246934,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5261,
+    "timestamp": 1789247757,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "ufc-dan2-dav32-2026-09-12",
+    "title": "Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card)",
+    "outcome": "David Martinez",
+    "side": "BUY",
+    "usd": 31200.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1789247757,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5262,
+    "timestamp": 1789247771,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tex-ari-2026-09-12",
+    "title": "Texas Rangers vs. Arizona Diamondbacks",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "usd": 57933.639,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1789247771,
+    "fills": 1
   }
 ]

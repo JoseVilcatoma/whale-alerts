@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 16:14:15 (hora de Perú)
+Actualizado: 2026-09-12 16:16:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2594**  ($140,875,766 en total)
+- Apuestas registradas: **2596**  ($140,964,900 en total)
 - Resueltas: **2534** — 1523 ganadas / 1011 perdidas (**60%** de acierto)
-- Pendientes: 49
+- Pendientes: 51
 - Apostadores distintos: 377
 
 ### Balance
@@ -32,8 +32,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| wr0ngw4yb3tt0r | 24 | 17 | 4 | 59% | $2,612,324 | -$656,579 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| wr0ngw4yb3tt0r | 24 | 17 | 3 | 59% | $2,554,390 | -$656,579 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
+| 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | — | ⏳ Pendiente |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | — | ⏳ Pendiente |
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | — | ⏳ Pendiente |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Oklahoma (-4.5) | Oklahoma | 1.96 (51¢) | $48,940 | -$48,940 | ❌ Perdida |
 | phonesculptor | Old Dominion vs. Virginia Tech | Virginia Tech | 1.11 (90¢) | $81,000 | +$9,000 | ✅ Ganada |
 | plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
-| plonker2026 | Will Tottenham Hotspur FC win on 2026-09-12? | No | 1.92 (52¢) | $52,000 | +$48,000 | ✅ Ganada |
-| Sassy-Bucket | Wake Forest vs. Purdue | Wake Forest | 1.72 (58¢) | $31,378 | — | ⏳ Pendiente |
