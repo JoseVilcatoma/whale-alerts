@@ -37815,5 +37815,20 @@
     "status": "pending",
     "ultimo_fill": 1789207397,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5138,
+    "timestamp": 1789209230,
+    "username": "zhqzhq",
+    "wallet": "0xac715194f101aa682a63e56d979e58e6b2e40b92",
+    "slug": "bun-dor-scp-2026-09-12-scp",
+    "title": "Will SC Paderborn 07 win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 44959.8664,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1789209230,
+    "fills": 1
   }
 ]
