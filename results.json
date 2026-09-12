@@ -37407,7 +37407,7 @@
     "side": "BUY",
     "usd": 32686.524,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789177021,
     "fills": 1
   },
@@ -37484,6 +37484,21 @@
     "odds_at_bet": 38,
     "status": "pending",
     "ultimo_fill": 1789188111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5093,
+    "timestamp": 1789188981,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-lgc-mibr-2026-09-12",
+    "title": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "usd": 50000.00000000001,
+    "odds_at_bet": 34,
+    "status": "pending",
+    "ultimo_fill": 1789188981,
     "fills": 1
   }
 ]
