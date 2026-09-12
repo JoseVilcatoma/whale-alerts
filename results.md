@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:14:42 (hora de Perú)
+Actualizado: 2026-09-12 00:16:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2499**  ($135,550,125 en total)
-- Resueltas: **2470** — 1491 ganadas / 979 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Resueltas: **2471** — 1491 ganadas / 980 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 367
 
 ### Balance
 
-- **Resultado de los apostadores: +$824,596** sobre $134,434,126 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$7,069** sobre $243,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$794,596** sobre $134,464,126 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$7,169** sobre $243,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 367 en total)_
 | gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
 | HectorHuang | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $40,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $25,468 | — | ⏳ Pendiente |
-| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | — | ⏳ Pendiente |
+| 0x82f2681b02B627fAD336dA5d7331F8698e62442E-1774104970887 | Counter-Strike: NRG vs Liquid (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs | Liquid | 1.67 (60¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Sassy-Bucket | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.92 (52¢) | $32,687 | +$30,172 | ✅ Ganada |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners | 2.00 (50¢) | $25,618 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Philadelphia Phillies | 1.43 (70¢) | $25,937 | -$25,937 | ❌ Perdida |
