@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 13:07:23 (hora de Perú)
+Actualizado: 2026-09-12 13:09:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2561**  ($138,859,039 en total)
-- Resueltas: **2510** — 1511 ganadas / 999 perdidas (**60%** de acierto)
-- Pendientes: 40
+- Resueltas: **2511** — 1512 ganadas / 999 perdidas (**60%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 375
 
 ### Balance
 
-- **Resultado de los apostadores: +$438,194** sobre $136,506,904 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,702** sobre $247,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$463,394** sobre $136,541,703 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,629** sobre $247,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -103,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 375 en total)_
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes | 2.17 (46¢) | $59,800 | — | ⏳ Pendiente |
 | Roadto1mlesgooo | Liverpool FC vs. Fulham FC: O/U 1.5 | Over 1.5 | 1.16 (86¢) | $29,464 | -$29,464 | ❌ Perdida |
 | surfandturf | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $80,000 | -$80,000 | ❌ Perdida |
-| raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | — | ⏳ Pendiente |
+| raybanman | Will Aston Villa FC win on 2026-09-12? | No | 1.72 (58¢) | $34,799 | +$25,200 | ✅ Ganada |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $39,167 | -$39,167 | ❌ Perdida |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes | 1.25 (80¢) | $50,833 | -$50,833 | ❌ Perdida |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Borussia Mönchengladbach win on 2026-09-12? | No | 1.28 (78¢) | $29,926 | +$8,441 | ✅ Ganada |
