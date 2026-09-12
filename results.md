@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 02:51:48 (hora de Perú)
+Actualizado: 2026-09-12 02:53:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2507**  ($136,001,474 en total)
+- Apuestas registradas: **2508**  ($136,030,863 en total)
 - Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 369
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 369 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ptrck7 | Will Liverpool FC win on 2026-09-12? | Yes | 1.54 (65¢) | $29,388 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | Hanwha Life Esports | 1.69 (59¢) | $35,975 | — | ⏳ Pendiente |
 | Caishenbaoyouwo888 | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | Hanwha Life Esports | 1.14 (88¢) | $26,400 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3 Winner | T1 | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 369 en total)_
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.08 (48¢) | $170,565 | +$184,779 | ✅ Ganada |
 | totoro3miyazaki | Will Sevilla FC win on 2026-09-11? | Yes | 1.92 (52¢) | $175,730 | +$162,212 | ✅ Ganada |
 | bambambole | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $29,444 | -$29,444 | ❌ Perdida |
-| matanovik | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $33,867 | -$33,867 | ❌ Perdida |

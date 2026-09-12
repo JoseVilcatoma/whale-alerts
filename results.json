@@ -37680,5 +37680,20 @@
     "status": "pending",
     "ultimo_fill": 1789198756,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5117,
+    "timestamp": 1789199608,
+    "username": "ptrck7",
+    "wallet": "0x96c2e57df188b3593ea675ebaf31d29d46ed5741",
+    "slug": "epl-liv-ful-2026-09-12-liv",
+    "title": "Will Liverpool FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29388.229999,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1789199608,
+    "fills": 1
   }
 ]
