@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 11:46:11 (hora de Perú)
+Actualizado: 2026-09-12 11:48:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2552**  ($138,505,012 en total)
+- Apuestas registradas: **2553**  ($138,541,080 en total)
 - Resueltas: **2505** — 1511 ganadas / 994 perdidas (**60%** de acierto)
-- Pendientes: 36
-- Apostadores distintos: 374
+- Pendientes: 37
+- Apostadores distintos: 375
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 6 | 5 | 0 | 55% | $584,158 | +$105,424 |
 | Talvez10 | 6 | 4 | 0 | 60% | $573,389 | +$150,485 |
 
-_(mostrando los 40 de mayor monto, de 374 en total)_
+_(mostrando los 40 de mayor monto, de 375 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | — | ⏳ Pendiente |
 | 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | — | ⏳ Pendiente |
 | ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | — | ⏳ Pendiente |
 | ChayEhc | Will Athletic Club win on 2026-09-12? | Yes | 1.43 (70¢) | $80,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 374 en total)_
 | BrotherObama | LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs | T1 | 2.50 (40¢) | $47,029 | -$47,029 | ❌ Perdida |
 | BrotherObama | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | MIBR | 2.94 (34¢) | $50,000 | -$50,000 | ❌ Perdida |
 | gransaaa | Will AFC Bournemouth win on 2026-09-12? | Yes | 2.63 (38¢) | $26,182 | — | ⏳ Pendiente |
-| gransaaa | Will AC Milan win on 2026-09-12? | Yes | 2.33 (43¢) | $56,484 | — | ⏳ Pendiente |
