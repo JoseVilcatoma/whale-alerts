@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 00:51:53 (hora de Perú)
+Actualizado: 2026-09-12 00:53:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2502**  ($135,746,164 en total)
+- Apuestas registradas: **2503**  ($135,880,164 en total)
 - Resueltas: **2480** — 1496 ganadas / 984 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 368
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 110thst | Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs | Legacy | 1.49 (67¢) | $134,000 | — | ⏳ Pendiente |
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR | 1.67 (60¢) | $29,971 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $129,620 | — | ⏳ Pendiente |
 | phonesculptor | Will Sunderland AFC win on 2026-09-12? | No | 1.14 (88¢) | $36,447 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 368 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Stade Rennais FC 1901 win on 2026-09-11? | No | 1.89 (53¢) | $106,000 | -$106,000 | ❌ Perdida |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-09-11? | Yes | 2.13 (47¢) | $392,092 | +$442,146 | ✅ Ganada |
 | googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $162,000 | +$38,000 | ✅ Ganada |
-| googleplay | US Open ATP: Alexander Zverev vs Karen Khachanov | Alexander Zverev | 1.23 (81¢) | $202,500 | +$47,500 | ✅ Ganada |

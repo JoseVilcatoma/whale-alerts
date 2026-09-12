@@ -37605,5 +37605,20 @@
     "status": "pending",
     "ultimo_fill": 1789191254,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5112,
+    "timestamp": 1789192347,
+    "username": "110thst",
+    "wallet": "0x1eeaf77002cf1eef5305abae702ddc3ccc86db08",
+    "slug": "cs2-lgc-mibr-2026-09-12",
+    "title": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 134000.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789192347,
+    "fills": 1
   }
 ]
