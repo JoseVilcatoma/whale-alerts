@@ -38070,5 +38070,20 @@
     "status": "pending",
     "ultimo_fill": 1789226106,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5164,
+    "timestamp": 1789226287,
+    "username": "SS787878",
+    "wallet": "0xdd7e989aee938a94a878256f00d1121be1760be3",
+    "slug": "cfb-ohiost-tx-2026-09-12-spread-home-1pt5",
+    "title": "Spread: Texas (-1.5)",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 38139.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789226287,
+    "fills": 1
   }
 ]
