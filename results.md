@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-11 21:30:38 (hora de Perú)
+Actualizado: 2026-09-11 21:32:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2491**  ($135,233,022 en total)
-- Resueltas: **2459** — 1482 ganadas / 977 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2460** — 1482 ganadas / 978 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 366
 
 ### Balance
 
-- **Resultado de los apostadores: +$452,812** sobre $133,710,728 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,457** sobre $242,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$423,250** sobre $133,740,291 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,557** sobre $242,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 366 en total)_
 | 0x17C4f7E008fE22D69865F73f29329B6E76B92471-1780774412121 | Cleveland Guardians vs. Minnesota Twins | Cleveland Guardians | 1.85 (54¢) | $140,114 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $64,848 | — | ⏳ Pendiente |
 | user098422 | US Open ATP: Frances Tiafoe vs Ben Shelton | Ben Shelton | 1.39 (72¢) | $26,885 | — | ⏳ Pendiente |
-| SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | — | ⏳ Pendiente |
+| SharkbetX-com | Baltimore Orioles vs. Toronto Blue Jays | Toronto Blue Jays | 1.82 (55¢) | $29,563 | -$29,563 | ❌ Perdida |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. San Francisco Giants | San Francisco Giants | 2.44 (41¢) | $41,265 | — | ⏳ Pendiente |
 | HMLSF | Colorado Rockies vs. Detroit Tigers | Detroit Tigers | 1.47 (68¢) | $49,875 | +$23,471 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Angels vs. Washington Nationals | Los Angeles Angels | 2.44 (41¢) | $36,900 | -$36,900 | ❌ Perdida |
