@@ -39214,5 +39214,20 @@
     "status": "pending",
     "ultimo_fill": 1789255223,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5321,
+    "timestamp": 1789255616,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "ufc-bra2-jos5-2026-09-12",
+    "title": "Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card)",
+    "outcome": "Brandon Moreno",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789255616,
+    "fills": 1
   }
 ]
