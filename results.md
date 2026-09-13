@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:43:02 (hora de Perú)
+Actualizado: 2026-09-13 10:45:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2687**  ($145,485,432 en total)
-- Resueltas: **2645** — 1581 ganadas / 1064 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **2646** — 1582 ganadas / 1064 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 386
 
 ### Balance
 
-- **Resultado de los apostadores: +$233,365** sobre $143,765,756 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,961** sobre $260,900 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$238,138** sobre $143,800,756 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,948** sobre $261,000 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
-| zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
+| zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | +$4,773 | ✅ Ganada |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | — | ⏳ Pendiente |
 | SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | -$26,072 | ❌ Perdida |
