@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 06:44:35 (hora de Perú)
+Actualizado: 2026-09-13 06:46:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2654**  ($143,808,772 en total)
+- Apuestas registradas: **2655**  ($143,880,753 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 381
 
 ### Balance
@@ -59,10 +59,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | Jsram | 12 | 4 | 2 | 75% | $759,112 | +$112,891 |
 | Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 1 | 58% | $684,011 | +$124,793 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
 _(mostrando los 40 de mayor monto, de 381 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | — | ⏳ Pendiente |
 | R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | -$29,864 | ❌ Perdida |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | +$19,313 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | +$70,808 | ✅ Ganada |
-| 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
