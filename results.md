@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 03:15:16 (hora de Perú)
+Actualizado: 2026-09-13 03:17:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2639**  ($142,787,919 en total)
+- Apuestas registradas: **2640**  ($142,814,854 en total)
 - Resueltas: **2608** — 1564 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 380
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 380 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | — | ⏳ Pendiente |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 380 en total)_
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | -$57,630 | ❌ Perdida |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
-| 0x089df75eFAC3B1028842764610Fc9AE90A430627-1783295299471 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.69 (59¢) | $27,903 | -$27,903 | ❌ Perdida |
