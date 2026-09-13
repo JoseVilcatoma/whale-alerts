@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 13:10:24 (hora de Perú)
+Actualizado: 2026-09-13 13:12:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2704**  ($146,219,680 en total)
+- Apuestas registradas: **2705**  ($146,256,406 en total)
 - Resueltas: **2664** — 1595 ganadas / 1069 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 389
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | — | ⏳ Pendiente |
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | +$211,777 | ✅ Ganada |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | +$20,867 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Coventry City FC win on 2026-09-13? | No | 1.30 (77¢) | $29,647 | +$8,856 | ✅ Ganada |
-| 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | -$33,941 | ❌ Perdida |
