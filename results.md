@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:59:20 (hora de Perú)
+Actualizado: 2026-09-13 11:01:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2687**  ($145,485,432 en total)
-- Resueltas: **2648** — 1584 ganadas / 1064 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **2649** — 1584 ganadas / 1065 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 386
 
 ### Balance
 
-- **Resultado de los apostadores: +$272,247** sobre $143,858,373 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,827** sobre $261,200 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$233,655** sobre $143,896,965 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,927** sobre $261,300 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $138,015 | +$182,950 | ✅ Ganada |
 | doubylinkedlist | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.75 (57¢) | $26,952 | +$20,332 | ✅ Ganada |
-| 1l2ihj34li12u34 | FC Zurich vs. FC Vaduz: O/U 3.5 | Over 3.5 | 1.92 (52¢) | $38,592 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | FC Zurich vs. FC Vaduz: O/U 3.5 | Over 3.5 | 1.92 (52¢) | $38,592 | -$38,592 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | +$95,417 | ✅ Ganada |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | -$107,666 | ❌ Perdida |
