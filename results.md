@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 16:06:34 (hora de Perú)
+Actualizado: 2026-09-13 16:08:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2719**  ($146,920,275 en total)
+- Apuestas registradas: **2720**  ($146,998,175 en total)
 - Resueltas: **2679** — 1604 ganadas / 1075 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 390
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
 | vjnn | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $46,185 | -$46,185 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $271,294 | -$271,294 | ❌ Perdida |
-| totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
