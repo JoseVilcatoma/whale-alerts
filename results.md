@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 14:52:44 (hora de Perú)
+Actualizado: 2026-09-13 14:54:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2709**  ($146,476,669 en total)
-- Resueltas: **2668** — 1596 ganadas / 1072 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2669** — 1596 ganadas / 1073 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$537,614** sobre $144,782,190 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,623** sobre $262,800 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$512,055** sobre $144,807,749 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,723** sobre $262,900 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 11 | 0 | 35% | $961,219 | -$280,813 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
-| gransaaa | 9 | 11 | 1 | 45% | $842,550 | -$31,686 |
+| gransaaa | 9 | 12 | 0 | 43% | $842,550 | -$57,245 |
 | Jsram | 12 | 8 | 0 | 60% | $829,230 | -$30,726 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
 | Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
 | SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
-| gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
+| gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | -$25,559 | ❌ Perdida |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | +$4,773 | ✅ Ganada |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | +$5,950 | ✅ Ganada |
