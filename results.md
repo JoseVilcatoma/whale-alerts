@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:14:18 (hora de Perú)
+Actualizado: 2026-09-13 10:16:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2679**  ($145,093,450 en total)
+- Apuestas registradas: **2680**  ($145,137,003 en total)
 - Resueltas: **2638** — 1578 ganadas / 1060 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 385
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | -$44,735 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | -$118,833 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | -$46,993 | ❌ Perdida |

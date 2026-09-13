@@ -40269,5 +40269,20 @@
     "status": "pending",
     "ultimo_fill": 1789312317,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5454,
+    "timestamp": 1789312491,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "epl-mun-mac-2026-09-13-spread-away-1pt5",
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Manchester United FC",
+    "side": "BUY",
+    "usd": 43553.031200000005,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1789312491,
+    "fills": 1
   }
 ]
