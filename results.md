@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 08:07:40 (hora de Perú)
+Actualizado: 2026-09-13 08:09:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2671**  ($144,764,760 en total)
+- Apuestas registradas: **2672**  ($144,790,319 en total)
 - Resueltas: **2625** — 1573 ganadas / 1052 perdidas (**60%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 383
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
-| gransaaa | 7 | 11 | 2 | 39% | $816,991 | -$166,436 |
+| gransaaa | 7 | 11 | 3 | 39% | $842,550 | -$166,436 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | Jsram | 12 | 4 | 2 | 75% | $759,112 | +$112,891 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | — | ⏳ Pendiente |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
 | kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | -$34,059 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | +$60,842 | ✅ Ganada |
-| BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
