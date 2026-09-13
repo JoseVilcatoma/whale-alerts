@@ -40667,5 +40667,20 @@
     "fills": 1,
     "profit_usd": -453.41,
     "precio_salida": 80
+  },
+  {
+    "telegram_msg_id": 5509,
+    "timestamp": 1789323783,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "por-fam-spo-2026-09-13-spread-away-1pt5",
+    "title": "Spread: Sporting CP (-1.5)",
+    "outcome": "FC Famalic\u00e3o",
+    "side": "BUY",
+    "usd": 26796.120199999998,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789323783,
+    "fills": 1
   }
 ]
