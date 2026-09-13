@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 03:27:55 (hora de Perú)
+Actualizado: 2026-09-13 04:57:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2648**  ($143,471,776 en total)
-- Resueltas: **2608** — 1564 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2610** — 1565 ganadas / 1045 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 381
 
 ### Balance
 
-- **Resultado de los apostadores: +$271,945** sobre $141,588,189 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,254** sobre $257,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$247,521** sobre $141,652,442 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,338** sobre $257,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| BrotherObama | 11 | 15 | 3 | 42% | $1,455,848 | +$70,165 |
+| BrotherObama | 11 | 16 | 2 | 41% | $1,455,848 | +$40,165 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
 | 00gringo00 | 5 | 1 | 2 | ⚠️ 83% (6) | $1,334,367 | +$105,324 |
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | — | ⏳ Pendiente |
 | FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | — | ⏳ Pendiente |
-| five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
+| five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | +$5,576 | ✅ Ganada |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $41,820 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | — | ⏳ Pendiente |
