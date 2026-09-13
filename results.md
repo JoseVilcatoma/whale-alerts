@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:07:07 (hora de Perú)
+Actualizado: 2026-09-12 19:09:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2584** — 1553 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2585** — 1554 ganadas / 1031 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$479,136** sobre $140,464,832 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$7,905** sobre $254,900 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$532,136** sobre $140,511,832 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,792** sobre $255,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 202 | 110 | 4 | 65% | $20,920,941 | +$1,174,191 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 203 | 110 | 3 | 65% | $20,920,941 | +$1,227,191 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | -$33,149 | ❌ Perdida |
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | -$57,630 | ❌ Perdida |
 | ArturitoFilito | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $29,000 | -$29,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | 0x089df75eFAC3B1028842764610Fc9AE90A430627-1783295299471 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.69 (59¢) | $27,903 | -$27,903 | ❌ Perdida |
 | ethanaz | Oklahoma vs. Michigan | Michigan | 1.33 (75¢) | $26,902 | +$8,967 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Houston Astros vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $40,000 | -$702 | 💰 Vendida antes |
