@@ -40757,5 +40757,35 @@
     "status": "pending",
     "ultimo_fill": 1789330318,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5517,
+    "timestamp": 1789330398,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-gb-min-2026-09-13",
+    "title": "Packers vs. Vikings",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 60987.335199999994,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1789330398,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5518,
+    "timestamp": 1789330467,
+    "username": "SS787878",
+    "wallet": "0xdd7e989aee938a94a878256f00d1121be1760be3",
+    "slug": "nfl-ari-lac-2026-09-13-total-46pt5",
+    "title": "Cardinals vs. Chargers: O/U 46.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26999.999999999996,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1789330467,
+    "fills": 1
   }
 ]
