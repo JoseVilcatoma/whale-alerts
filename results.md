@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 08:32:23 (hora de Perú)
+Actualizado: 2026-09-13 08:34:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2672**  ($144,790,319 en total)
-- Resueltas: **2625** — 1573 ganadas / 1052 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **2626** — 1574 ganadas / 1052 perdidas (**60%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 383
 
 ### Balance
 
-- **Resultado de los apostadores: +$213,046** sobre $142,146,110 apostados (ROI **+0.1%**)
+- **Resultado de los apostadores: +$223,781** sobre $142,172,715 apostados (ROI **+0.2%**)
 - Copiando $100 fijo en cada una: **-$8,466** sobre $259,000 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 |---|---|---|---|---|---|---|
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
-| Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | — | ⏳ Pendiente |
+| Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | — | ⏳ Pendiente |
 | SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | — | ⏳ Pendiente |
 | SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
