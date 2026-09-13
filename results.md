@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 06:17:37 (hora de Perú)
+Actualizado: 2026-09-13 06:19:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2651**  ($143,567,792 en total)
+- Apuestas registradas: **2652**  ($143,593,336 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 381
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | — | ⏳ Pendiente |
 | Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
 | BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | +$25,240 | ✅ Ganada |
-| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | -$55,472 | ❌ Perdida |

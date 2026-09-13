@@ -39847,5 +39847,20 @@
     "status": "pending",
     "ultimo_fill": 1789297347,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5409,
+    "timestamp": 1789298274,
+    "username": "R88N",
+    "wallet": "0xb809a4b78b5eadc71d84be43eda0491eedf72004",
+    "slug": "nor-vik-kbk-2026-09-13-vik",
+    "title": "Will Viking FK win on 2026-09-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25544.4685,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1789298274,
+    "fills": 1
   }
 ]
