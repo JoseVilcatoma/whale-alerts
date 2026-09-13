@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 01:53:47 (hora de Perú)
+Actualizado: 2026-09-13 01:55:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2637**  ($142,717,666 en total)
+- Apuestas registradas: **2638**  ($142,751,919 en total)
 - Resueltas: **2608** — 1564 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 379
+- Pendientes: 16
+- Apostadores distintos: 380
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 379 en total)_
+_(mostrando los 40 de mayor monto, de 380 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $41,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pittsburgh (-7.5) | UCF | 2.13 (47¢) | $47,000 | +$53,000 | ✅ Ganada |
 | 0x089df75eFAC3B1028842764610Fc9AE90A430627-1783295299471 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.69 (59¢) | $27,903 | -$27,903 | ❌ Perdida |
 | ethanaz | Oklahoma vs. Michigan | Michigan | 1.33 (75¢) | $26,902 | +$8,967 | ✅ Ganada |
-| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Houston Astros vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $40,000 | -$702 | 💰 Vendida antes |
