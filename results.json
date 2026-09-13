@@ -39469,5 +39469,20 @@
     "status": "pending",
     "ultimo_fill": 1789269370,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5354,
+    "timestamp": 1789269765,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "lol-gen-hle1-2026-09-13",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 37299.78,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1789269765,
+    "fills": 1
   }
 ]

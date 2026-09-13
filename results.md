@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 22:21:15 (hora de Perú)
+Actualizado: 2026-09-12 22:23:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2626**  ($142,287,437 en total)
+- Apuestas registradas: **2627**  ($142,324,737 en total)
 - Resueltas: **2593** — 1560 ganadas / 1033 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 379
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | +$19,369 | ✅ Ganada |
 | Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | -$82,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
-| CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | +$74,787 | ✅ Ganada |
