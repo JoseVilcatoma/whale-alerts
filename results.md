@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 00:09:20 (hora de Perú)
+Actualizado: 2026-09-13 00:11:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2632**  ($142,546,172 en total)
+- Apuestas registradas: **2633**  ($142,576,672 en total)
 - Resueltas: **2607** — 1563 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 379
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |
 | vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | +$13,152 | 💰 Vendida antes |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | -$48,332 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $33,708 | +$23,425 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $196,880 | +$136,815 | ✅ Ganada |
