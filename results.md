@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 13:20:52 (hora de Perú)
+Actualizado: 2026-09-13 13:22:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2705**  ($146,256,406 en total)
-- Resueltas: **2666** — 1596 ganadas / 1070 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **2667** — 1596 ganadas / 1071 perdidas (**60%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 389
 
 ### Balance
 
-- **Resultado de los apostadores: +$563,593** sobre $144,719,940 apostados (ROI **+0.4%**)
+- **Resultado de los apostadores: +$563,139** sobre $144,756,666 apostados (ROI **+0.4%**)
 - Copiando $100 fijo en cada una: **-$8,523** sobre $262,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | — | ⏳ Pendiente |
+| Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | — | ⏳ Pendiente |
