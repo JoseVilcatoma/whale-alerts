@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 13:02:15 (hora de Perú)
+Actualizado: 2026-09-13 13:04:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2702**  ($146,155,711 en total)
+- Apuestas registradas: **2704**  ($146,219,680 en total)
 - Resueltas: **2664** — 1595 ganadas / 1069 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 26
 - Apostadores distintos: 389
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 28 | 17 | 1 | 62% | $4,909,700 | -$253,249 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
+| pleaseplease123 | 54 | 35 | 1 | 61% | $3,844,288 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 30 | 23 | 2 | 57% | $3,091,257 | -$331,942 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | — | ⏳ Pendiente |
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | +$20,867 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Coventry City FC win on 2026-09-13? | No | 1.30 (77¢) | $29,647 | +$8,856 | ✅ Ganada |
 | 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | -$33,941 | ❌ Perdida |
-| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
-| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | +$230,054 | ✅ Ganada |
