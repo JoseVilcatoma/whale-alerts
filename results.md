@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 12:25:24 (hora de Perú)
+Actualizado: 2026-09-13 12:27:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2695**  ($145,857,619 en total)
+- Apuestas registradas: **2697**  ($145,939,619 en total)
 - Resueltas: **2655** — 1588 ganadas / 1067 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 28
 - Apostadores distintos: 388
 
 ### Balance
@@ -35,15 +35,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 30 | 23 | 1 | 57% | $3,061,373 | -$331,942 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
-| Sassy-Bucket | 22 | 23 | 2 | 49% | $2,314,915 | -$113,135 |
+| Sassy-Bucket | 22 | 23 | 3 | 49% | $2,366,915 | -$113,135 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 23 | 2 | 1 | 92% | $1,907,561 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
+| BrotherObama | 12 | 17 | 2 | 41% | $1,514,448 | +$41,564 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| BrotherObama | 12 | 17 | 1 | 41% | $1,484,448 | +$41,564 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 13 | 1 | 62% | $1,407,860 | -$465,109 |
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | — | ⏳ Pendiente |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | — | ⏳ Pendiente |
 | Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | — | ⏳ Pendiente |
 | Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 | FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | +$6,318 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | -$36,000 | ❌ Perdida |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | +$5,576 | ✅ Ganada |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
-| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | +$30,000 | ✅ Ganada |

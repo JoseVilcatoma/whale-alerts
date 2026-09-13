@@ -40513,5 +40513,35 @@
     "status": "pending",
     "ultimo_fill": 1789319395,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5486,
+    "timestamp": 1789320389,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-phi-atl-2026-09-13-total-9pt5",
+    "title": "Philadelphia Phillies vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 52000.0,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789320389,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5487,
+    "timestamp": 1789320430,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-phi-atl-2026-09-13-total-9pt5",
+    "title": "Philadelphia Phillies vs. Atlanta Braves: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789320430,
+    "fills": 1
   }
 ]
