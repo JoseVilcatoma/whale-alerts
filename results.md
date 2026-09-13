@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 05:01:13 (hora de Perú)
+Actualizado: 2026-09-13 05:03:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2648**  ($143,471,776 en total)
-- Resueltas: **2610** — 1565 ganadas / 1045 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Resueltas: **2620** — 1571 ganadas / 1049 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 381
 
 ### Balance
 
-- **Resultado de los apostadores: +$247,521** sobre $141,652,442 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,338** sobre $257,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$243,282** sobre $141,970,575 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,396** sobre $258,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 28 | 23 | 0 | 55% | $2,854,544 | -$572,275 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Diabolical-Prize | 22 | 21 | 4 | 51% | $2,376,030 | -$160,383 |
+| Diabolical-Prize | 22 | 23 | 2 | 49% | $2,376,030 | -$228,691 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| BrotherObama | 11 | 16 | 2 | 41% | $1,455,848 | +$40,165 |
+| BrotherObama | 11 | 17 | 1 | 39% | $1,455,848 | +$15,165 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
 | 00gringo00 | 5 | 1 | 2 | ⚠️ 83% (6) | $1,334,367 | +$105,324 |
@@ -72,27 +72,27 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | — | ⏳ Pendiente |
-| five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | — | ⏳ Pendiente |
+| five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | +$20,867 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Coventry City FC win on 2026-09-13? | No | 1.30 (77¢) | $29,647 | — | ⏳ Pendiente |
 | 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | — | ⏳ Pendiente |
 | Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | — | ⏳ Pendiente |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | — | ⏳ Pendiente |
-| FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | -$25,668 | ❌ Perdida |
+| FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | +$6,318 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | — | ⏳ Pendiente |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | +$5,576 | ✅ Ganada |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $41,820 | — | ⏳ Pendiente |
-| retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | — | ⏳ Pendiente |
-| heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
+| retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | +$25,424 | ✅ Ganada |
+| heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |
 | vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | — | ⏳ Pendiente |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $36,482 | — | ⏳ Pendiente |
-| hansama231 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $35,280 | — | ⏳ Pendiente |
-| Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $36,482 | -$36,482 | ❌ Perdida |
+| hansama231 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
+| Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | +$21,906 | ✅ Ganada |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | -$25,603 | ❌ Perdida |
 | 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | -$43,999 | ❌ Perdida |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | -$118,833 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | -$46,993 | ❌ Perdida |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | — | ⏳ Pendiente |
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | -$31,826 | ❌ Perdida |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
