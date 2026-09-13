@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:13:19 (hora de Perú)
+Actualizado: 2026-09-12 19:15:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2585** — 1554 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2586** — 1555 ganadas / 1031 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$532,136** sobre $140,511,832 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,792** sobre $255,000 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$555,636** sobre $140,538,332 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,704** sobre $255,100 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | — | ⏳ Pendiente |
