@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:48:49 (hora de Perú)
+Actualizado: 2026-09-12 19:50:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2614**  ($141,662,836 en total)
-- Resueltas: **2587** — 1556 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 377
+- Apuestas registradas: **2616**  ($141,759,799 en total)
+- Resueltas: **2588** — 1557 ganadas / 1031 perdidas (**60%** de acierto)
+- Pendientes: 17
+- Apostadores distintos: 378
 
 ### Balance
 
-- **Resultado de los apostadores: +$598,702** sobre $140,563,625 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,533** sobre $255,200 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$620,162** sobre $140,600,165 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,475** sobre $255,300 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | Sassy-Bucket | 22 | 23 | 0 | 49% | $2,146,312 | -$113,135 |
-| 0F62 | 23 | 2 | 0 | 92% | $1,881,598 | +$81,899 |
+| 0F62 | 23 | 2 | 1 | 92% | $1,907,561 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 377 en total)_
+_(mostrando los 40 de mayor monto, de 378 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
+| maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | +$34,921 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
-| RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | +$24,168 | ✅ Ganada |

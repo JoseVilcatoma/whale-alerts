@@ -37842,7 +37842,7 @@
     "side": "BUY",
     "usd": 36540.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789209740,
     "fills": 1
   },
@@ -39288,6 +39288,36 @@
     "odds_at_bet": 59,
     "status": "pending",
     "ultimo_fill": 1789260249,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5335,
+    "timestamp": 1789260561,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "zuffa-garcia-benn-2026-09-12",
+    "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
+    "outcome": "Garcia",
+    "side": "BUY",
+    "usd": 71000.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1789260561,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5337,
+    "timestamp": 1789260596,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "fl1-sbr-psg-2026-09-13-sbr",
+    "title": "Will Stade Brestois 29 win on 2026-09-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25962.903,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1789260596,
     "fills": 1
   }
 ]
