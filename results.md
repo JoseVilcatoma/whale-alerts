@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:19:26 (hora de Perú)
+Actualizado: 2026-09-13 15:21:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2714**  ($146,694,756 en total)
+- Apuestas registradas: **2715**  ($146,723,733 en total)
 - Resueltas: **2669** — 1596 ganadas / 1073 perdidas (**60%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 390
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 54 | 35 | 1 | 61% | $3,844,288 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 30 | 24 | 1 | 56% | $3,091,257 | -$357,467 |
+| wr0ngw4yb3tt0r | 30 | 24 | 2 | 56% | $3,120,235 | -$357,467 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 22 | 23 | 4 | 49% | $2,427,903 | -$113,135 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | doubylinkedlist | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.75 (57¢) | $26,952 | +$20,332 | ✅ Ganada |
 | 1l2ihj34li12u34 | FC Zurich vs. FC Vaduz: O/U 3.5 | Over 3.5 | 1.92 (52¢) | $38,592 | -$38,592 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | +$95,417 | ✅ Ganada |
