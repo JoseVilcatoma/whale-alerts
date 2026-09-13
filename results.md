@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 13:49:29 (hora de Perú)
+Actualizado: 2026-09-13 13:51:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2707**  ($146,406,655 en total)
-- Resueltas: **2667** — 1596 ganadas / 1071 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2668** — 1596 ganadas / 1072 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 389
 
 ### Balance
 
-- **Resultado de los apostadores: +$563,139** sobre $144,756,666 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,523** sobre $262,700 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$537,614** sobre $144,782,190 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,623** sobre $262,800 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 54 | 35 | 1 | 61% | $3,844,288 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 30 | 23 | 2 | 57% | $3,091,257 | -$331,942 |
+| wr0ngw4yb3tt0r | 30 | 24 | 1 | 56% | $3,091,257 | -$357,467 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | Sassy-Bucket | 22 | 23 | 3 | 49% | $2,366,915 | -$113,135 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 | Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | — | ⏳ Pendiente |
 | christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | -$25,525 | ❌ Perdida |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
