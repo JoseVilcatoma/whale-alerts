@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 20:05:37 (hora de Perú)
+Actualizado: 2026-09-12 20:07:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2616**  ($141,759,799 en total)
+- Apuestas registradas: **2617**  ($141,793,799 en total)
 - Resueltas: **2588** — 1557 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 378
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Varvara Lepchenko | 2.00 (50¢) | $61,000 | — | ⏳ Pendiente |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $62,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 2.00 (50¢) | $34,921 | +$34,921 | ✅ Ganada |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
