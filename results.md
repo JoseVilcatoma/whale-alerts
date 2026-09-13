@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 16:33:10 (hora de Perú)
+Actualizado: 2026-09-13 16:35:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2721**  ($147,034,675 en total)
-- Resueltas: **2684** — 1608 ganadas / 1076 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2685** — 1609 ganadas / 1076 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$630,443** sobre $145,429,954 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,491** sobre $264,400 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$639,528** sobre $145,455,809 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,456** sobre $264,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | -$37,760 | ❌ Perdida |
-| N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | — | ⏳ Pendiente |
+| N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | +$9,084 | ✅ Ganada |
 | 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | +$9,786 | ✅ Ganada |
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
