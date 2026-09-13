@@ -39319,7 +39319,7 @@
     "side": "BUY",
     "usd": 25962.903,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789260596,
     "fills": 1
   },
@@ -40236,7 +40236,7 @@
     "side": "BUY",
     "usd": 62087.82300000001,
     "odds_at_bet": 93,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789311286,
     "fills": 1
   },
@@ -40891,6 +40891,21 @@
     "odds_at_bet": 82,
     "status": "pending",
     "ultimo_fill": 1789333709,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5538,
+    "timestamp": 1789333753,
+    "username": "doubylinkedlist",
+    "wallet": "0xbd36cbc3fc0819cb8a535ccf6960bcdf16adba9d",
+    "slug": "atp-zverev-shelton-2026-09-13",
+    "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 36500.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1789333753,
     "fills": 1
   }
 ]

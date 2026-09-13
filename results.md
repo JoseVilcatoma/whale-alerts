@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 16:08:37 (hora de Perú)
+Actualizado: 2026-09-13 16:10:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2720**  ($146,998,175 en total)
-- Resueltas: **2679** — 1604 ganadas / 1075 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Apuestas registradas: **2721**  ($147,034,675 en total)
+- Resueltas: **2681** — 1606 ganadas / 1075 perdidas (**60%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$647,883** sobre $145,245,892 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,453** sobre $263,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$654,510** sobre $145,333,942 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,438** sobre $264,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 23 | 2 | 2 | 92% | $1,960,364 | +$81,899 |
+| 0F62 | 24 | 2 | 1 | 92% | $1,960,364 | +$83,853 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | — | ⏳ Pendiente |
@@ -114,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
-| phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | — | ⏳ Pendiente |
+| phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | +$4,673 | ✅ Ganada |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
 | Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | +$57,383 | ✅ Ganada |
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
 | vjnn | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $46,185 | -$46,185 | ❌ Perdida |
-| totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $271,294 | -$271,294 | ❌ Perdida |
