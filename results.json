@@ -40102,5 +40102,20 @@
     "status": "pending",
     "ultimo_fill": 1789303518,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5426,
+    "timestamp": 1789304050,
+    "username": "TrippleEX",
+    "wallet": "0x994ec8e910b433265f3a46eaf666bfa28b1a6136",
+    "slug": "lal-lev-bar-2026-09-13-bar",
+    "title": "Will FC Barcelona win on 2026-09-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 29050.0,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1789304050,
+    "fills": 1
   }
 ]
