@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:09:04 (hora de Perú)
+Actualizado: 2026-09-13 15:11:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2709**  ($146,476,669 en total)
+- Apuestas registradas: **2710**  ($146,529,473 en total)
 - Resueltas: **2669** — 1596 ganadas / 1073 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 390
 
 ### Balance
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 23 | 2 | 1 | 92% | $1,907,561 | +$81,899 |
+| 0F62 | 23 | 2 | 2 | 92% | $1,960,364 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 12 | 17 | 2 | 41% | $1,514,448 | +$41,564 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | — | ⏳ Pendiente |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | -$107,769 | ❌ Perdida |
 | R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | +$7,205 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | +$13,778 | ✅ Ganada |
-| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
