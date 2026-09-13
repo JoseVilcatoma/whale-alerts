@@ -40819,7 +40819,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 5523,
     "timestamp": 1789331130,
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
@@ -40831,6 +40831,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1789331130,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5524,
+    "timestamp": 1789331202,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "nfl-mia-lv-2026-09-13",
+    "title": "Dolphins vs. Raiders",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 45959.742000000006,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789331202,
     "fills": 1
   }
 ]
