@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:10:10 (hora de Perú)
+Actualizado: 2026-09-13 10:12:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2678**  ($145,015,603 en total)
+- Apuestas registradas: **2679**  ($145,093,450 en total)
 - Resueltas: **2637** — 1577 ganadas / 1060 perdidas (**60%** de acierto)
-- Pendientes: 27
-- Apostadores distintos: 384
+- Pendientes: 28
+- Apostadores distintos: 385
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 384 en total)_
+_(mostrando los 40 de mayor monto, de 385 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 384 en total)_
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | -$118,833 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | -$46,993 | ❌ Perdida |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | -$31,826 | ❌ Perdida |
