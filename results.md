@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 21:26:39 (hora de Perú)
+Actualizado: 2026-09-12 21:28:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2621**  ($142,022,051 en total)
+- Apuestas registradas: **2622**  ($142,082,457 en total)
 - Resueltas: **2591** — 1558 ganadas / 1033 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 378
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 53 | 35 | 1 | 60% | $3,808,732 | +$676,329 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 27 | 19 | 2 | 59% | $2,723,800 | -$465,345 |
+| wr0ngw4yb3tt0r | 27 | 19 | 3 | 59% | $2,784,206 | -$465,345 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 20 | 3 | 52% | $2,297,728 | -$111,741 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | — | ⏳ Pendiente |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | -$95,499 | ❌ Perdida |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | +$54,395 | ✅ Ganada |
 | robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
-| BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
