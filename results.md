@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:16:21 (hora de Perú)
+Actualizado: 2026-09-13 10:18:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2680**  ($145,137,003 en total)
-- Resueltas: **2638** — 1578 ganadas / 1060 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Apuestas registradas: **2681**  ($145,164,766 en total)
+- Resueltas: **2645** — 1581 ganadas / 1064 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 385
 
 ### Balance
 
-- **Resultado de los apostadores: -$101,353** sobre $143,125,387 apostados (ROI **-0.1%**)
-- Copiando $100 fijo en cada una: **-$8,838** sobre $260,200 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$233,365** sobre $143,765,756 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,961** sobre $260,900 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,10 +43,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| BrotherObama | 11 | 17 | 2 | 39% | $1,484,448 | +$15,165 |
+| BrotherObama | 12 | 17 | 1 | 41% | $1,484,448 | +$41,564 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
-| 00gringo00 | 5 | 1 | 2 | ⚠️ 83% (6) | $1,334,367 | +$105,324 |
+| 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 2 | 48% | $1,043,223 | -$99,715 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 9 | 0 | 40% | $866,219 | -$278,834 |
 | gransaaa | 7 | 11 | 3 | 39% | $842,550 | -$166,436 |
-| Jsram | 12 | 4 | 4 | 75% | $829,230 | +$112,891 |
+| Jsram | 12 | 6 | 2 | 67% | $829,230 | +$39,391 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
 | Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | — | ⏳ Pendiente |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
@@ -83,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | — | ⏳ Pendiente |
-| SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | — | ⏳ Pendiente |
+| SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | -$26,072 | ❌ Perdida |
 | SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | — | ⏳ Pendiente |
 | fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | -$30,742 | ❌ Perdida |
@@ -101,14 +102,14 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | -$107,769 | ❌ Perdida |
 | R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | — | ⏳ Pendiente |
-| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
-| BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
-| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | — | ⏳ Pendiente |
+| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
+| BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | +$26,400 | ✅ Ganada |
+| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | +$211,777 | ✅ Ganada |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | +$20,867 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Coventry City FC win on 2026-09-13? | No | 1.30 (77¢) | $29,647 | +$8,856 | ✅ Ganada |
-| 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | — | ⏳ Pendiente |
-| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
-| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | — | ⏳ Pendiente |
+| 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | -$33,941 | ❌ Perdida |
+| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
+| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | +$230,054 | ✅ Ganada |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | -$25,668 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | +$6,318 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 | 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | -$43,999 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | -$44,735 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
-| ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | -$118,833 | ❌ Perdida |

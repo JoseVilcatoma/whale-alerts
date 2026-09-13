@@ -39724,7 +39724,7 @@
     "side": "BUY",
     "usd": 36750.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789287823,
     "fills": 1
   },
@@ -39739,7 +39739,7 @@
     "side": "BUY",
     "usd": 239443.51909999998,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789287824,
     "fills": 2
   },
@@ -39754,7 +39754,7 @@
     "side": "BUY",
     "usd": 33940.56,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789287824,
     "fills": 1
   },
@@ -39799,7 +39799,7 @@
     "side": "BUY",
     "usd": 238812.1223,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789287951,
     "fills": 1
   },
@@ -39814,7 +39814,7 @@
     "side": "BUY",
     "usd": 28599.99,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789296014,
     "fills": 1
   },
@@ -39829,7 +39829,7 @@
     "side": "BUY",
     "usd": 36750.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789296915,
     "fills": 1
   },
@@ -40099,7 +40099,7 @@
     "side": "BUY",
     "usd": 26072.4247,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789303518,
     "fills": 1
   },
@@ -40283,6 +40283,21 @@
     "odds_at_bet": 76,
     "status": "pending",
     "ultimo_fill": 1789312491,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1789312702,
+    "username": "jaytee158",
+    "wallet": "0xa2c908ce8b8386bc8c5471120c5a662551332c23",
+    "slug": "lol-lll-png1-2026-09-13",
+    "title": "LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "usd": 27763.478899999995,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1789312702,
     "fills": 1
   }
 ]
