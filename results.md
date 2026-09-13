@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:32:07 (hora de Perú)
+Actualizado: 2026-09-12 19:34:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2612**  ($141,565,451 en total)
-- Resueltas: **2586** — 1555 ganadas / 1031 perdidas (**60%** de acierto)
+- Apuestas registradas: **2613**  ($141,628,776 en total)
+- Resueltas: **2587** — 1556 ganadas / 1031 perdidas (**60%** de acierto)
 - Pendientes: 15
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$555,636** sobre $140,538,332 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,704** sobre $255,100 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$598,702** sobre $140,563,625 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,533** sobre $255,200 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 203 | 110 | 3 | 65% | $20,920,941 | +$1,227,191 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 204 | 110 | 2 | 65% | $20,920,941 | +$1,270,257 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
+| BrotherObama | 9 | 15 | 3 | 38% | $1,400,848 | -$15,677 |
 | ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
-| BrotherObama | 9 | 15 | 2 | 38% | $1,337,524 | -$15,677 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
@@ -71,12 +71,13 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | — | ⏳ Pendiente |
 | surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
 | theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | +$24,168 | ✅ Ganada |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | +$17,566 | ✅ Ganada |
-| pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | +$6,870 | ✅ Ganada |
