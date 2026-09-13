@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 07:34:22 (hora de Perú)
+Actualizado: 2026-09-13 07:36:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2666**  ($144,619,974 en total)
+- Apuestas registradas: **2667**  ($144,648,032 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 383
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | — | ⏳ Pendiente |
 | fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 | surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | +$9,381 | ✅ Ganada |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | -$48,643 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
