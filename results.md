@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 16:35:15 (hora de Perú)
+Actualizado: 2026-09-13 16:37:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2721**  ($147,034,675 en total)
+- Apuestas registradas: **2722**  ($147,062,033 en total)
 - Resueltas: **2685** — 1609 ganadas / 1076 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 390
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | — | ⏳ Pendiente |
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | -$30,742 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | +$57,383 | ✅ Ganada |
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
-| vjnn | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $46,185 | -$46,185 | ❌ Perdida |
