@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 08:46:51 (hora de Perú)
+Actualizado: 2026-09-13 08:48:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2672**  ($144,790,319 en total)
-- Resueltas: **2626** — 1574 ganadas / 1052 perdidas (**60%** de acierto)
+- Apuestas registradas: **2673**  ($144,825,191 en total)
+- Resueltas: **2627** — 1574 ganadas / 1053 perdidas (**60%** de acierto)
 - Pendientes: 32
 - Apostadores distintos: 383
 
 ### Balance
 
-- **Resultado de los apostadores: +$223,781** sobre $142,172,715 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,466** sobre $259,000 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$193,039** sobre $142,203,458 apostados (ROI **+0.1%**)
+- Copiando $100 fijo en cada una: **-$8,566** sobre $259,100 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 5 | 1 | 2 | ⚠️ 83% (6) | $1,334,367 | +$105,324 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
+| SDTrading | 16 | 17 | 1 | 48% | $1,018,209 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
@@ -78,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 | SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | — | ⏳ Pendiente |
 | SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | — | ⏳ Pendiente |
-| fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | — | ⏳ Pendiente |
+| fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | -$30,742 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | — | ⏳ Pendiente |
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | — | ⏳ Pendiente |
 | vjnn | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $46,185 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
 | kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | -$34,059 | ❌ Perdida |
-| BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | +$60,842 | ✅ Ganada |
