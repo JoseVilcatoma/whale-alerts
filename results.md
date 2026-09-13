@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 23:00:51 (hora de Perú)
+Actualizado: 2026-09-12 23:02:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2628**  ($142,360,017 en total)
-- Resueltas: **2606** — 1563 ganadas / 1043 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2607** — 1563 ganadas / 1044 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 379
 
 ### Balance
 
-- **Resultado de los apostadores: +$277,005** sobre $141,483,129 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,195** sobre $257,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$242,945** sobre $141,517,189 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,295** sobre $257,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
-| kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | — | ⏳ Pendiente |
+| kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | -$34,059 | ❌ Perdida |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | +$60,842 | ✅ Ganada |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | +$25,000 | ✅ Ganada |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | -$49,297 | ❌ Perdida |
