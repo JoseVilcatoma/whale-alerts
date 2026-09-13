@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 23:02:51 (hora de Perú)
+Actualizado: 2026-09-12 23:04:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2628**  ($142,360,017 en total)
+- Apuestas registradas: **2629**  ($142,396,499 en total)
 - Resueltas: **2607** — 1563 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 379
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 28 | 23 | 0 | 55% | $2,854,544 | -$572,275 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Diabolical-Prize | 22 | 21 | 2 | 51% | $2,297,728 | -$160,383 |
+| Diabolical-Prize | 22 | 21 | 3 | 51% | $2,334,210 | -$160,383 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $36,482 | — | ⏳ Pendiente |
 | hansama231 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $35,280 | — | ⏳ Pendiente |
 | Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $173,740 | +$120,735 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $142,601 | +$99,096 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $27,872 | +$19,369 | ✅ Ganada |
-| Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | -$82,000 | ❌ Perdida |
