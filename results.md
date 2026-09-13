@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:41:58 (hora de Perú)
+Actualizado: 2026-09-13 15:44:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2718**  ($146,850,175 en total)
-- Resueltas: **2675** — 1601 ganadas / 1074 perdidas (**60%** de acierto)
-- Pendientes: 29
+- Resueltas: **2677** — 1603 ganadas / 1074 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$633,579** sobre $145,115,616 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,482** sobre $263,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$652,751** sobre $145,188,392 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,429** sobre $263,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | — | ⏳ Pendiente |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
-| matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | — | ⏳ Pendiente |
+| matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
 | theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | — | ⏳ Pendiente |
 | Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | — | ⏳ Pendiente |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | — | ⏳ Pendiente |
-| 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | — | ⏳ Pendiente |
+| 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | +$9,786 | ✅ Ganada |
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
