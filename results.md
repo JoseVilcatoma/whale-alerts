@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:42:33 (hora de Perú)
+Actualizado: 2026-09-12 19:44:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2613**  ($141,628,776 en total)
+- Apuestas registradas: **2614**  ($141,662,836 en total)
 - Resueltas: **2587** — 1556 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 377
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 1.96 (51¢) | $63,325 | — | ⏳ Pendiente |
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $31,000 | +$19,000 | ✅ Ganada |
 | RN1 | Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar | Nicole Melichar | 1.96 (51¢) | $27,015 | — | ⏳ Pendiente |
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $39,432 | +$24,168 | ✅ Ganada |
-| Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | +$17,566 | ✅ Ganada |
