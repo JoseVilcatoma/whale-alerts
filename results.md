@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 17:24:37 (hora de Perú)
+Actualizado: 2026-09-13 17:26:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2727**  ($147,363,804 en total)
-- Resueltas: **2685** — 1609 ganadas / 1076 perdidas (**60%** de acierto)
-- Pendientes: 28
+- Resueltas: **2686** — 1609 ganadas / 1077 perdidas (**60%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$639,528** sobre $145,455,809 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,456** sobre $264,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$614,129** sobre $145,481,208 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,556** sobre $264,600 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
 | Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | — | ⏳ Pendiente |
-| Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | — | ⏳ Pendiente |
+| Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | -$25,399 | ❌ Perdida |
 | christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | +$18,241 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | -$25,525 | ❌ Perdida |
