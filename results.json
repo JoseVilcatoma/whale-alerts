@@ -39229,5 +39229,20 @@
     "status": "won",
     "ultimo_fill": 1789255616,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5330,
+    "timestamp": 1789259319,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-sea-oak-2026-09-12-total-9pt5",
+    "title": "Seattle Mariners vs. Athletics: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 49296.702,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789259319,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:27:57 (hora de Perú)
+Actualizado: 2026-09-12 19:30:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2610**  ($141,491,155 en total)
+- Apuestas registradas: **2611**  ($141,540,451 en total)
 - Resueltas: **2586** — 1555 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 377
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 5 | 1 | 0 | ⚠️ 83% (6) | $856,111 | +$105,324 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
+| Talvez10 | 8 | 4 | 1 | 67% | $743,326 | +$351,266 |
 | gransaaa | 7 | 11 | 0 | 39% | $706,741 | -$166,436 |
-| Talvez10 | 8 | 4 | 0 | 67% | $694,029 | +$351,266 |
 | Jsram | 12 | 4 | 0 | 75% | $685,612 | +$112,891 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | — | ⏳ Pendiente |
 | surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Jsram | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $28,661 | +$17,566 | ✅ Ganada |
 | pilimili | Arizona State vs. Texas A&M | Texas A&M | 1.19 (84¢) | $36,068 | +$6,870 | ✅ Ganada |
 | 177-letsgo | Arizona State vs. Texas A&M | Texas A&M | 1.10 (91¢) | $59,150 | +$5,850 | ✅ Ganada |
-| ptrck7 | Will Arsenal FC win on 2026-09-12? | Yes | 1.61 (62¢) | $79,052 | +$48,451 | ✅ Ganada |
