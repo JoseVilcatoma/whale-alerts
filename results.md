@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 11:44:21 (hora de Perú)
+Actualizado: 2026-09-13 11:46:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2691**  ($145,707,060 en total)
-- Resueltas: **2652** — 1585 ganadas / 1067 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Resueltas: **2655** — 1588 ganadas / 1067 perdidas (**60%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 386
 
 ### Balance
 
-- **Resultado de los apostadores: +$238,881** sobre $144,017,510 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,899** sobre $261,400 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$258,881** sobre $144,117,822 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,839** sobre $261,700 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,15 +88,15 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | — | ⏳ Pendiente |
-| Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | — | ⏳ Pendiente |
+| Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
 | SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | +$4,773 | ✅ Ganada |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
-| TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | — | ⏳ Pendiente |
+| TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | +$5,950 | ✅ Ganada |
 | SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | -$26,072 | ❌ Perdida |
 | SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
-| Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | — | ⏳ Pendiente |
+| Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | +$7,251 | ✅ Ganada |
 | fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | -$30,742 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | +$57,383 | ✅ Ganada |
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | -$42,750 | ❌ Perdida |
