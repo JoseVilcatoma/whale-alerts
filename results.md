@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 22:15:10 (hora de Perú)
+Actualizado: 2026-09-12 22:17:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2625**  ($142,196,794 en total)
+- Apuestas registradas: **2626**  ($142,287,437 en total)
 - Resueltas: **2593** — 1560 ganadas / 1033 perdidas (**60%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 378
+- Pendientes: 22
+- Apostadores distintos: 379
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | 7 | 5 | 0 | 58% | $612,030 | +$124,793 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 378 en total)_
+_(mostrando los 40 de mayor monto, de 379 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | Diabolical-Prize | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $82,000 | -$82,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | +$74,787 | ✅ Ganada |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | +$23,066 | ✅ Ganada |
