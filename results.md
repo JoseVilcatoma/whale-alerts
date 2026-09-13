@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:47:03 (hora de Perú)
+Actualizado: 2026-09-13 10:49:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2687**  ($145,485,432 en total)
-- Resueltas: **2646** — 1582 ganadas / 1064 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2648** — 1584 ganadas / 1064 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 386
 
 ### Balance
 
-- **Resultado de los apostadores: +$238,138** sobre $143,800,756 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,948** sobre $261,000 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$272,247** sobre $143,858,373 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,827** sobre $261,200 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,14 +100,14 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $271,294 | -$271,294 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $138,015 | +$182,950 | ✅ Ganada |
-| doubylinkedlist | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.75 (57¢) | $26,952 | — | ⏳ Pendiente |
+| doubylinkedlist | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.75 (57¢) | $26,952 | +$20,332 | ✅ Ganada |
 | 1l2ihj34li12u34 | FC Zurich vs. FC Vaduz: O/U 3.5 | Over 3.5 | 1.92 (52¢) | $38,592 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | +$95,417 | ✅ Ganada |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | -$107,666 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | -$107,769 | ❌ Perdida |
 | R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | +$13,778 | ✅ Ganada |
 | Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
 | BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | +$26,400 | ✅ Ganada |
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | +$211,777 | ✅ Ganada |
