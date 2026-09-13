@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 11:28:00 (hora de Perú)
+Actualizado: 2026-09-13 11:29:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2690**  ($145,680,811 en total)
-- Resueltas: **2651** — 1584 ganadas / 1067 perdidas (**60%** de acierto)
+- Apuestas registradas: **2691**  ($145,707,060 en total)
+- Resueltas: **2652** — 1585 ganadas / 1067 perdidas (**60%** de acierto)
 - Pendientes: 25
 - Apostadores distintos: 386
 
 ### Balance
 
-- **Resultado de los apostadores: +$231,676** sobre $143,991,965 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,927** sobre $261,300 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$238,881** sobre $144,017,510 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,899** sobre $261,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 30 | 23 | 1 | 57% | $3,061,373 | -$331,942 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
+| Sassy-Bucket | 22 | 23 | 2 | 49% | $2,314,915 | -$113,135 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
-| Sassy-Bucket | 22 | 23 | 1 | 49% | $2,288,666 | -$113,135 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
 | 0F62 | 23 | 2 | 1 | 92% | $1,907,561 | +$81,899 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
@@ -109,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | +$95,417 | ✅ Ganada |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | -$107,666 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | -$107,769 | ❌ Perdida |
-| R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
+| R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | +$7,205 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | +$13,778 | ✅ Ganada |
 | Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
 | BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | +$26,400 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | +$25,424 | ✅ Ganada |
 | heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
-| gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |

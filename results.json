@@ -39859,7 +39859,7 @@
     "side": "BUY",
     "usd": 25544.4685,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789298274,
     "fills": 1
   },
@@ -40437,6 +40437,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1789316166,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5477,
+    "timestamp": 1789316941,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-bal-ind-2026-09-13",
+    "title": "Ravens vs. Colts",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 26248.9171,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1789316941,
     "fills": 1
   }
 ]
