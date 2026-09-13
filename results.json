@@ -40042,5 +40042,35 @@
     "status": "pending",
     "ultimo_fill": 1789300653,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5422,
+    "timestamp": 1789301165,
+    "username": "Zombie77",
+    "wallet": "0x958e910fa82c5d0f0825710817cf7635ba7cf76a",
+    "slug": "lal-lev-bar-2026-09-13-bar",
+    "title": "Will FC Barcelona win on 2026-09-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38068.799999999996,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1789301165,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5423,
+    "timestamp": 1789300983,
+    "username": "fkigedgjdgwbg",
+    "wallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+    "slug": "lol-blg-al-2026-09-13-game4",
+    "title": "LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 30742.439,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1789300983,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 07:05:35 (hora de Perú)
+Actualizado: 2026-09-13 07:07:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2664**  ($144,551,162 en total)
+- Apuestas registradas: **2666**  ($144,619,974 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 28
-- Apostadores distintos: 382
+- Pendientes: 30
+- Apostadores distintos: 383
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 382 en total)_
+_(mostrando los 40 de mayor monto, de 383 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zombie77 | Will FC Barcelona win on 2026-09-13? | Yes | 1.19 (84¢) | $38,069 | — | ⏳ Pendiente |
+| fkigedgjdgwbg | LoL: Bilibili Gaming vs Anyone's Legend - Game 4 Winner | Bilibili Gaming | 1.54 (65¢) | $30,742 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $43,289 | — | ⏳ Pendiente |
 | bettingbettor | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $42,750 | — | ⏳ Pendiente |
 | vjnn | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $46,185 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 382 en total)_
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | +$9,381 | ✅ Ganada |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | -$48,643 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
-| theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | -$30,309 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | -$38,000 | ❌ Perdida |
