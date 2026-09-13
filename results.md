@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:52:12 (hora de Perú)
+Actualizado: 2026-09-13 15:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2718**  ($146,850,175 en total)
-- Resueltas: **2677** — 1603 ganadas / 1074 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2679** — 1604 ganadas / 1075 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$652,751** sobre $145,188,392 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,429** sobre $263,700 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$647,883** sobre $145,245,892 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,453** sobre $263,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 13 | 1 | 62% | $1,407,860 | -$465,109 |
+| ferrariChampions2026 | 21 | 14 | 0 | 60% | $1,407,860 | -$492,609 |
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | — | ⏳ Pendiente |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | — | ⏳ Pendiente |
-| fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
+| fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
 | theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | +$18,241 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | -$25,525 | ❌ Perdida |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | +$94,903 | ✅ Ganada |
-| ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | -$27,500 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | +$112,250 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
