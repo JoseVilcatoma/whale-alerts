@@ -40209,5 +40209,20 @@
     "status": "pending",
     "ultimo_fill": 1789309197,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5449,
+    "timestamp": 1789310922,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-mun-mac-2026-09-13-mac",
+    "title": "Will Manchester City FC win on 2026-09-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 43937.06800000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789310922,
+    "fills": 1
   }
 ]
