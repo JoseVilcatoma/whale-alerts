@@ -39907,5 +39907,50 @@
     "status": "pending",
     "ultimo_fill": 1789299918,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5413,
+    "timestamp": 1789300015,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "lal-cel-mala-2026-09-13-cel",
+    "title": "Will RC Celta de Vigo win on 2026-09-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 31666.35,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789300015,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5414,
+    "timestamp": 1789300041,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "sui-fcz-vad-2026-09-13-total-3pt5",
+    "title": "FC Zurich vs. FC Vaduz: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 38591.904,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789300041,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5415,
+    "timestamp": 1789300110,
+    "username": "doubylinkedlist",
+    "wallet": "0xbd36cbc3fc0819cb8a535ccf6960bcdf16adba9d",
+    "slug": "lol-blg-al-2026-09-13",
+    "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "usd": 26951.555099999998,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1789300110,
+    "fills": 1
   }
 ]
