@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 22:27:31 (hora de Perú)
+Actualizado: 2026-09-12 22:29:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2627**  ($142,324,737 en total)
-- Resueltas: **2593** — 1560 ganadas / 1033 perdidas (**60%** de acierto)
-- Pendientes: 23
+- Resueltas: **2596** — 1561 ganadas / 1035 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 379
 
 ### Balance
 
-- **Resultado de los apostadores: +$631,004** sobre $140,826,223 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,513** sobre $255,800 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$619,169** sobre $140,966,799 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,591** sobre $256,100 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,9 +32,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 27 | 19 | 5 | 59% | $2,854,544 | -$465,345 |
+| wr0ngw4yb3tt0r | 28 | 19 | 4 | 60% | $2,854,544 | -$394,538 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Diabolical-Prize | 22 | 20 | 3 | 52% | $2,297,728 | -$111,741 |
+| Diabolical-Prize | 22 | 21 | 2 | 51% | $2,297,728 | -$160,383 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
-| mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | — | ⏳ Pendiente |
+| mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | — | ⏳ Pendiente |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | — | ⏳ Pendiente |
 | surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | +$9,381 | ✅ Ganada |
-| Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
+| Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | -$48,643 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
 | theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | -$30,309 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | -$38,000 | ❌ Perdida |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama | 1.69 (59¢) | $26,483 | +$18,403 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.61 (62¢) | $29,864 | -$29,864 | ❌ Perdida |
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | +$19,313 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | +$70,808 | ✅ Ganada |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
 | 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | +$25,240 | ✅ Ganada |
