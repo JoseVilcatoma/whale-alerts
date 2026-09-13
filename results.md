@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 18:45:30 (hora de Perú)
+Actualizado: 2026-09-13 18:47:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2730**  ($147,495,104 en total)
-- Resueltas: **2695** — 1615 ganadas / 1080 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2699** — 1617 ganadas / 1082 perdidas (**60%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$605,074** sobre $145,885,943 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,560** sobre $265,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$567,854** sobre $146,100,898 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,680** sobre $265,900 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 205 | 110 | 5 | 65% | $21,179,005 | +$1,279,112 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 206 | 110 | 4 | 65% | $21,179,005 | +$1,291,248 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | — | ⏳ Pendiente |
 | kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | — | ⏳ Pendiente |
-| fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
+| fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | — | ⏳ Pendiente |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | — | ⏳ Pendiente |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | — | ⏳ Pendiente |
@@ -84,13 +84,13 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | +$30,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
-| jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | — | ⏳ Pendiente |
+| jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | -$49,995 | ❌ Perdida |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
