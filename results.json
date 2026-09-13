@@ -40239,5 +40239,20 @@
     "status": "pending",
     "ultimo_fill": 1789311286,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5451,
+    "timestamp": 1789311953,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-buf-hou-2026-09-13-spread-away-1pt5",
+    "title": "Spread: Bills (-1.5)",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 25013.8833,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789311953,
+    "fills": 1
   }
 ]
