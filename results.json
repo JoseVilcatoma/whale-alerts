@@ -39874,7 +39874,7 @@
     "side": "BUY",
     "usd": 107769.05639999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789299529,
     "fills": 1
   },
@@ -39889,7 +39889,7 @@
     "side": "BUY",
     "usd": 107666.15999999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789299747,
     "fills": 1
   },
@@ -39904,7 +39904,7 @@
     "side": "BUY",
     "usd": 71981.14,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789299918,
     "fills": 1
   },
@@ -39919,7 +39919,7 @@
     "side": "BUY",
     "usd": 31666.35,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789300015,
     "fills": 1
   },
@@ -39964,7 +39964,7 @@
     "side": "BUY",
     "usd": 138015.2768,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789300155,
     "fills": 2
   },
@@ -39979,7 +39979,7 @@
     "side": "BUY",
     "usd": 31666.35,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789300200,
     "fills": 1
   },
@@ -39994,7 +39994,7 @@
     "side": "BUY",
     "usd": 271294.0878,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789300436,
     "fills": 3
   },
@@ -40009,7 +40009,7 @@
     "side": "BUY",
     "usd": 46185.1164,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789300603,
     "fills": 1
   },
@@ -40024,7 +40024,7 @@
     "side": "BUY",
     "usd": 42749.99999999999,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1789300625,
     "fills": 1
   },
@@ -40039,7 +40039,7 @@
     "side": "BUY",
     "usd": 43288.9987,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789300653,
     "fills": 1
   },
@@ -40193,6 +40193,21 @@
     "odds_at_bet": 83,
     "status": "pending",
     "ultimo_fill": 1789308470,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5438,
+    "timestamp": 1789309197,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-mun-mac-2026-09-13-mac",
+    "title": "Will Manchester City FC win on 2026-09-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 26180.000000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789309197,
     "fills": 1
   }
 ]
