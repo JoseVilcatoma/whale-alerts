@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 00:19:44 (hora de Perú)
+Actualizado: 2026-09-13 00:21:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2634**  ($142,618,154 en total)
+- Apuestas registradas: **2635**  ($142,659,974 en total)
 - Resueltas: **2607** — 1563 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 379
 
 ### Balance
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 28 | 23 | 0 | 55% | $2,854,544 | -$572,275 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Diabolical-Prize | 22 | 21 | 3 | 51% | $2,334,210 | -$160,383 |
+| Diabolical-Prize | 22 | 21 | 4 | 51% | $2,376,030 | -$160,383 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $41,820 | — | ⏳ Pendiente |
 | retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | — | ⏳ Pendiente |
 | heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Houston Astros vs. Tampa Bay Rays | Tampa Bay Rays | 1.75 (57¢) | $40,000 | -$702 | 💰 Vendida antes |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $33,536 | +$44,455 | ✅ Ganada |
 | afraz | Will Arsenal FC win on 2026-09-12? | Yes | 1.67 (60¢) | $39,455 | +$13,152 | 💰 Vendida antes |
-| ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.44 (41¢) | $48,332 | -$48,332 | ❌ Perdida |

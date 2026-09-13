@@ -39589,5 +39589,20 @@
     "status": "pending",
     "ultimo_fill": 1789276731,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5376,
+    "timestamp": 1789276800,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-g2-lgc-2026-09-13",
+    "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "G2",
+    "side": "BUY",
+    "usd": 41820.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789276800,
+    "fills": 1
   }
 ]
