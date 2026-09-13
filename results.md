@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 11:15:39 (hora de Perú)
+Actualizado: 2026-09-13 11:17:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2689**  ($145,655,286 en total)
+- Apuestas registradas: **2690**  ($145,680,811 en total)
 - Resueltas: **2651** — 1584 ganadas / 1067 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 386
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 30 | 23 | 0 | 57% | $3,035,848 | -$331,942 |
+| wr0ngw4yb3tt0r | 30 | 23 | 1 | 57% | $3,061,373 | -$331,942 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |
-| vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | +$48,184 | ✅ Ganada |

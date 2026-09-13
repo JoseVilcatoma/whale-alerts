@@ -40423,5 +40423,20 @@
     "status": "pending",
     "ultimo_fill": 1789316015,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5476,
+    "timestamp": 1789316166,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-chi-car-2026-09-13-total-46pt5",
+    "title": "Bears vs. Panthers: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25524.9967,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1789316166,
+    "fills": 1
   }
 ]
