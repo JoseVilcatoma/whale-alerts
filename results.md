@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 11:48:25 (hora de Perú)
+Actualizado: 2026-09-13 11:50:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2691**  ($145,707,060 en total)
+- Apuestas registradas: **2694**  ($145,832,619 en total)
 - Resueltas: **2655** — 1588 ganadas / 1067 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 386
+- Pendientes: 25
+- Apostadores distintos: 387
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 386 en total)_
+_(mostrando los 40 de mayor monto, de 387 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | — | ⏳ Pendiente |
+| Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | — | ⏳ Pendiente |
+| christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | — | ⏳ Pendiente |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | +$30,000 | ✅ Ganada |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $41,820 | -$41,820 | ❌ Perdida |
-| retordedgremlin125 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.61 (62¢) | $41,482 | +$25,424 | ✅ Ganada |
-| heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
-| gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
