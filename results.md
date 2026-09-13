@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 05:55:01 (hora de Perú)
+Actualizado: 2026-09-13 05:57:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2649**  ($143,500,376 en total)
+- Apuestas registradas: **2650**  ($143,537,126 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 381
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | gransaaa | 7 | 11 | 2 | 39% | $816,991 | -$166,436 |
 | 0x78be…bde0 | 13 | 8 | 0 | 62% | $792,029 | -$114,125 |
 | plonker2026 | 8 | 9 | 0 | 47% | $765,725 | -$142,105 |
+| Jsram | 12 | 4 | 2 | 75% | $759,112 | +$112,891 |
 | Talvez10 | 8 | 5 | 0 | 62% | $743,326 | +$301,969 |
-| Jsram | 12 | 4 | 1 | 75% | $722,362 | +$112,891 |
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | — | ⏳ Pendiente |
 | BrotherObama | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.92 (52¢) | $28,600 | — | ⏳ Pendiente |
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | — | ⏳ Pendiente |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | +$20,867 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | Datacent | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $58,894 | +$25,240 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.59 (63¢) | $55,472 | -$55,472 | ❌ Perdida |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | +$32,987 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | -$25,081 | ❌ Perdida |
