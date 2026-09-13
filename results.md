@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 21:48:47 (hora de Perú)
+Actualizado: 2026-09-12 21:50:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2623**  ($142,127,192 en total)
-- Resueltas: **2592** — 1559 ganadas / 1033 perdidas (**60%** de acierto)
+- Apuestas registradas: **2624**  ($142,171,191 en total)
+- Resueltas: **2593** — 1560 ganadas / 1033 perdidas (**60%** de acierto)
 - Pendientes: 20
 - Apostadores distintos: 378
 
 ### Balance
 
-- **Resultado de los apostadores: +$621,623** sobre $140,768,596 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,530** sobre $255,700 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$631,004** sobre $140,826,223 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,513** sobre $255,800 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | — | ⏳ Pendiente |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | — | ⏳ Pendiente |
@@ -85,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | BrotherObama | Seattle Mariners vs. Athletics: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $49,297 | — | ⏳ Pendiente |
 | surfandturf | Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card) | Brandon Moreno | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
+| jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | +$9,381 | ✅ Ganada |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
 | theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | -$30,309 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | CongoleseBorat | Will Arsenal FC win on 2026-09-12? | Yes | 1.69 (59¢) | $107,621 | +$74,787 | ✅ Ganada |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | +$23,066 | ✅ Ganada |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | -$95,499 | ❌ Perdida |
-| robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | +$54,395 | ✅ Ganada |
