@@ -40558,5 +40558,20 @@
     "status": "pending",
     "ultimo_fill": 1789320703,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5489,
+    "timestamp": 1789320883,
+    "username": "N34",
+    "wallet": "0xfd672b99a7cc7835bf931f0cea09bf7f7680ef90",
+    "slug": "lal-rso-mad-2026-09-13-draw",
+    "title": "Will Real Sociedad de F\u00fatbol vs. Club Atl\u00e9tico de Madrid end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25855.111599999997,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1789320883,
+    "fills": 1
   }
 ]
