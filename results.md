@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 20:47:44 (hora de Perú)
+Actualizado: 2026-09-12 20:49:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2620**  ($141,903,218 en total)
+- Apuestas registradas: **2621**  ($142,022,051 en total)
 - Resueltas: **2588** — 1557 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 378
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | — | ⏳ Pendiente |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | +$54,395 | ✅ Ganada |
 | robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
 | BrotherObama | Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5 | Over 9.5 | 2.00 (50¢) | $100,000 | -$100,000 | ❌ Perdida |
-| one8tyfive | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.72 (58¢) | $33,930 | -$33,930 | ❌ Perdida |
