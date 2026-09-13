@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 19:05:01 (hora de Perú)
+Actualizado: 2026-09-12 19:07:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2610**  ($141,491,155 en total)
-- Resueltas: **2583** — 1553 ganadas / 1030 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2584** — 1553 ganadas / 1031 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 377
 
 ### Balance
 
-- **Resultado de los apostadores: +$508,867** sobre $140,435,101 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,805** sobre $254,800 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$479,136** sobre $140,464,832 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$7,905** sobre $254,900 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 377 en total)_
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
 | Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | -$63,040 | ❌ Perdida |
 | SS787878 | Delaware vs. Vanderbilt: O/U 54.5 | Over 54.5 | 2.00 (50¢) | $28,410 | +$28,410 | ✅ Ganada |
-| SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | — | ⏳ Pendiente |
+| SS787878 | UCF vs. Pittsburgh: O/U 56.5 | Over 56.5 | 2.13 (47¢) | $29,731 | -$29,731 | ❌ Perdida |
 | TAIWANNUMBERONE | LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs | Cloud9 | 1.19 (84¢) | $111,524 | +$21,243 | ✅ Ganada |
 | ferrariChampions2026 | Alabama vs. Kentucky | Kentucky | 4.35 (23¢) | $33,149 | -$33,149 | ❌ Perdida |
 | Sassy-Bucket | UNLV vs. North Texas | UNLV | 1.72 (58¢) | $57,630 | -$57,630 | ❌ Perdida |
