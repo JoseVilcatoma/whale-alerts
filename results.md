@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 17:26:41 (hora de Perú)
+Actualizado: 2026-09-13 17:28:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2727**  ($147,363,804 en total)
-- Resueltas: **2686** — 1609 ganadas / 1077 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Resueltas: **2693** — 1614 ganadas / 1079 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$614,129** sobre $145,481,208 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,556** sobre $264,600 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$622,082** sobre $145,824,275 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,527** sobre $265,300 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| 0F62 | 24 | 2 | 1 | 92% | $1,960,364 | +$83,853 |
+| 0F62 | 25 | 2 | 0 | 93% | $1,960,364 | +$88,444 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| SDTrading | 16 | 17 | 2 | 48% | $1,043,223 | -$99,715 |
+| SDTrading | 16 | 18 | 1 | 47% | $1,043,223 | -$124,729 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 11 | 0 | 35% | $961,219 | -$280,813 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -77,18 +77,18 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | — | ⏳ Pendiente |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | — | ⏳ Pendiente |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | — | ⏳ Pendiente |
-| doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
+| doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
-| 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
+| 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | — | ⏳ Pendiente |
-| 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | — | ⏳ Pendiente |
+| 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
@@ -97,14 +97,14 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
-| MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
+| MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | -$89,831 | ❌ Perdida |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | -$37,760 | ❌ Perdida |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | +$9,084 | ✅ Ganada |
 | 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | +$9,786 | ✅ Ganada |
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
-| Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | — | ⏳ Pendiente |
+| Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | +$73,544 | ✅ Ganada |
 | Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | -$25,399 | ❌ Perdida |
 | christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | +$18,241 | ✅ Ganada |
@@ -116,11 +116,11 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
 | Flaznorp | Spread: Manchester United FC (-1.5) | Manchester City FC | 1.16 (86¢) | $33,321 | +$5,424 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | -$705 | 💰 Vendida antes |
-| doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | — | ⏳ Pendiente |
+| doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | +$28,462 | ✅ Ganada |
 | jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | +$7,380 | ✅ Ganada |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
-| SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
+| SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | -$25,014 | ❌ Perdida |
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | +$4,673 | ✅ Ganada |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
