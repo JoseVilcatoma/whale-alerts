@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:33:44 (hora de Perú)
+Actualizado: 2026-09-13 15:35:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2718**  ($146,850,175 en total)
-- Resueltas: **2671** — 1597 ganadas / 1074 perdidas (**60%** de acierto)
-- Pendientes: 33
+- Resueltas: **2674** — 1600 ganadas / 1074 perdidas (**60%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$492,555** sobre $144,889,749 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,714** sobre $263,100 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$626,199** sobre $145,087,852 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,509** sobre $263,400 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 30 | 24 | 2 | 56% | $3,120,235 | -$357,467 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 22 | 24 | 3 | 48% | $2,427,903 | -$165,135 |
+| Sassy-Bucket | 24 | 24 | 1 | 50% | $2,427,903 | -$51,991 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -97,10 +97,10 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
 | Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | — | ⏳ Pendiente |
 | Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | — | ⏳ Pendiente |
-| christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
-| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | — | ⏳ Pendiente |
+| christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
+| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | +$18,241 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | -$25,525 | ❌ Perdida |
-| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
+| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | +$94,903 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | +$112,250 | ✅ Ganada |
