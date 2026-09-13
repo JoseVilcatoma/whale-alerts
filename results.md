@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 20:54:00 (hora de Perú)
+Actualizado: 2026-09-12 20:56:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2621**  ($142,022,051 en total)
-- Resueltas: **2588** — 1557 ganadas / 1031 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2589** — 1557 ganadas / 1032 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 378
 
 ### Balance
 
-- **Resultado de los apostadores: +$620,162** sobre $140,600,165 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,475** sobre $255,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$589,853** sobre $140,630,474 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,575** sobre $255,400 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | jaytee158 | San Diego State vs. UCLA | UCLA | 1.16 (86¢) | $57,627 | — | ⏳ Pendiente |
 | Diabolical-Prize | Spread: Navy (-4.5) | Navy | 1.96 (51¢) | $48,643 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Barranquilla: Claire Liu vs Anna Blinkova | Claire Liu | 2.70 (37¢) | $25,292 | +$43,065 | ✅ Ganada |
-| theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | — | ⏳ Pendiente |
+| theowalcott | Will Inter Miami CF win on 2026-09-12? | Yes | 1.96 (51¢) | $30,309 | -$30,309 | ❌ Perdida |
 | wr0ngw4yb3tt0r | Will Orlando City SC win on 2026-09-12? | No | 2.17 (46¢) | $38,000 | — | ⏳ Pendiente |
 | OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | -$40,000 | ❌ Perdida |
