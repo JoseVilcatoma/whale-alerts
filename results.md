@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 22:35:52 (hora de Perú)
+Actualizado: 2026-09-12 22:38:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2627**  ($142,324,737 en total)
-- Resueltas: **2600** — 1563 ganadas / 1037 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2606** — 1563 ganadas / 1043 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 379
 
 ### Balance
 
-- **Resultado de los apostadores: +$617,575** sobre $141,142,559 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$7,595** sobre $256,500 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$277,005** sobre $141,483,129 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,195** sobre $257,100 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 28 | 19 | 4 | 60% | $2,854,544 | -$394,538 |
+| wr0ngw4yb3tt0r | 28 | 23 | 0 | 55% | $2,854,544 | -$572,275 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 21 | 2 | 51% | $2,297,728 | -$160,383 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -73,12 +73,12 @@ _(mostrando los 40 de mayor monto, de 379 en total)_
 |---|---|---|---|---|---|---|
 | Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | — | ⏳ Pendiente |
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | — | ⏳ Pendiente |
-| ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | -$25,603 | ❌ Perdida |
+| 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | -$43,999 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | -$44,735 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
+| ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | -$118,833 | ❌ Perdida |
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | -$46,993 | ❌ Perdida |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $31,826 | — | ⏳ Pendiente |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | G2 | 1.96 (51¢) | $30,600 | — | ⏳ Pendiente |
 | mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
