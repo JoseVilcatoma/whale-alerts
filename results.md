@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 06:50:54 (hora de Perú)
+Actualizado: 2026-09-13 06:53:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2660**  ($144,147,644 en total)
+- Apuestas registradas: **2661**  ($144,198,310 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 382
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| totoro3miyazaki | 28 | 12 | 4 | 70% | $4,521,575 | +$296,813 |
+| totoro3miyazaki | 28 | 12 | 5 | 70% | $4,572,241 | +$296,813 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 28 | 23 | 1 | 55% | $2,992,559 | -$572,275 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 382 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $50,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $138,015 | — | ⏳ Pendiente |
 | doubylinkedlist | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.75 (57¢) | $26,952 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 382 en total)_
 | OhWhenTheReds | Will Orlando City SC win on 2026-09-12? | Yes | 1.89 (53¢) | $41,479 | +$36,783 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card) | Manon Fiorot | 1.39 (72¢) | $40,000 | -$40,000 | ❌ Perdida |
 | 11vsldfdsgfkjgos | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Aryna Sabalenka | 1.61 (62¢) | $42,749 | -$42,749 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.38 (42¢) | $25,200 | +$34,800 | ✅ Ganada |
