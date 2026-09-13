@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:15:17 (hora de Perú)
+Actualizado: 2026-09-13 15:17:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2713**  ($146,667,456 en total)
+- Apuestas registradas: **2714**  ($146,694,756 en total)
 - Resueltas: **2669** — 1596 ganadas / 1073 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 390
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | — | ⏳ Pendiente |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | 1l2ihj34li12u34 | FC Zurich vs. FC Vaduz: O/U 3.5 | Over 3.5 | 1.92 (52¢) | $38,592 | -$38,592 | ❌ Perdida |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $31,666 | -$31,666 | ❌ Perdida |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Will RC Celta de Vigo win on 2026-09-13? | No | 2.33 (43¢) | $71,981 | +$95,417 | ✅ Ganada |
-| totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | -$107,666 | ❌ Perdida |
