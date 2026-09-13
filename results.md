@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 06:40:24 (hora de Perú)
+Actualizado: 2026-09-13 06:42:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2653**  ($143,701,105 en total)
+- Apuestas registradas: **2654**  ($143,808,772 en total)
 - Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 381
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| totoro3miyazaki | 28 | 12 | 1 | 70% | $4,350,576 | +$296,813 |
+| totoro3miyazaki | 28 | 12 | 2 | 70% | $4,458,242 | +$296,813 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 28 | 23 | 0 | 55% | $2,854,544 | -$572,275 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,666 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will RC Celta de Vigo win on 2026-09-13? | Yes | 1.75 (57¢) | $107,769 | — | ⏳ Pendiente |
 | R88N | Will Viking FK win on 2026-09-13? | Yes | 1.28 (78¢) | $25,544 | — | ⏳ Pendiente |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs | Anyone's Legend | 1.45 (69¢) | $30,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | SS787878 | Alabama vs. Kentucky | Alabama | 1.67 (60¢) | $28,970 | +$19,313 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Arizona Diamondbacks | Texas Rangers | 2.22 (45¢) | $57,934 | +$70,808 | ✅ Ganada |
 | 3648393489047 | Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card) | David Martinez | 1.28 (78¢) | $31,200 | +$8,800 | ✅ Ganada |
-| 177-letsgo | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 1.43 (70¢) | $42,000 | +$18,000 | ✅ Ganada |
