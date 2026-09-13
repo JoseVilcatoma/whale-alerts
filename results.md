@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 12:58:12 (hora de Perú)
+Actualizado: 2026-09-13 13:00:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2700**  ($146,035,995 en total)
+- Apuestas registradas: **2701**  ($146,125,827 en total)
 - Resueltas: **2664** — 1595 ganadas / 1069 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 388
+- Pendientes: 23
+- Apostadores distintos: 389
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | texaskid | 5 | 6 | 1 | 45% | $602,221 | -$81,216 |
 
-_(mostrando los 40 de mayor monto, de 388 en total)_
+_(mostrando los 40 de mayor monto, de 389 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | — | ⏳ Pendiente |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | — | ⏳ Pendiente |
 | 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 | Jsram | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $36,750 | -$36,750 | ❌ Perdida |
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | +$230,054 | ✅ Ganada |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | -$25,668 | ❌ Perdida |

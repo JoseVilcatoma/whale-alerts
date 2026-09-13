@@ -40588,5 +40588,20 @@
     "status": "pending",
     "ultimo_fill": 1789321883,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5501,
+    "timestamp": 1789322371,
+    "username": "MonsieurDimanche",
+    "wallet": "0x0d18e30e252008d83f51dae00d36873ddd9e24a6",
+    "slug": "atp-zverev-shelton-2026-09-13",
+    "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "usd": 89831.3766,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1789322371,
+    "fills": 1
   }
 ]
