@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-12 21:38:38 (hora de Perú)
+Actualizado: 2026-09-12 21:40:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2622**  ($142,082,457 en total)
+- Apuestas registradas: **2623**  ($142,127,192 en total)
 - Resueltas: **2592** — 1559 ganadas / 1033 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 378
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 28 | 12 | 0 | 70% | $4,242,807 | +$296,813 |
 | pleaseplease123 | 54 | 35 | 0 | 61% | $3,808,732 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 27 | 19 | 3 | 59% | $2,784,206 | -$465,345 |
+| wr0ngw4yb3tt0r | 27 | 19 | 4 | 59% | $2,828,941 | -$465,345 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 20 | 3 | 52% | $2,297,728 | -$111,741 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | — | ⏳ Pendiente |
 | ethanaz | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $118,833 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $46,993 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 378 en total)_
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs | Movistar KOI | 1.82 (55¢) | $28,191 | +$23,066 | ✅ Ganada |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No | 2.56 (39¢) | $95,499 | -$95,499 | ❌ Perdida |
 | robban888 | US Open WTA: Aryna Sabalenka vs Elena Rybakina | Elena Rybakina | 2.33 (43¢) | $41,035 | +$54,395 | ✅ Ganada |
-| robban888 | Spread: Arsenal FC (-1.5) | Sunderland AFC | 1.49 (67¢) | $46,877 | -$46,877 | ❌ Perdida |
