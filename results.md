@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 10:20:26 (hora de Perú)
+Actualizado: 2026-09-13 10:22:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2681**  ($145,164,766 en total)
+- Apuestas registradas: **2683**  ($145,240,280 en total)
 - Resueltas: **2645** — 1581 ganadas / 1064 perdidas (**60%** de acierto)
-- Pendientes: 22
-- Apostadores distintos: 385
+- Pendientes: 24
+- Apostadores distintos: 386
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 385 en total)_
+_(mostrando los 40 de mayor monto, de 386 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | — | ⏳ Pendiente |
+| doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | — | ⏳ Pendiente |
 | jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | — | ⏳ Pendiente |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | — | ⏳ Pendiente |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 385 en total)_
 | 0x361b…74fe | Will Manchester City FC win on 2026-09-13? | Yes | 2.13 (47¢) | $90,642 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.64 (61¢) | $25,603 | -$25,603 | ❌ Perdida |
 | 0x6db5…e279 | Ohio State vs. Texas | Ohio State | 1.15 (87¢) | $43,999 | -$43,999 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.22 (82¢) | $44,735 | -$44,735 | ❌ Perdida |
-| wr0ngw4yb3tt0r | Ohio State vs. Texas | Ohio State | 1.12 (89¢) | $60,406 | -$60,406 | ❌ Perdida |
