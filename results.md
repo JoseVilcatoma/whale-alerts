@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 11:11:33 (hora de Perú)
+Actualizado: 2026-09-13 11:13:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2687**  ($145,485,432 en total)
+- Apuestas registradas: **2689**  ($145,655,286 en total)
 - Resueltas: **2651** — 1584 ganadas / 1067 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 386
 
 ### Balance
@@ -36,16 +36,16 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
+| Sassy-Bucket | 22 | 23 | 1 | 49% | $2,288,666 | -$113,135 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
 | 0b1 | 50 | 6 | 0 | 89% | $2,200,011 | +$105,700 |
-| Sassy-Bucket | 22 | 23 | 0 | 49% | $2,146,312 | -$113,135 |
 | 0F62 | 23 | 2 | 1 | 92% | $1,907,561 | +$81,899 |
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | BrotherObama | 12 | 17 | 1 | 41% | $1,484,448 | +$41,564 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
-| ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
+| ferrariChampions2026 | 21 | 13 | 1 | 62% | $1,407,860 | -$465,109 |
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 386 en total)_
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |
 | vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | +$48,184 | ✅ Ganada |
-| Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $36,482 | -$36,482 | ❌ Perdida |
-| hansama231 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
