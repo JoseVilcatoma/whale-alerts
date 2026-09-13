@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 05:03:15 (hora de Perú)
+Actualizado: 2026-09-13 05:05:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2648**  ($143,471,776 en total)
-- Resueltas: **2620** — 1571 ganadas / 1049 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2622** — 1572 ganadas / 1050 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 381
 
 ### Balance
 
-- **Resultado de los apostadores: +$243,282** sobre $141,970,575 apostados (ROI **+0.2%**)
-- Copiando $100 fijo en cada una: **-$8,396** sobre $258,500 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$255,466** sobre $142,045,998 apostados (ROI **+0.2%**)
+- Copiando $100 fijo en cada una: **-$8,374** sobre $258,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | -$25,668 | ❌ Perdida |
 | FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | +$6,318 | ✅ Ganada |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | — | ⏳ Pendiente |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner | Hanwha Life Esports | 2.08 (48¢) | $36,000 | -$36,000 | ❌ Perdida |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Gen.G | 1.16 (86¢) | $34,253 | +$5,576 | ✅ Ganada |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner | Hanwha Life Esports | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs | Legacy | 2.08 (48¢) | $27,692 | — | ⏳ Pendiente |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | heal-.- | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.64 (61¢) | $30,500 | +$19,500 | ✅ Ganada |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $81,000 | — | ⏳ Pendiente |
 | gransaaa | Will Manchester City FC win on 2026-09-13? | Yes | 2.22 (45¢) | $29,250 | — | ⏳ Pendiente |
-| vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | — | ⏳ Pendiente |
+| vjnn | Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5) | Gen.G | 2.22 (45¢) | $39,423 | +$48,184 | ✅ Ganada |
 | Diabolical-Prize | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Hanwha Life Esports | 2.70 (37¢) | $36,482 | -$36,482 | ❌ Perdida |
 | hansama231 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $35,280 | +$20,720 | ✅ Ganada |
 | Zzzz87 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.59 (63¢) | $37,300 | +$21,906 | ✅ Ganada |
