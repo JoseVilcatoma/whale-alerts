@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 17:16:27 (hora de Perú)
+Actualizado: 2026-09-13 17:18:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2726**  ($147,274,804 en total)
+- Apuestas registradas: **2727**  ($147,363,804 en total)
 - Resueltas: **2685** — 1609 ganadas / 1076 perdidas (**60%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 390
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 205 | 110 | 4 | 65% | $21,090,005 | +$1,279,112 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 205 | 110 | 5 | 65% | $21,179,005 | +$1,279,112 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | — | ⏳ Pendiente |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | — | ⏳ Pendiente |
 | fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
 | TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | +$5,950 | ✅ Ganada |
 | SharkbetX-com | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.04 (49¢) | $26,072 | -$26,072 | ❌ Perdida |
-| SS787878 | Packers vs. Vikings | Vikings | 1.82 (55¢) | $28,059 | — | ⏳ Pendiente |
