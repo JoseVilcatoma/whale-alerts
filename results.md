@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 18:14:00 (hora de Perú)
+Actualizado: 2026-09-13 18:16:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2728**  ($147,414,827 en total)
+- Apuestas registradas: **2729**  ($147,447,977 en total)
 - Resueltas: **2694** — 1614 ganadas / 1080 perdidas (**60%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 390
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | — | ⏳ Pendiente |
 | ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | — | ⏳ Pendiente |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | -$25,559 | ❌ Perdida |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | +$4,773 | ✅ Ganada |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
-| TrippleEX | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $29,050 | +$5,950 | ✅ Ganada |

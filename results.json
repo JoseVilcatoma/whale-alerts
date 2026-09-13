@@ -41012,5 +41012,20 @@
     "status": "pending",
     "ultimo_fill": 1789338576,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5560,
+    "timestamp": 1789341266,
+    "username": "kimi1986",
+    "wallet": "0xa08455c829a493054315e40e7817321e8c77bb99",
+    "slug": "mlb-sd-sf-2026-09-13-total-7pt5",
+    "title": "San Diego Padres vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 33150.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789341266,
+    "fills": 1
   }
 ]
