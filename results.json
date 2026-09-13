@@ -40344,5 +40344,35 @@
     "status": "pending",
     "ultimo_fill": 1789313629,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5466,
+    "timestamp": 1789313885,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "sea-nap-bol-2026-09-13-nap",
+    "title": "Will SSC Napoli win on 2026-09-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 48000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1789313885,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5467,
+    "timestamp": 1789313887,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "sea-nap-bol-2026-09-13-nap",
+    "title": "Will SSC Napoli win on 2026-09-13?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 116831.31169999999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789313887,
+    "fills": 1
   }
 ]
