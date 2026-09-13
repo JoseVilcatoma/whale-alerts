@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 03:25:48 (hora de Perú)
+Actualizado: 2026-09-13 03:27:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2647**  ($143,232,963 en total)
+- Apuestas registradas: **2648**  ($143,471,776 en total)
 - Resueltas: **2608** — 1564 ganadas / 1044 perdidas (**60%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 381
 
 ### Balance
@@ -46,9 +46,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 11 | 15 | 3 | 42% | $1,455,848 | +$70,165 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | ferrariChampions2026 | 21 | 13 | 0 | 62% | $1,380,360 | -$465,109 |
+| 00gringo00 | 5 | 1 | 2 | ⚠️ 83% (6) | $1,334,367 | +$105,324 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| 00gringo00 | 5 | 1 | 1 | ⚠️ 83% (6) | $1,095,554 | +$105,324 |
 | SDTrading | 16 | 17 | 0 | 48% | $983,337 | -$99,715 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.89 (53¢) | $238,812 | — | ⏳ Pendiente |
 | five5120 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Gen.G | 1.75 (57¢) | $27,661 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Coventry City FC win on 2026-09-13? | No | 1.30 (77¢) | $29,647 | — | ⏳ Pendiente |
 | 0x49F206 | Will Brighton & Hove Albion FC win on 2026-09-13? | No | 2.08 (48¢) | $33,941 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 381 en total)_
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $58,643 | +$32,987 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Delaware vs. Vanderbilt: O/U 54.5 | Under 54.5 | 2.00 (50¢) | $25,081 | -$25,081 | ❌ Perdida |
 | Talvez10 | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Tim Elliott | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
-| Sassy-Bucket | Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims) | Édgar Cháirez | 1.54 (65¢) | $63,040 | -$63,040 | ❌ Perdida |
