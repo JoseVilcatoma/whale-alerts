@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 18:32:58 (hora de Perú)
+Actualizado: 2026-09-13 18:35:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2730**  ($147,495,104 en total)
-- Resueltas: **2694** — 1614 ganadas / 1080 perdidas (**60%** de acierto)
-- Pendientes: 22
+- Resueltas: **2695** — 1615 ganadas / 1080 perdidas (**60%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$587,210** sobre $145,859,147 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,627** sobre $265,400 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$605,074** sobre $145,885,943 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,560** sobre $265,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
-| theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | — | ⏳ Pendiente |
+| theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | +$17,864 | ✅ Ganada |
 | Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
