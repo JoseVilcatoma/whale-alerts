@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 12:48:09 (hora de Perú)
+Actualizado: 2026-09-13 12:52:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2699**  ($145,998,235 en total)
-- Resueltas: **2663** — 1594 ganadas / 1069 perdidas (**60%** de acierto)
+- Apuestas registradas: **2700**  ($146,035,995 en total)
+- Resueltas: **2664** — 1595 ganadas / 1069 perdidas (**60%** de acierto)
 - Pendientes: 22
 - Apostadores distintos: 388
 
 ### Balance
 
-- **Resultado de los apostadores: +$447,079** sobre $144,490,706 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,625** sobre $262,500 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$452,048** sobre $144,568,553 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,619** sobre $262,600 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
+| texaskid | 5 | 6 | 1 | 45% | $602,221 | -$81,216 |
 
 _(mostrando los 40 de mayor monto, de 388 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | — | ⏳ Pendiente |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | — | ⏳ Pendiente |
 | 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | — | ⏳ Pendiente |
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
@@ -91,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 | doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | — | ⏳ Pendiente |
 | jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | — | ⏳ Pendiente |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
-| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | — | ⏳ Pendiente |
+| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | — | ⏳ Pendiente |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 388 en total)_
 | 00gringo00 | Will Brighton & Hove Albion FC win on 2026-09-13? | Yes | 1.96 (51¢) | $239,444 | +$230,054 | ✅ Ganada |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner | Hanwha Life Esports | 2.33 (43¢) | $25,668 | -$25,668 | ❌ Perdida |
-| FORTNITEMASTER888 | LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs | Gen.G | 1.23 (81¢) | $26,935 | +$6,318 | ✅ Ganada |
