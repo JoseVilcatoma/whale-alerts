@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 16:22:51 (hora de Perú)
+Actualizado: 2026-09-13 16:24:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2721**  ($147,034,675 en total)
-- Resueltas: **2681** — 1606 ganadas / 1075 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2684** — 1608 ganadas / 1076 perdidas (**60%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$654,510** sobre $145,333,942 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,438** sobre $264,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$630,443** sobre $145,429,954 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,491** sobre $264,400 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 54 | 35 | 2 | 61% | $3,914,388 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 30 | 24 | 2 | 56% | $3,120,235 | -$357,467 |
+| wr0ngw4yb3tt0r | 31 | 24 | 1 | 56% | $3,120,235 | -$351,774 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 24 | 1 | 50% | $2,427,903 | -$51,991 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 6 | 7 | 0 | 46% | $683,277 | +$18,908 |
 | Sunny24 | 10 | 7 | 0 | 59% | $630,179 | +$5,866 |
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
-| texaskid | 5 | 6 | 1 | 45% | $602,221 | -$81,216 |
+| texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
 
 _(mostrando los 40 de mayor monto, de 390 en total)_
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | — | ⏳ Pendiente |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
-| fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | — | ⏳ Pendiente |
+| fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
@@ -90,9 +90,9 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
 | pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | — | ⏳ Pendiente |
-| texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | — | ⏳ Pendiente |
+| texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | -$37,760 | ❌ Perdida |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | — | ⏳ Pendiente |
 | 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | +$9,786 | ✅ Ganada |
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
