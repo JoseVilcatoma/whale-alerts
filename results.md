@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 17:53:48 (hora de Perú)
+Actualizado: 2026-09-13 17:55:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2728**  ($147,414,827 en total)
-- Resueltas: **2693** — 1614 ganadas / 1079 perdidas (**60%** de acierto)
-- Pendientes: 21
+- Resueltas: **2694** — 1614 ganadas / 1080 perdidas (**60%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$622,082** sobre $145,824,275 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,527** sobre $265,300 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$587,210** sobre $145,859,147 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,627** sobre $265,400 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -49,7 +49,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
-| SDTrading | 16 | 18 | 1 | 47% | $1,043,223 | -$124,729 |
+| SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 11 | 0 | 35% | $961,219 | -$280,813 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
@@ -126,7 +126,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
 | Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
-| SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
+| SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | -$34,872 | ❌ Perdida |
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | -$25,559 | ❌ Perdida |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | +$4,773 | ✅ Ganada |
 | Datacent | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof | 1.75 (57¢) | $26,605 | +$10,735 | 💰 Vendida antes |
