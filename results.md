@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 13:16:38 (hora de Perú)
+Actualizado: 2026-09-13 13:18:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2705**  ($146,256,406 en total)
-- Resueltas: **2665** — 1595 ganadas / 1070 perdidas (**60%** de acierto)
-- Pendientes: 26
+- Resueltas: **2666** — 1596 ganadas / 1070 perdidas (**60%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 389
 
 ### Balance
 
-- **Resultado de los apostadores: +$451,343** sobre $144,603,108 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,619** sobre $262,600 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$563,593** sobre $144,719,940 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,523** sobre $262,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -28,7 +28,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| totoro3miyazaki | 28 | 17 | 1 | 62% | $4,909,700 | -$253,249 |
+| totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 54 | 35 | 1 | 61% | $3,844,288 | +$709,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 389 en total)_
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
-| totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | +$112,250 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
 | Flaznorp | Spread: Manchester United FC (-1.5) | Manchester City FC | 1.16 (86¢) | $33,321 | +$5,424 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | -$705 | 💰 Vendida antes |
