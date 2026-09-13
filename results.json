@@ -40603,5 +40603,20 @@
     "status": "pending",
     "ultimo_fill": 1789322371,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5502,
+    "timestamp": 1789322464,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-no-det-2026-09-13",
+    "title": "Saints vs. Lions",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 29883.9285,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1789322464,
+    "fills": 1
   }
 ]
