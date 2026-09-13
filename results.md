@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 15:35:46 (hora de Perú)
+Actualizado: 2026-09-13 15:37:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2718**  ($146,850,175 en total)
-- Resueltas: **2674** — 1600 ganadas / 1074 perdidas (**60%** de acierto)
-- Pendientes: 30
+- Resueltas: **2675** — 1601 ganadas / 1074 perdidas (**60%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$626,199** sobre $145,087,852 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,509** sobre $263,400 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$633,579** sobre $145,115,616 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,482** sobre $263,500 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Flaznorp | Spread: Manchester United FC (-1.5) | Manchester City FC | 1.16 (86¢) | $33,321 | +$5,424 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | -$705 | 💰 Vendida antes |
 | doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | — | ⏳ Pendiente |
-| jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | — | ⏳ Pendiente |
+| jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | +$7,380 | ✅ Ganada |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
 | SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | — | ⏳ Pendiente |
