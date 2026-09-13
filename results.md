@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 09:06:56 (hora de Perú)
+Actualizado: 2026-09-13 09:08:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2673**  ($144,825,191 en total)
+- Apuestas registradas: **2674**  ($144,858,385 en total)
 - Resueltas: **2627** — 1574 ganadas / 1053 perdidas (**60%** de acierto)
-- Pendientes: 32
-- Apostadores distintos: 383
+- Pendientes: 33
+- Apostadores distintos: 384
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | Djdjdjekekek | 0 | 8 | 0 | 0% | $586,242 | -$353,879 |
 
-_(mostrando los 40 de mayor monto, de 383 en total)_
+_(mostrando los 40 de mayor monto, de 384 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | — | ⏳ Pendiente |
 | SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | — | ⏳ Pendiente |
 | gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | — | ⏳ Pendiente |
 | zhqzhq | Will Hamburger SV win on 2026-09-13? | No | 1.14 (88¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 383 en total)_
 | mitsuike | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.47 (68¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 0F62 | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $25,963 | — | ⏳ Pendiente |
 | maz26 | Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) | Garcia | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
-| kekasaur | Real Salt Lake vs. New York City FC: O/U 2.5 | Over 2.5 | 1.69 (59¢) | $34,059 | -$34,059 | ❌ Perdida |
