@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 22:17:09 (hora de Perú)
+Actualizado: 2026-09-13 22:19:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2744**  ($148,103,420 en total)
+- Apuestas registradas: **2745**  ($148,143,695 en total)
 - Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 391
 
 ### Balance
@@ -31,8 +31,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
+| wr0ngw4yb3tt0r | 31 | 25 | 4 | 55% | $3,305,080 | -$380,752 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 31 | 25 | 3 | 55% | $3,264,805 | -$380,752 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.11 (90¢) | $40,275 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.12 (89¢) | $53,742 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Cowboys vs. Giants | Giants | 1.25 (80¢) | $28,350 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.37 (73¢) | $30,150 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | ferrariChampions2026 | Bills vs. Texans | Texans | 2.08 (48¢) | $27,500 | -$27,500 | ❌ Perdida |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.13 (47¢) | $47,000 | -$979 | 💰 Vendida antes |
 | totoro3miyazaki | Will SSC Napoli win on 2026-09-13? | Yes | 1.96 (51¢) | $116,831 | +$112,250 | ✅ Ganada |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
