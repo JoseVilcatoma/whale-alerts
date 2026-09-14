@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 00:23:58 (hora de Perú)
+Actualizado: 2026-09-14 00:26:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2747**  ($148,306,745 en total)
-- Resueltas: **2730** — 1639 ganadas / 1091 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **2732** — 1641 ganadas / 1091 perdidas (**60%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$783,881** sobre $147,659,122 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,493** sobre $269,000 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$843,418** sobre $147,722,578 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,305** sobre $269,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 2 | 66% | $21,237,651 | +$1,382,630 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 1 | 54% | $5,738,874 | -$170,085 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | +$53,606 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | +$31,301 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | +$27,378 | ✅ Ganada |
-| TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | — | ⏳ Pendiente |
+| TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | +$35,037 | ✅ Ganada |
 | wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | -$25,300 | ❌ Perdida |
 | theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | +$42,804 | ✅ Ganada |
 | jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | +$22,405 | ✅ Ganada |
