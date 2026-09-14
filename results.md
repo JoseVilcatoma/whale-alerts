@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 18:54:01 (hora de Perú)
+Actualizado: 2026-09-14 18:56:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2757**  ($148,879,067 en total)
+- Apuestas registradas: **2758**  ($148,909,067 en total)
 - Resueltas: **2738** — 1645 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 392
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | — | ⏳ Pendiente |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | -$89,831 | ❌ Perdida |
 | texaskid | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers | 1.56 (64¢) | $37,760 | -$37,760 | ❌ Perdida |
 | N34 | Will Real Sociedad de Fútbol vs. Club Atlético de Madrid end in a draw? | No | 1.35 (74¢) | $25,855 | +$9,084 | ✅ Ganada |
-| 177-letsgo | Falcons vs. Steelers | Steelers | 1.30 (77¢) | $32,761 | +$9,786 | ✅ Ganada |
