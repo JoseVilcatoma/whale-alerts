@@ -41102,5 +41102,20 @@
     "status": "pending",
     "ultimo_fill": 1789345001,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5579,
+    "timestamp": 1789345442,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nfl-dal-nyg-2026-09-14-total-47pt5",
+    "title": "Cowboys vs. Giants: O/U 47.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 37956.26640000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1789345442,
+    "fills": 1
   }
 ]
