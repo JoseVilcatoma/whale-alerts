@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 15:10:32 (hora de Perú)
+Actualizado: 2026-09-14 15:12:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2752**  ($148,616,916 en total)
+- Apuestas registradas: **2753**  ($148,648,682 en total)
 - Resueltas: **2737** — 1644 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 392
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
+| pleaseplease123 | 55 | 36 | 1 | 60% | $3,946,154 | +$659,216 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | — | ⏳ Pendiente |
 | AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
 | Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | +$73,544 | ✅ Ganada |
-| Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | -$25,399 | ❌ Perdida |

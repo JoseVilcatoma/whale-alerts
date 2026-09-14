@@ -41372,5 +41372,20 @@
     "status": "pending",
     "ultimo_fill": 1789415339,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5630,
+    "timestamp": 1789416693,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-atl-chc-2026-09-14-total-9pt5",
+    "title": "Atlanta Braves vs. Chicago Cubs: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 31766.255499999992,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1789416693,
+    "fills": 1
   }
 ]
