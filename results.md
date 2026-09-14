@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 16:46:07 (hora de Perú)
+Actualizado: 2026-09-14 16:48:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2753**  ($148,648,682 en total)
+- Apuestas registradas: **2754**  ($148,674,674 en total)
 - Resueltas: **2737** — 1644 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 2
+- Pendientes: 3
 - Apostadores distintos: 392
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | — | ⏳ Pendiente |
 | AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | BrotherObama | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Over 9.5 | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | Sassy-Bucket | Philadelphia Phillies vs. Atlanta Braves: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $52,000 | -$52,000 | ❌ Perdida |
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
-| Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | +$73,544 | ✅ Ganada |
