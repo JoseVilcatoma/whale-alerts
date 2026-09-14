@@ -41267,5 +41267,35 @@
     "status": "pending",
     "ultimo_fill": 1789355890,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5600,
+    "timestamp": 1789355985,
+    "username": "curie",
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "slug": "nfl-dal-nyg-2026-09-14",
+    "title": "Cowboys vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 135450.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1789355985,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5601,
+    "timestamp": 1789355986,
+    "username": "itsonlyamatteroftime",
+    "wallet": "0x664a25f165a0150ce687410470f3352f5783fc5f",
+    "slug": "nfl-dal-nyg-2026-09-14",
+    "title": "Cowboys vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 27600.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1789355986,
+    "fills": 1
   }
 ]
