@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 19:14:27 (hora de Perú)
+Actualizado: 2026-09-13 19:16:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2731**  ($147,559,054 en total)
-- Resueltas: **2702** — 1620 ganadas / 1082 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Apuestas registradas: **2733**  ($147,620,990 en total)
+- Resueltas: **2707** — 1623 ganadas / 1084 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$620,320** sobre $146,284,354 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,580** sobre $266,200 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$576,874** sobre $146,523,664 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,609** sobre $266,700 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 206 | 110 | 4 | 65% | $21,179,005 | +$1,291,248 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 207 | 110 | 3 | 65% | $21,179,005 | +$1,332,195 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 0 | 54% | $5,700,918 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -34,7 +34,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 31 | 24 | 1 | 56% | $3,120,235 | -$351,774 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Sassy-Bucket | 24 | 24 | 1 | 50% | $2,427,903 | -$51,991 |
+| Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
 | beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 | Noprajsk | 12 | 9 | 0 | 57% | $2,231,117 | +$65,350 |
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | — | ⏳ Pendiente |
+| jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | — | ⏳ Pendiente |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | — | ⏳ Pendiente |
-| 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | — | ⏳ Pendiente |
+| 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
 | kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | — | ⏳ Pendiente |
-| ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | — | ⏳ Pendiente |
+| ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | -$51,024 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
 | fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
@@ -86,11 +88,11 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | +$30,640 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | +$40,947 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | — | ⏳ Pendiente |
+| Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | -$60,987 | ❌ Perdida |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | -$49,995 | ❌ Perdida |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
 | Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
-| SDTrading | Spread: Bears (-3.5) | Panthers | 1.79 (56¢) | $34,872 | -$34,872 | ❌ Perdida |
-| gransaaa | Will SK Brann win on 2026-09-13? | Yes | 2.00 (50¢) | $25,559 | -$25,559 | ❌ Perdida |
