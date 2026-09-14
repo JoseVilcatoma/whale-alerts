@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 22:29:20 (hora de Perú)
+Actualizado: 2026-09-13 22:31:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2747**  ($148,306,745 en total)
-- Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 17
+- Resueltas: **2718** — 1627 ganadas / 1091 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$552,431** sobre $146,974,887 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,970** sobre $267,600 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$569,934** sobre $147,031,183 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,932** sobre $267,800 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | — | ⏳ Pendiente |
 | TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | — | ⏳ Pendiente |
-| wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | — | ⏳ Pendiente |
-| theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | — | ⏳ Pendiente |
+| wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | -$25,300 | ❌ Perdida |
+| theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | +$42,804 | ✅ Ganada |
 | jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | — | ⏳ Pendiente |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | — | ⏳ Pendiente |
 | 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
