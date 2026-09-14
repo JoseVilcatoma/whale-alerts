@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 20:16:08 (hora de Perú)
+Actualizado: 2026-09-13 20:18:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2737**  ($147,738,241 en total)
-- Resueltas: **2712** — 1624 ganadas / 1088 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Resueltas: **2713** — 1624 ganadas / 1089 perdidas (**60%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 391
 
 ### Balance
 
-- **Resultado de los apostadores: +$432,704** sobre $146,767,043 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,996** sobre $267,200 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$403,727** sobre $146,796,020 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$9,096** sobre $267,300 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 31 | 24 | 1 | 56% | $3,120,235 | -$351,774 |
+| wr0ngw4yb3tt0r | 31 | 25 | 0 | 55% | $3,120,235 | -$380,752 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | +$30,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | +$40,947 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | — | ⏳ Pendiente |
+| wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | -$28,978 | ❌ Perdida |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | -$60,987 | ❌ Perdida |
