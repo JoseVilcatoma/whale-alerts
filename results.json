@@ -41417,5 +41417,20 @@
     "status": "pending",
     "ultimo_fill": 1789424620,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5635,
+    "timestamp": 1789426606,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mia-ari-2026-09-14",
+    "title": "Miami Marlins vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "usd": 67062.27,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1789426606,
+    "fills": 1
   }
 ]
