@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 21:24:04 (hora de Perú)
+Actualizado: 2026-09-13 21:26:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2740**  ($147,963,900 en total)
+- Apuestas registradas: **2741**  ($147,991,178 en total)
 - Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 391
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 31 | 25 | 1 | 55% | $3,183,785 | -$380,752 |
+| wr0ngw4yb3tt0r | 31 | 25 | 2 | 55% | $3,211,063 | -$380,752 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants | 1.33 (75¢) | $53,271 | — | ⏳ Pendiente |
 | cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | Flaznorp | Spread: Manchester United FC (-1.5) | Manchester City FC | 1.16 (86¢) | $33,321 | +$5,424 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | -$705 | 💰 Vendida antes |
 | doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | +$28,462 | ✅ Ganada |
-| jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | +$7,380 | ✅ Ganada |
