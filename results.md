@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 20:28:31 (hora de Perú)
+Actualizado: 2026-09-13 20:30:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2737**  ($147,738,241 en total)
-- Resueltas: **2713** — 1624 ganadas / 1089 perdidas (**60%** de acierto)
-- Pendientes: 10
+- Resueltas: **2714** — 1624 ganadas / 1090 perdidas (**60%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 391
 
 ### Balance
 
-- **Resultado de los apostadores: +$403,727** sobre $146,796,020 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$9,096** sobre $267,300 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$376,727** sobre $146,823,020 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$9,196** sobre $267,400 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | +$40,947 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | -$28,978 | ❌ Perdida |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
-| SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | — | ⏳ Pendiente |
+| SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | -$27,000 | ❌ Perdida |
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | -$60,987 | ❌ Perdida |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | -$49,995 | ❌ Perdida |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
