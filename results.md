@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 20:03:42 (hora de Perú)
+Actualizado: 2026-09-13 20:05:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2737**  ($147,738,241 en total)
-- Resueltas: **2711** — 1623 ganadas / 1088 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Resueltas: **2712** — 1624 ganadas / 1088 perdidas (**60%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 391
 
 ### Balance
 
-- **Resultado de los apostadores: +$420,799** sobre $146,679,739 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$9,009** sobre $267,100 (ROI **-3.4%**)
+- **Resultado de los apostadores: +$432,704** sobre $146,767,043 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,996** sobre $267,200 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 207 | 110 | 4 | 65% | $21,207,501 | +$1,332,195 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 208 | 110 | 3 | 65% | $21,207,501 | +$1,344,100 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 1 | 54% | $5,738,874 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
 | fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | +$11,905 | ✅ Ganada |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | -$25,467 | ❌ Perdida |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | -$27,358 | ❌ Perdida |
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
