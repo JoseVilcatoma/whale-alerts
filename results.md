@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 19:16:29 (hora de Perú)
+Actualizado: 2026-09-13 19:18:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2733**  ($147,620,990 en total)
+- Apuestas registradas: **2734**  ($147,646,290 en total)
 - Resueltas: **2707** — 1623 ganadas / 1084 perdidas (**60%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 390
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | — | ⏳ Pendiente |
 | theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | — | ⏳ Pendiente |
 | jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | — | ⏳ Pendiente |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | phonesculptor | Will Stade Brestois 29 win on 2026-09-13? | No | 1.08 (93¢) | $62,088 | +$4,673 | ✅ Ganada |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.79 (56¢) | $43,937 | -$43,937 | ❌ Perdida |
 | Jsram | Will Manchester City FC win on 2026-09-13? | No | 1.82 (55¢) | $26,180 | -$26,180 | ❌ Perdida |
-| Runemup | Will FC Barcelona win on 2026-09-13? | Yes | 1.20 (83¢) | $33,194 | +$6,799 | ✅ Ganada |
