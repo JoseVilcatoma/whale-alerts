@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 09:05:30 (hora de Perú)
+Actualizado: 2026-09-14 09:07:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2748**  ($148,335,543 en total)
+- Apuestas registradas: **2749**  ($148,449,595 en total)
 - Resueltas: **2733** — 1641 ganadas / 1092 perdidas (**60%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 392
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux | Alejandro Moro Canas | 1.22 (82¢) | $28,799 | — | ⏳ Pendiente |
 | itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | +$22,050 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
 | Sassy-Bucket | Ravens vs. Colts | Ravens | 1.69 (59¢) | $26,249 | +$18,241 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Bears vs. Panthers: O/U 46.5 | Under 46.5 | 2.04 (49¢) | $25,525 | -$25,525 | ❌ Perdida |
-| Sassy-Bucket | Ravens vs. Colts | Ravens | 1.67 (60¢) | $142,354 | +$94,903 | ✅ Ganada |
