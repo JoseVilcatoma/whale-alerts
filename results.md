@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 21:26:08 (hora de Perú)
+Actualizado: 2026-09-13 21:28:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2741**  ($147,991,178 en total)
+- Apuestas registradas: **2742**  ($148,021,328 en total)
 - Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 391
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 208 | 110 | 3 | 65% | $21,207,501 | +$1,344,100 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 208 | 110 | 4 | 65% | $21,237,651 | +$1,344,100 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 1 | 54% | $5,738,874 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.37 (73¢) | $30,150 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants | 1.33 (75¢) | $53,271 | — | ⏳ Pendiente |
 | cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SSC Napoli win on 2026-09-13? | No | 2.08 (48¢) | $48,000 | -$1,000 | 💰 Vendida antes |
 | Flaznorp | Spread: Manchester United FC (-1.5) | Manchester City FC | 1.16 (86¢) | $33,321 | +$5,424 | ✅ Ganada |
 | 0xf6683D202f76FC9B79E5BE716CE8519DAb5b5c69-1765800503123 | Chicago White Sox vs. St. Louis Cardinals | St. Louis Cardinals | 2.04 (49¢) | $34,556 | -$705 | 💰 Vendida antes |
-| doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | +$28,462 | ✅ Ganada |
