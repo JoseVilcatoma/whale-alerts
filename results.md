@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 19:49:08 (hora de Perú)
+Actualizado: 2026-09-13 19:51:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2737**  ($147,738,241 en total)
-- Resueltas: **2707** — 1623 ganadas / 1084 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2709** — 1623 ganadas / 1086 perdidas (**60%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 391
 
 ### Balance
 
-- **Resultado de los apostadores: +$576,874** sobre $146,523,664 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,609** sobre $266,700 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$473,624** sobre $146,626,914 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$8,809** sobre $266,900 (ROI **-3.3%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 55 | 35 | 1 | 61% | $3,914,388 | +$729,316 |
+| pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 31 | 24 | 1 | 56% | $3,120,235 | -$351,774 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | — | ⏳ Pendiente |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | — | ⏳ Pendiente |
 | 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
-| kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | — | ⏳ Pendiente |
+| kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | -$33,150 | ❌ Perdida |
 | ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | -$51,024 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | — | ⏳ Pendiente |
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | +$17,100 | ✅ Ganada |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | — | ⏳ Pendiente |
+| pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | -$70,100 | ❌ Perdida |
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | +$30,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | +$40,947 | ✅ Ganada |
