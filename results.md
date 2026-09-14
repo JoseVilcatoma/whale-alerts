@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 22:52:17 (hora de Perú)
+Actualizado: 2026-09-13 22:54:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2747**  ($148,306,745 en total)
-- Resueltas: **2729** — 1638 ganadas / 1091 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2730** — 1639 ganadas / 1091 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$761,477** sobre $147,628,181 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,565** sobre $268,900 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$783,881** sobre $147,659,122 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,493** sobre $269,000 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | — | ⏳ Pendiente |
 | wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | -$25,300 | ❌ Perdida |
 | theowalcott | Will Philadelphia Union win on 2026-09-13? | Yes | 2.38 (42¢) | $30,996 | +$42,804 | ✅ Ganada |
-| jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | — | ⏳ Pendiente |
+| jaytee158 | Cowboys vs. Giants: O/U 49.5 | Under 49.5 | 1.72 (58¢) | $30,940 | +$22,405 | ✅ Ganada |
 | SS787878 | Spread: Cowboys (-3.5) | Cowboys | 2.13 (47¢) | $63,950 | — | ⏳ Pendiente |
 | 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
 | kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | -$33,150 | ❌ Perdida |
