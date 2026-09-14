@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 11:09:41 (hora de Perú)
+Actualizado: 2026-09-14 14:44:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2751**  ($148,583,520 en total)
-- Resueltas: **2734** — 1642 ganadas / 1092 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **2737** — 1644 ganadas / 1093 perdidas (**60%** de acierto)
+- Pendientes: 0
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$785,790** sobre $147,815,326 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,383** sobre $269,400 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$825,040** sobre $148,063,303 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,411** sobre $269,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,12 +45,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
 | ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| 00gringo00 | 7 | 1 | 1 | 88% | $1,434,291 | +$547,154 |
+| 00gringo00 | 8 | 1 | 0 | 89% | $1,434,291 | +$603,362 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
 | S-Works | 7 | 3 | 0 | 70% | $1,243,023 | -$120,763 |
 | SDTrading | 16 | 19 | 0 | 46% | $1,043,223 | -$159,601 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 11 | 1 | 35% | $995,219 | -$280,813 |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 6 | 12 | 0 | 33% | $995,219 | -$314,813 |
 | xifutloong3 | 15 | 15 | 0 | 50% | $973,989 | -$178,816 |
 | 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | 16 | 8 | 0 | 67% | $916,163 | -$16,711 |
 | WTSA | 8 | 8 | 0 | 50% | $904,005 | -$67,848 |
@@ -71,9 +71,9 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | — | ⏳ Pendiente |
-| 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | — | ⏳ Pendiente |
-| phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
+| 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
+| phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | +$17,042 | ✅ Ganada |
 | ferrariChampions2026 | Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux | Alejandro Moro Canas | 1.22 (82¢) | $28,799 | +$6,322 | ✅ Ganada |
 | itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | +$22,050 | ✅ Ganada |
