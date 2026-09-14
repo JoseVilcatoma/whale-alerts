@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 19:57:28 (hora de Perú)
+Actualizado: 2026-09-13 19:59:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2737**  ($147,738,241 en total)
-- Resueltas: **2709** — 1623 ganadas / 1086 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2711** — 1623 ganadas / 1088 perdidas (**60%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 391
 
 ### Balance
 
-- **Resultado de los apostadores: +$473,624** sobre $146,626,914 apostados (ROI **+0.3%**)
-- Copiando $100 fijo en cada una: **-$8,809** sobre $266,900 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$420,799** sobre $146,679,739 apostados (ROI **+0.3%**)
+- Copiando $100 fijo en cada una: **-$9,009** sobre $267,100 (ROI **-3.4%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -85,8 +85,8 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | fivethirty | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $70,000 | +$15,366 | ✅ Ganada |
 | fivethirty | Cardinals vs. Chargers | Chargers | 1.75 (57¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Sentinels vs FlyQuest (BO5) - LCS Playoffs | FlyQuest | 1.14 (88¢) | $87,304 | — | ⏳ Pendiente |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | — | ⏳ Pendiente |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | — | ⏳ Pendiente |
+| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.69 (59¢) | $25,467 | -$25,467 | ❌ Perdida |
+| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC | 1.72 (58¢) | $27,358 | -$27,358 | ❌ Perdida |
 | doubylinkedlist | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
 | 177-letsgo | Commanders vs. Eagles | Eagles | 1.22 (82¢) | $77,900 | +$17,100 | ✅ Ganada |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.92 (52¢) | $70,100 | -$70,100 | ❌ Perdida |
