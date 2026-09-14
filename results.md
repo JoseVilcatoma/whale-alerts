@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 17:45:13 (hora de Perú)
+Actualizado: 2026-09-14 17:47:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2755**  ($148,769,487 en total)
-- Resueltas: **2737** — 1644 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Resueltas: **2738** — 1645 ganadas / 1093 perdidas (**60%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$825,040** sobre $148,063,303 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,411** sobre $269,700 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$848,247** sobre $148,096,699 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,342** sobre $269,800 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | — | ⏳ Pendiente |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | — | ⏳ Pendiente |
-| AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | — | ⏳ Pendiente |
+| AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | +$23,207 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
 | phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | +$17,042 | ✅ Ganada |
