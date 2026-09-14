@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 09:33:59 (hora de Perú)
+Actualizado: 2026-09-14 09:36:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2749**  ($148,449,595 en total)
-- Resueltas: **2733** — 1641 ganadas / 1092 perdidas (**60%** de acierto)
-- Pendientes: 2
+- Resueltas: **2734** — 1642 ganadas / 1092 perdidas (**60%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$779,468** sobre $147,786,528 apostados (ROI **+0.5%**)
-- Copiando $100 fijo en cada una: **-$8,405** sobre $269,300 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$785,790** sobre $147,815,326 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,383** sobre $269,400 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Weaseloftheweek | 18 | 17 | 0 | 51% | $1,768,949 | -$75,955 |
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
-| ferrariChampions2026 | 22 | 14 | 1 | 61% | $1,489,930 | -$474,852 |
+| ferrariChampions2026 | 23 | 14 | 0 | 62% | $1,489,930 | -$468,530 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux | Alejandro Moro Canas | 1.22 (82¢) | $28,799 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux | Alejandro Moro Canas | 1.22 (82¢) | $28,799 | +$6,322 | ✅ Ganada |
 | itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | +$22,050 | ✅ Ganada |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.11 (90¢) | $40,275 | +$4,475 | ✅ Ganada |
