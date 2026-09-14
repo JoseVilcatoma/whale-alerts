@@ -41162,5 +41162,20 @@
     "status": "pending",
     "ultimo_fill": 1789350799,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5592,
+    "timestamp": 1789351143,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-dal-nyg-2026-09-14",
+    "title": "Cowboys vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 108836.9708,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1789351143,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 20:57:19 (hora de Perú)
+Actualizado: 2026-09-13 20:59:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2738**  ($147,801,791 en total)
+- Apuestas registradas: **2739**  ($147,910,628 en total)
 - Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 391
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | — | ⏳ Pendiente |
 | TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | doublerainbowfish | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.69 (59¢) | $40,958 | +$28,462 | ✅ Ganada |
 | jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | +$7,380 | ✅ Ganada |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
-| 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
