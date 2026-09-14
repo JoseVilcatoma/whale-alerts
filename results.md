@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 22:47:55 (hora de Perú)
+Actualizado: 2026-09-13 22:50:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2747**  ($148,306,745 en total)
-- Resueltas: **2718** — 1627 ganadas / 1091 perdidas (**60%** de acierto)
-- Pendientes: 15
+- Resueltas: **2729** — 1638 ganadas / 1091 perdidas (**60%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 392
 
 ### Balance
 
-- **Resultado de los apostadores: +$569,934** sobre $147,031,183 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,932** sobre $267,800 (ROI **-3.3%**)
+- **Resultado de los apostadores: +$761,477** sobre $147,628,181 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,565** sobre $268,900 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,14 +24,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 208 | 110 | 4 | 65% | $21,237,651 | +$1,344,100 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 2 | 66% | $21,237,651 | +$1,382,630 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 74 | 63 | 1 | 54% | $5,738,874 | -$170,085 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
-| wr0ngw4yb3tt0r | 31 | 25 | 4 | 55% | $3,305,080 | -$380,752 |
+| wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | vito3corleone | 13 | 8 | 0 | 62% | $1,691,346 | +$1,052,920 |
 | BrotherObama | 13 | 17 | 1 | 43% | $1,514,448 | +$74,064 |
 | kilian7kilian | 7 | 2 | 0 | 78% | $1,488,789 | +$151,426 |
-| ferrariChampions2026 | 21 | 14 | 1 | 60% | $1,461,132 | -$492,609 |
+| ferrariChampions2026 | 22 | 14 | 0 | 61% | $1,461,132 | -$474,852 |
 | jjj1995 | 7 | 3 | 0 | 70% | $1,413,608 | +$384,321 |
 | 00gringo00 | 7 | 1 | 0 | 88% | $1,334,367 | +$547,154 |
 | 0xcC32068E0D0b19790e3376Bc1751552ADccA92d2-1780947291040 | 19 | 2 | 0 | 90% | $1,333,966 | +$53,996 |
@@ -71,17 +71,17 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
-| curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.11 (90¢) | $40,275 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.12 (89¢) | $53,742 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Cowboys vs. Giants | Giants | 1.25 (80¢) | $28,350 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.37 (73¢) | $30,150 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Cowboys vs. Giants | Giants | 1.33 (75¢) | $53,271 | — | ⏳ Pendiente |
-| cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | — | ⏳ Pendiente |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | — | ⏳ Pendiente |
+| itsonlyamatteroftime | Cowboys vs. Giants | Giants | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
+| curie | Cowboys vs. Giants | Giants | 1.16 (86¢) | $135,450 | +$22,050 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.11 (90¢) | $40,275 | +$4,475 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.12 (89¢) | $53,742 | +$6,642 | ✅ Ganada |
+| 0x6db5…e279 | Cowboys vs. Giants | Giants | 1.25 (80¢) | $28,350 | +$7,087 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.37 (73¢) | $30,150 | +$11,152 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | +$7,694 | ✅ Ganada |
+| ferrariChampions2026 | Cowboys vs. Giants | Giants | 1.33 (75¢) | $53,271 | +$17,757 | ✅ Ganada |
+| cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | +$53,606 | ✅ Ganada |
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | +$31,301 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | +$27,378 | ✅ Ganada |
 | TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | — | ⏳ Pendiente |
 | wigglew | Will Philadelphia Union win on 2026-09-13? | No | 1.82 (55¢) | $25,300 | -$25,300 | ❌ Perdida |
