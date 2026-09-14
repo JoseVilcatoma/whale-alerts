@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 20:53:13 (hora de Perú)
+Actualizado: 2026-09-13 20:55:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2737**  ($147,738,241 en total)
+- Apuestas registradas: **2738**  ($147,801,791 en total)
 - Resueltas: **2716** — 1626 ganadas / 1090 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 391
 
 ### Balance
@@ -32,7 +32,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
 | pleaseplease123 | 55 | 36 | 0 | 60% | $3,914,388 | +$659,216 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| wr0ngw4yb3tt0r | 31 | 25 | 0 | 55% | $3,120,235 | -$380,752 |
+| wr0ngw4yb3tt0r | 31 | 25 | 1 | 55% | $3,183,785 | -$380,752 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Sassy-Bucket | 24 | 25 | 0 | 49% | $2,427,903 | -$112,979 |
 | Diabolical-Prize | 22 | 25 | 0 | 47% | $2,376,030 | -$301,111 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | — | ⏳ Pendiente |
 | TKD44 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cowboys vs. Giants: O/U 47.5 | Over 47.5 | 1.92 (52¢) | $37,956 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 391 en total)_
 | jaytee158 | LoL: LOUD vs paiN Gaming (BO5) - CBLOL Playoffs | LOUD | 1.27 (79¢) | $27,763 | +$7,380 | ✅ Ganada |
 | Flaznorp | Spread: Manchester City FC (-1.5) | Manchester United FC | 1.32 (76¢) | $43,553 | +$13,754 | ✅ Ganada |
 | 0x2Cc8Cc54F50DbB45fE346612821CA93B6E93262B-1780571709186 | Will SV 07 Elversberg win on 2026-09-13? | No | 1.06 (94¢) | $77,846 | +$4,969 | ✅ Ganada |
-| SDTrading | Spread: Bills (-1.5) | Texans | 1.96 (51¢) | $25,014 | -$25,014 | ❌ Perdida |
