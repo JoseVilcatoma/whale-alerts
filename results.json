@@ -41297,5 +41297,20 @@
     "status": "won",
     "ultimo_fill": 1789355986,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5620,
+    "timestamp": 1789393552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-canas-blancan-2026-09-14",
+    "title": "Biella: Alejandro Moro Canas vs Geoffrey Blancaneaux",
+    "outcome": "Alejandro Moro Canas",
+    "side": "BUY",
+    "usd": 28798.550000000003,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1789393552,
+    "fills": 1
   }
 ]
