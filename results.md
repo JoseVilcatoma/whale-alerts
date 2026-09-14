@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 14:48:14 (hora de Perú)
+Actualizado: 2026-09-14 14:50:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2751**  ($148,583,520 en total)
+- Apuestas registradas: **2752**  ($148,616,916 en total)
 - Resueltas: **2737** — 1644 ganadas / 1093 perdidas (**60%** de acierto)
-- Pendientes: 0
+- Pendientes: 1
 - Apostadores distintos: 392
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
 | phonesculptor | Will Torino FC win on 2026-09-14? | No | 1.15 (87¢) | $114,052 | +$17,042 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 392 en total)_
 | gwhivan | Will FC Bayern München win on 2026-09-13? | Yes | 1.09 (92¢) | $25,000 | +$2,174 | ✅ Ganada |
 | Feromont | Spread: Bills (-1.5) | Bills | 2.04 (49¢) | $70,660 | +$73,544 | ✅ Ganada |
 | Feromont | Spread: Steelers (-6.5) | Falcons | 1.96 (51¢) | $25,399 | -$25,399 | ❌ Perdida |
-| christianox | Ravens vs. Colts | Ravens | 1.69 (59¢) | $29,500 | +$20,500 | ✅ Ganada |
