@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-13 19:04:14 (hora de Perú)
+Actualizado: 2026-09-13 19:06:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2731**  ($147,559,054 en total)
-- Resueltas: **2701** — 1619 ganadas / 1082 perdidas (**60%** de acierto)
-- Pendientes: 16
+- Resueltas: **2702** — 1620 ganadas / 1082 perdidas (**60%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 390
 
 ### Balance
 
-- **Resultado de los apostadores: +$600,320** sobre $146,248,798 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,636** sobre $266,100 (ROI **-3.2%**)
+- **Resultado de los apostadores: +$620,320** sobre $146,284,354 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$8,580** sobre $266,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 54 | 35 | 2 | 61% | $3,914,388 | +$709,316 |
+| pleaseplease123 | 55 | 35 | 1 | 61% | $3,914,388 | +$729,316 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | wr0ngw4yb3tt0r | 31 | 24 | 1 | 56% | $3,120,235 | -$351,774 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -98,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 390 en total)_
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | — | ⏳ Pendiente |
 | theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | +$17,864 | ✅ Ganada |
 | Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
-| pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | — | ⏳ Pendiente |
+| pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | +$20,000 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders | 2.08 (48¢) | $28,414 | — | ⏳ Pendiente |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions | 1.19 (84¢) | $29,884 | +$5,692 | ✅ Ganada |
 | MonsieurDimanche | US Open ATP: Alexander Zverev vs Ben Shelton | Ben Shelton | 2.38 (42¢) | $89,831 | -$89,831 | ❌ Perdida |
