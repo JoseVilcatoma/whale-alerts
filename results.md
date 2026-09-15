@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 10:24:39 (hora de Perú)
+Actualizado: 2026-09-15 10:26:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2786**  ($150,492,658 en total)
-- Resueltas: **2759** — 1659 ganadas / 1100 perdidas (**60%** de acierto)
+- Apuestas registradas: **2787**  ($150,537,555 en total)
+- Resueltas: **2760** — 1660 ganadas / 1100 perdidas (**60%** de acierto)
 - Pendientes: 13
 - Apostadores distintos: 395
 
 ### Balance
 
-- **Resultado de los apostadores: +$829,534** sobre $149,007,419 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,252** sobre $271,600 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$835,062** sobre $149,057,174 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,241** sobre $271,700 (ROI **-3.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.06 (94¢) | $44,897 | — | ⏳ Pendiente |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | — | ⏳ Pendiente |
 | gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | — | ⏳ Pendiente |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | — | ⏳ Pendiente |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | — | ⏳ Pendiente |
 | jaytee158 | Afghanistan Tour of India T20s: India vs Afghanistan | India | 1.11 (90¢) | $25,406 | — | ⏳ Pendiente |
-| watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | — | ⏳ Pendiente |
+| watcherz88 | Valencia: Oksana Selekhmeteva vs Nastasja Schunk | Nastasja Schunk | 1.11 (90¢) | $49,755 | +$5,528 | ✅ Ganada |
 | Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | — | ⏳ Pendiente |
 | kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | — | ⏳ Pendiente |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 395 en total)_
 | 3648393489047 | Packers vs. Vikings | Vikings | 1.10 (91¢) | $47,126 | +$4,661 | ✅ Ganada |
 | kimi1986 | San Diego Padres vs. San Francisco Giants: O/U 7.5 | Under 7.5 | 1.96 (51¢) | $33,150 | -$33,150 | ❌ Perdida |
 | ethanaz | Packers vs. Vikings | Packers | 1.15 (87¢) | $51,024 | -$51,024 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Dolphins vs. Raiders | Raiders | 1.14 (88¢) | $89,000 | +$12,136 | ✅ Ganada |

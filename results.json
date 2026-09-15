@@ -41780,7 +41780,7 @@
     "side": "BUY",
     "usd": 49755.07999746456,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1789481815,
     "fills": 1
   },
@@ -41887,6 +41887,21 @@
     "odds_at_bet": 40,
     "status": "pending",
     "ultimo_fill": 1789485826,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 5690,
+    "timestamp": 1789485906,
+    "username": "HVAB",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-lajovic-dedurap-2026-09-14",
+    "title": "Szczecin: Dusan Lajovic vs Diego Dedura-Palomero",
+    "outcome": "Diego Dedura-Palomero",
+    "side": "BUY",
+    "usd": 44896.699866999996,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1789485906,
     "fills": 1
   }
 ]
