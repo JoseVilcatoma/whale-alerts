@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 20:54:54 (hora de Perú)
+Actualizado: 2026-09-14 20:56:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2763**  ($149,162,403 en total)
-- Resueltas: **2741** — 1646 ganadas / 1095 perdidas (**60%** de acierto)
+- Apuestas registradas: **2765**  ($149,214,719 en total)
+- Resueltas: **2743** — 1646 ganadas / 1097 perdidas (**60%** de acierto)
 - Pendientes: 8
-- Apostadores distintos: 393
+- Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$826,056** sobre $148,182,690 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,427** sobre $270,000 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$751,771** sobre $148,256,974 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,627** sobre $270,200 (ROI **-3.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 2 | 66% | $21,237,651 | +$1,382,630 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 3 | 66% | $21,263,651 | +$1,382,630 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | totoro3miyazaki | 29 | 17 | 0 | 63% | $4,909,700 | -$140,999 |
 | ripley86alien | 30 | 13 | 0 | 70% | $4,594,493 | +$1,882,828 |
-| pleaseplease123 | 55 | 36 | 4 | 60% | $4,150,547 | +$659,216 |
+| pleaseplease123 | 55 | 38 | 2 | 59% | $4,150,547 | +$584,932 |
 | wr0ngw4yb3tt0r | 35 | 25 | 0 | 58% | $3,305,080 | -$330,640 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -65,23 +65,25 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
 
-_(mostrando los 40 de mayor monto, de 393 en total)_
+_(mostrando los 40 de mayor monto, de 394 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | — | ⏳ Pendiente |
 | fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
 | ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
-| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | — | ⏳ Pendiente |
+| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | — | ⏳ Pendiente |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels | 2.00 (50¢) | $94,813 | — | ⏳ Pendiente |
 | 0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396 | Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend | Tatjana Maria | 1.92 (52¢) | $25,992 | -$25,992 | ❌ Perdida |
-| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | — | ⏳ Pendiente |
+| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.96 (51¢) | $31,766 | -$31,766 | ❌ Perdida |
 | AGUGava | Red Star FC vs. FC Metz: O/U 1.5 | Under 1.5 | 1.69 (59¢) | $33,396 | +$23,207 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-14? | No | 2.94 (34¢) | $34,000 | -$34,000 | ❌ Perdida |
 | 00gringo00 | Will AS Roma win on 2026-09-14? | Yes | 1.56 (64¢) | $99,925 | +$56,208 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
 | Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | +$144,923 | ✅ Ganada |
 | theowalcott | Spread: Sporting CP (-1.5) | FC Famalicão | 1.67 (60¢) | $26,796 | +$17,864 | ✅ Ganada |
-| Zombie77 | Will Paris Saint-Germain FC win on 2026-09-13? | Yes | 1.23 (81¢) | $36,726 | -$453 | 💰 Vendida antes |
-| pleaseplease123 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox | 1.56 (64¢) | $35,556 | +$20,000 | ✅ Ganada |
