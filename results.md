@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 14:35:37 (hora de Perú)
+Actualizado: 2026-09-15 14:37:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2800**  ($151,068,508 en total)
+- Apuestas registradas: **2801**  ($151,098,185 en total)
 - Resueltas: **2767** — 1665 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 397
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 397 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| afraz | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $29,676 | — | ⏳ Pendiente |
 | Zombie77 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,029 | — | ⏳ Pendiente |
 | 177-letsgo | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $37,600 | — | ⏳ Pendiente |
 | ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 397 en total)_
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.12 (89¢) | $53,742 | +$6,642 | ✅ Ganada |
 | 0x6db5…e279 | Cowboys vs. Giants | Giants | 1.25 (80¢) | $28,350 | +$7,087 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.37 (73¢) | $30,150 | +$11,152 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | +$7,694 | ✅ Ganada |
