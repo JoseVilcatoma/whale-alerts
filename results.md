@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 23:44:09 (hora de Perú)
+Actualizado: 2026-09-14 23:46:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2768**  ($149,370,991 en total)
-- Resueltas: **2747** — 1650 ganadas / 1097 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2748** — 1651 ganadas / 1097 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$893,883** sobre $148,466,594 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,418** sobre $270,600 (ROI **-3.1%**)
+- **Resultado de los apostadores: +$915,414** sobre $148,492,910 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,337** sobre $270,700 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | — | ⏳ Pendiente |
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
-| pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | — | ⏳ Pendiente |
+| pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | +$21,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | +$3,542 | ✅ Ganada |
 | cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | — | ⏳ Pendiente |
