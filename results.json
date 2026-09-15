@@ -41599,5 +41599,20 @@
     "status": "pending",
     "ultimo_fill": 1789446043,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 5657,
+    "timestamp": 1789447439,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "lal-elc-rea-2026-09-15-rea",
+    "title": "Will Real Madrid CF win on 2026-09-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 45762.55530000001,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1789447439,
+    "fills": 1
   }
 ]
