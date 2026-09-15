@@ -41903,5 +41903,20 @@
     "status": "won",
     "ultimo_fill": 1789485906,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5695,
+    "timestamp": 1789488780,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-acosta-galan-2026-09-14",
+    "title": "Szczecin: Facundo Acosta vs Daniel Galan",
+    "outcome": "Facundo Acosta",
+    "side": "BUY",
+    "usd": 27900.0,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1789488780,
+    "fills": 1
   }
 ]
