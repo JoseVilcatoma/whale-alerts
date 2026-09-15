@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 00:23:05 (hora de Perú)
+Actualizado: 2026-09-15 00:25:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2768**  ($149,370,991 en total)
-- Resueltas: **2751** — 1653 ganadas / 1098 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Resueltas: **2753** — 1654 ganadas / 1099 perdidas (**60%** de acierto)
+- Pendientes: 1
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$923,775** sobre $148,656,481 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,262** sobre $271,000 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$831,562** sobre $148,805,011 apostados (ROI **+0.6%**)
+- Copiando $100 fijo en cada una: **-$8,277** sobre $271,200 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,10 +77,10 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | +$21,531 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | fivethirty | Baltimore Orioles vs. New York Mets | Baltimore Orioles | 1.12 (89¢) | $28,657 | +$3,542 | ✅ Ganada |
-| cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | — | ⏳ Pendiente |
+| cosmicxbt | Spread: Chiefs (-3.5) | Broncos | 1.67 (60¢) | $118,119 | -$118,119 | ❌ Perdida |
 | fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
 | ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | +$39,313 | ✅ Ganada |
-| 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
+| 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | +$25,906 | ✅ Ganada |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under 9.5 | 1.92 (52¢) | $42,518 | -$42,518 | ❌ Perdida |
 | pleaseplease123 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks | 1.82 (55¢) | $67,062 | +$54,869 | ✅ Ganada |
