@@ -41509,5 +41509,20 @@
     "fills": 1,
     "profit_usd": -681.8,
     "precio_salida": 86
+  },
+  {
+    "telegram_msg_id": 5644,
+    "timestamp": 1789433942,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-den-kc-2026-09-15-spread-home-3pt5",
+    "title": "Spread: Chiefs (-3.5)",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "usd": 118118.706,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1789433942,
+    "fills": 1
   }
 ]
