@@ -42323,5 +42323,20 @@
     "status": "pending",
     "ultimo_fill": 1789512973,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5751,
+    "timestamp": 1789513808,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "mlb-det-tor-2026-09-15",
+    "title": "Detroit Tigers vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "usd": 252118.67760000002,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1789513808,
+    "fills": 1
   }
 ]
