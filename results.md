@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 19:47:17 (hora de Perú)
+Actualizado: 2026-09-14 19:49:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2761**  ($149,015,627 en total)
-- Resueltas: **2740** — 1646 ganadas / 1094 perdidas (**60%** de acierto)
-- Pendientes: 7
+- Resueltas: **2741** — 1646 ganadas / 1095 perdidas (**60%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 393
 
 ### Balance
 
-- **Resultado de los apostadores: +$826,737** sobre $148,152,691 apostados (ROI **+0.6%**)
+- **Resultado de los apostadores: +$826,056** sobre $148,182,690 apostados (ROI **+0.6%**)
 - Copiando $100 fijo en cada una: **-$8,427** sobre $270,000 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 393 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | — | ⏳ Pendiente |
+| fivethirty | Guadalajara Open Akron: Magdalena Frech vs Nao Hibino | Magdalena Frech | 1.14 (88¢) | $29,999 | -$682 | 💰 Vendida antes |
 | ndb1 | Broncos vs. Chiefs | Chiefs | 1.85 (54¢) | $46,150 | — | ⏳ Pendiente |
 | 0x8fb23b3c8041533008CB67ffcD87dEb00a7aA9d7-1775253556546 | Broncos vs. Chiefs: O/U 43.5 | Under 43.5 | 1.85 (54¢) | $30,411 | — | ⏳ Pendiente |
 | fivethirty | Tiburon: Alastair Gray vs Patrick Maloney | Patrick Maloney | 1.15 (87¢) | $30,000 | +$4,483 | ✅ Ganada |
