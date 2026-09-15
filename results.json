@@ -41614,5 +41614,20 @@
     "status": "pending",
     "ultimo_fill": 1789447439,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 5664,
+    "timestamp": 1789458169,
+    "username": "mimi121",
+    "wallet": "0x14af7564566edfd07d1996ae8b08d6235d7aca2c",
+    "slug": "cs2-brute-g2a-2026-09-15",
+    "title": "Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage",
+    "outcome": "Brute",
+    "side": "BUY",
+    "usd": 25056.915673000003,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1789458169,
+    "fills": 1
   }
 ]

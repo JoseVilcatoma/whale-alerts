@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 02:41:22 (hora de Perú)
+Actualizado: 2026-09-15 02:43:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2768**  ($149,370,991 en total)
+- Apuestas registradas: **2769**  ($149,396,048 en total)
 - Resueltas: **2753** — 1654 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 1
+- Pendientes: 2
 - Apostadores distintos: 394
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | — | ⏳ Pendiente |
 | mooseborzoi | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $45,763 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | -$70,509 | ❌ Perdida |
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | -$60,987 | ❌ Perdida |
 | jaytee158 | Cardinals vs. Chargers | Chargers | 1.22 (82¢) | $49,995 | -$49,995 | ❌ Perdida |
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
-| fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
