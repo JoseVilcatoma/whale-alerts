@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 17:43:23 (hora de Perú)
+Actualizado: 2026-09-15 17:45:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2814**  ($151,630,470 en total)
-- Resueltas: **2786** — 1680 ganadas / 1106 perdidas (**60%** de acierto)
-- Pendientes: 14
+- Resueltas: **2787** — 1681 ganadas / 1106 perdidas (**60%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 398
 
 ### Balance
 
-- **Resultado de los apostadores: +$555,119** sobre $150,545,752 apostados (ROI **+0.4%**)
-- Copiando $100 fijo en cada una: **-$8,007** sobre $274,300 (ROI **-2.9%**)
+- **Resultado de los apostadores: +$561,619** sobre $150,589,250 apostados (ROI **+0.4%**)
+- Copiando $100 fijo en cada una: **-$7,992** sobre $274,400 (ROI **-2.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 398 en total)_
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.67 (60¢) | $57,686 | -$57,686 | ❌ Perdida |
 | gambamaster | Will Deportivo Alavés win on 2026-09-15? | No | 2.50 (40¢) | $50,843 | +$76,264 | ✅ Ganada |
 | HVAB | Szczecin: Dusan Lajovic vs Diego Dedura-Palomero | Diego Dedura-Palomero | 1.27 (79¢) | $34,790 | +$9,248 | ✅ Ganada |
-| jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | — | ⏳ Pendiente |
+| jaytee158 | LoL: Skillcamp Esport vs Project Conquerors (BO5) - LFL Promotion Playoffs | Skillcamp Esport | 1.15 (87¢) | $43,497 | +$6,500 | ✅ Ganada |
 | SS787878 | Counter-Strike: FORZE Reload vs UPGRADE (BO3) - CIS LAN Championship Playoffs | FORZE Reload | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | watcherz88 | Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita | Darja Semenistaja | 1.27 (79¢) | $46,309 | +$12,310 | ✅ Ganada |
 | 00gringo00 | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.69 (59¢) | $319,948 | -$319,948 | ❌ Perdida |
