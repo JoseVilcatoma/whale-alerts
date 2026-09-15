@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 05:02:06 (hora de Perú)
+Actualizado: 2026-09-15 05:04:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2771**  ($149,526,677 en total)
+- Apuestas registradas: **2772**  ($149,555,028 en total)
 - Resueltas: **2753** — 1654 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 394
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | — | ⏳ Pendiente |
 | fivethirty | Guangzhou: Jake Delaney vs Hikaru Shiraishi | Jake Delaney | 1.22 (82¢) | $30,000 | — | ⏳ Pendiente |
 | surfandturf | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $100,630 | — | ⏳ Pendiente |
 | mimi121 | Counter-Strike: Brute vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage | Brute | 1.79 (56¢) | $25,057 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | -$28,978 | ❌ Perdida |
 | 177-letsgo | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.10 (91¢) | $27,300 | +$2,700 | ✅ Ganada |
 | SS787878 | Cardinals vs. Chargers: O/U 46.5 | Over 46.5 | 1.89 (53¢) | $27,000 | -$27,000 | ❌ Perdida |
-| Sassy-Bucket | Packers vs. Vikings | Packers | 2.27 (44¢) | $60,987 | -$60,987 | ❌ Perdida |
