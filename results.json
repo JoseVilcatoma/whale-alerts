@@ -41708,5 +41708,20 @@
     "fills": 1,
     "profit_usd": 3030.3,
     "precio_salida": 71
+  },
+  {
+    "telegram_msg_id": 5675,
+    "timestamp": 1789470710,
+    "username": "fivethirty",
+    "wallet": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
+    "slug": "wta-linana-llorca-2026-09-14",
+    "title": "Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca",
+    "outcome": "Lucia Cortez Llorca",
+    "side": "BUY",
+    "usd": 39999.999995,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1789470710,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 06:11:38 (hora de Perú)
+Actualizado: 2026-09-15 06:13:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2774**  ($149,634,028 en total)
+- Apuestas registradas: **2775**  ($149,674,028 en total)
 - Resueltas: **2757** — 1658 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 394
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | — | ⏳ Pendiente |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | fivethirty | Saints vs. Lions | Lions | 1.28 (78¢) | $28,368 | +$8,001 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Dolphins vs. Raiders | Raiders | 1.67 (60¢) | $45,960 | +$30,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Packers vs. Vikings | Vikings | 1.79 (56¢) | $52,114 | +$40,947 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Packers vs. Vikings: O/U 45.5 | Under 45.5 | 2.00 (50¢) | $28,978 | -$28,978 | ❌ Perdida |
