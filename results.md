@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 14:06:48 (hora de Perú)
+Actualizado: 2026-09-15 14:08:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2796**  ($150,899,592 en total)
+- Apuestas registradas: **2798**  ($150,985,879 en total)
 - Resueltas: **2766** — 1664 ganadas / 1102 perdidas (**60%** de acierto)
-- Pendientes: 16
-- Apostadores distintos: 396
+- Pendientes: 18
+- Apostadores distintos: 397
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BreakTheBank | 0 | 7 | 0 | ⚠️ 0% (7) | $612,966 | -$612,966 |
 | texaskid | 5 | 7 | 0 | 42% | $602,221 | -$118,976 |
 
-_(mostrando los 40 de mayor monto, de 396 en total)_
+_(mostrando los 40 de mayor monto, de 397 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ptrck7 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.22 (82¢) | $47,015 | — | ⏳ Pendiente |
+| 0xsven | Will Arsenal FC win on 2026-09-15? | Yes | 1.15 (87¢) | $39,273 | — | ⏳ Pendiente |
 | beeemw | Will Elche CF win on 2026-09-15? | No | 1.06 (94¢) | $67,855 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $27,945 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Real Madrid CF win on 2026-09-15? | Yes | 1.23 (81¢) | $30,125 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 396 en total)_
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.28 (78¢) | $27,278 | +$7,694 | ✅ Ganada |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants | 1.33 (75¢) | $53,271 | +$17,757 | ✅ Ganada |
 | cosmicxbt | Cowboys vs. Giants | Giants | 1.49 (67¢) | $108,837 | +$53,606 | ✅ Ganada |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants | 1.49 (67¢) | $63,550 | +$31,301 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cowboys vs. Giants | Giants | 1.96 (51¢) | $28,495 | +$27,378 | ✅ Ganada |
