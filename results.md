@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-14 23:19:29 (hora de Perú)
+Actualizado: 2026-09-14 23:21:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **2766**  ($149,254,719 en total)
+- Apuestas registradas: **2767**  ($149,325,228 en total)
 - Resueltas: **2746** — 1649 ganadas / 1097 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 394
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 3 | 66% | $21,263,651 | +$1,382,630 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 210 | 110 | 4 | 66% | $21,334,160 | +$1,382,630 |
 | 3edmond.dantes | 23 | 20 | 0 | 53% | $6,181,086 | -$1,657,043 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 75 | 63 | 0 | 54% | $5,738,874 | -$135,048 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins | 1.20 (83¢) | $70,509 | — | ⏳ Pendiente |
 | fivethirty | Broncos vs. Chiefs | Chiefs | 1.11 (90¢) | $40,000 | +$4,444 | ✅ Ganada |
 | pilotlady | Broncos vs. Chiefs: O/U 40.5 | Over 40.5 | 1.82 (55¢) | $26,316 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Broncos vs. Chiefs: O/U 41.5 | Under 41.5 | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 | 0F62 | US Open ATP: Alexander Zverev vs Ben Shelton | Alexander Zverev | 1.09 (92¢) | $52,804 | +$4,592 | ✅ Ganada |
 | fivethirty | Bills vs. Texans | Bills | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | matanovik | Falcons vs. Steelers | Steelers | 1.23 (81¢) | $40,015 | +$9,386 | ✅ Ganada |
-| Kch-Temp | Spread: Eagles (-4.5) | Commanders | 2.17 (46¢) | $123,453 | +$144,923 | ✅ Ganada |
