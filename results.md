@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-09-15 08:08:15 (hora de Perú)
+Actualizado: 2026-09-15 08:10:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **2777**  ($149,833,422 en total)
-- Resueltas: **2757** — 1658 ganadas / 1099 perdidas (**60%** de acierto)
-- Pendientes: 6
+- Resueltas: **2758** — 1658 ganadas / 1100 perdidas (**60%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 394
 
 ### Balance
 
-- **Resultado de los apostadores: +$849,846** sobre $148,942,362 apostados (ROI **+0.6%**)
-- Copiando $100 fijo en cada una: **-$8,230** sobre $271,400 (ROI **-3.0%**)
+- **Resultado de los apostadores: +$809,846** sobre $148,982,362 apostados (ROI **+0.5%**)
+- Copiando $100 fijo en cada una: **-$8,330** sobre $271,500 (ROI **-3.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 394 en total)_
 |---|---|---|---|---|---|---|
 | Joey25 | Will Deportivo Alavés win on 2026-09-15? | No | 2.27 (44¢) | $31,692 | — | ⏳ Pendiente |
 | kindar | Will Deportivo Alavés win on 2026-09-15? | Yes | 1.72 (58¢) | $127,702 | — | ⏳ Pendiente |
-| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | — | ⏳ Pendiente |
+| fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.16 (86¢) | $40,000 | -$40,000 | ❌ Perdida |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.52 (66¢) | $40,000 | +$3,030 | 💰 Vendida antes |
 | fivethirty | Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca | Lucia Cortez Llorca | 1.35 (74¢) | $39,000 | +$1,581 | 💰 Vendida antes |
 | fivethirty | Guangzhou: Fajing Sun vs Alexis Galarneau | Fajing Sun | 1.25 (80¢) | $28,350 | +$7,088 | ✅ Ganada |
